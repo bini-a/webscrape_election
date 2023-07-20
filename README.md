@@ -8,7 +8,7 @@ To use this project, follow these steps:
 
 - Ensure you have R and the necessary dependencies installed.
 - Clone this repository to your local machine.
-- Navigate to the state folder you are interested in (e.g., IN or FL).
+- Navigate to the state folder you are interested in (e.g., IN or FL) and then code folder.
 - Open the run_all.R script.
 - Execute the run_all.R script to initiate the data collection process for the chosen state.
 - Once the script completes, you will find the collected and processed data in the data folder.
