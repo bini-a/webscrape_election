@@ -1,0 +1,583 @@
+ElectionDate	PartyCode	PartyName	RaceCode	OfficeDesc	CountyCode	CountyName	Juris1num	Juris2num	Precincts	PrecinctsReporting	CanNameLast	CanNameFirst	CanNameMiddle	CanVotes
+10/5/1978	DEM	Democrat	USR	United States Representative	BAY	Bay	001		0	0	Golden	Curtis		3087
+10/5/1978	DEM	Democrat	USR	United States Representative	ESC	Escambia	001		0	0	Golden	Curtis		15532
+10/5/1978	DEM	Democrat	USR	United States Representative	GUL	Gulf	001		0	0	Golden	Curtis		742
+10/5/1978	DEM	Democrat	USR	United States Representative	HOL	Holmes	001		0	0	Golden	Curtis		1289
+10/5/1978	DEM	Democrat	USR	United States Representative	OKA	Okaloosa	001		0	0	Golden	Curtis		5831
+10/5/1978	DEM	Democrat	USR	United States Representative	SAN	Santa Rosa	001		0	0	Golden	Curtis		6622
+10/5/1978	DEM	Democrat	USR	United States Representative	WAL	Walton	001		0	0	Golden	Curtis		1803
+10/5/1978	DEM	Democrat	USR	United States Representative	WAS	Washington	001		0	0	Golden	Curtis		815
+10/5/1978	DEM	Democrat	USR	United States Representative	BAY	Bay	001		0	0	Hutto	Earl		13203
+10/5/1978	DEM	Democrat	USR	United States Representative	ESC	Escambia	001		0	0	Hutto	Earl		19478
+10/5/1978	DEM	Democrat	USR	United States Representative	GUL	Gulf	001		0	0	Hutto	Earl		2741
+10/5/1978	DEM	Democrat	USR	United States Representative	HOL	Holmes	001		0	0	Hutto	Earl		2425
+10/5/1978	DEM	Democrat	USR	United States Representative	OKA	Okaloosa	001		0	0	Hutto	Earl		7669
+10/5/1978	DEM	Democrat	USR	United States Representative	SAN	Santa Rosa	001		0	0	Hutto	Earl		4967
+10/5/1978	DEM	Democrat	USR	United States Representative	WAL	Walton	001		0	0	Hutto	Earl		3911
+10/5/1978	DEM	Democrat	USR	United States Representative	WAS	Washington	001		0	0	Hutto	Earl		3958
+10/5/1978	DEM	Democrat	USR	United States Representative	CIT	Citrus	005		0	0	Best	David		3719
+10/5/1978	DEM	Democrat	USR	United States Representative	HER	Hernando	005		0	0	Best	David		2796
+10/5/1978	DEM	Democrat	USR	United States Representative	LAK	Lake	005		0	0	Best	David		4076
+10/5/1978	DEM	Democrat	USR	United States Representative	ORA	Orange	005		0	0	Best	David		6370
+10/5/1978	DEM	Democrat	USR	United States Representative	PAS	Pasco	005		0	0	Best	David		5001
+10/5/1978	DEM	Democrat	USR	United States Representative	PIN	Pinellas	005		0	0	Best	David		3053
+10/5/1978	DEM	Democrat	USR	United States Representative	SEM	Seminole	005		0	0	Best	David		5932
+10/5/1978	DEM	Democrat	USR	United States Representative	SUM	Sumter	005		0	0	Best	David		1626
+10/5/1978	DEM	Democrat	USR	United States Representative	CIT	Citrus	005		0	0	Olson	Mike		3079
+10/5/1978	DEM	Democrat	USR	United States Representative	HER	Hernando	005		0	0	Olson	Mike		2720
+10/5/1978	DEM	Democrat	USR	United States Representative	LAK	Lake	005		0	0	Olson	Mike		2222
+10/5/1978	DEM	Democrat	USR	United States Representative	ORA	Orange	005		0	0	Olson	Mike		2237
+10/5/1978	DEM	Democrat	USR	United States Representative	PAS	Pasco	005		0	0	Olson	Mike		8293
+10/5/1978	DEM	Democrat	USR	United States Representative	PIN	Pinellas	005		0	0	Olson	Mike		3407
+10/5/1978	DEM	Democrat	USR	United States Representative	SEM	Seminole	005		0	0	Olson	Mike		1810
+10/5/1978	DEM	Democrat	USR	United States Representative	SUM	Sumter	005		0	0	Olson	Mike		1177
+10/5/1978	DEM	Democrat	USR	United States Representative	BRO	Broward	012		0	0	Adams	John		22816
+10/5/1978	DEM	Democrat	USR	United States Representative	BRO	Broward	012		0	0	Stack	Edward	'Ed' J.	25985
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	ALA	Alachua			0	0	Wayne Mixson	Bob Graham	/	10006
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	BAK	Baker			0	0	Wayne Mixson	Bob Graham	/	2250
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	BAY	Bay			0	0	Wayne Mixson	Bob Graham	/	9743
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRA	Bradford			0	0	Wayne Mixson	Bob Graham	/	1997
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRE	Brevard			0	0	Wayne Mixson	Bob Graham	/	9098
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRO	Broward			0	0	Wayne Mixson	Bob Graham	/	29002
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	CAL	Calhoun			0	0	Wayne Mixson	Bob Graham	/	2266
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	CHA	Charlotte			0	0	Wayne Mixson	Bob Graham	/	2342
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	CIT	Citrus			0	0	Wayne Mixson	Bob Graham	/	4024
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLA	Clay			0	0	Wayne Mixson	Bob Graham	/	3082
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLL	Collier			0	0	Wayne Mixson	Bob Graham	/	1304
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLM	Columbia			0	0	Wayne Mixson	Bob Graham	/	2678
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	DES	Desoto			0	0	Wayne Mixson	Bob Graham	/	1136
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	DIX	Dixie			0	0	Wayne Mixson	Bob Graham	/	1437
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	DUV	Duval			0	0	Wayne Mixson	Bob Graham	/	40839
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	ESC	Escambia			0	0	Wayne Mixson	Bob Graham	/	17325
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	FLA	Flagler			0	0	Wayne Mixson	Bob Graham	/	630
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	FRA	Franklin			0	0	Wayne Mixson	Bob Graham	/	1400
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	GAD	Gadsden			0	0	Wayne Mixson	Bob Graham	/	4162
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	GIL	Gilchrist			0	0	Wayne Mixson	Bob Graham	/	590
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	GLA	Glades			0	0	Wayne Mixson	Bob Graham	/	863
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	GUL	Gulf			0	0	Wayne Mixson	Bob Graham	/	2617
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	HAM	Hamilton			0	0	Wayne Mixson	Bob Graham	/	1386
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	HAR	Hardee			0	0	Wayne Mixson	Bob Graham	/	1927
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	HEN	Hendry			0	0	Wayne Mixson	Bob Graham	/	1346
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	HER	Hernando			0	0	Wayne Mixson	Bob Graham	/	3482
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	HIG	Highlands			0	0	Wayne Mixson	Bob Graham	/	3185
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	HIL	Hillsborough			0	0	Wayne Mixson	Bob Graham	/	35847
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	HOL	Holmes			0	0	Wayne Mixson	Bob Graham	/	3477
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	IND	Indian River			0	0	Wayne Mixson	Bob Graham	/	1523
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	JAC	Jackson			0	0	Wayne Mixson	Bob Graham	/	7582
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	JEF	Jefferson			0	0	Wayne Mixson	Bob Graham	/	1385
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	LAF	Lafayette			0	0	Wayne Mixson	Bob Graham	/	842
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	LAK	Lake			0	0	Wayne Mixson	Bob Graham	/	3676
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEE	Lee			0	0	Wayne Mixson	Bob Graham	/	7341
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEO	Leon			0	0	Wayne Mixson	Bob Graham	/	19418
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEV	Levy			0	0	Wayne Mixson	Bob Graham	/	1604
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	LIB	Liberty			0	0	Wayne Mixson	Bob Graham	/	1444
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	MAD	Madison			0	0	Wayne Mixson	Bob Graham	/	1777
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	MAN	Manatee			0	0	Wayne Mixson	Bob Graham	/	6569
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	MRN	Marion			0	0	Wayne Mixson	Bob Graham	/	7071
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	MRT	Martin			0	0	Wayne Mixson	Bob Graham	/	1968
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	DAD	Miami-Dade			0	0	Wayne Mixson	Bob Graham	/	58741
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	MON	Monroe			0	0	Wayne Mixson	Bob Graham	/	5391
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	NAS	Nassau			0	0	Wayne Mixson	Bob Graham	/	2636
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	OKA	Okaloosa			0	0	Wayne Mixson	Bob Graham	/	6765
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	OKE	Okeechobee			0	0	Wayne Mixson	Bob Graham	/	1580
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	ORA	Orange			0	0	Wayne Mixson	Bob Graham	/	17015
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	OSC	Osceola			0	0	Wayne Mixson	Bob Graham	/	1963
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	PAL	Palm Beach			0	0	Wayne Mixson	Bob Graham	/	21133
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	PAS	Pasco			0	0	Wayne Mixson	Bob Graham	/	8157
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	PIN	Pinellas			0	0	Wayne Mixson	Bob Graham	/	29138
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	POL	Polk			0	0	Wayne Mixson	Bob Graham	/	15913
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	PUT	Putnam			0	0	Wayne Mixson	Bob Graham	/	4597
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	SAN	Santa Rosa			0	0	Wayne Mixson	Bob Graham	/	6437
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	SAR	Sarasota			0	0	Wayne Mixson	Bob Graham	/	3897
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	SEM	Seminole			0	0	Wayne Mixson	Bob Graham	/	5101
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	STJ	St. Johns			0	0	Wayne Mixson	Bob Graham	/	3369
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	STL	St. Lucie			0	0	Wayne Mixson	Bob Graham	/	2645
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	SUM	Sumter			0	0	Wayne Mixson	Bob Graham	/	1593
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	SUW	Suwannee			0	0	Wayne Mixson	Bob Graham	/	2436
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	TAY	Taylor			0	0	Wayne Mixson	Bob Graham	/	2234
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	UNI	Union			0	0	Wayne Mixson	Bob Graham	/	858
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	VOL	Volusia			0	0	Wayne Mixson	Bob Graham	/	10541
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAK	Wakulla			0	0	Wayne Mixson	Bob Graham	/	1686
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAL	Walton			0	0	Wayne Mixson	Bob Graham	/	3744
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAS	Washington			0	0	Wayne Mixson	Bob Graham	/	3324
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	ALA	Alachua			0	0	Jim Glisson	Robert L. Shevin	/	5999
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	BAK	Baker			0	0	Jim Glisson	Robert L. Shevin	/	1584
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	BAY	Bay			0	0	Jim Glisson	Robert L. Shevin	/	6085
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRA	Bradford			0	0	Jim Glisson	Robert L. Shevin	/	1453
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRE	Brevard			0	0	Jim Glisson	Robert L. Shevin	/	9825
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRO	Broward			0	0	Jim Glisson	Robert L. Shevin	/	52182
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	CAL	Calhoun			0	0	Jim Glisson	Robert L. Shevin	/	590
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	CHA	Charlotte			0	0	Jim Glisson	Robert L. Shevin	/	2324
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	CIT	Citrus			0	0	Jim Glisson	Robert L. Shevin	/	3186
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLA	Clay			0	0	Jim Glisson	Robert L. Shevin	/	1912
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLL	Collier			0	0	Jim Glisson	Robert L. Shevin	/	1260
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLM	Columbia			0	0	Jim Glisson	Robert L. Shevin	/	1848
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	DES	Desoto			0	0	Jim Glisson	Robert L. Shevin	/	729
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	DIX	Dixie			0	0	Jim Glisson	Robert L. Shevin	/	1500
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	DUV	Duval			0	0	Jim Glisson	Robert L. Shevin	/	25965
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	ESC	Escambia			0	0	Jim Glisson	Robert L. Shevin	/	17382
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	FLA	Flagler			0	0	Jim Glisson	Robert L. Shevin	/	595
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	FRA	Franklin			0	0	Jim Glisson	Robert L. Shevin	/	1179
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	GAD	Gadsden			0	0	Jim Glisson	Robert L. Shevin	/	1767
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	GIL	Gilchrist			0	0	Jim Glisson	Robert L. Shevin	/	497
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	GLA	Glades			0	0	Jim Glisson	Robert L. Shevin	/	298
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	GUL	Gulf			0	0	Jim Glisson	Robert L. Shevin	/	725
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	HAM	Hamilton			0	0	Jim Glisson	Robert L. Shevin	/	743
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	HAR	Hardee			0	0	Jim Glisson	Robert L. Shevin	/	779
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	HEN	Hendry			0	0	Jim Glisson	Robert L. Shevin	/	651
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	HER	Hernando			0	0	Jim Glisson	Robert L. Shevin	/	2410
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	HIG	Highlands			0	0	Jim Glisson	Robert L. Shevin	/	1466
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	HIL	Hillsborough			0	0	Jim Glisson	Robert L. Shevin	/	25028
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	HOL	Holmes			0	0	Jim Glisson	Robert L. Shevin	/	1261
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	IND	Indian River			0	0	Jim Glisson	Robert L. Shevin	/	962
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	JAC	Jackson			0	0	Jim Glisson	Robert L. Shevin	/	1807
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	JEF	Jefferson			0	0	Jim Glisson	Robert L. Shevin	/	870
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	LAF	Lafayette			0	0	Jim Glisson	Robert L. Shevin	/	657
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	LAK	Lake			0	0	Jim Glisson	Robert L. Shevin	/	4230
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEE	Lee			0	0	Jim Glisson	Robert L. Shevin	/	7391
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEO	Leon			0	0	Jim Glisson	Robert L. Shevin	/	8407
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEV	Levy			0	0	Jim Glisson	Robert L. Shevin	/	1303
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	LIB	Liberty			0	0	Jim Glisson	Robert L. Shevin	/	626
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	MAD	Madison			0	0	Jim Glisson	Robert L. Shevin	/	1160
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	MAN	Manatee			0	0	Jim Glisson	Robert L. Shevin	/	4871
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	MRN	Marion			0	0	Jim Glisson	Robert L. Shevin	/	4748
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	MRT	Martin			0	0	Jim Glisson	Robert L. Shevin	/	1421
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	DAD	Miami-Dade			0	0	Jim Glisson	Robert L. Shevin	/	85127
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	MON	Monroe			0	0	Jim Glisson	Robert L. Shevin	/	4051
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	NAS	Nassau			0	0	Jim Glisson	Robert L. Shevin	/	1459
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	OKA	Okaloosa			0	0	Jim Glisson	Robert L. Shevin	/	6549
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	OKE	Okeechobee			0	0	Jim Glisson	Robert L. Shevin	/	852
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	ORA	Orange			0	0	Jim Glisson	Robert L. Shevin	/	13814
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	OSC	Osceola			0	0	Jim Glisson	Robert L. Shevin	/	1551
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	PAL	Palm Beach			0	0	Jim Glisson	Robert L. Shevin	/	21082
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	PAS	Pasco			0	0	Jim Glisson	Robert L. Shevin	/	5313
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	PIN	Pinellas			0	0	Jim Glisson	Robert L. Shevin	/	18454
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	POL	Polk			0	0	Jim Glisson	Robert L. Shevin	/	9053
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	PUT	Putnam			0	0	Jim Glisson	Robert L. Shevin	/	2683
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	SAN	Santa Rosa			0	0	Jim Glisson	Robert L. Shevin	/	4673
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	SAR	Sarasota			0	0	Jim Glisson	Robert L. Shevin	/	4945
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	SEM	Seminole			0	0	Jim Glisson	Robert L. Shevin	/	4429
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	STJ	St. Johns			0	0	Jim Glisson	Robert L. Shevin	/	2513
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	STL	St. Lucie			0	0	Jim Glisson	Robert L. Shevin	/	1884
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	SUM	Sumter			0	0	Jim Glisson	Robert L. Shevin	/	1655
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	SUW	Suwannee			0	0	Jim Glisson	Robert L. Shevin	/	1786
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	TAY	Taylor			0	0	Jim Glisson	Robert L. Shevin	/	1458
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	UNI	Union			0	0	Jim Glisson	Robert L. Shevin	/	825
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	VOL	Volusia			0	0	Jim Glisson	Robert L. Shevin	/	10467
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAK	Wakulla			0	0	Jim Glisson	Robert L. Shevin	/	1078
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAL	Walton			0	0	Jim Glisson	Robert L. Shevin	/	1903
+10/5/1978	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAS	Washington			0	0	Jim Glisson	Robert L. Shevin	/	1356
+10/5/1978	DEM	Democrat	SEC	Secretary of State	ALA	Alachua			0	0	Dozier	Beverly	F.	6346
+10/5/1978	DEM	Democrat	SEC	Secretary of State	BAK	Baker			0	0	Dozier	Beverly	F.	1506
+10/5/1978	DEM	Democrat	SEC	Secretary of State	BAY	Bay			0	0	Dozier	Beverly	F.	6181
+10/5/1978	DEM	Democrat	SEC	Secretary of State	BRA	Bradford			0	0	Dozier	Beverly	F.	1675
+10/5/1978	DEM	Democrat	SEC	Secretary of State	BRE	Brevard			0	0	Dozier	Beverly	F.	8707
+10/5/1978	DEM	Democrat	SEC	Secretary of State	BRO	Broward			0	0	Dozier	Beverly	F.	22003
+10/5/1978	DEM	Democrat	SEC	Secretary of State	CAL	Calhoun			0	0	Dozier	Beverly	F.	1386
+10/5/1978	DEM	Democrat	SEC	Secretary of State	CHA	Charlotte			0	0	Dozier	Beverly	F.	2045
+10/5/1978	DEM	Democrat	SEC	Secretary of State	CIT	Citrus			0	0	Dozier	Beverly	F.	3011
+10/5/1978	DEM	Democrat	SEC	Secretary of State	CLA	Clay			0	0	Dozier	Beverly	F.	2424
+10/5/1978	DEM	Democrat	SEC	Secretary of State	CLL	Collier			0	0	Dozier	Beverly	F.	1211
+10/5/1978	DEM	Democrat	SEC	Secretary of State	CLM	Columbia			0	0	Dozier	Beverly	F.	2231
+10/5/1978	DEM	Democrat	SEC	Secretary of State	DES	Desoto			0	0	Dozier	Beverly	F.	696
+10/5/1978	DEM	Democrat	SEC	Secretary of State	DIX	Dixie			0	0	Dozier	Beverly	F.	1711
+10/5/1978	DEM	Democrat	SEC	Secretary of State	DUV	Duval			0	0	Dozier	Beverly	F.	31078
+10/5/1978	DEM	Democrat	SEC	Secretary of State	ESC	Escambia			0	0	Dozier	Beverly	F.	15725
+10/5/1978	DEM	Democrat	SEC	Secretary of State	FLA	Flagler			0	0	Dozier	Beverly	F.	498
+10/5/1978	DEM	Democrat	SEC	Secretary of State	FRA	Franklin			0	0	Dozier	Beverly	F.	1188
+10/5/1978	DEM	Democrat	SEC	Secretary of State	GAD	Gadsden			0	0	Dozier	Beverly	F.	3416
+10/5/1978	DEM	Democrat	SEC	Secretary of State	GIL	Gilchrist			0	0	Dozier	Beverly	F.	673
+10/5/1978	DEM	Democrat	SEC	Secretary of State	GLA	Glades			0	0	Dozier	Beverly	F.	595
+10/5/1978	DEM	Democrat	SEC	Secretary of State	GUL	Gulf			0	0	Dozier	Beverly	F.	1263
+10/5/1978	DEM	Democrat	SEC	Secretary of State	HAM	Hamilton			0	0	Dozier	Beverly	F.	1297
+10/5/1978	DEM	Democrat	SEC	Secretary of State	HAR	Hardee			0	0	Dozier	Beverly	F.	1068
+10/5/1978	DEM	Democrat	SEC	Secretary of State	HEN	Hendry			0	0	Dozier	Beverly	F.	1039
+10/5/1978	DEM	Democrat	SEC	Secretary of State	HER	Hernando			0	0	Dozier	Beverly	F.	2470
+10/5/1978	DEM	Democrat	SEC	Secretary of State	HIG	Highlands			0	0	Dozier	Beverly	F.	1657
+10/5/1978	DEM	Democrat	SEC	Secretary of State	HIL	Hillsborough			0	0	Dozier	Beverly	F.	21644
+10/5/1978	DEM	Democrat	SEC	Secretary of State	HOL	Holmes			0	0	Dozier	Beverly	F.	2021
+10/5/1978	DEM	Democrat	SEC	Secretary of State	IND	Indian River			0	0	Dozier	Beverly	F.	1036
+10/5/1978	DEM	Democrat	SEC	Secretary of State	JAC	Jackson			0	0	Dozier	Beverly	F.	4730
+10/5/1978	DEM	Democrat	SEC	Secretary of State	JEF	Jefferson			0	0	Dozier	Beverly	F.	1015
+10/5/1978	DEM	Democrat	SEC	Secretary of State	LAF	Lafayette			0	0	Dozier	Beverly	F.	883
+10/5/1978	DEM	Democrat	SEC	Secretary of State	LAK	Lake			0	0	Dozier	Beverly	F.	3091
+10/5/1978	DEM	Democrat	SEC	Secretary of State	LEE	Lee			0	0	Dozier	Beverly	F.	6994
+10/5/1978	DEM	Democrat	SEC	Secretary of State	LEO	Leon			0	0	Dozier	Beverly	F.	10997
+10/5/1978	DEM	Democrat	SEC	Secretary of State	LEV	Levy			0	0	Dozier	Beverly	F.	1387
+10/5/1978	DEM	Democrat	SEC	Secretary of State	LIB	Liberty			0	0	Dozier	Beverly	F.	996
+10/5/1978	DEM	Democrat	SEC	Secretary of State	MAD	Madison			0	0	Dozier	Beverly	F.	1995
+10/5/1978	DEM	Democrat	SEC	Secretary of State	MAN	Manatee			0	0	Dozier	Beverly	F.	3847
+10/5/1978	DEM	Democrat	SEC	Secretary of State	MRN	Marion			0	0	Dozier	Beverly	F.	5060
+10/5/1978	DEM	Democrat	SEC	Secretary of State	MRT	Martin			0	0	Dozier	Beverly	F.	1417
+10/5/1978	DEM	Democrat	SEC	Secretary of State	DAD	Miami-Dade			0	0	Dozier	Beverly	F.	36173
+10/5/1978	DEM	Democrat	SEC	Secretary of State	MON	Monroe			0	0	Dozier	Beverly	F.	3456
+10/5/1978	DEM	Democrat	SEC	Secretary of State	NAS	Nassau			0	0	Dozier	Beverly	F.	1784
+10/5/1978	DEM	Democrat	SEC	Secretary of State	OKA	Okaloosa			0	0	Dozier	Beverly	F.	6174
+10/5/1978	DEM	Democrat	SEC	Secretary of State	OKE	Okeechobee			0	0	Dozier	Beverly	F.	1075
+10/5/1978	DEM	Democrat	SEC	Secretary of State	ORA	Orange			0	0	Dozier	Beverly	F.	12482
+10/5/1978	DEM	Democrat	SEC	Secretary of State	OSC	Osceola			0	0	Dozier	Beverly	F.	1589
+10/5/1978	DEM	Democrat	SEC	Secretary of State	PAL	Palm Beach			0	0	Dozier	Beverly	F.	13971
+10/5/1978	DEM	Democrat	SEC	Secretary of State	PAS	Pasco			0	0	Dozier	Beverly	F.	6052
+10/5/1978	DEM	Democrat	SEC	Secretary of State	PIN	Pinellas			0	0	Dozier	Beverly	F.	18950
+10/5/1978	DEM	Democrat	SEC	Secretary of State	POL	Polk			0	0	Dozier	Beverly	F.	9939
+10/5/1978	DEM	Democrat	SEC	Secretary of State	PUT	Putnam			0	0	Dozier	Beverly	F.	3154
+10/5/1978	DEM	Democrat	SEC	Secretary of State	SAN	Santa Rosa			0	0	Dozier	Beverly	F.	6051
+10/5/1978	DEM	Democrat	SEC	Secretary of State	SAR	Sarasota			0	0	Dozier	Beverly	F.	2966
+10/5/1978	DEM	Democrat	SEC	Secretary of State	SEM	Seminole			0	0	Dozier	Beverly	F.	4196
+10/5/1978	DEM	Democrat	SEC	Secretary of State	STJ	St. Johns			0	0	Dozier	Beverly	F.	3056
+10/5/1978	DEM	Democrat	SEC	Secretary of State	STL	St. Lucie			0	0	Dozier	Beverly	F.	1730
+10/5/1978	DEM	Democrat	SEC	Secretary of State	SUM	Sumter			0	0	Dozier	Beverly	F.	1269
+10/5/1978	DEM	Democrat	SEC	Secretary of State	SUW	Suwannee			0	0	Dozier	Beverly	F.	2404
+10/5/1978	DEM	Democrat	SEC	Secretary of State	TAY	Taylor			0	0	Dozier	Beverly	F.	1977
+10/5/1978	DEM	Democrat	SEC	Secretary of State	UNI	Union			0	0	Dozier	Beverly	F.	777
+10/5/1978	DEM	Democrat	SEC	Secretary of State	VOL	Volusia			0	0	Dozier	Beverly	F.	6914
+10/5/1978	DEM	Democrat	SEC	Secretary of State	WAK	Wakulla			0	0	Dozier	Beverly	F.	1227
+10/5/1978	DEM	Democrat	SEC	Secretary of State	WAL	Walton			0	0	Dozier	Beverly	F.	2968
+10/5/1978	DEM	Democrat	SEC	Secretary of State	WAS	Washington			0	0	Dozier	Beverly	F.	2114
+10/5/1978	DEM	Democrat	SEC	Secretary of State	ALA	Alachua			0	0	Firestone	George		8362
+10/5/1978	DEM	Democrat	SEC	Secretary of State	BAK	Baker			0	0	Firestone	George		1614
+10/5/1978	DEM	Democrat	SEC	Secretary of State	BAY	Bay			0	0	Firestone	George		7617
+10/5/1978	DEM	Democrat	SEC	Secretary of State	BRA	Bradford			0	0	Firestone	George		1438
+10/5/1978	DEM	Democrat	SEC	Secretary of State	BRE	Brevard			0	0	Firestone	George		8961
+10/5/1978	DEM	Democrat	SEC	Secretary of State	BRO	Broward			0	0	Firestone	George		50101
+10/5/1978	DEM	Democrat	SEC	Secretary of State	CAL	Calhoun			0	0	Firestone	George		1131
+10/5/1978	DEM	Democrat	SEC	Secretary of State	CHA	Charlotte			0	0	Firestone	George		2182
+10/5/1978	DEM	Democrat	SEC	Secretary of State	CIT	Citrus			0	0	Firestone	George		3446
+10/5/1978	DEM	Democrat	SEC	Secretary of State	CLA	Clay			0	0	Firestone	George		2146
+10/5/1978	DEM	Democrat	SEC	Secretary of State	CLL	Collier			0	0	Firestone	George		1235
+10/5/1978	DEM	Democrat	SEC	Secretary of State	CLM	Columbia			0	0	Firestone	George		1815
+10/5/1978	DEM	Democrat	SEC	Secretary of State	DES	Desoto			0	0	Firestone	George		992
+10/5/1978	DEM	Democrat	SEC	Secretary of State	DIX	Dixie			0	0	Firestone	George		961
+10/5/1978	DEM	Democrat	SEC	Secretary of State	DUV	Duval			0	0	Firestone	George		27753
+10/5/1978	DEM	Democrat	SEC	Secretary of State	ESC	Escambia			0	0	Firestone	George		15522
+10/5/1978	DEM	Democrat	SEC	Secretary of State	FLA	Flagler			0	0	Firestone	George		623
+10/5/1978	DEM	Democrat	SEC	Secretary of State	FRA	Franklin			0	0	Firestone	George		1075
+10/5/1978	DEM	Democrat	SEC	Secretary of State	GAD	Gadsden			0	0	Firestone	George		2000
+10/5/1978	DEM	Democrat	SEC	Secretary of State	GIL	Gilchrist			0	0	Firestone	George		394
+10/5/1978	DEM	Democrat	SEC	Secretary of State	GLA	Glades			0	0	Firestone	George		476
+10/5/1978	DEM	Democrat	SEC	Secretary of State	GUL	Gulf			0	0	Firestone	George		1734
+10/5/1978	DEM	Democrat	SEC	Secretary of State	HAM	Hamilton			0	0	Firestone	George		523
+10/5/1978	DEM	Democrat	SEC	Secretary of State	HAR	Hardee			0	0	Firestone	George		1232
+10/5/1978	DEM	Democrat	SEC	Secretary of State	HEN	Hendry			0	0	Firestone	George		741
+10/5/1978	DEM	Democrat	SEC	Secretary of State	HER	Hernando			0	0	Firestone	George		2759
+10/5/1978	DEM	Democrat	SEC	Secretary of State	HIG	Highlands			0	0	Firestone	George		2511
+10/5/1978	DEM	Democrat	SEC	Secretary of State	HIL	Hillsborough			0	0	Firestone	George		34849
+10/5/1978	DEM	Democrat	SEC	Secretary of State	HOL	Holmes			0	0	Firestone	George		1956
+10/5/1978	DEM	Democrat	SEC	Secretary of State	IND	Indian River			0	0	Firestone	George		1282
+10/5/1978	DEM	Democrat	SEC	Secretary of State	JAC	Jackson			0	0	Firestone	George		3307
+10/5/1978	DEM	Democrat	SEC	Secretary of State	JEF	Jefferson			0	0	Firestone	George		962
+10/5/1978	DEM	Democrat	SEC	Secretary of State	LAF	Lafayette			0	0	Firestone	George		508
+10/5/1978	DEM	Democrat	SEC	Secretary of State	LAK	Lake			0	0	Firestone	George		3916
+10/5/1978	DEM	Democrat	SEC	Secretary of State	LEE	Lee			0	0	Firestone	George		7215
+10/5/1978	DEM	Democrat	SEC	Secretary of State	LEO	Leon			0	0	Firestone	George		15119
+10/5/1978	DEM	Democrat	SEC	Secretary of State	LEV	Levy			0	0	Firestone	George		1169
+10/5/1978	DEM	Democrat	SEC	Secretary of State	LIB	Liberty			0	0	Firestone	George		858
+10/5/1978	DEM	Democrat	SEC	Secretary of State	MAD	Madison			0	0	Firestone	George		909
+10/5/1978	DEM	Democrat	SEC	Secretary of State	MAN	Manatee			0	0	Firestone	George		6996
+10/5/1978	DEM	Democrat	SEC	Secretary of State	MRN	Marion			0	0	Firestone	George		5059
+10/5/1978	DEM	Democrat	SEC	Secretary of State	MRT	Martin			0	0	Firestone	George		1706
+10/5/1978	DEM	Democrat	SEC	Secretary of State	DAD	Miami-Dade			0	0	Firestone	George		93845
+10/5/1978	DEM	Democrat	SEC	Secretary of State	MON	Monroe			0	0	Firestone	George		4836
+10/5/1978	DEM	Democrat	SEC	Secretary of State	NAS	Nassau			0	0	Firestone	George		1573
+10/5/1978	DEM	Democrat	SEC	Secretary of State	OKA	Okaloosa			0	0	Firestone	George		6228
+10/5/1978	DEM	Democrat	SEC	Secretary of State	OKE	Okeechobee			0	0	Firestone	George		974
+10/5/1978	DEM	Democrat	SEC	Secretary of State	ORA	Orange			0	0	Firestone	George		14740
+10/5/1978	DEM	Democrat	SEC	Secretary of State	OSC	Osceola			0	0	Firestone	George		1520
+10/5/1978	DEM	Democrat	SEC	Secretary of State	PAL	Palm Beach			0	0	Firestone	George		24050
+10/5/1978	DEM	Democrat	SEC	Secretary of State	PAS	Pasco			0	0	Firestone	George		6839
+10/5/1978	DEM	Democrat	SEC	Secretary of State	PIN	Pinellas			0	0	Firestone	George		25320
+10/5/1978	DEM	Democrat	SEC	Secretary of State	POL	Polk			0	0	Firestone	George		12834
+10/5/1978	DEM	Democrat	SEC	Secretary of State	PUT	Putnam			0	0	Firestone	George		3019
+10/5/1978	DEM	Democrat	SEC	Secretary of State	SAN	Santa Rosa			0	0	Firestone	George		4029
+10/5/1978	DEM	Democrat	SEC	Secretary of State	SAR	Sarasota			0	0	Firestone	George		5250
+10/5/1978	DEM	Democrat	SEC	Secretary of State	SEM	Seminole			0	0	Firestone	George		4566
+10/5/1978	DEM	Democrat	SEC	Secretary of State	STJ	St. Johns			0	0	Firestone	George		2267
+10/5/1978	DEM	Democrat	SEC	Secretary of State	STL	St. Lucie			0	0	Firestone	George		2541
+10/5/1978	DEM	Democrat	SEC	Secretary of State	SUM	Sumter			0	0	Firestone	George		1369
+10/5/1978	DEM	Democrat	SEC	Secretary of State	SUW	Suwannee			0	0	Firestone	George		1393
+10/5/1978	DEM	Democrat	SEC	Secretary of State	TAY	Taylor			0	0	Firestone	George		1274
+10/5/1978	DEM	Democrat	SEC	Secretary of State	UNI	Union			0	0	Firestone	George		717
+10/5/1978	DEM	Democrat	SEC	Secretary of State	VOL	Volusia			0	0	Firestone	George		12503
+10/5/1978	DEM	Democrat	SEC	Secretary of State	WAK	Wakulla			0	0	Firestone	George		1266
+10/5/1978	DEM	Democrat	SEC	Secretary of State	WAL	Walton			0	0	Firestone	George		2079
+10/5/1978	DEM	Democrat	SEC	Secretary of State	WAS	Washington			0	0	Firestone	George		1885
+10/5/1978	DEM	Democrat	ATG	Attorney General	ALA	Alachua			0	0	Becker	Alan		4033
+10/5/1978	DEM	Democrat	ATG	Attorney General	BAK	Baker			0	0	Becker	Alan		1032
+10/5/1978	DEM	Democrat	ATG	Attorney General	BAY	Bay			0	0	Becker	Alan		5610
+10/5/1978	DEM	Democrat	ATG	Attorney General	BRA	Bradford			0	0	Becker	Alan		910
+10/5/1978	DEM	Democrat	ATG	Attorney General	BRE	Brevard			0	0	Becker	Alan		7864
+10/5/1978	DEM	Democrat	ATG	Attorney General	BRO	Broward			0	0	Becker	Alan		47061
+10/5/1978	DEM	Democrat	ATG	Attorney General	CAL	Calhoun			0	0	Becker	Alan		974
+10/5/1978	DEM	Democrat	ATG	Attorney General	CHA	Charlotte			0	0	Becker	Alan		1328
+10/5/1978	DEM	Democrat	ATG	Attorney General	CIT	Citrus			0	0	Becker	Alan		2115
+10/5/1978	DEM	Democrat	ATG	Attorney General	CLA	Clay			0	0	Becker	Alan		1528
+10/5/1978	DEM	Democrat	ATG	Attorney General	CLL	Collier			0	0	Becker	Alan		727
+10/5/1978	DEM	Democrat	ATG	Attorney General	CLM	Columbia			0	0	Becker	Alan		1273
+10/5/1978	DEM	Democrat	ATG	Attorney General	DES	Desoto			0	0	Becker	Alan		333
+10/5/1978	DEM	Democrat	ATG	Attorney General	DIX	Dixie			0	0	Becker	Alan		665
+10/5/1978	DEM	Democrat	ATG	Attorney General	DUV	Duval			0	0	Becker	Alan		19894
+10/5/1978	DEM	Democrat	ATG	Attorney General	ESC	Escambia			0	0	Becker	Alan		11816
+10/5/1978	DEM	Democrat	ATG	Attorney General	FLA	Flagler			0	0	Becker	Alan		250
+10/5/1978	DEM	Democrat	ATG	Attorney General	FRA	Franklin			0	0	Becker	Alan		721
+10/5/1978	DEM	Democrat	ATG	Attorney General	GAD	Gadsden			0	0	Becker	Alan		1560
+10/5/1978	DEM	Democrat	ATG	Attorney General	GIL	Gilchrist			0	0	Becker	Alan		277
+10/5/1978	DEM	Democrat	ATG	Attorney General	GLA	Glades			0	0	Becker	Alan		364
+10/5/1978	DEM	Democrat	ATG	Attorney General	GUL	Gulf			0	0	Becker	Alan		987
+10/5/1978	DEM	Democrat	ATG	Attorney General	HAM	Hamilton			0	0	Becker	Alan		533
+10/5/1978	DEM	Democrat	ATG	Attorney General	HAR	Hardee			0	0	Becker	Alan		456
+10/5/1978	DEM	Democrat	ATG	Attorney General	HEN	Hendry			0	0	Becker	Alan		525
+10/5/1978	DEM	Democrat	ATG	Attorney General	HER	Hernando			0	0	Becker	Alan		1979
+10/5/1978	DEM	Democrat	ATG	Attorney General	HIG	Highlands			0	0	Becker	Alan		967
+10/5/1978	DEM	Democrat	ATG	Attorney General	HIL	Hillsborough			0	0	Becker	Alan		17028
+10/5/1978	DEM	Democrat	ATG	Attorney General	HOL	Holmes			0	0	Becker	Alan		1212
+10/5/1978	DEM	Democrat	ATG	Attorney General	IND	Indian River			0	0	Becker	Alan		813
+10/5/1978	DEM	Democrat	ATG	Attorney General	JAC	Jackson			0	0	Becker	Alan		2164
+10/5/1978	DEM	Democrat	ATG	Attorney General	JEF	Jefferson			0	0	Becker	Alan		409
+10/5/1978	DEM	Democrat	ATG	Attorney General	LAF	Lafayette			0	0	Becker	Alan		345
+10/5/1978	DEM	Democrat	ATG	Attorney General	LAK	Lake			0	0	Becker	Alan		1984
+10/5/1978	DEM	Democrat	ATG	Attorney General	LEE	Lee			0	0	Becker	Alan		6236
+10/5/1978	DEM	Democrat	ATG	Attorney General	LEO	Leon			0	0	Becker	Alan		5352
+10/5/1978	DEM	Democrat	ATG	Attorney General	LEV	Levy			0	0	Becker	Alan		479
+10/5/1978	DEM	Democrat	ATG	Attorney General	LIB	Liberty			0	0	Becker	Alan		514
+10/5/1978	DEM	Democrat	ATG	Attorney General	MAD	Madison			0	0	Becker	Alan		579
+10/5/1978	DEM	Democrat	ATG	Attorney General	MAN	Manatee			0	0	Becker	Alan		3200
+10/5/1978	DEM	Democrat	ATG	Attorney General	MRN	Marion			0	0	Becker	Alan		2199
+10/5/1978	DEM	Democrat	ATG	Attorney General	MRT	Martin			0	0	Becker	Alan		1177
+10/5/1978	DEM	Democrat	ATG	Attorney General	DAD	Miami-Dade			0	0	Becker	Alan		79473
+10/5/1978	DEM	Democrat	ATG	Attorney General	MON	Monroe			0	0	Becker	Alan		2674
+10/5/1978	DEM	Democrat	ATG	Attorney General	NAS	Nassau			0	0	Becker	Alan		1200
+10/5/1978	DEM	Democrat	ATG	Attorney General	OKA	Okaloosa			0	0	Becker	Alan		5366
+10/5/1978	DEM	Democrat	ATG	Attorney General	OKE	Okeechobee			0	0	Becker	Alan		719
+10/5/1978	DEM	Democrat	ATG	Attorney General	ORA	Orange			0	0	Becker	Alan		7753
+10/5/1978	DEM	Democrat	ATG	Attorney General	OSC	Osceola			0	0	Becker	Alan		757
+10/5/1978	DEM	Democrat	ATG	Attorney General	PAL	Palm Beach			0	0	Becker	Alan		21285
+10/5/1978	DEM	Democrat	ATG	Attorney General	PAS	Pasco			0	0	Becker	Alan		4646
+10/5/1978	DEM	Democrat	ATG	Attorney General	PIN	Pinellas			0	0	Becker	Alan		16791
+10/5/1978	DEM	Democrat	ATG	Attorney General	POL	Polk			0	0	Becker	Alan		6281
+10/5/1978	DEM	Democrat	ATG	Attorney General	PUT	Putnam			0	0	Becker	Alan		1785
+10/5/1978	DEM	Democrat	ATG	Attorney General	SAN	Santa Rosa			0	0	Becker	Alan		2856
+10/5/1978	DEM	Democrat	ATG	Attorney General	SAR	Sarasota			0	0	Becker	Alan		3030
+10/5/1978	DEM	Democrat	ATG	Attorney General	SEM	Seminole			0	0	Becker	Alan		2829
+10/5/1978	DEM	Democrat	ATG	Attorney General	STJ	St. Johns			0	0	Becker	Alan		1450
+10/5/1978	DEM	Democrat	ATG	Attorney General	STL	St. Lucie			0	0	Becker	Alan		1449
+10/5/1978	DEM	Democrat	ATG	Attorney General	SUM	Sumter			0	0	Becker	Alan		553
+10/5/1978	DEM	Democrat	ATG	Attorney General	SUW	Suwannee			0	0	Becker	Alan		1031
+10/5/1978	DEM	Democrat	ATG	Attorney General	TAY	Taylor			0	0	Becker	Alan		826
+10/5/1978	DEM	Democrat	ATG	Attorney General	UNI	Union			0	0	Becker	Alan		436
+10/5/1978	DEM	Democrat	ATG	Attorney General	VOL	Volusia			0	0	Becker	Alan		3495
+10/5/1978	DEM	Democrat	ATG	Attorney General	WAK	Wakulla			0	0	Becker	Alan		473
+10/5/1978	DEM	Democrat	ATG	Attorney General	WAL	Walton			0	0	Becker	Alan		1733
+10/5/1978	DEM	Democrat	ATG	Attorney General	WAS	Washington			0	0	Becker	Alan		1091
+10/5/1978	DEM	Democrat	ATG	Attorney General	ALA	Alachua			0	0	Smith	Jim		9971
+10/5/1978	DEM	Democrat	ATG	Attorney General	BAK	Baker			0	0	Smith	Jim		2213
+10/5/1978	DEM	Democrat	ATG	Attorney General	BAY	Bay			0	0	Smith	Jim		8500
+10/5/1978	DEM	Democrat	ATG	Attorney General	BRA	Bradford			0	0	Smith	Jim		2242
+10/5/1978	DEM	Democrat	ATG	Attorney General	BRE	Brevard			0	0	Smith	Jim		9759
+10/5/1978	DEM	Democrat	ATG	Attorney General	BRO	Broward			0	0	Smith	Jim		28744
+10/5/1978	DEM	Democrat	ATG	Attorney General	CAL	Calhoun			0	0	Smith	Jim		2529
+10/5/1978	DEM	Democrat	ATG	Attorney General	CHA	Charlotte			0	0	Smith	Jim		3023
+10/5/1978	DEM	Democrat	ATG	Attorney General	CIT	Citrus			0	0	Smith	Jim		4552
+10/5/1978	DEM	Democrat	ATG	Attorney General	CLA	Clay			0	0	Smith	Jim		3137
+10/5/1978	DEM	Democrat	ATG	Attorney General	CLL	Collier			0	0	Smith	Jim		1760
+10/5/1978	DEM	Democrat	ATG	Attorney General	CLM	Columbia			0	0	Smith	Jim		2890
+10/5/1978	DEM	Democrat	ATG	Attorney General	DES	Desoto			0	0	Smith	Jim		1355
+10/5/1978	DEM	Democrat	ATG	Attorney General	DIX	Dixie			0	0	Smith	Jim		2046
+10/5/1978	DEM	Democrat	ATG	Attorney General	DUV	Duval			0	0	Smith	Jim		39840
+10/5/1978	DEM	Democrat	ATG	Attorney General	ESC	Escambia			0	0	Smith	Jim		19550
+10/5/1978	DEM	Democrat	ATG	Attorney General	FLA	Flagler			0	0	Smith	Jim		890
+10/5/1978	DEM	Democrat	ATG	Attorney General	FRA	Franklin			0	0	Smith	Jim		1500
+10/5/1978	DEM	Democrat	ATG	Attorney General	GAD	Gadsden			0	0	Smith	Jim		3908
+10/5/1978	DEM	Democrat	ATG	Attorney General	GIL	Gilchrist			0	0	Smith	Jim		766
+10/5/1978	DEM	Democrat	ATG	Attorney General	GLA	Glades			0	0	Smith	Jim		724
+10/5/1978	DEM	Democrat	ATG	Attorney General	GUL	Gulf			0	0	Smith	Jim		2041
+10/5/1978	DEM	Democrat	ATG	Attorney General	HAM	Hamilton			0	0	Smith	Jim		1345
+10/5/1978	DEM	Democrat	ATG	Attorney General	HAR	Hardee			0	0	Smith	Jim		1971
+10/5/1978	DEM	Democrat	ATG	Attorney General	HEN	Hendry			0	0	Smith	Jim		1285
+10/5/1978	DEM	Democrat	ATG	Attorney General	HER	Hernando			0	0	Smith	Jim		3397
+10/5/1978	DEM	Democrat	ATG	Attorney General	HIG	Highlands			0	0	Smith	Jim		3292
+10/5/1978	DEM	Democrat	ATG	Attorney General	HIL	Hillsborough			0	0	Smith	Jim		38788
+10/5/1978	DEM	Democrat	ATG	Attorney General	HOL	Holmes			0	0	Smith	Jim		2873
+10/5/1978	DEM	Democrat	ATG	Attorney General	IND	Indian River			0	0	Smith	Jim		1518
+10/5/1978	DEM	Democrat	ATG	Attorney General	JAC	Jackson			0	0	Smith	Jim		6027
+10/5/1978	DEM	Democrat	ATG	Attorney General	JEF	Jefferson			0	0	Smith	Jim		1618
+10/5/1978	DEM	Democrat	ATG	Attorney General	LAF	Lafayette			0	0	Smith	Jim		1001
+10/5/1978	DEM	Democrat	ATG	Attorney General	LAK	Lake			0	0	Smith	Jim		5142
+10/5/1978	DEM	Democrat	ATG	Attorney General	LEE	Lee			0	0	Smith	Jim		7985
+10/5/1978	DEM	Democrat	ATG	Attorney General	LEO	Leon			0	0	Smith	Jim		20233
+10/5/1978	DEM	Democrat	ATG	Attorney General	LEV	Levy			0	0	Smith	Jim		2175
+10/5/1978	DEM	Democrat	ATG	Attorney General	LIB	Liberty			0	0	Smith	Jim		1395
+10/5/1978	DEM	Democrat	ATG	Attorney General	MAD	Madison			0	0	Smith	Jim		2280
+10/5/1978	DEM	Democrat	ATG	Attorney General	MAN	Manatee			0	0	Smith	Jim		7673
+10/5/1978	DEM	Democrat	ATG	Attorney General	MRN	Marion			0	0	Smith	Jim		8392
+10/5/1978	DEM	Democrat	ATG	Attorney General	MRT	Martin			0	0	Smith	Jim		2005
+10/5/1978	DEM	Democrat	ATG	Attorney General	DAD	Miami-Dade			0	0	Smith	Jim		52183
+10/5/1978	DEM	Democrat	ATG	Attorney General	MON	Monroe			0	0	Smith	Jim		5376
+10/5/1978	DEM	Democrat	ATG	Attorney General	NAS	Nassau			0	0	Smith	Jim		2282
+10/5/1978	DEM	Democrat	ATG	Attorney General	OKA	Okaloosa			0	0	Smith	Jim		7045
+10/5/1978	DEM	Democrat	ATG	Attorney General	OKE	Okeechobee			0	0	Smith	Jim		1471
+10/5/1978	DEM	Democrat	ATG	Attorney General	ORA	Orange			0	0	Smith	Jim		19555
+10/5/1978	DEM	Democrat	ATG	Attorney General	OSC	Osceola			0	0	Smith	Jim		2454
+10/5/1978	DEM	Democrat	ATG	Attorney General	PAL	Palm Beach			0	0	Smith	Jim		18014
+10/5/1978	DEM	Democrat	ATG	Attorney General	PAS	Pasco			0	0	Smith	Jim		8464
+10/5/1978	DEM	Democrat	ATG	Attorney General	PIN	Pinellas			0	0	Smith	Jim		28046
+10/5/1978	DEM	Democrat	ATG	Attorney General	POL	Polk			0	0	Smith	Jim		16933
+10/5/1978	DEM	Democrat	ATG	Attorney General	PUT	Putnam			0	0	Smith	Jim		4667
+10/5/1978	DEM	Democrat	ATG	Attorney General	SAN	Santa Rosa			0	0	Smith	Jim		7383
+10/5/1978	DEM	Democrat	ATG	Attorney General	SAR	Sarasota			0	0	Smith	Jim		5185
+10/5/1978	DEM	Democrat	ATG	Attorney General	SEM	Seminole			0	0	Smith	Jim		6023
+10/5/1978	DEM	Democrat	ATG	Attorney General	STJ	St. Johns			0	0	Smith	Jim		3955
+10/5/1978	DEM	Democrat	ATG	Attorney General	STL	St. Lucie			0	0	Smith	Jim		2881
+10/5/1978	DEM	Democrat	ATG	Attorney General	SUM	Sumter			0	0	Smith	Jim		2225
+10/5/1978	DEM	Democrat	ATG	Attorney General	SUW	Suwannee			0	0	Smith	Jim		2740
+10/5/1978	DEM	Democrat	ATG	Attorney General	TAY	Taylor			0	0	Smith	Jim		2529
+10/5/1978	DEM	Democrat	ATG	Attorney General	UNI	Union			0	0	Smith	Jim		1040
+10/5/1978	DEM	Democrat	ATG	Attorney General	VOL	Volusia			0	0	Smith	Jim		16368
+10/5/1978	DEM	Democrat	ATG	Attorney General	WAK	Wakulla			0	0	Smith	Jim		1984
+10/5/1978	DEM	Democrat	ATG	Attorney General	WAL	Walton			0	0	Smith	Jim		3097
+10/5/1978	DEM	Democrat	ATG	Attorney General	WAS	Washington			0	0	Smith	Jim		3020
+10/5/1978	DEM	Democrat	STS	State Senator	LAK	Lake	014		0	0	Fulford	Bill		56
+10/5/1978	DEM	Democrat	STS	State Senator	ORA	Orange	014		0	0	Fulford	Bill		14556
+10/5/1978	DEM	Democrat	STS	State Senator	LAK	Lake	014		0	0	Stuart, Jr.	George		63
+10/5/1978	DEM	Democrat	STS	State Senator	ORA	Orange	014		0	0	Stuart, Jr.	George		15801
+10/5/1978	DEM	Democrat	STS	State Senator	BRE	Brevard	016		0	0	Beck	Bill		12416
+10/5/1978	DEM	Democrat	STS	State Senator	ORA	Orange	016		0	0	Beck	Bill		177
+10/5/1978	DEM	Democrat	STS	State Senator	OSC	Osceola	016		0	0	Beck	Bill		2078
+10/5/1978	DEM	Democrat	STS	State Senator	SEM	Seminole	016		0	0	Beck	Bill		4741
+10/5/1978	DEM	Democrat	STS	State Senator	BRE	Brevard	016		0	0	Turner	Glenn		6060
+10/5/1978	DEM	Democrat	STS	State Senator	ORA	Orange	016		0	0	Turner	Glenn		166
+10/5/1978	DEM	Democrat	STS	State Senator	OSC	Osceola	016		0	0	Turner	Glenn		1039
+10/5/1978	DEM	Democrat	STS	State Senator	SEM	Seminole	016		0	0	Turner	Glenn		4621
+10/5/1978	DEM	Democrat	STS	State Senator	BRO	Broward	030		0	0	Beach	Marcia		27561
+10/5/1978	DEM	Democrat	STS	State Senator	CLL	Collier	030		0	0	Beach	Marcia		1516
+10/5/1978	DEM	Democrat	STS	State Senator	PAL	Palm Beach	030		0	0	Beach	Marcia		2344
+10/5/1978	DEM	Democrat	STS	State Senator	BRO	Broward	030		0	0	Mintz	Charles	'Charlie'	18409
+10/5/1978	DEM	Democrat	STS	State Senator	CLL	Collier	030		0	0	Mintz	Charles	'Charlie'	816
+10/5/1978	DEM	Democrat	STS	State Senator	PAL	Palm Beach	030		0	0	Mintz	Charles	'Charlie'	1141
+10/5/1978	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	040		0	0	Anderson	Dick		27250
+10/5/1978	DEM	Democrat	STS	State Senator	MON	Monroe	040		0	0	Anderson	Dick		2260
+10/5/1978	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	040		0	0	Spottswood, Jr.	John		19786
+10/5/1978	DEM	Democrat	STS	State Senator	MON	Monroe	040		0	0	Spottswood, Jr.	John		7738
+10/5/1978	DEM	Democrat	STR	State Representative	ESC	Escambia	004		0	0	Johnson	Bolley	'Bo'	3842
+10/5/1978	DEM	Democrat	STR	State Representative	OKA	Okaloosa	004		0	0	Johnson	Bolley	'Bo'	6015
+10/5/1978	DEM	Democrat	STR	State Representative	SAN	Santa Rosa	004		0	0	Johnson	Bolley	'Bo'	7687
+10/5/1978	DEM	Democrat	STR	State Representative	WAL	Walton	004		0	0	Johnson	Bolley	'Bo'	863
+10/5/1978	DEM	Democrat	STR	State Representative	ESC	Escambia	004		0	0	Neal	David		3317
+10/5/1978	DEM	Democrat	STR	State Representative	OKA	Okaloosa	004		0	0	Neal	David		7104
+10/5/1978	DEM	Democrat	STR	State Representative	SAN	Santa Rosa	004		0	0	Neal	David		3219
+10/5/1978	DEM	Democrat	STR	State Representative	WAL	Walton	004		0	0	Neal	David		770
+10/5/1978	DEM	Democrat	STR	State Representative	ESC	Escambia	005		0	0	Boles	Ken		3256
+10/5/1978	DEM	Democrat	STR	State Representative	OKA	Okaloosa	005		0	0	Boles	Ken		8677
+10/5/1978	DEM	Democrat	STR	State Representative	SAN	Santa Rosa	005		0	0	Boles	Ken		7108
+10/5/1978	DEM	Democrat	STR	State Representative	WAL	Walton	005		0	0	Boles	Ken		931
+10/5/1978	DEM	Democrat	STR	State Representative	ESC	Escambia	005		0	0	Grindl	Peter	R.	4133
+10/5/1978	DEM	Democrat	STR	State Representative	OKA	Okaloosa	005		0	0	Grindl	Peter	R.	4133
+10/5/1978	DEM	Democrat	STR	State Representative	SAN	Santa Rosa	005		0	0	Grindl	Peter	R.	3344
+10/5/1978	DEM	Democrat	STR	State Representative	WAL	Walton	005		0	0	Grindl	Peter	R.	640
+10/5/1978	DEM	Democrat	STR	State Representative	HOL	Holmes	007		0	0	Bennett	R.	D.	1458
+10/5/1978	DEM	Democrat	STR	State Representative	JAC	Jackson	007		0	0	Bennett	R.	D.	4359
+10/5/1978	DEM	Democrat	STR	State Representative	WAL	Walton	007		0	0	Bennett	R.	D.	1364
+10/5/1978	DEM	Democrat	STR	State Representative	WAS	Washington	007		0	0	Bennett	R.	D.	752
+10/5/1978	DEM	Democrat	STR	State Representative	HOL	Holmes	007		0	0	Mitchell	Sam		3257
+10/5/1978	DEM	Democrat	STR	State Representative	JAC	Jackson	007		0	0	Mitchell	Sam		4408
+10/5/1978	DEM	Democrat	STR	State Representative	WAL	Walton	007		0	0	Mitchell	Sam		934
+10/5/1978	DEM	Democrat	STR	State Representative	WAS	Washington	007		0	0	Mitchell	Sam		2557
+10/5/1978	DEM	Democrat	STR	State Representative	BAY	Bay	008		0	0	Conrad	Harold		5503
+10/5/1978	DEM	Democrat	STR	State Representative	WAL	Walton	008		0	0	Conrad	Harold		665
+10/5/1978	DEM	Democrat	STR	State Representative	WAS	Washington	008		0	0	Conrad	Harold		497
+10/5/1978	DEM	Democrat	STR	State Representative	BAY	Bay	008		0	0	Johnson	Ron		5584
+10/5/1978	DEM	Democrat	STR	State Representative	WAL	Walton	008		0	0	Johnson	Ron		477
+10/5/1978	DEM	Democrat	STR	State Representative	WAS	Washington	008		0	0	Johnson	Ron		792
+10/5/1978	DEM	Democrat	STR	State Representative	JEF	Jefferson	011		0	0	DeVane	Barbara		526
+10/5/1978	DEM	Democrat	STR	State Representative	LEO	Leon	011		0	0	DeVane	Barbara		12207
+10/5/1978	DEM	Democrat	STR	State Representative	MAD	Madison	011		0	0	DeVane	Barbara		317
+10/5/1978	DEM	Democrat	STR	State Representative	WAK	Wakulla	011		0	0	DeVane	Barbara		66
+10/5/1978	DEM	Democrat	STR	State Representative	JEF	Jefferson	011		0	0	Price	Don	C.	970
+10/5/1978	DEM	Democrat	STR	State Representative	LEO	Leon	011		0	0	Price	Don	C.	15022
+10/5/1978	DEM	Democrat	STR	State Representative	MAD	Madison	011		0	0	Price	Don	C.	358
+10/5/1978	DEM	Democrat	STR	State Representative	WAK	Wakulla	011		0	0	Price	Don	C.	139
+10/5/1978	DEM	Democrat	STR	State Representative	DUV	Duval	017		0	0	Dillin	Mike		14080
+10/5/1978	DEM	Democrat	STR	State Representative	DUV	Duval	017		0	0	Thomas	John		16722
+10/5/1978	DEM	Democrat	STR	State Representative	DUV	Duval	019		0	0	Freeman	Billy	W.	12106
+10/5/1978	DEM	Democrat	STR	State Representative	DUV	Duval	019		0	0	Johnson	Andrew	E. (Andy)	18337
+10/5/1978	DEM	Democrat	STR	State Representative	ALA	Alachua	027		0	0	Mills	Jon		8097
+10/5/1978	DEM	Democrat	STR	State Representative	MRN	Marion	027		0	0	Mills	Jon		244
+10/5/1978	DEM	Democrat	STR	State Representative	PUT	Putnam	027		0	0	Mills	Jon		593
+10/5/1978	DEM	Democrat	STR	State Representative	UNI	Union	027		0	0	Mills	Jon		187
+10/5/1978	DEM	Democrat	STR	State Representative	ALA	Alachua	027		0	0	Sherman	Mary	Anne	7796
+10/5/1978	DEM	Democrat	STR	State Representative	MRN	Marion	027		0	0	Sherman	Mary	Anne	185
+10/5/1978	DEM	Democrat	STR	State Representative	PUT	Putnam	027		0	0	Sherman	Mary	Anne	620
+10/5/1978	DEM	Democrat	STR	State Representative	UNI	Union	027		0	0	Sherman	Mary	Anne	170
+10/5/1978	DEM	Democrat	STR	State Representative	FLA	Flagler	028		0	0	Pacetti	Terry	W.	420
+10/5/1978	DEM	Democrat	STR	State Representative	PUT	Putnam	028		0	0	Pacetti	Terry	W.	3425
+10/5/1978	DEM	Democrat	STR	State Representative	STJ	St. Johns	028		0	0	Pacetti	Terry	W.	1571
+10/5/1978	DEM	Democrat	STR	State Representative	FLA	Flagler	028		0	0	Upchurch	Hamilton	D.	683
+10/5/1978	DEM	Democrat	STR	State Representative	PUT	Putnam	028		0	0	Upchurch	Hamilton	D.	2447
+10/5/1978	DEM	Democrat	STR	State Representative	STJ	St. Johns	028		0	0	Upchurch	Hamilton	D.	2722
+10/5/1978	DEM	Democrat	STR	State Representative	HER	Hernando	036		0	0	Brewer	C. P.	Pat	2775
+10/5/1978	DEM	Democrat	STR	State Representative	PAS	Pasco	036		0	0	Brewer	C. P.	Pat	1537
+10/5/1978	DEM	Democrat	STR	State Representative	POL	Polk	036		0	0	Brewer	C. P.	Pat	213
+10/5/1978	DEM	Democrat	STR	State Representative	SUM	Sumter	036		0	0	Brewer	C. P.	Pat	182
+10/5/1978	DEM	Democrat	STR	State Representative	HER	Hernando	036		0	0	Smith	Charles R.	(Chuck)	2814
+10/5/1978	DEM	Democrat	STR	State Representative	PAS	Pasco	036		0	0	Smith	Charles R.	(Chuck)	2160
+10/5/1978	DEM	Democrat	STR	State Representative	POL	Polk	036		0	0	Smith	Charles R.	(Chuck)	361
+10/5/1978	DEM	Democrat	STR	State Representative	SUM	Sumter	036		0	0	Smith	Charles R.	(Chuck)	573
+10/5/1978	DEM	Democrat	STR	State Representative	HAR	Hardee	072		0	0	Shacklelford	Lawrence	F.	2318
+10/5/1978	DEM	Democrat	STR	State Representative	MAN	Manatee	072		0	0	Shacklelford	Lawrence	F.	5477
+10/5/1978	DEM	Democrat	STR	State Representative	SAR	Sarasota	072		0	0	Shacklelford	Lawrence	F.	136
+10/5/1978	DEM	Democrat	STR	State Representative	HAR	Hardee	072		0	0	Smith	Jan		453
+10/5/1978	DEM	Democrat	STR	State Representative	MAN	Manatee	072		0	0	Smith	Jan		5448
+10/5/1978	DEM	Democrat	STR	State Representative	SAR	Sarasota	072		0	0	Smith	Jan		115
+10/5/1978	DEM	Democrat	STR	State Representative	CHA	Charlotte	075		0	0	Brown	Darryl	L.	1745
+10/5/1978	DEM	Democrat	STR	State Representative	DES	Desoto	075		0	0	Brown	Darryl	L.	790
+10/5/1978	DEM	Democrat	STR	State Representative	HIG	Highlands	075		0	0	Brown	Darryl	L.	1005
+10/5/1978	DEM	Democrat	STR	State Representative	SAR	Sarasota	075		0	0	Brown	Darryl	L.	417
+10/5/1978	DEM	Democrat	STR	State Representative	CHA	Charlotte	075		0	0	Duncan	Wayne	H.	1387
+10/5/1978	DEM	Democrat	STR	State Representative	DES	Desoto	075		0	0	Duncan	Wayne	H.	810
+10/5/1978	DEM	Democrat	STR	State Representative	HIG	Highlands	075		0	0	Duncan	Wayne	H.	1665
+10/5/1978	DEM	Democrat	STR	State Representative	SAR	Sarasota	075		0	0	Duncan	Wayne	H.	342
+10/5/1978	DEM	Democrat	STR	State Representative	BRO	Broward	087		0	0	Schiff	Michael	Alan	16996
+10/5/1978	DEM	Democrat	STR	State Representative	BRO	Broward	087		0	0	Warner	Steve		18606
+10/5/1978	DEM	Democrat	STR	State Representative	BRO	Broward	096		0	0	Felicella	Don		13428
+10/5/1978	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	096		0	0	Felicella	Don		500
+10/5/1978	DEM	Democrat	STR	State Representative	BRO	Broward	096		0	0	Smith	Lawrence	J.	18709
+10/5/1978	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	096		0	0	Smith	Lawrence	J.	694
+10/5/1978	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	100		0	0	Brown	Rick		22039
+10/5/1978	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	100		0	0	Rosen	Virginia		27098
+10/5/1978	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	108		0	0	Eaton	J.	Rex	7726
+10/5/1978	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	108		0	0	Reynolds	Bob		10855
+10/5/1978	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	112		0	0	Dunn	Marvin		10679
+10/5/1978	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	112		0	0	Plummer	Lawrence	H. 'Larry'	13066
+10/5/1978	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	114		0	0	Gerstein	Norman		11376
+10/5/1978	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	114		0	0	Hector	Robert	(Bob)	12881
+10/5/1978	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	116		0	0	DeBella	Deborah		14048
+10/5/1978	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	116		0	0	Flinn	Gene		15099
+10/5/1978	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	119		0	0	Hawkins	Larry		13355
+10/5/1978	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	119		0	0	Lehtinen	Dexter		12767
+10/5/1978	REP	Republican	STS	State Senator	CLA	Clay	011		0	0	Fechtel, Jr.	Vince		180
+10/5/1978	REP	Republican	STS	State Senator	DUV	Duval	011		0	0	Fechtel, Jr.	Vince		208
+10/5/1978	REP	Republican	STS	State Senator	LAK	Lake	011		0	0	Fechtel, Jr.	Vince		2987
+10/5/1978	REP	Republican	STS	State Senator	PUT	Putnam	011		0	0	Fechtel, Jr.	Vince		85
+10/5/1978	REP	Republican	STS	State Senator	STJ	St. Johns	011		0	0	Fechtel, Jr.	Vince		403
+10/5/1978	REP	Republican	STS	State Senator	SUM	Sumter	011		0	0	Fechtel, Jr.	Vince		58
+10/5/1978	REP	Republican	STS	State Senator	VOL	Volusia	011		0	0	Fechtel, Jr.	Vince		7
+10/5/1978	REP	Republican	STS	State Senator	CLA	Clay	011		0	0	Langley	Richard	H. 'Dick'	231
+10/5/1978	REP	Republican	STS	State Senator	DUV	Duval	011		0	0	Langley	Richard	H. 'Dick'	123
+10/5/1978	REP	Republican	STS	State Senator	LAK	Lake	011		0	0	Langley	Richard	H. 'Dick'	2987
+10/5/1978	REP	Republican	STS	State Senator	PUT	Putnam	011		0	0	Langley	Richard	H. 'Dick'	125
+10/5/1978	REP	Republican	STS	State Senator	STJ	St. Johns	011		0	0	Langley	Richard	H. 'Dick'	250
+10/5/1978	REP	Republican	STS	State Senator	SUM	Sumter	011		0	0	Langley	Richard	H. 'Dick'	80
+10/5/1978	REP	Republican	STS	State Senator	VOL	Volusia	011		0	0	Langley	Richard	H. 'Dick'	14
+10/5/1978	REP	Republican	STS	State Senator	BRO	Broward	030		0	0	Poole	Van	B.	7081
+10/5/1978	REP	Republican	STS	State Senator	CLL	Collier	030		0	0	Poole	Van	B.	1310
+10/5/1978	REP	Republican	STS	State Senator	PAL	Palm Beach	030		0	0	Poole	Van	B.	1604
+10/5/1978	REP	Republican	STS	State Senator	BRO	Broward	030		0	0	Stevens	J.	W. 'Bill'	5881
+10/5/1978	REP	Republican	STS	State Senator	CLL	Collier	030		0	0	Stevens	J.	W. 'Bill'	499
+10/5/1978	REP	Republican	STS	State Senator	PAL	Palm Beach	030		0	0	Stevens	J.	W. 'Bill'	710
+10/5/1978	REP	Republican	STR	State Representative	LAK	Lake	035		0	0	Horton	Dennis	L.	2013
+10/5/1978	REP	Republican	STR	State Representative	MRN	Marion	035		0	0	Horton	Dennis	L.	17
+10/5/1978	REP	Republican	STR	State Representative	SUM	Sumter	035		0	0	Horton	Dennis	L.	37
+10/5/1978	REP	Republican	STR	State Representative	LAK	Lake	035		0	0	Hoskinson	J. M.	(Jim)	2177
+10/5/1978	REP	Republican	STR	State Representative	MRN	Marion	035		0	0	Hoskinson	J. M.	(Jim)	19
+10/5/1978	REP	Republican	STR	State Representative	SUM	Sumter	035		0	0	Hoskinson	J. M.	(Jim)	60
+10/5/1978	REP	Republican	STR	State Representative	PIN	Pinellas	061		0	0	Price	Richard	'Dick'	5154
+10/5/1978	REP	Republican	STR	State Representative	PIN	Pinellas	061		0	0	Sample	Dorothy	Eaton	10450

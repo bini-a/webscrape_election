@@ -1,0 +1,17 @@
+"election_id","office_id","candidate_id","candidate","party","votes","vote_share","winner"
+"FL_1990-10-02_PRI","TC2_11_38",NA,"Carlos Gener","NON",20636,0.184,0
+"FL_1990-10-02_PRI","TC2_11_38",NA,"Frank Albear","NON",14948,0.133,0
+"FL_1990-10-02_PRI","TC2_11_38",NA,"Judith Hayes","NON",22741,0.203,0
+"FL_1990-10-02_PRI","TC2_11_38",NA,"Leonard Glick","NON",27188,0.242,1
+"FL_1990-10-02_PRI","TC2_11_38",NA,"Paul Siegal","NON",26753,0.238,1
+"FL_1990-10-02_PRI","TC2_13_14",NA,"Michael Benito","NON",19139,0.395,1
+"FL_1990-10-02_PRI","TC2_13_14",NA,"Paul Elliott","NON",11450,0.236,0
+"FL_1990-10-02_PRI","TC2_13_14",NA,"Robert Sims","NON",17864,0.369,1
+"FL_1990-10-02_PRI","TC2_13_15",NA,"Albert Lima","NON",746,0.015,0
+"FL_1990-10-02_PRI","TC2_13_15",NA,"Alex Vecchio","NON",3179,0.064,0
+"FL_1990-10-02_PRI","TC2_13_15",NA,"Angelo Ferlita","NON",4213,0.085,0
+"FL_1990-10-02_PRI","TC2_13_15",NA,"Claudia Isom-Rickert","NON",14294,0.289,1
+"FL_1990-10-02_PRI","TC2_13_15",NA,"Darlene Rebowe","NON",4123,0.083,0
+"FL_1990-10-02_PRI","TC2_13_15",NA,"Joel Epperson","NON",3484,0.07,0
+"FL_1990-10-02_PRI","TC2_13_15",NA,"Manuel Lopez","NON",9138,0.185,0
+"FL_1990-10-02_PRI","TC2_13_15",NA,"Mike Kavouklis","NON",10275,0.208,1

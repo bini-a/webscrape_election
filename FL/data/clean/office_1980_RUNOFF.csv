@@ -1,0 +1,3 @@
+"election_id","office_id","district","office_local","office","seat","n_winners","selection_method","retention_method","open_seat","contested","runoff","special"
+"FL_1980-10-07_PRI-D","SA_2_000",2,"State Attorney","SA","000",1,"PE",NA,NA,1,1,0
+"FL_1980-10-07_PRI","TC2_2_000",2,"Circuit Judge","TC2","000",2,"NPE",NA,NA,1,1,0

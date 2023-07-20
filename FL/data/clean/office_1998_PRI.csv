@@ -1,0 +1,18 @@
+"election_id","office_id","district","office_local","office","seat","n_winners","selection_method","retention_method","open_seat","contested","runoff","special"
+"FL_1998-09-01_PRI-D","AG_FL_000","FL","Attorney General","AG","000",1,"PE",NA,NA,1,0,0
+"FL_1998-09-01_PRI-R","AG_FL_000","FL","Attorney General","AG","000",1,"PE",NA,NA,1,0,0
+"FL_1998-09-01_PRI-R","SA_20_000","20","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1998-09-01_PRI","TC2_1_5","1","Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_1998-09-01_PRI","TC2_2_5","2","Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_1998-09-01_PRI","TC2_6_20","6","Circuit Judge","TC2","20",2,"NPE",NA,NA,1,1,0
+"FL_1998-09-01_PRI","TC2_11_10","11","Circuit Judge","TC2","10",1,"NPE",NA,NA,1,0,0
+"FL_1998-09-01_PRI","TC2_11_30","11","Circuit Judge","TC2","30",1,"NPE",NA,NA,1,0,0
+"FL_1998-09-01_PRI","TC2_11_32","11","Circuit Judge","TC2","32",1,"NPE",NA,NA,1,0,0
+"FL_1998-09-01_PRI","TC2_11_40","11","Circuit Judge","TC2","40",1,"NPE",NA,NA,1,0,0
+"FL_1998-09-01_PRI","TC2_11_41","11","Circuit Judge","TC2","41",1,"NPE",NA,NA,1,0,0
+"FL_1998-09-01_PRI","TC2_11_45","11","Circuit Judge","TC2","45",1,"NPE",NA,NA,1,0,0
+"FL_1998-09-01_PRI","TC2_11_62","11","Circuit Judge","TC2","62",1,"NPE",NA,NA,1,0,0
+"FL_1998-09-01_PRI","TC2_18_6","18","Circuit Judge","TC2","6",2,"NPE",NA,NA,1,1,0
+"FL_1998-09-01_PRI","TC2_18_9","18","Circuit Judge","TC2","9",2,"NPE",NA,NA,1,1,0
+"FL_1998-09-01_PRI","TC2_19_6","19","Circuit Judge","TC2","6",1,"NPE",NA,NA,1,0,0
+"FL_1998-09-01_PRI","TC2_19_9","19","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0

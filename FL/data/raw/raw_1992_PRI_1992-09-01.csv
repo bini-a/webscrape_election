@@ -1,0 +1,1496 @@
+ElectionDate	PartyCode	PartyName	RaceCode	OfficeDesc	CountyCode	CountyName	Juris1num	Juris2num	Precincts	PrecinctsReporting	CanNameLast	CanNameFirst	CanNameMiddle	CanVotes
+9/1/1992	DEM	Democrat	USS	United States Senator	ALA	Alachua			0	0	Graham	Bob		20415
+9/1/1992	DEM	Democrat	USS	United States Senator	BAK	Baker			0	0	Graham	Bob		5916
+9/1/1992	DEM	Democrat	USS	United States Senator	BAY	Bay			0	0	Graham	Bob		18008
+9/1/1992	DEM	Democrat	USS	United States Senator	BRA	Bradford			0	0	Graham	Bob		5244
+9/1/1992	DEM	Democrat	USS	United States Senator	BRE	Brevard			0	0	Graham	Bob		27572
+9/1/1992	DEM	Democrat	USS	United States Senator	BRO	Broward			0	0	Graham	Bob		88515
+9/1/1992	DEM	Democrat	USS	United States Senator	CAL	Calhoun			0	0	Graham	Bob		3653
+9/1/1992	DEM	Democrat	USS	United States Senator	CHA	Charlotte			0	0	Graham	Bob		7155
+9/1/1992	DEM	Democrat	USS	United States Senator	CIT	Citrus			0	0	Graham	Bob		10158
+9/1/1992	DEM	Democrat	USS	United States Senator	CLA	Clay			0	0	Graham	Bob		5906
+9/1/1992	DEM	Democrat	USS	United States Senator	CLL	Collier			0	0	Graham	Bob		5027
+9/1/1992	DEM	Democrat	USS	United States Senator	CLM	Columbia			0	0	Graham	Bob		5832
+9/1/1992	DEM	Democrat	USS	United States Senator	DES	Desoto			0	0	Graham	Bob		2937
+9/1/1992	DEM	Democrat	USS	United States Senator	DIX	Dixie			0	0	Graham	Bob		3507
+9/1/1992	DEM	Democrat	USS	United States Senator	DUV	Duval			0	0	Graham	Bob		51840
+9/1/1992	DEM	Democrat	USS	United States Senator	ESC	Escambia			0	0	Graham	Bob		29186
+9/1/1992	DEM	Democrat	USS	United States Senator	FLA	Flagler			0	0	Graham	Bob		2959
+9/1/1992	DEM	Democrat	USS	United States Senator	FRA	Franklin			0	0	Graham	Bob		3161
+9/1/1992	DEM	Democrat	USS	United States Senator	GAD	Gadsden			0	0	Graham	Bob		9637
+9/1/1992	DEM	Democrat	USS	United States Senator	GIL	Gilchrist			0	0	Graham	Bob		2590
+9/1/1992	DEM	Democrat	USS	United States Senator	GLA	Glades			0	0	Graham	Bob		1815
+9/1/1992	DEM	Democrat	USS	United States Senator	GUL	Gulf			0	0	Graham	Bob		3211
+9/1/1992	DEM	Democrat	USS	United States Senator	HAM	Hamilton			0	0	Graham	Bob		2939
+9/1/1992	DEM	Democrat	USS	United States Senator	HAR	Hardee			0	0	Graham	Bob		3546
+9/1/1992	DEM	Democrat	USS	United States Senator	HEN	Hendry			0	0	Graham	Bob		3773
+9/1/1992	DEM	Democrat	USS	United States Senator	HER	Hernando			0	0	Graham	Bob		12102
+9/1/1992	DEM	Democrat	USS	United States Senator	HIG	Highlands			0	0	Graham	Bob		6244
+9/1/1992	DEM	Democrat	USS	United States Senator	HIL	Hillsborough			0	0	Graham	Bob		55443
+9/1/1992	DEM	Democrat	USS	United States Senator	HOL	Holmes			0	0	Graham	Bob		4100
+9/1/1992	DEM	Democrat	USS	United States Senator	IND	Indian River			0	0	Graham	Bob		4210
+9/1/1992	DEM	Democrat	USS	United States Senator	JAC	Jackson			0	0	Graham	Bob		9117
+9/1/1992	DEM	Democrat	USS	United States Senator	JEF	Jefferson			0	0	Graham	Bob		2864
+9/1/1992	DEM	Democrat	USS	United States Senator	LAF	Lafayette			0	0	Graham	Bob		2025
+9/1/1992	DEM	Democrat	USS	United States Senator	LAK	Lake			0	0	Graham	Bob		7896
+9/1/1992	DEM	Democrat	USS	United States Senator	LEE	Lee			0	0	Graham	Bob		13161
+9/1/1992	DEM	Democrat	USS	United States Senator	LEO	Leon			0	0	Graham	Bob		35458
+9/1/1992	DEM	Democrat	USS	United States Senator	LEV	Levy			0	0	Graham	Bob		5638
+9/1/1992	DEM	Democrat	USS	United States Senator	LIB	Liberty			0	0	Graham	Bob		2047
+9/1/1992	DEM	Democrat	USS	United States Senator	MAD	Madison			0	0	Graham	Bob		4326
+9/1/1992	DEM	Democrat	USS	United States Senator	MAN	Manatee			0	0	Graham	Bob		14467
+9/1/1992	DEM	Democrat	USS	United States Senator	MRN	Marion			0	0	Graham	Bob		15770
+9/1/1992	DEM	Democrat	USS	United States Senator	MRT	Martin			0	0	Graham	Bob		3728
+9/1/1992	DEM	Democrat	USS	United States Senator	DAD	Miami-Dade			0	0	Graham	Bob		80412
+9/1/1992	DEM	Democrat	USS	United States Senator	MON	Monroe			0	0	Graham	Bob		5142
+9/1/1992	DEM	Democrat	USS	United States Senator	NAS	Nassau			0	0	Graham	Bob		6741
+9/1/1992	DEM	Democrat	USS	United States Senator	OKA	Okaloosa			0	0	Graham	Bob		10319
+9/1/1992	DEM	Democrat	USS	United States Senator	OKE	Okeechobee			0	0	Graham	Bob		3897
+9/1/1992	DEM	Democrat	USS	United States Senator	ORA	Orange			0	0	Graham	Bob		29872
+9/1/1992	DEM	Democrat	USS	United States Senator	OSC	Osceola			0	0	Graham	Bob		8220
+9/1/1992	DEM	Democrat	USS	United States Senator	PAL	Palm Beach			0	0	Graham	Bob		56805
+9/1/1992	DEM	Democrat	USS	United States Senator	PAS	Pasco			0	0	Graham	Bob		24167
+9/1/1992	DEM	Democrat	USS	United States Senator	PIN	Pinellas			0	0	Graham	Bob		51169
+9/1/1992	DEM	Democrat	USS	United States Senator	POL	Polk			0	0	Graham	Bob		34921
+9/1/1992	DEM	Democrat	USS	United States Senator	PUT	Putnam			0	0	Graham	Bob		11789
+9/1/1992	DEM	Democrat	USS	United States Senator	SAN	Santa Rosa			0	0	Graham	Bob		11277
+9/1/1992	DEM	Democrat	USS	United States Senator	SAR	Sarasota			0	0	Graham	Bob		16195
+9/1/1992	DEM	Democrat	USS	United States Senator	SEM	Seminole			0	0	Graham	Bob		11701
+9/1/1992	DEM	Democrat	USS	United States Senator	STJ	St. Johns			0	0	Graham	Bob		7491
+9/1/1992	DEM	Democrat	USS	United States Senator	STL	St. Lucie			0	0	Graham	Bob		9532
+9/1/1992	DEM	Democrat	USS	United States Senator	SUM	Sumter			0	0	Graham	Bob		5050
+9/1/1992	DEM	Democrat	USS	United States Senator	SUW	Suwannee			0	0	Graham	Bob		6476
+9/1/1992	DEM	Democrat	USS	United States Senator	TAY	Taylor			0	0	Graham	Bob		5094
+9/1/1992	DEM	Democrat	USS	United States Senator	UNI	Union			0	0	Graham	Bob		2976
+9/1/1992	DEM	Democrat	USS	United States Senator	VOL	Volusia			0	0	Graham	Bob		31188
+9/1/1992	DEM	Democrat	USS	United States Senator	WAK	Wakulla			0	0	Graham	Bob		4308
+9/1/1992	DEM	Democrat	USS	United States Senator	WAL	Walton			0	0	Graham	Bob		6141
+9/1/1992	DEM	Democrat	USS	United States Senator	WAS	Washington			0	0	Graham	Bob		4637
+9/1/1992	DEM	Democrat	USS	United States Senator	ALA	Alachua			0	0	Mahorner	Jim		3217
+9/1/1992	DEM	Democrat	USS	United States Senator	BAK	Baker			0	0	Mahorner	Jim		1330
+9/1/1992	DEM	Democrat	USS	United States Senator	BAY	Bay			0	0	Mahorner	Jim		4878
+9/1/1992	DEM	Democrat	USS	United States Senator	BRA	Bradford			0	0	Mahorner	Jim		1201
+9/1/1992	DEM	Democrat	USS	United States Senator	BRE	Brevard			0	0	Mahorner	Jim		9081
+9/1/1992	DEM	Democrat	USS	United States Senator	BRO	Broward			0	0	Mahorner	Jim		7254
+9/1/1992	DEM	Democrat	USS	United States Senator	CAL	Calhoun			0	0	Mahorner	Jim		598
+9/1/1992	DEM	Democrat	USS	United States Senator	CHA	Charlotte			0	0	Mahorner	Jim		1847
+9/1/1992	DEM	Democrat	USS	United States Senator	CIT	Citrus			0	0	Mahorner	Jim		2782
+9/1/1992	DEM	Democrat	USS	United States Senator	CLA	Clay			0	0	Mahorner	Jim		1399
+9/1/1992	DEM	Democrat	USS	United States Senator	CLL	Collier			0	0	Mahorner	Jim		1181
+9/1/1992	DEM	Democrat	USS	United States Senator	CLM	Columbia			0	0	Mahorner	Jim		1566
+9/1/1992	DEM	Democrat	USS	United States Senator	DES	Desoto			0	0	Mahorner	Jim		740
+9/1/1992	DEM	Democrat	USS	United States Senator	DIX	Dixie			0	0	Mahorner	Jim		912
+9/1/1992	DEM	Democrat	USS	United States Senator	DUV	Duval			0	0	Mahorner	Jim		12081
+9/1/1992	DEM	Democrat	USS	United States Senator	ESC	Escambia			0	0	Mahorner	Jim		8573
+9/1/1992	DEM	Democrat	USS	United States Senator	FLA	Flagler			0	0	Mahorner	Jim		547
+9/1/1992	DEM	Democrat	USS	United States Senator	FRA	Franklin			0	0	Mahorner	Jim		706
+9/1/1992	DEM	Democrat	USS	United States Senator	GAD	Gadsden			0	0	Mahorner	Jim		1278
+9/1/1992	DEM	Democrat	USS	United States Senator	GIL	Gilchrist			0	0	Mahorner	Jim		667
+9/1/1992	DEM	Democrat	USS	United States Senator	GLA	Glades			0	0	Mahorner	Jim		522
+9/1/1992	DEM	Democrat	USS	United States Senator	GUL	Gulf			0	0	Mahorner	Jim		916
+9/1/1992	DEM	Democrat	USS	United States Senator	HAM	Hamilton			0	0	Mahorner	Jim		562
+9/1/1992	DEM	Democrat	USS	United States Senator	HAR	Hardee			0	0	Mahorner	Jim		718
+9/1/1992	DEM	Democrat	USS	United States Senator	HEN	Hendry			0	0	Mahorner	Jim		962
+9/1/1992	DEM	Democrat	USS	United States Senator	HER	Hernando			0	0	Mahorner	Jim		2589
+9/1/1992	DEM	Democrat	USS	United States Senator	HIG	Highlands			0	0	Mahorner	Jim		1535
+9/1/1992	DEM	Democrat	USS	United States Senator	HIL	Hillsborough			0	0	Mahorner	Jim		9551
+9/1/1992	DEM	Democrat	USS	United States Senator	HOL	Holmes			0	0	Mahorner	Jim		1157
+9/1/1992	DEM	Democrat	USS	United States Senator	IND	Indian River			0	0	Mahorner	Jim		877
+9/1/1992	DEM	Democrat	USS	United States Senator	JAC	Jackson			0	0	Mahorner	Jim		1967
+9/1/1992	DEM	Democrat	USS	United States Senator	JEF	Jefferson			0	0	Mahorner	Jim		427
+9/1/1992	DEM	Democrat	USS	United States Senator	LAF	Lafayette			0	0	Mahorner	Jim		413
+9/1/1992	DEM	Democrat	USS	United States Senator	LAK	Lake			0	0	Mahorner	Jim		1763
+9/1/1992	DEM	Democrat	USS	United States Senator	LEE	Lee			0	0	Mahorner	Jim		3666
+9/1/1992	DEM	Democrat	USS	United States Senator	LEO	Leon			0	0	Mahorner	Jim		4261
+9/1/1992	DEM	Democrat	USS	United States Senator	LEV	Levy			0	0	Mahorner	Jim		1254
+9/1/1992	DEM	Democrat	USS	United States Senator	LIB	Liberty			0	0	Mahorner	Jim		427
+9/1/1992	DEM	Democrat	USS	United States Senator	MAD	Madison			0	0	Mahorner	Jim		690
+9/1/1992	DEM	Democrat	USS	United States Senator	MAN	Manatee			0	0	Mahorner	Jim		2831
+9/1/1992	DEM	Democrat	USS	United States Senator	MRN	Marion			0	0	Mahorner	Jim		3579
+9/1/1992	DEM	Democrat	USS	United States Senator	MRT	Martin			0	0	Mahorner	Jim		636
+9/1/1992	DEM	Democrat	USS	United States Senator	DAD	Miami-Dade			0	0	Mahorner	Jim		5564
+9/1/1992	DEM	Democrat	USS	United States Senator	MON	Monroe			0	0	Mahorner	Jim		1132
+9/1/1992	DEM	Democrat	USS	United States Senator	NAS	Nassau			0	0	Mahorner	Jim		1780
+9/1/1992	DEM	Democrat	USS	United States Senator	OKA	Okaloosa			0	0	Mahorner	Jim		3217
+9/1/1992	DEM	Democrat	USS	United States Senator	OKE	Okeechobee			0	0	Mahorner	Jim		1335
+9/1/1992	DEM	Democrat	USS	United States Senator	ORA	Orange			0	0	Mahorner	Jim		5961
+9/1/1992	DEM	Democrat	USS	United States Senator	OSC	Osceola			0	0	Mahorner	Jim		1757
+9/1/1992	DEM	Democrat	USS	United States Senator	PAL	Palm Beach			0	0	Mahorner	Jim		6260
+9/1/1992	DEM	Democrat	USS	United States Senator	PAS	Pasco			0	0	Mahorner	Jim		5092
+9/1/1992	DEM	Democrat	USS	United States Senator	PIN	Pinellas			0	0	Mahorner	Jim		8412
+9/1/1992	DEM	Democrat	USS	United States Senator	POL	Polk			0	0	Mahorner	Jim		6303
+9/1/1992	DEM	Democrat	USS	United States Senator	PUT	Putnam			0	0	Mahorner	Jim		2778
+9/1/1992	DEM	Democrat	USS	United States Senator	SAN	Santa Rosa			0	0	Mahorner	Jim		4041
+9/1/1992	DEM	Democrat	USS	United States Senator	SAR	Sarasota			0	0	Mahorner	Jim		2999
+9/1/1992	DEM	Democrat	USS	United States Senator	SEM	Seminole			0	0	Mahorner	Jim		2433
+9/1/1992	DEM	Democrat	USS	United States Senator	STJ	St. Johns			0	0	Mahorner	Jim		1997
+9/1/1992	DEM	Democrat	USS	United States Senator	STL	St. Lucie			0	0	Mahorner	Jim		2408
+9/1/1992	DEM	Democrat	USS	United States Senator	SUM	Sumter			0	0	Mahorner	Jim		1069
+9/1/1992	DEM	Democrat	USS	United States Senator	SUW	Suwannee			0	0	Mahorner	Jim		1746
+9/1/1992	DEM	Democrat	USS	United States Senator	TAY	Taylor			0	0	Mahorner	Jim		1044
+9/1/1992	DEM	Democrat	USS	United States Senator	UNI	Union			0	0	Mahorner	Jim		570
+9/1/1992	DEM	Democrat	USS	United States Senator	VOL	Volusia			0	0	Mahorner	Jim		5321
+9/1/1992	DEM	Democrat	USS	United States Senator	WAK	Wakulla			0	0	Mahorner	Jim		792
+9/1/1992	DEM	Democrat	USS	United States Senator	WAL	Walton			0	0	Mahorner	Jim		2133
+9/1/1992	DEM	Democrat	USS	United States Senator	WAS	Washington			0	0	Mahorner	Jim		1120
+9/1/1992	DEM	Democrat	USR	United States Representative	BAY	Bay	001		0	0	Hutto	Earl		3348
+9/1/1992	DEM	Democrat	USR	United States Representative	ESC	Escambia	001		0	0	Hutto	Earl		28183
+9/1/1992	DEM	Democrat	USR	United States Representative	HOL	Holmes	001		0	0	Hutto	Earl		3540
+9/1/1992	DEM	Democrat	USR	United States Representative	OKA	Okaloosa	001		0	0	Hutto	Earl		9601
+9/1/1992	DEM	Democrat	USR	United States Representative	SAN	Santa Rosa	001		0	0	Hutto	Earl		10109
+9/1/1992	DEM	Democrat	USR	United States Representative	WAL	Walton	001		0	0	Hutto	Earl		5565
+9/1/1992	DEM	Democrat	USR	United States Representative	BAY	Bay	001		0	0	Keller	Harry		759
+9/1/1992	DEM	Democrat	USR	United States Representative	ESC	Escambia	001		0	0	Keller	Harry		4614
+9/1/1992	DEM	Democrat	USR	United States Representative	HOL	Holmes	001		0	0	Keller	Harry		395
+9/1/1992	DEM	Democrat	USR	United States Representative	OKA	Okaloosa	001		0	0	Keller	Harry		2297
+9/1/1992	DEM	Democrat	USR	United States Representative	SAN	Santa Rosa	001		0	0	Keller	Harry		1457
+9/1/1992	DEM	Democrat	USR	United States Representative	WAL	Walton	001		0	0	Keller	Harry		889
+9/1/1992	DEM	Democrat	USR	United States Representative	BAY	Bay	001		0	0	Padgett	Ernie		1172
+9/1/1992	DEM	Democrat	USR	United States Representative	ESC	Escambia	001		0	0	Padgett	Ernie		6789
+9/1/1992	DEM	Democrat	USR	United States Representative	HOL	Holmes	001		0	0	Padgett	Ernie		1516
+9/1/1992	DEM	Democrat	USR	United States Representative	OKA	Okaloosa	001		0	0	Padgett	Ernie		1749
+9/1/1992	DEM	Democrat	USR	United States Representative	SAN	Santa Rosa	001		0	0	Padgett	Ernie		4072
+9/1/1992	DEM	Democrat	USR	United States Representative	WAL	Walton	001		0	0	Padgett	Ernie		2075
+9/1/1992	DEM	Democrat	USR	United States Representative	BAK	Baker	002		0	0	Peterson	Pete		2202
+9/1/1992	DEM	Democrat	USR	United States Representative	BAY	Bay	002		0	0	Peterson	Pete		11114
+9/1/1992	DEM	Democrat	USR	United States Representative	CAL	Calhoun	002		0	0	Peterson	Pete		2213
+9/1/1992	DEM	Democrat	USR	United States Representative	CLM	Columbia	002		0	0	Peterson	Pete		3156
+9/1/1992	DEM	Democrat	USR	United States Representative	FRA	Franklin	002		0	0	Peterson	Pete		2308
+9/1/1992	DEM	Democrat	USR	United States Representative	GAD	Gadsden	002		0	0	Peterson	Pete		7907
+9/1/1992	DEM	Democrat	USR	United States Representative	GUL	Gulf	002		0	0	Peterson	Pete		2665
+9/1/1992	DEM	Democrat	USR	United States Representative	HAM	Hamilton	002		0	0	Peterson	Pete		2529
+9/1/1992	DEM	Democrat	USR	United States Representative	JAC	Jackson	002		0	0	Peterson	Pete		7047
+9/1/1992	DEM	Democrat	USR	United States Representative	JEF	Jefferson	002		0	0	Peterson	Pete		2493
+9/1/1992	DEM	Democrat	USR	United States Representative	LAF	Lafayette	002		0	0	Peterson	Pete		1032
+9/1/1992	DEM	Democrat	USR	United States Representative	LEO	Leon	002		0	0	Peterson	Pete		31634
+9/1/1992	DEM	Democrat	USR	United States Representative	LIB	Liberty	002		0	0	Peterson	Pete		1442
+9/1/1992	DEM	Democrat	USR	United States Representative	MAD	Madison	002		0	0	Peterson	Pete		3335
+9/1/1992	DEM	Democrat	USR	United States Representative	SUW	Suwannee	002		0	0	Peterson	Pete		4875
+9/1/1992	DEM	Democrat	USR	United States Representative	TAY	Taylor	002		0	0	Peterson	Pete		4014
+9/1/1992	DEM	Democrat	USR	United States Representative	WAK	Wakulla	002		0	0	Peterson	Pete		3340
+9/1/1992	DEM	Democrat	USR	United States Representative	WAS	Washington	002		0	0	Peterson	Pete		3603
+9/1/1992	DEM	Democrat	USR	United States Representative	BAK	Baker	002		0	0	Smith	Buster		1620
+9/1/1992	DEM	Democrat	USR	United States Representative	BAY	Bay	002		0	0	Smith	Buster		6045
+9/1/1992	DEM	Democrat	USR	United States Representative	CAL	Calhoun	002		0	0	Smith	Buster		2222
+9/1/1992	DEM	Democrat	USR	United States Representative	CLM	Columbia	002		0	0	Smith	Buster		1747
+9/1/1992	DEM	Democrat	USR	United States Representative	FRA	Franklin	002		0	0	Smith	Buster		1556
+9/1/1992	DEM	Democrat	USR	United States Representative	GAD	Gadsden	002		0	0	Smith	Buster		2668
+9/1/1992	DEM	Democrat	USR	United States Representative	GUL	Gulf	002		0	0	Smith	Buster		1454
+9/1/1992	DEM	Democrat	USR	United States Representative	HAM	Hamilton	002		0	0	Smith	Buster		885
+9/1/1992	DEM	Democrat	USR	United States Representative	JAC	Jackson	002		0	0	Smith	Buster		4091
+9/1/1992	DEM	Democrat	USR	United States Representative	JEF	Jefferson	002		0	0	Smith	Buster		753
+9/1/1992	DEM	Democrat	USR	United States Representative	LAF	Lafayette	002		0	0	Smith	Buster		1367
+9/1/1992	DEM	Democrat	USR	United States Representative	LEO	Leon	002		0	0	Smith	Buster		7605
+9/1/1992	DEM	Democrat	USR	United States Representative	LIB	Liberty	002		0	0	Smith	Buster		1136
+9/1/1992	DEM	Democrat	USR	United States Representative	MAD	Madison	002		0	0	Smith	Buster		1645
+9/1/1992	DEM	Democrat	USR	United States Representative	SUW	Suwannee	002		0	0	Smith	Buster		3268
+9/1/1992	DEM	Democrat	USR	United States Representative	TAY	Taylor	002		0	0	Smith	Buster		2114
+9/1/1992	DEM	Democrat	USR	United States Representative	WAK	Wakulla	002		0	0	Smith	Buster		1687
+9/1/1992	DEM	Democrat	USR	United States Representative	WAS	Washington	002		0	0	Smith	Buster		2028
+9/1/1992	DEM	Democrat	USR	United States Representative	ALA	Alachua	003		0	0	Brown	Corrine		2422
+9/1/1992	DEM	Democrat	USR	United States Representative	BAK	Baker	003		0	0	Brown	Corrine		585
+9/1/1992	DEM	Democrat	USR	United States Representative	CLA	Clay	003		0	0	Brown	Corrine		255
+9/1/1992	DEM	Democrat	USR	United States Representative	CLM	Columbia	003		0	0	Brown	Corrine		1107
+9/1/1992	DEM	Democrat	USR	United States Representative	DUV	Duval	003		0	0	Brown	Corrine		11952
+9/1/1992	DEM	Democrat	USR	United States Representative	FLA	Flagler	003		0	0	Brown	Corrine		87
+9/1/1992	DEM	Democrat	USR	United States Representative	LAK	Lake	003		0	0	Brown	Corrine		58
+9/1/1992	DEM	Democrat	USR	United States Representative	LEV	Levy	003		0	0	Brown	Corrine		208
+9/1/1992	DEM	Democrat	USR	United States Representative	MRN	Marion	003		0	0	Brown	Corrine		839
+9/1/1992	DEM	Democrat	USR	United States Representative	ORA	Orange	003		0	0	Brown	Corrine		3178
+9/1/1992	DEM	Democrat	USR	United States Representative	PUT	Putnam	003		0	0	Brown	Corrine		1625
+9/1/1992	DEM	Democrat	USR	United States Representative	SEM	Seminole	003		0	0	Brown	Corrine		854
+9/1/1992	DEM	Democrat	USR	United States Representative	STJ	St. Johns	003		0	0	Brown	Corrine		395
+9/1/1992	DEM	Democrat	USR	United States Representative	VOL	Volusia	003		0	0	Brown	Corrine		1809
+9/1/1992	DEM	Democrat	USR	United States Representative	ALA	Alachua	003		0	0	Girardeau	Arnett	E.	450
+9/1/1992	DEM	Democrat	USR	United States Representative	BAK	Baker	003		0	0	Girardeau	Arnett	E.	151
+9/1/1992	DEM	Democrat	USR	United States Representative	CLA	Clay	003		0	0	Girardeau	Arnett	E.	73
+9/1/1992	DEM	Democrat	USR	United States Representative	CLM	Columbia	003		0	0	Girardeau	Arnett	E.	127
+9/1/1992	DEM	Democrat	USR	United States Representative	DUV	Duval	003		0	0	Girardeau	Arnett	E.	6903
+9/1/1992	DEM	Democrat	USR	United States Representative	FLA	Flagler	003		0	0	Girardeau	Arnett	E.	19
+9/1/1992	DEM	Democrat	USR	United States Representative	LAK	Lake	003		0	0	Girardeau	Arnett	E.	38
+9/1/1992	DEM	Democrat	USR	United States Representative	LEV	Levy	003		0	0	Girardeau	Arnett	E.	20
+9/1/1992	DEM	Democrat	USR	United States Representative	MRN	Marion	003		0	0	Girardeau	Arnett	E.	530
+9/1/1992	DEM	Democrat	USR	United States Representative	ORA	Orange	003		0	0	Girardeau	Arnett	E.	798
+9/1/1992	DEM	Democrat	USR	United States Representative	PUT	Putnam	003		0	0	Girardeau	Arnett	E.	467
+9/1/1992	DEM	Democrat	USR	United States Representative	SEM	Seminole	003		0	0	Girardeau	Arnett	E.	126
+9/1/1992	DEM	Democrat	USR	United States Representative	STJ	St. Johns	003		0	0	Girardeau	Arnett	E.	461
+9/1/1992	DEM	Democrat	USR	United States Representative	VOL	Volusia	003		0	0	Girardeau	Arnett	E.	583
+9/1/1992	DEM	Democrat	USR	United States Representative	ALA	Alachua	003		0	0	Johnson	Andrew	E. 'Andy'	1277
+9/1/1992	DEM	Democrat	USR	United States Representative	BAK	Baker	003		0	0	Johnson	Andrew	E. 'Andy'	300
+9/1/1992	DEM	Democrat	USR	United States Representative	CLA	Clay	003		0	0	Johnson	Andrew	E. 'Andy'	324
+9/1/1992	DEM	Democrat	USR	United States Representative	CLM	Columbia	003		0	0	Johnson	Andrew	E. 'Andy'	1108
+9/1/1992	DEM	Democrat	USR	United States Representative	DUV	Duval	003		0	0	Johnson	Andrew	E. 'Andy'	9211
+9/1/1992	DEM	Democrat	USR	United States Representative	FLA	Flagler	003		0	0	Johnson	Andrew	E. 'Andy'	82
+9/1/1992	DEM	Democrat	USR	United States Representative	LAK	Lake	003		0	0	Johnson	Andrew	E. 'Andy'	22
+9/1/1992	DEM	Democrat	USR	United States Representative	LEV	Levy	003		0	0	Johnson	Andrew	E. 'Andy'	104
+9/1/1992	DEM	Democrat	USR	United States Representative	MRN	Marion	003		0	0	Johnson	Andrew	E. 'Andy'	570
+9/1/1992	DEM	Democrat	USR	United States Representative	ORA	Orange	003		0	0	Johnson	Andrew	E. 'Andy'	1172
+9/1/1992	DEM	Democrat	USR	United States Representative	PUT	Putnam	003		0	0	Johnson	Andrew	E. 'Andy'	3133
+9/1/1992	DEM	Democrat	USR	United States Representative	SEM	Seminole	003		0	0	Johnson	Andrew	E. 'Andy'	180
+9/1/1992	DEM	Democrat	USR	United States Representative	STJ	St. Johns	003		0	0	Johnson	Andrew	E. 'Andy'	116
+9/1/1992	DEM	Democrat	USR	United States Representative	VOL	Volusia	003		0	0	Johnson	Andrew	E. 'Andy'	610
+9/1/1992	DEM	Democrat	USR	United States Representative	ALA	Alachua	003		0	0	Mills	Glennie		405
+9/1/1992	DEM	Democrat	USR	United States Representative	BAK	Baker	003		0	0	Mills	Glennie		46
+9/1/1992	DEM	Democrat	USR	United States Representative	CLA	Clay	003		0	0	Mills	Glennie		50
+9/1/1992	DEM	Democrat	USR	United States Representative	CLM	Columbia	003		0	0	Mills	Glennie		98
+9/1/1992	DEM	Democrat	USR	United States Representative	DUV	Duval	003		0	0	Mills	Glennie		1320
+9/1/1992	DEM	Democrat	USR	United States Representative	FLA	Flagler	003		0	0	Mills	Glennie		24
+9/1/1992	DEM	Democrat	USR	United States Representative	LAK	Lake	003		0	0	Mills	Glennie		5
+9/1/1992	DEM	Democrat	USR	United States Representative	LEV	Levy	003		0	0	Mills	Glennie		16
+9/1/1992	DEM	Democrat	USR	United States Representative	MRN	Marion	003		0	0	Mills	Glennie		127
+9/1/1992	DEM	Democrat	USR	United States Representative	ORA	Orange	003		0	0	Mills	Glennie		1549
+9/1/1992	DEM	Democrat	USR	United States Representative	PUT	Putnam	003		0	0	Mills	Glennie		360
+9/1/1992	DEM	Democrat	USR	United States Representative	SEM	Seminole	003		0	0	Mills	Glennie		158
+9/1/1992	DEM	Democrat	USR	United States Representative	STJ	St. Johns	003		0	0	Mills	Glennie		32
+9/1/1992	DEM	Democrat	USR	United States Representative	VOL	Volusia	003		0	0	Mills	Glennie		193
+9/1/1992	DEM	Democrat	USR	United States Representative	ALA	Alachua	005		0	0	Rivera	Mario	F.	4210
+9/1/1992	DEM	Democrat	USR	United States Representative	CIT	Citrus	005		0	0	Rivera	Mario	F.	3030
+9/1/1992	DEM	Democrat	USR	United States Representative	DIX	Dixie	005		0	0	Rivera	Mario	F.	1173
+9/1/1992	DEM	Democrat	USR	United States Representative	GIL	Gilchrist	005		0	0	Rivera	Mario	F.	1054
+9/1/1992	DEM	Democrat	USR	United States Representative	HER	Hernando	005		0	0	Rivera	Mario	F.	3251
+9/1/1992	DEM	Democrat	USR	United States Representative	LEV	Levy	005		0	0	Rivera	Mario	F.	1968
+9/1/1992	DEM	Democrat	USR	United States Representative	MRN	Marion	005		0	0	Rivera	Mario	F.	579
+9/1/1992	DEM	Democrat	USR	United States Representative	PAS	Pasco	005		0	0	Rivera	Mario	F.	2647
+9/1/1992	DEM	Democrat	USR	United States Representative	SUM	Sumter	005		0	0	Rivera	Mario	F.	1229
+9/1/1992	DEM	Democrat	USR	United States Representative	ALA	Alachua	005		0	0	Thurman	Karen	L.	13163
+9/1/1992	DEM	Democrat	USR	United States Representative	CIT	Citrus	005		0	0	Thurman	Karen	L.	9800
+9/1/1992	DEM	Democrat	USR	United States Representative	DIX	Dixie	005		0	0	Thurman	Karen	L.	2967
+9/1/1992	DEM	Democrat	USR	United States Representative	GIL	Gilchrist	005		0	0	Thurman	Karen	L.	2021
+9/1/1992	DEM	Democrat	USR	United States Representative	HER	Hernando	005		0	0	Thurman	Karen	L.	11273
+9/1/1992	DEM	Democrat	USR	United States Representative	LEV	Levy	005		0	0	Thurman	Karen	L.	4253
+9/1/1992	DEM	Democrat	USR	United States Representative	MRN	Marion	005		0	0	Thurman	Karen	L.	1896
+9/1/1992	DEM	Democrat	USR	United States Representative	PAS	Pasco	005		0	0	Thurman	Karen	L.	10579
+9/1/1992	DEM	Democrat	USR	United States Representative	SUM	Sumter	005		0	0	Thurman	Karen	L.	4192
+9/1/1992	DEM	Democrat	USR	United States Representative	BAK	Baker	006		0	0	Denton	Phil		759
+9/1/1992	DEM	Democrat	USR	United States Representative	BRA	Bradford	006		0	0	Denton	Phil		2926
+9/1/1992	DEM	Democrat	USR	United States Representative	CLA	Clay	006		0	0	Denton	Phil		3037
+9/1/1992	DEM	Democrat	USR	United States Representative	DUV	Duval	006		0	0	Denton	Phil		2776
+9/1/1992	DEM	Democrat	USR	United States Representative	LAK	Lake	006		0	0	Denton	Phil		4374
+9/1/1992	DEM	Democrat	USR	United States Representative	MRN	Marion	006		0	0	Denton	Phil		5620
+9/1/1992	DEM	Democrat	USR	United States Representative	PUT	Putnam	006		0	0	Denton	Phil		3841
+9/1/1992	DEM	Democrat	USR	United States Representative	UNI	Union	006		0	0	Denton	Phil		1519
+9/1/1992	DEM	Democrat	USR	United States Representative	BAK	Baker	006		0	0	Olsen	Richard		686
+9/1/1992	DEM	Democrat	USR	United States Representative	BRA	Bradford	006		0	0	Olsen	Richard		2428
+9/1/1992	DEM	Democrat	USR	United States Representative	CLA	Clay	006		0	0	Olsen	Richard		2603
+9/1/1992	DEM	Democrat	USR	United States Representative	DUV	Duval	006		0	0	Olsen	Richard		2737
+9/1/1992	DEM	Democrat	USR	United States Representative	LAK	Lake	006		0	0	Olsen	Richard		4271
+9/1/1992	DEM	Democrat	USR	United States Representative	MRN	Marion	006		0	0	Olsen	Richard		7342
+9/1/1992	DEM	Democrat	USR	United States Representative	PUT	Putnam	006		0	0	Olsen	Richard		3292
+9/1/1992	DEM	Democrat	USR	United States Representative	UNI	Union	006		0	0	Olsen	Richard		1264
+9/1/1992	DEM	Democrat	USR	United States Representative	ORA	Orange	007		0	0	Perry	Adrienne		1167
+9/1/1992	DEM	Democrat	USR	United States Representative	SEM	Seminole	007		0	0	Perry	Adrienne		6506
+9/1/1992	DEM	Democrat	USR	United States Representative	VOL	Volusia	007		0	0	Perry	Adrienne		7627
+9/1/1992	DEM	Democrat	USR	United States Representative	ORA	Orange	007		0	0	Webster	Dan		1236
+9/1/1992	DEM	Democrat	USR	United States Representative	SEM	Seminole	007		0	0	Webster	Dan		5543
+9/1/1992	DEM	Democrat	USR	United States Representative	VOL	Volusia	007		0	0	Webster	Dan		13365
+9/1/1992	DEM	Democrat	USR	United States Representative	PIN	Pinellas	010		0	0	DiGrazia	Darrell	V.	3500
+9/1/1992	DEM	Democrat	USR	United States Representative	PIN	Pinellas	010		0	0	Moffitt	Karen		30020
+9/1/1992	DEM	Democrat	USR	United States Representative	PIN	Pinellas	010		0	0	Savitskas	Ted		5148
+9/1/1992	DEM	Democrat	USR	United States Representative	DES	Desoto	012		0	0	Mims	Tom		1957
+9/1/1992	DEM	Democrat	USR	United States Representative	HAR	Hardee	012		0	0	Mims	Tom		2612
+9/1/1992	DEM	Democrat	USR	United States Representative	HIG	Highlands	012		0	0	Mims	Tom		929
+9/1/1992	DEM	Democrat	USR	United States Representative	HIL	Hillsborough	012		0	0	Mims	Tom		3561
+9/1/1992	DEM	Democrat	USR	United States Representative	PAS	Pasco	012		0	0	Mims	Tom		1545
+9/1/1992	DEM	Democrat	USR	United States Representative	POL	Polk	012		0	0	Mims	Tom		27052
+9/1/1992	DEM	Democrat	USR	United States Representative	DES	Desoto	012		0	0	O'Reilly	Frank		1385
+9/1/1992	DEM	Democrat	USR	United States Representative	HAR	Hardee	012		0	0	O'Reilly	Frank		1367
+9/1/1992	DEM	Democrat	USR	United States Representative	HIG	Highlands	012		0	0	O'Reilly	Frank		531
+9/1/1992	DEM	Democrat	USR	United States Representative	HIL	Hillsborough	012		0	0	O'Reilly	Frank		1912
+9/1/1992	DEM	Democrat	USR	United States Representative	PAS	Pasco	012		0	0	O'Reilly	Frank		829
+9/1/1992	DEM	Democrat	USR	United States Representative	POL	Polk	012		0	0	O'Reilly	Frank		12155
+9/1/1992	DEM	Democrat	USR	United States Representative	CHA	Charlotte	013		0	0	Slavin	Stephanie		1577
+9/1/1992	DEM	Democrat	USR	United States Representative	HIL	Hillsborough	013		0	0	Slavin	Stephanie		990
+9/1/1992	DEM	Democrat	USR	United States Representative	MAN	Manatee	013		0	0	Slavin	Stephanie		7042
+9/1/1992	DEM	Democrat	USR	United States Representative	SAR	Sarasota	013		0	0	Slavin	Stephanie		9668
+9/1/1992	DEM	Democrat	USR	United States Representative	CHA	Charlotte	013		0	0	Snell	Rand		1428
+9/1/1992	DEM	Democrat	USR	United States Representative	HIL	Hillsborough	013		0	0	Snell	Rand		1011
+9/1/1992	DEM	Democrat	USR	United States Representative	MAN	Manatee	013		0	0	Snell	Rand		9729
+9/1/1992	DEM	Democrat	USR	United States Representative	SAR	Sarasota	013		0	0	Snell	Rand		8655
+9/1/1992	DEM	Democrat	USR	United States Representative	BRE	Brevard	015		0	0	Bacchus	Jim		23727
+9/1/1992	DEM	Democrat	USR	United States Representative	IND	Indian River	015		0	0	Bacchus	Jim		2960
+9/1/1992	DEM	Democrat	USR	United States Representative	OSC	Osceola	015		0	0	Bacchus	Jim		3764
+9/1/1992	DEM	Democrat	USR	United States Representative	POL	Polk	015		0	0	Bacchus	Jim		765
+9/1/1992	DEM	Democrat	USR	United States Representative	BRE	Brevard	015		0	0	Bessinger	Larry		12677
+9/1/1992	DEM	Democrat	USR	United States Representative	IND	Indian River	015		0	0	Bessinger	Larry		1710
+9/1/1992	DEM	Democrat	USR	United States Representative	OSC	Osceola	015		0	0	Bessinger	Larry		1447
+9/1/1992	DEM	Democrat	USR	United States Representative	POL	Polk	015		0	0	Bessinger	Larry		537
+9/1/1992	DEM	Democrat	USR	United States Representative	DAD	Miami-Dade	017		0	0	Jones	Donald		3122
+9/1/1992	DEM	Democrat	USR	United States Representative	DAD	Miami-Dade	017		0	0	Meek	Carrie		31262
+9/1/1992	DEM	Democrat	USR	United States Representative	DAD	Miami-Dade	017		0	0	Reaves	Darryl		3499
+9/1/1992	DEM	Democrat	USR	United States Representative	BRO	Broward	020		0	0	Deutsch	Peter		24545
+9/1/1992	DEM	Democrat	USR	United States Representative	DAD	Miami-Dade	020		0	0	Deutsch	Peter		958
+9/1/1992	DEM	Democrat	USR	United States Representative	MON	Monroe	020		0	0	Deutsch	Peter		3250
+9/1/1992	DEM	Democrat	USR	United States Representative	BRO	Broward	020		0	0	Grossman	Nicki	Englander	13517
+9/1/1992	DEM	Democrat	USR	United States Representative	DAD	Miami-Dade	020		0	0	Grossman	Nicki	Englander	953
+9/1/1992	DEM	Democrat	USR	United States Representative	MON	Monroe	020		0	0	Grossman	Nicki	Englander	2741
+9/1/1992	DEM	Democrat	USR	United States Representative	BRO	Broward	023		0	0	Clark	Bill		7319
+9/1/1992	DEM	Democrat	USR	United States Representative	HEN	Hendry	023		0	0	Clark	Bill		95
+9/1/1992	DEM	Democrat	USR	United States Representative	MRT	Martin	023		0	0	Clark	Bill		38
+9/1/1992	DEM	Democrat	USR	United States Representative	DAD	Miami-Dade	023		0	0	Clark	Bill		457
+9/1/1992	DEM	Democrat	USR	United States Representative	OKE	Okeechobee	023		0	0	Clark	Bill		252
+9/1/1992	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	023		0	0	Clark	Bill		1531
+9/1/1992	DEM	Democrat	USR	United States Representative	STL	St. Lucie	023		0	0	Clark	Bill		189
+9/1/1992	DEM	Democrat	USR	United States Representative	BRO	Broward	023		0	0	Cooper	Kenneth	Donald	922
+9/1/1992	DEM	Democrat	USR	United States Representative	HEN	Hendry	023		0	0	Cooper	Kenneth	Donald	33
+9/1/1992	DEM	Democrat	USR	United States Representative	MRT	Martin	023		0	0	Cooper	Kenneth	Donald	27
+9/1/1992	DEM	Democrat	USR	United States Representative	DAD	Miami-Dade	023		0	0	Cooper	Kenneth	Donald	15
+9/1/1992	DEM	Democrat	USR	United States Representative	OKE	Okeechobee	023		0	0	Cooper	Kenneth	Donald	289
+9/1/1992	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	023		0	0	Cooper	Kenneth	Donald	436
+9/1/1992	DEM	Democrat	USR	United States Representative	STL	St. Lucie	023		0	0	Cooper	Kenneth	Donald	150
+9/1/1992	DEM	Democrat	USR	United States Representative	BRO	Broward	023		0	0	Frankel	Lois		5200
+9/1/1992	DEM	Democrat	USR	United States Representative	HEN	Hendry	023		0	0	Frankel	Lois		103
+9/1/1992	DEM	Democrat	USR	United States Representative	MRT	Martin	023		0	0	Frankel	Lois		134
+9/1/1992	DEM	Democrat	USR	United States Representative	DAD	Miami-Dade	023		0	0	Frankel	Lois		221
+9/1/1992	DEM	Democrat	USR	United States Representative	OKE	Okeechobee	023		0	0	Frankel	Lois		897
+9/1/1992	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	023		0	0	Frankel	Lois		5459
+9/1/1992	DEM	Democrat	USR	United States Representative	STL	St. Lucie	023		0	0	Frankel	Lois		542
+9/1/1992	DEM	Democrat	USR	United States Representative	BRO	Broward	023		0	0	Hastings	Alcee	L.	4689
+9/1/1992	DEM	Democrat	USR	United States Representative	HEN	Hendry	023		0	0	Hastings	Alcee	L.	312
+9/1/1992	DEM	Democrat	USR	United States Representative	MRT	Martin	023		0	0	Hastings	Alcee	L.	31
+9/1/1992	DEM	Democrat	USR	United States Representative	DAD	Miami-Dade	023		0	0	Hastings	Alcee	L.	769
+9/1/1992	DEM	Democrat	USR	United States Representative	OKE	Okeechobee	023		0	0	Hastings	Alcee	L.	223
+9/1/1992	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	023		0	0	Hastings	Alcee	L.	3475
+9/1/1992	DEM	Democrat	USR	United States Representative	STL	St. Lucie	023		0	0	Hastings	Alcee	L.	738
+9/1/1992	DEM	Democrat	USR	United States Representative	BRO	Broward	023		0	0	Washington	William	Bill	303
+9/1/1992	DEM	Democrat	USR	United States Representative	HEN	Hendry	023		0	0	Washington	William	Bill	111
+9/1/1992	DEM	Democrat	USR	United States Representative	MRT	Martin	023		0	0	Washington	William	Bill	18
+9/1/1992	DEM	Democrat	USR	United States Representative	DAD	Miami-Dade	023		0	0	Washington	William	Bill	19
+9/1/1992	DEM	Democrat	USR	United States Representative	OKE	Okeechobee	023		0	0	Washington	William	Bill	125
+9/1/1992	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	023		0	0	Washington	William	Bill	983
+9/1/1992	DEM	Democrat	USR	United States Representative	STL	St. Lucie	023		0	0	Washington	William	Bill	152
+9/1/1992	DEM	Democrat	STA	State Attorney	FLA	Flagler	007		0	0	Doran	Ted		1811
+9/1/1992	DEM	Democrat	STA	State Attorney	PUT	Putnam	007		0	0	Doran	Ted		6894
+9/1/1992	DEM	Democrat	STA	State Attorney	STJ	St. Johns	007		0	0	Doran	Ted		4395
+9/1/1992	DEM	Democrat	STA	State Attorney	VOL	Volusia	007		0	0	Doran	Ted		20571
+9/1/1992	DEM	Democrat	STA	State Attorney	FLA	Flagler	007		0	0	Kimball	Greg		1503
+9/1/1992	DEM	Democrat	STA	State Attorney	PUT	Putnam	007		0	0	Kimball	Greg		5730
+9/1/1992	DEM	Democrat	STA	State Attorney	STJ	St. Johns	007		0	0	Kimball	Greg		3757
+9/1/1992	DEM	Democrat	STA	State Attorney	VOL	Volusia	007		0	0	Kimball	Greg		12713
+9/1/1992	DEM	Democrat	STA	State Attorney	ALA	Alachua	008		0	0	Schaefer	George		9590
+9/1/1992	DEM	Democrat	STA	State Attorney	BAK	Baker	008		0	0	Schaefer	George		2676
+9/1/1992	DEM	Democrat	STA	State Attorney	BRA	Bradford	008		0	0	Schaefer	George		2978
+9/1/1992	DEM	Democrat	STA	State Attorney	GIL	Gilchrist	008		0	0	Schaefer	George		1218
+9/1/1992	DEM	Democrat	STA	State Attorney	LEV	Levy	008		0	0	Schaefer	George		2864
+9/1/1992	DEM	Democrat	STA	State Attorney	UNI	Union	008		0	0	Schaefer	George		1033
+9/1/1992	DEM	Democrat	STA	State Attorney	ALA	Alachua	008		0	0	Smith	Rod		13029
+9/1/1992	DEM	Democrat	STA	State Attorney	BAK	Baker	008		0	0	Smith	Rod		4044
+9/1/1992	DEM	Democrat	STA	State Attorney	BRA	Bradford	008		0	0	Smith	Rod		3028
+9/1/1992	DEM	Democrat	STA	State Attorney	GIL	Gilchrist	008		0	0	Smith	Rod		1960
+9/1/1992	DEM	Democrat	STA	State Attorney	LEV	Levy	008		0	0	Smith	Rod		3744
+9/1/1992	DEM	Democrat	STA	State Attorney	UNI	Union	008		0	0	Smith	Rod		2329
+9/1/1992	DEM	Democrat	PUB	Public Defender	HIL	Hillsborough	013		0	0	Holt	Julianne		38004
+9/1/1992	DEM	Democrat	PUB	Public Defender	HIL	Hillsborough	013		0	0	Luckey, Jr.	Judge	C.	23423
+9/1/1992	DEM	Democrat	STS	State Senator	BAY	Bay	001		0	0	Childers	W.D.		2213
+9/1/1992	DEM	Democrat	STS	State Senator	ESC	Escambia	001		0	0	Childers	W.D.		16290
+9/1/1992	DEM	Democrat	STS	State Senator	HOL	Holmes	001		0	0	Childers	W.D.		3900
+9/1/1992	DEM	Democrat	STS	State Senator	OKA	Okaloosa	001		0	0	Childers	W.D.		3397
+9/1/1992	DEM	Democrat	STS	State Senator	SAN	Santa Rosa	001		0	0	Childers	W.D.		6869
+9/1/1992	DEM	Democrat	STS	State Senator	WAL	Walton	001		0	0	Childers	W.D.		5258
+9/1/1992	DEM	Democrat	STS	State Senator	WAS	Washington	001		0	0	Childers	W.D.		4005
+9/1/1992	DEM	Democrat	STS	State Senator	BAY	Bay	001		0	0	Kolmetz	Victor		821
+9/1/1992	DEM	Democrat	STS	State Senator	ESC	Escambia	001		0	0	Kolmetz	Victor		8568
+9/1/1992	DEM	Democrat	STS	State Senator	HOL	Holmes	001		0	0	Kolmetz	Victor		1348
+9/1/1992	DEM	Democrat	STS	State Senator	OKA	Okaloosa	001		0	0	Kolmetz	Victor		1075
+9/1/1992	DEM	Democrat	STS	State Senator	SAN	Santa Rosa	001		0	0	Kolmetz	Victor		3600
+9/1/1992	DEM	Democrat	STS	State Senator	WAL	Walton	001		0	0	Kolmetz	Victor		1986
+9/1/1992	DEM	Democrat	STS	State Senator	WAS	Washington	001		0	0	Kolmetz	Victor		1652
+9/1/1992	DEM	Democrat	STS	State Senator	ALA	Alachua	002		0	0	Folks	Warren	H.	503
+9/1/1992	DEM	Democrat	STS	State Senator	CLA	Clay	002		0	0	Folks	Warren	H.	87
+9/1/1992	DEM	Democrat	STS	State Senator	DUV	Duval	002		0	0	Folks	Warren	H.	6213
+9/1/1992	DEM	Democrat	STS	State Senator	PUT	Putnam	002		0	0	Folks	Warren	H.	470
+9/1/1992	DEM	Democrat	STS	State Senator	STJ	St. Johns	002		0	0	Folks	Warren	H.	415
+9/1/1992	DEM	Democrat	STS	State Senator	ALA	Alachua	002		0	0	Holzendorf	Betty	S.	1681
+9/1/1992	DEM	Democrat	STS	State Senator	CLA	Clay	002		0	0	Holzendorf	Betty	S.	174
+9/1/1992	DEM	Democrat	STS	State Senator	DUV	Duval	002		0	0	Holzendorf	Betty	S.	25934
+9/1/1992	DEM	Democrat	STS	State Senator	PUT	Putnam	002		0	0	Holzendorf	Betty	S.	989
+9/1/1992	DEM	Democrat	STS	State Senator	STJ	St. Johns	002		0	0	Holzendorf	Betty	S.	1197
+9/1/1992	DEM	Democrat	STS	State Senator	BAY	Bay	003		0	0	McLean	Jack		1658
+9/1/1992	DEM	Democrat	STS	State Senator	CAL	Calhoun	003		0	0	McLean	Jack		918
+9/1/1992	DEM	Democrat	STS	State Senator	FRA	Franklin	003		0	0	McLean	Jack		1154
+9/1/1992	DEM	Democrat	STS	State Senator	GAD	Gadsden	003		0	0	McLean	Jack		4031
+9/1/1992	DEM	Democrat	STS	State Senator	GUL	Gulf	003		0	0	McLean	Jack		934
+9/1/1992	DEM	Democrat	STS	State Senator	JAC	Jackson	003		0	0	McLean	Jack		3030
+9/1/1992	DEM	Democrat	STS	State Senator	JEF	Jefferson	003		0	0	McLean	Jack		509
+9/1/1992	DEM	Democrat	STS	State Senator	LEO	Leon	003		0	0	McLean	Jack		12401
+9/1/1992	DEM	Democrat	STS	State Senator	LIB	Liberty	003		0	0	McLean	Jack		503
+9/1/1992	DEM	Democrat	STS	State Senator	MAD	Madison	003		0	0	McLean	Jack		1021
+9/1/1992	DEM	Democrat	STS	State Senator	WAK	Wakulla	003		0	0	McLean	Jack		1541
+9/1/1992	DEM	Democrat	STS	State Senator	BAY	Bay	003		0	0	Thomas	Pat		4066
+9/1/1992	DEM	Democrat	STS	State Senator	CAL	Calhoun	003		0	0	Thomas	Pat		3388
+9/1/1992	DEM	Democrat	STS	State Senator	FRA	Franklin	003		0	0	Thomas	Pat		2748
+9/1/1992	DEM	Democrat	STS	State Senator	GAD	Gadsden	003		0	0	Thomas	Pat		7289
+9/1/1992	DEM	Democrat	STS	State Senator	GUL	Gulf	003		0	0	Thomas	Pat		3183
+9/1/1992	DEM	Democrat	STS	State Senator	JAC	Jackson	003		0	0	Thomas	Pat		8060
+9/1/1992	DEM	Democrat	STS	State Senator	JEF	Jefferson	003		0	0	Thomas	Pat		749
+9/1/1992	DEM	Democrat	STS	State Senator	LEO	Leon	003		0	0	Thomas	Pat		12784
+9/1/1992	DEM	Democrat	STS	State Senator	LIB	Liberty	003		0	0	Thomas	Pat		2092
+9/1/1992	DEM	Democrat	STS	State Senator	MAD	Madison	003		0	0	Thomas	Pat		2236
+9/1/1992	DEM	Democrat	STS	State Senator	WAK	Wakulla	003		0	0	Thomas	Pat		3524
+9/1/1992	DEM	Democrat	STS	State Senator	ALA	Alachua	004		0	0	Boyd	Bob		139
+9/1/1992	DEM	Democrat	STS	State Senator	BAK	Baker	004		0	0	Boyd	Bob		644
+9/1/1992	DEM	Democrat	STS	State Senator	BRA	Bradford	004		0	0	Boyd	Bob		376
+9/1/1992	DEM	Democrat	STS	State Senator	CIT	Citrus	004		0	0	Boyd	Bob		1088
+9/1/1992	DEM	Democrat	STS	State Senator	CLM	Columbia	004		0	0	Boyd	Bob		365
+9/1/1992	DEM	Democrat	STS	State Senator	DIX	Dixie	004		0	0	Boyd	Bob		756
+9/1/1992	DEM	Democrat	STS	State Senator	GIL	Gilchrist	004		0	0	Boyd	Bob		285
+9/1/1992	DEM	Democrat	STS	State Senator	HAM	Hamilton	004		0	0	Boyd	Bob		351
+9/1/1992	DEM	Democrat	STS	State Senator	JEF	Jefferson	004		0	0	Boyd	Bob		444
+9/1/1992	DEM	Democrat	STS	State Senator	LAF	Lafayette	004		0	0	Boyd	Bob		273
+9/1/1992	DEM	Democrat	STS	State Senator	LEO	Leon	004		0	0	Boyd	Bob		5842
+9/1/1992	DEM	Democrat	STS	State Senator	LEV	Levy	004		0	0	Boyd	Bob		275
+9/1/1992	DEM	Democrat	STS	State Senator	MAD	Madison	004		0	0	Boyd	Bob		227
+9/1/1992	DEM	Democrat	STS	State Senator	MRN	Marion	004		0	0	Boyd	Bob		564
+9/1/1992	DEM	Democrat	STS	State Senator	NAS	Nassau	004		0	0	Boyd	Bob		795
+9/1/1992	DEM	Democrat	STS	State Senator	SUW	Suwannee	004		0	0	Boyd	Bob		315
+9/1/1992	DEM	Democrat	STS	State Senator	TAY	Taylor	004		0	0	Boyd	Bob		1023
+9/1/1992	DEM	Democrat	STS	State Senator	UNI	Union	004		0	0	Boyd	Bob		245
+9/1/1992	DEM	Democrat	STS	State Senator	ALA	Alachua	004		0	0	Irby	Will		1029
+9/1/1992	DEM	Democrat	STS	State Senator	BAK	Baker	004		0	0	Irby	Will		1241
+9/1/1992	DEM	Democrat	STS	State Senator	BRA	Bradford	004		0	0	Irby	Will		373
+9/1/1992	DEM	Democrat	STS	State Senator	CIT	Citrus	004		0	0	Irby	Will		1405
+9/1/1992	DEM	Democrat	STS	State Senator	CLM	Columbia	004		0	0	Irby	Will		157
+9/1/1992	DEM	Democrat	STS	State Senator	DIX	Dixie	004		0	0	Irby	Will		1128
+9/1/1992	DEM	Democrat	STS	State Senator	GIL	Gilchrist	004		0	0	Irby	Will		839
+9/1/1992	DEM	Democrat	STS	State Senator	HAM	Hamilton	004		0	0	Irby	Will		466
+9/1/1992	DEM	Democrat	STS	State Senator	JEF	Jefferson	004		0	0	Irby	Will		128
+9/1/1992	DEM	Democrat	STS	State Senator	LAF	Lafayette	004		0	0	Irby	Will		302
+9/1/1992	DEM	Democrat	STS	State Senator	LEO	Leon	004		0	0	Irby	Will		1011
+9/1/1992	DEM	Democrat	STS	State Senator	LEV	Levy	004		0	0	Irby	Will		1175
+9/1/1992	DEM	Democrat	STS	State Senator	MAD	Madison	004		0	0	Irby	Will		79
+9/1/1992	DEM	Democrat	STS	State Senator	MRN	Marion	004		0	0	Irby	Will		456
+9/1/1992	DEM	Democrat	STS	State Senator	NAS	Nassau	004		0	0	Irby	Will		1808
+9/1/1992	DEM	Democrat	STS	State Senator	SUW	Suwannee	004		0	0	Irby	Will		226
+9/1/1992	DEM	Democrat	STS	State Senator	TAY	Taylor	004		0	0	Irby	Will		1443
+9/1/1992	DEM	Democrat	STS	State Senator	UNI	Union	004		0	0	Irby	Will		410
+9/1/1992	DEM	Democrat	STS	State Senator	ALA	Alachua	004		0	0	Lee	Lamar	'Poss'	365
+9/1/1992	DEM	Democrat	STS	State Senator	BAK	Baker	004		0	0	Lee	Lamar	'Poss'	1240
+9/1/1992	DEM	Democrat	STS	State Senator	BRA	Bradford	004		0	0	Lee	Lamar	'Poss'	390
+9/1/1992	DEM	Democrat	STS	State Senator	CIT	Citrus	004		0	0	Lee	Lamar	'Poss'	283
+9/1/1992	DEM	Democrat	STS	State Senator	CLM	Columbia	004		0	0	Lee	Lamar	'Poss'	530
+9/1/1992	DEM	Democrat	STS	State Senator	DIX	Dixie	004		0	0	Lee	Lamar	'Poss'	1098
+9/1/1992	DEM	Democrat	STS	State Senator	GIL	Gilchrist	004		0	0	Lee	Lamar	'Poss'	912
+9/1/1992	DEM	Democrat	STS	State Senator	HAM	Hamilton	004		0	0	Lee	Lamar	'Poss'	1008
+9/1/1992	DEM	Democrat	STS	State Senator	JEF	Jefferson	004		0	0	Lee	Lamar	'Poss'	288
+9/1/1992	DEM	Democrat	STS	State Senator	LAF	Lafayette	004		0	0	Lee	Lamar	'Poss'	686
+9/1/1992	DEM	Democrat	STS	State Senator	LEO	Leon	004		0	0	Lee	Lamar	'Poss'	478
+9/1/1992	DEM	Democrat	STS	State Senator	LEV	Levy	004		0	0	Lee	Lamar	'Poss'	328
+9/1/1992	DEM	Democrat	STS	State Senator	MAD	Madison	004		0	0	Lee	Lamar	'Poss'	403
+9/1/1992	DEM	Democrat	STS	State Senator	MRN	Marion	004		0	0	Lee	Lamar	'Poss'	453
+9/1/1992	DEM	Democrat	STS	State Senator	NAS	Nassau	004		0	0	Lee	Lamar	'Poss'	943
+9/1/1992	DEM	Democrat	STS	State Senator	SUW	Suwannee	004		0	0	Lee	Lamar	'Poss'	2031
+9/1/1992	DEM	Democrat	STS	State Senator	TAY	Taylor	004		0	0	Lee	Lamar	'Poss'	918
+9/1/1992	DEM	Democrat	STS	State Senator	UNI	Union	004		0	0	Lee	Lamar	'Poss'	215
+9/1/1992	DEM	Democrat	STS	State Senator	ALA	Alachua	004		0	0	Tucker	Don		125
+9/1/1992	DEM	Democrat	STS	State Senator	BAK	Baker	004		0	0	Tucker	Don		1497
+9/1/1992	DEM	Democrat	STS	State Senator	BRA	Bradford	004		0	0	Tucker	Don		752
+9/1/1992	DEM	Democrat	STS	State Senator	CIT	Citrus	004		0	0	Tucker	Don		1003
+9/1/1992	DEM	Democrat	STS	State Senator	CLM	Columbia	004		0	0	Tucker	Don		705
+9/1/1992	DEM	Democrat	STS	State Senator	DIX	Dixie	004		0	0	Tucker	Don		475
+9/1/1992	DEM	Democrat	STS	State Senator	GIL	Gilchrist	004		0	0	Tucker	Don		195
+9/1/1992	DEM	Democrat	STS	State Senator	HAM	Hamilton	004		0	0	Tucker	Don		693
+9/1/1992	DEM	Democrat	STS	State Senator	JEF	Jefferson	004		0	0	Tucker	Don		686
+9/1/1992	DEM	Democrat	STS	State Senator	LAF	Lafayette	004		0	0	Tucker	Don		221
+9/1/1992	DEM	Democrat	STS	State Senator	LEO	Leon	004		0	0	Tucker	Don		4198
+9/1/1992	DEM	Democrat	STS	State Senator	LEV	Levy	004		0	0	Tucker	Don		284
+9/1/1992	DEM	Democrat	STS	State Senator	MAD	Madison	004		0	0	Tucker	Don		357
+9/1/1992	DEM	Democrat	STS	State Senator	MRN	Marion	004		0	0	Tucker	Don		548
+9/1/1992	DEM	Democrat	STS	State Senator	NAS	Nassau	004		0	0	Tucker	Don		1753
+9/1/1992	DEM	Democrat	STS	State Senator	SUW	Suwannee	004		0	0	Tucker	Don		519
+9/1/1992	DEM	Democrat	STS	State Senator	TAY	Taylor	004		0	0	Tucker	Don		1085
+9/1/1992	DEM	Democrat	STS	State Senator	UNI	Union	004		0	0	Tucker	Don		345
+9/1/1992	DEM	Democrat	STS	State Senator	ALA	Alachua	004		0	0	Williams	Charles		443
+9/1/1992	DEM	Democrat	STS	State Senator	BAK	Baker	004		0	0	Williams	Charles		1857
+9/1/1992	DEM	Democrat	STS	State Senator	BRA	Bradford	004		0	0	Williams	Charles		761
+9/1/1992	DEM	Democrat	STS	State Senator	CIT	Citrus	004		0	0	Williams	Charles		960
+9/1/1992	DEM	Democrat	STS	State Senator	CLM	Columbia	004		0	0	Williams	Charles		463
+9/1/1992	DEM	Democrat	STS	State Senator	DIX	Dixie	004		0	0	Williams	Charles		850
+9/1/1992	DEM	Democrat	STS	State Senator	GIL	Gilchrist	004		0	0	Williams	Charles		975
+9/1/1992	DEM	Democrat	STS	State Senator	HAM	Hamilton	004		0	0	Williams	Charles		707
+9/1/1992	DEM	Democrat	STS	State Senator	JEF	Jefferson	004		0	0	Williams	Charles		394
+9/1/1992	DEM	Democrat	STS	State Senator	LAF	Lafayette	004		0	0	Williams	Charles		898
+9/1/1992	DEM	Democrat	STS	State Senator	LEO	Leon	004		0	0	Williams	Charles		1963
+9/1/1992	DEM	Democrat	STS	State Senator	LEV	Levy	004		0	0	Williams	Charles		223
+9/1/1992	DEM	Democrat	STS	State Senator	MAD	Madison	004		0	0	Williams	Charles		475
+9/1/1992	DEM	Democrat	STS	State Senator	MRN	Marion	004		0	0	Williams	Charles		535
+9/1/1992	DEM	Democrat	STS	State Senator	NAS	Nassau	004		0	0	Williams	Charles		2224
+9/1/1992	DEM	Democrat	STS	State Senator	SUW	Suwannee	004		0	0	Williams	Charles		1961
+9/1/1992	DEM	Democrat	STS	State Senator	TAY	Taylor	004		0	0	Williams	Charles		1584
+9/1/1992	DEM	Democrat	STS	State Senator	UNI	Union	004		0	0	Williams	Charles		366
+9/1/1992	DEM	Democrat	STS	State Senator	HER	Hernando	010		0	0	McKell-Tolar	Janet	E.	3797
+9/1/1992	DEM	Democrat	STS	State Senator	PAS	Pasco	010		0	0	McKell-Tolar	Janet	E.	3075
+9/1/1992	DEM	Democrat	STS	State Senator	POL	Polk	010		0	0	McKell-Tolar	Janet	E.	2363
+9/1/1992	DEM	Democrat	STS	State Senator	SUM	Sumter	010		0	0	McKell-Tolar	Janet	E.	1168
+9/1/1992	DEM	Democrat	STS	State Senator	HER	Hernando	010		0	0	Oliva	Marcelino		5195
+9/1/1992	DEM	Democrat	STS	State Senator	PAS	Pasco	010		0	0	Oliva	Marcelino		3784
+9/1/1992	DEM	Democrat	STS	State Senator	POL	Polk	010		0	0	Oliva	Marcelino		2311
+9/1/1992	DEM	Democrat	STS	State Senator	SUM	Sumter	010		0	0	Oliva	Marcelino		1391
+9/1/1992	DEM	Democrat	STS	State Senator	HER	Hernando	010		0	0	Smith	Charles	R. 'Chuck'	5615
+9/1/1992	DEM	Democrat	STS	State Senator	PAS	Pasco	010		0	0	Smith	Charles	R. 'Chuck'	2344
+9/1/1992	DEM	Democrat	STS	State Senator	POL	Polk	010		0	0	Smith	Charles	R. 'Chuck'	3040
+9/1/1992	DEM	Democrat	STS	State Senator	SUM	Sumter	010		0	0	Smith	Charles	R. 'Chuck'	2291
+9/1/1992	DEM	Democrat	STS	State Senator	CIT	Citrus	011		0	0	'Sonny' Conner, III	Owen	W.	1853
+9/1/1992	DEM	Democrat	STS	State Senator	LAK	Lake	011		0	0	'Sonny' Conner, III	Owen	W.	3870
+9/1/1992	DEM	Democrat	STS	State Senator	MRN	Marion	011		0	0	'Sonny' Conner, III	Owen	W.	2697
+9/1/1992	DEM	Democrat	STS	State Senator	SEM	Seminole	011		0	0	'Sonny' Conner, III	Owen	W.	236
+9/1/1992	DEM	Democrat	STS	State Senator	SUM	Sumter	011		0	0	'Sonny' Conner, III	Owen	W.	311
+9/1/1992	DEM	Democrat	STS	State Senator	CIT	Citrus	011		0	0	Johnson	Karen		5765
+9/1/1992	DEM	Democrat	STS	State Senator	LAK	Lake	011		0	0	Johnson	Karen		5482
+9/1/1992	DEM	Democrat	STS	State Senator	MRN	Marion	011		0	0	Johnson	Karen		7073
+9/1/1992	DEM	Democrat	STS	State Senator	SEM	Seminole	011		0	0	Johnson	Karen		595
+9/1/1992	DEM	Democrat	STS	State Senator	SUM	Sumter	011		0	0	Johnson	Karen		545
+9/1/1992	DEM	Democrat	STS	State Senator	HIL	Hillsborough	013		0	0	Figg	Mary		15422
+9/1/1992	DEM	Democrat	STS	State Senator	PAS	Pasco	013		0	0	Figg	Mary		3795
+9/1/1992	DEM	Democrat	STS	State Senator	HIL	Hillsborough	013		0	0	Kenney	Chris		5709
+9/1/1992	DEM	Democrat	STS	State Senator	PAS	Pasco	013		0	0	Kenney	Chris		1787
+9/1/1992	DEM	Democrat	STS	State Senator	ORA	Orange	014		0	0	Adams	Tim		3100
+9/1/1992	DEM	Democrat	STS	State Senator	SEM	Seminole	014		0	0	Adams	Tim		250
+9/1/1992	DEM	Democrat	STS	State Senator	ORA	Orange	014		0	0	Crawford	Candice		6519
+9/1/1992	DEM	Democrat	STS	State Senator	SEM	Seminole	014		0	0	Crawford	Candice		1006
+9/1/1992	DEM	Democrat	STS	State Senator	ORA	Orange	014		0	0	Dyer	Buddy		8010
+9/1/1992	DEM	Democrat	STS	State Senator	SEM	Seminole	014		0	0	Dyer	Buddy		492
+9/1/1992	DEM	Democrat	STS	State Senator	HIG	Highlands	017		0	0	Dantzler	Rick		3421
+9/1/1992	DEM	Democrat	STS	State Senator	HIL	Hillsborough	017		0	0	Dantzler	Rick		37
+9/1/1992	DEM	Democrat	STS	State Senator	OKE	Okeechobee	017		0	0	Dantzler	Rick		1347
+9/1/1992	DEM	Democrat	STS	State Senator	POL	Polk	017		0	0	Dantzler	Rick		20053
+9/1/1992	DEM	Democrat	STS	State Senator	HIG	Highlands	017		0	0	Ready	Gene		1246
+9/1/1992	DEM	Democrat	STS	State Senator	HIL	Hillsborough	017		0	0	Ready	Gene		16
+9/1/1992	DEM	Democrat	STS	State Senator	OKE	Okeechobee	017		0	0	Ready	Gene		521
+9/1/1992	DEM	Democrat	STS	State Senator	POL	Polk	017		0	0	Ready	Gene		7413
+9/1/1992	DEM	Democrat	STS	State Senator	BRE	Brevard	018		0	0	Grogan	Patricia		13456
+9/1/1992	DEM	Democrat	STS	State Senator	OSC	Osceola	018		0	0	Grogan	Patricia		5505
+9/1/1992	DEM	Democrat	STS	State Senator	BRE	Brevard	018		0	0	Nabors	Bob		7139
+9/1/1992	DEM	Democrat	STS	State Senator	OSC	Osceola	018		0	0	Nabors	Bob		3536
+9/1/1992	DEM	Democrat	STS	State Senator	PAS	Pasco	019		0	0	Altman	Peter		8526
+9/1/1992	DEM	Democrat	STS	State Senator	PIN	Pinellas	019		0	0	Altman	Peter		6867
+9/1/1992	DEM	Democrat	STS	State Senator	PAS	Pasco	019		0	0	Murburg	Mike		4306
+9/1/1992	DEM	Democrat	STS	State Senator	PIN	Pinellas	019		0	0	Murburg	Mike		4820
+9/1/1992	DEM	Democrat	STS	State Senator	HIL	Hillsborough	021		0	0	Bradley	Rudolph		1247
+9/1/1992	DEM	Democrat	STS	State Senator	MAN	Manatee	021		0	0	Bradley	Rudolph		533
+9/1/1992	DEM	Democrat	STS	State Senator	PIN	Pinellas	021		0	0	Bradley	Rudolph		3596
+9/1/1992	DEM	Democrat	STS	State Senator	POL	Polk	021		0	0	Bradley	Rudolph		552
+9/1/1992	DEM	Democrat	STS	State Senator	HIL	Hillsborough	021		0	0	Dawson	Warren	Hope	4561
+9/1/1992	DEM	Democrat	STS	State Senator	MAN	Manatee	021		0	0	Dawson	Warren	Hope	852
+9/1/1992	DEM	Democrat	STS	State Senator	PIN	Pinellas	021		0	0	Dawson	Warren	Hope	2337
+9/1/1992	DEM	Democrat	STS	State Senator	POL	Polk	021		0	0	Dawson	Warren	Hope	1845
+9/1/1992	DEM	Democrat	STS	State Senator	HIL	Hillsborough	021		0	0	Hargrett, Jr.	James	T. (Jim)	7947
+9/1/1992	DEM	Democrat	STS	State Senator	MAN	Manatee	021		0	0	Hargrett, Jr.	James	T. (Jim)	738
+9/1/1992	DEM	Democrat	STS	State Senator	PIN	Pinellas	021		0	0	Hargrett, Jr.	James	T. (Jim)	1889
+9/1/1992	DEM	Democrat	STS	State Senator	POL	Polk	021		0	0	Hargrett, Jr.	James	T. (Jim)	1882
+9/1/1992	DEM	Democrat	STS	State Senator	IND	Indian River	027		0	0	Brenner	Melanie		489
+9/1/1992	DEM	Democrat	STS	State Senator	MRT	Martin	027		0	0	Brenner	Melanie		0
+9/1/1992	DEM	Democrat	STS	State Senator	PAL	Palm Beach	027		0	0	Brenner	Melanie		3849
+9/1/1992	DEM	Democrat	STS	State Senator	STL	St. Lucie	027		0	0	Brenner	Melanie		3964
+9/1/1992	DEM	Democrat	STS	State Senator	IND	Indian River	027		0	0	Pincket	Steve		160
+9/1/1992	DEM	Democrat	STS	State Senator	MRT	Martin	027		0	0	Pincket	Steve		0
+9/1/1992	DEM	Democrat	STS	State Senator	PAL	Palm Beach	027		0	0	Pincket	Steve		2932
+9/1/1992	DEM	Democrat	STS	State Senator	STL	St. Lucie	027		0	0	Pincket	Steve		2333
+9/1/1992	DEM	Democrat	STS	State Senator	BRO	Broward	030		0	0	Iles	Ann		1683
+9/1/1992	DEM	Democrat	STS	State Senator	PAL	Palm Beach	030		0	0	Iles	Ann		3910
+9/1/1992	DEM	Democrat	STS	State Senator	BRO	Broward	030		0	0	Jackson	Phil		2040
+9/1/1992	DEM	Democrat	STS	State Senator	PAL	Palm Beach	030		0	0	Jackson	Phil		1638
+9/1/1992	DEM	Democrat	STS	State Senator	BRO	Broward	030		0	0	Meadows	Matthew	J.	5292
+9/1/1992	DEM	Democrat	STS	State Senator	PAL	Palm Beach	030		0	0	Meadows	Matthew	J.	1413
+9/1/1992	DEM	Democrat	STS	State Senator	BRO	Broward	030		0	0	Plante	Tom		1238
+9/1/1992	DEM	Democrat	STS	State Senator	PAL	Palm Beach	030		0	0	Plante	Tom		3098
+9/1/1992	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	036		0	0	Burke	James		10883
+9/1/1992	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	036		0	0	Turner	William	H.	10908
+9/1/1992	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	038		0	0	Silver	Ronald	(Ron) A.	15285
+9/1/1992	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	038		0	0	Steinberg	Paul	B.	8910
+9/1/1992	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	040		0	0	Guber	Susan		2409
+9/1/1992	DEM	Democrat	STS	State Senator	MON	Monroe	040		0	0	Guber	Susan		3628
+9/1/1992	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	040		0	0	Jones	Daryl	L.	9510
+9/1/1992	DEM	Democrat	STS	State Senator	MON	Monroe	040		0	0	Jones	Daryl	L.	2282
+9/1/1992	DEM	Democrat	STR	State Representative	ESC	Escambia	003		0	0	Hall	Addie	June	6265
+9/1/1992	DEM	Democrat	STR	State Representative	ESC	Escambia	003		0	0	Ritchie	Buzz		8701
+9/1/1992	DEM	Democrat	STR	State Representative	LEO	Leon	009		0	0	Rudd	Hurley	W.	15986
+9/1/1992	DEM	Democrat	STR	State Representative	LEO	Leon	009		0	0	Woodall	Karen		11867
+9/1/1992	DEM	Democrat	STR	State Representative	BAK	Baker	012		0	0	Crady	George		2849
+9/1/1992	DEM	Democrat	STR	State Representative	BRA	Bradford	012		0	0	Crady	George		2699
+9/1/1992	DEM	Democrat	STR	State Representative	DUV	Duval	012		0	0	Crady	George		583
+9/1/1992	DEM	Democrat	STR	State Representative	NAS	Nassau	012		0	0	Crady	George		5473
+9/1/1992	DEM	Democrat	STR	State Representative	UNI	Union	012		0	0	Crady	George		1759
+9/1/1992	DEM	Democrat	STR	State Representative	BAK	Baker	012		0	0	Knabb	George	W.	4523
+9/1/1992	DEM	Democrat	STR	State Representative	BRA	Bradford	012		0	0	Knabb	George	W.	3396
+9/1/1992	DEM	Democrat	STR	State Representative	DUV	Duval	012		0	0	Knabb	George	W.	332
+9/1/1992	DEM	Democrat	STR	State Representative	NAS	Nassau	012		0	0	Knabb	George	W.	2982
+9/1/1992	DEM	Democrat	STR	State Representative	UNI	Union	012		0	0	Knabb	George	W.	1664
+9/1/1992	DEM	Democrat	STR	State Representative	CLA	Clay	013		0	0	Carson	Dale		754
+9/1/1992	DEM	Democrat	STR	State Representative	DUV	Duval	013		0	0	Carson	Dale		4769
+9/1/1992	DEM	Democrat	STR	State Representative	CLA	Clay	013		0	0	Wilson, Jr.	Jesse		336
+9/1/1992	DEM	Democrat	STR	State Representative	DUV	Duval	013		0	0	Wilson, Jr.	Jesse		1596
+9/1/1992	DEM	Democrat	STR	State Representative	DUV	Duval	014		0	0	Adams	Charlie	L.	2545
+9/1/1992	DEM	Democrat	STR	State Representative	DUV	Duval	014		0	0	Hill	Anthony	'Tony'	5653
+9/1/1992	DEM	Democrat	STR	State Representative	DUV	Duval	014		0	0	James	Anita	J.	3995
+9/1/1992	DEM	Democrat	STR	State Representative	DUV	Duval	014		0	0	Wilcox	Levy	M.	1290
+9/1/1992	DEM	Democrat	STR	State Representative	DUV	Duval	015		0	0	Dennis	Willye	F.	6274
+9/1/1992	DEM	Democrat	STR	State Representative	DUV	Duval	015		0	0	Gomes	Anthony		1832
+9/1/1992	DEM	Democrat	STR	State Representative	DUV	Duval	015		0	0	Sellers	Henry	L.	3585
+9/1/1992	DEM	Democrat	STR	State Representative	DUV	Duval	016		0	0	Chinoy	Kathy		8687
+9/1/1992	DEM	Democrat	STR	State Representative	DUV	Duval	016		0	0	Shiffert	John	B.	4098
+9/1/1992	DEM	Democrat	STR	State Representative	VOL	Volusia	027		0	0	Charles	Jimmy		8053
+9/1/1992	DEM	Democrat	STR	State Representative	VOL	Volusia	027		0	0	White	Beebe	S.	4639
+9/1/1992	DEM	Democrat	STR	State Representative	ORA	Orange	033		0	0	Horner	Michael		635
+9/1/1992	DEM	Democrat	STR	State Representative	SEM	Seminole	033		0	0	Horner	Michael		2255
+9/1/1992	DEM	Democrat	STR	State Representative	VOL	Volusia	033		0	0	Horner	Michael		342
+9/1/1992	DEM	Democrat	STR	State Representative	ORA	Orange	033		0	0	Stone	Frank		922
+9/1/1992	DEM	Democrat	STR	State Representative	SEM	Seminole	033		0	0	Stone	Frank		2261
+9/1/1992	DEM	Democrat	STR	State Representative	VOL	Volusia	033		0	0	Stone	Frank		253
+9/1/1992	DEM	Democrat	STR	State Representative	HER	Hernando	044		0	0	Flato	Robert	'Bob'	6866
+9/1/1992	DEM	Democrat	STR	State Representative	LAK	Lake	044		0	0	Flato	Robert	'Bob'	75
+9/1/1992	DEM	Democrat	STR	State Representative	PAS	Pasco	044		0	0	Flato	Robert	'Bob'	28
+9/1/1992	DEM	Democrat	STR	State Representative	POL	Polk	044		0	0	Flato	Robert	'Bob'	202
+9/1/1992	DEM	Democrat	STR	State Representative	SUM	Sumter	044		0	0	Flato	Robert	'Bob'	221
+9/1/1992	DEM	Democrat	STR	State Representative	HER	Hernando	044		0	0	Wern	Alice		5579
+9/1/1992	DEM	Democrat	STR	State Representative	LAK	Lake	044		0	0	Wern	Alice		97
+9/1/1992	DEM	Democrat	STR	State Representative	PAS	Pasco	044		0	0	Wern	Alice		42
+9/1/1992	DEM	Democrat	STR	State Representative	POL	Polk	044		0	0	Wern	Alice		353
+9/1/1992	DEM	Democrat	STR	State Representative	SUM	Sumter	044		0	0	Wern	Alice		409
+9/1/1992	DEM	Democrat	STR	State Representative	PAS	Pasco	046		0	0	Mastrocolo	Joseph	F.	4644
+9/1/1992	DEM	Democrat	STR	State Representative	PAS	Pasco	046		0	0	Mishkin	Philip		7513
+9/1/1992	DEM	Democrat	STR	State Representative	HIL	Hillsborough	047		0	0	Fernandez	Elaine		2837
+9/1/1992	DEM	Democrat	STR	State Representative	PIN	Pinellas	047		0	0	Fernandez	Elaine		615
+9/1/1992	DEM	Democrat	STR	State Representative	HIL	Hillsborough	047		0	0	Rush	Brian		4739
+9/1/1992	DEM	Democrat	STR	State Representative	PIN	Pinellas	047		0	0	Rush	Brian		870
+9/1/1992	DEM	Democrat	STR	State Representative	PIN	Pinellas	050		0	0	Garrabrant	Rich		1110
+9/1/1992	DEM	Democrat	STR	State Representative	PIN	Pinellas	050		0	0	Henkel	Michael	R.	1384
+9/1/1992	DEM	Democrat	STR	State Representative	PIN	Pinellas	050		0	0	Maley	Dana	Lynn	4672
+9/1/1992	DEM	Democrat	STR	State Representative	HIL	Hillsborough	060		0	0	Buckhorn	Bob		3320
+9/1/1992	DEM	Democrat	STR	State Representative	HIL	Hillsborough	060		0	0	Palomino	Carol		3874
+9/1/1992	DEM	Democrat	STR	State Representative	HIL	Hillsborough	061		0	0	Clarke	(Jacqueline)	Jackie	719
+9/1/1992	DEM	Democrat	STR	State Representative	PAS	Pasco	061		0	0	Clarke	(Jacqueline)	Jackie	1738
+9/1/1992	DEM	Democrat	STR	State Representative	HIL	Hillsborough	061		0	0	Dwyer	Dan		779
+9/1/1992	DEM	Democrat	STR	State Representative	PAS	Pasco	061		0	0	Dwyer	Dan		1732
+9/1/1992	DEM	Democrat	STR	State Representative	HIL	Hillsborough	061		0	0	Geiger	John	H.	278
+9/1/1992	DEM	Democrat	STR	State Representative	PAS	Pasco	061		0	0	Geiger	John	H.	1365
+9/1/1992	DEM	Democrat	STR	State Representative	HIL	Hillsborough	061		0	0	Lipps	Jeff		439
+9/1/1992	DEM	Democrat	STR	State Representative	PAS	Pasco	061		0	0	Lipps	Jeff		928
+9/1/1992	DEM	Democrat	STR	State Representative	POL	Polk	063		0	0	Roberts	Gene	L.	2205
+9/1/1992	DEM	Democrat	STR	State Representative	POL	Polk	063		0	0	Saunders	Dean		4864
+9/1/1992	DEM	Democrat	STR	State Representative	POL	Polk	063		0	0	Viscusi	Joe		5807
+9/1/1992	DEM	Democrat	STR	State Representative	POL	Polk	064		0	0	Bath	Charles	Lemuel	2321
+9/1/1992	DEM	Democrat	STR	State Representative	POL	Polk	064		0	0	Ready	Royce	K.	1906
+9/1/1992	DEM	Democrat	STR	State Representative	POL	Polk	064		0	0	Tanner	Jim		2335
+9/1/1992	DEM	Democrat	STR	State Representative	POL	Polk	064		0	0	Tedder	Joe	G.	3355
+9/1/1992	DEM	Democrat	STR	State Representative	POL	Polk	065		0	0	Edwards	Lori		5487
+9/1/1992	DEM	Democrat	STR	State Representative	POL	Polk	065		0	0	Steorts	Tim		3222
+9/1/1992	DEM	Democrat	STR	State Representative	CHA	Charlotte	071		0	0	Columbus	Christopher		2988
+9/1/1992	DEM	Democrat	STR	State Representative	SAR	Sarasota	071		0	0	Columbus	Christopher		1215
+9/1/1992	DEM	Democrat	STR	State Representative	CHA	Charlotte	071		0	0	Nixon	William	R. (Bill)	2890
+9/1/1992	DEM	Democrat	STR	State Representative	SAR	Sarasota	071		0	0	Nixon	William	R. (Bill)	1098
+9/1/1992	DEM	Democrat	STR	State Representative	CLL	Collier	077		0	0	Downing	Chester	Dishong	134
+9/1/1992	DEM	Democrat	STR	State Representative	GLA	Glades	077		0	0	Downing	Chester	Dishong	717
+9/1/1992	DEM	Democrat	STR	State Representative	HEN	Hendry	077		0	0	Downing	Chester	Dishong	1093
+9/1/1992	DEM	Democrat	STR	State Representative	HIG	Highlands	077		0	0	Downing	Chester	Dishong	2650
+9/1/1992	DEM	Democrat	STR	State Representative	CLL	Collier	077		0	0	Harris, Jr.	Bert	J.	208
+9/1/1992	DEM	Democrat	STR	State Representative	GLA	Glades	077		0	0	Harris, Jr.	Bert	J.	1560
+9/1/1992	DEM	Democrat	STR	State Representative	HEN	Hendry	077		0	0	Harris, Jr.	Bert	J.	3369
+9/1/1992	DEM	Democrat	STR	State Representative	HIG	Highlands	077		0	0	Harris, Jr.	Bert	J.	3556
+9/1/1992	DEM	Democrat	STR	State Representative	PAL	Palm Beach	084		0	0	Falana	Yevola		1075
+9/1/1992	DEM	Democrat	STR	State Representative	PAL	Palm Beach	084		0	0	Greene	Addie	L.	2164
+9/1/1992	DEM	Democrat	STR	State Representative	PAL	Palm Beach	084		0	0	Herring	JoLinda		949
+9/1/1992	DEM	Democrat	STR	State Representative	PAL	Palm Beach	084		0	0	Johnson	Elizabeth	M.	831
+9/1/1992	DEM	Democrat	STR	State Representative	PAL	Palm Beach	084		0	0	Simmons	Olivia	Bailey	1313
+9/1/1992	DEM	Democrat	STR	State Representative	PAL	Palm Beach	084		0	0	Wagner	Will		1039
+9/1/1992	DEM	Democrat	STR	State Representative	PAL	Palm Beach	085		0	0	Hayes	Mark		3459
+9/1/1992	DEM	Democrat	STR	State Representative	PAL	Palm Beach	085		0	0	McAndrews	Mimi	K.	3543
+9/1/1992	DEM	Democrat	STR	State Representative	PAL	Palm Beach	088		0	0	Gannon	Anne	M.	2581
+9/1/1992	DEM	Democrat	STR	State Representative	PAL	Palm Beach	088		0	0	Jacobs	Suzanne		4150
+9/1/1992	DEM	Democrat	STR	State Representative	PAL	Palm Beach	088		0	0	Weatherspoon	Jimmy		1670
+9/1/1992	DEM	Democrat	STR	State Representative	PAL	Palm Beach	089		0	0	Klein	Ron		8405
+9/1/1992	DEM	Democrat	STR	State Representative	PAL	Palm Beach	089		0	0	Press	Steve		5528
+9/1/1992	DEM	Democrat	STR	State Representative	BRO	Broward	090		0	0	Pierson	Gilbert	'Gil'	2629
+9/1/1992	DEM	Democrat	STR	State Representative	BRO	Broward	090		0	0	Rayson	John	C.	5346
+9/1/1992	DEM	Democrat	STR	State Representative	BRO	Broward	092		0	0	Coleman	Suzanne		3152
+9/1/1992	DEM	Democrat	STR	State Representative	BRO	Broward	092		0	0	Stafford	Tracy		3548
+9/1/1992	DEM	Democrat	STR	State Representative	BRO	Broward	093		0	0	Armbrister	Hazel	K.	1672
+9/1/1992	DEM	Democrat	STR	State Representative	BRO	Broward	093		0	0	Dawson	Muriel	'Mandy'	2584
+9/1/1992	DEM	Democrat	STR	State Representative	BRO	Broward	093		0	0	Phillips	Edward	W.	1099
+9/1/1992	DEM	Democrat	STR	State Representative	BRO	Broward	097		0	0	Barr	Norris	H.	358
+9/1/1992	DEM	Democrat	STR	State Representative	BRO	Broward	097		0	0	Ernst	Patrick	'Pat'	1748
+9/1/1992	DEM	Democrat	STR	State Representative	BRO	Broward	097		0	0	Fabian	Carmen	Diaz	366
+9/1/1992	DEM	Democrat	STR	State Representative	BRO	Broward	097		0	0	Salvage	Andrew		570
+9/1/1992	DEM	Democrat	STR	State Representative	BRO	Broward	097		0	0	Schultz	Debbie	Wasserman	4260
+9/1/1992	DEM	Democrat	STR	State Representative	BRO	Broward	097		0	0	Scism	J.	D. 'John'	679
+9/1/1992	DEM	Democrat	STR	State Representative	BRO	Broward	098		0	0	Feren	Steven	Brian	5303
+9/1/1992	DEM	Democrat	STR	State Representative	BRO	Broward	098		0	0	Glaser	Bruce		1842
+9/1/1992	DEM	Democrat	STR	State Representative	BRO	Broward	098		0	0	Marks	Alan		4979
+9/1/1992	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	104		0	0	Armbrister	Vashti	Coleman	1115
+9/1/1992	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	104		0	0	Bynes	Marvin	L.	311
+9/1/1992	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	104		0	0	Gordon	Elaine		4599
+9/1/1992	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	104		0	0	Pettaway	Clyde		1570
+9/1/1992	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	104		0	0	Screen	Val		656
+9/1/1992	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	104		0	0	Wimberly	Paullette	Sims	726
+9/1/1992	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	107		0	0	III	Eladio	Armesto	467
+9/1/1992	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	107		0	0	Leifman	Steve		2848
+9/1/1992	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	108		0	0	Burke	Beryl		2250
+9/1/1992	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	108		0	0	Gervin	Marion		575
+9/1/1992	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	108		0	0	Hardemon	Roy	Lavarro	499
+9/1/1992	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	108		0	0	Marshall, Jr.	Preston	W.	1490
+9/1/1992	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	108		0	0	Rutledge	Pierre		1723
+9/1/1992	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	113		0	0	Couch	Danny		1468
+9/1/1992	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	113		0	0	Flowers	Charles	J.	941
+9/1/1992	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	115		0	0	Ciereszko	Ana	Alejandre	1713
+9/1/1992	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	115		0	0	Donaldson	Edward	A	2035
+9/1/1992	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		0	0	Andrews	Israel	J.	913
+9/1/1992	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		0	0	Bullard	Larcenia	J.	1714
+9/1/1992	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		0	0	Calloway	Gwen	E.	678
+9/1/1992	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		0	0	Rader	Fred		368
+9/1/1992	REP	Republican	USS	United States Senator	ALA	Alachua			0	0	Brotherton	Hugh		751
+9/1/1992	REP	Republican	USS	United States Senator	BAK	Baker			0	0	Brotherton	Hugh		23
+9/1/1992	REP	Republican	USS	United States Senator	BAY	Bay			0	0	Brotherton	Hugh		636
+9/1/1992	REP	Republican	USS	United States Senator	BRA	Bradford			0	0	Brotherton	Hugh		25
+9/1/1992	REP	Republican	USS	United States Senator	BRE	Brevard			0	0	Brotherton	Hugh		6336
+9/1/1992	REP	Republican	USS	United States Senator	BRO	Broward			0	0	Brotherton	Hugh		4878
+9/1/1992	REP	Republican	USS	United States Senator	CAL	Calhoun			0	0	Brotherton	Hugh		13
+9/1/1992	REP	Republican	USS	United States Senator	CHA	Charlotte			0	0	Brotherton	Hugh		5685
+9/1/1992	REP	Republican	USS	United States Senator	CIT	Citrus			0	0	Brotherton	Hugh		1538
+9/1/1992	REP	Republican	USS	United States Senator	CLA	Clay			0	0	Brotherton	Hugh		1166
+9/1/1992	REP	Republican	USS	United States Senator	CLL	Collier			0	0	Brotherton	Hugh		3907
+9/1/1992	REP	Republican	USS	United States Senator	CLM	Columbia			0	0	Brotherton	Hugh		104
+9/1/1992	REP	Republican	USS	United States Senator	DES	Desoto			0	0	Brotherton	Hugh		75
+9/1/1992	REP	Republican	USS	United States Senator	DIX	Dixie			0	0	Brotherton	Hugh		21
+9/1/1992	REP	Republican	USS	United States Senator	DUV	Duval			0	0	Brotherton	Hugh		2846
+9/1/1992	REP	Republican	USS	United States Senator	ESC	Escambia			0	0	Brotherton	Hugh		2947
+9/1/1992	REP	Republican	USS	United States Senator	FLA	Flagler			0	0	Brotherton	Hugh		432
+9/1/1992	REP	Republican	USS	United States Senator	FRA	Franklin			0	0	Brotherton	Hugh		14
+9/1/1992	REP	Republican	USS	United States Senator	GAD	Gadsden			0	0	Brotherton	Hugh		39
+9/1/1992	REP	Republican	USS	United States Senator	GIL	Gilchrist			0	0	Brotherton	Hugh		9
+9/1/1992	REP	Republican	USS	United States Senator	GLA	Glades			0	0	Brotherton	Hugh		39
+9/1/1992	REP	Republican	USS	United States Senator	GUL	Gulf			0	0	Brotherton	Hugh		20
+9/1/1992	REP	Republican	USS	United States Senator	HAM	Hamilton			0	0	Brotherton	Hugh		2
+9/1/1992	REP	Republican	USS	United States Senator	HAR	Hardee			0	0	Brotherton	Hugh		24
+9/1/1992	REP	Republican	USS	United States Senator	HEN	Hendry			0	0	Brotherton	Hugh		116
+9/1/1992	REP	Republican	USS	United States Senator	HER	Hernando			0	0	Brotherton	Hugh		2413
+9/1/1992	REP	Republican	USS	United States Senator	HIG	Highlands			0	0	Brotherton	Hugh		902
+9/1/1992	REP	Republican	USS	United States Senator	HIL	Hillsborough			0	0	Brotherton	Hugh		3564
+9/1/1992	REP	Republican	USS	United States Senator	HOL	Holmes			0	0	Brotherton	Hugh		13
+9/1/1992	REP	Republican	USS	United States Senator	IND	Indian River			0	0	Brotherton	Hugh		2550
+9/1/1992	REP	Republican	USS	United States Senator	JAC	Jackson			0	0	Brotherton	Hugh		43
+9/1/1992	REP	Republican	USS	United States Senator	JEF	Jefferson			0	0	Brotherton	Hugh		17
+9/1/1992	REP	Republican	USS	United States Senator	LAF	Lafayette			0	0	Brotherton	Hugh		9
+9/1/1992	REP	Republican	USS	United States Senator	LAK	Lake			0	0	Brotherton	Hugh		3228
+9/1/1992	REP	Republican	USS	United States Senator	LEE	Lee			0	0	Brotherton	Hugh		10104
+9/1/1992	REP	Republican	USS	United States Senator	LEO	Leon			0	0	Brotherton	Hugh		740
+9/1/1992	REP	Republican	USS	United States Senator	LEV	Levy			0	0	Brotherton	Hugh		77
+9/1/1992	REP	Republican	USS	United States Senator	LIB	Liberty			0	0	Brotherton	Hugh		2
+9/1/1992	REP	Republican	USS	United States Senator	MAD	Madison			0	0	Brotherton	Hugh		28
+9/1/1992	REP	Republican	USS	United States Senator	MAN	Manatee			0	0	Brotherton	Hugh		3893
+9/1/1992	REP	Republican	USS	United States Senator	MRN	Marion			0	0	Brotherton	Hugh		2153
+9/1/1992	REP	Republican	USS	United States Senator	MRT	Martin			0	0	Brotherton	Hugh		3218
+9/1/1992	REP	Republican	USS	United States Senator	DAD	Miami-Dade			0	0	Brotherton	Hugh		5907
+9/1/1992	REP	Republican	USS	United States Senator	MON	Monroe			0	0	Brotherton	Hugh		544
+9/1/1992	REP	Republican	USS	United States Senator	NAS	Nassau			0	0	Brotherton	Hugh		201
+9/1/1992	REP	Republican	USS	United States Senator	OKA	Okaloosa			0	0	Brotherton	Hugh		2050
+9/1/1992	REP	Republican	USS	United States Senator	OKE	Okeechobee			0	0	Brotherton	Hugh		129
+9/1/1992	REP	Republican	USS	United States Senator	ORA	Orange			0	0	Brotherton	Hugh		6835
+9/1/1992	REP	Republican	USS	United States Senator	OSC	Osceola			0	0	Brotherton	Hugh		1137
+9/1/1992	REP	Republican	USS	United States Senator	PAL	Palm Beach			0	0	Brotherton	Hugh		6419
+9/1/1992	REP	Republican	USS	United States Senator	PAS	Pasco			0	0	Brotherton	Hugh		3930
+9/1/1992	REP	Republican	USS	United States Senator	PIN	Pinellas			0	0	Brotherton	Hugh		11333
+9/1/1992	REP	Republican	USS	United States Senator	POL	Polk			0	0	Brotherton	Hugh		2078
+9/1/1992	REP	Republican	USS	United States Senator	PUT	Putnam			0	0	Brotherton	Hugh		368
+9/1/1992	REP	Republican	USS	United States Senator	SAN	Santa Rosa			0	0	Brotherton	Hugh		956
+9/1/1992	REP	Republican	USS	United States Senator	SAR	Sarasota			0	0	Brotherton	Hugh		9452
+9/1/1992	REP	Republican	USS	United States Senator	SEM	Seminole			0	0	Brotherton	Hugh		3462
+9/1/1992	REP	Republican	USS	United States Senator	STJ	St. Johns			0	0	Brotherton	Hugh		1081
+9/1/1992	REP	Republican	USS	United States Senator	STL	St. Lucie			0	0	Brotherton	Hugh		2477
+9/1/1992	REP	Republican	USS	United States Senator	SUM	Sumter			0	0	Brotherton	Hugh		181
+9/1/1992	REP	Republican	USS	United States Senator	SUW	Suwannee			0	0	Brotherton	Hugh		57
+9/1/1992	REP	Republican	USS	United States Senator	TAY	Taylor			0	0	Brotherton	Hugh		16
+9/1/1992	REP	Republican	USS	United States Senator	UNI	Union			0	0	Brotherton	Hugh		3
+9/1/1992	REP	Republican	USS	United States Senator	VOL	Volusia			0	0	Brotherton	Hugh		3431
+9/1/1992	REP	Republican	USS	United States Senator	WAK	Wakulla			0	0	Brotherton	Hugh		20
+9/1/1992	REP	Republican	USS	United States Senator	WAL	Walton			0	0	Brotherton	Hugh		178
+9/1/1992	REP	Republican	USS	United States Senator	WAS	Washington			0	0	Brotherton	Hugh		33
+9/1/1992	REP	Republican	USS	United States Senator	ALA	Alachua			0	0	Grant	Bill		4381
+9/1/1992	REP	Republican	USS	United States Senator	BAK	Baker			0	0	Grant	Bill		152
+9/1/1992	REP	Republican	USS	United States Senator	BAY	Bay			0	0	Grant	Bill		3760
+9/1/1992	REP	Republican	USS	United States Senator	BRA	Bradford			0	0	Grant	Bill		211
+9/1/1992	REP	Republican	USS	United States Senator	BRE	Brevard			0	0	Grant	Bill		19686
+9/1/1992	REP	Republican	USS	United States Senator	BRO	Broward			0	0	Grant	Bill		20696
+9/1/1992	REP	Republican	USS	United States Senator	CAL	Calhoun			0	0	Grant	Bill		72
+9/1/1992	REP	Republican	USS	United States Senator	CHA	Charlotte			0	0	Grant	Bill		5735
+9/1/1992	REP	Republican	USS	United States Senator	CIT	Citrus			0	0	Grant	Bill		4695
+9/1/1992	REP	Republican	USS	United States Senator	CLA	Clay			0	0	Grant	Bill		8756
+9/1/1992	REP	Republican	USS	United States Senator	CLL	Collier			0	0	Grant	Bill		11132
+9/1/1992	REP	Republican	USS	United States Senator	CLM	Columbia			0	0	Grant	Bill		963
+9/1/1992	REP	Republican	USS	United States Senator	DES	Desoto			0	0	Grant	Bill		224
+9/1/1992	REP	Republican	USS	United States Senator	DIX	Dixie			0	0	Grant	Bill		85
+9/1/1992	REP	Republican	USS	United States Senator	DUV	Duval			0	0	Grant	Bill		15138
+9/1/1992	REP	Republican	USS	United States Senator	ESC	Escambia			0	0	Grant	Bill		5583
+9/1/1992	REP	Republican	USS	United States Senator	FLA	Flagler			0	0	Grant	Bill		1557
+9/1/1992	REP	Republican	USS	United States Senator	FRA	Franklin			0	0	Grant	Bill		71
+9/1/1992	REP	Republican	USS	United States Senator	GAD	Gadsden			0	0	Grant	Bill		244
+9/1/1992	REP	Republican	USS	United States Senator	GIL	Gilchrist			0	0	Grant	Bill		102
+9/1/1992	REP	Republican	USS	United States Senator	GLA	Glades			0	0	Grant	Bill		153
+9/1/1992	REP	Republican	USS	United States Senator	GUL	Gulf			0	0	Grant	Bill		122
+9/1/1992	REP	Republican	USS	United States Senator	HAM	Hamilton			0	0	Grant	Bill		43
+9/1/1992	REP	Republican	USS	United States Senator	HAR	Hardee			0	0	Grant	Bill		121
+9/1/1992	REP	Republican	USS	United States Senator	HEN	Hendry			0	0	Grant	Bill		432
+9/1/1992	REP	Republican	USS	United States Senator	HER	Hernando			0	0	Grant	Bill		6862
+9/1/1992	REP	Republican	USS	United States Senator	HIG	Highlands			0	0	Grant	Bill		2855
+9/1/1992	REP	Republican	USS	United States Senator	HIL	Hillsborough			0	0	Grant	Bill		21111
+9/1/1992	REP	Republican	USS	United States Senator	HOL	Holmes			0	0	Grant	Bill		91
+9/1/1992	REP	Republican	USS	United States Senator	IND	Indian River			0	0	Grant	Bill		7054
+9/1/1992	REP	Republican	USS	United States Senator	JAC	Jackson			0	0	Grant	Bill		442
+9/1/1992	REP	Republican	USS	United States Senator	JEF	Jefferson			0	0	Grant	Bill		128
+9/1/1992	REP	Republican	USS	United States Senator	LAF	Lafayette			0	0	Grant	Bill		35
+9/1/1992	REP	Republican	USS	United States Senator	LAK	Lake			0	0	Grant	Bill		8383
+9/1/1992	REP	Republican	USS	United States Senator	LEE	Lee			0	0	Grant	Bill		16634
+9/1/1992	REP	Republican	USS	United States Senator	LEO	Leon			0	0	Grant	Bill		5953
+9/1/1992	REP	Republican	USS	United States Senator	LEV	Levy			0	0	Grant	Bill		516
+9/1/1992	REP	Republican	USS	United States Senator	LIB	Liberty			0	0	Grant	Bill		19
+9/1/1992	REP	Republican	USS	United States Senator	MAD	Madison			0	0	Grant	Bill		167
+9/1/1992	REP	Republican	USS	United States Senator	MAN	Manatee			0	0	Grant	Bill		12310
+9/1/1992	REP	Republican	USS	United States Senator	MRN	Marion			0	0	Grant	Bill		10462
+9/1/1992	REP	Republican	USS	United States Senator	MRT	Martin			0	0	Grant	Bill		6487
+9/1/1992	REP	Republican	USS	United States Senator	DAD	Miami-Dade			0	0	Grant	Bill		28340
+9/1/1992	REP	Republican	USS	United States Senator	MON	Monroe			0	0	Grant	Bill		1983
+9/1/1992	REP	Republican	USS	United States Senator	NAS	Nassau			0	0	Grant	Bill		1048
+9/1/1992	REP	Republican	USS	United States Senator	OKA	Okaloosa			0	0	Grant	Bill		9468
+9/1/1992	REP	Republican	USS	United States Senator	OKE	Okeechobee			0	0	Grant	Bill		427
+9/1/1992	REP	Republican	USS	United States Senator	ORA	Orange			0	0	Grant	Bill		20226
+9/1/1992	REP	Republican	USS	United States Senator	OSC	Osceola			0	0	Grant	Bill		5396
+9/1/1992	REP	Republican	USS	United States Senator	PAL	Palm Beach			0	0	Grant	Bill		19814
+9/1/1992	REP	Republican	USS	United States Senator	PAS	Pasco			0	0	Grant	Bill		15279
+9/1/1992	REP	Republican	USS	United States Senator	PIN	Pinellas			0	0	Grant	Bill		39802
+9/1/1992	REP	Republican	USS	United States Senator	POL	Polk			0	0	Grant	Bill		11210
+9/1/1992	REP	Republican	USS	United States Senator	PUT	Putnam			0	0	Grant	Bill		1359
+9/1/1992	REP	Republican	USS	United States Senator	SAN	Santa Rosa			0	0	Grant	Bill		2764
+9/1/1992	REP	Republican	USS	United States Senator	SAR	Sarasota			0	0	Grant	Bill		15544
+9/1/1992	REP	Republican	USS	United States Senator	SEM	Seminole			0	0	Grant	Bill		13113
+9/1/1992	REP	Republican	USS	United States Senator	STJ	St. Johns			0	0	Grant	Bill		3763
+9/1/1992	REP	Republican	USS	United States Senator	STL	St. Lucie			0	0	Grant	Bill		6290
+9/1/1992	REP	Republican	USS	United States Senator	SUM	Sumter			0	0	Grant	Bill		693
+9/1/1992	REP	Republican	USS	United States Senator	SUW	Suwannee			0	0	Grant	Bill		667
+9/1/1992	REP	Republican	USS	United States Senator	TAY	Taylor			0	0	Grant	Bill		204
+9/1/1992	REP	Republican	USS	United States Senator	UNI	Union			0	0	Grant	Bill		37
+9/1/1992	REP	Republican	USS	United States Senator	VOL	Volusia			0	0	Grant	Bill		11303
+9/1/1992	REP	Republican	USS	United States Senator	WAK	Wakulla			0	0	Grant	Bill		216
+9/1/1992	REP	Republican	USS	United States Senator	WAL	Walton			0	0	Grant	Bill		626
+9/1/1992	REP	Republican	USS	United States Senator	WAS	Washington			0	0	Grant	Bill		262
+9/1/1992	REP	Republican	USS	United States Senator	ALA	Alachua			0	0	Quartel	Rob		1297
+9/1/1992	REP	Republican	USS	United States Senator	BAK	Baker			0	0	Quartel	Rob		21
+9/1/1992	REP	Republican	USS	United States Senator	BAY	Bay			0	0	Quartel	Rob		609
+9/1/1992	REP	Republican	USS	United States Senator	BRA	Bradford			0	0	Quartel	Rob		47
+9/1/1992	REP	Republican	USS	United States Senator	BRE	Brevard			0	0	Quartel	Rob		12719
+9/1/1992	REP	Republican	USS	United States Senator	BRO	Broward			0	0	Quartel	Rob		7958
+9/1/1992	REP	Republican	USS	United States Senator	CAL	Calhoun			0	0	Quartel	Rob		13
+9/1/1992	REP	Republican	USS	United States Senator	CHA	Charlotte			0	0	Quartel	Rob		4551
+9/1/1992	REP	Republican	USS	United States Senator	CIT	Citrus			0	0	Quartel	Rob		1675
+9/1/1992	REP	Republican	USS	United States Senator	CLA	Clay			0	0	Quartel	Rob		1138
+9/1/1992	REP	Republican	USS	United States Senator	CLL	Collier			0	0	Quartel	Rob		5508
+9/1/1992	REP	Republican	USS	United States Senator	CLM	Columbia			0	0	Quartel	Rob		118
+9/1/1992	REP	Republican	USS	United States Senator	DES	Desoto			0	0	Quartel	Rob		88
+9/1/1992	REP	Republican	USS	United States Senator	DIX	Dixie			0	0	Quartel	Rob		13
+9/1/1992	REP	Republican	USS	United States Senator	DUV	Duval			0	0	Quartel	Rob		4230
+9/1/1992	REP	Republican	USS	United States Senator	ESC	Escambia			0	0	Quartel	Rob		5172
+9/1/1992	REP	Republican	USS	United States Senator	FLA	Flagler			0	0	Quartel	Rob		984
+9/1/1992	REP	Republican	USS	United States Senator	FRA	Franklin			0	0	Quartel	Rob		15
+9/1/1992	REP	Republican	USS	United States Senator	GAD	Gadsden			0	0	Quartel	Rob		40
+9/1/1992	REP	Republican	USS	United States Senator	GIL	Gilchrist			0	0	Quartel	Rob		19
+9/1/1992	REP	Republican	USS	United States Senator	GLA	Glades			0	0	Quartel	Rob		34
+9/1/1992	REP	Republican	USS	United States Senator	GUL	Gulf			0	0	Quartel	Rob		19
+9/1/1992	REP	Republican	USS	United States Senator	HAM	Hamilton			0	0	Quartel	Rob		6
+9/1/1992	REP	Republican	USS	United States Senator	HAR	Hardee			0	0	Quartel	Rob		33
+9/1/1992	REP	Republican	USS	United States Senator	HEN	Hendry			0	0	Quartel	Rob		79
+9/1/1992	REP	Republican	USS	United States Senator	HER	Hernando			0	0	Quartel	Rob		4380
+9/1/1992	REP	Republican	USS	United States Senator	HIG	Highlands			0	0	Quartel	Rob		1441
+9/1/1992	REP	Republican	USS	United States Senator	HIL	Hillsborough			0	0	Quartel	Rob		7234
+9/1/1992	REP	Republican	USS	United States Senator	HOL	Holmes			0	0	Quartel	Rob		11
+9/1/1992	REP	Republican	USS	United States Senator	IND	Indian River			0	0	Quartel	Rob		3686
+9/1/1992	REP	Republican	USS	United States Senator	JAC	Jackson			0	0	Quartel	Rob		42
+9/1/1992	REP	Republican	USS	United States Senator	JEF	Jefferson			0	0	Quartel	Rob		23
+9/1/1992	REP	Republican	USS	United States Senator	LAF	Lafayette			0	0	Quartel	Rob		5
+9/1/1992	REP	Republican	USS	United States Senator	LAK	Lake			0	0	Quartel	Rob		4266
+9/1/1992	REP	Republican	USS	United States Senator	LEE	Lee			0	0	Quartel	Rob		5562
+9/1/1992	REP	Republican	USS	United States Senator	LEO	Leon			0	0	Quartel	Rob		1651
+9/1/1992	REP	Republican	USS	United States Senator	LEV	Levy			0	0	Quartel	Rob		85
+9/1/1992	REP	Republican	USS	United States Senator	LIB	Liberty			0	0	Quartel	Rob		1
+9/1/1992	REP	Republican	USS	United States Senator	MAD	Madison			0	0	Quartel	Rob		26
+9/1/1992	REP	Republican	USS	United States Senator	MAN	Manatee			0	0	Quartel	Rob		8199
+9/1/1992	REP	Republican	USS	United States Senator	MRN	Marion			0	0	Quartel	Rob		2914
+9/1/1992	REP	Republican	USS	United States Senator	MRT	Martin			0	0	Quartel	Rob		3378
+9/1/1992	REP	Republican	USS	United States Senator	DAD	Miami-Dade			0	0	Quartel	Rob		6856
+9/1/1992	REP	Republican	USS	United States Senator	MON	Monroe			0	0	Quartel	Rob		557
+9/1/1992	REP	Republican	USS	United States Senator	NAS	Nassau			0	0	Quartel	Rob		303
+9/1/1992	REP	Republican	USS	United States Senator	OKA	Okaloosa			0	0	Quartel	Rob		3195
+9/1/1992	REP	Republican	USS	United States Senator	OKE	Okeechobee			0	0	Quartel	Rob		104
+9/1/1992	REP	Republican	USS	United States Senator	ORA	Orange			0	0	Quartel	Rob		13125
+9/1/1992	REP	Republican	USS	United States Senator	OSC	Osceola			0	0	Quartel	Rob		1577
+9/1/1992	REP	Republican	USS	United States Senator	PAL	Palm Beach			0	0	Quartel	Rob		9698
+9/1/1992	REP	Republican	USS	United States Senator	PAS	Pasco			0	0	Quartel	Rob		5348
+9/1/1992	REP	Republican	USS	United States Senator	PIN	Pinellas			0	0	Quartel	Rob		22170
+9/1/1992	REP	Republican	USS	United States Senator	POL	Polk			0	0	Quartel	Rob		5658
+9/1/1992	REP	Republican	USS	United States Senator	PUT	Putnam			0	0	Quartel	Rob		348
+9/1/1992	REP	Republican	USS	United States Senator	SAN	Santa Rosa			0	0	Quartel	Rob		2009
+9/1/1992	REP	Republican	USS	United States Senator	SAR	Sarasota			0	0	Quartel	Rob		15507
+9/1/1992	REP	Republican	USS	United States Senator	SEM	Seminole			0	0	Quartel	Rob		5796
+9/1/1992	REP	Republican	USS	United States Senator	STJ	St. Johns			0	0	Quartel	Rob		1361
+9/1/1992	REP	Republican	USS	United States Senator	STL	St. Lucie			0	0	Quartel	Rob		2311
+9/1/1992	REP	Republican	USS	United States Senator	SUM	Sumter			0	0	Quartel	Rob		214
+9/1/1992	REP	Republican	USS	United States Senator	SUW	Suwannee			0	0	Quartel	Rob		81
+9/1/1992	REP	Republican	USS	United States Senator	TAY	Taylor			0	0	Quartel	Rob		23
+9/1/1992	REP	Republican	USS	United States Senator	UNI	Union			0	0	Quartel	Rob		6
+9/1/1992	REP	Republican	USS	United States Senator	VOL	Volusia			0	0	Quartel	Rob		10691
+9/1/1992	REP	Republican	USS	United States Senator	WAK	Wakulla			0	0	Quartel	Rob		54
+9/1/1992	REP	Republican	USS	United States Senator	WAL	Walton			0	0	Quartel	Rob		203
+9/1/1992	REP	Republican	USS	United States Senator	WAS	Washington			0	0	Quartel	Rob		39
+9/1/1992	REP	Republican	USR	United States Representative	BAY	Bay	001		0	0	Banjanin	Tom		614
+9/1/1992	REP	Republican	USR	United States Representative	ESC	Escambia	001		0	0	Banjanin	Tom		8591
+9/1/1992	REP	Republican	USR	United States Representative	HOL	Holmes	001		0	0	Banjanin	Tom		65
+9/1/1992	REP	Republican	USR	United States Representative	OKA	Okaloosa	001		0	0	Banjanin	Tom		5694
+9/1/1992	REP	Republican	USR	United States Representative	SAN	Santa Rosa	001		0	0	Banjanin	Tom		3226
+9/1/1992	REP	Republican	USR	United States Representative	WAL	Walton	001		0	0	Banjanin	Tom		412
+9/1/1992	REP	Republican	USR	United States Representative	BAY	Bay	001		0	0	Ketchel	Terry		775
+9/1/1992	REP	Republican	USR	United States Representative	ESC	Escambia	001		0	0	Ketchel	Terry		6815
+9/1/1992	REP	Republican	USR	United States Representative	HOL	Holmes	001		0	0	Ketchel	Terry		53
+9/1/1992	REP	Republican	USR	United States Representative	OKA	Okaloosa	001		0	0	Ketchel	Terry		10530
+9/1/1992	REP	Republican	USR	United States Representative	SAN	Santa Rosa	001		0	0	Ketchel	Terry		3269
+9/1/1992	REP	Republican	USR	United States Representative	WAL	Walton	001		0	0	Ketchel	Terry		638
+9/1/1992	REP	Republican	USR	United States Representative	ALA	Alachua	003		0	0	Grimsley	George		140
+9/1/1992	REP	Republican	USR	United States Representative	BAK	Baker	003		0	0	Grimsley	George		6
+9/1/1992	REP	Republican	USR	United States Representative	CLA	Clay	003		0	0	Grimsley	George		239
+9/1/1992	REP	Republican	USR	United States Representative	CLM	Columbia	003		0	0	Grimsley	George		41
+9/1/1992	REP	Republican	USR	United States Representative	DUV	Duval	003		0	0	Grimsley	George		792
+9/1/1992	REP	Republican	USR	United States Representative	FLA	Flagler	003		0	0	Grimsley	George		10
+9/1/1992	REP	Republican	USR	United States Representative	LAK	Lake	003		0	0	Grimsley	George		31
+9/1/1992	REP	Republican	USR	United States Representative	LEV	Levy	003		0	0	Grimsley	George		3
+9/1/1992	REP	Republican	USR	United States Representative	MRN	Marion	003		0	0	Grimsley	George		61
+9/1/1992	REP	Republican	USR	United States Representative	ORA	Orange	003		0	0	Grimsley	George		245
+9/1/1992	REP	Republican	USR	United States Representative	PUT	Putnam	003		0	0	Grimsley	George		124
+9/1/1992	REP	Republican	USR	United States Representative	SEM	Seminole	003		0	0	Grimsley	George		59
+9/1/1992	REP	Republican	USR	United States Representative	STJ	St. Johns	003		0	0	Grimsley	George		14
+9/1/1992	REP	Republican	USR	United States Representative	VOL	Volusia	003		0	0	Grimsley	George		146
+9/1/1992	REP	Republican	USR	United States Representative	ALA	Alachua	003		0	0	Harms	Bob		83
+9/1/1992	REP	Republican	USR	United States Representative	BAK	Baker	003		0	0	Harms	Bob		0
+9/1/1992	REP	Republican	USR	United States Representative	CLA	Clay	003		0	0	Harms	Bob		99
+9/1/1992	REP	Republican	USR	United States Representative	CLM	Columbia	003		0	0	Harms	Bob		24
+9/1/1992	REP	Republican	USR	United States Representative	DUV	Duval	003		0	0	Harms	Bob		340
+9/1/1992	REP	Republican	USR	United States Representative	FLA	Flagler	003		0	0	Harms	Bob		5
+9/1/1992	REP	Republican	USR	United States Representative	LAK	Lake	003		0	0	Harms	Bob		14
+9/1/1992	REP	Republican	USR	United States Representative	LEV	Levy	003		0	0	Harms	Bob		3
+9/1/1992	REP	Republican	USR	United States Representative	MRN	Marion	003		0	0	Harms	Bob		70
+9/1/1992	REP	Republican	USR	United States Representative	ORA	Orange	003		0	0	Harms	Bob		404
+9/1/1992	REP	Republican	USR	United States Representative	PUT	Putnam	003		0	0	Harms	Bob		62
+9/1/1992	REP	Republican	USR	United States Representative	SEM	Seminole	003		0	0	Harms	Bob		152
+9/1/1992	REP	Republican	USR	United States Representative	STJ	St. Johns	003		0	0	Harms	Bob		8
+9/1/1992	REP	Republican	USR	United States Representative	VOL	Volusia	003		0	0	Harms	Bob		113
+9/1/1992	REP	Republican	USR	United States Representative	ALA	Alachua	003		0	0	Kelley	Steve		268
+9/1/1992	REP	Republican	USR	United States Representative	BAK	Baker	003		0	0	Kelley	Steve		4
+9/1/1992	REP	Republican	USR	United States Representative	CLA	Clay	003		0	0	Kelley	Steve		253
+9/1/1992	REP	Republican	USR	United States Representative	CLM	Columbia	003		0	0	Kelley	Steve		107
+9/1/1992	REP	Republican	USR	United States Representative	DUV	Duval	003		0	0	Kelley	Steve		1253
+9/1/1992	REP	Republican	USR	United States Representative	FLA	Flagler	003		0	0	Kelley	Steve		21
+9/1/1992	REP	Republican	USR	United States Representative	LAK	Lake	003		0	0	Kelley	Steve		24
+9/1/1992	REP	Republican	USR	United States Representative	LEV	Levy	003		0	0	Kelley	Steve		3
+9/1/1992	REP	Republican	USR	United States Representative	MRN	Marion	003		0	0	Kelley	Steve		295
+9/1/1992	REP	Republican	USR	United States Representative	ORA	Orange	003		0	0	Kelley	Steve		652
+9/1/1992	REP	Republican	USR	United States Representative	PUT	Putnam	003		0	0	Kelley	Steve		417
+9/1/1992	REP	Republican	USR	United States Representative	SEM	Seminole	003		0	0	Kelley	Steve		222
+9/1/1992	REP	Republican	USR	United States Representative	STJ	St. Johns	003		0	0	Kelley	Steve		38
+9/1/1992	REP	Republican	USR	United States Representative	VOL	Volusia	003		0	0	Kelley	Steve		217
+9/1/1992	REP	Republican	USR	United States Representative	ALA	Alachua	003		0	0	Weidner	Don		106
+9/1/1992	REP	Republican	USR	United States Representative	BAK	Baker	003		0	0	Weidner	Don		2
+9/1/1992	REP	Republican	USR	United States Representative	CLA	Clay	003		0	0	Weidner	Don		414
+9/1/1992	REP	Republican	USR	United States Representative	CLM	Columbia	003		0	0	Weidner	Don		112
+9/1/1992	REP	Republican	USR	United States Representative	DUV	Duval	003		0	0	Weidner	Don		1354
+9/1/1992	REP	Republican	USR	United States Representative	FLA	Flagler	003		0	0	Weidner	Don		27
+9/1/1992	REP	Republican	USR	United States Representative	LAK	Lake	003		0	0	Weidner	Don		9
+9/1/1992	REP	Republican	USR	United States Representative	LEV	Levy	003		0	0	Weidner	Don		6
+9/1/1992	REP	Republican	USR	United States Representative	MRN	Marion	003		0	0	Weidner	Don		121
+9/1/1992	REP	Republican	USR	United States Representative	ORA	Orange	003		0	0	Weidner	Don		1015
+9/1/1992	REP	Republican	USR	United States Representative	PUT	Putnam	003		0	0	Weidner	Don		102
+9/1/1992	REP	Republican	USR	United States Representative	SEM	Seminole	003		0	0	Weidner	Don		370
+9/1/1992	REP	Republican	USR	United States Representative	STJ	St. Johns	003		0	0	Weidner	Don		20
+9/1/1992	REP	Republican	USR	United States Representative	VOL	Volusia	003		0	0	Weidner	Don		170
+9/1/1992	REP	Republican	USR	United States Representative	ALA	Alachua	005		0	0	Hogan	Tom		1908
+9/1/1992	REP	Republican	USR	United States Representative	CIT	Citrus	005		0	0	Hogan	Tom		4451
+9/1/1992	REP	Republican	USR	United States Representative	DIX	Dixie	005		0	0	Hogan	Tom		29
+9/1/1992	REP	Republican	USR	United States Representative	GIL	Gilchrist	005		0	0	Hogan	Tom		29
+9/1/1992	REP	Republican	USR	United States Representative	HER	Hernando	005		0	0	Hogan	Tom		8818
+9/1/1992	REP	Republican	USR	United States Representative	LEV	Levy	005		0	0	Hogan	Tom		160
+9/1/1992	REP	Republican	USR	United States Representative	MRN	Marion	005		0	0	Hogan	Tom		1026
+9/1/1992	REP	Republican	USR	United States Representative	PAS	Pasco	005		0	0	Hogan	Tom		6763
+9/1/1992	REP	Republican	USR	United States Representative	SUM	Sumter	005		0	0	Hogan	Tom		422
+9/1/1992	REP	Republican	USR	United States Representative	ALA	Alachua	005		0	0	Keith	Gene		3451
+9/1/1992	REP	Republican	USR	United States Representative	CIT	Citrus	005		0	0	Keith	Gene		2755
+9/1/1992	REP	Republican	USR	United States Representative	DIX	Dixie	005		0	0	Keith	Gene		67
+9/1/1992	REP	Republican	USR	United States Representative	GIL	Gilchrist	005		0	0	Keith	Gene		78
+9/1/1992	REP	Republican	USR	United States Representative	HER	Hernando	005		0	0	Keith	Gene		3697
+9/1/1992	REP	Republican	USR	United States Representative	LEV	Levy	005		0	0	Keith	Gene		399
+9/1/1992	REP	Republican	USR	United States Representative	MRN	Marion	005		0	0	Keith	Gene		872
+9/1/1992	REP	Republican	USR	United States Representative	PAS	Pasco	005		0	0	Keith	Gene		4041
+9/1/1992	REP	Republican	USR	United States Representative	SUM	Sumter	005		0	0	Keith	Gene		442
+9/1/1992	REP	Republican	USR	United States Representative	ALA	Alachua	005		0	0	Martin	Anthony	R. 'Andy'	848
+9/1/1992	REP	Republican	USR	United States Representative	CIT	Citrus	005		0	0	Martin	Anthony	R. 'Andy'	939
+9/1/1992	REP	Republican	USR	United States Representative	DIX	Dixie	005		0	0	Martin	Anthony	R. 'Andy'	20
+9/1/1992	REP	Republican	USR	United States Representative	GIL	Gilchrist	005		0	0	Martin	Anthony	R. 'Andy'	24
+9/1/1992	REP	Republican	USR	United States Representative	HER	Hernando	005		0	0	Martin	Anthony	R. 'Andy'	1642
+9/1/1992	REP	Republican	USR	United States Representative	LEV	Levy	005		0	0	Martin	Anthony	R. 'Andy'	115
+9/1/1992	REP	Republican	USR	United States Representative	MRN	Marion	005		0	0	Martin	Anthony	R. 'Andy'	233
+9/1/1992	REP	Republican	USR	United States Representative	PAS	Pasco	005		0	0	Martin	Anthony	R. 'Andy'	1657
+9/1/1992	REP	Republican	USR	United States Representative	SUM	Sumter	005		0	0	Martin	Anthony	R. 'Andy'	233
+9/1/1992	REP	Republican	USR	United States Representative	ORA	Orange	007		0	0	Forrest	Vaughn	S.	481
+9/1/1992	REP	Republican	USR	United States Representative	SEM	Seminole	007		0	0	Forrest	Vaughn	S.	3306
+9/1/1992	REP	Republican	USR	United States Representative	VOL	Volusia	007		0	0	Forrest	Vaughn	S.	2286
+9/1/1992	REP	Republican	USR	United States Representative	ORA	Orange	007		0	0	Graham	Dick		564
+9/1/1992	REP	Republican	USR	United States Representative	SEM	Seminole	007		0	0	Graham	Dick		5600
+9/1/1992	REP	Republican	USR	United States Representative	VOL	Volusia	007		0	0	Graham	Dick		9604
+9/1/1992	REP	Republican	USR	United States Representative	ORA	Orange	007		0	0	Mica	John	L.	2165
+9/1/1992	REP	Republican	USR	United States Representative	SEM	Seminole	007		0	0	Mica	John	L.	14319
+9/1/1992	REP	Republican	USR	United States Representative	VOL	Volusia	007		0	0	Mica	John	L.	7866
+9/1/1992	REP	Republican	USR	United States Representative	ORA	Orange	008		0	0	McCollum	Bill		30601
+9/1/1992	REP	Republican	USR	United States Representative	OSC	Osceola	008		0	0	McCollum	Bill		2881
+9/1/1992	REP	Republican	USR	United States Representative	ORA	Orange	008		0	0	Oliver	Lew		7816
+9/1/1992	REP	Republican	USR	United States Representative	OSC	Osceola	008		0	0	Oliver	Lew		805
+9/1/1992	REP	Republican	USR	United States Representative	HIL	Hillsborough	009		0	0	Bilirakis	Michael		4883
+9/1/1992	REP	Republican	USR	United States Representative	PAS	Pasco	009		0	0	Bilirakis	Michael		8508
+9/1/1992	REP	Republican	USR	United States Representative	PIN	Pinellas	009		0	0	Bilirakis	Michael		21202
+9/1/1992	REP	Republican	USR	United States Representative	HIL	Hillsborough	009		0	0	Muscarella	Patricia	A. 'Trish'	2396
+9/1/1992	REP	Republican	USR	United States Representative	PAS	Pasco	009		0	0	Muscarella	Patricia	A. 'Trish'	3490
+9/1/1992	REP	Republican	USR	United States Representative	PIN	Pinellas	009		0	0	Muscarella	Patricia	A. 'Trish'	11409
+9/1/1992	REP	Republican	USR	United States Representative	HIL	Hillsborough	011		0	0	Gowen	Kevin		6455
+9/1/1992	REP	Republican	USR	United States Representative	HIL	Hillsborough	011		0	0	Sharpe	Mark		11660
+9/1/1992	REP	Republican	USR	United States Representative	CHA	Charlotte	013		0	0	Baker	Brad		1287
+9/1/1992	REP	Republican	USR	United States Representative	HIL	Hillsborough	013		0	0	Baker	Brad		807
+9/1/1992	REP	Republican	USR	United States Representative	MAN	Manatee	013		0	0	Baker	Brad		3794
+9/1/1992	REP	Republican	USR	United States Representative	SAR	Sarasota	013		0	0	Baker	Brad		16167
+9/1/1992	REP	Republican	USR	United States Representative	CHA	Charlotte	013		0	0	Louis	Rick		555
+9/1/1992	REP	Republican	USR	United States Representative	HIL	Hillsborough	013		0	0	Louis	Rick		307
+9/1/1992	REP	Republican	USR	United States Representative	MAN	Manatee	013		0	0	Louis	Rick		4233
+9/1/1992	REP	Republican	USR	United States Representative	SAR	Sarasota	013		0	0	Louis	Rick		8733
+9/1/1992	REP	Republican	USR	United States Representative	CHA	Charlotte	013		0	0	Miller	Dan		417
+9/1/1992	REP	Republican	USR	United States Representative	HIL	Hillsborough	013		0	0	Miller	Dan		969
+9/1/1992	REP	Republican	USR	United States Representative	MAN	Manatee	013		0	0	Miller	Dan		12970
+9/1/1992	REP	Republican	USR	United States Representative	SAR	Sarasota	013		0	0	Miller	Dan		7556
+9/1/1992	REP	Republican	USR	United States Representative	CHA	Charlotte	013		0	0	Thomas	Dave		2008
+9/1/1992	REP	Republican	USR	United States Representative	HIL	Hillsborough	013		0	0	Thomas	Dave		1293
+9/1/1992	REP	Republican	USR	United States Representative	MAN	Manatee	013		0	0	Thomas	Dave		3472
+9/1/1992	REP	Republican	USR	United States Representative	SAR	Sarasota	013		0	0	Thomas	Dave		9054
+9/1/1992	REP	Republican	USR	United States Representative	CHA	Charlotte	013		0	0	Thorpe	Jim		611
+9/1/1992	REP	Republican	USR	United States Representative	HIL	Hillsborough	013		0	0	Thorpe	Jim		249
+9/1/1992	REP	Republican	USR	United States Representative	MAN	Manatee	013		0	0	Thorpe	Jim		1530
+9/1/1992	REP	Republican	USR	United States Representative	SAR	Sarasota	013		0	0	Thorpe	Jim		2737
+9/1/1992	REP	Republican	USR	United States Representative	BRE	Brevard	015		0	0	Sansom	Dixie		19487
+9/1/1992	REP	Republican	USR	United States Representative	IND	Indian River	015		0	0	Sansom	Dixie		6957
+9/1/1992	REP	Republican	USR	United States Representative	OSC	Osceola	015		0	0	Sansom	Dixie		1937
+9/1/1992	REP	Republican	USR	United States Representative	POL	Polk	015		0	0	Sansom	Dixie		453
+9/1/1992	REP	Republican	USR	United States Representative	BRE	Brevard	015		0	0	Tolley	Bill		22363
+9/1/1992	REP	Republican	USR	United States Representative	IND	Indian River	015		0	0	Tolley	Bill		8190
+9/1/1992	REP	Republican	USR	United States Representative	OSC	Osceola	015		0	0	Tolley	Bill		2804
+9/1/1992	REP	Republican	USR	United States Representative	POL	Polk	015		0	0	Tolley	Bill		506
+9/1/1992	REP	Republican	USR	United States Representative	GLA	Glades	016		0	0	Anastasio	John		47
+9/1/1992	REP	Republican	USR	United States Representative	HEN	Hendry	016		0	0	Anastasio	John		216
+9/1/1992	REP	Republican	USR	United States Representative	HIG	Highlands	016		0	0	Anastasio	John		2254
+9/1/1992	REP	Republican	USR	United States Representative	MRT	Martin	016		0	0	Anastasio	John		4663
+9/1/1992	REP	Republican	USR	United States Representative	OKE	Okeechobee	016		0	0	Anastasio	John		134
+9/1/1992	REP	Republican	USR	United States Representative	PAL	Palm Beach	016		0	0	Anastasio	John		4357
+9/1/1992	REP	Republican	USR	United States Representative	STL	St. Lucie	016		0	0	Anastasio	John		4950
+9/1/1992	REP	Republican	USR	United States Representative	GLA	Glades	016		0	0	Lewis	Tom		193
+9/1/1992	REP	Republican	USR	United States Representative	HEN	Hendry	016		0	0	Lewis	Tom		470
+9/1/1992	REP	Republican	USR	United States Representative	HIG	Highlands	016		0	0	Lewis	Tom		2320
+9/1/1992	REP	Republican	USR	United States Representative	MRT	Martin	016		0	0	Lewis	Tom		10688
+9/1/1992	REP	Republican	USR	United States Representative	OKE	Okeechobee	016		0	0	Lewis	Tom		359
+9/1/1992	REP	Republican	USR	United States Representative	PAL	Palm Beach	016		0	0	Lewis	Tom		8910
+9/1/1992	REP	Republican	USR	United States Representative	STL	St. Lucie	016		0	0	Lewis	Tom		6776
+9/1/1992	REP	Republican	USR	United States Representative	BRO	Broward	020		0	0	Bonilla	Marilyn		4095
+9/1/1992	REP	Republican	USR	United States Representative	DAD	Miami-Dade	020		0	0	Bonilla	Marilyn		262
+9/1/1992	REP	Republican	USR	United States Representative	MON	Monroe	020		0	0	Bonilla	Marilyn		1039
+9/1/1992	REP	Republican	USR	United States Representative	BRO	Broward	020		0	0	Kennedy	Beverly		4831
+9/1/1992	REP	Republican	USR	United States Representative	DAD	Miami-Dade	020		0	0	Kennedy	Beverly		293
+9/1/1992	REP	Republican	USR	United States Representative	MON	Monroe	020		0	0	Kennedy	Beverly		1299
+9/1/1992	REP	Republican	USR	United States Representative	BRO	Broward	020		0	0	McConaghey	W.	Phil	2957
+9/1/1992	REP	Republican	USR	United States Representative	DAD	Miami-Dade	020		0	0	McConaghey	W.	Phil	269
+9/1/1992	REP	Republican	USR	United States Representative	MON	Monroe	020		0	0	McConaghey	W.	Phil	877
+9/1/1992	REP	Republican	USR	United States Representative	DAD	Miami-Dade	021		0	0	Diaz-Balart	Lincoln		15192
+9/1/1992	REP	Republican	USR	United States Representative	DAD	Miami-Dade	021		0	0	Souto	Javier	D.	6941
+9/1/1992	REP	Republican	USR	United States Representative	BRO	Broward	023		0	0	Fielding	Ed		1090
+9/1/1992	REP	Republican	USR	United States Representative	HEN	Hendry	023		0	0	Fielding	Ed		4
+9/1/1992	REP	Republican	USR	United States Representative	MRT	Martin	023		0	0	Fielding	Ed		106
+9/1/1992	REP	Republican	USR	United States Representative	DAD	Miami-Dade	023		0	0	Fielding	Ed		55
+9/1/1992	REP	Republican	USR	United States Representative	OKE	Okeechobee	023		0	0	Fielding	Ed		89
+9/1/1992	REP	Republican	USR	United States Representative	PAL	Palm Beach	023		0	0	Fielding	Ed		1529
+9/1/1992	REP	Republican	USR	United States Representative	STL	St. Lucie	023		0	0	Fielding	Ed		218
+9/1/1992	REP	Republican	USR	United States Representative	BRO	Broward	023		0	0	Gray	Jerome	Edmund	855
+9/1/1992	REP	Republican	USR	United States Representative	HEN	Hendry	023		0	0	Gray	Jerome	Edmund	4
+9/1/1992	REP	Republican	USR	United States Representative	MRT	Martin	023		0	0	Gray	Jerome	Edmund	47
+9/1/1992	REP	Republican	USR	United States Representative	DAD	Miami-Dade	023		0	0	Gray	Jerome	Edmund	26
+9/1/1992	REP	Republican	USR	United States Representative	OKE	Okeechobee	023		0	0	Gray	Jerome	Edmund	49
+9/1/1992	REP	Republican	USR	United States Representative	PAL	Palm Beach	023		0	0	Gray	Jerome	Edmund	944
+9/1/1992	REP	Republican	USR	United States Representative	STL	St. Lucie	023		0	0	Gray	Jerome	Edmund	117
+9/1/1992	REP	Republican	USR	United States Representative	BRO	Broward	023		0	0	Parker	Oliver		1216
+9/1/1992	REP	Republican	USR	United States Representative	HEN	Hendry	023		0	0	Parker	Oliver		3
+9/1/1992	REP	Republican	USR	United States Representative	MRT	Martin	023		0	0	Parker	Oliver		106
+9/1/1992	REP	Republican	USR	United States Representative	DAD	Miami-Dade	023		0	0	Parker	Oliver		54
+9/1/1992	REP	Republican	USR	United States Representative	OKE	Okeechobee	023		0	0	Parker	Oliver		66
+9/1/1992	REP	Republican	USR	United States Representative	PAL	Palm Beach	023		0	0	Parker	Oliver		1521
+9/1/1992	REP	Republican	USR	United States Representative	STL	St. Lucie	023		0	0	Parker	Oliver		118
+9/1/1992	REP	Republican	STA	State Attorney	PAS	Pasco	006		0	0	Jacobs	Larry		7934
+9/1/1992	REP	Republican	STA	State Attorney	PIN	Pinellas	006		0	0	Jacobs	Larry		26971
+9/1/1992	REP	Republican	STA	State Attorney	PAS	Pasco	006		0	0	McCabe	Bernie		16323
+9/1/1992	REP	Republican	STA	State Attorney	PIN	Pinellas	006		0	0	McCabe	Bernie		45923
+9/1/1992	REP	Republican	STA	State Attorney	FLA	Flagler	007		0	0	Alexander	James	S. 'Steve'	1402
+9/1/1992	REP	Republican	STA	State Attorney	PUT	Putnam	007		0	0	Alexander	James	S. 'Steve'	1024
+9/1/1992	REP	Republican	STA	State Attorney	STJ	St. Johns	007		0	0	Alexander	James	S. 'Steve'	3829
+9/1/1992	REP	Republican	STA	State Attorney	VOL	Volusia	007		0	0	Alexander	James	S. 'Steve'	14028
+9/1/1992	REP	Republican	STA	State Attorney	FLA	Flagler	007		0	0	Tanner	John		1911
+9/1/1992	REP	Republican	STA	State Attorney	PUT	Putnam	007		0	0	Tanner	John		1193
+9/1/1992	REP	Republican	STA	State Attorney	STJ	St. Johns	007		0	0	Tanner	John		3183
+9/1/1992	REP	Republican	STA	State Attorney	VOL	Volusia	007		0	0	Tanner	John		13939
+9/1/1992	REP	Republican	STA	State Attorney	PAL	Palm Beach	015		0	0	Butler	Phil		18761
+9/1/1992	REP	Republican	STA	State Attorney	PAL	Palm Beach	015		0	0	Fulton	Douglas	C.	17053
+9/1/1992	REP	Republican	STA	State Attorney	BRE	Brevard	018		0	0	Galluzzo	John		11883
+9/1/1992	REP	Republican	STA	State Attorney	SEM	Seminole	018		0	0	Galluzzo	John		6541
+9/1/1992	REP	Republican	STA	State Attorney	BRE	Brevard	018		0	0	Wolfinger	Norm		28213
+9/1/1992	REP	Republican	STA	State Attorney	SEM	Seminole	018		0	0	Wolfinger	Norm		15450
+9/1/1992	REP	Republican	PUB	Public Defender	IND	Indian River	019		0	0	Horne	Diamond	R.	5505
+9/1/1992	REP	Republican	PUB	Public Defender	MRT	Martin	019		0	0	Horne	Diamond	R.	5585
+9/1/1992	REP	Republican	PUB	Public Defender	OKE	Okeechobee	019		0	0	Horne	Diamond	R.	240
+9/1/1992	REP	Republican	PUB	Public Defender	STL	St. Lucie	019		0	0	Horne	Diamond	R.	6218
+9/1/1992	REP	Republican	PUB	Public Defender	IND	Indian River	019		0	0	Schwarz	Elton	H.	3634
+9/1/1992	REP	Republican	PUB	Public Defender	MRT	Martin	019		0	0	Schwarz	Elton	H.	7014
+9/1/1992	REP	Republican	PUB	Public Defender	OKE	Okeechobee	019		0	0	Schwarz	Elton	H.	181
+9/1/1992	REP	Republican	PUB	Public Defender	STL	St. Lucie	019		0	0	Schwarz	Elton	H.	3397
+9/1/1992	REP	Republican	PUB	Public Defender	IND	Indian River	019		0	0	Yacucci Jr.	Philip	J.	5374
+9/1/1992	REP	Republican	PUB	Public Defender	MRT	Martin	019		0	0	Yacucci Jr.	Philip	J.	2779
+9/1/1992	REP	Republican	PUB	Public Defender	OKE	Okeechobee	019		0	0	Yacucci Jr.	Philip	J.	261
+9/1/1992	REP	Republican	PUB	Public Defender	STL	St. Lucie	019		0	0	Yacucci Jr.	Philip	J.	3508
+9/1/1992	REP	Republican	STS	State Senator	BAY	Bay	007		0	0	Bass	Mike		523
+9/1/1992	REP	Republican	STS	State Senator	ESC	Escambia	007		0	0	Bass	Mike		4132
+9/1/1992	REP	Republican	STS	State Senator	OKA	Okaloosa	007		0	0	Bass	Mike		1704
+9/1/1992	REP	Republican	STS	State Senator	SAN	Santa Rosa	007		0	0	Bass	Mike		1364
+9/1/1992	REP	Republican	STS	State Senator	WAL	Walton	007		0	0	Bass	Mike		76
+9/1/1992	REP	Republican	STS	State Senator	BAY	Bay	007		0	0	Bense	Allan	G.	2307
+9/1/1992	REP	Republican	STS	State Senator	ESC	Escambia	007		0	0	Bense	Allan	G.	2012
+9/1/1992	REP	Republican	STS	State Senator	OKA	Okaloosa	007		0	0	Bense	Allan	G.	3085
+9/1/1992	REP	Republican	STS	State Senator	SAN	Santa Rosa	007		0	0	Bense	Allan	G.	846
+9/1/1992	REP	Republican	STS	State Senator	WAL	Walton	007		0	0	Bense	Allan	G.	106
+9/1/1992	REP	Republican	STS	State Senator	BAY	Bay	007		0	0	Halstead	John	Phillip	155
+9/1/1992	REP	Republican	STS	State Senator	ESC	Escambia	007		0	0	Halstead	John	Phillip	578
+9/1/1992	REP	Republican	STS	State Senator	OKA	Okaloosa	007		0	0	Halstead	John	Phillip	738
+9/1/1992	REP	Republican	STS	State Senator	SAN	Santa Rosa	007		0	0	Halstead	John	Phillip	230
+9/1/1992	REP	Republican	STS	State Senator	WAL	Walton	007		0	0	Halstead	John	Phillip	20
+9/1/1992	REP	Republican	STS	State Senator	BAY	Bay	007		0	0	Harden	Robert		432
+9/1/1992	REP	Republican	STS	State Senator	ESC	Escambia	007		0	0	Harden	Robert		1432
+9/1/1992	REP	Republican	STS	State Senator	OKA	Okaloosa	007		0	0	Harden	Robert		8221
+9/1/1992	REP	Republican	STS	State Senator	SAN	Santa Rosa	007		0	0	Harden	Robert		974
+9/1/1992	REP	Republican	STS	State Senator	WAL	Walton	007		0	0	Harden	Robert		247
+9/1/1992	REP	Republican	STS	State Senator	ORA	Orange	012		0	0	Grindle	Art		6625
+9/1/1992	REP	Republican	STS	State Senator	OSC	Osceola	012		0	0	Grindle	Art		141
+9/1/1992	REP	Republican	STS	State Senator	SEM	Seminole	012		0	0	Grindle	Art		5088
+9/1/1992	REP	Republican	STS	State Senator	VOL	Volusia	012		0	0	Grindle	Art		406
+9/1/1992	REP	Republican	STS	State Senator	ORA	Orange	012		0	0	Siegel	Gary		8059
+9/1/1992	REP	Republican	STS	State Senator	OSC	Osceola	012		0	0	Siegel	Gary		193
+9/1/1992	REP	Republican	STS	State Senator	SEM	Seminole	012		0	0	Siegel	Gary		5030
+9/1/1992	REP	Republican	STS	State Senator	VOL	Volusia	012		0	0	Siegel	Gary		461
+9/1/1992	REP	Republican	STS	State Senator	ORA	Orange	014		0	0	Mino	Steve	De	8538
+9/1/1992	REP	Republican	STS	State Senator	SEM	Seminole	014		0	0	Mino	Steve	De	641
+9/1/1992	REP	Republican	STS	State Senator	ORA	Orange	014		0	0	Wynn	Dotti		5085
+9/1/1992	REP	Republican	STS	State Senator	SEM	Seminole	014		0	0	Wynn	Dotti		389
+9/1/1992	REP	Republican	STS	State Senator	BRE	Brevard	015		0	0	Behrendt	Lloyd	F.	7435
+9/1/1992	REP	Republican	STS	State Senator	IND	Indian River	015		0	0	Behrendt	Lloyd	F.	4777
+9/1/1992	REP	Republican	STS	State Senator	STL	St. Lucie	015		0	0	Behrendt	Lloyd	F.	1136
+9/1/1992	REP	Republican	STS	State Senator	BRE	Brevard	015		0	0	Waddell	Gene		7968
+9/1/1992	REP	Republican	STS	State Senator	IND	Indian River	015		0	0	Waddell	Gene		6073
+9/1/1992	REP	Republican	STS	State Senator	STL	St. Lucie	015		0	0	Waddell	Gene		2482
+9/1/1992	REP	Republican	STS	State Senator	BRE	Brevard	018		0	0	Allen	Bob		7509
+9/1/1992	REP	Republican	STS	State Senator	OSC	Osceola	018		0	0	Allen	Bob		2968
+9/1/1992	REP	Republican	STS	State Senator	BRE	Brevard	018		0	0	Baccus	Shirley	P.	9564
+9/1/1992	REP	Republican	STS	State Senator	OSC	Osceola	018		0	0	Baccus	Shirley	P.	3164
+9/1/1992	REP	Republican	STS	State Senator	BRE	Brevard	018		0	0	Borum	Rod		8053
+9/1/1992	REP	Republican	STS	State Senator	OSC	Osceola	018		0	0	Borum	Rod		1840
+9/1/1992	REP	Republican	STS	State Senator	HIL	Hillsborough	020		0	0	Crist	Charlie		2725
+9/1/1992	REP	Republican	STS	State Senator	PIN	Pinellas	020		0	0	Crist	Charlie		12159
+9/1/1992	REP	Republican	STS	State Senator	HIL	Hillsborough	020		0	0	Huenink	Jeff		1742
+9/1/1992	REP	Republican	STS	State Senator	PIN	Pinellas	020		0	0	Huenink	Jeff		7325
+9/1/1992	REP	Republican	STS	State Senator	PIN	Pinellas	022		0	0	Arnold	Jo		3917
+9/1/1992	REP	Republican	STS	State Senator	PIN	Pinellas	022		0	0	Grizzle	Mary	R.	13919
+9/1/1992	REP	Republican	STS	State Senator	PIN	Pinellas	022		0	0	Sullivan	Don		16781
+9/1/1992	REP	Republican	STS	State Senator	CHA	Charlotte	024		0	0	Ford	Jim		5128
+9/1/1992	REP	Republican	STS	State Senator	LEE	Lee	024		0	0	Ford	Jim		1253
+9/1/1992	REP	Republican	STS	State Senator	SAR	Sarasota	024		0	0	Ford	Jim		13243
+9/1/1992	REP	Republican	STS	State Senator	CHA	Charlotte	024		0	0	Johnson	Bob		9802
+9/1/1992	REP	Republican	STS	State Senator	LEE	Lee	024		0	0	Johnson	Bob		1831
+9/1/1992	REP	Republican	STS	State Senator	SAR	Sarasota	024		0	0	Johnson	Bob		20101
+9/1/1992	REP	Republican	STR	State Representative	ESC	Escambia	004		0	0	Kerrigan	James	P.	195
+9/1/1992	REP	Republican	STR	State Representative	OKA	Okaloosa	004		0	0	Kerrigan	James	P.	4146
+9/1/1992	REP	Republican	STR	State Representative	SAN	Santa Rosa	004		0	0	Kerrigan	James	P.	1606
+9/1/1992	REP	Republican	STR	State Representative	ESC	Escambia	004		0	0	Moore	Bart		60
+9/1/1992	REP	Republican	STR	State Representative	OKA	Okaloosa	004		0	0	Moore	Bart		2958
+9/1/1992	REP	Republican	STR	State Representative	SAN	Santa Rosa	004		0	0	Moore	Bart		369
+9/1/1992	REP	Republican	STR	State Representative	ESC	Escambia	004		0	0	Weaver	Dave		92
+9/1/1992	REP	Republican	STR	State Representative	OKA	Okaloosa	004		0	0	Weaver	Dave		3913
+9/1/1992	REP	Republican	STR	State Representative	SAN	Santa Rosa	004		0	0	Weaver	Dave		773
+9/1/1992	REP	Republican	STR	State Representative	BAK	Baker	012		0	0	Shirley	Milt		115
+9/1/1992	REP	Republican	STR	State Representative	BRA	Bradford	012		0	0	Shirley	Milt		164
+9/1/1992	REP	Republican	STR	State Representative	DUV	Duval	012		0	0	Shirley	Milt		92
+9/1/1992	REP	Republican	STR	State Representative	NAS	Nassau	012		0	0	Shirley	Milt		1098
+9/1/1992	REP	Republican	STR	State Representative	UNI	Union	012		0	0	Shirley	Milt		22
+9/1/1992	REP	Republican	STR	State Representative	BAK	Baker	012		0	0	Wine	Dana		81
+9/1/1992	REP	Republican	STR	State Representative	BRA	Bradford	012		0	0	Wine	Dana		114
+9/1/1992	REP	Republican	STR	State Representative	DUV	Duval	012		0	0	Wine	Dana		77
+9/1/1992	REP	Republican	STR	State Representative	NAS	Nassau	012		0	0	Wine	Dana		565
+9/1/1992	REP	Republican	STR	State Representative	UNI	Union	012		0	0	Wine	Dana		21
+9/1/1992	REP	Republican	STR	State Representative	DUV	Duval	016		0	0	Fuller	Jim		3103
+9/1/1992	REP	Republican	STR	State Representative	DUV	Duval	016		0	0	Gardner	George	D.	1458
+9/1/1992	REP	Republican	STR	State Representative	CLA	Clay	019		0	0	Bailey	Sarah		718
+9/1/1992	REP	Republican	STR	State Representative	DUV	Duval	019		0	0	Bailey	Sarah		692
+9/1/1992	REP	Republican	STR	State Representative	STJ	St. Johns	019		0	0	Bailey	Sarah		380
+9/1/1992	REP	Republican	STR	State Representative	CLA	Clay	019		0	0	Naughton	Mike		2097
+9/1/1992	REP	Republican	STR	State Representative	DUV	Duval	019		0	0	Naughton	Mike		1269
+9/1/1992	REP	Republican	STR	State Representative	STJ	St. Johns	019		0	0	Naughton	Mike		194
+9/1/1992	REP	Republican	STR	State Representative	CLA	Clay	019		0	0	Thrasher	John		3971
+9/1/1992	REP	Republican	STR	State Representative	DUV	Duval	019		0	0	Thrasher	John		1433
+9/1/1992	REP	Republican	STR	State Representative	STJ	St. Johns	019		0	0	Thrasher	John		213
+9/1/1992	REP	Republican	STR	State Representative	BRE	Brevard	029		0	0	Carey	John	Gerald	5050
+9/1/1992	REP	Republican	STR	State Representative	BRE	Brevard	029		0	0	Masson	Henry	'Hank'	3883
+9/1/1992	REP	Republican	STR	State Representative	BRE	Brevard	030		0	0	Bonder	Janet	S.	6435
+9/1/1992	REP	Republican	STR	State Representative	BRE	Brevard	030		0	0	DiLavore	Peter		2816
+9/1/1992	REP	Republican	STR	State Representative	BRE	Brevard	030		0	0	Futch	Howard	E.	4097
+9/1/1992	REP	Republican	STR	State Representative	BRE	Brevard	032		0	0	Posey	Bill		4609
+9/1/1992	REP	Republican	STR	State Representative	IND	Indian River	032		0	0	Posey	Bill		156
+9/1/1992	REP	Republican	STR	State Representative	ORA	Orange	032		0	0	Posey	Bill		1151
+9/1/1992	REP	Republican	STR	State Representative	BRE	Brevard	032		0	0	Tucker	Andy		3961
+9/1/1992	REP	Republican	STR	State Representative	IND	Indian River	032		0	0	Tucker	Andy		142
+9/1/1992	REP	Republican	STR	State Representative	ORA	Orange	032		0	0	Tucker	Andy		766
+9/1/1992	REP	Republican	STR	State Representative	ORA	Orange	033		0	0	Couch	Marvin		1278
+9/1/1992	REP	Republican	STR	State Representative	SEM	Seminole	033		0	0	Couch	Marvin		3124
+9/1/1992	REP	Republican	STR	State Representative	VOL	Volusia	033		0	0	Couch	Marvin		461
+9/1/1992	REP	Republican	STR	State Representative	ORA	Orange	033		0	0	Perez	Tico		862
+9/1/1992	REP	Republican	STR	State Representative	SEM	Seminole	033		0	0	Perez	Tico		2105
+9/1/1992	REP	Republican	STR	State Representative	VOL	Volusia	033		0	0	Perez	Tico		326
+9/1/1992	REP	Republican	STR	State Representative	ORA	Orange	034		0	0	Bartlett	Leslie	Ann	159
+9/1/1992	REP	Republican	STR	State Representative	SEM	Seminole	034		0	0	Bartlett	Leslie	Ann	851
+9/1/1992	REP	Republican	STR	State Representative	ORA	Orange	034		0	0	Miller	Mary	Lou	158
+9/1/1992	REP	Republican	STR	State Representative	SEM	Seminole	034		0	0	Miller	Mary	Lou	1350
+9/1/1992	REP	Republican	STR	State Representative	ORA	Orange	034		0	0	Starks	Bob		1515
+9/1/1992	REP	Republican	STR	State Representative	SEM	Seminole	034		0	0	Starks	Bob		5920
+9/1/1992	REP	Republican	STR	State Representative	ORA	Orange	036		0	0	Lowman	Harry		3420
+9/1/1992	REP	Republican	STR	State Representative	ORA	Orange	036		0	0	McEwan	Bruce		5286
+9/1/1992	REP	Republican	STR	State Representative	ORA	Orange	037		0	0	Birle	Candace		157
+9/1/1992	REP	Republican	STR	State Representative	SEM	Seminole	037		0	0	Birle	Candace		939
+9/1/1992	REP	Republican	STR	State Representative	ORA	Orange	037		0	0	Constantine	Lee		381
+9/1/1992	REP	Republican	STR	State Representative	SEM	Seminole	037		0	0	Constantine	Lee		3419
+9/1/1992	REP	Republican	STR	State Representative	ORA	Orange	037		0	0	Pennington	Wesley	'Wes'	574
+9/1/1992	REP	Republican	STR	State Representative	SEM	Seminole	037		0	0	Pennington	Wesley	'Wes'	3546
+9/1/1992	REP	Republican	STR	State Representative	ORA	Orange	040		0	0	Durek	Joe		1909
+9/1/1992	REP	Republican	STR	State Representative	ORA	Orange	040		0	0	Julian	Carlene		3506
+9/1/1992	REP	Republican	STR	State Representative	ORA	Orange	040		0	0	Sublette	Bill		3712
+9/1/1992	REP	Republican	STR	State Representative	HER	Hernando	044		0	0	Cestaro	Carl		3509
+9/1/1992	REP	Republican	STR	State Representative	LAK	Lake	044		0	0	Cestaro	Carl		22
+9/1/1992	REP	Republican	STR	State Representative	PAS	Pasco	044		0	0	Cestaro	Carl		9
+9/1/1992	REP	Republican	STR	State Representative	POL	Polk	044		0	0	Cestaro	Carl		60
+9/1/1992	REP	Republican	STR	State Representative	SUM	Sumter	044		0	0	Cestaro	Carl		58
+9/1/1992	REP	Republican	STR	State Representative	HER	Hernando	044		0	0	Grubbs	Murray	R.	3386
+9/1/1992	REP	Republican	STR	State Representative	LAK	Lake	044		0	0	Grubbs	Murray	R.	164
+9/1/1992	REP	Republican	STR	State Representative	PAS	Pasco	044		0	0	Grubbs	Murray	R.	15
+9/1/1992	REP	Republican	STR	State Representative	POL	Polk	044		0	0	Grubbs	Murray	R.	174
+9/1/1992	REP	Republican	STR	State Representative	SUM	Sumter	044		0	0	Grubbs	Murray	R.	47
+9/1/1992	REP	Republican	STR	State Representative	HER	Hernando	044		0	0	Stabins	Jeff		5913
+9/1/1992	REP	Republican	STR	State Representative	LAK	Lake	044		0	0	Stabins	Jeff		84
+9/1/1992	REP	Republican	STR	State Representative	PAS	Pasco	044		0	0	Stabins	Jeff		19
+9/1/1992	REP	Republican	STR	State Representative	POL	Polk	044		0	0	Stabins	Jeff		100
+9/1/1992	REP	Republican	STR	State Representative	SUM	Sumter	044		0	0	Stabins	Jeff		46
+9/1/1992	REP	Republican	STR	State Representative	PAS	Pasco	046		0	0	Altman	Ken		6804
+9/1/1992	REP	Republican	STR	State Representative	PAS	Pasco	046		0	0	Fasano	Michael		5390
+9/1/1992	REP	Republican	STR	State Representative	HIL	Hillsborough	048		0	0	Safley	R.Z.	'Sandy'	146
+9/1/1992	REP	Republican	STR	State Representative	PIN	Pinellas	048		0	0	Safley	R.Z.	'Sandy'	7303
+9/1/1992	REP	Republican	STR	State Representative	HIL	Hillsborough	048		0	0	Zimmermann	Carl	F.	64
+9/1/1992	REP	Republican	STR	State Representative	PIN	Pinellas	048		0	0	Zimmermann	Carl	F.	4000
+9/1/1992	REP	Republican	STR	State Representative	PIN	Pinellas	050		0	0	Bedinghaus	Paul	J.	1018
+9/1/1992	REP	Republican	STR	State Representative	PIN	Pinellas	050		0	0	Berger	Dan		1138
+9/1/1992	REP	Republican	STR	State Representative	PIN	Pinellas	050		0	0	Black	Mary	Gray	2956
+9/1/1992	REP	Republican	STR	State Representative	PIN	Pinellas	050		0	0	Bostock	Craig		1787
+9/1/1992	REP	Republican	STR	State Representative	PIN	Pinellas	050		0	0	Morroni	John		2663
+9/1/1992	REP	Republican	STR	State Representative	PIN	Pinellas	050		0	0	Savage	Clay		490
+9/1/1992	REP	Republican	STR	State Representative	PIN	Pinellas	051		0	0	Butler	Richard		4028
+9/1/1992	REP	Republican	STR	State Representative	PIN	Pinellas	051		0	0	Neuman	Carl		3333
+9/1/1992	REP	Republican	STR	State Representative	HIL	Hillsborough	056		0	0	Mathews	Carl		2084
+9/1/1992	REP	Republican	STR	State Representative	HIL	Hillsborough	056		0	0	Selvey	James	D. 'Jim'	1675
+9/1/1992	REP	Republican	STR	State Representative	HIL	Hillsborough	057		0	0	Culp	Faye		3289
+9/1/1992	REP	Republican	STR	State Representative	HIL	Hillsborough	057		0	0	Sinicrope	Al		2318
+9/1/1992	REP	Republican	STR	State Representative	POL	Polk	065		0	0	Perez	Arturo		2309
+9/1/1992	REP	Republican	STR	State Representative	POL	Polk	065		0	0	Senft, Jr.	H.	Paul	2970
+9/1/1992	REP	Republican	STR	State Representative	HIL	Hillsborough	067		0	0	Ogles	Mark	R.	933
+9/1/1992	REP	Republican	STR	State Representative	MAN	Manatee	067		0	0	Ogles	Mark	R.	5167
+9/1/1992	REP	Republican	STR	State Representative	SAR	Sarasota	067		0	0	Ogles	Mark	R.	1222
+9/1/1992	REP	Republican	STR	State Representative	HIL	Hillsborough	067		0	0	Schulz	Thomas		796
+9/1/1992	REP	Republican	STR	State Representative	MAN	Manatee	067		0	0	Schulz	Thomas		3902
+9/1/1992	REP	Republican	STR	State Representative	SAR	Sarasota	067		0	0	Schulz	Thomas		1114
+9/1/1992	REP	Republican	STR	State Representative	MAN	Manatee	068		0	0	Adams	Brian	F.	7067
+9/1/1992	REP	Republican	STR	State Representative	MAN	Manatee	068		0	0	Carter	Carol		6933
+9/1/1992	REP	Republican	STR	State Representative	SAR	Sarasota	069		0	0	Ellis	D.	Jerald 'Jerry'	7447
+9/1/1992	REP	Republican	STR	State Representative	SAR	Sarasota	069		0	0	Shaughnessy	John	L.	6185
+9/1/1992	REP	Republican	STR	State Representative	CHA	Charlotte	071		0	0	Bitner	Dave		6783
+9/1/1992	REP	Republican	STR	State Representative	SAR	Sarasota	071		0	0	Bitner	Dave		2391
+9/1/1992	REP	Republican	STR	State Representative	CHA	Charlotte	071		0	0	O'Connell	Brian	J.	3954
+9/1/1992	REP	Republican	STR	State Representative	SAR	Sarasota	071		0	0	O'Connell	Brian	J.	1683
+9/1/1992	REP	Republican	STR	State Representative	CHA	Charlotte	074		0	0	Gay	Greg	Allen	666
+9/1/1992	REP	Republican	STR	State Representative	LEE	Lee	074		0	0	Gay	Greg	Allen	5688
+9/1/1992	REP	Republican	STR	State Representative	SAR	Sarasota	074		0	0	Gay	Greg	Allen	750
+9/1/1992	REP	Republican	STR	State Representative	CHA	Charlotte	074		0	0	Henshaw	Sigrid		605
+9/1/1992	REP	Republican	STR	State Representative	LEE	Lee	074		0	0	Henshaw	Sigrid		4975
+9/1/1992	REP	Republican	STR	State Representative	SAR	Sarasota	074		0	0	Henshaw	Sigrid		1105
+9/1/1992	REP	Republican	STR	State Representative	CLL	Collier	075		0	0	Ireland	Tim		605
+9/1/1992	REP	Republican	STR	State Representative	LEE	Lee	075		0	0	Ireland	Tim		8768
+9/1/1992	REP	Republican	STR	State Representative	CLL	Collier	075		0	0	Livingston	Ralph	L.	380
+9/1/1992	REP	Republican	STR	State Representative	LEE	Lee	075		0	0	Livingston	Ralph	L.	3250
+9/1/1992	REP	Republican	STR	State Representative	CLL	Collier	075		0	0	Peeler	Ross		72
+9/1/1992	REP	Republican	STR	State Representative	LEE	Lee	075		0	0	Peeler	Ross		1052
+9/1/1992	REP	Republican	STR	State Representative	HIG	Highlands	078		0	0	Bruhn	John	D.	305
+9/1/1992	REP	Republican	STR	State Representative	MRT	Martin	078		0	0	Bruhn	John	D.	17
+9/1/1992	REP	Republican	STR	State Representative	OKE	Okeechobee	078		0	0	Bruhn	John	D.	122
+9/1/1992	REP	Republican	STR	State Representative	PAL	Palm Beach	078		0	0	Bruhn	John	D.	196
+9/1/1992	REP	Republican	STR	State Representative	STL	St. Lucie	078		0	0	Bruhn	John	D.	1073
+9/1/1992	REP	Republican	STR	State Representative	HIG	Highlands	078		0	0	Marinelli	John	P.	94
+9/1/1992	REP	Republican	STR	State Representative	MRT	Martin	078		0	0	Marinelli	John	P.	14
+9/1/1992	REP	Republican	STR	State Representative	OKE	Okeechobee	078		0	0	Marinelli	John	P.	73
+9/1/1992	REP	Republican	STR	State Representative	PAL	Palm Beach	078		0	0	Marinelli	John	P.	614
+9/1/1992	REP	Republican	STR	State Representative	STL	St. Lucie	078		0	0	Marinelli	John	P.	333
+9/1/1992	REP	Republican	STR	State Representative	HIG	Highlands	078		0	0	Stopek	Rick		339
+9/1/1992	REP	Republican	STR	State Representative	MRT	Martin	078		0	0	Stopek	Rick		22
+9/1/1992	REP	Republican	STR	State Representative	OKE	Okeechobee	078		0	0	Stopek	Rick		213
+9/1/1992	REP	Republican	STR	State Representative	PAL	Palm Beach	078		0	0	Stopek	Rick		640
+9/1/1992	REP	Republican	STR	State Representative	STL	St. Lucie	078		0	0	Stopek	Rick		540
+9/1/1992	REP	Republican	STR	State Representative	MRT	Martin	081		0	0	Harrell	Gayle		3139
+9/1/1992	REP	Republican	STR	State Representative	STL	St. Lucie	081		0	0	Harrell	Gayle		3586
+9/1/1992	REP	Republican	STR	State Representative	MRT	Martin	081		0	0	Pruitt	Ken		2433
+9/1/1992	REP	Republican	STR	State Representative	STL	St. Lucie	081		0	0	Pruitt	Ken		5095
+9/1/1992	REP	Republican	STR	State Representative	MRT	Martin	082		0	0	Guertin	Gary		828
+9/1/1992	REP	Republican	STR	State Representative	PAL	Palm Beach	082		0	0	Guertin	Gary		214
+9/1/1992	REP	Republican	STR	State Representative	MRT	Martin	082		0	0	Moan	Phil		761
+9/1/1992	REP	Republican	STR	State Representative	PAL	Palm Beach	082		0	0	Moan	Phil		657
+9/1/1992	REP	Republican	STR	State Representative	MRT	Martin	082		0	0	Negron, Jr.	Joseph	'Joe'	4757
+9/1/1992	REP	Republican	STR	State Representative	PAL	Palm Beach	082		0	0	Negron, Jr.	Joseph	'Joe'	1262
+9/1/1992	REP	Republican	STR	State Representative	MRT	Martin	082		0	0	Warner	Tom		3943
+9/1/1992	REP	Republican	STR	State Representative	PAL	Palm Beach	082		0	0	Warner	Tom		1536
+9/1/1992	REP	Republican	STR	State Representative	PAL	Palm Beach	083		0	0	Danchuk	Michael	I.	1644
+9/1/1992	REP	Republican	STR	State Representative	PAL	Palm Beach	083		0	0	Kiselewski	Donald	L.	2147
+9/1/1992	REP	Republican	STR	State Representative	PAL	Palm Beach	083		0	0	Klingensmith	Mark		1341
+9/1/1992	REP	Republican	STR	State Representative	PAL	Palm Beach	083		0	0	Merchant	Sharon	J.	3041
+9/1/1992	REP	Republican	STR	State Representative	PAL	Palm Beach	083		0	0	Skrandel	Jerome	F.	590
+9/1/1992	REP	Republican	STR	State Representative	PAL	Palm Beach	087		0	0	Andrews	William	'Bill'	3014
+9/1/1992	REP	Republican	STR	State Representative	PAL	Palm Beach	087		0	0	Hanson	Carol	G.	3102
+9/1/1992	REP	Republican	STR	State Representative	PAL	Palm Beach	088		0	0	Mondell	Curt	H.	2594
+9/1/1992	REP	Republican	STR	State Representative	PAL	Palm Beach	088		0	0	Poole	Michele		1824
+9/1/1992	REP	Republican	STR	State Representative	CLL	Collier	102		0	0	Perez	Gustave	(Gus)	751
+9/1/1992	REP	Republican	STR	State Representative	DAD	Miami-Dade	102		0	0	Perez	Gustave	(Gus)	989
+9/1/1992	REP	Republican	STR	State Representative	CLL	Collier	102		0	0	Rojas	Luis	E.	1103
+9/1/1992	REP	Republican	STR	State Representative	DAD	Miami-Dade	102		0	0	Rojas	Luis	E.	2778
+9/1/1992	REP	Republican	STR	State Representative	DAD	Miami-Dade	107		0	0	Barreiro	Bruno	A.	1413
+9/1/1992	REP	Republican	STR	State Representative	DAD	Miami-Dade	107		0	0	Davis	John	S.	558
+9/1/1992	REP	Republican	STR	State Representative	DAD	Miami-Dade	107		0	0	Farinas	Irene		1066
+9/1/1992	REP	Republican	STR	State Representative	DAD	Miami-Dade	107		0	0	LaBorde	Cesar	J.	234
+9/1/1992	REP	Republican	STR	State Representative	DAD	Miami-Dade	107		0	0	Ortiz	Carlos	'C.J.'	491
+9/1/1992	REP	Republican	STR	State Representative	DAD	Miami-Dade	111		0	0	Machado*Jr.	Gus		818
+9/1/1992	REP	Republican	STR	State Representative	DAD	Miami-Dade	111		0	0	Valdes	Carlos	L.	3940
+9/1/1992	REP	Republican	STR	State Representative	DAD	Miami-Dade	112		0	0	Amores	Caridad	'Carrie'	417
+9/1/1992	REP	Republican	STR	State Representative	DAD	Miami-Dade	112		0	0	Bovo	Esteban	'Steve'	1054
+9/1/1992	REP	Republican	STR	State Representative	DAD	Miami-Dade	112		0	0	Penedo	Armando	A.	533
+9/1/1992	REP	Republican	STR	State Representative	DAD	Miami-Dade	112		0	0	Salazar	Marianne		879
+9/1/1992	REP	Republican	STR	State Representative	DAD	Miami-Dade	112		0	0	Villalobos	J.	Alex	1254
+9/1/1992	REP	Republican	STR	State Representative	DAD	Miami-Dade	115		0	0	Casas	Manuel		671
+9/1/1992	REP	Republican	STR	State Representative	DAD	Miami-Dade	115		0	0	Diaz-de la Portilla	Alex		1953
+9/1/1992	REP	Republican	STR	State Representative	DAD	Miami-Dade	115		0	0	Manrique	Carlos		1250
+9/1/1992	REP	Republican	STR	State Representative	DAD	Miami-Dade	115		0	0	Menendez	Hugo	D.	554
+9/1/1992	REP	Republican	STR	State Representative	DAD	Miami-Dade	115		0	0	Rodriguez	Luis		523
+9/1/1992	REP	Republican	STR	State Representative	DAD	Miami-Dade	115		0	0	Sanz	Raul	Perez	410
+9/1/1992	REP	Republican	STR	State Representative	DAD	Miami-Dade	116		0	0	Cruz	Orlando	R.	1331
+9/1/1992	REP	Republican	STR	State Representative	DAD	Miami-Dade	116		0	0	White	Rea		772
+9/1/1992	REP	Republican	STR	State Representative	DAD	Miami-Dade	117		0	0	Armesto-Garcia	Eladio		1992
+9/1/1992	REP	Republican	STR	State Representative	DAD	Miami-Dade	117		0	0	Gener	Carlos	M.	718
+9/1/1992	REP	Republican	STR	State Representative	DAD	Miami-Dade	117		0	0	Hoffmann	Bruce		1739
+9/1/1992	REP	Republican	STR	State Representative	DAD	Miami-Dade	117		0	0	Schlafke	Maria		726
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	CLM	Columbia	003	001	0	0	Bean	James	Roy	1721
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	DIX	Dixie	003	001	0	0	Bean	James	Roy	2432
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	HAM	Hamilton	003	001	0	0	Bean	James	Roy	1234
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	LAF	Lafayette	003	001	0	0	Bean	James	Roy	933
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	MAD	Madison	003	001	0	0	Bean	James	Roy	2393
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	SUW	Suwannee	003	001	0	0	Bean	James	Roy	2274
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	TAY	Taylor	003	001	0	0	Bean	James	Roy	4569
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	CLM	Columbia	003	001	0	0	Bryan	Paul		5992
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	DIX	Dixie	003	001	0	0	Bryan	Paul		1348
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	HAM	Hamilton	003	001	0	0	Bryan	Paul		1247
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	LAF	Lafayette	003	001	0	0	Bryan	Paul		947
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	MAD	Madison	003	001	0	0	Bryan	Paul		1599
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	SUW	Suwannee	003	001	0	0	Bryan	Paul		2646
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	TAY	Taylor	003	001	0	0	Bryan	Paul		1002
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	CLM	Columbia	003	001	0	0	Slaughter, II	William	R.	1405
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	DIX	Dixie	003	001	0	0	Slaughter, II	William	R.	740
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	HAM	Hamilton	003	001	0	0	Slaughter, II	William	R.	882
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	LAF	Lafayette	003	001	0	0	Slaughter, II	William	R.	576
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	MAD	Madison	003	001	0	0	Slaughter, II	William	R.	1072
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	SUW	Suwannee	003	001	0	0	Slaughter, II	William	R.	4167
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	TAY	Taylor	003	001	0	0	Slaughter, II	William	R.	579
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	026	0	0	Arias	Roberto		5040
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	026	0	0	Arias	Roberto		28730
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	026	0	0	Arias	Roberto		2897
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	026	0	0	Crenshaw, Jr.	Mack		14368
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	026	0	0	Crenshaw, Jr.	Mack		54461
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	026	0	0	Crenshaw, Jr.	Mack		6714
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	003	0	0	Glisson	Marsha	B.	27218
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	003	0	0	Glisson	Marsha	B.	58203
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	003	0	0	McCoun	Tom		10508
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	003	0	0	McCoun	Tom		28224
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	003	0	0	Sandefer	Larry		6788
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	003	0	0	Sandefer	Larry		20181
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	003	0	0	Slicker	William	'Bill' D.	6521
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	003	0	0	Slicker	William	'Bill' D.	18387
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	020	0	0	Berfield	James	L. 'Jim'	10677
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	020	0	0	Berfield	James	L. 'Jim'	34735
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	020	0	0	Newton	Bonnie		25454
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	020	0	0	Newton	Bonnie		60459
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	020	0	0	Woodworth	Glenn	M.	13945
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	020	0	0	Woodworth	Glenn	M.	29208
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	023	0	0	Conklin	Raymond	C. 'Chet'	17974
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	023	0	0	Conklin	Raymond	C. 'Chet'	29941
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	023	0	0	Cope	Charles	W.	14186
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	023	0	0	Cope	Charles	W.	42082
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	023	0	0	Khouzam	Nelly		18122
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	023	0	0	Khouzam	Nelly		51935
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	029	0	0	Jagger	Robert	F.	9095
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	029	0	0	Jagger	Robert	F.	37127
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	029	0	0	Logan	Walt		14255
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	029	0	0	Logan	Walt		41471
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	029	0	0	Villanti	Craig	C.	29037
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	029	0	0	Villanti	Craig	C.	44388
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	010	0	0	Chavies	Michael	B.	49243
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	010	0	0	Taylor	Arthur	H.	60717
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	021	0	0	Brian	Edward	Alan	22461
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	021	0	0	Coe	Jack	Martin	31354
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	021	0	0	Kreeger	Judy		55236
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	028	0	0	Ambrose	Marcus		25151
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	028	0	0	Bailey	Jennifer	D.	44572
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	028	0	0	Knight	Phillip	W.	39573
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	040	0	0	Dubitsky	Ira	L.	18205
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	040	0	0	Levenson	Barbara	S.	58650
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	040	0	0	Nadler	Joseph	M.	38527
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	041	0	0	Hubbart	Gerald	D.	52748
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	041	0	0	Weiner	Robert	F.	51518
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	043	0	0	Gold	Alan	S.	59358
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	043	0	0	Rothenberg	Leslie	Bette	61698
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	052	0	0	Canner	Gary		49286
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	052	0	0	Genden	Michael	A.	54026
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	062	0	0	Nevel	David		36231
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	062	0	0	Siegel	Paul		69962
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	DES	Desoto	012	002	0	0	Donnellan	Nancy	K.	1959
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	MAN	Manatee	012	002	0	0	Donnellan	Nancy	K.	20933
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	SAR	Sarasota	012	002	0	0	Donnellan	Nancy	K.	26957
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	DES	Desoto	012	002	0	0	Rapkin	Harry	M.	1522
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	MAN	Manatee	012	002	0	0	Rapkin	Harry	M.	20422
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	SAR	Sarasota	012	002	0	0	Rapkin	Harry	M.	34501
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	007	0	0	Fine	Edward	H.	64656
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	007	0	0	Schatz	Randee	Susan	30826
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	024	0	0	Harris	Oliver		35799
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	024	0	0	Wessel	John	D.	54103
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	CHA	Charlotte	020	012	0	0	Hagaman	Robert	Ralph	11278
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	CLL	Collier	020	012	0	0	Hagaman	Robert	Ralph	11751
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	GLA	Glades	020	012	0	0	Hagaman	Robert	Ralph	1199
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	HEN	Hendry	020	012	0	0	Hagaman	Robert	Ralph	2534
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	LEE	Lee	020	012	0	0	Hagaman	Robert	Ralph	15279
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	CHA	Charlotte	020	012	0	0	Rosman	Jay	B.	12805
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	CLL	Collier	020	012	0	0	Rosman	Jay	B.	16235
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	GLA	Glades	020	012	0	0	Rosman	Jay	B.	1100
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	HEN	Hendry	020	012	0	0	Rosman	Jay	B.	2183
+9/1/1992	NOP	Non-Partisan	CTJ	Circuit Judge	LEE	Lee	020	012	0	0	Rosman	Jay	B.	34864

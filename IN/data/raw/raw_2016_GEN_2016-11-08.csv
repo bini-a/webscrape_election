@@ -1,0 +1,831 @@
+County,Office,Candidate,Party,District,Votes
+Allen,President,Hillary Clinton,Democratic,Statewide,55382
+Bartholomew,President,Hillary Clinton,Democratic,Statewide,9841
+Boone,President,Hillary Clinton,Democratic,Statewide,10181
+Dearborn,President,Hillary Clinton,Democratic,Statewide,4883
+Elkhart,President,Hillary Clinton,Democratic,Statewide,20740
+Adams,President,Hillary Clinton,Democratic,Statewide,2805
+Carroll,President,Hillary Clinton,Democratic,Statewide,1892
+Clay,President,Hillary Clinton,Democratic,Statewide,2306
+Clinton,President,Hillary Clinton,Democratic,Statewide,2819
+Crawford,President,Hillary Clinton,Democratic,Statewide,1323
+Daviess,President,Hillary Clinton,Democratic,Statewide,1800
+DeKalb,President,Hillary Clinton,Democratic,Statewide,3942
+Benton,President,Hillary Clinton,Democratic,Statewide,860
+Decatur,President,Hillary Clinton,Democratic,Statewide,2121
+Delaware,President,Hillary Clinton,Democratic,Statewide,18153
+Dubois,President,Hillary Clinton,Democratic,Statewide,5389
+Blackford,President,Hillary Clinton,Democratic,Statewide,1243
+Brown,President,Hillary Clinton,Democratic,Statewide,2518
+Cass,President,Hillary Clinton,Democratic,Statewide,3759
+Clark,President,Hillary Clinton,Democratic,Statewide,18808
+Allen,President,Gary Johnson,Libertarian,Statewide,6802
+Bartholomew,President,Gary Johnson,Libertarian,Statewide,1911
+Boone,President,Gary Johnson,Libertarian,Statewide,2226
+Carroll,President,Gary Johnson,Libertarian,Statewide,445
+Cass,President,Gary Johnson,Libertarian,Statewide,680
+Daviess,President,Gary Johnson,Libertarian,Statewide,391
+DeKalb,President,Gary Johnson,Libertarian,Statewide,821
+Benton,President,Gary Johnson,Libertarian,Statewide,215
+Clark,President,Gary Johnson,Libertarian,Statewide,2304
+Clay,President,Gary Johnson,Libertarian,Statewide,426
+Crawford,President,Gary Johnson,Libertarian,Statewide,255
+Dubois,President,Gary Johnson,Libertarian,Statewide,1163
+Blackford,President,Gary Johnson,Libertarian,Statewide,230
+Brown,President,Gary Johnson,Libertarian,Statewide,375
+Dearborn,President,Gary Johnson,Libertarian,Statewide,917
+Decatur,President,Gary Johnson,Libertarian,Statewide,487
+Delaware,President,Gary Johnson,Libertarian,Statewide,2388
+Elkhart,President,Gary Johnson,Libertarian,Statewide,2716
+Adams,President,Gary Johnson,Libertarian,Statewide,595
+Clinton,President,Gary Johnson,Libertarian,Statewide,547
+Bartholomew,President,Donald J. Trump,Republican,Statewide,20640
+Benton,President,Donald J. Trump,Republican,Statewide,2579
+Blackford,President,Donald J. Trump,Republican,Statewide,3350
+Cass,President,Donald J. Trump,Republican,Statewide,9701
+Clark,President,Donald J. Trump,Republican,Statewide,30035
+Decatur,President,Donald J. Trump,Republican,Statewide,8490
+Adams,President,Donald J. Trump,Republican,Statewide,9648
+Boone,President,Donald J. Trump,Republican,Statewide,19654
+Carroll,President,Donald J. Trump,Republican,Statewide,6273
+Clay,President,Donald J. Trump,Republican,Statewide,8531
+Clinton,President,Donald J. Trump,Republican,Statewide,8531
+Crawford,President,Donald J. Trump,Republican,Statewide,3015
+Daviess,President,Donald J. Trump,Republican,Statewide,8545
+DeKalb,President,Donald J. Trump,Republican,Statewide,12054
+Allen,President,Donald J. Trump,Republican,Statewide,83930
+Dearborn,President,Donald J. Trump,Republican,Statewide,18113
+Elkhart,President,Donald J. Trump,Republican,Statewide,41867
+Brown,President,Donald J. Trump,Republican,Statewide,5016
+Delaware,President,Donald J. Trump,Republican,Statewide,24263
+Dubois,President,Donald J. Trump,Republican,Statewide,13365
+Adams,President,"Rocky" Roque De La Fuente,W/I (Independent),Statewide,0
+Carroll,President,"Rocky" Roque De La Fuente,W/I (Independent),Statewide,0
+Clinton,President,"Rocky" Roque De La Fuente,W/I (Independent),Statewide,0
+Crawford,President,"Rocky" Roque De La Fuente,W/I (Independent),Statewide,0
+Daviess,President,"Rocky" Roque De La Fuente,W/I (Independent),Statewide,0
+DeKalb,President,"Rocky" Roque De La Fuente,W/I (Independent),Statewide,0
+Dubois,President,"Rocky" Roque De La Fuente,W/I (Independent),Statewide,0
+Benton,President,"Rocky" Roque De La Fuente,W/I (Independent),Statewide,0
+Clark,President,"Rocky" Roque De La Fuente,W/I (Independent),Statewide,0
+Clay,President,"Rocky" Roque De La Fuente,W/I (Independent),Statewide,0
+Decatur,President,"Rocky" Roque De La Fuente,W/I (Independent),Statewide,0
+Allen,President,"Rocky" Roque De La Fuente,W/I (Independent),Statewide,1
+Blackford,President,"Rocky" Roque De La Fuente,W/I (Independent),Statewide,0
+Brown,President,"Rocky" Roque De La Fuente,W/I (Independent),Statewide,0
+Cass,President,"Rocky" Roque De La Fuente,W/I (Independent),Statewide,0
+Delaware,President,"Rocky" Roque De La Fuente,W/I (Independent),Statewide,0
+Bartholomew,President,"Rocky" Roque De La Fuente,W/I (Independent),Statewide,0
+Boone,President,"Rocky" Roque De La Fuente,W/I (Independent),Statewide,1
+Dearborn,President,"Rocky" Roque De La Fuente,W/I (Independent),Statewide,0
+Elkhart,President,"Rocky" Roque De La Fuente,W/I (Independent),Statewide,2
+Blackford,President,Cherunda Fox,W/I (Independent),Statewide,0
+Brown,President,Cherunda Fox,W/I (Independent),Statewide,0
+Carroll,President,Cherunda Fox,W/I (Independent),Statewide,0
+Cass,President,Cherunda Fox,W/I (Independent),Statewide,0
+Daviess,President,Cherunda Fox,W/I (Independent),Statewide,0
+Dubois,President,Cherunda Fox,W/I (Independent),Statewide,0
+Allen,President,Cherunda Fox,W/I (Independent),Statewide,0
+Bartholomew,President,Cherunda Fox,W/I (Independent),Statewide,0
+Benton,President,Cherunda Fox,W/I (Independent),Statewide,0
+Clark,President,Cherunda Fox,W/I (Independent),Statewide,0
+Adams,President,Cherunda Fox,W/I (Independent),Statewide,0
+Clinton,President,Cherunda Fox,W/I (Independent),Statewide,0
+Crawford,President,Cherunda Fox,W/I (Independent),Statewide,0
+Boone,President,Cherunda Fox,W/I (Independent),Statewide,0
+Clay,President,Cherunda Fox,W/I (Independent),Statewide,0
+Dearborn,President,Cherunda Fox,W/I (Independent),Statewide,0
+Decatur,President,Cherunda Fox,W/I (Independent),Statewide,0
+DeKalb,President,Cherunda Fox,W/I (Independent),Statewide,0
+Delaware,President,Cherunda Fox,W/I (Independent),Statewide,0
+Elkhart,President,Cherunda Fox,W/I (Independent),Statewide,0
+Boone,President,Darrell L. Castle,W/I (Constitution),Statewide,35
+Brown,President,Darrell L. Castle,W/I (Constitution),Statewide,3
+Crawford,President,Darrell L. Castle,W/I (Constitution),Statewide,0
+Dearborn,President,Darrell L. Castle,W/I (Constitution),Statewide,24
+Benton,President,Darrell L. Castle,W/I (Constitution),Statewide,2
+Cass,President,Darrell L. Castle,W/I (Constitution),Statewide,15
+Dubois,President,Darrell L. Castle,W/I (Constitution),Statewide,15
+Adams,President,Darrell L. Castle,W/I (Constitution),Statewide,14
+Clark,President,Darrell L. Castle,W/I (Constitution),Statewide,0
+Clay,President,Darrell L. Castle,W/I (Constitution),Statewide,6
+Clinton,President,Darrell L. Castle,W/I (Constitution),Statewide,6
+Elkhart,President,Darrell L. Castle,W/I (Constitution),Statewide,86
+Allen,President,Darrell L. Castle,W/I (Constitution),Statewide,266
+Bartholomew,President,Darrell L. Castle,W/I (Constitution),Statewide,30
+Blackford,President,Darrell L. Castle,W/I (Constitution),Statewide,0
+Carroll,President,Darrell L. Castle,W/I (Constitution),Statewide,8
+Daviess,President,Darrell L. Castle,W/I (Constitution),Statewide,4
+Decatur,President,Darrell L. Castle,W/I (Constitution),Statewide,11
+DeKalb,President,Darrell L. Castle,W/I (Constitution),Statewide,21
+Delaware,President,Darrell L. Castle,W/I (Constitution),Statewide,41
+Benton,President,Denny C. Jackson,W/I (Independent),Statewide,0
+Clinton,President,Denny C. Jackson,W/I (Independent),Statewide,0
+Crawford,President,Denny C. Jackson,W/I (Independent),Statewide,0
+Bartholomew,President,Denny C. Jackson,W/I (Independent),Statewide,0
+Brown,President,Denny C. Jackson,W/I (Independent),Statewide,0
+Carroll,President,Denny C. Jackson,W/I (Independent),Statewide,0
+Cass,President,Denny C. Jackson,W/I (Independent),Statewide,0
+Daviess,President,Denny C. Jackson,W/I (Independent),Statewide,0
+Dubois,President,Denny C. Jackson,W/I (Independent),Statewide,0
+Allen,President,Denny C. Jackson,W/I (Independent),Statewide,0
+Blackford,President,Denny C. Jackson,W/I (Independent),Statewide,1
+Clark,President,Denny C. Jackson,W/I (Independent),Statewide,0
+Adams,President,Denny C. Jackson,W/I (Independent),Statewide,0
+Boone,President,Denny C. Jackson,W/I (Independent),Statewide,1
+Clay,President,Denny C. Jackson,W/I (Independent),Statewide,0
+Dearborn,President,Denny C. Jackson,W/I (Independent),Statewide,0
+Decatur,President,Denny C. Jackson,W/I (Independent),Statewide,0
+DeKalb,President,Denny C. Jackson,W/I (Independent),Statewide,0
+Delaware,President,Denny C. Jackson,W/I (Independent),Statewide,1
+Elkhart,President,Denny C. Jackson,W/I (Independent),Statewide,0
+Blackford,President,Emidio Soltysik,W/I (Socialist),Statewide,0
+Boone,President,Emidio Soltysik,W/I (Socialist),Statewide,1
+Dearborn,President,Emidio Soltysik,W/I (Socialist),Statewide,0
+Elkhart,President,Emidio Soltysik,W/I (Socialist),Statewide,3
+Bartholomew,President,Emidio Soltysik,W/I (Socialist),Statewide,0
+Brown,President,Emidio Soltysik,W/I (Socialist),Statewide,0
+Cass,President,Emidio Soltysik,W/I (Socialist),Statewide,1
+Decatur,President,Emidio Soltysik,W/I (Socialist),Statewide,0
+Delaware,President,Emidio Soltysik,W/I (Socialist),Statewide,2
+Allen,President,Emidio Soltysik,W/I (Socialist),Statewide,4
+Carroll,President,Emidio Soltysik,W/I (Socialist),Statewide,0
+Clay,President,Emidio Soltysik,W/I (Socialist),Statewide,0
+Clinton,President,Emidio Soltysik,W/I (Socialist),Statewide,0
+Crawford,President,Emidio Soltysik,W/I (Socialist),Statewide,0
+Daviess,President,Emidio Soltysik,W/I (Socialist),Statewide,1
+DeKalb,President,Emidio Soltysik,W/I (Socialist),Statewide,0
+Dubois,President,Emidio Soltysik,W/I (Socialist),Statewide,0
+Adams,President,Emidio Soltysik,W/I (Socialist),Statewide,0
+Benton,President,Emidio Soltysik,W/I (Socialist),Statewide,0
+Clark,President,Emidio Soltysik,W/I (Socialist),Statewide,0
+Adams,President,Jill Stein,W/I (Green),Statewide,23
+Boone,President,Jill Stein,W/I (Green),Statewide,75
+Dearborn,President,Jill Stein,W/I (Green),Statewide,46
+Decatur,President,Jill Stein,W/I (Green),Statewide,17
+Delaware,President,Jill Stein,W/I (Green),Statewide,252
+Elkhart,President,Jill Stein,W/I (Green),Statewide,204
+Daviess,President,Jill Stein,W/I (Green),Statewide,25
+DeKalb,President,Jill Stein,W/I (Green),Statewide,61
+Dubois,President,Jill Stein,W/I (Green),Statewide,45
+Bartholomew,President,Jill Stein,W/I (Green),Statewide,60
+Blackford,President,Jill Stein,W/I (Green),Statewide,15
+Brown,President,Jill Stein,W/I (Green),Statewide,31
+Carroll,President,Jill Stein,W/I (Green),Statewide,24
+Cass,President,Jill Stein,W/I (Green),Statewide,49
+Allen,President,Jill Stein,W/I (Green),Statewide,702
+Clark,President,Jill Stein,W/I (Green),Statewide,0
+Clinton,President,Jill Stein,W/I (Green),Statewide,31
+Benton,President,Jill Stein,W/I (Green),Statewide,9
+Clay,President,Jill Stein,W/I (Green),Statewide,11
+Crawford,President,Jill Stein,W/I (Green),Statewide,0
+Adams,President,Joseph Maldonado,W/I (Independent),Statewide,0
+Clark,President,Joseph Maldonado,W/I (Independent),Statewide,0
+Clay,President,Joseph Maldonado,W/I (Independent),Statewide,0
+Clinton,President,Joseph Maldonado,W/I (Independent),Statewide,0
+Crawford,President,Joseph Maldonado,W/I (Independent),Statewide,0
+Allen,President,Joseph Maldonado,W/I (Independent),Statewide,0
+Benton,President,Joseph Maldonado,W/I (Independent),Statewide,0
+Carroll,President,Joseph Maldonado,W/I (Independent),Statewide,0
+Daviess,President,Joseph Maldonado,W/I (Independent),Statewide,0
+Bartholomew,President,Joseph Maldonado,W/I (Independent),Statewide,0
+Blackford,President,Joseph Maldonado,W/I (Independent),Statewide,0
+Cass,President,Joseph Maldonado,W/I (Independent),Statewide,0
+Dearborn,President,Joseph Maldonado,W/I (Independent),Statewide,0
+DeKalb,President,Joseph Maldonado,W/I (Independent),Statewide,0
+Boone,President,Joseph Maldonado,W/I (Independent),Statewide,0
+Brown,President,Joseph Maldonado,W/I (Independent),Statewide,0
+Decatur,President,Joseph Maldonado,W/I (Independent),Statewide,0
+Delaware,President,Joseph Maldonado,W/I (Independent),Statewide,0
+Elkhart,President,Joseph Maldonado,W/I (Independent),Statewide,0
+Dubois,President,Joseph Maldonado,W/I (Independent),Statewide,0
+Adams,President,Laurence Kotlikoff,W/I (Independent),Statewide,0
+Carroll,President,Laurence Kotlikoff,W/I (Independent),Statewide,0
+Clay,President,Laurence Kotlikoff,W/I (Independent),Statewide,0
+Clinton,President,Laurence Kotlikoff,W/I (Independent),Statewide,0
+Daviess,President,Laurence Kotlikoff,W/I (Independent),Statewide,0
+DeKalb,President,Laurence Kotlikoff,W/I (Independent),Statewide,0
+Blackford,President,Laurence Kotlikoff,W/I (Independent),Statewide,0
+Cass,President,Laurence Kotlikoff,W/I (Independent),Statewide,0
+Clark,President,Laurence Kotlikoff,W/I (Independent),Statewide,0
+Decatur,President,Laurence Kotlikoff,W/I (Independent),Statewide,0
+Delaware,President,Laurence Kotlikoff,W/I (Independent),Statewide,1
+Allen,President,Laurence Kotlikoff,W/I (Independent),Statewide,4
+Bartholomew,President,Laurence Kotlikoff,W/I (Independent),Statewide,0
+Boone,President,Laurence Kotlikoff,W/I (Independent),Statewide,1
+Crawford,President,Laurence Kotlikoff,W/I (Independent),Statewide,0
+Dearborn,President,Laurence Kotlikoff,W/I (Independent),Statewide,0
+Elkhart,President,Laurence Kotlikoff,W/I (Independent),Statewide,0
+Benton,President,Laurence Kotlikoff,W/I (Independent),Statewide,0
+Brown,President,Laurence Kotlikoff,W/I (Independent),Statewide,0
+Dubois,President,Laurence Kotlikoff,W/I (Independent),Statewide,1
+Adams,President,Matthew (None of the Above) Roberts,W/I (Independent),Statewide,2
+Benton,President,Matthew (None of the Above) Roberts,W/I (Independent),Statewide,0
+Clark,President,Matthew (None of the Above) Roberts,W/I (Independent),Statewide,0
+Clay,President,Matthew (None of the Above) Roberts,W/I (Independent),Statewide,0
+Clinton,President,Matthew (None of the Above) Roberts,W/I (Independent),Statewide,1
+Blackford,President,Matthew (None of the Above) Roberts,W/I (Independent),Statewide,0
+Cass,President,Matthew (None of the Above) Roberts,W/I (Independent),Statewide,3
+Dearborn,President,Matthew (None of the Above) Roberts,W/I (Independent),Statewide,2
+DeKalb,President,Matthew (None of the Above) Roberts,W/I (Independent),Statewide,0
+Elkhart,President,Matthew (None of the Above) Roberts,W/I (Independent),Statewide,3
+Bartholomew,President,Matthew (None of the Above) Roberts,W/I (Independent),Statewide,5
+Boone,President,Matthew (None of the Above) Roberts,W/I (Independent),Statewide,1
+Brown,President,Matthew (None of the Above) Roberts,W/I (Independent),Statewide,1
+Decatur,President,Matthew (None of the Above) Roberts,W/I (Independent),Statewide,0
+Delaware,President,Matthew (None of the Above) Roberts,W/I (Independent),Statewide,11
+Allen,President,Matthew (None of the Above) Roberts,W/I (Independent),Statewide,8
+Carroll,President,Matthew (None of the Above) Roberts,W/I (Independent),Statewide,1
+Crawford,President,Matthew (None of the Above) Roberts,W/I (Independent),Statewide,0
+Daviess,President,Matthew (None of the Above) Roberts,W/I (Independent),Statewide,0
+Dubois,President,Matthew (None of the Above) Roberts,W/I (Independent),Statewide,2
+Blackford,President,Melissa L. Kelly,W/I (Independent),Statewide,0
+Cass,President,Melissa L. Kelly,W/I (Independent),Statewide,0
+Clark,President,Melissa L. Kelly,W/I (Independent),Statewide,0
+Adams,President,Melissa L. Kelly,W/I (Independent),Statewide,0
+Clay,President,Melissa L. Kelly,W/I (Independent),Statewide,0
+Clinton,President,Melissa L. Kelly,W/I (Independent),Statewide,0
+Dearborn,President,Melissa L. Kelly,W/I (Independent),Statewide,0
+DeKalb,President,Melissa L. Kelly,W/I (Independent),Statewide,0
+Elkhart,President,Melissa L. Kelly,W/I (Independent),Statewide,3
+Bartholomew,President,Melissa L. Kelly,W/I (Independent),Statewide,0
+Benton,President,Melissa L. Kelly,W/I (Independent),Statewide,0
+Brown,President,Melissa L. Kelly,W/I (Independent),Statewide,0
+Carroll,President,Melissa L. Kelly,W/I (Independent),Statewide,0
+Daviess,President,Melissa L. Kelly,W/I (Independent),Statewide,0
+Decatur,President,Melissa L. Kelly,W/I (Independent),Statewide,0
+Delaware,President,Melissa L. Kelly,W/I (Independent),Statewide,0
+Dubois,President,Melissa L. Kelly,W/I (Independent),Statewide,0
+Allen,President,Melissa L. Kelly,W/I (Independent),Statewide,4
+Boone,President,Melissa L. Kelly,W/I (Independent),Statewide,1
+Crawford,President,Melissa L. Kelly,W/I (Independent),Statewide,0
+Blackford,President,Monica Moorehead,WI (Workers World),Statewide,1
+Carroll,President,Monica Moorehead,WI (Workers World),Statewide,0
+Daviess,President,Monica Moorehead,WI (Workers World),Statewide,0
+Decatur,President,Monica Moorehead,WI (Workers World),Statewide,0
+DeKalb,President,Monica Moorehead,WI (Workers World),Statewide,0
+Delaware,President,Monica Moorehead,WI (Workers World),Statewide,0
+Dubois,President,Monica Moorehead,WI (Workers World),Statewide,0
+Adams,President,Monica Moorehead,WI (Workers World),Statewide,0
+Boone,President,Monica Moorehead,WI (Workers World),Statewide,1
+Clay,President,Monica Moorehead,WI (Workers World),Statewide,0
+Clinton,President,Monica Moorehead,WI (Workers World),Statewide,0
+Crawford,President,Monica Moorehead,WI (Workers World),Statewide,0
+Elkhart,President,Monica Moorehead,WI (Workers World),Statewide,0
+Brown,President,Monica Moorehead,WI (Workers World),Statewide,0
+Dearborn,President,Monica Moorehead,WI (Workers World),Statewide,0
+Allen,President,Monica Moorehead,WI (Workers World),Statewide,0
+Bartholomew,President,Monica Moorehead,WI (Workers World),Statewide,0
+Benton,President,Monica Moorehead,WI (Workers World),Statewide,0
+Cass,President,Monica Moorehead,WI (Workers World),Statewide,0
+Clark,President,Monica Moorehead,WI (Workers World),Statewide,0
+Adams,President,Ray C. Brown,W/I (Independent),Statewide,0
+Carroll,President,Ray C. Brown,W/I (Independent),Statewide,0
+Clinton,President,Ray C. Brown,W/I (Independent),Statewide,0
+Crawford,President,Ray C. Brown,W/I (Independent),Statewide,0
+Daviess,President,Ray C. Brown,W/I (Independent),Statewide,0
+Dubois,President,Ray C. Brown,W/I (Independent),Statewide,0
+Blackford,President,Ray C. Brown,W/I (Independent),Statewide,0
+Brown,President,Ray C. Brown,W/I (Independent),Statewide,0
+Cass,President,Ray C. Brown,W/I (Independent),Statewide,0
+Allen,President,Ray C. Brown,W/I (Independent),Statewide,1
+Bartholomew,President,Ray C. Brown,W/I (Independent),Statewide,0
+Boone,President,Ray C. Brown,W/I (Independent),Statewide,0
+Dearborn,President,Ray C. Brown,W/I (Independent),Statewide,0
+DeKalb,President,Ray C. Brown,W/I (Independent),Statewide,0
+Elkhart,President,Ray C. Brown,W/I (Independent),Statewide,0
+Benton,President,Ray C. Brown,W/I (Independent),Statewide,0
+Clark,President,Ray C. Brown,W/I (Independent),Statewide,0
+Clay,President,Ray C. Brown,W/I (Independent),Statewide,0
+Decatur,President,Ray C. Brown,W/I (Independent),Statewide,0
+Delaware,President,Ray C. Brown,W/I (Independent),Statewide,2
+Brown,President,Ric Mullis,W/I (Independent),Statewide,0
+Delaware,President,Ric Mullis,W/I (Independent),Statewide,0
+Dubois,President,Ric Mullis,W/I (Independent),Statewide,1
+Allen,President,Ric Mullis,W/I (Independent),Statewide,0
+Bartholomew,President,Ric Mullis,W/I (Independent),Statewide,0
+Benton,President,Ric Mullis,W/I (Independent),Statewide,0
+Blackford,President,Ric Mullis,W/I (Independent),Statewide,0
+Cass,President,Ric Mullis,W/I (Independent),Statewide,0
+Adams,President,Ric Mullis,W/I (Independent),Statewide,0
+Boone,President,Ric Mullis,W/I (Independent),Statewide,0
+Carroll,President,Ric Mullis,W/I (Independent),Statewide,0
+Clay,President,Ric Mullis,W/I (Independent),Statewide,0
+Clinton,President,Ric Mullis,W/I (Independent),Statewide,0
+Crawford,President,Ric Mullis,W/I (Independent),Statewide,0
+Daviess,President,Ric Mullis,W/I (Independent),Statewide,0
+DeKalb,President,Ric Mullis,W/I (Independent),Statewide,0
+Dearborn,President,Ric Mullis,W/I (Independent),Statewide,1
+Elkhart,President,Ric Mullis,W/I (Independent),Statewide,0
+Clark,President,Ric Mullis,W/I (Independent),Statewide,0
+Decatur,President,Ric Mullis,W/I (Independent),Statewide,0
+Allen,President,Richard Duncan,W/I (Independent),Statewide,5
+Bartholomew,President,Richard Duncan,W/I (Independent),Statewide,0
+Benton,President,Richard Duncan,W/I (Independent),Statewide,0
+Cass,President,Richard Duncan,W/I (Independent),Statewide,0
+Adams,President,Richard Duncan,W/I (Independent),Statewide,0
+Boone,President,Richard Duncan,W/I (Independent),Statewide,0
+Clinton,President,Richard Duncan,W/I (Independent),Statewide,0
+Dearborn,President,Richard Duncan,W/I (Independent),Statewide,0
+Elkhart,President,Richard Duncan,W/I (Independent),Statewide,0
+Carroll,President,Richard Duncan,W/I (Independent),Statewide,0
+Clay,President,Richard Duncan,W/I (Independent),Statewide,0
+Crawford,President,Richard Duncan,W/I (Independent),Statewide,0
+Daviess,President,Richard Duncan,W/I (Independent),Statewide,0
+Dubois,President,Richard Duncan,W/I (Independent),Statewide,1
+Blackford,President,Richard Duncan,W/I (Independent),Statewide,0
+Brown,President,Richard Duncan,W/I (Independent),Statewide,0
+Clark,President,Richard Duncan,W/I (Independent),Statewide,0
+Decatur,President,Richard Duncan,W/I (Independent),Statewide,0
+DeKalb,President,Richard Duncan,W/I (Independent),Statewide,0
+Delaware,President,Richard Duncan,W/I (Independent),Statewide,2
+Bartholomew,President,Tom Hoefling,W/I (Independent),Statewide,3
+Blackford,President,Tom Hoefling,W/I (Independent),Statewide,0
+Carroll,President,Tom Hoefling,W/I (Independent),Statewide,0
+Cass,President,Tom Hoefling,W/I (Independent),Statewide,1
+Daviess,President,Tom Hoefling,W/I (Independent),Statewide,2
+Decatur,President,Tom Hoefling,W/I (Independent),Statewide,1
+DeKalb,President,Tom Hoefling,W/I (Independent),Statewide,3
+Boone,President,Tom Hoefling,W/I (Independent),Statewide,1
+Delaware,President,Tom Hoefling,W/I (Independent),Statewide,7
+Adams,President,Tom Hoefling,W/I (Independent),Statewide,3
+Clay,President,Tom Hoefling,W/I (Independent),Statewide,2
+Clinton,President,Tom Hoefling,W/I (Independent),Statewide,1
+Crawford,President,Tom Hoefling,W/I (Independent),Statewide,0
+Allen,President,Tom Hoefling,W/I (Independent),Statewide,28
+Benton,President,Tom Hoefling,W/I (Independent),Statewide,1
+Clark,President,Tom Hoefling,W/I (Independent),Statewide,0
+Dubois,President,Tom Hoefling,W/I (Independent),Statewide,2
+Brown,President,Tom Hoefling,W/I (Independent),Statewide,1
+Dearborn,President,Tom Hoefling,W/I (Independent),Statewide,1
+Elkhart,President,Tom Hoefling,W/I (Independent),Statewide,6
+Allen,United States Senator,Evan Bayh,Democratic,Statewide,59868
+Carroll,United States Senator,Evan Bayh,Democratic,Statewide,2522
+Crawford,United States Senator,Evan Bayh,Democratic,Statewide,1890
+Daviess,United States Senator,Evan Bayh,Democratic,Statewide,3131
+Dubois,United States Senator,Evan Bayh,Democratic,Statewide,7692
+Blackford,United States Senator,Evan Bayh,Democratic,Statewide,1707
+Boone,United States Senator,Evan Bayh,Democratic,Statewide,10583
+Dearborn,United States Senator,Evan Bayh,Democratic,Statewide,5251
+DeKalb,United States Senator,Evan Bayh,Democratic,Statewide,5029
+Elkhart,United States Senator,Evan Bayh,Democratic,Statewide,23416
+Bartholomew,United States Senator,Evan Bayh,Democratic,Statewide,11355
+Brown,United States Senator,Evan Bayh,Democratic,Statewide,2907
+Cass,United States Senator,Evan Bayh,Democratic,Statewide,4927
+Decatur,United States Senator,Evan Bayh,Democratic,Statewide,3022
+Adams,United States Senator,Evan Bayh,Democratic,Statewide,3840
+Benton,United States Senator,Evan Bayh,Democratic,Statewide,1132
+Clark,United States Senator,Evan Bayh,Democratic,Statewide,21414
+Clay,United States Senator,Evan Bayh,Democratic,Statewide,3979
+Clinton,United States Senator,Evan Bayh,Democratic,Statewide,3693
+Delaware,United States Senator,Evan Bayh,Democratic,Statewide,20578
+Adams,United States Senator,Lucy Brenton,Libertarian,Statewide,866
+Boone,United States Senator,Lucy Brenton,Libertarian,Statewide,1715
+Clay,United States Senator,Lucy Brenton,Libertarian,Statewide,697
+Clinton,United States Senator,Lucy Brenton,Libertarian,Statewide,740
+Crawford,United States Senator,Lucy Brenton,Libertarian,Statewide,169
+Bartholomew,United States Senator,Lucy Brenton,Libertarian,Statewide,1839
+Blackford,United States Senator,Lucy Brenton,Libertarian,Statewide,365
+Carroll,United States Senator,Lucy Brenton,Libertarian,Statewide,648
+Daviess,United States Senator,Lucy Brenton,Libertarian,Statewide,450
+Decatur,United States Senator,Lucy Brenton,Libertarian,Statewide,603
+DeKalb,United States Senator,Lucy Brenton,Libertarian,Statewide,1413
+Delaware,United States Senator,Lucy Brenton,Libertarian,Statewide,2744
+Allen,United States Senator,Lucy Brenton,Libertarian,Statewide,8503
+Benton,United States Senator,Lucy Brenton,Libertarian,Statewide,246
+Cass,United States Senator,Lucy Brenton,Libertarian,Statewide,1013
+Clark,United States Senator,Lucy Brenton,Libertarian,Statewide,1995
+Dubois,United States Senator,Lucy Brenton,Libertarian,Statewide,962
+Brown,United States Senator,Lucy Brenton,Libertarian,Statewide,462
+Dearborn,United States Senator,Lucy Brenton,Libertarian,Statewide,953
+Elkhart,United States Senator,Lucy Brenton,Libertarian,Statewide,3398
+Boone,United States Senator,Todd Young,Republican,Statewide,19966
+Brown,United States Senator,Todd Young,Republican,Statewide,4616
+Allen,United States Senator,Todd Young,Republican,Statewide,79370
+Clark,United States Senator,Todd Young,Republican,Statewide,27684
+Clinton,United States Senator,Todd Young,Republican,Statewide,7291
+Dearborn,United States Senator,Todd Young,Republican,Statewide,17288
+Delaware,United States Senator,Todd Young,Republican,Statewide,21557
+Elkhart,United States Senator,Todd Young,Republican,Statewide,39291
+Bartholomew,United States Senator,Todd Young,Republican,Statewide,19050
+Blackford,United States Senator,Todd Young,Republican,Statewide,2748
+Carroll,United States Senator,Todd Young,Republican,Statewide,5512
+Cass,United States Senator,Todd Young,Republican,Statewide,8306
+Daviess,United States Senator,Todd Young,Republican,Statewide,7096
+Decatur,United States Senator,Todd Young,Republican,Statewide,7301
+DeKalb,United States Senator,Todd Young,Republican,Statewide,10229
+Dubois,United States Senator,Todd Young,Republican,Statewide,11029
+Adams,United States Senator,Todd Young,Republican,Statewide,8430
+Benton,United States Senator,Todd Young,Republican,Statewide,2316
+Clay,United States Senator,Todd Young,Republican,Statewide,6439
+Crawford,United States Senator,Todd Young,Republican,Statewide,2500
+Bartholomew,United States Senator,James L. Johnson,Write-in,Statewide,0
+Blackford,United States Senator,James L. Johnson,Write-in,Statewide,0
+Brown,United States Senator,James L. Johnson,Write-in,Statewide,0
+Carroll,United States Senator,James L. Johnson,Write-in,Statewide,0
+Cass,United States Senator,James L. Johnson,Write-in,Statewide,0
+Daviess,United States Senator,James L. Johnson,Write-in,Statewide,0
+Crawford,United States Senator,James L. Johnson,Write-in,Statewide,0
+Allen,United States Senator,James L. Johnson,Write-in,Statewide,3
+Clay,United States Senator,James L. Johnson,Write-in,Statewide,0
+DeKalb,United States Senator,James L. Johnson,Write-in,Statewide,0
+Dubois,United States Senator,James L. Johnson,Write-in,Statewide,0
+Adams,United States Senator,James L. Johnson,Write-in,Statewide,0
+Benton,United States Senator,James L. Johnson,Write-in,Statewide,0
+Clark,United States Senator,James L. Johnson,Write-in,Statewide,0
+Clinton,United States Senator,James L. Johnson,Write-in,Statewide,0
+Boone,United States Senator,James L. Johnson,Write-in,Statewide,0
+Dearborn,United States Senator,James L. Johnson,Write-in,Statewide,0
+Decatur,United States Senator,James L. Johnson,Write-in,Statewide,0
+Delaware,United States Senator,James L. Johnson,Write-in,Statewide,4
+Elkhart,United States Senator,James L. Johnson,Write-in,Statewide,1
+Bartholomew,Governor,John R. Gregg,Democratic,Statewide,11869
+Blackford,Governor,John R. Gregg,Democratic,Statewide,1857
+Boone,Governor,John R. Gregg,Democratic,Statewide,11868
+Cass,Governor,John R. Gregg,Democratic,Statewide,5662
+Dearborn,Governor,John R. Gregg,Democratic,Statewide,5936
+DeKalb,Governor,John R. Gregg,Democratic,Statewide,5340
+Elkhart,Governor,John R. Gregg,Democratic,Statewide,23749
+Brown,Governor,John R. Gregg,Democratic,Statewide,3201
+Decatur,Governor,John R. Gregg,Democratic,Statewide,3291
+Delaware,Governor,John R. Gregg,Democratic,Statewide,22195
+Allen,Governor,John R. Gregg,Democratic,Statewide,61879
+Benton,Governor,John R. Gregg,Democratic,Statewide,1201
+Carroll,Governor,John R. Gregg,Democratic,Statewide,2923
+Crawford,Governor,John R. Gregg,Democratic,Statewide,1924
+Daviess,Governor,John R. Gregg,Democratic,Statewide,4049
+Dubois,Governor,John R. Gregg,Democratic,Statewide,8171
+Adams,Governor,John R. Gregg,Democratic,Statewide,4272
+Clark,Governor,John R. Gregg,Democratic,Statewide,20293
+Clay,Governor,John R. Gregg,Democratic,Statewide,4260
+Clinton,Governor,John R. Gregg,Democratic,Statewide,4120
+Benton,Governor,Rex Bell,Libertarian,Statewide,150
+Brown,Governor,Rex Bell,Libertarian,Statewide,272
+Clark,Governor,Rex Bell,Libertarian,Statewide,1597
+Adams,Governor,Rex Bell,Libertarian,Statewide,371
+Carroll,Governor,Rex Bell,Libertarian,Statewide,353
+Clay,Governor,Rex Bell,Libertarian,Statewide,337
+Clinton,Governor,Rex Bell,Libertarian,Statewide,423
+Crawford,Governor,Rex Bell,Libertarian,Statewide,156
+Daviess,Governor,Rex Bell,Libertarian,Statewide,217
+DeKalb,Governor,Rex Bell,Libertarian,Statewide,718
+Dubois,Governor,Rex Bell,Libertarian,Statewide,962
+Bartholomew,Governor,Rex Bell,Libertarian,Statewide,1122
+Boone,Governor,Rex Bell,Libertarian,Statewide,1009
+Decatur,Governor,Rex Bell,Libertarian,Statewide,310
+Delaware,Governor,Rex Bell,Libertarian,Statewide,1650
+Allen,Governor,Rex Bell,Libertarian,Statewide,4478
+Blackford,Governor,Rex Bell,Libertarian,Statewide,213
+Cass,Governor,Rex Bell,Libertarian,Statewide,511
+Dearborn,Governor,Rex Bell,Libertarian,Statewide,669
+Elkhart,Governor,Rex Bell,Libertarian,Statewide,1931
+Boone,Governor,Eric Holcomb,Republican,Statewide,19269
+Dearborn,Governor,Eric Holcomb,Republican,Statewide,16606
+Decatur,Governor,Eric Holcomb,Republican,Statewide,7231
+Delaware,Governor,Eric Holcomb,Republican,Statewide,20777
+Elkhart,Governor,Eric Holcomb,Republican,Statewide,40161
+Allen,Governor,Eric Holcomb,Republican,Statewide,80458
+Clark,Governor,Eric Holcomb,Republican,Statewide,28440
+DeKalb,Governor,Eric Holcomb,Republican,Statewide,10501
+Bartholomew,Governor,Eric Holcomb,Republican,Statewide,19063
+Blackford,Governor,Eric Holcomb,Republican,Statewide,2719
+Brown,Governor,Eric Holcomb,Republican,Statewide,4488
+Carroll,Governor,Eric Holcomb,Republican,Statewide,5381
+Cass,Governor,Eric Holcomb,Republican,Statewide,8059
+Daviess,Governor,Eric Holcomb,Republican,Statewide,6460
+Dubois,Governor,Eric Holcomb,Republican,Statewide,10821
+Adams,Governor,Eric Holcomb,Republican,Statewide,8408
+Benton,Governor,Eric Holcomb,Republican,Statewide,2318
+Clay,Governor,Eric Holcomb,Republican,Statewide,6457
+Clinton,Governor,Eric Holcomb,Republican,Statewide,7126
+Crawford,Governor,Eric Holcomb,Republican,Statewide,2381
+Bartholomew,Governor,Adam Adkins,W/I (Independent),Statewide,0
+Benton,Governor,Adam Adkins,W/I (Independent),Statewide,0
+Blackford,Governor,Adam Adkins,W/I (Independent),Statewide,0
+Clark,Governor,Adam Adkins,W/I (Independent),Statewide,0
+Allen,Governor,Adam Adkins,W/I (Independent),Statewide,4
+Crawford,Governor,Adam Adkins,W/I (Independent),Statewide,0
+Adams,Governor,Adam Adkins,W/I (Independent),Statewide,0
+Boone,Governor,Adam Adkins,W/I (Independent),Statewide,0
+Clay,Governor,Adam Adkins,W/I (Independent),Statewide,2
+Clinton,Governor,Adam Adkins,W/I (Independent),Statewide,0
+Dearborn,Governor,Adam Adkins,W/I (Independent),Statewide,1
+DeKalb,Governor,Adam Adkins,W/I (Independent),Statewide,0
+Elkhart,Governor,Adam Adkins,W/I (Independent),Statewide,4
+Brown,Governor,Adam Adkins,W/I (Independent),Statewide,0
+Carroll,Governor,Adam Adkins,W/I (Independent),Statewide,0
+Cass,Governor,Adam Adkins,W/I (Independent),Statewide,0
+Daviess,Governor,Adam Adkins,W/I (Independent),Statewide,0
+Decatur,Governor,Adam Adkins,W/I (Independent),Statewide,0
+Delaware,Governor,Adam Adkins,W/I (Independent),Statewide,2
+Dubois,Governor,Adam Adkins,W/I (Independent),Statewide,0
+Bartholomew,Governor,Christopher Stried,W/I (Independent),Statewide,0
+Carroll,Governor,Christopher Stried,W/I (Independent),Statewide,0
+Cass,Governor,Christopher Stried,W/I (Independent),Statewide,0
+Daviess,Governor,Christopher Stried,W/I (Independent),Statewide,0
+Decatur,Governor,Christopher Stried,W/I (Independent),Statewide,0
+DeKalb,Governor,Christopher Stried,W/I (Independent),Statewide,0
+Dubois,Governor,Christopher Stried,W/I (Independent),Statewide,0
+Allen,Governor,Christopher Stried,W/I (Independent),Statewide,0
+Blackford,Governor,Christopher Stried,W/I (Independent),Statewide,0
+Clark,Governor,Christopher Stried,W/I (Independent),Statewide,0
+Adams,Governor,Christopher Stried,W/I (Independent),Statewide,0
+Benton,Governor,Christopher Stried,W/I (Independent),Statewide,0
+Clay,Governor,Christopher Stried,W/I (Independent),Statewide,0
+Clinton,Governor,Christopher Stried,W/I (Independent),Statewide,0
+Crawford,Governor,Christopher Stried,W/I (Independent),Statewide,0
+Boone,Governor,Christopher Stried,W/I (Independent),Statewide,0
+Brown,Governor,Christopher Stried,W/I (Independent),Statewide,0
+Dearborn,Governor,Christopher Stried,W/I (Independent),Statewide,0
+Delaware,Governor,Christopher Stried,W/I (Independent),Statewide,1
+Elkhart,Governor,Christopher Stried,W/I (Independent),Statewide,0
+Blackford,Attorney General,Lorenzo Arredondo,Democratic,Statewide,1275
+Carroll,Attorney General,Lorenzo Arredondo,Democratic,Statewide,1933
+Daviess,Attorney General,Lorenzo Arredondo,Democratic,Statewide,1937
+Decatur,Attorney General,Lorenzo Arredondo,Democratic,Statewide,1925
+DeKalb,Attorney General,Lorenzo Arredondo,Democratic,Statewide,3597
+Delaware,Attorney General,Lorenzo Arredondo,Democratic,Statewide,17597
+Dubois,Attorney General,Lorenzo Arredondo,Democratic,Statewide,5319
+Allen,Attorney General,Lorenzo Arredondo,Democratic,Statewide,49160
+Bartholomew,Attorney General,Lorenzo Arredondo,Democratic,Statewide,8789
+Benton,Attorney General,Lorenzo Arredondo,Democratic,Statewide,834
+Cass,Attorney General,Lorenzo Arredondo,Democratic,Statewide,3838
+Clark,Attorney General,Lorenzo Arredondo,Democratic,Statewide,18294
+Brown,Attorney General,Lorenzo Arredondo,Democratic,Statewide,2521
+Crawford,Attorney General,Lorenzo Arredondo,Democratic,Statewide,1346
+Dearborn,Attorney General,Lorenzo Arredondo,Democratic,Statewide,4819
+Adams,Attorney General,Lorenzo Arredondo,Democratic,Statewide,2650
+Boone,Attorney General,Lorenzo Arredondo,Democratic,Statewide,8314
+Clay,Attorney General,Lorenzo Arredondo,Democratic,Statewide,2521
+Clinton,Attorney General,Lorenzo Arredondo,Democratic,Statewide,2692
+Elkhart,Attorney General,Lorenzo Arredondo,Democratic,Statewide,17371
+Blackford,Attorney General,"Curtis T. Hill, Jr.",Republican,Statewide,3332
+Decatur,Attorney General,"Curtis T. Hill, Jr.",Republican,Statewide,8641
+DeKalb,Attorney General,"Curtis T. Hill, Jr.",Republican,Statewide,12593
+Delaware,Attorney General,"Curtis T. Hill, Jr.",Republican,Statewide,25441
+Allen,Attorney General,"Curtis T. Hill, Jr.",Republican,Statewide,94243
+Bartholomew,Attorney General,"Curtis T. Hill, Jr.",Republican,Statewide,22193
+Benton,Attorney General,"Curtis T. Hill, Jr.",Republican,Statewide,2728
+Cass,Attorney General,"Curtis T. Hill, Jr.",Republican,Statewide,10049
+Dubois,Attorney General,"Curtis T. Hill, Jr.",Republican,Statewide,12818
+Boone,Attorney General,"Curtis T. Hill, Jr.",Republican,Statewide,22656
+Brown,Attorney General,"Curtis T. Hill, Jr.",Republican,Statewide,5264
+Carroll,Attorney General,"Curtis T. Hill, Jr.",Republican,Statewide,6493
+Crawford,Attorney General,"Curtis T. Hill, Jr.",Republican,Statewide,2808
+Daviess,Attorney General,"Curtis T. Hill, Jr.",Republican,Statewide,8253
+Dearborn,Attorney General,"Curtis T. Hill, Jr.",Republican,Statewide,17950
+Adams,Attorney General,"Curtis T. Hill, Jr.",Republican,Statewide,10054
+Clark,Attorney General,"Curtis T. Hill, Jr.",Republican,Statewide,30229
+Clay,Attorney General,"Curtis T. Hill, Jr.",Republican,Statewide,8044
+Clinton,Attorney General,"Curtis T. Hill, Jr.",Republican,Statewide,8683
+Elkhart,Attorney General,"Curtis T. Hill, Jr.",Republican,Statewide,47837
+Boone,Superintendent of Public Instruction,Glenda Ritz,Democratic,Statewide,11564
+Brown,Superintendent of Public Instruction,Glenda Ritz,Democratic,Statewide,3277
+Dearborn,Superintendent of Public Instruction,Glenda Ritz,Democratic,Statewide,6472
+Elkhart,Superintendent of Public Instruction,Glenda Ritz,Democratic,Statewide,25233
+Blackford,Superintendent of Public Instruction,Glenda Ritz,Democratic,Statewide,1883
+Cass,Superintendent of Public Instruction,Glenda Ritz,Democratic,Statewide,6098
+Clark,Superintendent of Public Instruction,Glenda Ritz,Democratic,Statewide,20578
+Allen,Superintendent of Public Instruction,Glenda Ritz,Democratic,Statewide,65580
+Benton,Superintendent of Public Instruction,Glenda Ritz,Democratic,Statewide,1319
+Bartholomew,Superintendent of Public Instruction,Glenda Ritz,Democratic,Statewide,12318
+Carroll,Superintendent of Public Instruction,Glenda Ritz,Democratic,Statewide,3238
+Daviess,Superintendent of Public Instruction,Glenda Ritz,Democratic,Statewide,3461
+Decatur,Superintendent of Public Instruction,Glenda Ritz,Democratic,Statewide,3600
+DeKalb,Superintendent of Public Instruction,Glenda Ritz,Democratic,Statewide,5996
+Delaware,Superintendent of Public Instruction,Glenda Ritz,Democratic,Statewide,20807
+Dubois,Superintendent of Public Instruction,Glenda Ritz,Democratic,Statewide,8442
+Adams,Superintendent of Public Instruction,Glenda Ritz,Democratic,Statewide,4997
+Clay,Superintendent of Public Instruction,Glenda Ritz,Democratic,Statewide,4379
+Clinton,Superintendent of Public Instruction,Glenda Ritz,Democratic,Statewide,4528
+Crawford,Superintendent of Public Instruction,Glenda Ritz,Democratic,Statewide,1748
+Clinton,Superintendent of Public Instruction,Jennifer McCormick,Republican,Statewide,6978
+Crawford,Superintendent of Public Instruction,Jennifer McCormick,Republican,Statewide,2427
+Bartholomew,Superintendent of Public Instruction,Jennifer McCormick,Republican,Statewide,19201
+Brown,Superintendent of Public Instruction,Jennifer McCormick,Republican,Statewide,4594
+Carroll,Superintendent of Public Instruction,Jennifer McCormick,Republican,Statewide,5317
+Cass,Superintendent of Public Instruction,Jennifer McCormick,Republican,Statewide,7976
+Daviess,Superintendent of Public Instruction,Jennifer McCormick,Republican,Statewide,7022
+Decatur,Superintendent of Public Instruction,Jennifer McCormick,Republican,Statewide,7100
+Dubois,Superintendent of Public Instruction,Jennifer McCormick,Republican,Statewide,10409
+Clay,Superintendent of Public Instruction,Jennifer McCormick,Republican,Statewide,6434
+Dearborn,Superintendent of Public Instruction,Jennifer McCormick,Republican,Statewide,16201
+DeKalb,Superintendent of Public Instruction,Jennifer McCormick,Republican,Statewide,10346
+Delaware,Superintendent of Public Instruction,Jennifer McCormick,Republican,Statewide,23512
+Elkhart,Superintendent of Public Instruction,Jennifer McCormick,Republican,Statewide,39400
+Allen,Superintendent of Public Instruction,Jennifer McCormick,Republican,Statewide,79174
+Benton,Superintendent of Public Instruction,Jennifer McCormick,Republican,Statewide,2304
+Blackford,Superintendent of Public Instruction,Jennifer McCormick,Republican,Statewide,2837
+Clark,Superintendent of Public Instruction,Jennifer McCormick,Republican,Statewide,27864
+Adams,Superintendent of Public Instruction,Jennifer McCormick,Republican,Statewide,7938
+Boone,Superintendent of Public Instruction,Jennifer McCormick,Republican,Statewide,19864
+Elkhart,United States Representative,Lynn C. Coleman,Democratic,District 2,19881
+Elkhart,United States Representative,Ron Cenkush,Libertarian,District 2,2220
+Elkhart,United States Representative,Jackie Walorski,Republican,District 2,43933
+Blackford,United States Representative,Tommy A. Schrader,Democratic,District 3,320
+Allen,United States Representative,Tommy A. Schrader,Democratic,District 3,40154
+DeKalb,United States Representative,Tommy A. Schrader,Democratic,District 3,3080
+Adams,United States Representative,Tommy A. Schrader,Democratic,District 3,2263
+Adams,United States Representative,Pepper Snyder,Libertarian,District 3,713
+Blackford,United States Representative,Pepper Snyder,Libertarian,District 3,68
+DeKalb,United States Representative,Pepper Snyder,Libertarian,District 3,1274
+Allen,United States Representative,Pepper Snyder,Libertarian,District 3,10500
+Adams,United States Representative,Jim Banks,Republican,District 3,9912
+DeKalb,United States Representative,Jim Banks,Republican,District 3,12104
+Allen,United States Representative,Jim Banks,Republican,District 3,93673
+Blackford,United States Representative,Jim Banks,Republican,District 3,679
+Benton,United States Representative,John Dale,Democratic,District 4,853
+Carroll,United States Representative,John Dale,Democratic,District 4,2027
+Clinton,United States Representative,John Dale,Democratic,District 4,2985
+Boone,United States Representative,John Dale,Democratic,District 4,4056
+Cass,United States Representative,John Dale,Democratic,District 4,3987
+Benton,United States Representative,Steven M. Mayoras,Libertarian,District 4,205
+Carroll,United States Representative,Steven M. Mayoras,Libertarian,District 4,452
+Clinton,United States Representative,Steven M. Mayoras,Libertarian,District 4,556
+Cass,United States Representative,Steven M. Mayoras,Libertarian,District 4,673
+Boone,United States Representative,Steven M. Mayoras,Libertarian,District 4,704
+Boone,United States Representative,Todd Rokita,Republican,District 4,9685
+Clinton,United States Representative,Todd Rokita,Republican,District 4,8111
+Benton,United States Representative,Todd Rokita,Republican,District 4,2594
+Carroll,United States Representative,Todd Rokita,Republican,District 4,6113
+Cass,United States Representative,Todd Rokita,Republican,District 4,9403
+Blackford,United States Representative,Angela Demaree,Democratic,District 5,973
+Boone,United States Representative,Angela Demaree,Democratic,District 5,4718
+Boone,United States Representative,Matthew Wittlief,Libertarian,District 5,663
+Blackford,United States Representative,Matthew Wittlief,Libertarian,District 5,218
+Boone,United States Representative,Susan W. Brooks,Republican,District 5,12077
+Blackford,United States Representative,Susan W. Brooks,Republican,District 5,2452
+Bartholomew,United States Representative,Barry Welsh,Democratic,District 6,8605
+Dearborn,United States Representative,Barry Welsh,Democratic,District 6,4629
+Decatur,United States Representative,Barry Welsh,Democratic,District 6,1734
+Delaware,United States Representative,Barry Welsh,Democratic,District 6,17389
+Decatur,United States Representative,Rich Turvey,Libertarian,District 6,321
+Delaware,United States Representative,Rich Turvey,Libertarian,District 6,2175
+Bartholomew,United States Representative,Rich Turvey,Libertarian,District 6,1342
+Dearborn,United States Representative,Rich Turvey,Libertarian,District 6,881
+Bartholomew,United States Representative,Luke Messer,Republican,District 6,21837
+Decatur,United States Representative,Luke Messer,Republican,District 6,8888
+Delaware,United States Representative,Luke Messer,Republican,District 6,24607
+Dearborn,United States Representative,Luke Messer,Republican,District 6,17599
+Dubois,United States Representative,Ron Drake,Democratic,District 8,5212
+Clay,United States Representative,Ron Drake,Democratic,District 8,2572
+Crawford,United States Representative,Ron Drake,Democratic,District 8,190
+Daviess,United States Representative,Ron Drake,Democratic,District 8,1698
+Daviess,United States Representative,Andrew Horning,Libertarian,District 8,363
+Clay,United States Representative,Andrew Horning,Libertarian,District 8,514
+Crawford,United States Representative,Andrew Horning,Libertarian,District 8,33
+Dubois,United States Representative,Andrew Horning,Libertarian,District 8,896
+Crawford,United States Representative,Larry D. Bucshon,Republican,District 8,397
+Dubois,United States Representative,Larry D. Bucshon,Republican,District 8,12915
+Clay,United States Representative,Larry D. Bucshon,Republican,District 8,7859
+Daviess,United States Representative,Larry D. Bucshon,Republican,District 8,8528
+Brown,United States Representative,Shelli Yoder,Democratic,District 9,3036
+Clark,United States Representative,Shelli Yoder,Democratic,District 9,21599
+Crawford,United States Representative,Shelli Yoder,Democratic,District 9,1623
+Brown,United States Representative,Russell Brooksbank,Libertarian,District 9,448
+Clark,United States Representative,Russell Brooksbank,Libertarian,District 9,2963
+Crawford,United States Representative,Russell Brooksbank,Libertarian,District 9,239
+Clark,United States Representative,Trey Hollingsworth,Republican,District 9,25802
+Crawford,United States Representative,Trey Hollingsworth,Republican,District 9,1948
+Brown,United States Representative,Trey Hollingsworth,Republican,District 9,4451
+Carroll,State Senator,Justin Notoras,Democratic,District 7,1397
+Clinton,State Senator,Justin Notoras,Democratic,District 7,2590
+Boone,State Senator,Justin Notoras,Democratic,District 7,1052
+Boone,State Senator,Brandt Hershman,Republican,District 7,4122
+Carroll,State Senator,Brandt Hershman,Republican,District 7,4327
+Clinton,State Senator,Brandt Hershman,Republican,District 7,8023
+Elkhart,State Senator,Ryan Mishler,Republican,District 9,6284
+Elkhart,State Senator,Carl Rust,Democratic,District 12,11679
+Elkhart,State Senator,Blake Doriot,Republican,District 12,26690
+DeKalb,State Senator,Justin Kuhnle,Democratic,District 13,1250
+DeKalb,State Senator,C. Susan Glick,Republican,District 13,3218
+Allen,State Senator,Juli Dominguez,Democratic,District 16,17840
+Allen,State Senator,David C. Long,Republican,District 16,34232
+Carroll,State Senator,Randall Head,Republican,District 18,2219
+Cass,State Senator,Randall Head,Republican,District 18,11513
+Decatur,State Senator,Randy Howard,Democratic,District 42,161
+Decatur,State Senator,Jean Leising,Republican,District 42,785
+Brown,State Senator,Linda Kay Henderson,Democratic,District 44,2553
+Bartholomew,State Senator,Linda Kay Henderson,Democratic,District 44,2815
+Bartholomew,State Senator,Darin S Kinser,Libertarian,District 44,424
+Brown,State Senator,Darin S Kinser,Libertarian,District 44,303
+Bartholomew,State Senator,Eric A. Koch,Republican,District 44,6876
+Brown,State Senator,Eric A. Koch,Republican,District 44,5032
+Benton,State Representative,Mike Childress,Democratic,District 13,935
+Benton,State Representative,Sharon Negele,Republican,District 13,2690
+Elkhart,State Representative,Jodi Buoscio,Democratic,District 21,5109
+Elkhart,State Representative,Ethan W Legg,Libertarian,District 21,730
+Elkhart,State Representative,Timothy Wesco,Republican,District 21,8847
+Elkhart,State Representative,Brian J. Smith,Democratic,District 22,841
+Elkhart,State Representative,Curt Nisly,Republican,District 22,4056
+Cass,State Representative,Rose G. Ryan,Democratic,District 23,3145
+Cass,State Representative,William C. Friend,Republican,District 23,6396
+Boone,State Representative,Erol Ali Cetinok,Libertarian,District 24,2687
+Boone,State Representative,Donna Schaibley,Republican,District 24,12640
+Carroll,State Representative,Maurice O. Fuller,Democratic,District 25,1120
+Cass,State Representative,Maurice O. Fuller,Democratic,District 25,428
+Clinton,State Representative,Maurice O. Fuller,Democratic,District 25,552
+Clinton,State Representative,Franklyn Voorhies,Libertarian,District 25,140
+Carroll,State Representative,Franklyn Voorhies,Libertarian,District 25,324
+Cass,State Representative,Franklyn Voorhies,Libertarian,District 25,126
+Carroll,State Representative,Donald J. Lehe,Republican,District 25,3607
+Clinton,State Representative,Donald J. Lehe,Republican,District 25,1811
+Cass,State Representative,Donald J. Lehe,Republican,District 25,1513
+Boone,State Representative,Jeffrey A. Thompson,Republican,District 28,1514
+Blackford,State Representative,Lynn Johnson,Democratic,District 31,1388
+Delaware,State Representative,Lynn Johnson,Democratic,District 31,1014
+Blackford,State Representative,Kevin A. Mahan,Republican,District 31,3427
+Delaware,State Representative,Kevin A. Mahan,Republican,District 31,1981
+Delaware,State Representative,Ryan Scott Davis,Democratic,District 32,362
+Delaware,State Representative,Anthony J. ("Tony") Cook,Republican,District 32,518
+Blackford,State Representative,Greg Beumer,Republican,District 33,0
+Delaware,State Representative,Greg Beumer,Republican,District 33,6232
+Delaware,State Representative,Sue E Errington,Democratic,District 34,12516
+Delaware,State Representative,Joseph (Joe) Shank,Republican,District 34,6533
+Delaware,State Representative,Melanie Wright,Democratic,District 35,6636
+Delaware,State Representative,Bill Walters,Republican,District 35,6420
+Cass,State Representative,Jason Burns,Independent,District 38,561
+Clinton,State Representative,Jason Burns,Independent,District 38,1644
+Carroll,State Representative,Jason Burns,Independent,District 38,1234
+Carroll,State Representative,Heath VanNatter,Republican,District 38,2124
+Cass,State Representative,Heath VanNatter,Republican,District 38,1594
+Clinton,State Representative,Heath VanNatter,Republican,District 38,6612
+Boone,State Representative,Howard Joseph Pollchik,Democratic,District 41,2485
+Boone,State Representative,John Pickerill,Libertarian,District 41,852
+Boone,State Representative,Tim Brown,Republican,District 41,9127
+Clay,State Representative,Timothy D. (Tim) Skinner,Democratic,District 42,2004
+Clay,State Representative,Alan   Morrison,Republican,District 42,3462
+Clay,State Representative,Kimberly Anne Fidler,Democratic,District 44,753
+Clay,State Representative,James (Jim) Baird,Republican,District 44,1771
+Daviess,State Representative,Bruce Borders,Republican,District 45,365
+Clay,State Representative,Bill Breeden,Democratic,District 46,752
+Clay,State Representative,Bob Heaton,Republican,District 46,2214
+Elkhart,State Representative,James V Barnes,Democratic,District 48,7438
+Elkhart,State Representative,Doug Miller,Republican,District 48,14710
+Elkhart,State Representative,Wes Culver,Republican,District 49,16526
+Allen,State Representative,Jorge Fernandez,Democratic,District 50,3257
+Allen,State Representative,Daniel J. (Dan) Leonard,Republican,District 50,5080
+DeKalb,State Representative,Charlie Odier,Democratic,District 52,4199
+Allen,State Representative,Charlie Odier,Democratic,District 52,2492
+Allen,State Representative,Ben Smaltz,Republican,District 52,7722
+DeKalb,State Representative,Ben Smaltz,Republican,District 52,12228
+Decatur,State Representative,Mimi Pruett,Democratic,District 55,1782
+Decatur,State Representative,Cindy Meyer Ziemke,Republican,District 55,5867
+Bartholomew,State Representative,Sean R. Eberhart,Republican,District 57,4045
+Bartholomew,State Representative,Robert M. (Bob) Pitman,Democratic,District 59,10205
+Bartholomew,State Representative,Milo Smith,Republican,District 59,16118
+Daviess,State Representative,Steve Lindsey,Democratic,District 62,231
+Daviess,State Representative,Jeff Ellington,Republican,District 62,1092
+Daviess,State Representative,Andrea Hulsman,Democratic,District 63,1965
+Dubois,State Representative,Andrea Hulsman,Democratic,District 63,3728
+Daviess,State Representative,Mike Braun,Republican,District 63,6753
+Dubois,State Representative,Mike Braun,Republican,District 63,8546
+Brown,State Representative,Chris Woods,Democratic,District 65,3105
+Brown,State Representative,Chris D. May,Republican,District 65,4683
+Clark,State Representative,Terry Goodin,Democratic,District 66,4835
+Clark,State Representative,Joe Van Wye,Republican,District 66,4215
+Dearborn,State Representative,Rudy M. Howard Jr.,Democratic,District 67,995
+Decatur,State Representative,Rudy M. Howard Jr.,Democratic,District 67,479
+Decatur,State Representative,Randy Frye,Republican,District 67,2647
+Dearborn,State Representative,Randy Frye,Republican,District 67,3032
+Dearborn,State Representative,Jerome (Jake) Hoog,Democratic,District 68,4544
+Dearborn,State Representative,Randy Lyness,Republican,District 68,14581
+Bartholomew,State Representative,Jim Lucas,Republican,District 69,425
+Clark,State Representative,Heidi Cade Sellers,Democratic,District 70,4119
+Clark,State Representative,Karen Engleman,Republican,District 70,5337
+Clark,State Representative,Steven R. Stemler,Democratic,District 71,18728
+Clark,State Representative,Thomas Keister,Libertarian,District 71,4578
+Clark,State Representative,Douglas Leatherbury,Democratic,District 73,941
+Clark,State Representative,Steven Davisson,Republican,District 73,2338
+Crawford,State Representative,Larry K. Kleeman,Democratic,District 74,1607
+Dubois,State Representative,Larry K. Kleeman,Democratic,District 74,2472
+Crawford,State Representative,Lloyd Arnold,Republican,District 74,2883
+Dubois,State Representative,Lloyd Arnold,Republican,District 74,4709
+Allen,State Representative,Matthew S. Lehman,Republican,District 79,3891
+Adams,State Representative,Matthew S. Lehman,Republican,District 79,11172
+Allen,State Representative,Phil GiaQuinta,Democratic,District 80,14843
+Allen,State Representative,Bob Haddad,Democratic,District 81,8938
+Allen,State Representative,Martin Carbaugh,Republican,District 81,13925
+Allen,State Representative,Mike Wilber,Democratic,District 82,595
+Elkhart,State Representative,Mike Wilber,Democratic,District 82,127
+Allen,State Representative,David L. Ober,Republican,District 82,2064
+Elkhart,State Representative,David L. Ober,Republican,District 82,917
+Allen,State Representative,Christopher N. Judy,Republican,District 83,16480
+Allen,State Representative,Curtis Nash,Democratic,District 84,10544
+Allen,State Representative,Bob Morris,Republican,District 84,20559
+Allen,State Representative,Kathy Zoucha,Democratic,District 85,7006
+Allen,State Representative,Dave Heine,Republican,District 85,19198
+Bartholomew,Judge of the Circuit Court,Kelly S. Benjamin,Republican,Bartholomew (9th Circuit),25730
+Allen,Judge of the Superior Court,Nancy Eshcoff Boyer,Non-Partisan,Allen Civil No. 1,99019
+Allen,Judge of the Superior Court,David J. Avery,Non-Partisan,Allen Civil No. 9,98015
+Allen,Judge of the Superior Court,Wendy Davis,Non-Partisan,Allen Criminal No. 4,103113
+Allen,Judge of the Superior Court,Charles F. Pratt,Non-Partisan,Allen Fam. Rel. No. 8,100809
+Crawford,Judge of the Circuit Court,Stanley V. Pennington,Democratic,Crawford (77th Circuit),2222
+Crawford,Judge of the Circuit Court,Sabrina R. Bell,Republican,Crawford (77th Circuit),2381
+Dearborn,Judge of the Circuit Court,James D. Humphrey,Republican,Dearborn/Ohio (7th Cir.),20407
+Blackford,Judge of the Superior Court,Nick Barry,Republican,Blackford County,3868
+DeKalb,Judge of the Circuit Court,Kurt Grimm,Republican,DeKalb (75th Circuit),14119
+Delaware,Judge of the Circuit Court,Marianne Lafferty Vorhees,Democratic,Delaware Ct. 1(46th Cir.),31172
+Cass,Judge of the Superior Court,James K. (Jim) Muehlhausen,Republican,"Cass County, Court 1",11725
+Elkhart,Judge of the Circuit Court,Michael A. Christofeno,Republican,Elkhart (34th Circuit),50461
+Dubois,Judge of the Superior Court,Mark R. McConnell,Republican,Dubois County,16057

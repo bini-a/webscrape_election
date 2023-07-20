@@ -1,0 +1,35 @@
+"election_id","office_id","district","office_local","office","seat","n_winners","selection_method","retention_method","open_seat","contested","runoff","special"
+"FL_2018-11-06_GEN","AG_FL_000","FL","Attorney General","AG","000",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","SA_20_000","20","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_2_12","2","Circuit Judge","TC2","12",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_6_4","6","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_7_15","7","Circuit Judge","TC2","15",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_8_8","8","Circuit Judge","TC2","8",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_9_41","9","Circuit Judge","TC2","41",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_10_10","10","Circuit Judge","TC2","10",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_11_14","11","Circuit Judge","TC2","14",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_13_25","13","Circuit Judge","TC2","25",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_15_13","15","Circuit Judge","TC2","13",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_15_18","15","Circuit Judge","TC2","18",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_15_25","15","Circuit Judge","TC2","25",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_17_38","17","Circuit Judge","TC2","38",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_17_46","17","Circuit Judge","TC2","46",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_19_19","19","Circuit Judge","TC2","19",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","SC_1_000","1",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_1_1","1",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_1_2","1",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_1_3","1",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_1_4","1",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_1_5","1",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_2_1","2",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_2_4","2",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_2_2","2",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_2_3","2",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_3_1","3",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_3_4","3",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_3_2","3",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_3_3","3",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_4_1","4",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_4_2","4",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_4_3","4",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_5_1","5",NA,"TC1","1",1,"RE",NA,NA,0,0,0

@@ -1,0 +1,22 @@
+"election_id","office_id","district","office_local","office","seat","n_winners","selection_method","retention_method","open_seat","contested","runoff","special"
+"FL_2022-08-23_PRI-D","AG_FL_000","FL","Attorney General","AG","000",1,"PE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_6_22","6","Circuit Judge","TC2","22",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_6_27","6","Circuit Judge","TC2","27",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_8_12","8","Circuit Judge","TC2","12",2,"NPE",NA,NA,1,1,0
+"FL_2022-08-23_PRI","TC2_9_9","9","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_9_14","9","Circuit Judge","TC2","14",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_9_44","9","Circuit Judge","TC2","44",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_11_3","11","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_11_20","11","Circuit Judge","TC2","20",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_11_34","11","Circuit Judge","TC2","34",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_11_52","11","Circuit Judge","TC2","52",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_13_6","13","Circuit Judge","TC2","6",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_13_37","13","Circuit Judge","TC2","37",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_15_23","15","Circuit Judge","TC2","23",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_17_9","17","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_17_14","17","Circuit Judge","TC2","14",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_17_23","17","Circuit Judge","TC2","23",2,"NPE",NA,NA,1,1,0
+"FL_2022-08-23_PRI","TC2_17_51","17","Circuit Judge","TC2","51",2,"NPE",NA,NA,1,1,0
+"FL_2022-08-23_PRI","TC2_18_3","18","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_19_1","19","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_19_2","19","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0

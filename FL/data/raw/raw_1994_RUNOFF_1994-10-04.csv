@@ -1,0 +1,365 @@
+ElectionDate	PartyCode	PartyName	RaceCode	OfficeDesc	CountyCode	CountyName	Juris1num	Juris2num	Precincts	PrecinctsReporting	CanNameLast	CanNameFirst	CanNameMiddle	CanVotes
+10/4/1994	DEM	Democrat	USS	United States Senator	ALA	Alachua			0	0	Rodham	Hugh	E.	4900
+10/4/1994	DEM	Democrat	USS	United States Senator	BAK	Baker			0	0	Rodham	Hugh	E.	1323
+10/4/1994	DEM	Democrat	USS	United States Senator	BAY	Bay			0	0	Rodham	Hugh	E.	980
+10/4/1994	DEM	Democrat	USS	United States Senator	BRA	Bradford			0	0	Rodham	Hugh	E.	764
+10/4/1994	DEM	Democrat	USS	United States Senator	BRE	Brevard			0	0	Rodham	Hugh	E.	4880
+10/4/1994	DEM	Democrat	USS	United States Senator	BRO	Broward			0	0	Rodham	Hugh	E.	27096
+10/4/1994	DEM	Democrat	USS	United States Senator	CAL	Calhoun			0	0	Rodham	Hugh	E.	345
+10/4/1994	DEM	Democrat	USS	United States Senator	CHA	Charlotte			0	0	Rodham	Hugh	E.	1728
+10/4/1994	DEM	Democrat	USS	United States Senator	CIT	Citrus			0	0	Rodham	Hugh	E.	3788
+10/4/1994	DEM	Democrat	USS	United States Senator	CLA	Clay			0	0	Rodham	Hugh	E.	724
+10/4/1994	DEM	Democrat	USS	United States Senator	CLL	Collier			0	0	Rodham	Hugh	E.	1568
+10/4/1994	DEM	Democrat	USS	United States Senator	CLM	Columbia			0	0	Rodham	Hugh	E.	1288
+10/4/1994	DEM	Democrat	USS	United States Senator	DES	Desoto			0	0	Rodham	Hugh	E.	780
+10/4/1994	DEM	Democrat	USS	United States Senator	DIX	Dixie			0	0	Rodham	Hugh	E.	174
+10/4/1994	DEM	Democrat	USS	United States Senator	DUV	Duval			0	0	Rodham	Hugh	E.	5813
+10/4/1994	DEM	Democrat	USS	United States Senator	ESC	Escambia			0	0	Rodham	Hugh	E.	5099
+10/4/1994	DEM	Democrat	USS	United States Senator	FLA	Flagler			0	0	Rodham	Hugh	E.	583
+10/4/1994	DEM	Democrat	USS	United States Senator	FRA	Franklin			0	0	Rodham	Hugh	E.	529
+10/4/1994	DEM	Democrat	USS	United States Senator	GAD	Gadsden			0	0	Rodham	Hugh	E.	1599
+10/4/1994	DEM	Democrat	USS	United States Senator	GIL	Gilchrist			0	0	Rodham	Hugh	E.	513
+10/4/1994	DEM	Democrat	USS	United States Senator	GLA	Glades			0	0	Rodham	Hugh	E.	196
+10/4/1994	DEM	Democrat	USS	United States Senator	GUL	Gulf			0	0	Rodham	Hugh	E.	197
+10/4/1994	DEM	Democrat	USS	United States Senator	HAM	Hamilton			0	0	Rodham	Hugh	E.	527
+10/4/1994	DEM	Democrat	USS	United States Senator	HAR	Hardee			0	0	Rodham	Hugh	E.	261
+10/4/1994	DEM	Democrat	USS	United States Senator	HEN	Hendry			0	0	Rodham	Hugh	E.	217
+10/4/1994	DEM	Democrat	USS	United States Senator	HER	Hernando			0	0	Rodham	Hugh	E.	4365
+10/4/1994	DEM	Democrat	USS	United States Senator	HIG	Highlands			0	0	Rodham	Hugh	E.	638
+10/4/1994	DEM	Democrat	USS	United States Senator	HIL	Hillsborough			0	0	Rodham	Hugh	E.	12240
+10/4/1994	DEM	Democrat	USS	United States Senator	HOL	Holmes			0	0	Rodham	Hugh	E.	716
+10/4/1994	DEM	Democrat	USS	United States Senator	IND	Indian River			0	0	Rodham	Hugh	E.	996
+10/4/1994	DEM	Democrat	USS	United States Senator	JAC	Jackson			0	0	Rodham	Hugh	E.	1195
+10/4/1994	DEM	Democrat	USS	United States Senator	JEF	Jefferson			0	0	Rodham	Hugh	E.	366
+10/4/1994	DEM	Democrat	USS	United States Senator	LAF	Lafayette			0	0	Rodham	Hugh	E.	420
+10/4/1994	DEM	Democrat	USS	United States Senator	LAK	Lake			0	0	Rodham	Hugh	E.	2336
+10/4/1994	DEM	Democrat	USS	United States Senator	LEE	Lee			0	0	Rodham	Hugh	E.	4015
+10/4/1994	DEM	Democrat	USS	United States Senator	LEO	Leon			0	0	Rodham	Hugh	E.	10793
+10/4/1994	DEM	Democrat	USS	United States Senator	LEV	Levy			0	0	Rodham	Hugh	E.	862
+10/4/1994	DEM	Democrat	USS	United States Senator	LIB	Liberty			0	0	Rodham	Hugh	E.	489
+10/4/1994	DEM	Democrat	USS	United States Senator	MAD	Madison			0	0	Rodham	Hugh	E.	884
+10/4/1994	DEM	Democrat	USS	United States Senator	MAN	Manatee			0	0	Rodham	Hugh	E.	2708
+10/4/1994	DEM	Democrat	USS	United States Senator	MRN	Marion			0	0	Rodham	Hugh	E.	2881
+10/4/1994	DEM	Democrat	USS	United States Senator	MRT	Martin			0	0	Rodham	Hugh	E.	1207
+10/4/1994	DEM	Democrat	USS	United States Senator	DAD	Miami-Dade			0	0	Rodham	Hugh	E.	29288
+10/4/1994	DEM	Democrat	USS	United States Senator	MON	Monroe			0	0	Rodham	Hugh	E.	1543
+10/4/1994	DEM	Democrat	USS	United States Senator	NAS	Nassau			0	0	Rodham	Hugh	E.	1672
+10/4/1994	DEM	Democrat	USS	United States Senator	OKA	Okaloosa			0	0	Rodham	Hugh	E.	1950
+10/4/1994	DEM	Democrat	USS	United States Senator	OKE	Okeechobee			0	0	Rodham	Hugh	E.	1125
+10/4/1994	DEM	Democrat	USS	United States Senator	ORA	Orange			0	0	Rodham	Hugh	E.	5952
+10/4/1994	DEM	Democrat	USS	United States Senator	OSC	Osceola			0	0	Rodham	Hugh	E.	768
+10/4/1994	DEM	Democrat	USS	United States Senator	PAL	Palm Beach			0	0	Rodham	Hugh	E.	18239
+10/4/1994	DEM	Democrat	USS	United States Senator	PAS	Pasco			0	0	Rodham	Hugh	E.	4742
+10/4/1994	DEM	Democrat	USS	United States Senator	PIN	Pinellas			0	0	Rodham	Hugh	E.	8664
+10/4/1994	DEM	Democrat	USS	United States Senator	POL	Polk			0	0	Rodham	Hugh	E.	6294
+10/4/1994	DEM	Democrat	USS	United States Senator	PUT	Putnam			0	0	Rodham	Hugh	E.	1725
+10/4/1994	DEM	Democrat	USS	United States Senator	SAN	Santa Rosa			0	0	Rodham	Hugh	E.	997
+10/4/1994	DEM	Democrat	USS	United States Senator	SAR	Sarasota			0	0	Rodham	Hugh	E.	2571
+10/4/1994	DEM	Democrat	USS	United States Senator	SEM	Seminole			0	0	Rodham	Hugh	E.	3397
+10/4/1994	DEM	Democrat	USS	United States Senator	STJ	St. Johns			0	0	Rodham	Hugh	E.	1257
+10/4/1994	DEM	Democrat	USS	United States Senator	STL	St. Lucie			0	0	Rodham	Hugh	E.	2921
+10/4/1994	DEM	Democrat	USS	United States Senator	SUM	Sumter			0	0	Rodham	Hugh	E.	1231
+10/4/1994	DEM	Democrat	USS	United States Senator	SUW	Suwannee			0	0	Rodham	Hugh	E.	902
+10/4/1994	DEM	Democrat	USS	United States Senator	TAY	Taylor			0	0	Rodham	Hugh	E.	635
+10/4/1994	DEM	Democrat	USS	United States Senator	UNI	Union			0	0	Rodham	Hugh	E.	411
+10/4/1994	DEM	Democrat	USS	United States Senator	VOL	Volusia			0	0	Rodham	Hugh	E.	8686
+10/4/1994	DEM	Democrat	USS	United States Senator	WAK	Wakulla			0	0	Rodham	Hugh	E.	825
+10/4/1994	DEM	Democrat	USS	United States Senator	WAL	Walton			0	0	Rodham	Hugh	E.	1991
+10/4/1994	DEM	Democrat	USS	United States Senator	WAS	Washington			0	0	Rodham	Hugh	E.	655
+10/4/1994	DEM	Democrat	USS	United States Senator	ALA	Alachua			0	0	Wiley	Mike		3804
+10/4/1994	DEM	Democrat	USS	United States Senator	BAK	Baker			0	0	Wiley	Mike		2208
+10/4/1994	DEM	Democrat	USS	United States Senator	BAY	Bay			0	0	Wiley	Mike		2148
+10/4/1994	DEM	Democrat	USS	United States Senator	BRA	Bradford			0	0	Wiley	Mike		1404
+10/4/1994	DEM	Democrat	USS	United States Senator	BRE	Brevard			0	0	Wiley	Mike		4455
+10/4/1994	DEM	Democrat	USS	United States Senator	BRO	Broward			0	0	Wiley	Mike		4728
+10/4/1994	DEM	Democrat	USS	United States Senator	CAL	Calhoun			0	0	Wiley	Mike		697
+10/4/1994	DEM	Democrat	USS	United States Senator	CHA	Charlotte			0	0	Wiley	Mike		797
+10/4/1994	DEM	Democrat	USS	United States Senator	CIT	Citrus			0	0	Wiley	Mike		3737
+10/4/1994	DEM	Democrat	USS	United States Senator	CLA	Clay			0	0	Wiley	Mike		938
+10/4/1994	DEM	Democrat	USS	United States Senator	CLL	Collier			0	0	Wiley	Mike		850
+10/4/1994	DEM	Democrat	USS	United States Senator	CLM	Columbia			0	0	Wiley	Mike		1871
+10/4/1994	DEM	Democrat	USS	United States Senator	DES	Desoto			0	0	Wiley	Mike		1337
+10/4/1994	DEM	Democrat	USS	United States Senator	DIX	Dixie			0	0	Wiley	Mike		309
+10/4/1994	DEM	Democrat	USS	United States Senator	DUV	Duval			0	0	Wiley	Mike		6868
+10/4/1994	DEM	Democrat	USS	United States Senator	ESC	Escambia			0	0	Wiley	Mike		10038
+10/4/1994	DEM	Democrat	USS	United States Senator	FLA	Flagler			0	0	Wiley	Mike		272
+10/4/1994	DEM	Democrat	USS	United States Senator	FRA	Franklin			0	0	Wiley	Mike		842
+10/4/1994	DEM	Democrat	USS	United States Senator	GAD	Gadsden			0	0	Wiley	Mike		1381
+10/4/1994	DEM	Democrat	USS	United States Senator	GIL	Gilchrist			0	0	Wiley	Mike		871
+10/4/1994	DEM	Democrat	USS	United States Senator	GLA	Glades			0	0	Wiley	Mike		287
+10/4/1994	DEM	Democrat	USS	United States Senator	GUL	Gulf			0	0	Wiley	Mike		458
+10/4/1994	DEM	Democrat	USS	United States Senator	HAM	Hamilton			0	0	Wiley	Mike		773
+10/4/1994	DEM	Democrat	USS	United States Senator	HAR	Hardee			0	0	Wiley	Mike		469
+10/4/1994	DEM	Democrat	USS	United States Senator	HEN	Hendry			0	0	Wiley	Mike		429
+10/4/1994	DEM	Democrat	USS	United States Senator	HER	Hernando			0	0	Wiley	Mike		2689
+10/4/1994	DEM	Democrat	USS	United States Senator	HIG	Highlands			0	0	Wiley	Mike		530
+10/4/1994	DEM	Democrat	USS	United States Senator	HIL	Hillsborough			0	0	Wiley	Mike		8184
+10/4/1994	DEM	Democrat	USS	United States Senator	HOL	Holmes			0	0	Wiley	Mike		1636
+10/4/1994	DEM	Democrat	USS	United States Senator	IND	Indian River			0	0	Wiley	Mike		505
+10/4/1994	DEM	Democrat	USS	United States Senator	JAC	Jackson			0	0	Wiley	Mike		2494
+10/4/1994	DEM	Democrat	USS	United States Senator	JEF	Jefferson			0	0	Wiley	Mike		440
+10/4/1994	DEM	Democrat	USS	United States Senator	LAF	Lafayette			0	0	Wiley	Mike		889
+10/4/1994	DEM	Democrat	USS	United States Senator	LAK	Lake			0	0	Wiley	Mike		2038
+10/4/1994	DEM	Democrat	USS	United States Senator	LEE	Lee			0	0	Wiley	Mike		3126
+10/4/1994	DEM	Democrat	USS	United States Senator	LEO	Leon			0	0	Wiley	Mike		7285
+10/4/1994	DEM	Democrat	USS	United States Senator	LEV	Levy			0	0	Wiley	Mike		1294
+10/4/1994	DEM	Democrat	USS	United States Senator	LIB	Liberty			0	0	Wiley	Mike		1028
+10/4/1994	DEM	Democrat	USS	United States Senator	MAD	Madison			0	0	Wiley	Mike		1382
+10/4/1994	DEM	Democrat	USS	United States Senator	MAN	Manatee			0	0	Wiley	Mike		1363
+10/4/1994	DEM	Democrat	USS	United States Senator	MRN	Marion			0	0	Wiley	Mike		2963
+10/4/1994	DEM	Democrat	USS	United States Senator	MRT	Martin			0	0	Wiley	Mike		620
+10/4/1994	DEM	Democrat	USS	United States Senator	DAD	Miami-Dade			0	0	Wiley	Mike		9670
+10/4/1994	DEM	Democrat	USS	United States Senator	MON	Monroe			0	0	Wiley	Mike		907
+10/4/1994	DEM	Democrat	USS	United States Senator	NAS	Nassau			0	0	Wiley	Mike		2351
+10/4/1994	DEM	Democrat	USS	United States Senator	OKA	Okaloosa			0	0	Wiley	Mike		3308
+10/4/1994	DEM	Democrat	USS	United States Senator	OKE	Okeechobee			0	0	Wiley	Mike		1675
+10/4/1994	DEM	Democrat	USS	United States Senator	ORA	Orange			0	0	Wiley	Mike		4664
+10/4/1994	DEM	Democrat	USS	United States Senator	OSC	Osceola			0	0	Wiley	Mike		904
+10/4/1994	DEM	Democrat	USS	United States Senator	PAL	Palm Beach			0	0	Wiley	Mike		4218
+10/4/1994	DEM	Democrat	USS	United States Senator	PAS	Pasco			0	0	Wiley	Mike		2940
+10/4/1994	DEM	Democrat	USS	United States Senator	PIN	Pinellas			0	0	Wiley	Mike		4138
+10/4/1994	DEM	Democrat	USS	United States Senator	POL	Polk			0	0	Wiley	Mike		6097
+10/4/1994	DEM	Democrat	USS	United States Senator	PUT	Putnam			0	0	Wiley	Mike		2140
+10/4/1994	DEM	Democrat	USS	United States Senator	SAN	Santa Rosa			0	0	Wiley	Mike		3453
+10/4/1994	DEM	Democrat	USS	United States Senator	SAR	Sarasota			0	0	Wiley	Mike		1300
+10/4/1994	DEM	Democrat	USS	United States Senator	SEM	Seminole			0	0	Wiley	Mike		2738
+10/4/1994	DEM	Democrat	USS	United States Senator	STJ	St. Johns			0	0	Wiley	Mike		1490
+10/4/1994	DEM	Democrat	USS	United States Senator	STL	St. Lucie			0	0	Wiley	Mike		1986
+10/4/1994	DEM	Democrat	USS	United States Senator	SUM	Sumter			0	0	Wiley	Mike		1532
+10/4/1994	DEM	Democrat	USS	United States Senator	SUW	Suwannee			0	0	Wiley	Mike		1783
+10/4/1994	DEM	Democrat	USS	United States Senator	TAY	Taylor			0	0	Wiley	Mike		1026
+10/4/1994	DEM	Democrat	USS	United States Senator	UNI	Union			0	0	Wiley	Mike		560
+10/4/1994	DEM	Democrat	USS	United States Senator	VOL	Volusia			0	0	Wiley	Mike		4441
+10/4/1994	DEM	Democrat	USS	United States Senator	WAK	Wakulla			0	0	Wiley	Mike		1446
+10/4/1994	DEM	Democrat	USS	United States Senator	WAL	Walton			0	0	Wiley	Mike		3121
+10/4/1994	DEM	Democrat	USS	United States Senator	WAS	Washington			0	0	Wiley	Mike		1451
+10/4/1994	DEM	Democrat	USR	United States Representative	GLA	Glades	016		0	0	Comerford	John		301
+10/4/1994	DEM	Democrat	USR	United States Representative	HEN	Hendry	016		0	0	Comerford	John		155
+10/4/1994	DEM	Democrat	USR	United States Representative	HIG	Highlands	016		0	0	Comerford	John		599
+10/4/1994	DEM	Democrat	USR	United States Representative	MRT	Martin	016		0	0	Comerford	John		1171
+10/4/1994	DEM	Democrat	USR	United States Representative	OKE	Okeechobee	016		0	0	Comerford	John		1019
+10/4/1994	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	016		0	0	Comerford	John		4808
+10/4/1994	DEM	Democrat	USR	United States Representative	STL	St. Lucie	016		0	0	Comerford	John		2742
+10/4/1994	DEM	Democrat	USR	United States Representative	GLA	Glades	016		0	0	Howard	Ron		188
+10/4/1994	DEM	Democrat	USR	United States Representative	HEN	Hendry	016		0	0	Howard	Ron		322
+10/4/1994	DEM	Democrat	USR	United States Representative	HIG	Highlands	016		0	0	Howard	Ron		371
+10/4/1994	DEM	Democrat	USR	United States Representative	MRT	Martin	016		0	0	Howard	Ron		555
+10/4/1994	DEM	Democrat	USR	United States Representative	OKE	Okeechobee	016		0	0	Howard	Ron		895
+10/4/1994	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	016		0	0	Howard	Ron		1597
+10/4/1994	DEM	Democrat	USR	United States Representative	STL	St. Lucie	016		0	0	Howard	Ron		1734
+10/4/1994	DEM	Democrat	STR	State Representative	HOL	Holmes	005		0	0	Everitt	Rick		1073
+10/4/1994	DEM	Democrat	STR	State Representative	OKA	Okaloosa	005		0	0	Everitt	Rick		432
+10/4/1994	DEM	Democrat	STR	State Representative	WAL	Walton	005		0	0	Everitt	Rick		1781
+10/4/1994	DEM	Democrat	STR	State Representative	WAS	Washington	005		0	0	Everitt	Rick		1422
+10/4/1994	DEM	Democrat	STR	State Representative	HOL	Holmes	005		0	0	Peaden	Durell		1655
+10/4/1994	DEM	Democrat	STR	State Representative	OKA	Okaloosa	005		0	0	Peaden	Durell		2072
+10/4/1994	DEM	Democrat	STR	State Representative	WAL	Walton	005		0	0	Peaden	Durell		3502
+10/4/1994	DEM	Democrat	STR	State Representative	WAS	Washington	005		0	0	Peaden	Durell		903
+10/4/1994	DEM	Democrat	STR	State Representative	LEO	Leon	009		0	0	Rackleff	Bob		7166
+10/4/1994	DEM	Democrat	STR	State Representative	LEO	Leon	009		0	0	Turnbull	Marjorie		8019
+10/4/1994	DEM	Democrat	STR	State Representative	CIT	Citrus	043		0	0	Fitzpatrick	Richard	'Spike'	3909
+10/4/1994	DEM	Democrat	STR	State Representative	HER	Hernando	043		0	0	Fitzpatrick	Richard	'Spike'	323
+10/4/1994	DEM	Democrat	STR	State Representative	MRN	Marion	043		0	0	Fitzpatrick	Richard	'Spike'	57
+10/4/1994	DEM	Democrat	STR	State Representative	CIT	Citrus	043		0	0	Spivey	Helen	L.	3956
+10/4/1994	DEM	Democrat	STR	State Representative	HER	Hernando	043		0	0	Spivey	Helen	L.	460
+10/4/1994	DEM	Democrat	STR	State Representative	MRN	Marion	043		0	0	Spivey	Helen	L.	100
+10/4/1994	DEM	Democrat	STR	State Representative	PAS	Pasco	046		0	0	Prewitt	Debra	A.	2386
+10/4/1994	DEM	Democrat	STR	State Representative	PAS	Pasco	046		0	0	Stockwell	Karen		1769
+10/4/1994	DEM	Democrat	STR	State Representative	PAL	Palm Beach	087		0	0	Robbe	David		1343
+10/4/1994	DEM	Democrat	STR	State Representative	PAL	Palm Beach	087		0	0	Walshak	R.J.	'Bobby'	1368
+10/4/1994	REP	Republican	USR	United States Representative	BAY	Bay	001		0	0	Benson	Lois		303
+10/4/1994	REP	Republican	USR	United States Representative	ESC	Escambia	001		0	0	Benson	Lois		6257
+10/4/1994	REP	Republican	USR	United States Representative	HOL	Holmes	001		0	0	Benson	Lois		16
+10/4/1994	REP	Republican	USR	United States Representative	OKA	Okaloosa	001		0	0	Benson	Lois		6259
+10/4/1994	REP	Republican	USR	United States Representative	SAN	Santa Rosa	001		0	0	Benson	Lois		2450
+10/4/1994	REP	Republican	USR	United States Representative	WAL	Walton	001		0	0	Benson	Lois		378
+10/4/1994	REP	Republican	USR	United States Representative	BAY	Bay	001		0	0	Scarborough	Joe		453
+10/4/1994	REP	Republican	USR	United States Representative	ESC	Escambia	001		0	0	Scarborough	Joe		8510
+10/4/1994	REP	Republican	USR	United States Representative	HOL	Holmes	001		0	0	Scarborough	Joe		52
+10/4/1994	REP	Republican	USR	United States Representative	OKA	Okaloosa	001		0	0	Scarborough	Joe		6040
+10/4/1994	REP	Republican	USR	United States Representative	SAN	Santa Rosa	001		0	0	Scarborough	Joe		3163
+10/4/1994	REP	Republican	USR	United States Representative	WAL	Walton	001		0	0	Scarborough	Joe		495
+10/4/1994	REP	Republican	USR	United States Representative	BRE	Brevard	015		0	0	Jordan	Carole	Jean	10080
+10/4/1994	REP	Republican	USR	United States Representative	IND	Indian River	015		0	0	Jordan	Carole	Jean	4670
+10/4/1994	REP	Republican	USR	United States Representative	OSC	Osceola	015		0	0	Jordan	Carole	Jean	877
+10/4/1994	REP	Republican	USR	United States Representative	POL	Polk	015		0	0	Jordan	Carole	Jean	209
+10/4/1994	REP	Republican	USR	United States Representative	BRE	Brevard	015		0	0	Weldon	Dave		14268
+10/4/1994	REP	Republican	USR	United States Representative	IND	Indian River	015		0	0	Weldon	Dave		3124
+10/4/1994	REP	Republican	USR	United States Representative	OSC	Osceola	015		0	0	Weldon	Dave		1045
+10/4/1994	REP	Republican	USR	United States Representative	POL	Polk	015		0	0	Weldon	Dave		302
+10/4/1994	REP	Republican	EDU	Commissioner of Education	ALA	Alachua			0	0	Brogan	Frank	T.	739
+10/4/1994	REP	Republican	EDU	Commissioner of Education	BAK	Baker			0	0	Brogan	Frank	T.	20
+10/4/1994	REP	Republican	EDU	Commissioner of Education	BAY	Bay			0	0	Brogan	Frank	T.	714
+10/4/1994	REP	Republican	EDU	Commissioner of Education	BRA	Bradford			0	0	Brogan	Frank	T.	49
+10/4/1994	REP	Republican	EDU	Commissioner of Education	BRE	Brevard			0	0	Brogan	Frank	T.	12272
+10/4/1994	REP	Republican	EDU	Commissioner of Education	BRO	Broward			0	0	Brogan	Frank	T.	6111
+10/4/1994	REP	Republican	EDU	Commissioner of Education	CAL	Calhoun			0	0	Brogan	Frank	T.	10
+10/4/1994	REP	Republican	EDU	Commissioner of Education	CHA	Charlotte			0	0	Brogan	Frank	T.	1938
+10/4/1994	REP	Republican	EDU	Commissioner of Education	CIT	Citrus			0	0	Brogan	Frank	T.	2670
+10/4/1994	REP	Republican	EDU	Commissioner of Education	CLA	Clay			0	0	Brogan	Frank	T.	2796
+10/4/1994	REP	Republican	EDU	Commissioner of Education	CLL	Collier			0	0	Brogan	Frank	T.	5029
+10/4/1994	REP	Republican	EDU	Commissioner of Education	CLM	Columbia			0	0	Brogan	Frank	T.	149
+10/4/1994	REP	Republican	EDU	Commissioner of Education	DES	Desoto			0	0	Brogan	Frank	T.	100
+10/4/1994	REP	Republican	EDU	Commissioner of Education	DIX	Dixie			0	0	Brogan	Frank	T.	12
+10/4/1994	REP	Republican	EDU	Commissioner of Education	DUV	Duval			0	0	Brogan	Frank	T.	3263
+10/4/1994	REP	Republican	EDU	Commissioner of Education	ESC	Escambia			0	0	Brogan	Frank	T.	5891
+10/4/1994	REP	Republican	EDU	Commissioner of Education	FLA	Flagler			0	0	Brogan	Frank	T.	795
+10/4/1994	REP	Republican	EDU	Commissioner of Education	FRA	Franklin			0	0	Brogan	Frank	T.	17
+10/4/1994	REP	Republican	EDU	Commissioner of Education	GAD	Gadsden			0	0	Brogan	Frank	T.	66
+10/4/1994	REP	Republican	EDU	Commissioner of Education	GIL	Gilchrist			0	0	Brogan	Frank	T.	26
+10/4/1994	REP	Republican	EDU	Commissioner of Education	GLA	Glades			0	0	Brogan	Frank	T.	33
+10/4/1994	REP	Republican	EDU	Commissioner of Education	GUL	Gulf			0	0	Brogan	Frank	T.	27
+10/4/1994	REP	Republican	EDU	Commissioner of Education	HAM	Hamilton			0	0	Brogan	Frank	T.	11
+10/4/1994	REP	Republican	EDU	Commissioner of Education	HAR	Hardee			0	0	Brogan	Frank	T.	38
+10/4/1994	REP	Republican	EDU	Commissioner of Education	HEN	Hendry			0	0	Brogan	Frank	T.	60
+10/4/1994	REP	Republican	EDU	Commissioner of Education	HER	Hernando			0	0	Brogan	Frank	T.	5127
+10/4/1994	REP	Republican	EDU	Commissioner of Education	HIG	Highlands			0	0	Brogan	Frank	T.	542
+10/4/1994	REP	Republican	EDU	Commissioner of Education	HIL	Hillsborough			0	0	Brogan	Frank	T.	7741
+10/4/1994	REP	Republican	EDU	Commissioner of Education	HOL	Holmes			0	0	Brogan	Frank	T.	24
+10/4/1994	REP	Republican	EDU	Commissioner of Education	IND	Indian River			0	0	Brogan	Frank	T.	4414
+10/4/1994	REP	Republican	EDU	Commissioner of Education	JAC	Jackson			0	0	Brogan	Frank	T.	59
+10/4/1994	REP	Republican	EDU	Commissioner of Education	JEF	Jefferson			0	0	Brogan	Frank	T.	25
+10/4/1994	REP	Republican	EDU	Commissioner of Education	LAF	Lafayette			0	0	Brogan	Frank	T.	3
+10/4/1994	REP	Republican	EDU	Commissioner of Education	LAK	Lake			0	0	Brogan	Frank	T.	8683
+10/4/1994	REP	Republican	EDU	Commissioner of Education	LEE	Lee			0	0	Brogan	Frank	T.	8088
+10/4/1994	REP	Republican	EDU	Commissioner of Education	LEO	Leon			0	0	Brogan	Frank	T.	2773
+10/4/1994	REP	Republican	EDU	Commissioner of Education	LEV	Levy			0	0	Brogan	Frank	T.	104
+10/4/1994	REP	Republican	EDU	Commissioner of Education	LIB	Liberty			0	0	Brogan	Frank	T.	11
+10/4/1994	REP	Republican	EDU	Commissioner of Education	MAD	Madison			0	0	Brogan	Frank	T.	27
+10/4/1994	REP	Republican	EDU	Commissioner of Education	MAN	Manatee			0	0	Brogan	Frank	T.	3339
+10/4/1994	REP	Republican	EDU	Commissioner of Education	MRN	Marion			0	0	Brogan	Frank	T.	4476
+10/4/1994	REP	Republican	EDU	Commissioner of Education	MRT	Martin			0	0	Brogan	Frank	T.	6163
+10/4/1994	REP	Republican	EDU	Commissioner of Education	DAD	Miami-Dade			0	0	Brogan	Frank	T.	10621
+10/4/1994	REP	Republican	EDU	Commissioner of Education	MON	Monroe			0	0	Brogan	Frank	T.	607
+10/4/1994	REP	Republican	EDU	Commissioner of Education	NAS	Nassau			0	0	Brogan	Frank	T.	204
+10/4/1994	REP	Republican	EDU	Commissioner of Education	OKA	Okaloosa			0	0	Brogan	Frank	T.	5580
+10/4/1994	REP	Republican	EDU	Commissioner of Education	OKE	Okeechobee			0	0	Brogan	Frank	T.	117
+10/4/1994	REP	Republican	EDU	Commissioner of Education	ORA	Orange			0	0	Brogan	Frank	T.	8020
+10/4/1994	REP	Republican	EDU	Commissioner of Education	OSC	Osceola			0	0	Brogan	Frank	T.	1341
+10/4/1994	REP	Republican	EDU	Commissioner of Education	PAL	Palm Beach			0	0	Brogan	Frank	T.	6649
+10/4/1994	REP	Republican	EDU	Commissioner of Education	PAS	Pasco			0	0	Brogan	Frank	T.	5560
+10/4/1994	REP	Republican	EDU	Commissioner of Education	PIN	Pinellas			0	0	Brogan	Frank	T.	13258
+10/4/1994	REP	Republican	EDU	Commissioner of Education	POL	Polk			0	0	Brogan	Frank	T.	3071
+10/4/1994	REP	Republican	EDU	Commissioner of Education	PUT	Putnam			0	0	Brogan	Frank	T.	262
+10/4/1994	REP	Republican	EDU	Commissioner of Education	SAN	Santa Rosa			0	0	Brogan	Frank	T.	2568
+10/4/1994	REP	Republican	EDU	Commissioner of Education	SAR	Sarasota			0	0	Brogan	Frank	T.	5759
+10/4/1994	REP	Republican	EDU	Commissioner of Education	SEM	Seminole			0	0	Brogan	Frank	T.	3039
+10/4/1994	REP	Republican	EDU	Commissioner of Education	STJ	St. Johns			0	0	Brogan	Frank	T.	2924
+10/4/1994	REP	Republican	EDU	Commissioner of Education	STL	St. Lucie			0	0	Brogan	Frank	T.	5258
+10/4/1994	REP	Republican	EDU	Commissioner of Education	SUM	Sumter			0	0	Brogan	Frank	T.	556
+10/4/1994	REP	Republican	EDU	Commissioner of Education	SUW	Suwannee			0	0	Brogan	Frank	T.	74
+10/4/1994	REP	Republican	EDU	Commissioner of Education	TAY	Taylor			0	0	Brogan	Frank	T.	25
+10/4/1994	REP	Republican	EDU	Commissioner of Education	UNI	Union			0	0	Brogan	Frank	T.	17
+10/4/1994	REP	Republican	EDU	Commissioner of Education	VOL	Volusia			0	0	Brogan	Frank	T.	6488
+10/4/1994	REP	Republican	EDU	Commissioner of Education	WAK	Wakulla			0	0	Brogan	Frank	T.	50
+10/4/1994	REP	Republican	EDU	Commissioner of Education	WAL	Walton			0	0	Brogan	Frank	T.	376
+10/4/1994	REP	Republican	EDU	Commissioner of Education	WAS	Washington			0	0	Brogan	Frank	T.	46
+10/4/1994	REP	Republican	EDU	Commissioner of Education	ALA	Alachua			0	0	Morris	Bob		464
+10/4/1994	REP	Republican	EDU	Commissioner of Education	BAK	Baker			0	0	Morris	Bob		29
+10/4/1994	REP	Republican	EDU	Commissioner of Education	BAY	Bay			0	0	Morris	Bob		684
+10/4/1994	REP	Republican	EDU	Commissioner of Education	BRA	Bradford			0	0	Morris	Bob		63
+10/4/1994	REP	Republican	EDU	Commissioner of Education	BRE	Brevard			0	0	Morris	Bob		8581
+10/4/1994	REP	Republican	EDU	Commissioner of Education	BRO	Broward			0	0	Morris	Bob		2957
+10/4/1994	REP	Republican	EDU	Commissioner of Education	CAL	Calhoun			0	0	Morris	Bob		8
+10/4/1994	REP	Republican	EDU	Commissioner of Education	CHA	Charlotte			0	0	Morris	Bob		3445
+10/4/1994	REP	Republican	EDU	Commissioner of Education	CIT	Citrus			0	0	Morris	Bob		1747
+10/4/1994	REP	Republican	EDU	Commissioner of Education	CLA	Clay			0	0	Morris	Bob		2027
+10/4/1994	REP	Republican	EDU	Commissioner of Education	CLL	Collier			0	0	Morris	Bob		3348
+10/4/1994	REP	Republican	EDU	Commissioner of Education	CLM	Columbia			0	0	Morris	Bob		141
+10/4/1994	REP	Republican	EDU	Commissioner of Education	DES	Desoto			0	0	Morris	Bob		96
+10/4/1994	REP	Republican	EDU	Commissioner of Education	DIX	Dixie			0	0	Morris	Bob		9
+10/4/1994	REP	Republican	EDU	Commissioner of Education	DUV	Duval			0	0	Morris	Bob		2305
+10/4/1994	REP	Republican	EDU	Commissioner of Education	ESC	Escambia			0	0	Morris	Bob		6775
+10/4/1994	REP	Republican	EDU	Commissioner of Education	FLA	Flagler			0	0	Morris	Bob		418
+10/4/1994	REP	Republican	EDU	Commissioner of Education	FRA	Franklin			0	0	Morris	Bob		23
+10/4/1994	REP	Republican	EDU	Commissioner of Education	GAD	Gadsden			0	0	Morris	Bob		30
+10/4/1994	REP	Republican	EDU	Commissioner of Education	GIL	Gilchrist			0	0	Morris	Bob		24
+10/4/1994	REP	Republican	EDU	Commissioner of Education	GLA	Glades			0	0	Morris	Bob		16
+10/4/1994	REP	Republican	EDU	Commissioner of Education	GUL	Gulf			0	0	Morris	Bob		25
+10/4/1994	REP	Republican	EDU	Commissioner of Education	HAM	Hamilton			0	0	Morris	Bob		6
+10/4/1994	REP	Republican	EDU	Commissioner of Education	HAR	Hardee			0	0	Morris	Bob		36
+10/4/1994	REP	Republican	EDU	Commissioner of Education	HEN	Hendry			0	0	Morris	Bob		71
+10/4/1994	REP	Republican	EDU	Commissioner of Education	HER	Hernando			0	0	Morris	Bob		2937
+10/4/1994	REP	Republican	EDU	Commissioner of Education	HIG	Highlands			0	0	Morris	Bob		534
+10/4/1994	REP	Republican	EDU	Commissioner of Education	HIL	Hillsborough			0	0	Morris	Bob		7808
+10/4/1994	REP	Republican	EDU	Commissioner of Education	HOL	Holmes			0	0	Morris	Bob		40
+10/4/1994	REP	Republican	EDU	Commissioner of Education	IND	Indian River			0	0	Morris	Bob		2651
+10/4/1994	REP	Republican	EDU	Commissioner of Education	JAC	Jackson			0	0	Morris	Bob		78
+10/4/1994	REP	Republican	EDU	Commissioner of Education	JEF	Jefferson			0	0	Morris	Bob		21
+10/4/1994	REP	Republican	EDU	Commissioner of Education	LAF	Lafayette			0	0	Morris	Bob		7
+10/4/1994	REP	Republican	EDU	Commissioner of Education	LAK	Lake			0	0	Morris	Bob		6181
+10/4/1994	REP	Republican	EDU	Commissioner of Education	LEE	Lee			0	0	Morris	Bob		12460
+10/4/1994	REP	Republican	EDU	Commissioner of Education	LEO	Leon			0	0	Morris	Bob		1295
+10/4/1994	REP	Republican	EDU	Commissioner of Education	LEV	Levy			0	0	Morris	Bob		96
+10/4/1994	REP	Republican	EDU	Commissioner of Education	LIB	Liberty			0	0	Morris	Bob		4
+10/4/1994	REP	Republican	EDU	Commissioner of Education	MAD	Madison			0	0	Morris	Bob		41
+10/4/1994	REP	Republican	EDU	Commissioner of Education	MAN	Manatee			0	0	Morris	Bob		3209
+10/4/1994	REP	Republican	EDU	Commissioner of Education	MRN	Marion			0	0	Morris	Bob		4325
+10/4/1994	REP	Republican	EDU	Commissioner of Education	MRT	Martin			0	0	Morris	Bob		2363
+10/4/1994	REP	Republican	EDU	Commissioner of Education	DAD	Miami-Dade			0	0	Morris	Bob		14643
+10/4/1994	REP	Republican	EDU	Commissioner of Education	MON	Monroe			0	0	Morris	Bob		393
+10/4/1994	REP	Republican	EDU	Commissioner of Education	NAS	Nassau			0	0	Morris	Bob		170
+10/4/1994	REP	Republican	EDU	Commissioner of Education	OKA	Okaloosa			0	0	Morris	Bob		5035
+10/4/1994	REP	Republican	EDU	Commissioner of Education	OKE	Okeechobee			0	0	Morris	Bob		101
+10/4/1994	REP	Republican	EDU	Commissioner of Education	ORA	Orange			0	0	Morris	Bob		6652
+10/4/1994	REP	Republican	EDU	Commissioner of Education	OSC	Osceola			0	0	Morris	Bob		1147
+10/4/1994	REP	Republican	EDU	Commissioner of Education	PAL	Palm Beach			0	0	Morris	Bob		2711
+10/4/1994	REP	Republican	EDU	Commissioner of Education	PAS	Pasco			0	0	Morris	Bob		4116
+10/4/1994	REP	Republican	EDU	Commissioner of Education	PIN	Pinellas			0	0	Morris	Bob		10132
+10/4/1994	REP	Republican	EDU	Commissioner of Education	POL	Polk			0	0	Morris	Bob		2869
+10/4/1994	REP	Republican	EDU	Commissioner of Education	PUT	Putnam			0	0	Morris	Bob		297
+10/4/1994	REP	Republican	EDU	Commissioner of Education	SAN	Santa Rosa			0	0	Morris	Bob		2321
+10/4/1994	REP	Republican	EDU	Commissioner of Education	SAR	Sarasota			0	0	Morris	Bob		12824
+10/4/1994	REP	Republican	EDU	Commissioner of Education	SEM	Seminole			0	0	Morris	Bob		1809
+10/4/1994	REP	Republican	EDU	Commissioner of Education	STJ	St. Johns			0	0	Morris	Bob		1855
+10/4/1994	REP	Republican	EDU	Commissioner of Education	STL	St. Lucie			0	0	Morris	Bob		1997
+10/4/1994	REP	Republican	EDU	Commissioner of Education	SUM	Sumter			0	0	Morris	Bob		463
+10/4/1994	REP	Republican	EDU	Commissioner of Education	SUW	Suwannee			0	0	Morris	Bob		82
+10/4/1994	REP	Republican	EDU	Commissioner of Education	TAY	Taylor			0	0	Morris	Bob		33
+10/4/1994	REP	Republican	EDU	Commissioner of Education	UNI	Union			0	0	Morris	Bob		6
+10/4/1994	REP	Republican	EDU	Commissioner of Education	VOL	Volusia			0	0	Morris	Bob		3884
+10/4/1994	REP	Republican	EDU	Commissioner of Education	WAK	Wakulla			0	0	Morris	Bob		39
+10/4/1994	REP	Republican	EDU	Commissioner of Education	WAL	Walton			0	0	Morris	Bob		415
+10/4/1994	REP	Republican	EDU	Commissioner of Education	WAS	Washington			0	0	Morris	Bob		48
+10/4/1994	REP	Republican	STS	State Senator	PAS	Pasco	019		0	0	Latvala	Jack		3908
+10/4/1994	REP	Republican	STS	State Senator	PIN	Pinellas	019		0	0	Latvala	Jack		5629
+10/4/1994	REP	Republican	STS	State Senator	PAS	Pasco	019		0	0	Wilson	Jamie		2534
+10/4/1994	REP	Republican	STS	State Senator	PIN	Pinellas	019		0	0	Wilson	Jamie		5123
+10/4/1994	REP	Republican	STR	State Representative	ESC	Escambia	004		0	0	Kerrigan	James	Patrick	204
+10/4/1994	REP	Republican	STR	State Representative	OKA	Okaloosa	004		0	0	Kerrigan	James	Patrick	4285
+10/4/1994	REP	Republican	STR	State Representative	SAN	Santa Rosa	004		0	0	Kerrigan	James	Patrick	1580
+10/4/1994	REP	Republican	STR	State Representative	ESC	Escambia	004		0	0	Melvin	Jerry	G.	154
+10/4/1994	REP	Republican	STR	State Representative	OKA	Okaloosa	004		0	0	Melvin	Jerry	G.	4693
+10/4/1994	REP	Republican	STR	State Representative	SAN	Santa Rosa	004		0	0	Melvin	Jerry	G.	1442
+10/4/1994	REP	Republican	STR	State Representative	LAK	Lake	042		0	0	Bronson	Pamela		2899
+10/4/1994	REP	Republican	STR	State Representative	MRN	Marion	042		0	0	Bronson	Pamela		511
+10/4/1994	REP	Republican	STR	State Representative	SUM	Sumter	042		0	0	Bronson	Pamela		610
+10/4/1994	REP	Republican	STR	State Representative	LAK	Lake	042		0	0	Knowles	David		4138
+10/4/1994	REP	Republican	STR	State Representative	MRN	Marion	042		0	0	Knowles	David		354
+10/4/1994	REP	Republican	STR	State Representative	SUM	Sumter	042		0	0	Knowles	David		384
+10/4/1994	REP	Republican	STR	State Representative	HER	Hernando	045		0	0	Farmerie	Bette		3
+10/4/1994	REP	Republican	STR	State Representative	PAS	Pasco	045		0	0	Farmerie	Bette		1809
+10/4/1994	REP	Republican	STR	State Representative	HER	Hernando	045		0	0	Fasano	Mike		7
+10/4/1994	REP	Republican	STR	State Representative	PAS	Pasco	045		0	0	Fasano	Mike		2605
+10/4/1994	REP	Republican	STR	State Representative	HIL	Hillsborough	047		0	0	Craig	Will		1236
+10/4/1994	REP	Republican	STR	State Representative	PIN	Pinellas	047		0	0	Craig	Will		332
+10/4/1994	REP	Republican	STR	State Representative	HIL	Hillsborough	047		0	0	Wallace	Rob		1420
+10/4/1994	REP	Republican	STR	State Representative	PIN	Pinellas	047		0	0	Wallace	Rob		452
+10/4/1994	REP	Republican	STR	State Representative	SAR	Sarasota	069		0	0	Brown	Jim		3363
+10/4/1994	REP	Republican	STR	State Representative	SAR	Sarasota	069		0	0	Smith	Stan		3773
+10/4/1994	REP	Republican	STR	State Representative	CLL	Collier	075		0	0	Dudley	Chris	F.	250
+10/4/1994	REP	Republican	STR	State Representative	LEE	Lee	075		0	0	Dudley	Chris	F.	3462
+10/4/1994	REP	Republican	STR	State Representative	CLL	Collier	075		0	0	Livingston	Ralph	L.	540
+10/4/1994	REP	Republican	STR	State Representative	LEE	Lee	075		0	0	Livingston	Ralph	L.	5396
+10/4/1994	REP	Republican	STR	State Representative	DAD	Miami-Dade	116		0	0	Gonzalez	Peter	J.	1142
+10/4/1994	REP	Republican	STR	State Representative	DAD	Miami-Dade	116		0	0	Safdie	Charlie		839
+10/4/1994	REP	Republican	STR	State Representative	DAD	Miami-Dade	117		0	0	Armesto-Garcia	Eladio		1972
+10/4/1994	REP	Republican	STR	State Representative	DAD	Miami-Dade	117		0	0	Lacasa	Carlos		2342
+10/4/1994	NOP	Non-Partisan	EWF	Englewood Area Fire Control District	CHA	Charlotte		001	0	0	Field	John	W.	505
+10/4/1994	NOP	Non-Partisan	EWF	Englewood Area Fire Control District	SAR	Sarasota		001	0	0	Field	John	W.	534
+10/4/1994	NOP	Non-Partisan	EWF	Englewood Area Fire Control District	CHA	Charlotte		001	0	0	Witham Jr.	Burton	B.	673
+10/4/1994	NOP	Non-Partisan	EWF	Englewood Area Fire Control District	SAR	Sarasota		001	0	0	Witham Jr.	Burton	B.	559
+10/4/1994	NOP	Non-Partisan	EWF	Englewood Area Fire Control District	CHA	Charlotte		002	0	0	Gibson	Robert	J.	460
+10/4/1994	NOP	Non-Partisan	EWF	Englewood Area Fire Control District	SAR	Sarasota		002	0	0	Gibson	Robert	J.	462
+10/4/1994	NOP	Non-Partisan	EWF	Englewood Area Fire Control District	CHA	Charlotte		002	0	0	McHenry	Robert		711
+10/4/1994	NOP	Non-Partisan	EWF	Englewood Area Fire Control District	SAR	Sarasota		002	0	0	McHenry	Robert		607

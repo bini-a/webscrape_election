@@ -1,0 +1,615 @@
+ElectionDate	PartyCode	PartyName	RaceCode	OfficeDesc	CountyCode	CountyName	Juris1num	Juris2num	Precincts	PrecinctsReporting	CanNameLast	CanNameFirst	CanNameMiddle	CanVotes
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	ALA	Alachua			0	0	Frank Mann	Steve Pajcic	/	7641
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	BAK	Baker			0	0	Frank Mann	Steve Pajcic	/	845
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	BAY	Bay			0	0	Frank Mann	Steve Pajcic	/	5233
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRA	Bradford			0	0	Frank Mann	Steve Pajcic	/	1044
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRE	Brevard			0	0	Frank Mann	Steve Pajcic	/	8722
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRO	Broward			0	0	Frank Mann	Steve Pajcic	/	49083
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	CAL	Calhoun			0	0	Frank Mann	Steve Pajcic	/	780
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	CHA	Charlotte			0	0	Frank Mann	Steve Pajcic	/	2999
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	CIT	Citrus			0	0	Frank Mann	Steve Pajcic	/	3503
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLA	Clay			0	0	Frank Mann	Steve Pajcic	/	2453
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLL	Collier			0	0	Frank Mann	Steve Pajcic	/	2008
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLM	Columbia			0	0	Frank Mann	Steve Pajcic	/	1918
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	DES	Desoto			0	0	Frank Mann	Steve Pajcic	/	571
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	DIX	Dixie			0	0	Frank Mann	Steve Pajcic	/	669
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	DUV	Duval			0	0	Frank Mann	Steve Pajcic	/	33612
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	ESC	Escambia			0	0	Frank Mann	Steve Pajcic	/	10510
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	FLA	Flagler			0	0	Frank Mann	Steve Pajcic	/	765
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	FRA	Franklin			0	0	Frank Mann	Steve Pajcic	/	1037
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	GAD	Gadsden			0	0	Frank Mann	Steve Pajcic	/	2918
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	GIL	Gilchrist			0	0	Frank Mann	Steve Pajcic	/	446
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	GLA	Glades			0	0	Frank Mann	Steve Pajcic	/	335
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	GUL	Gulf			0	0	Frank Mann	Steve Pajcic	/	1427
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	HAM	Hamilton			0	0	Frank Mann	Steve Pajcic	/	691
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	HAR	Hardee			0	0	Frank Mann	Steve Pajcic	/	646
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	HEN	Hendry			0	0	Frank Mann	Steve Pajcic	/	589
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	HER	Hernando			0	0	Frank Mann	Steve Pajcic	/	2782
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	HIG	Highlands			0	0	Frank Mann	Steve Pajcic	/	1493
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	HIL	Hillsborough			0	0	Frank Mann	Steve Pajcic	/	23179
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	HOL	Holmes			0	0	Frank Mann	Steve Pajcic	/	863
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	IND	Indian River			0	0	Frank Mann	Steve Pajcic	/	1475
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	JAC	Jackson			0	0	Frank Mann	Steve Pajcic	/	1601
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	JEF	Jefferson			0	0	Frank Mann	Steve Pajcic	/	1038
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	LAF	Lafayette			0	0	Frank Mann	Steve Pajcic	/	328
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	LAK	Lake			0	0	Frank Mann	Steve Pajcic	/	2890
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEE	Lee			0	0	Frank Mann	Steve Pajcic	/	11898
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEO	Leon			0	0	Frank Mann	Steve Pajcic	/	14612
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEV	Levy			0	0	Frank Mann	Steve Pajcic	/	1187
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	LIB	Liberty			0	0	Frank Mann	Steve Pajcic	/	390
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	MAD	Madison			0	0	Frank Mann	Steve Pajcic	/	1059
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	MAN	Manatee			0	0	Frank Mann	Steve Pajcic	/	5549
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	MRN	Marion			0	0	Frank Mann	Steve Pajcic	/	4547
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	MRT	Martin			0	0	Frank Mann	Steve Pajcic	/	1589
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	DAD	Miami-Dade			0	0	Frank Mann	Steve Pajcic	/	65704
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	MON	Monroe			0	0	Frank Mann	Steve Pajcic	/	4139
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	NAS	Nassau			0	0	Frank Mann	Steve Pajcic	/	1767
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	OKA	Okaloosa			0	0	Frank Mann	Steve Pajcic	/	5017
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	OKE	Okeechobee			0	0	Frank Mann	Steve Pajcic	/	528
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	ORA	Orange			0	0	Frank Mann	Steve Pajcic	/	11350
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	OSC	Osceola			0	0	Frank Mann	Steve Pajcic	/	1447
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	PAL	Palm Beach			0	0	Frank Mann	Steve Pajcic	/	39843
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	PAS	Pasco			0	0	Frank Mann	Steve Pajcic	/	7795
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	PIN	Pinellas			0	0	Frank Mann	Steve Pajcic	/	24541
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	POL	Polk			0	0	Frank Mann	Steve Pajcic	/	11078
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	PUT	Putnam			0	0	Frank Mann	Steve Pajcic	/	2791
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	SAN	Santa Rosa			0	0	Frank Mann	Steve Pajcic	/	2885
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	SAR	Sarasota			0	0	Frank Mann	Steve Pajcic	/	5098
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	SEM	Seminole			0	0	Frank Mann	Steve Pajcic	/	3686
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	STJ	St. Johns			0	0	Frank Mann	Steve Pajcic	/	2328
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	STL	St. Lucie			0	0	Frank Mann	Steve Pajcic	/	2767
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	SUM	Sumter			0	0	Frank Mann	Steve Pajcic	/	858
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	SUW	Suwannee			0	0	Frank Mann	Steve Pajcic	/	1449
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	TAY	Taylor			0	0	Frank Mann	Steve Pajcic	/	886
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	UNI	Union			0	0	Frank Mann	Steve Pajcic	/	390
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	VOL	Volusia			0	0	Frank Mann	Steve Pajcic	/	12664
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAK	Wakulla			0	0	Frank Mann	Steve Pajcic	/	975
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAL	Walton			0	0	Frank Mann	Steve Pajcic	/	1840
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAS	Washington			0	0	Frank Mann	Steve Pajcic	/	676
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	ALA	Alachua			0	0	Marshall L. Harris	Jim Smith	/	6165
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	BAK	Baker			0	0	Marshall L. Harris	Jim Smith	/	2625
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	BAY	Bay			0	0	Marshall L. Harris	Jim Smith	/	7052
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRA	Bradford			0	0	Marshall L. Harris	Jim Smith	/	2624
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRE	Brevard			0	0	Marshall L. Harris	Jim Smith	/	11302
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRO	Broward			0	0	Marshall L. Harris	Jim Smith	/	25322
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	CAL	Calhoun			0	0	Marshall L. Harris	Jim Smith	/	1782
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	CHA	Charlotte			0	0	Marshall L. Harris	Jim Smith	/	1536
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	CIT	Citrus			0	0	Marshall L. Harris	Jim Smith	/	6677
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLA	Clay			0	0	Marshall L. Harris	Jim Smith	/	4134
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLL	Collier			0	0	Marshall L. Harris	Jim Smith	/	721
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLM	Columbia			0	0	Marshall L. Harris	Jim Smith	/	5154
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	DES	Desoto			0	0	Marshall L. Harris	Jim Smith	/	1168
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	DIX	Dixie			0	0	Marshall L. Harris	Jim Smith	/	1493
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	DUV	Duval			0	0	Marshall L. Harris	Jim Smith	/	24571
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	ESC	Escambia			0	0	Marshall L. Harris	Jim Smith	/	17146
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	FLA	Flagler			0	0	Marshall L. Harris	Jim Smith	/	759
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	FRA	Franklin			0	0	Marshall L. Harris	Jim Smith	/	1615
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	GAD	Gadsden			0	0	Marshall L. Harris	Jim Smith	/	3191
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	GIL	Gilchrist			0	0	Marshall L. Harris	Jim Smith	/	1537
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	GLA	Glades			0	0	Marshall L. Harris	Jim Smith	/	479
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	GUL	Gulf			0	0	Marshall L. Harris	Jim Smith	/	2412
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	HAM	Hamilton			0	0	Marshall L. Harris	Jim Smith	/	1415
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	HAR	Hardee			0	0	Marshall L. Harris	Jim Smith	/	1917
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	HEN	Hendry			0	0	Marshall L. Harris	Jim Smith	/	758
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	HER	Hernando			0	0	Marshall L. Harris	Jim Smith	/	3100
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	HIG	Highlands			0	0	Marshall L. Harris	Jim Smith	/	2599
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	HIL	Hillsborough			0	0	Marshall L. Harris	Jim Smith	/	27892
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	HOL	Holmes			0	0	Marshall L. Harris	Jim Smith	/	2805
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	IND	Indian River			0	0	Marshall L. Harris	Jim Smith	/	1638
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	JAC	Jackson			0	0	Marshall L. Harris	Jim Smith	/	5069
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	JEF	Jefferson			0	0	Marshall L. Harris	Jim Smith	/	1382
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	LAF	Lafayette			0	0	Marshall L. Harris	Jim Smith	/	1289
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	LAK	Lake			0	0	Marshall L. Harris	Jim Smith	/	4138
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEE	Lee			0	0	Marshall L. Harris	Jim Smith	/	3725
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEO	Leon			0	0	Marshall L. Harris	Jim Smith	/	17057
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEV	Levy			0	0	Marshall L. Harris	Jim Smith	/	2948
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	LIB	Liberty			0	0	Marshall L. Harris	Jim Smith	/	1162
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	MAD	Madison			0	0	Marshall L. Harris	Jim Smith	/	1934
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	MAN	Manatee			0	0	Marshall L. Harris	Jim Smith	/	6398
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	MRN	Marion			0	0	Marshall L. Harris	Jim Smith	/	8720
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	MRT	Martin			0	0	Marshall L. Harris	Jim Smith	/	1263
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	DAD	Miami-Dade			0	0	Marshall L. Harris	Jim Smith	/	39048
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	MON	Monroe			0	0	Marshall L. Harris	Jim Smith	/	3579
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	NAS	Nassau			0	0	Marshall L. Harris	Jim Smith	/	3150
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	OKA	Okaloosa			0	0	Marshall L. Harris	Jim Smith	/	7225
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	OKE	Okeechobee			0	0	Marshall L. Harris	Jim Smith	/	924
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	ORA	Orange			0	0	Marshall L. Harris	Jim Smith	/	14144
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	OSC	Osceola			0	0	Marshall L. Harris	Jim Smith	/	2837
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	PAL	Palm Beach			0	0	Marshall L. Harris	Jim Smith	/	19191
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	PAS	Pasco			0	0	Marshall L. Harris	Jim Smith	/	9203
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	PIN	Pinellas			0	0	Marshall L. Harris	Jim Smith	/	19653
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	POL	Polk			0	0	Marshall L. Harris	Jim Smith	/	16597
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	PUT	Putnam			0	0	Marshall L. Harris	Jim Smith	/	4552
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	SAN	Santa Rosa			0	0	Marshall L. Harris	Jim Smith	/	6775
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	SAR	Sarasota			0	0	Marshall L. Harris	Jim Smith	/	3675
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	SEM	Seminole			0	0	Marshall L. Harris	Jim Smith	/	5024
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	STJ	St. Johns			0	0	Marshall L. Harris	Jim Smith	/	2871
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	STL	St. Lucie			0	0	Marshall L. Harris	Jim Smith	/	2590
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	SUM	Sumter			0	0	Marshall L. Harris	Jim Smith	/	1954
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	SUW	Suwannee			0	0	Marshall L. Harris	Jim Smith	/	3781
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	TAY	Taylor			0	0	Marshall L. Harris	Jim Smith	/	1655
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	UNI	Union			0	0	Marshall L. Harris	Jim Smith	/	1468
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	VOL	Volusia			0	0	Marshall L. Harris	Jim Smith	/	13249
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAK	Wakulla			0	0	Marshall L. Harris	Jim Smith	/	2246
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAL	Walton			0	0	Marshall L. Harris	Jim Smith	/	4879
+9/30/1986	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAS	Washington			0	0	Marshall L. Harris	Jim Smith	/	1670
+9/30/1986	DEM	Democrat	ATG	Attorney General	ALA	Alachua			0	0	Butterworth	Robert	A. 'Bob'	3773
+9/30/1986	DEM	Democrat	ATG	Attorney General	BAK	Baker			0	0	Butterworth	Robert	A. 'Bob'	1353
+9/30/1986	DEM	Democrat	ATG	Attorney General	BAY	Bay			0	0	Butterworth	Robert	A. 'Bob'	5038
+9/30/1986	DEM	Democrat	ATG	Attorney General	BRA	Bradford			0	0	Butterworth	Robert	A. 'Bob'	1266
+9/30/1986	DEM	Democrat	ATG	Attorney General	BRE	Brevard			0	0	Butterworth	Robert	A. 'Bob'	7448
+9/30/1986	DEM	Democrat	ATG	Attorney General	BRO	Broward			0	0	Butterworth	Robert	A. 'Bob'	62139
+9/30/1986	DEM	Democrat	ATG	Attorney General	CAL	Calhoun			0	0	Butterworth	Robert	A. 'Bob'	1050
+9/30/1986	DEM	Democrat	ATG	Attorney General	CHA	Charlotte			0	0	Butterworth	Robert	A. 'Bob'	2208
+9/30/1986	DEM	Democrat	ATG	Attorney General	CIT	Citrus			0	0	Butterworth	Robert	A. 'Bob'	3770
+9/30/1986	DEM	Democrat	ATG	Attorney General	CLA	Clay			0	0	Butterworth	Robert	A. 'Bob'	2344
+9/30/1986	DEM	Democrat	ATG	Attorney General	CLL	Collier			0	0	Butterworth	Robert	A. 'Bob'	1449
+9/30/1986	DEM	Democrat	ATG	Attorney General	CLM	Columbia			0	0	Butterworth	Robert	A. 'Bob'	2220
+9/30/1986	DEM	Democrat	ATG	Attorney General	DES	Desoto			0	0	Butterworth	Robert	A. 'Bob'	909
+9/30/1986	DEM	Democrat	ATG	Attorney General	DIX	Dixie			0	0	Butterworth	Robert	A. 'Bob'	650
+9/30/1986	DEM	Democrat	ATG	Attorney General	DUV	Duval			0	0	Butterworth	Robert	A. 'Bob'	23800
+9/30/1986	DEM	Democrat	ATG	Attorney General	ESC	Escambia			0	0	Butterworth	Robert	A. 'Bob'	11968
+9/30/1986	DEM	Democrat	ATG	Attorney General	FLA	Flagler			0	0	Butterworth	Robert	A. 'Bob'	348
+9/30/1986	DEM	Democrat	ATG	Attorney General	FRA	Franklin			0	0	Butterworth	Robert	A. 'Bob'	984
+9/30/1986	DEM	Democrat	ATG	Attorney General	GAD	Gadsden			0	0	Butterworth	Robert	A. 'Bob'	2887
+9/30/1986	DEM	Democrat	ATG	Attorney General	GIL	Gilchrist			0	0	Butterworth	Robert	A. 'Bob'	559
+9/30/1986	DEM	Democrat	ATG	Attorney General	GLA	Glades			0	0	Butterworth	Robert	A. 'Bob'	494
+9/30/1986	DEM	Democrat	ATG	Attorney General	GUL	Gulf			0	0	Butterworth	Robert	A. 'Bob'	1488
+9/30/1986	DEM	Democrat	ATG	Attorney General	HAM	Hamilton			0	0	Butterworth	Robert	A. 'Bob'	576
+9/30/1986	DEM	Democrat	ATG	Attorney General	HAR	Hardee			0	0	Butterworth	Robert	A. 'Bob'	1169
+9/30/1986	DEM	Democrat	ATG	Attorney General	HEN	Hendry			0	0	Butterworth	Robert	A. 'Bob'	713
+9/30/1986	DEM	Democrat	ATG	Attorney General	HER	Hernando			0	0	Butterworth	Robert	A. 'Bob'	2519
+9/30/1986	DEM	Democrat	ATG	Attorney General	HIG	Highlands			0	0	Butterworth	Robert	A. 'Bob'	1819
+9/30/1986	DEM	Democrat	ATG	Attorney General	HIL	Hillsborough			0	0	Butterworth	Robert	A. 'Bob'	24203
+9/30/1986	DEM	Democrat	ATG	Attorney General	HOL	Holmes			0	0	Butterworth	Robert	A. 'Bob'	1108
+9/30/1986	DEM	Democrat	ATG	Attorney General	IND	Indian River			0	0	Butterworth	Robert	A. 'Bob'	1490
+9/30/1986	DEM	Democrat	ATG	Attorney General	JAC	Jackson			0	0	Butterworth	Robert	A. 'Bob'	1990
+9/30/1986	DEM	Democrat	ATG	Attorney General	JEF	Jefferson			0	0	Butterworth	Robert	A. 'Bob'	1005
+9/30/1986	DEM	Democrat	ATG	Attorney General	LAF	Lafayette			0	0	Butterworth	Robert	A. 'Bob'	472
+9/30/1986	DEM	Democrat	ATG	Attorney General	LAK	Lake			0	0	Butterworth	Robert	A. 'Bob'	2040
+9/30/1986	DEM	Democrat	ATG	Attorney General	LEE	Lee			0	0	Butterworth	Robert	A. 'Bob'	7116
+9/30/1986	DEM	Democrat	ATG	Attorney General	LEO	Leon			0	0	Butterworth	Robert	A. 'Bob'	12817
+9/30/1986	DEM	Democrat	ATG	Attorney General	LEV	Levy			0	0	Butterworth	Robert	A. 'Bob'	1068
+9/30/1986	DEM	Democrat	ATG	Attorney General	LIB	Liberty			0	0	Butterworth	Robert	A. 'Bob'	656
+9/30/1986	DEM	Democrat	ATG	Attorney General	MAD	Madison			0	0	Butterworth	Robert	A. 'Bob'	968
+9/30/1986	DEM	Democrat	ATG	Attorney General	MAN	Manatee			0	0	Butterworth	Robert	A. 'Bob'	4512
+9/30/1986	DEM	Democrat	ATG	Attorney General	MRN	Marion			0	0	Butterworth	Robert	A. 'Bob'	3904
+9/30/1986	DEM	Democrat	ATG	Attorney General	MRT	Martin			0	0	Butterworth	Robert	A. 'Bob'	1655
+9/30/1986	DEM	Democrat	ATG	Attorney General	DAD	Miami-Dade			0	0	Butterworth	Robert	A. 'Bob'	63532
+9/30/1986	DEM	Democrat	ATG	Attorney General	MON	Monroe			0	0	Butterworth	Robert	A. 'Bob'	4151
+9/30/1986	DEM	Democrat	ATG	Attorney General	NAS	Nassau			0	0	Butterworth	Robert	A. 'Bob'	1782
+9/30/1986	DEM	Democrat	ATG	Attorney General	OKA	Okaloosa			0	0	Butterworth	Robert	A. 'Bob'	5433
+9/30/1986	DEM	Democrat	ATG	Attorney General	OKE	Okeechobee			0	0	Butterworth	Robert	A. 'Bob'	786
+9/30/1986	DEM	Democrat	ATG	Attorney General	ORA	Orange			0	0	Butterworth	Robert	A. 'Bob'	7823
+9/30/1986	DEM	Democrat	ATG	Attorney General	OSC	Osceola			0	0	Butterworth	Robert	A. 'Bob'	1346
+9/30/1986	DEM	Democrat	ATG	Attorney General	PAL	Palm Beach			0	0	Butterworth	Robert	A. 'Bob'	38546
+9/30/1986	DEM	Democrat	ATG	Attorney General	PAS	Pasco			0	0	Butterworth	Robert	A. 'Bob'	7011
+9/30/1986	DEM	Democrat	ATG	Attorney General	PIN	Pinellas			0	0	Butterworth	Robert	A. 'Bob'	18053
+9/30/1986	DEM	Democrat	ATG	Attorney General	POL	Polk			0	0	Butterworth	Robert	A. 'Bob'	13208
+9/30/1986	DEM	Democrat	ATG	Attorney General	PUT	Putnam			0	0	Butterworth	Robert	A. 'Bob'	2700
+9/30/1986	DEM	Democrat	ATG	Attorney General	SAN	Santa Rosa			0	0	Butterworth	Robert	A. 'Bob'	4004
+9/30/1986	DEM	Democrat	ATG	Attorney General	SAR	Sarasota			0	0	Butterworth	Robert	A. 'Bob'	3219
+9/30/1986	DEM	Democrat	ATG	Attorney General	SEM	Seminole			0	0	Butterworth	Robert	A. 'Bob'	2779
+9/30/1986	DEM	Democrat	ATG	Attorney General	STJ	St. Johns			0	0	Butterworth	Robert	A. 'Bob'	1992
+9/30/1986	DEM	Democrat	ATG	Attorney General	STL	St. Lucie			0	0	Butterworth	Robert	A. 'Bob'	2898
+9/30/1986	DEM	Democrat	ATG	Attorney General	SUM	Sumter			0	0	Butterworth	Robert	A. 'Bob'	954
+9/30/1986	DEM	Democrat	ATG	Attorney General	SUW	Suwannee			0	0	Butterworth	Robert	A. 'Bob'	1545
+9/30/1986	DEM	Democrat	ATG	Attorney General	TAY	Taylor			0	0	Butterworth	Robert	A. 'Bob'	998
+9/30/1986	DEM	Democrat	ATG	Attorney General	UNI	Union			0	0	Butterworth	Robert	A. 'Bob'	632
+9/30/1986	DEM	Democrat	ATG	Attorney General	VOL	Volusia			0	0	Butterworth	Robert	A. 'Bob'	5524
+9/30/1986	DEM	Democrat	ATG	Attorney General	WAK	Wakulla			0	0	Butterworth	Robert	A. 'Bob'	1369
+9/30/1986	DEM	Democrat	ATG	Attorney General	WAL	Walton			0	0	Butterworth	Robert	A. 'Bob'	2295
+9/30/1986	DEM	Democrat	ATG	Attorney General	WAS	Washington			0	0	Butterworth	Robert	A. 'Bob'	888
+9/30/1986	DEM	Democrat	ATG	Attorney General	ALA	Alachua			0	0	Dunn	Ed		9147
+9/30/1986	DEM	Democrat	ATG	Attorney General	BAK	Baker			0	0	Dunn	Ed		1968
+9/30/1986	DEM	Democrat	ATG	Attorney General	BAY	Bay			0	0	Dunn	Ed		6426
+9/30/1986	DEM	Democrat	ATG	Attorney General	BRA	Bradford			0	0	Dunn	Ed		2251
+9/30/1986	DEM	Democrat	ATG	Attorney General	BRE	Brevard			0	0	Dunn	Ed		12300
+9/30/1986	DEM	Democrat	ATG	Attorney General	BRO	Broward			0	0	Dunn	Ed		12774
+9/30/1986	DEM	Democrat	ATG	Attorney General	CAL	Calhoun			0	0	Dunn	Ed		1386
+9/30/1986	DEM	Democrat	ATG	Attorney General	CHA	Charlotte			0	0	Dunn	Ed		1884
+9/30/1986	DEM	Democrat	ATG	Attorney General	CIT	Citrus			0	0	Dunn	Ed		6075
+9/30/1986	DEM	Democrat	ATG	Attorney General	CLA	Clay			0	0	Dunn	Ed		4076
+9/30/1986	DEM	Democrat	ATG	Attorney General	CLL	Collier			0	0	Dunn	Ed		1153
+9/30/1986	DEM	Democrat	ATG	Attorney General	CLM	Columbia			0	0	Dunn	Ed		4355
+9/30/1986	DEM	Democrat	ATG	Attorney General	DES	Desoto			0	0	Dunn	Ed		817
+9/30/1986	DEM	Democrat	ATG	Attorney General	DIX	Dixie			0	0	Dunn	Ed		1452
+9/30/1986	DEM	Democrat	ATG	Attorney General	DUV	Duval			0	0	Dunn	Ed		30561
+9/30/1986	DEM	Democrat	ATG	Attorney General	ESC	Escambia			0	0	Dunn	Ed		12694
+9/30/1986	DEM	Democrat	ATG	Attorney General	FLA	Flagler			0	0	Dunn	Ed		1245
+9/30/1986	DEM	Democrat	ATG	Attorney General	FRA	Franklin			0	0	Dunn	Ed		1399
+9/30/1986	DEM	Democrat	ATG	Attorney General	GAD	Gadsden			0	0	Dunn	Ed		2834
+9/30/1986	DEM	Democrat	ATG	Attorney General	GIL	Gilchrist			0	0	Dunn	Ed		1375
+9/30/1986	DEM	Democrat	ATG	Attorney General	GLA	Glades			0	0	Dunn	Ed		315
+9/30/1986	DEM	Democrat	ATG	Attorney General	GUL	Gulf			0	0	Dunn	Ed		2058
+9/30/1986	DEM	Democrat	ATG	Attorney General	HAM	Hamilton			0	0	Dunn	Ed		1151
+9/30/1986	DEM	Democrat	ATG	Attorney General	HAR	Hardee			0	0	Dunn	Ed		1078
+9/30/1986	DEM	Democrat	ATG	Attorney General	HEN	Hendry			0	0	Dunn	Ed		565
+9/30/1986	DEM	Democrat	ATG	Attorney General	HER	Hernando			0	0	Dunn	Ed		3655
+9/30/1986	DEM	Democrat	ATG	Attorney General	HIG	Highlands			0	0	Dunn	Ed		2179
+9/30/1986	DEM	Democrat	ATG	Attorney General	HIL	Hillsborough			0	0	Dunn	Ed		24626
+9/30/1986	DEM	Democrat	ATG	Attorney General	HOL	Holmes			0	0	Dunn	Ed		2155
+9/30/1986	DEM	Democrat	ATG	Attorney General	IND	Indian River			0	0	Dunn	Ed		1522
+9/30/1986	DEM	Democrat	ATG	Attorney General	JAC	Jackson			0	0	Dunn	Ed		4130
+9/30/1986	DEM	Democrat	ATG	Attorney General	JEF	Jefferson			0	0	Dunn	Ed		1364
+9/30/1986	DEM	Democrat	ATG	Attorney General	LAF	Lafayette			0	0	Dunn	Ed		1015
+9/30/1986	DEM	Democrat	ATG	Attorney General	LAK	Lake			0	0	Dunn	Ed		4611
+9/30/1986	DEM	Democrat	ATG	Attorney General	LEE	Lee			0	0	Dunn	Ed		7180
+9/30/1986	DEM	Democrat	ATG	Attorney General	LEO	Leon			0	0	Dunn	Ed		16566
+9/30/1986	DEM	Democrat	ATG	Attorney General	LEV	Levy			0	0	Dunn	Ed		2453
+9/30/1986	DEM	Democrat	ATG	Attorney General	LIB	Liberty			0	0	Dunn	Ed		796
+9/30/1986	DEM	Democrat	ATG	Attorney General	MAD	Madison			0	0	Dunn	Ed		1962
+9/30/1986	DEM	Democrat	ATG	Attorney General	MAN	Manatee			0	0	Dunn	Ed		7205
+9/30/1986	DEM	Democrat	ATG	Attorney General	MRN	Marion			0	0	Dunn	Ed		9007
+9/30/1986	DEM	Democrat	ATG	Attorney General	MRT	Martin			0	0	Dunn	Ed		1053
+9/30/1986	DEM	Democrat	ATG	Attorney General	DAD	Miami-Dade			0	0	Dunn	Ed		33515
+9/30/1986	DEM	Democrat	ATG	Attorney General	MON	Monroe			0	0	Dunn	Ed		3271
+9/30/1986	DEM	Democrat	ATG	Attorney General	NAS	Nassau			0	0	Dunn	Ed		2750
+9/30/1986	DEM	Democrat	ATG	Attorney General	OKA	Okaloosa			0	0	Dunn	Ed		5729
+9/30/1986	DEM	Democrat	ATG	Attorney General	OKE	Okeechobee			0	0	Dunn	Ed		588
+9/30/1986	DEM	Democrat	ATG	Attorney General	ORA	Orange			0	0	Dunn	Ed		16306
+9/30/1986	DEM	Democrat	ATG	Attorney General	OSC	Osceola			0	0	Dunn	Ed		2851
+9/30/1986	DEM	Democrat	ATG	Attorney General	PAL	Palm Beach			0	0	Dunn	Ed		18054
+9/30/1986	DEM	Democrat	ATG	Attorney General	PAS	Pasco			0	0	Dunn	Ed		9673
+9/30/1986	DEM	Democrat	ATG	Attorney General	PIN	Pinellas			0	0	Dunn	Ed		24986
+9/30/1986	DEM	Democrat	ATG	Attorney General	POL	Polk			0	0	Dunn	Ed		12789
+9/30/1986	DEM	Democrat	ATG	Attorney General	PUT	Putnam			0	0	Dunn	Ed		4323
+9/30/1986	DEM	Democrat	ATG	Attorney General	SAN	Santa Rosa			0	0	Dunn	Ed		4748
+9/30/1986	DEM	Democrat	ATG	Attorney General	SAR	Sarasota			0	0	Dunn	Ed		5299
+9/30/1986	DEM	Democrat	ATG	Attorney General	SEM	Seminole			0	0	Dunn	Ed		5694
+9/30/1986	DEM	Democrat	ATG	Attorney General	STJ	St. Johns			0	0	Dunn	Ed		3110
+9/30/1986	DEM	Democrat	ATG	Attorney General	STL	St. Lucie			0	0	Dunn	Ed		2343
+9/30/1986	DEM	Democrat	ATG	Attorney General	SUM	Sumter			0	0	Dunn	Ed		1770
+9/30/1986	DEM	Democrat	ATG	Attorney General	SUW	Suwannee			0	0	Dunn	Ed		3057
+9/30/1986	DEM	Democrat	ATG	Attorney General	TAY	Taylor			0	0	Dunn	Ed		1351
+9/30/1986	DEM	Democrat	ATG	Attorney General	UNI	Union			0	0	Dunn	Ed		1119
+9/30/1986	DEM	Democrat	ATG	Attorney General	VOL	Volusia			0	0	Dunn	Ed		19684
+9/30/1986	DEM	Democrat	ATG	Attorney General	WAK	Wakulla			0	0	Dunn	Ed		1596
+9/30/1986	DEM	Democrat	ATG	Attorney General	WAL	Walton			0	0	Dunn	Ed		3622
+9/30/1986	DEM	Democrat	ATG	Attorney General	WAS	Washington			0	0	Dunn	Ed		1367
+9/30/1986	DEM	Democrat	STS	State Senator	BAK	Baker	005		0	0	Hollingsworth	Wayne		2358
+9/30/1986	DEM	Democrat	STS	State Senator	BRA	Bradford	005		0	0	Hollingsworth	Wayne		2450
+9/30/1986	DEM	Democrat	STS	State Senator	CLM	Columbia	005		0	0	Hollingsworth	Wayne		5836
+9/30/1986	DEM	Democrat	STS	State Senator	HAM	Hamilton	005		0	0	Hollingsworth	Wayne		1400
+9/30/1986	DEM	Democrat	STS	State Senator	JEF	Jefferson	005		0	0	Hollingsworth	Wayne		1144
+9/30/1986	DEM	Democrat	STS	State Senator	LEO	Leon	005		0	0	Hollingsworth	Wayne		7598
+9/30/1986	DEM	Democrat	STS	State Senator	MAD	Madison	005		0	0	Hollingsworth	Wayne		1808
+9/30/1986	DEM	Democrat	STS	State Senator	SUW	Suwannee	005		0	0	Hollingsworth	Wayne		3794
+9/30/1986	DEM	Democrat	STS	State Senator	TAY	Taylor	005		0	0	Hollingsworth	Wayne		1512
+9/30/1986	DEM	Democrat	STS	State Senator	UNI	Union	005		0	0	Hollingsworth	Wayne		1549
+9/30/1986	DEM	Democrat	STS	State Senator	BAK	Baker	005		0	0	Nichols	Doug		1182
+9/30/1986	DEM	Democrat	STS	State Senator	BRA	Bradford	005		0	0	Nichols	Doug		1083
+9/30/1986	DEM	Democrat	STS	State Senator	CLM	Columbia	005		0	0	Nichols	Doug		1450
+9/30/1986	DEM	Democrat	STS	State Senator	HAM	Hamilton	005		0	0	Nichols	Doug		609
+9/30/1986	DEM	Democrat	STS	State Senator	JEF	Jefferson	005		0	0	Nichols	Doug		1355
+9/30/1986	DEM	Democrat	STS	State Senator	LEO	Leon	005		0	0	Nichols	Doug		16214
+9/30/1986	DEM	Democrat	STS	State Senator	MAD	Madison	005		0	0	Nichols	Doug		1375
+9/30/1986	DEM	Democrat	STS	State Senator	SUW	Suwannee	005		0	0	Nichols	Doug		1352
+9/30/1986	DEM	Democrat	STS	State Senator	TAY	Taylor	005		0	0	Nichols	Doug		990
+9/30/1986	DEM	Democrat	STS	State Senator	UNI	Union	005		0	0	Nichols	Doug		269
+9/30/1986	DEM	Democrat	STR	State Representative	ESC	Escambia	003		0	0	Fritz	Norman		6110
+9/30/1986	DEM	Democrat	STR	State Representative	SAN	Santa Rosa	003		0	0	Fritz	Norman		974
+9/30/1986	DEM	Democrat	STR	State Representative	ESC	Escambia	003		0	0	Kerrigan	Bob		3822
+9/30/1986	DEM	Democrat	STR	State Representative	SAN	Santa Rosa	003		0	0	Kerrigan	Bob		368
+9/30/1986	DEM	Democrat	STR	State Representative	OKA	Okaloosa	005		0	0	Boles	Ken		3838
+9/30/1986	DEM	Democrat	STR	State Representative	WAL	Walton	005		0	0	Boles	Ken		859
+9/30/1986	DEM	Democrat	STR	State Representative	OKA	Okaloosa	005		0	0	Chesser	Mike		5314
+9/30/1986	DEM	Democrat	STR	State Representative	WAL	Walton	005		0	0	Chesser	Mike		1070
+9/30/1986	DEM	Democrat	STR	State Representative	LEO	Leon	010		0	0	Bellamy	Carol		10447
+9/30/1986	DEM	Democrat	STR	State Representative	LEO	Leon	010		0	0	Rudd	Hurley		12208
+9/30/1986	DEM	Democrat	STR	State Representative	CLM	Columbia	012		0	0	Conner, Jr.	Doyle		1680
+9/30/1986	DEM	Democrat	STR	State Representative	HAM	Hamilton	012		0	0	Conner, Jr.	Doyle		853
+9/30/1986	DEM	Democrat	STR	State Representative	MAD	Madison	012		0	0	Conner, Jr.	Doyle		1564
+9/30/1986	DEM	Democrat	STR	State Representative	SUW	Suwannee	012		0	0	Conner, Jr.	Doyle		1833
+9/30/1986	DEM	Democrat	STR	State Representative	CLM	Columbia	012		0	0	Mackey	Randy		5621
+9/30/1986	DEM	Democrat	STR	State Representative	HAM	Hamilton	012		0	0	Mackey	Randy		1168
+9/30/1986	DEM	Democrat	STR	State Representative	MAD	Madison	012		0	0	Mackey	Randy		1605
+9/30/1986	DEM	Democrat	STR	State Representative	SUW	Suwannee	012		0	0	Mackey	Randy		3321
+9/30/1986	DEM	Democrat	STR	State Representative	HIL	Hillsborough	059		0	0	Lewis	Robin		2589
+9/30/1986	DEM	Democrat	STR	State Representative	HIL	Hillsborough	059		0	0	Rush	Brian		4216
+9/30/1986	DEM	Democrat	STR	State Representative	HIL	Hillsborough	066		0	0	Glickman	Ron		5051
+9/30/1986	DEM	Democrat	STR	State Representative	HIL	Hillsborough	066		0	0	Smith	Larry		5049
+9/30/1986	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	117		0	0	Guber	Susan	'Susie'	4686
+9/30/1986	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	117		0	0	Simonhoff	Mike		2843
+9/30/1986	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		0	0	Edmond	Nathaniel	'Nat'	3171
+9/30/1986	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		0	0	Murphy	Tim		2441
+9/30/1986	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	119		0	0	Cosgrove	John	F.	2746
+9/30/1986	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	119		0	0	Hawkins	Carolyn		1880
+9/30/1986	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	120		0	0	Harvey	Wilhelmina		144
+9/30/1986	DEM	Democrat	STR	State Representative	MON	Monroe	120		0	0	Harvey	Wilhelmina		2855
+9/30/1986	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	120		0	0	Saunders	Ron		176
+9/30/1986	DEM	Democrat	STR	State Representative	MON	Monroe	120		0	0	Saunders	Ron		5883
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	ALA	Alachua			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	657
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	BAK	Baker			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	11
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	BAY	Bay			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	295
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	BRA	Bradford			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	74
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	BRE	Brevard			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	12600
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	BRO	Broward			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	9037
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	CAL	Calhoun			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	7
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	CHA	Charlotte			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	2445
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	CIT	Citrus			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	657
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	CLA	Clay			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	600
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	CLL	Collier			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	2975
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	CLM	Columbia			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	132
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	DES	Desoto			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	67
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	DIX	Dixie			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	9
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	DUV	Duval			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	2979
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	ESC	Escambia			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	925
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	FLA	Flagler			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	325
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	FRA	Franklin			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	14
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	GAD	Gadsden			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	35
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	GIL	Gilchrist			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	19
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	GLA	Glades			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	24
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	GUL	Gulf			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	13
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	HAM	Hamilton			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	5
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	HAR	Hardee			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	27
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	HEN	Hendry			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	69
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	HER	Hernando			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	660
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	HIG	Highlands			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	509
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	HIL	Hillsborough			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	3967
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	HOL	Holmes			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	16
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	IND	Indian River			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	3218
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	JAC	Jackson			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	32
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	JEF	Jefferson			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	9
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	LAF	Lafayette			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	1
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	LAK	Lake			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	3942
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	LEE	Lee			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	7028
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	LEO	Leon			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	820
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	LEV	Levy			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	84
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	LIB	Liberty			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	3
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	MAD	Madison			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	27
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	MAN	Manatee			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	2402
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	MRN	Marion			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	1827
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	MRT	Martin			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	1529
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	DAD	Miami-Dade			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	13162
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	MON	Monroe			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	481
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	NAS	Nassau			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	134
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	OKA	Okaloosa			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	962
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	OKE	Okeechobee			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	96
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	ORA	Orange			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	13484
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	OSC	Osceola			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	1273
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	PAL	Palm Beach			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	10806
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	PAS	Pasco			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	2120
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	PIN	Pinellas			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	8166
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	POL	Polk			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	1627
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	PUT	Putnam			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	328
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	SAN	Santa Rosa			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	271
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	SAR	Sarasota			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	4198
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	SEM	Seminole			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	4624
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	STJ	St. Johns			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	485
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	STL	St. Lucie			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	1912
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	SUM	Sumter			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	150
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	SUW	Suwannee			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	75
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	TAY	Taylor			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	28
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	UNI	Union			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	5
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	VOL	Volusia			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	7005
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	WAK	Wakulla			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	29
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	WAL	Walton			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	127
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	WAS	Washington			0	0	Marilyn Evans-Jones	Lou Frey, Jr.	/	29
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	ALA	Alachua			0	0	Bobby Brantley	Bob Martinez	/	1296
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	BAK	Baker			0	0	Bobby Brantley	Bob Martinez	/	14
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	BAY	Bay			0	0	Bobby Brantley	Bob Martinez	/	818
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	BRA	Bradford			0	0	Bobby Brantley	Bob Martinez	/	90
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	BRE	Brevard			0	0	Bobby Brantley	Bob Martinez	/	6337
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	BRO	Broward			0	0	Bobby Brantley	Bob Martinez	/	15916
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	CAL	Calhoun			0	0	Bobby Brantley	Bob Martinez	/	8
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	CHA	Charlotte			0	0	Bobby Brantley	Bob Martinez	/	3769
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	CIT	Citrus			0	0	Bobby Brantley	Bob Martinez	/	2375
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	CLA	Clay			0	0	Bobby Brantley	Bob Martinez	/	932
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	CLL	Collier			0	0	Bobby Brantley	Bob Martinez	/	3613
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	CLM	Columbia			0	0	Bobby Brantley	Bob Martinez	/	227
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	DES	Desoto			0	0	Bobby Brantley	Bob Martinez	/	202
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	DIX	Dixie			0	0	Bobby Brantley	Bob Martinez	/	21
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	DUV	Duval			0	0	Bobby Brantley	Bob Martinez	/	5797
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	ESC	Escambia			0	0	Bobby Brantley	Bob Martinez	/	2422
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	FLA	Flagler			0	0	Bobby Brantley	Bob Martinez	/	344
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	FRA	Franklin			0	0	Bobby Brantley	Bob Martinez	/	29
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	GAD	Gadsden			0	0	Bobby Brantley	Bob Martinez	/	60
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	GIL	Gilchrist			0	0	Bobby Brantley	Bob Martinez	/	30
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	GLA	Glades			0	0	Bobby Brantley	Bob Martinez	/	41
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	GUL	Gulf			0	0	Bobby Brantley	Bob Martinez	/	30
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	HAM	Hamilton			0	0	Bobby Brantley	Bob Martinez	/	14
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	HAR	Hardee			0	0	Bobby Brantley	Bob Martinez	/	79
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	HEN	Hendry			0	0	Bobby Brantley	Bob Martinez	/	131
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	HER	Hernando			0	0	Bobby Brantley	Bob Martinez	/	3180
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	HIG	Highlands			0	0	Bobby Brantley	Bob Martinez	/	1524
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	HIL	Hillsborough			0	0	Bobby Brantley	Bob Martinez	/	11792
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	HOL	Holmes			0	0	Bobby Brantley	Bob Martinez	/	31
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	IND	Indian River			0	0	Bobby Brantley	Bob Martinez	/	3522
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	JAC	Jackson			0	0	Bobby Brantley	Bob Martinez	/	59
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	JEF	Jefferson			0	0	Bobby Brantley	Bob Martinez	/	37
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	LAF	Lafayette			0	0	Bobby Brantley	Bob Martinez	/	8
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	LAK	Lake			0	0	Bobby Brantley	Bob Martinez	/	4295
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	LEE	Lee			0	0	Bobby Brantley	Bob Martinez	/	12108
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	LEO	Leon			0	0	Bobby Brantley	Bob Martinez	/	2683
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	LEV	Levy			0	0	Bobby Brantley	Bob Martinez	/	199
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	LIB	Liberty			0	0	Bobby Brantley	Bob Martinez	/	9
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	MAD	Madison			0	0	Bobby Brantley	Bob Martinez	/	56
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	MAN	Manatee			0	0	Bobby Brantley	Bob Martinez	/	10520
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	MRN	Marion			0	0	Bobby Brantley	Bob Martinez	/	2434
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	MRT	Martin			0	0	Bobby Brantley	Bob Martinez	/	2989
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	DAD	Miami-Dade			0	0	Bobby Brantley	Bob Martinez	/	40410
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	MON	Monroe			0	0	Bobby Brantley	Bob Martinez	/	967
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	NAS	Nassau			0	0	Bobby Brantley	Bob Martinez	/	79
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	OKA	Okaloosa			0	0	Bobby Brantley	Bob Martinez	/	1538
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	OKE	Okeechobee			0	0	Bobby Brantley	Bob Martinez	/	155
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	ORA	Orange			0	0	Bobby Brantley	Bob Martinez	/	7693
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	OSC	Osceola			0	0	Bobby Brantley	Bob Martinez	/	1050
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	PAL	Palm Beach			0	0	Bobby Brantley	Bob Martinez	/	23727
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	PAS	Pasco			0	0	Bobby Brantley	Bob Martinez	/	9726
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	PIN	Pinellas			0	0	Bobby Brantley	Bob Martinez	/	37090
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	POL	Polk			0	0	Bobby Brantley	Bob Martinez	/	7389
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	PUT	Putnam			0	0	Bobby Brantley	Bob Martinez	/	384
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	SAN	Santa Rosa			0	0	Bobby Brantley	Bob Martinez	/	542
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	SAR	Sarasota			0	0	Bobby Brantley	Bob Martinez	/	14866
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	SEM	Seminole			0	0	Bobby Brantley	Bob Martinez	/	4526
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	STJ	St. Johns			0	0	Bobby Brantley	Bob Martinez	/	803
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	STL	St. Lucie			0	0	Bobby Brantley	Bob Martinez	/	2742
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	SUM	Sumter			0	0	Bobby Brantley	Bob Martinez	/	309
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	SUW	Suwannee			0	0	Bobby Brantley	Bob Martinez	/	100
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	TAY	Taylor			0	0	Bobby Brantley	Bob Martinez	/	33
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	UNI	Union			0	0	Bobby Brantley	Bob Martinez	/	12
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	VOL	Volusia			0	0	Bobby Brantley	Bob Martinez	/	4871
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	WAK	Wakulla			0	0	Bobby Brantley	Bob Martinez	/	65
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	WAL	Walton			0	0	Bobby Brantley	Bob Martinez	/	181
+9/30/1986	REP	Republican	GOV	Governor and Lieutenant Governor	WAS	Washington			0	0	Bobby Brantley	Bob Martinez	/	34
+9/30/1986	REP	Republican	EDU	Commissioner of Education	ALA	Alachua			0	0	Howard	Ron		756
+9/30/1986	REP	Republican	EDU	Commissioner of Education	BAK	Baker			0	0	Howard	Ron		10
+9/30/1986	REP	Republican	EDU	Commissioner of Education	BAY	Bay			0	0	Howard	Ron		644
+9/30/1986	REP	Republican	EDU	Commissioner of Education	BRA	Bradford			0	0	Howard	Ron		86
+9/30/1986	REP	Republican	EDU	Commissioner of Education	BRE	Brevard			0	0	Howard	Ron		10098
+9/30/1986	REP	Republican	EDU	Commissioner of Education	BRO	Broward			0	0	Howard	Ron		12637
+9/30/1986	REP	Republican	EDU	Commissioner of Education	CAL	Calhoun			0	0	Howard	Ron		9
+9/30/1986	REP	Republican	EDU	Commissioner of Education	CHA	Charlotte			0	0	Howard	Ron		2510
+9/30/1986	REP	Republican	EDU	Commissioner of Education	CIT	Citrus			0	0	Howard	Ron		1831
+9/30/1986	REP	Republican	EDU	Commissioner of Education	CLA	Clay			0	0	Howard	Ron		832
+9/30/1986	REP	Republican	EDU	Commissioner of Education	CLL	Collier			0	0	Howard	Ron		3373
+9/30/1986	REP	Republican	EDU	Commissioner of Education	CLM	Columbia			0	0	Howard	Ron		158
+9/30/1986	REP	Republican	EDU	Commissioner of Education	DES	Desoto			0	0	Howard	Ron		157
+9/30/1986	REP	Republican	EDU	Commissioner of Education	DIX	Dixie			0	0	Howard	Ron		13
+9/30/1986	REP	Republican	EDU	Commissioner of Education	DUV	Duval			0	0	Howard	Ron		4012
+9/30/1986	REP	Republican	EDU	Commissioner of Education	ESC	Escambia			0	0	Howard	Ron		1196
+9/30/1986	REP	Republican	EDU	Commissioner of Education	FLA	Flagler			0	0	Howard	Ron		385
+9/30/1986	REP	Republican	EDU	Commissioner of Education	FRA	Franklin			0	0	Howard	Ron		16
+9/30/1986	REP	Republican	EDU	Commissioner of Education	GAD	Gadsden			0	0	Howard	Ron		35
+9/30/1986	REP	Republican	EDU	Commissioner of Education	GIL	Gilchrist			0	0	Howard	Ron		29
+9/30/1986	REP	Republican	EDU	Commissioner of Education	GLA	Glades			0	0	Howard	Ron		42
+9/30/1986	REP	Republican	EDU	Commissioner of Education	GUL	Gulf			0	0	Howard	Ron		21
+9/30/1986	REP	Republican	EDU	Commissioner of Education	HAM	Hamilton			0	0	Howard	Ron		12
+9/30/1986	REP	Republican	EDU	Commissioner of Education	HAR	Hardee			0	0	Howard	Ron		47
+9/30/1986	REP	Republican	EDU	Commissioner of Education	HEN	Hendry			0	0	Howard	Ron		111
+9/30/1986	REP	Republican	EDU	Commissioner of Education	HER	Hernando			0	0	Howard	Ron		2136
+9/30/1986	REP	Republican	EDU	Commissioner of Education	HIG	Highlands			0	0	Howard	Ron		1220
+9/30/1986	REP	Republican	EDU	Commissioner of Education	HIL	Hillsborough			0	0	Howard	Ron		7327
+9/30/1986	REP	Republican	EDU	Commissioner of Education	HOL	Holmes			0	0	Howard	Ron		28
+9/30/1986	REP	Republican	EDU	Commissioner of Education	IND	Indian River			0	0	Howard	Ron		3686
+9/30/1986	REP	Republican	EDU	Commissioner of Education	JAC	Jackson			0	0	Howard	Ron		52
+9/30/1986	REP	Republican	EDU	Commissioner of Education	JEF	Jefferson			0	0	Howard	Ron		20
+9/30/1986	REP	Republican	EDU	Commissioner of Education	LAF	Lafayette			0	0	Howard	Ron		5
+9/30/1986	REP	Republican	EDU	Commissioner of Education	LAK	Lake			0	0	Howard	Ron		3477
+9/30/1986	REP	Republican	EDU	Commissioner of Education	LEE	Lee			0	0	Howard	Ron		10370
+9/30/1986	REP	Republican	EDU	Commissioner of Education	LEO	Leon			0	0	Howard	Ron		731
+9/30/1986	REP	Republican	EDU	Commissioner of Education	LEV	Levy			0	0	Howard	Ron		123
+9/30/1986	REP	Republican	EDU	Commissioner of Education	LIB	Liberty			0	0	Howard	Ron		5
+9/30/1986	REP	Republican	EDU	Commissioner of Education	MAD	Madison			0	0	Howard	Ron		38
+9/30/1986	REP	Republican	EDU	Commissioner of Education	MAN	Manatee			0	0	Howard	Ron		4796
+9/30/1986	REP	Republican	EDU	Commissioner of Education	MRN	Marion			0	0	Howard	Ron		2395
+9/30/1986	REP	Republican	EDU	Commissioner of Education	MRT	Martin			0	0	Howard	Ron		2365
+9/30/1986	REP	Republican	EDU	Commissioner of Education	DAD	Miami-Dade			0	0	Howard	Ron		20223
+9/30/1986	REP	Republican	EDU	Commissioner of Education	MON	Monroe			0	0	Howard	Ron		810
+9/30/1986	REP	Republican	EDU	Commissioner of Education	NAS	Nassau			0	0	Howard	Ron		114
+9/30/1986	REP	Republican	EDU	Commissioner of Education	OKA	Okaloosa			0	0	Howard	Ron		1329
+9/30/1986	REP	Republican	EDU	Commissioner of Education	OKE	Okeechobee			0	0	Howard	Ron		128
+9/30/1986	REP	Republican	EDU	Commissioner of Education	ORA	Orange			0	0	Howard	Ron		9131
+9/30/1986	REP	Republican	EDU	Commissioner of Education	OSC	Osceola			0	0	Howard	Ron		1281
+9/30/1986	REP	Republican	EDU	Commissioner of Education	PAL	Palm Beach			0	0	Howard	Ron		18513
+9/30/1986	REP	Republican	EDU	Commissioner of Education	PAS	Pasco			0	0	Howard	Ron		6783
+9/30/1986	REP	Republican	EDU	Commissioner of Education	PIN	Pinellas			0	0	Howard	Ron		20623
+9/30/1986	REP	Republican	EDU	Commissioner of Education	POL	Polk			0	0	Howard	Ron		3516
+9/30/1986	REP	Republican	EDU	Commissioner of Education	PUT	Putnam			0	0	Howard	Ron		406
+9/30/1986	REP	Republican	EDU	Commissioner of Education	SAN	Santa Rosa			0	0	Howard	Ron		405
+9/30/1986	REP	Republican	EDU	Commissioner of Education	SAR	Sarasota			0	0	Howard	Ron		7640
+9/30/1986	REP	Republican	EDU	Commissioner of Education	SEM	Seminole			0	0	Howard	Ron		4115
+9/30/1986	REP	Republican	EDU	Commissioner of Education	STJ	St. Johns			0	0	Howard	Ron		684
+9/30/1986	REP	Republican	EDU	Commissioner of Education	STL	St. Lucie			0	0	Howard	Ron		2715
+9/30/1986	REP	Republican	EDU	Commissioner of Education	SUM	Sumter			0	0	Howard	Ron		298
+9/30/1986	REP	Republican	EDU	Commissioner of Education	SUW	Suwannee			0	0	Howard	Ron		100
+9/30/1986	REP	Republican	EDU	Commissioner of Education	TAY	Taylor			0	0	Howard	Ron		34
+9/30/1986	REP	Republican	EDU	Commissioner of Education	UNI	Union			0	0	Howard	Ron		10
+9/30/1986	REP	Republican	EDU	Commissioner of Education	VOL	Volusia			0	0	Howard	Ron		6074
+9/30/1986	REP	Republican	EDU	Commissioner of Education	WAK	Wakulla			0	0	Howard	Ron		32
+9/30/1986	REP	Republican	EDU	Commissioner of Education	WAL	Walton			0	0	Howard	Ron		172
+9/30/1986	REP	Republican	EDU	Commissioner of Education	WAS	Washington			0	0	Howard	Ron		40
+9/30/1986	REP	Republican	EDU	Commissioner of Education	ALA	Alachua			0	0	Marshall	Stan		1055
+9/30/1986	REP	Republican	EDU	Commissioner of Education	BAK	Baker			0	0	Marshall	Stan		13
+9/30/1986	REP	Republican	EDU	Commissioner of Education	BAY	Bay			0	0	Marshall	Stan		428
+9/30/1986	REP	Republican	EDU	Commissioner of Education	BRA	Bradford			0	0	Marshall	Stan		73
+9/30/1986	REP	Republican	EDU	Commissioner of Education	BRE	Brevard			0	0	Marshall	Stan		7426
+9/30/1986	REP	Republican	EDU	Commissioner of Education	BRO	Broward			0	0	Marshall	Stan		11165
+9/30/1986	REP	Republican	EDU	Commissioner of Education	CAL	Calhoun			0	0	Marshall	Stan		4
+9/30/1986	REP	Republican	EDU	Commissioner of Education	CHA	Charlotte			0	0	Marshall	Stan		3175
+9/30/1986	REP	Republican	EDU	Commissioner of Education	CIT	Citrus			0	0	Marshall	Stan		1144
+9/30/1986	REP	Republican	EDU	Commissioner of Education	CLA	Clay			0	0	Marshall	Stan		644
+9/30/1986	REP	Republican	EDU	Commissioner of Education	CLL	Collier			0	0	Marshall	Stan		2649
+9/30/1986	REP	Republican	EDU	Commissioner of Education	CLM	Columbia			0	0	Marshall	Stan		173
+9/30/1986	REP	Republican	EDU	Commissioner of Education	DES	Desoto			0	0	Marshall	Stan		115
+9/30/1986	REP	Republican	EDU	Commissioner of Education	DIX	Dixie			0	0	Marshall	Stan		19
+9/30/1986	REP	Republican	EDU	Commissioner of Education	DUV	Duval			0	0	Marshall	Stan		3988
+9/30/1986	REP	Republican	EDU	Commissioner of Education	ESC	Escambia			0	0	Marshall	Stan		1991
+9/30/1986	REP	Republican	EDU	Commissioner of Education	FLA	Flagler			0	0	Marshall	Stan		252
+9/30/1986	REP	Republican	EDU	Commissioner of Education	FRA	Franklin			0	0	Marshall	Stan		24
+9/30/1986	REP	Republican	EDU	Commissioner of Education	GAD	Gadsden			0	0	Marshall	Stan		58
+9/30/1986	REP	Republican	EDU	Commissioner of Education	GIL	Gilchrist			0	0	Marshall	Stan		26
+9/30/1986	REP	Republican	EDU	Commissioner of Education	GLA	Glades			0	0	Marshall	Stan		19
+9/30/1986	REP	Republican	EDU	Commissioner of Education	GUL	Gulf			0	0	Marshall	Stan		24
+9/30/1986	REP	Republican	EDU	Commissioner of Education	HAM	Hamilton			0	0	Marshall	Stan		6
+9/30/1986	REP	Republican	EDU	Commissioner of Education	HAR	Hardee			0	0	Marshall	Stan		45
+9/30/1986	REP	Republican	EDU	Commissioner of Education	HEN	Hendry			0	0	Marshall	Stan		75
+9/30/1986	REP	Republican	EDU	Commissioner of Education	HER	Hernando			0	0	Marshall	Stan		1758
+9/30/1986	REP	Republican	EDU	Commissioner of Education	HIG	Highlands			0	0	Marshall	Stan		683
+9/30/1986	REP	Republican	EDU	Commissioner of Education	HIL	Hillsborough			0	0	Marshall	Stan		7344
+9/30/1986	REP	Republican	EDU	Commissioner of Education	HOL	Holmes			0	0	Marshall	Stan		20
+9/30/1986	REP	Republican	EDU	Commissioner of Education	IND	Indian River			0	0	Marshall	Stan		2531
+9/30/1986	REP	Republican	EDU	Commissioner of Education	JAC	Jackson			0	0	Marshall	Stan		34
+9/30/1986	REP	Republican	EDU	Commissioner of Education	JEF	Jefferson			0	0	Marshall	Stan		28
+9/30/1986	REP	Republican	EDU	Commissioner of Education	LAF	Lafayette			0	0	Marshall	Stan		4
+9/30/1986	REP	Republican	EDU	Commissioner of Education	LAK	Lake			0	0	Marshall	Stan		3835
+9/30/1986	REP	Republican	EDU	Commissioner of Education	LEE	Lee			0	0	Marshall	Stan		6869
+9/30/1986	REP	Republican	EDU	Commissioner of Education	LEO	Leon			0	0	Marshall	Stan		2683
+9/30/1986	REP	Republican	EDU	Commissioner of Education	LEV	Levy			0	0	Marshall	Stan		128
+9/30/1986	REP	Republican	EDU	Commissioner of Education	LIB	Liberty			0	0	Marshall	Stan		7
+9/30/1986	REP	Republican	EDU	Commissioner of Education	MAD	Madison			0	0	Marshall	Stan		49
+9/30/1986	REP	Republican	EDU	Commissioner of Education	MAN	Manatee			0	0	Marshall	Stan		7309
+9/30/1986	REP	Republican	EDU	Commissioner of Education	MRN	Marion			0	0	Marshall	Stan		1789
+9/30/1986	REP	Republican	EDU	Commissioner of Education	MRT	Martin			0	0	Marshall	Stan		1712
+9/30/1986	REP	Republican	EDU	Commissioner of Education	DAD	Miami-Dade			0	0	Marshall	Stan		21860
+9/30/1986	REP	Republican	EDU	Commissioner of Education	MON	Monroe			0	0	Marshall	Stan		542
+9/30/1986	REP	Republican	EDU	Commissioner of Education	NAS	Nassau			0	0	Marshall	Stan		83
+9/30/1986	REP	Republican	EDU	Commissioner of Education	OKA	Okaloosa			0	0	Marshall	Stan		1087
+9/30/1986	REP	Republican	EDU	Commissioner of Education	OKE	Okeechobee			0	0	Marshall	Stan		112
+9/30/1986	REP	Republican	EDU	Commissioner of Education	ORA	Orange			0	0	Marshall	Stan		9823
+9/30/1986	REP	Republican	EDU	Commissioner of Education	OSC	Osceola			0	0	Marshall	Stan		906
+9/30/1986	REP	Republican	EDU	Commissioner of Education	PAL	Palm Beach			0	0	Marshall	Stan		12193
+9/30/1986	REP	Republican	EDU	Commissioner of Education	PAS	Pasco			0	0	Marshall	Stan		4630
+9/30/1986	REP	Republican	EDU	Commissioner of Education	PIN	Pinellas			0	0	Marshall	Stan		22055
+9/30/1986	REP	Republican	EDU	Commissioner of Education	POL	Polk			0	0	Marshall	Stan		4715
+9/30/1986	REP	Republican	EDU	Commissioner of Education	PUT	Putnam			0	0	Marshall	Stan		299
+9/30/1986	REP	Republican	EDU	Commissioner of Education	SAN	Santa Rosa			0	0	Marshall	Stan		417
+9/30/1986	REP	Republican	EDU	Commissioner of Education	SAR	Sarasota			0	0	Marshall	Stan		9653
+9/30/1986	REP	Republican	EDU	Commissioner of Education	SEM	Seminole			0	0	Marshall	Stan		4247
+9/30/1986	REP	Republican	EDU	Commissioner of Education	STJ	St. Johns			0	0	Marshall	Stan		533
+9/30/1986	REP	Republican	EDU	Commissioner of Education	STL	St. Lucie			0	0	Marshall	Stan		1547
+9/30/1986	REP	Republican	EDU	Commissioner of Education	SUM	Sumter			0	0	Marshall	Stan		157
+9/30/1986	REP	Republican	EDU	Commissioner of Education	SUW	Suwannee			0	0	Marshall	Stan		75
+9/30/1986	REP	Republican	EDU	Commissioner of Education	TAY	Taylor			0	0	Marshall	Stan		25
+9/30/1986	REP	Republican	EDU	Commissioner of Education	UNI	Union			0	0	Marshall	Stan		6
+9/30/1986	REP	Republican	EDU	Commissioner of Education	VOL	Volusia			0	0	Marshall	Stan		4372
+9/30/1986	REP	Republican	EDU	Commissioner of Education	WAK	Wakulla			0	0	Marshall	Stan		59
+9/30/1986	REP	Republican	EDU	Commissioner of Education	WAL	Walton			0	0	Marshall	Stan		113
+9/30/1986	REP	Republican	EDU	Commissioner of Education	WAS	Washington			0	0	Marshall	Stan		17
+9/30/1986	REP	Republican	STS	State Senator	PIN	Pinellas	018		0	0	Crist, Jr.	Charles	J.	6967
+9/30/1986	REP	Republican	STS	State Senator	PIN	Pinellas	018		0	0	Melby	Bob		7701
+9/30/1986	REP	Republican	STR	State Representative	LAK	Lake	027		0	0	Bainter	Stan		1764
+9/30/1986	REP	Republican	STR	State Representative	MRN	Marion	027		0	0	Bainter	Stan		161
+9/30/1986	REP	Republican	STR	State Representative	PUT	Putnam	027		0	0	Bainter	Stan		32
+9/30/1986	REP	Republican	STR	State Representative	SEM	Seminole	027		0	0	Bainter	Stan		906
+9/30/1986	REP	Republican	STR	State Representative	VOL	Volusia	027		0	0	Bainter	Stan		811
+9/30/1986	REP	Republican	STR	State Representative	LAK	Lake	027		0	0	Patrowicz	Tully		1410
+9/30/1986	REP	Republican	STR	State Representative	MRN	Marion	027		0	0	Patrowicz	Tully		71
+9/30/1986	REP	Republican	STR	State Representative	PUT	Putnam	027		0	0	Patrowicz	Tully		28
+9/30/1986	REP	Republican	STR	State Representative	SEM	Seminole	027		0	0	Patrowicz	Tully		474
+9/30/1986	REP	Republican	STR	State Representative	VOL	Volusia	027		0	0	Patrowicz	Tully		434
+9/30/1986	REP	Republican	STR	State Representative	PAS	Pasco	048		0	0	Davis	Monty		3579
+9/30/1986	REP	Republican	STR	State Representative	PAS	Pasco	048		0	0	Parker	Diane	M.	1989
+9/30/1986	REP	Republican	STR	State Representative	PIN	Pinellas	052		0	0	Mortham	Sandra	Barringer	4387
+9/30/1986	REP	Republican	STR	State Representative	PIN	Pinellas	052		0	0	Napier, Jr.	James	A. 'Dr. Jim'	2158
+9/30/1986	REP	Republican	STR	State Representative	PAL	Palm Beach	081		0	0	Evatt	Peggy	B.	2416
+9/30/1986	REP	Republican	STR	State Representative	PAL	Palm Beach	081		0	0	Lewis	Marian	V.	2856
+9/30/1986	NOP	Non-Partisan	EWF	Englewood Area Fire Control District	CHA	Charlotte			0	0	Field	John	W.	864
+9/30/1986	NOP	Non-Partisan	EWF	Englewood Area Fire Control District	SAR	Sarasota			0	0	Field	John	W.	897
+9/30/1986	NOP	Non-Partisan	EWF	Englewood Area Fire Control District	CHA	Charlotte			0	0	Gibson	Robert	J.	791
+9/30/1986	NOP	Non-Partisan	EWF	Englewood Area Fire Control District	SAR	Sarasota			0	0	Gibson	Robert	J.	914
+9/30/1986	NOP	Non-Partisan	EWF	Englewood Area Fire Control District	CHA	Charlotte			0	0	Leitzel	Harry	M.	586
+9/30/1986	NOP	Non-Partisan	EWF	Englewood Area Fire Control District	SAR	Sarasota			0	0	Leitzel	Harry	M.	642
+9/30/1986	NOP	Non-Partisan	EWF	Englewood Area Fire Control District	CHA	Charlotte			0	0	Noren	David	W.	672
+9/30/1986	NOP	Non-Partisan	EWF	Englewood Area Fire Control District	SAR	Sarasota			0	0	Noren	David	W.	754

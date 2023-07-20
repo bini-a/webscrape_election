@@ -1,0 +1,808 @@
+ElectionDate	PartyCode	PartyName	RaceCode	OfficeDesc	CountyCode	CountyName	Juris1num	Juris2num	Precincts	PrecinctsReporting	CanNameLast	CanNameFirst	CanNameMiddle	CanVotes
+9/3/1996	DEM	Democrat	USR	United States Representative	BAY	Bay	002		36	36	Boyd	Allen		4579
+9/3/1996	DEM	Democrat	USR	United States Representative	CAL	Calhoun	002		13	13	Boyd	Allen		1605
+9/3/1996	DEM	Democrat	USR	United States Representative	CLM	Columbia	002		16	16	Boyd	Allen		1472
+9/3/1996	DEM	Democrat	USR	United States Representative	DIX	Dixie	002		11	11	Boyd	Allen		2858
+9/3/1996	DEM	Democrat	USR	United States Representative	FRA	Franklin	002		8	8	Boyd	Allen		1719
+9/3/1996	DEM	Democrat	USR	United States Representative	GAD	Gadsden	002		16	16	Boyd	Allen		4144
+9/3/1996	DEM	Democrat	USR	United States Representative	GIL	Gilchrist	002		10	10	Boyd	Allen		2380
+9/3/1996	DEM	Democrat	USR	United States Representative	GUL	Gulf	002		14	14	Boyd	Allen		1344
+9/3/1996	DEM	Democrat	USR	United States Representative	HAM	Hamilton	002		8	8	Boyd	Allen		2033
+9/3/1996	DEM	Democrat	USR	United States Representative	JAC	Jackson	002		26	26	Boyd	Allen		5599
+9/3/1996	DEM	Democrat	USR	United States Representative	JEF	Jefferson	002		13	13	Boyd	Allen		2367
+9/3/1996	DEM	Democrat	USR	United States Representative	LAF	Lafayette	002		5	5	Boyd	Allen		1369
+9/3/1996	DEM	Democrat	USR	United States Representative	LEO	Leon	002		94	94	Boyd	Allen		17015
+9/3/1996	DEM	Democrat	USR	United States Representative	LIB	Liberty	002		8	8	Boyd	Allen		1126
+9/3/1996	DEM	Democrat	USR	United States Representative	MAD	Madison	002		11	11	Boyd	Allen		2805
+9/3/1996	DEM	Democrat	USR	United States Representative	SUW	Suwannee	002		16	16	Boyd	Allen		4774
+9/3/1996	DEM	Democrat	USR	United States Representative	TAY	Taylor	002		14	14	Boyd	Allen		4286
+9/3/1996	DEM	Democrat	USR	United States Representative	WAK	Wakulla	002		12	12	Boyd	Allen		3941
+9/3/1996	DEM	Democrat	USR	United States Representative	WAS	Washington	002		15	15	Boyd	Allen		3172
+9/3/1996	DEM	Democrat	USR	United States Representative	BAY	Bay	002		36	36	Davis	Anita	L.	2095
+9/3/1996	DEM	Democrat	USR	United States Representative	CAL	Calhoun	002		13	13	Davis	Anita	L.	378
+9/3/1996	DEM	Democrat	USR	United States Representative	CLM	Columbia	002		16	16	Davis	Anita	L.	1265
+9/3/1996	DEM	Democrat	USR	United States Representative	DIX	Dixie	002		11	11	Davis	Anita	L.	710
+9/3/1996	DEM	Democrat	USR	United States Representative	FRA	Franklin	002		8	8	Davis	Anita	L.	525
+9/3/1996	DEM	Democrat	USR	United States Representative	GAD	Gadsden	002		16	16	Davis	Anita	L.	5075
+9/3/1996	DEM	Democrat	USR	United States Representative	GIL	Gilchrist	002		10	10	Davis	Anita	L.	474
+9/3/1996	DEM	Democrat	USR	United States Representative	GUL	Gulf	002		14	14	Davis	Anita	L.	379
+9/3/1996	DEM	Democrat	USR	United States Representative	HAM	Hamilton	002		8	8	Davis	Anita	L.	806
+9/3/1996	DEM	Democrat	USR	United States Representative	JAC	Jackson	002		26	26	Davis	Anita	L.	2497
+9/3/1996	DEM	Democrat	USR	United States Representative	JEF	Jefferson	002		13	13	Davis	Anita	L.	1112
+9/3/1996	DEM	Democrat	USR	United States Representative	LAF	Lafayette	002		5	5	Davis	Anita	L.	195
+9/3/1996	DEM	Democrat	USR	United States Representative	LEO	Leon	002		94	94	Davis	Anita	L.	15181
+9/3/1996	DEM	Democrat	USR	United States Representative	LIB	Liberty	002		8	8	Davis	Anita	L.	392
+9/3/1996	DEM	Democrat	USR	United States Representative	MAD	Madison	002		11	11	Davis	Anita	L.	1287
+9/3/1996	DEM	Democrat	USR	United States Representative	SUW	Suwannee	002		16	16	Davis	Anita	L.	1673
+9/3/1996	DEM	Democrat	USR	United States Representative	TAY	Taylor	002		14	14	Davis	Anita	L.	956
+9/3/1996	DEM	Democrat	USR	United States Representative	WAK	Wakulla	002		12	12	Davis	Anita	L.	1072
+9/3/1996	DEM	Democrat	USR	United States Representative	WAS	Washington	002		15	15	Davis	Anita	L.	978
+9/3/1996	DEM	Democrat	USR	United States Representative	BAY	Bay	002		36	36	Taunton	David	L.	8744
+9/3/1996	DEM	Democrat	USR	United States Representative	CAL	Calhoun	002		13	13	Taunton	David	L.	1568
+9/3/1996	DEM	Democrat	USR	United States Representative	CLM	Columbia	002		16	16	Taunton	David	L.	466
+9/3/1996	DEM	Democrat	USR	United States Representative	DIX	Dixie	002		11	11	Taunton	David	L.	1478
+9/3/1996	DEM	Democrat	USR	United States Representative	FRA	Franklin	002		8	8	Taunton	David	L.	1540
+9/3/1996	DEM	Democrat	USR	United States Representative	GAD	Gadsden	002		16	16	Taunton	David	L.	1559
+9/3/1996	DEM	Democrat	USR	United States Representative	GIL	Gilchrist	002		10	10	Taunton	David	L.	383
+9/3/1996	DEM	Democrat	USR	United States Representative	GUL	Gulf	002		14	14	Taunton	David	L.	3271
+9/3/1996	DEM	Democrat	USR	United States Representative	HAM	Hamilton	002		8	8	Taunton	David	L.	521
+9/3/1996	DEM	Democrat	USR	United States Representative	JAC	Jackson	002		26	26	Taunton	David	L.	3421
+9/3/1996	DEM	Democrat	USR	United States Representative	JEF	Jefferson	002		13	13	Taunton	David	L.	444
+9/3/1996	DEM	Democrat	USR	United States Representative	LAF	Lafayette	002		5	5	Taunton	David	L.	1080
+9/3/1996	DEM	Democrat	USR	United States Representative	LEO	Leon	002		94	94	Taunton	David	L.	4146
+9/3/1996	DEM	Democrat	USR	United States Representative	LIB	Liberty	002		8	8	Taunton	David	L.	1124
+9/3/1996	DEM	Democrat	USR	United States Representative	MAD	Madison	002		11	11	Taunton	David	L.	814
+9/3/1996	DEM	Democrat	USR	United States Representative	SUW	Suwannee	002		16	16	Taunton	David	L.	1720
+9/3/1996	DEM	Democrat	USR	United States Representative	TAY	Taylor	002		14	14	Taunton	David	L.	1188
+9/3/1996	DEM	Democrat	USR	United States Representative	WAK	Wakulla	002		12	12	Taunton	David	L.	747
+9/3/1996	DEM	Democrat	USR	United States Representative	WAS	Washington	002		15	15	Taunton	David	L.	1813
+9/3/1996	DEM	Democrat	USR	United States Representative	ORA	Orange	007		18	18	Feather	Robert	G. 'Bud'	386
+9/3/1996	DEM	Democrat	USR	United States Representative	SEM	Seminole	007		110	110	Feather	Robert	G. 'Bud'	2748
+9/3/1996	DEM	Democrat	USR	United States Representative	VOL	Volusia	007		107	107	Feather	Robert	G. 'Bud'	4168
+9/3/1996	DEM	Democrat	USR	United States Representative	ORA	Orange	007		18	18	Stuart, Jr.	George		904
+9/3/1996	DEM	Democrat	USR	United States Representative	SEM	Seminole	007		110	110	Stuart, Jr.	George		4406
+9/3/1996	DEM	Democrat	USR	United States Representative	VOL	Volusia	007		107	107	Stuart, Jr.	George		8186
+9/3/1996	DEM	Democrat	USR	United States Representative	HIL	Hillsborough	011		212	212	Busansky	Phyllis		16479
+9/3/1996	DEM	Democrat	USR	United States Representative	HIL	Hillsborough	011		212	212	Davis	Jim		16753
+9/3/1996	DEM	Democrat	USR	United States Representative	HIL	Hillsborough	011		212	212	Frank	Pat		10586
+9/3/1996	DEM	Democrat	USR	United States Representative	HIL	Hillsborough	011		212	212	Freedman	Sandy	Warshaw	23505
+9/3/1996	DEM	Democrat	USR	United States Representative	BRO	Broward	019		128	128	Graber	Benjamin	'Ben'	6210
+9/3/1996	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	019		153	153	Graber	Benjamin	'Ben'	2996
+9/3/1996	DEM	Democrat	USR	United States Representative	BRO	Broward	019		128	128	Tsakanikas	Peter	James	696
+9/3/1996	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	019		153	153	Tsakanikas	Peter	James	518
+9/3/1996	DEM	Democrat	USR	United States Representative	BRO	Broward	019		128	128	Weinstein	Peter		8800
+9/3/1996	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	019		153	153	Weinstein	Peter		4273
+9/3/1996	DEM	Democrat	USR	United States Representative	BRO	Broward	019		128	128	Wexler	Robert		6356
+9/3/1996	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	019		153	153	Wexler	Robert		14786
+9/3/1996	DEM	Democrat	STA	State Attorney	FRA	Franklin	002		8	8	Meggs	William	N. 'Willie	2283
+9/3/1996	DEM	Democrat	STA	State Attorney	GAD	Gadsden	002		16	16	Meggs	William	N. 'Willie	7347
+9/3/1996	DEM	Democrat	STA	State Attorney	JEF	Jefferson	002		13	13	Meggs	William	N. 'Willie	2691
+9/3/1996	DEM	Democrat	STA	State Attorney	LEO	Leon	002		94	94	Meggs	William	N. 'Willie	20846
+9/3/1996	DEM	Democrat	STA	State Attorney	LIB	Liberty	002		8	8	Meggs	William	N. 'Willie	1722
+9/3/1996	DEM	Democrat	STA	State Attorney	WAK	Wakulla	002		12	12	Meggs	William	N. 'Willie	4036
+9/3/1996	DEM	Democrat	STA	State Attorney	FRA	Franklin	002		8	8	Parton	Steve		1301
+9/3/1996	DEM	Democrat	STA	State Attorney	GAD	Gadsden	002		16	16	Parton	Steve		3292
+9/3/1996	DEM	Democrat	STA	State Attorney	JEF	Jefferson	002		13	13	Parton	Steve		1076
+9/3/1996	DEM	Democrat	STA	State Attorney	LEO	Leon	002		94	94	Parton	Steve		15756
+9/3/1996	DEM	Democrat	STA	State Attorney	LIB	Liberty	002		8	8	Parton	Steve		869
+9/3/1996	DEM	Democrat	STA	State Attorney	WAK	Wakulla	002		12	12	Parton	Steve		1707
+9/3/1996	DEM	Democrat	STA	State Attorney	BAY	Bay	014		47	47	Appleman	Jim		9409
+9/3/1996	DEM	Democrat	STA	State Attorney	CAL	Calhoun	014		13	13	Appleman	Jim		2052
+9/3/1996	DEM	Democrat	STA	State Attorney	GUL	Gulf	014		14	14	Appleman	Jim		2667
+9/3/1996	DEM	Democrat	STA	State Attorney	HOL	Holmes	014		16	16	Appleman	Jim		4110
+9/3/1996	DEM	Democrat	STA	State Attorney	JAC	Jackson	014		31	31	Appleman	Jim		7652
+9/3/1996	DEM	Democrat	STA	State Attorney	WAS	Washington	014		15	15	Appleman	Jim		3748
+9/3/1996	DEM	Democrat	STA	State Attorney	BAY	Bay	014		47	47	Patterson	Chris		11285
+9/3/1996	DEM	Democrat	STA	State Attorney	CAL	Calhoun	014		13	13	Patterson	Chris		1563
+9/3/1996	DEM	Democrat	STA	State Attorney	GUL	Gulf	014		14	14	Patterson	Chris		2297
+9/3/1996	DEM	Democrat	STA	State Attorney	HOL	Holmes	014		16	16	Patterson	Chris		2133
+9/3/1996	DEM	Democrat	STA	State Attorney	JAC	Jackson	014		31	31	Patterson	Chris		4437
+9/3/1996	DEM	Democrat	STA	State Attorney	WAS	Washington	014		15	15	Patterson	Chris		2692
+9/3/1996	DEM	Democrat	PUB	Public Defender	MON	Monroe	016		33	33	Enright	Rosemary		4019
+9/3/1996	DEM	Democrat	PUB	Public Defender	MON	Monroe	016		33	33	Sands III	Merrell	F.	2065
+9/3/1996	DEM	Democrat	STS	State Senator	BRO	Broward	033		155	155	Campbell	Walter	'Skip'	15218
+9/3/1996	DEM	Democrat	STS	State Senator	BRO	Broward	033		155	155	Feren	Steven	Brian	10517
+9/3/1996	DEM	Democrat	STR	State Representative	BAY	Bay	007		12	12	Baker	Frank	A.	529
+9/3/1996	DEM	Democrat	STR	State Representative	CAL	Calhoun	007		13	13	Baker	Frank	A.	1337
+9/3/1996	DEM	Democrat	STR	State Representative	GAD	Gadsden	007		5	5	Baker	Frank	A.	137
+9/3/1996	DEM	Democrat	STR	State Representative	GUL	Gulf	007		14	14	Baker	Frank	A.	547
+9/3/1996	DEM	Democrat	STR	State Representative	JAC	Jackson	007		26	26	Baker	Frank	A.	4284
+9/3/1996	DEM	Democrat	STR	State Representative	LEO	Leon	007		6	6	Baker	Frank	A.	499
+9/3/1996	DEM	Democrat	STR	State Representative	LIB	Liberty	007		8	8	Baker	Frank	A.	565
+9/3/1996	DEM	Democrat	STR	State Representative	WAL	Walton	007		4	4	Baker	Frank	A.	275
+9/3/1996	DEM	Democrat	STR	State Representative	BAY	Bay	007		12	12	Warriner	David		1678
+9/3/1996	DEM	Democrat	STR	State Representative	CAL	Calhoun	007		13	13	Warriner	David		670
+9/3/1996	DEM	Democrat	STR	State Representative	GAD	Gadsden	007		5	5	Warriner	David		125
+9/3/1996	DEM	Democrat	STR	State Representative	GUL	Gulf	007		14	14	Warriner	David		3134
+9/3/1996	DEM	Democrat	STR	State Representative	JAC	Jackson	007		26	26	Warriner	David		1897
+9/3/1996	DEM	Democrat	STR	State Representative	LEO	Leon	007		6	6	Warriner	David		383
+9/3/1996	DEM	Democrat	STR	State Representative	LIB	Liberty	007		8	8	Warriner	David		443
+9/3/1996	DEM	Democrat	STR	State Representative	WAL	Walton	007		4	4	Warriner	David		286
+9/3/1996	DEM	Democrat	STR	State Representative	BAY	Bay	007		12	12	Westbrook	Jamey		741
+9/3/1996	DEM	Democrat	STR	State Representative	CAL	Calhoun	007		13	13	Westbrook	Jamey		1527
+9/3/1996	DEM	Democrat	STR	State Representative	GAD	Gadsden	007		5	5	Westbrook	Jamey		467
+9/3/1996	DEM	Democrat	STR	State Representative	GUL	Gulf	007		14	14	Westbrook	Jamey		1145
+9/3/1996	DEM	Democrat	STR	State Representative	JAC	Jackson	007		26	26	Westbrook	Jamey		5717
+9/3/1996	DEM	Democrat	STR	State Representative	LEO	Leon	007		6	6	Westbrook	Jamey		653
+9/3/1996	DEM	Democrat	STR	State Representative	LIB	Liberty	007		8	8	Westbrook	Jamey		1538
+9/3/1996	DEM	Democrat	STR	State Representative	WAL	Walton	007		4	4	Westbrook	Jamey		302
+9/3/1996	DEM	Democrat	STR	State Representative	ALA	Alachua	010		3	3	Boyd	Janegale		322
+9/3/1996	DEM	Democrat	STR	State Representative	DIX	Dixie	010		11	11	Boyd	Janegale		2662
+9/3/1996	DEM	Democrat	STR	State Representative	FRA	Franklin	010		8	8	Boyd	Janegale		1901
+9/3/1996	DEM	Democrat	STR	State Representative	GIL	Gilchrist	010		5	5	Boyd	Janegale		660
+9/3/1996	DEM	Democrat	STR	State Representative	JEF	Jefferson	010		13	13	Boyd	Janegale		2456
+9/3/1996	DEM	Democrat	STR	State Representative	LEO	Leon	010		4	4	Boyd	Janegale		559
+9/3/1996	DEM	Democrat	STR	State Representative	LEV	Levy	010		21	21	Boyd	Janegale		3210
+9/3/1996	DEM	Democrat	STR	State Representative	MRN	Marion	010		5	5	Boyd	Janegale		228
+9/3/1996	DEM	Democrat	STR	State Representative	TAY	Taylor	010		14	14	Boyd	Janegale		3110
+9/3/1996	DEM	Democrat	STR	State Representative	WAK	Wakulla	010		12	12	Boyd	Janegale		2968
+9/3/1996	DEM	Democrat	STR	State Representative	ALA	Alachua	010		3	3	Hodges	Gene		232
+9/3/1996	DEM	Democrat	STR	State Representative	DIX	Dixie	010		11	11	Hodges	Gene		2437
+9/3/1996	DEM	Democrat	STR	State Representative	FRA	Franklin	010		8	8	Hodges	Gene		1776
+9/3/1996	DEM	Democrat	STR	State Representative	GIL	Gilchrist	010		5	5	Hodges	Gene		547
+9/3/1996	DEM	Democrat	STR	State Representative	JEF	Jefferson	010		13	13	Hodges	Gene		1285
+9/3/1996	DEM	Democrat	STR	State Representative	LEO	Leon	010		4	4	Hodges	Gene		369
+9/3/1996	DEM	Democrat	STR	State Representative	LEV	Levy	010		21	21	Hodges	Gene		2780
+9/3/1996	DEM	Democrat	STR	State Representative	MRN	Marion	010		5	5	Hodges	Gene		256
+9/3/1996	DEM	Democrat	STR	State Representative	TAY	Taylor	010		14	14	Hodges	Gene		3120
+9/3/1996	DEM	Democrat	STR	State Representative	WAK	Wakulla	010		12	12	Hodges	Gene		2666
+9/3/1996	DEM	Democrat	STR	State Representative	BAK	Baker	012		8	8	Crady	George		2525
+9/3/1996	DEM	Democrat	STR	State Representative	BRA	Bradford	012		19	19	Crady	George		3258
+9/3/1996	DEM	Democrat	STR	State Representative	DUV	Duval	012		9	9	Crady	George		442
+9/3/1996	DEM	Democrat	STR	State Representative	NAS	Nassau	012		17	17	Crady	George		4458
+9/3/1996	DEM	Democrat	STR	State Representative	UNI	Union	012		11	11	Crady	George		1688
+9/3/1996	DEM	Democrat	STR	State Representative	BAK	Baker	012		8	8	Walker	Wanda		4545
+9/3/1996	DEM	Democrat	STR	State Representative	BRA	Bradford	012		19	19	Walker	Wanda		2037
+9/3/1996	DEM	Democrat	STR	State Representative	DUV	Duval	012		9	9	Walker	Wanda		300
+9/3/1996	DEM	Democrat	STR	State Representative	NAS	Nassau	012		17	17	Walker	Wanda		1884
+9/3/1996	DEM	Democrat	STR	State Representative	UNI	Union	012		11	11	Walker	Wanda		1393
+9/3/1996	DEM	Democrat	STR	State Representative	DUV	Duval	015		59	59	Bell	Anethia	'Nita'	3671
+9/3/1996	DEM	Democrat	STR	State Representative	DUV	Duval	015		59	59	Dennis	Willye	F.	4289
+9/3/1996	DEM	Democrat	STR	State Representative	LAK	Lake	025		25	25	Green	Sandra	T.	1235
+9/3/1996	DEM	Democrat	STR	State Representative	MRN	Marion	025		2	2	Green	Sandra	T.	114
+9/3/1996	DEM	Democrat	STR	State Representative	SEM	Seminole	025		14	14	Green	Sandra	T.	239
+9/3/1996	DEM	Democrat	STR	State Representative	VOL	Volusia	025		16	16	Green	Sandra	T.	779
+9/3/1996	DEM	Democrat	STR	State Representative	LAK	Lake	025		25	25	Lazarus	Bob		593
+9/3/1996	DEM	Democrat	STR	State Representative	MRN	Marion	025		2	2	Lazarus	Bob		60
+9/3/1996	DEM	Democrat	STR	State Representative	SEM	Seminole	025		14	14	Lazarus	Bob		265
+9/3/1996	DEM	Democrat	STR	State Representative	VOL	Volusia	025		16	16	Lazarus	Bob		688
+9/3/1996	DEM	Democrat	STR	State Representative	VOL	Volusia	027		57	57	Charles	Jimmy		2747
+9/3/1996	DEM	Democrat	STR	State Representative	VOL	Volusia	027		57	57	Doran	Ted		4698
+9/3/1996	DEM	Democrat	STR	State Representative	LAK	Lake	038		2	2	Neidhart	Carl	W.	24
+9/3/1996	DEM	Democrat	STR	State Representative	ORA	Orange	038		34	34	Neidhart	Carl	W.	429
+9/3/1996	DEM	Democrat	STR	State Representative	LAK	Lake	038		2	2	Sindler	Robert	B. 'Bob'	88
+9/3/1996	DEM	Democrat	STR	State Representative	ORA	Orange	038		34	34	Sindler	Robert	B. 'Bob'	2390
+9/3/1996	DEM	Democrat	STR	State Representative	PIN	Pinellas	052		45	45	Fischer	Margo		2920
+9/3/1996	DEM	Democrat	STR	State Representative	PIN	Pinellas	052		45	45	Maddux	Martha		2899
+9/3/1996	DEM	Democrat	STR	State Representative	HIL	Hillsborough	056		55	55	Alpert	Liz		4564
+9/3/1996	DEM	Democrat	STR	State Representative	HIL	Hillsborough	056		55	55	Murman	Sandra	L.	6467
+9/3/1996	DEM	Democrat	STR	State Representative	POL	Polk	063		49	49	Kennedy	Brian		1855
+9/3/1996	DEM	Democrat	STR	State Representative	POL	Polk	063		49	49	Roberts	Gene		3846
+9/3/1996	DEM	Democrat	STR	State Representative	POL	Polk	063		49	49	Stein	Bob		2567
+9/3/1996	DEM	Democrat	STR	State Representative	POL	Polk	063		49	49	Titus	A.H.	Lon	871
+9/3/1996	DEM	Democrat	STR	State Representative	SAR	Sarasota	069		48	48	Brown	Shirley		3895
+9/3/1996	DEM	Democrat	STR	State Representative	SAR	Sarasota	069		48	48	Susce	Jon	S.	852
+9/3/1996	DEM	Democrat	STR	State Representative	PAL	Palm Beach	089		50	50	Brenner	Scott		2142
+9/3/1996	DEM	Democrat	STR	State Representative	PAL	Palm Beach	089		50	50	Klein	Guarina	T.	417
+9/3/1996	DEM	Democrat	STR	State Representative	PAL	Palm Beach	089		50	50	Silver	Barry		4775
+9/3/1996	DEM	Democrat	STR	State Representative	PAL	Palm Beach	089		50	50	Wichinsky	Glenn	E.	3121
+9/3/1996	DEM	Democrat	STR	State Representative	BRO	Broward	096		48	48	Dickerhoof	Karen	Patton	3511
+9/3/1996	DEM	Democrat	STR	State Representative	BRO	Broward	096		48	48	Ritter	Stacy	Joy	4607
+9/3/1996	DEM	Democrat	STR	State Representative	BRO	Broward	101		53	53	Geller	Steven	A.	4108
+9/3/1996	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	101		1	1	Geller	Steven	A.	88
+9/3/1996	DEM	Democrat	STR	State Representative	BRO	Broward	101		53	53	Holloman	Marilyn	Davis	1279
+9/3/1996	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	101		1	1	Holloman	Marilyn	Davis	122
+9/3/1996	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		37	37	Bush,  III	James		10381
+9/3/1996	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		37	37	Celestin	J.	Joe	960
+9/3/1996	REP	Republican	USR	United States Representative	BAY	Bay	002		36	36	Bellamy	Mark	L.	1197
+9/3/1996	REP	Republican	USR	United States Representative	CAL	Calhoun	002		13	13	Bellamy	Mark	L.	25
+9/3/1996	REP	Republican	USR	United States Representative	CLM	Columbia	002		16	16	Bellamy	Mark	L.	69
+9/3/1996	REP	Republican	USR	United States Representative	DIX	Dixie	002		11	11	Bellamy	Mark	L.	32
+9/3/1996	REP	Republican	USR	United States Representative	FRA	Franklin	002		8	8	Bellamy	Mark	L.	30
+9/3/1996	REP	Republican	USR	United States Representative	GAD	Gadsden	002		16	16	Bellamy	Mark	L.	68
+9/3/1996	REP	Republican	USR	United States Representative	GIL	Gilchrist	002		10	10	Bellamy	Mark	L.	85
+9/3/1996	REP	Republican	USR	United States Representative	GUL	Gulf	002		14	14	Bellamy	Mark	L.	71
+9/3/1996	REP	Republican	USR	United States Representative	HAM	Hamilton	002		8	8	Bellamy	Mark	L.	19
+9/3/1996	REP	Republican	USR	United States Representative	JAC	Jackson	002		26	26	Bellamy	Mark	L.	165
+9/3/1996	REP	Republican	USR	United States Representative	JEF	Jefferson	002		13	13	Bellamy	Mark	L.	48
+9/3/1996	REP	Republican	USR	United States Representative	LAF	Lafayette	002		5	5	Bellamy	Mark	L.	20
+9/3/1996	REP	Republican	USR	United States Representative	LEO	Leon	002		94	94	Bellamy	Mark	L.	1416
+9/3/1996	REP	Republican	USR	United States Representative	LIB	Liberty	002		8	8	Bellamy	Mark	L.	8
+9/3/1996	REP	Republican	USR	United States Representative	MAD	Madison	002		11	11	Bellamy	Mark	L.	46
+9/3/1996	REP	Republican	USR	United States Representative	SUW	Suwannee	002		16	16	Bellamy	Mark	L.	158
+9/3/1996	REP	Republican	USR	United States Representative	TAY	Taylor	002		14	14	Bellamy	Mark	L.	73
+9/3/1996	REP	Republican	USR	United States Representative	WAK	Wakulla	002		12	12	Bellamy	Mark	L.	76
+9/3/1996	REP	Republican	USR	United States Representative	WAS	Washington	002		15	15	Bellamy	Mark	L.	36
+9/3/1996	REP	Republican	USR	United States Representative	BAY	Bay	002		36	36	Griffin	Carole		2110
+9/3/1996	REP	Republican	USR	United States Representative	CAL	Calhoun	002		13	13	Griffin	Carole		48
+9/3/1996	REP	Republican	USR	United States Representative	CLM	Columbia	002		16	16	Griffin	Carole		147
+9/3/1996	REP	Republican	USR	United States Representative	DIX	Dixie	002		11	11	Griffin	Carole		48
+9/3/1996	REP	Republican	USR	United States Representative	FRA	Franklin	002		8	8	Griffin	Carole		50
+9/3/1996	REP	Republican	USR	United States Representative	GAD	Gadsden	002		16	16	Griffin	Carole		207
+9/3/1996	REP	Republican	USR	United States Representative	GIL	Gilchrist	002		10	10	Griffin	Carole		114
+9/3/1996	REP	Republican	USR	United States Representative	GUL	Gulf	002		14	14	Griffin	Carole		159
+9/3/1996	REP	Republican	USR	United States Representative	HAM	Hamilton	002		8	8	Griffin	Carole		47
+9/3/1996	REP	Republican	USR	United States Representative	JAC	Jackson	002		26	26	Griffin	Carole		425
+9/3/1996	REP	Republican	USR	United States Representative	JEF	Jefferson	002		13	13	Griffin	Carole		117
+9/3/1996	REP	Republican	USR	United States Representative	LAF	Lafayette	002		5	5	Griffin	Carole		27
+9/3/1996	REP	Republican	USR	United States Representative	LEO	Leon	002		94	94	Griffin	Carole		3756
+9/3/1996	REP	Republican	USR	United States Representative	LIB	Liberty	002		8	8	Griffin	Carole		18
+9/3/1996	REP	Republican	USR	United States Representative	MAD	Madison	002		11	11	Griffin	Carole		130
+9/3/1996	REP	Republican	USR	United States Representative	SUW	Suwannee	002		16	16	Griffin	Carole		459
+9/3/1996	REP	Republican	USR	United States Representative	TAY	Taylor	002		14	14	Griffin	Carole		158
+9/3/1996	REP	Republican	USR	United States Representative	WAK	Wakulla	002		12	12	Griffin	Carole		174
+9/3/1996	REP	Republican	USR	United States Representative	WAS	Washington	002		15	15	Griffin	Carole		191
+9/3/1996	REP	Republican	USR	United States Representative	BAY	Bay	002		36	36	Sutton	Bill		2318
+9/3/1996	REP	Republican	USR	United States Representative	CAL	Calhoun	002		13	13	Sutton	Bill		40
+9/3/1996	REP	Republican	USR	United States Representative	CLM	Columbia	002		16	16	Sutton	Bill		230
+9/3/1996	REP	Republican	USR	United States Representative	DIX	Dixie	002		11	11	Sutton	Bill		35
+9/3/1996	REP	Republican	USR	United States Representative	FRA	Franklin	002		8	8	Sutton	Bill		59
+9/3/1996	REP	Republican	USR	United States Representative	GAD	Gadsden	002		16	16	Sutton	Bill		225
+9/3/1996	REP	Republican	USR	United States Representative	GIL	Gilchrist	002		10	10	Sutton	Bill		150
+9/3/1996	REP	Republican	USR	United States Representative	GUL	Gulf	002		14	14	Sutton	Bill		228
+9/3/1996	REP	Republican	USR	United States Representative	HAM	Hamilton	002		8	8	Sutton	Bill		25
+9/3/1996	REP	Republican	USR	United States Representative	JAC	Jackson	002		26	26	Sutton	Bill		468
+9/3/1996	REP	Republican	USR	United States Representative	JEF	Jefferson	002		13	13	Sutton	Bill		217
+9/3/1996	REP	Republican	USR	United States Representative	LAF	Lafayette	002		5	5	Sutton	Bill		35
+9/3/1996	REP	Republican	USR	United States Representative	LEO	Leon	002		94	94	Sutton	Bill		5874
+9/3/1996	REP	Republican	USR	United States Representative	LIB	Liberty	002		8	8	Sutton	Bill		25
+9/3/1996	REP	Republican	USR	United States Representative	MAD	Madison	002		11	11	Sutton	Bill		76
+9/3/1996	REP	Republican	USR	United States Representative	SUW	Suwannee	002		16	16	Sutton	Bill		503
+9/3/1996	REP	Republican	USR	United States Representative	TAY	Taylor	002		14	14	Sutton	Bill		180
+9/3/1996	REP	Republican	USR	United States Representative	WAK	Wakulla	002		12	12	Sutton	Bill		145
+9/3/1996	REP	Republican	USR	United States Representative	WAS	Washington	002		15	15	Sutton	Bill		128
+9/3/1996	REP	Republican	USR	United States Representative	DUV	Duval	004		134	134	Fowler	Tillie	K.	19895
+9/3/1996	REP	Republican	USR	United States Representative	FLA	Flagler	004		23	23	Fowler	Tillie	K.	2702
+9/3/1996	REP	Republican	USR	United States Representative	NAS	Nassau	004		17	17	Fowler	Tillie	K.	3358
+9/3/1996	REP	Republican	USR	United States Representative	STJ	St. Johns	004		48	48	Fowler	Tillie	K.	10834
+9/3/1996	REP	Republican	USR	United States Representative	VOL	Volusia	004		46	46	Fowler	Tillie	K.	5258
+9/3/1996	REP	Republican	USR	United States Representative	DUV	Duval	004		134	134	Trude	Gregg	R.	1971
+9/3/1996	REP	Republican	USR	United States Representative	FLA	Flagler	004		23	23	Trude	Gregg	R.	531
+9/3/1996	REP	Republican	USR	United States Representative	NAS	Nassau	004		17	17	Trude	Gregg	R.	434
+9/3/1996	REP	Republican	USR	United States Representative	STJ	St. Johns	004		48	48	Trude	Gregg	R.	1320
+9/3/1996	REP	Republican	USR	United States Representative	VOL	Volusia	004		46	46	Trude	Gregg	R.	701
+9/3/1996	REP	Republican	USR	United States Representative	ALA	Alachua	005		49	49	Beadle	Tom		965
+9/3/1996	REP	Republican	USR	United States Representative	CIT	Citrus	005		30	30	Beadle	Tom		1405
+9/3/1996	REP	Republican	USR	United States Representative	CLM	Columbia	005		21	21	Beadle	Tom		371
+9/3/1996	REP	Republican	USR	United States Representative	HER	Hernando	005		51	51	Beadle	Tom		2642
+9/3/1996	REP	Republican	USR	United States Representative	LEV	Levy	005		21	21	Beadle	Tom		167
+9/3/1996	REP	Republican	USR	United States Representative	MRN	Marion	005		8	8	Beadle	Tom		147
+9/3/1996	REP	Republican	USR	United States Representative	PAS	Pasco	005		56	56	Beadle	Tom		2492
+9/3/1996	REP	Republican	USR	United States Representative	ALA	Alachua	005		49	49	Gentry	Dave		3676
+9/3/1996	REP	Republican	USR	United States Representative	CIT	Citrus	005		30	30	Gentry	Dave		4796
+9/3/1996	REP	Republican	USR	United States Representative	CLM	Columbia	005		21	21	Gentry	Dave		883
+9/3/1996	REP	Republican	USR	United States Representative	HER	Hernando	005		51	51	Gentry	Dave		5763
+9/3/1996	REP	Republican	USR	United States Representative	LEV	Levy	005		21	21	Gentry	Dave		433
+9/3/1996	REP	Republican	USR	United States Representative	MRN	Marion	005		8	8	Gentry	Dave		309
+9/3/1996	REP	Republican	USR	United States Representative	PAS	Pasco	005		56	56	Gentry	Dave		3525
+9/3/1996	REP	Republican	USR	United States Representative	ALA	Alachua	005		49	49	Gilstrap	Pat		721
+9/3/1996	REP	Republican	USR	United States Representative	CIT	Citrus	005		30	30	Gilstrap	Pat		4102
+9/3/1996	REP	Republican	USR	United States Representative	CLM	Columbia	005		21	21	Gilstrap	Pat		285
+9/3/1996	REP	Republican	USR	United States Representative	HER	Hernando	005		51	51	Gilstrap	Pat		1647
+9/3/1996	REP	Republican	USR	United States Representative	LEV	Levy	005		21	21	Gilstrap	Pat		288
+9/3/1996	REP	Republican	USR	United States Representative	MRN	Marion	005		8	8	Gilstrap	Pat		293
+9/3/1996	REP	Republican	USR	United States Representative	PAS	Pasco	005		56	56	Gilstrap	Pat		2317
+9/3/1996	REP	Republican	USR	United States Representative	HIL	Hillsborough	009		81	81	Bilirakis	Michael		15930
+9/3/1996	REP	Republican	USR	United States Representative	PAS	Pasco	009		60	60	Bilirakis	Michael		8901
+9/3/1996	REP	Republican	USR	United States Representative	PIN	Pinellas	009		113	113	Bilirakis	Michael		20352
+9/3/1996	REP	Republican	USR	United States Representative	HIL	Hillsborough	009		81	81	Corbino	Pamela	Mills	3677
+9/3/1996	REP	Republican	USR	United States Representative	PAS	Pasco	009		60	60	Corbino	Pamela	Mills	1987
+9/3/1996	REP	Republican	USR	United States Representative	PIN	Pinellas	009		113	113	Corbino	Pamela	Mills	5572
+9/3/1996	REP	Republican	USR	United States Representative	BRO	Broward	019		128	128	Kennedy	Beverly		4018
+9/3/1996	REP	Republican	USR	United States Representative	PAL	Palm Beach	019		153	153	Kennedy	Beverly		6250
+9/3/1996	REP	Republican	USR	United States Representative	BRO	Broward	019		128	128	Smith	Dr.	Joseph	1815
+9/3/1996	REP	Republican	USR	United States Representative	PAL	Palm Beach	019		153	153	Smith	Dr.	Joseph	2747
+9/3/1996	REP	Republican	STA	State Attorney	FLA	Flagler	007		25	25	Alexander	James	S. 'Steve'	1177
+9/3/1996	REP	Republican	STA	State Attorney	PUT	Putnam	007		51	51	Alexander	James	S. 'Steve'	1113
+9/3/1996	REP	Republican	STA	State Attorney	STJ	St. Johns	007		57	57	Alexander	James	S. 'Steve'	7646
+9/3/1996	REP	Republican	STA	State Attorney	VOL	Volusia	007		174	174	Alexander	James	S. 'Steve'	8869
+9/3/1996	REP	Republican	STA	State Attorney	FLA	Flagler	007		25	25	Tanner	John		2246
+9/3/1996	REP	Republican	STA	State Attorney	PUT	Putnam	007		51	51	Tanner	John		1120
+9/3/1996	REP	Republican	STA	State Attorney	STJ	St. Johns	007		57	57	Tanner	John		4650
+9/3/1996	REP	Republican	STA	State Attorney	VOL	Volusia	007		174	174	Tanner	John		12541
+9/3/1996	REP	Republican	STA	State Attorney	HIL	Hillsborough	013		420	420	Kavouklis	Mike		41000
+9/3/1996	REP	Republican	STA	State Attorney	HIL	Hillsborough	013		420	420	Moser	John		32699
+9/3/1996	REP	Republican	PUB	Public Defender	PAS	Pasco	006		135	135	Dillinger	Bob		11336
+9/3/1996	REP	Republican	PUB	Public Defender	PIN	Pinellas	006		343	343	Dillinger	Bob		31388
+9/3/1996	REP	Republican	PUB	Public Defender	PAS	Pasco	006		135	135	Jagger	Robert	E.	8690
+9/3/1996	REP	Republican	PUB	Public Defender	PIN	Pinellas	006		343	343	Jagger	Robert	E.	23655
+9/3/1996	REP	Republican	STS	State Senator	BAY	Bay	007		19	19	Benson	Lois		675
+9/3/1996	REP	Republican	STS	State Senator	ESC	Escambia	007		39	39	Benson	Lois		4163
+9/3/1996	REP	Republican	STS	State Senator	OKA	Okaloosa	007		34	34	Benson	Lois		4943
+9/3/1996	REP	Republican	STS	State Senator	SAN	Santa Rosa	007		13	13	Benson	Lois		2101
+9/3/1996	REP	Republican	STS	State Senator	WAL	Walton	007		3	3	Benson	Lois		200
+9/3/1996	REP	Republican	STS	State Senator	BAY	Bay	007		19	19	Clary	Charlie		898
+9/3/1996	REP	Republican	STS	State Senator	ESC	Escambia	007		39	39	Clary	Charlie		1256
+9/3/1996	REP	Republican	STS	State Senator	OKA	Okaloosa	007		34	34	Clary	Charlie		7229
+9/3/1996	REP	Republican	STS	State Senator	SAN	Santa Rosa	007		13	13	Clary	Charlie		1105
+9/3/1996	REP	Republican	STS	State Senator	WAL	Walton	007		3	3	Clary	Charlie		286
+9/3/1996	REP	Republican	STS	State Senator	BAY	Bay	007		19	19	McMillan	Francis	N. (Mac)	284
+9/3/1996	REP	Republican	STS	State Senator	ESC	Escambia	007		39	39	McMillan	Francis	N. (Mac)	213
+9/3/1996	REP	Republican	STS	State Senator	OKA	Okaloosa	007		34	34	McMillan	Francis	N. (Mac)	553
+9/3/1996	REP	Republican	STS	State Senator	SAN	Santa Rosa	007		13	13	McMillan	Francis	N. (Mac)	140
+9/3/1996	REP	Republican	STS	State Senator	WAL	Walton	007		3	3	McMillan	Francis	N. (Mac)	35
+9/3/1996	REP	Republican	STS	State Senator	BAY	Bay	007		19	19	Seltzer	Rick		2763
+9/3/1996	REP	Republican	STS	State Senator	ESC	Escambia	007		39	39	Seltzer	Rick		1698
+9/3/1996	REP	Republican	STS	State Senator	OKA	Okaloosa	007		34	34	Seltzer	Rick		3600
+9/3/1996	REP	Republican	STS	State Senator	SAN	Santa Rosa	007		13	13	Seltzer	Rick		1212
+9/3/1996	REP	Republican	STS	State Senator	WAL	Walton	007		3	3	Seltzer	Rick		209
+9/3/1996	REP	Republican	STS	State Senator	BAY	Bay	007		19	19	Webb	Joe		251
+9/3/1996	REP	Republican	STS	State Senator	ESC	Escambia	007		39	39	Webb	Joe		991
+9/3/1996	REP	Republican	STS	State Senator	OKA	Okaloosa	007		34	34	Webb	Joe		763
+9/3/1996	REP	Republican	STS	State Senator	SAN	Santa Rosa	007		13	13	Webb	Joe		315
+9/3/1996	REP	Republican	STS	State Senator	WAL	Walton	007		3	3	Webb	Joe		36
+9/3/1996	REP	Republican	STS	State Senator	CIT	Citrus	011		15	15	Cone	Al	J.	708
+9/3/1996	REP	Republican	STS	State Senator	LAK	Lake	011		77	77	Cone	Al	J.	2503
+9/3/1996	REP	Republican	STS	State Senator	MRN	Marion	011		44	44	Cone	Al	J.	2061
+9/3/1996	REP	Republican	STS	State Senator	SEM	Seminole	011		12	12	Cone	Al	J.	269
+9/3/1996	REP	Republican	STS	State Senator	SUM	Sumter	011		7	7	Cone	Al	J.	175
+9/3/1996	REP	Republican	STS	State Senator	CIT	Citrus	011		15	15	Cowin	Anna		791
+9/3/1996	REP	Republican	STS	State Senator	LAK	Lake	011		77	77	Cowin	Anna		8037
+9/3/1996	REP	Republican	STS	State Senator	MRN	Marion	011		44	44	Cowin	Anna		1977
+9/3/1996	REP	Republican	STS	State Senator	SEM	Seminole	011		12	12	Cowin	Anna		245
+9/3/1996	REP	Republican	STS	State Senator	SUM	Sumter	011		7	7	Cowin	Anna		151
+9/3/1996	REP	Republican	STS	State Senator	CIT	Citrus	011		15	15	Lamb	Hope		1822
+9/3/1996	REP	Republican	STS	State Senator	LAK	Lake	011		77	77	Lamb	Hope		5841
+9/3/1996	REP	Republican	STS	State Senator	MRN	Marion	011		44	44	Lamb	Hope		2632
+9/3/1996	REP	Republican	STS	State Senator	SEM	Seminole	011		12	12	Lamb	Hope		527
+9/3/1996	REP	Republican	STS	State Senator	SUM	Sumter	011		7	7	Lamb	Hope		408
+9/3/1996	REP	Republican	STS	State Senator	CIT	Citrus	011		15	15	Siegel	Gary		589
+9/3/1996	REP	Republican	STS	State Senator	LAK	Lake	011		77	77	Siegel	Gary		2056
+9/3/1996	REP	Republican	STS	State Senator	MRN	Marion	011		44	44	Siegel	Gary		832
+9/3/1996	REP	Republican	STS	State Senator	SEM	Seminole	011		12	12	Siegel	Gary		623
+9/3/1996	REP	Republican	STS	State Senator	SUM	Sumter	011		7	7	Siegel	Gary		42
+9/3/1996	REP	Republican	STS	State Senator	CIT	Citrus	011		15	15	White	Chester	J	1805
+9/3/1996	REP	Republican	STS	State Senator	LAK	Lake	011		77	77	White	Chester	J	949
+9/3/1996	REP	Republican	STS	State Senator	MRN	Marion	011		44	44	White	Chester	J	513
+9/3/1996	REP	Republican	STS	State Senator	SEM	Seminole	011		12	12	White	Chester	J	152
+9/3/1996	REP	Republican	STS	State Senator	SUM	Sumter	011		7	7	White	Chester	J	44
+9/3/1996	REP	Republican	STS	State Senator	HIL	Hillsborough	023		126	126	Lee	Tom		14507
+9/3/1996	REP	Republican	STS	State Senator	POL	Polk	023		20	20	Lee	Tom		2054
+9/3/1996	REP	Republican	STS	State Senator	HIL	Hillsborough	023		126	126	Proctor	Mark		9092
+9/3/1996	REP	Republican	STS	State Senator	POL	Polk	023		20	20	Proctor	Mark		1260
+9/3/1996	REP	Republican	STS	State Senator	HIL	Hillsborough	023		126	126	Tompkins	Betty	Jo	6808
+9/3/1996	REP	Republican	STS	State Senator	POL	Polk	023		20	20	Tompkins	Betty	Jo	724
+9/3/1996	REP	Republican	STR	State Representative	ESC	Escambia	004		2	2	Conran	Phil		63
+9/3/1996	REP	Republican	STR	State Representative	OKA	Okaloosa	004		27	27	Conran	Phil		2246
+9/3/1996	REP	Republican	STR	State Representative	SAN	Santa Rosa	004		8	8	Conran	Phil		493
+9/3/1996	REP	Republican	STR	State Representative	ESC	Escambia	004		2	2	Melvin	Jerry		172
+9/3/1996	REP	Republican	STR	State Representative	OKA	Okaloosa	004		27	27	Melvin	Jerry		6730
+9/3/1996	REP	Republican	STR	State Representative	SAN	Santa Rosa	004		8	8	Melvin	Jerry		2006
+9/3/1996	REP	Republican	STR	State Representative	ESC	Escambia	004		2	2	Moore	Bert		18
+9/3/1996	REP	Republican	STR	State Representative	OKA	Okaloosa	004		27	27	Moore	Bert		1204
+9/3/1996	REP	Republican	STR	State Representative	SAN	Santa Rosa	004		8	8	Moore	Bert		164
+9/3/1996	REP	Republican	STR	State Representative	ESC	Escambia	004		2	2	Walker	Chris		47
+9/3/1996	REP	Republican	STR	State Representative	OKA	Okaloosa	004		27	27	Walker	Chris		1839
+9/3/1996	REP	Republican	STR	State Representative	SAN	Santa Rosa	004		8	8	Walker	Chris		402
+9/3/1996	REP	Republican	STR	State Representative	ESC	Escambia	004		2	2	Weimorts	Mike		62
+9/3/1996	REP	Republican	STR	State Representative	OKA	Okaloosa	004		27	27	Weimorts	Mike		2133
+9/3/1996	REP	Republican	STR	State Representative	SAN	Santa Rosa	004		8	8	Weimorts	Mike		659
+9/3/1996	REP	Republican	STR	State Representative	HOL	Holmes	005		16	16	Brown	Donald	D.	61
+9/3/1996	REP	Republican	STR	State Representative	OKA	Okaloosa	005		17	17	Brown	Donald	D.	1745
+9/3/1996	REP	Republican	STR	State Representative	WAL	Walton	005		29	29	Brown	Donald	D.	546
+9/3/1996	REP	Republican	STR	State Representative	WAS	Washington	005		15	15	Brown	Donald	D.	93
+9/3/1996	REP	Republican	STR	State Representative	HOL	Holmes	005		16	16	Brown	John	R.	74
+9/3/1996	REP	Republican	STR	State Representative	OKA	Okaloosa	005		17	17	Brown	John	R.	1577
+9/3/1996	REP	Republican	STR	State Representative	WAL	Walton	005		29	29	Brown	John	R.	216
+9/3/1996	REP	Republican	STR	State Representative	WAS	Washington	005		15	15	Brown	John	R.	149
+9/3/1996	REP	Republican	STR	State Representative	HOL	Holmes	005		16	16	Wade	Leonard	'Lennie'	30
+9/3/1996	REP	Republican	STR	State Representative	OKA	Okaloosa	005		17	17	Wade	Leonard	'Lennie'	2245
+9/3/1996	REP	Republican	STR	State Representative	WAL	Walton	005		29	29	Wade	Leonard	'Lennie'	239
+9/3/1996	REP	Republican	STR	State Representative	WAS	Washington	005		15	15	Wade	Leonard	'Lennie'	96
+9/3/1996	REP	Republican	STR	State Representative	BAY	Bay	007		12	12	Anderson	Mark		861
+9/3/1996	REP	Republican	STR	State Representative	CAL	Calhoun	007		13	13	Anderson	Mark		62
+9/3/1996	REP	Republican	STR	State Representative	GAD	Gadsden	007		5	5	Anderson	Mark		29
+9/3/1996	REP	Republican	STR	State Representative	GUL	Gulf	007		14	14	Anderson	Mark		165
+9/3/1996	REP	Republican	STR	State Representative	JAC	Jackson	007		26	26	Anderson	Mark		711
+9/3/1996	REP	Republican	STR	State Representative	LEO	Leon	007		6	6	Anderson	Mark		263
+9/3/1996	REP	Republican	STR	State Representative	LIB	Liberty	007		8	8	Anderson	Mark		23
+9/3/1996	REP	Republican	STR	State Representative	WAL	Walton	007		4	4	Anderson	Mark		407
+9/3/1996	REP	Republican	STR	State Representative	BAY	Bay	007		12	12	Rish	Ralph		397
+9/3/1996	REP	Republican	STR	State Representative	CAL	Calhoun	007		13	13	Rish	Ralph		56
+9/3/1996	REP	Republican	STR	State Representative	GAD	Gadsden	007		5	5	Rish	Ralph		5
+9/3/1996	REP	Republican	STR	State Representative	GUL	Gulf	007		14	14	Rish	Ralph		312
+9/3/1996	REP	Republican	STR	State Representative	JAC	Jackson	007		26	26	Rish	Ralph		334
+9/3/1996	REP	Republican	STR	State Representative	LEO	Leon	007		6	6	Rish	Ralph		146
+9/3/1996	REP	Republican	STR	State Representative	LIB	Liberty	007		8	8	Rish	Ralph		23
+9/3/1996	REP	Republican	STR	State Representative	WAL	Walton	007		4	4	Rish	Ralph		444
+9/3/1996	REP	Republican	STR	State Representative	ALA	Alachua	010		3	3	Blue	Bill		76
+9/3/1996	REP	Republican	STR	State Representative	DIX	Dixie	010		11	11	Blue	Bill		58
+9/3/1996	REP	Republican	STR	State Representative	FRA	Franklin	010		8	8	Blue	Bill		70
+9/3/1996	REP	Republican	STR	State Representative	GIL	Gilchrist	010		5	5	Blue	Bill		44
+9/3/1996	REP	Republican	STR	State Representative	JEF	Jefferson	010		13	13	Blue	Bill		212
+9/3/1996	REP	Republican	STR	State Representative	LEO	Leon	010		4	4	Blue	Bill		135
+9/3/1996	REP	Republican	STR	State Representative	LEV	Levy	010		21	21	Blue	Bill		434
+9/3/1996	REP	Republican	STR	State Representative	MRN	Marion	010		5	5	Blue	Bill		274
+9/3/1996	REP	Republican	STR	State Representative	TAY	Taylor	010		14	14	Blue	Bill		315
+9/3/1996	REP	Republican	STR	State Representative	WAK	Wakulla	010		12	12	Blue	Bill		197
+9/3/1996	REP	Republican	STR	State Representative	ALA	Alachua	010		3	3	Desmond	Noel	K	67
+9/3/1996	REP	Republican	STR	State Representative	DIX	Dixie	010		11	11	Desmond	Noel	K	56
+9/3/1996	REP	Republican	STR	State Representative	FRA	Franklin	010		8	8	Desmond	Noel	K	68
+9/3/1996	REP	Republican	STR	State Representative	GIL	Gilchrist	010		5	5	Desmond	Noel	K	61
+9/3/1996	REP	Republican	STR	State Representative	JEF	Jefferson	010		13	13	Desmond	Noel	K	130
+9/3/1996	REP	Republican	STR	State Representative	LEO	Leon	010		4	4	Desmond	Noel	K	79
+9/3/1996	REP	Republican	STR	State Representative	LEV	Levy	010		21	21	Desmond	Noel	K	476
+9/3/1996	REP	Republican	STR	State Representative	MRN	Marion	010		5	5	Desmond	Noel	K	220
+9/3/1996	REP	Republican	STR	State Representative	TAY	Taylor	010		14	14	Desmond	Noel	K	95
+9/3/1996	REP	Republican	STR	State Representative	WAK	Wakulla	010		12	12	Desmond	Noel	K	181
+9/3/1996	REP	Republican	STR	State Representative	CLM	Columbia	011		30	30	Logan	Raymond	A.	781
+9/3/1996	REP	Republican	STR	State Representative	DIX	Dixie	011		1	1	Logan	Raymond	A.	1
+9/3/1996	REP	Republican	STR	State Representative	GIL	Gilchrist	011		9	9	Logan	Raymond	A.	61
+9/3/1996	REP	Republican	STR	State Representative	HAM	Hamilton	011		8	8	Logan	Raymond	A.	27
+9/3/1996	REP	Republican	STR	State Representative	LAF	Lafayette	011		5	5	Logan	Raymond	A.	19
+9/3/1996	REP	Republican	STR	State Representative	MAD	Madison	011		11	11	Logan	Raymond	A.	78
+9/3/1996	REP	Republican	STR	State Representative	SUW	Suwannee	011		16	16	Logan	Raymond	A.	328
+9/3/1996	REP	Republican	STR	State Representative	CLM	Columbia	011		30	30	Whitley	William	E. 'Bill'	1360
+9/3/1996	REP	Republican	STR	State Representative	DIX	Dixie	011		1	1	Whitley	William	E. 'Bill'	1
+9/3/1996	REP	Republican	STR	State Representative	GIL	Gilchrist	011		9	9	Whitley	William	E. 'Bill'	188
+9/3/1996	REP	Republican	STR	State Representative	HAM	Hamilton	011		8	8	Whitley	William	E. 'Bill'	68
+9/3/1996	REP	Republican	STR	State Representative	LAF	Lafayette	011		5	5	Whitley	William	E. 'Bill'	66
+9/3/1996	REP	Republican	STR	State Representative	MAD	Madison	011		11	11	Whitley	William	E. 'Bill'	174
+9/3/1996	REP	Republican	STR	State Representative	SUW	Suwannee	011		16	16	Whitley	William	E. 'Bill'	788
+9/3/1996	REP	Republican	STR	State Representative	BAK	Baker	012		8	8	Bowers	Jim		118
+9/3/1996	REP	Republican	STR	State Representative	BRA	Bradford	012		19	19	Bowers	Jim		128
+9/3/1996	REP	Republican	STR	State Representative	DUV	Duval	012		9	9	Bowers	Jim		124
+9/3/1996	REP	Republican	STR	State Representative	NAS	Nassau	012		17	17	Bowers	Jim		1463
+9/3/1996	REP	Republican	STR	State Representative	UNI	Union	012		11	11	Bowers	Jim		42
+9/3/1996	REP	Republican	STR	State Representative	BAK	Baker	012		8	8	Herrin	Max	E.	163
+9/3/1996	REP	Republican	STR	State Representative	BRA	Bradford	012		19	19	Herrin	Max	E.	500
+9/3/1996	REP	Republican	STR	State Representative	DUV	Duval	012		9	9	Herrin	Max	E.	177
+9/3/1996	REP	Republican	STR	State Representative	NAS	Nassau	012		17	17	Herrin	Max	E.	2047
+9/3/1996	REP	Republican	STR	State Representative	UNI	Union	012		11	11	Herrin	Max	E.	60
+9/3/1996	REP	Republican	STR	State Representative	CLA	Clay	020		5	5	Burkhardt	Michael		216
+9/3/1996	REP	Republican	STR	State Representative	FLA	Flagler	020		20	20	Burkhardt	Michael		912
+9/3/1996	REP	Republican	STR	State Representative	STJ	St. Johns	020		42	42	Burkhardt	Michael		3598
+9/3/1996	REP	Republican	STR	State Representative	VOL	Volusia	020		12	12	Burkhardt	Michael		571
+9/3/1996	REP	Republican	STR	State Representative	CLA	Clay	020		5	5	Hayes	Jim		761
+9/3/1996	REP	Republican	STR	State Representative	FLA	Flagler	020		20	20	Hayes	Jim		1881
+9/3/1996	REP	Republican	STR	State Representative	STJ	St. Johns	020		42	42	Hayes	Jim		2992
+9/3/1996	REP	Republican	STR	State Representative	VOL	Volusia	020		12	12	Hayes	Jim		1007
+9/3/1996	REP	Republican	STR	State Representative	CLA	Clay	020		5	5	Peterson	Dean		79
+9/3/1996	REP	Republican	STR	State Representative	FLA	Flagler	020		20	20	Peterson	Dean		299
+9/3/1996	REP	Republican	STR	State Representative	STJ	St. Johns	020		42	42	Peterson	Dean		438
+9/3/1996	REP	Republican	STR	State Representative	VOL	Volusia	020		12	12	Peterson	Dean		189
+9/3/1996	REP	Republican	STR	State Representative	LAK	Lake	025		25	25	Bainter	Stan		4200
+9/3/1996	REP	Republican	STR	State Representative	MRN	Marion	025		2	2	Bainter	Stan		135
+9/3/1996	REP	Republican	STR	State Representative	SEM	Seminole	025		14	14	Bainter	Stan		1343
+9/3/1996	REP	Republican	STR	State Representative	VOL	Volusia	025		16	16	Bainter	Stan		1501
+9/3/1996	REP	Republican	STR	State Representative	LAK	Lake	025		25	25	Phillips	Ron		2459
+9/3/1996	REP	Republican	STR	State Representative	MRN	Marion	025		2	2	Phillips	Ron		97
+9/3/1996	REP	Republican	STR	State Representative	SEM	Seminole	025		14	14	Phillips	Ron		932
+9/3/1996	REP	Republican	STR	State Representative	VOL	Volusia	025		16	16	Phillips	Ron		769
+9/3/1996	REP	Republican	STR	State Representative	VOL	Volusia	028		52	52	Carpenella	Paul	A.	1182
+9/3/1996	REP	Republican	STR	State Representative	VOL	Volusia	028		52	52	Cooper	Fred		3570
+9/3/1996	REP	Republican	STR	State Representative	VOL	Volusia	028		52	52	Tanner	Jim		2049
+9/3/1996	REP	Republican	STR	State Representative	BRE	Brevard	031		43	43	Blackburn	Ann	T.	5227
+9/3/1996	REP	Republican	STR	State Representative	BRE	Brevard	031		43	43	Rosa	Rich	De	3167
+9/3/1996	REP	Republican	STR	State Representative	ORA	Orange	040		45	45	Patterson	Nancy		3095
+9/3/1996	REP	Republican	STR	State Representative	ORA	Orange	040		45	45	Sublette	Bill		4709
+9/3/1996	REP	Republican	STR	State Representative	CIT	Citrus	043		30	30	Argenziano	Nancy		6835
+9/3/1996	REP	Republican	STR	State Representative	HER	Hernando	043		8	8	Argenziano	Nancy		775
+9/3/1996	REP	Republican	STR	State Representative	MRN	Marion	043		2	2	Argenziano	Nancy		109
+9/3/1996	REP	Republican	STR	State Representative	CIT	Citrus	043		30	30	Steighner	R.D.	'Skip'	3395
+9/3/1996	REP	Republican	STR	State Representative	HER	Hernando	043		8	8	Steighner	R.D.	'Skip'	522
+9/3/1996	REP	Republican	STR	State Representative	MRN	Marion	043		2	2	Steighner	R.D.	'Skip'	42
+9/3/1996	REP	Republican	STR	State Representative	PAS	Pasco	046		45	45	Kelley	Joan		3826
+9/3/1996	REP	Republican	STR	State Representative	PAS	Pasco	046		45	45	Levine	Alan		4795
+9/3/1996	REP	Republican	STR	State Representative	HIL	Hillsborough	047		45	45	Craig	Will		4057
+9/3/1996	REP	Republican	STR	State Representative	PIN	Pinellas	047		7	7	Craig	Will		537
+9/3/1996	REP	Republican	STR	State Representative	HIL	Hillsborough	047		45	45	Wallace	Rob		7064
+9/3/1996	REP	Republican	STR	State Representative	PIN	Pinellas	047		7	7	Wallace	Rob		1059
+9/3/1996	REP	Republican	STR	State Representative	PIN	Pinellas	052		45	45	Burns	Cary		3095
+9/3/1996	REP	Republican	STR	State Representative	PIN	Pinellas	052		45	45	Farkas	Frank		3296
+9/3/1996	REP	Republican	STR	State Representative	HIL	Hillsborough	058		58	58	Hanisee	Mark	S.	3352
+9/3/1996	REP	Republican	STR	State Representative	HIL	Hillsborough	058		58	58	MacPherson	Doug	('Mac')	3306
+9/3/1996	REP	Republican	STR	State Representative	HIL	Hillsborough	062		38	38	Byrd, Jr.	Johnnie	B.	4368
+9/3/1996	REP	Republican	STR	State Representative	HIL	Hillsborough	062		38	38	McHugh	Jim		2986
+9/3/1996	REP	Republican	STR	State Representative	HIL	Hillsborough	062		38	38	O'Hara	Lloyd		693
+9/3/1996	REP	Republican	STR	State Representative	HIL	Hillsborough	062		38	38	Storms	Ronda	R.	4530
+9/3/1996	REP	Republican	STR	State Representative	POL	Polk	063		49	49	Putnam	Adam	H.	5567
+9/3/1996	REP	Republican	STR	State Representative	POL	Polk	063		49	49	Ready	Gene		3185
+9/3/1996	REP	Republican	STR	State Representative	MAN	Manatee	068		62	62	Flanagan	Mark	G.	6743
+9/3/1996	REP	Republican	STR	State Representative	MAN	Manatee	068		62	62	Gerber	Lois	M.	4652
+9/3/1996	REP	Republican	STR	State Representative	SAR	Sarasota	069		48	48	Grunstein	Gregg	S.	5549
+9/3/1996	REP	Republican	STR	State Representative	SAR	Sarasota	069		48	48	Kaltsas	HARV		3068
+9/3/1996	REP	Republican	STR	State Representative	CHA	Charlotte	071		40	40	Bitner	David	I.	7353
+9/3/1996	REP	Republican	STR	State Representative	SAR	Sarasota	071		20	20	Bitner	David	I.	2240
+9/3/1996	REP	Republican	STR	State Representative	CHA	Charlotte	071		40	40	Jones	Phillip	J.	4063
+9/3/1996	REP	Republican	STR	State Representative	SAR	Sarasota	071		20	20	Jones	Phillip	J.	1696
+9/3/1996	REP	Republican	STR	State Representative	CLL	Collier	077		3	3	Gossett, Jr.	Gary	R.	162
+9/3/1996	REP	Republican	STR	State Representative	GLA	Glades	077		13	13	Gossett, Jr.	Gary	R.	107
+9/3/1996	REP	Republican	STR	State Representative	HEN	Hendry	077		22	22	Gossett, Jr.	Gary	R.	422
+9/3/1996	REP	Republican	STR	State Representative	HIG	Highlands	077		18	18	Gossett, Jr.	Gary	R.	1427
+9/3/1996	REP	Republican	STR	State Representative	CLL	Collier	077		3	3	Platt	Frank		75
+9/3/1996	REP	Republican	STR	State Representative	GLA	Glades	077		13	13	Platt	Frank		103
+9/3/1996	REP	Republican	STR	State Representative	HEN	Hendry	077		22	22	Platt	Frank		486
+9/3/1996	REP	Republican	STR	State Representative	HIG	Highlands	077		18	18	Platt	Frank		2830
+9/3/1996	REP	Republican	STR	State Representative	CLL	Collier	077		3	3	Pollard	Pete		45
+9/3/1996	REP	Republican	STR	State Representative	GLA	Glades	077		13	13	Pollard	Pete		37
+9/3/1996	REP	Republican	STR	State Representative	HEN	Hendry	077		22	22	Pollard	Pete		159
+9/3/1996	REP	Republican	STR	State Representative	HIG	Highlands	077		18	18	Pollard	Pete		2272
+9/3/1996	REP	Republican	STR	State Representative	BRO	Broward	092		58	58	Baum	Maurice		1515
+9/3/1996	REP	Republican	STR	State Representative	BRO	Broward	092		58	58	Boyle	Thomas	John	1713
+9/3/1996	REP	Republican	STR	State Representative	BRO	Broward	097		56	56	Clein	Steven	M.	1685
+9/3/1996	REP	Republican	STR	State Representative	BRO	Broward	097		56	56	Gardner	George	W.	2030
+9/3/1996	REP	Republican	STR	State Representative	DAD	Miami-Dade	115		36	36	Diaz de la Portilla	Alex		8968
+9/3/1996	REP	Republican	STR	State Representative	DAD	Miami-Dade	115		36	36	Naaman	Fred	A.	1249
+9/3/1996	REP	Republican	STR	State Representative	DAD	Miami-Dade	117		34	34	Florez	Leo		1561
+9/3/1996	REP	Republican	STR	State Representative	DAD	Miami-Dade	117		34	34	Lacasa	Carlos	A.	7252
+9/3/1996	REP	Republican	STR	State Representative	DAD	Miami-Dade	117		34	34	Lopez Fernandez	Ovidio		764
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	006	8	8	Daire	Virginia		1561
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	006	16	16	Daire	Virginia		4045
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	006	13	13	Daire	Virginia		1257
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	006	94	94	Daire	Virginia		21871
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	006	8	8	Daire	Virginia		656
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	006	12	12	Daire	Virginia		2540
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	006	8	8	Sauls	N.	Sanders	2065
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	006	16	16	Sauls	N.	Sanders	6884
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	006	13	13	Sauls	N.	Sanders	2821
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	006	94	94	Sauls	N.	Sanders	25192
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	006	8	8	Sauls	N.	Sanders	1618
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	006	12	12	Sauls	N.	Sanders	3397
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	002	47	47	Johnson	Jean		11381
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	002	257	257	Johnson	Jean		41557
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	002	17	17	Johnson	Jean		5615
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	002	47	47	Meide, Jr.	Moses		7362
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	002	257	257	Meide, Jr.	Moses		28369
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	002	17	17	Meide, Jr.	Moses		3729
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	010	47	47	Day	Lance		11660
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	010	257	257	Day	Lance		40635
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	010	17	17	Day	Lance		5711
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	010	47	47	O'Hara	Jerilynn	(Jeri)	6454
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	010	257	257	O'Hara	Jerilynn	(Jeri)	21427
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	010	17	17	O'Hara	Jerilynn	(Jeri)	2989
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	010	47	47	Walton	Leatrice	Williams	989
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	010	257	257	Walton	Leatrice	Williams	8416
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	010	17	17	Walton	Leatrice	Williams	788
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	003	30	30	Gurrola	Barbara		7805
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	003	51	51	Gurrola	Barbara		8770
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	003	77	77	Gurrola	Barbara		11147
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	003	89	89	Gurrola	Barbara		11470
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	003	23	23	Gurrola	Barbara		3594
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	003	30	30	Neal	Curtis	J.	11140
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	003	51	51	Neal	Curtis	J.	4542
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	003	77	77	Neal	Curtis	J.	5782
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	003	89	89	Neal	Curtis	J.	6821
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	003	23	23	Neal	Curtis	J.	2157
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	003	30	30	Pope	Willard		2910
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	003	51	51	Pope	Willard		2655
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	003	77	77	Pope	Willard		5580
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	003	89	89	Pope	Willard		8648
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	003	23	23	Pope	Willard		1326
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	009	30	30	Singbush	Jack		9584
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	009	51	51	Singbush	Jack		7731
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	009	77	77	Singbush	Jack		9824
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	009	89	89	Singbush	Jack		16800
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	009	23	23	Singbush	Jack		2998
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	009	30	30	Welch	John	F	11426
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	009	51	51	Welch	John	F	7995
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	009	77	77	Welch	John	F	11956
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	009	89	89	Welch	John	F	10652
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	009	23	23	Welch	John	F	3740
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	011	30	30	Blackstone	J.	Michael	11983
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	011	51	51	Blackstone	J.	Michael	8803
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	011	77	77	Blackstone	J.	Michael	11460
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	011	89	89	Blackstone	J.	Michael	11553
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	011	23	23	Blackstone	J.	Michael	3342
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	011	30	30	Thurman	John		10384
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	011	51	51	Thurman	John		7339
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	011	77	77	Thurman	John		10433
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	011	89	89	Thurman	John		15173
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	011	23	23	Thurman	John		3727
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	001	137	137	Hoolihan	Dean		8051
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	001	343	343	Hoolihan	Dean		18295
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	001	137	137	Laughlin	Lauren		13712
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	001	343	343	Laughlin	Lauren		35095
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	001	137	137	Lewis, Sr.	Mark	R.	6625
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	001	343	343	Lewis, Sr.	Mark	R.	14979
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	001	137	137	Mooney	Nicholas	F.	6495
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	001	343	343	Mooney	Nicholas	F.	20026
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	006	137	137	Crane	Shawn		9954
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	006	343	343	Crane	Shawn		23988
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	006	137	137	Fleming	Marion		11156
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	006	343	343	Fleming	Marion		27609
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	006	137	137	Lovelace	Joe		5705
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	006	343	343	Lovelace	Joe		18466
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	006	137	137	Michaels	Thomas	O.	7970
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	006	343	343	Michaels	Thomas	O.	17788
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	016	137	137	Logan	Walt		18482
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	016	343	343	Logan	Walt		43838
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	016	137	137	Luten	Claire	K.	15565
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	016	343	343	Luten	Claire	K.	43074
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	017	137	137	Chaves	Sarah		19313
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	017	343	343	Chaves	Sarah		41569
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	017	137	137	Shames	Mark		15507
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	017	343	343	Shames	Mark		46482
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	007	25	25	'Bill' Johnson, Jr.	William	C.	4014
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	007	51	51	'Bill' Johnson, Jr.	William	C.	9289
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	007	57	57	'Bill' Johnson, Jr.	William	C.	12866
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	007	174	174	'Bill' Johnson, Jr.	William	C.	25466
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	007	25	25	Wells	Sylvan		2112
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	007	51	51	Wells	Sylvan		3065
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	007	57	57	Wells	Sylvan		4613
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	007	174	174	Wells	Sylvan		17010
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	014	25	25	Alexander	John		2953
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	014	51	51	Alexander	John		8733
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	014	57	57	Alexander	John		10569
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	014	174	174	Alexander	John		17182
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	014	25	25	Cushman	Thomas	E.	1805
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	014	51	51	Cushman	Thomas	E.	2260
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	014	57	57	Cushman	Thomas	E.	5328
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	014	174	174	Cushman	Thomas	E.	14919
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	014	25	25	Jones	Everett	F.	1427
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	014	51	51	Jones	Everett	F.	1903
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	014	57	57	Jones	Everett	F.	2934
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	014	174	174	Jones	Everett	F.	8067
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	ALA	Alachua	008	010	49	49	Lott	Martha	Ann	11372
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	BAK	Baker	008	010	8	8	Lott	Martha	Ann	3937
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	BRA	Bradford	008	010	19	19	Lott	Martha	Ann	3075
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	GIL	Gilchrist	008	010	10	10	Lott	Martha	Ann	2053
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LEV	Levy	008	010	21	21	Lott	Martha	Ann	3958
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	UNI	Union	008	010	11	11	Lott	Martha	Ann	1421
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	ALA	Alachua	008	010	49	49	Nilon	Jim		13841
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	BAK	Baker	008	010	8	8	Nilon	Jim		2702
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	BRA	Bradford	008	010	19	19	Nilon	Jim		2848
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	GIL	Gilchrist	008	010	10	10	Nilon	Jim		1648
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LEV	Levy	008	010	21	21	Nilon	Jim		2615
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	UNI	Union	008	010	11	11	Nilon	Jim		1616
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	018	205	205	Hesse	Keith	J.	19497
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	018	62	62	Hesse	Keith	J.	5246
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	018	205	205	McDonald	Roger	J.	29139
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	018	62	62	McDonald	Roger	J.	7377
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	021	205	205	Anderson	Kathy	Jane	22414
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	021	62	62	Anderson	Kathy	Jane	7662
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	021	205	205	Turner	W.	Rogers	25621
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	021	62	62	Turner	W.	Rogers	5036
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	025	205	205	Gloeckner	Linda		19512
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	025	62	62	Gloeckner	Linda		6069
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	025	205	205	Johnson	Tony		29473
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	025	62	62	Johnson	Tony		6920
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HAR	Hardee	010	002	12	12	Hileman	Byron		1318
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HIG	Highlands	010	002	24	24	Hileman	Byron		4617
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	POL	Polk	010	002	152	152	Hileman	Byron		24049
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HAR	Hardee	010	002	12	12	Pyle	Robert	E.	2830
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HIG	Highlands	010	002	24	24	Pyle	Robert	E.	5697
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	POL	Polk	010	002	152	152	Pyle	Robert	E.	29643
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HAR	Hardee	010	012	12	12	Roberts	Susan	W.	2834
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HIG	Highlands	010	012	24	24	Roberts	Susan	W.	6259
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	POL	Polk	010	012	152	152	Roberts	Susan	W.	30496
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HAR	Hardee	010	012	12	12	Sawyer	Gary	W.	1493
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HIG	Highlands	010	012	24	24	Sawyer	Gary	W.	4292
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	POL	Polk	010	012	152	152	Sawyer	Gary	W.	25594
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	016	576	576	Firtel	Leon		92608
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	016	576	576	Rodez	Miguel		73660
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	019	576	576	Ballman	Donna		85240
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	019	576	576	Crespo	Manny		97451
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	023	576	576	Lopez	Peter		101550
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	023	576	576	Schatzman	Larry	O.	71582
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	044	576	576	Ambrose	Marcus		73741
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	044	576	576	Bagley	Jerald		98525
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	064	576	576	Bass	Paul	H.	63659
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	064	576	576	Schockett	Eleanor	Levingston	93408
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	DES	Desoto	012	017	15	15	Baranowicz	Peter		832
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	MAN	Manatee	012	017	126	126	Baranowicz	Peter		3303
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	SAR	Sarasota	012	017	138	138	Baranowicz	Peter		7776
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	DES	Desoto	012	017	15	15	Ford-Kaus	Deborah		2190
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	MAN	Manatee	012	017	126	126	Ford-Kaus	Deborah		10361
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	SAR	Sarasota	012	017	138	138	Ford-Kaus	Deborah		19857
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	DES	Desoto	012	017	15	15	Swartz	Stanley	R.	1421
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	MAN	Manatee	012	017	126	126	Swartz	Stanley	R.	12861
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	SAR	Sarasota	012	017	138	138	Swartz	Stanley	R.	14463
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	010	420	420	Barbas	Rex		85702
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	010	420	420	Swanick	Linda		76945
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	011	420	420	Berkowitz	Herb		75314
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	011	420	420	Stoddard	Ralph		85315
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	013	420	420	Espinosa, Jr.	Jack		96999
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	013	420	420	Foster	T.	Michael	69842
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	027	420	420	Levens	Bill		42975
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	027	420	420	Maye	Vivian	C.	50115
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	027	420	420	McInnis	Richard	H.	34037
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	027	420	420	Morgan	Mina		31087
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	033	420	420	Essrig	Katherine	G.	97097
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	033	420	420	Scruggs, III	Charles	H.	70481
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	BAY	Bay	014	004	47	47	Pell	Robert	A.	12864
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CAL	Calhoun	014	004	13	13	Pell	Robert	A.	1226
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	GUL	Gulf	014	004	14	14	Pell	Robert	A.	2746
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HOL	Holmes	014	004	16	16	Pell	Robert	A.	2725
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	JAC	Jackson	014	004	31	31	Pell	Robert	A.	3370
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	WAS	Washington	014	004	15	15	Pell	Robert	A.	2428
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	BAY	Bay	014	004	47	47	Wright	Bill		9357
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CAL	Calhoun	014	004	13	13	Wright	Bill		2199
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	GUL	Gulf	014	004	14	14	Wright	Bill		2461
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HOL	Holmes	014	004	16	16	Wright	Bill		2360
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	JAC	Jackson	014	004	31	31	Wright	Bill		9510
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	WAS	Washington	014	004	15	15	Wright	Bill		3013
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	021	479	479	Barkdull III	Thomas	('Tom')	19692
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	021	479	479	Fields	Joseph	R.	9408
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	021	479	479	Levine	Curtis	G. 'Curt'	15778
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	021	479	479	Marinelli	John	P.	11266
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	021	479	479	Russell	Paula	A.	20563
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	023	479	479	Paparella	Kathleen		30771
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	023	479	479	Wennet	Richard	I.	44398
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	031	479	479	Broome	Virginia	Gay	42706
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	031	479	479	Pleasanton	David	F.	30693
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	MON	Monroe	016	001	33	33	Coller	Garth		1026
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	MON	Monroe	016	001	33	33	Fowler	Richard	J.	4650
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	MON	Monroe	016	001	33	33	Jones	Mark		5423
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	041	605	605	Blostein	Arnold	T. 'Arnie'	35351
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	041	605	605	Julian	Joyce	Anne	60629
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	044	605	605	Gold	Marc	H.	55097
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	044	605	605	Llorente	Carlos	M.	23896
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	044	605	605	Sabghir	Jonathan	Michael	16021
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	002	176	176	Alley	Nancy		37400
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	002	133	133	Alley	Nancy		18231
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	002	176	176	Alva	Marlene		26296
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	002	133	133	Alva	Marlene		14332
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	014	176	176	Bross	A.	Michael	13118
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	014	133	133	Bross	A.	Michael	8797
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	014	176	176	Richardson	Edward	J.	51374
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	014	133	133	Richardson	Edward	J.	21398
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	015	176	176	Gutin	Harley		22141
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	015	133	133	Gutin	Harley		10085
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	015	176	176	Rainwater	Tonya	B.	42611
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	015	133	133	Rainwater	Tonya	B.	20701
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	021	176	176	Lester	Ken		41786
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	021	133	133	Lester	Ken		19294
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	021	176	176	Moncrief	S.	Kirby	21647
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	021	133	133	Moncrief	S.	Kirby	13037
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	013	38	38	Cox	Cynthia	L.	8244
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	013	35	35	Cox	Cynthia	L.	4099
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	013	18	18	Cox	Cynthia	L.	1905
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	013	77	77	Cox	Cynthia	L.	6988
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	013	38	38	Kilbride	Bob		4130
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	013	35	35	Kilbride	Bob		6007
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	013	18	18	Kilbride	Bob		1515
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	013	77	77	Kilbride	Bob		4682
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	013	38	38	Mancini	Joe		1732
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	013	35	35	Mancini	Joe		2550
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	013	18	18	Mancini	Joe		972
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	013	77	77	Mancini	Joe		7023
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	013	38	38	Minix	Jim		1474
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	013	35	35	Minix	Jim		3524
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	013	18	18	Minix	Jim		886
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	013	77	77	Minix	Jim		7076
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CHA	Charlotte	020	004	63	63	LENICK	Terry		7249
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CLL	Collier	020	004	94	94	LENICK	Terry		5922
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	GLA	Glades	020	004	13	13	LENICK	Terry		799
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HEN	Hendry	020	004	22	22	LENICK	Terry		1687
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LEE	Lee	020	004	150	150	LENICK	Terry		21926
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CHA	Charlotte	020	004	63	63	Monaco	Dan		14345
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CLL	Collier	020	004	94	94	Monaco	Dan		13781
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	GLA	Glades	020	004	13	13	Monaco	Dan		1290
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HEN	Hendry	020	004	22	22	Monaco	Dan		2769
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LEE	Lee	020	004	150	150	Monaco	Dan		27138
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CHA	Charlotte	020	007	63	63	McIver	William	C. 'Bill'	11535
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CLL	Collier	020	007	94	94	McIver	William	C. 'Bill'	6978
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	GLA	Glades	020	007	13	13	McIver	William	C. 'Bill'	1194
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HEN	Hendry	020	007	22	22	McIver	William	C. 'Bill'	2692
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LEE	Lee	020	007	150	150	McIver	William	C. 'Bill'	28437
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CHA	Charlotte	020	007	63	63	Merrill	Randy	E.	5618
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CLL	Collier	020	007	94	94	Merrill	Randy	E.	9000
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	GLA	Glades	020	007	13	13	Merrill	Randy	E.	511
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HEN	Hendry	020	007	22	22	Merrill	Randy	E.	1015
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LEE	Lee	020	007	150	150	Merrill	Randy	E.	14039
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CHA	Charlotte	020	007	63	63	Spencer	Thomas		4418
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CLL	Collier	020	007	94	94	Spencer	Thomas		2917
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	GLA	Glades	020	007	13	13	Spencer	Thomas		425
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HEN	Hendry	020	007	22	22	Spencer	Thomas		803
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LEE	Lee	020	007	150	150	Spencer	Thomas		8528
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CHA	Charlotte	020	009	63	63	Pack	R.	Wallace	11695
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CLL	Collier	020	009	94	94	Pack	R.	Wallace	11062
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	GLA	Glades	020	009	13	13	Pack	R.	Wallace	1336
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HEN	Hendry	020	009	22	22	Pack	R.	Wallace	3011
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LEE	Lee	020	009	150	150	Pack	R.	Wallace	32851
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CHA	Charlotte	020	009	63	63	Puccio	James	(Jim) S.	8862
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CLL	Collier	020	009	94	94	Puccio	James	(Jim) S.	6319
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	GLA	Glades	020	009	13	13	Puccio	James	(Jim) S.	675
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HEN	Hendry	020	009	22	22	Puccio	James	(Jim) S.	1299
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LEE	Lee	020	009	150	150	Puccio	James	(Jim) S.	15728
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CHA	Charlotte	020	019	63	63	Reiter	Michael		8687
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CLL	Collier	020	019	94	94	Reiter	Michael		7290
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	GLA	Glades	020	019	13	13	Reiter	Michael		882
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HEN	Hendry	020	019	22	22	Reiter	Michael		1839
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LEE	Lee	020	019	150	150	Reiter	Michael		15086
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CHA	Charlotte	020	019	63	63	Winesett	Sherra		12642
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	CLL	Collier	020	019	94	94	Winesett	Sherra		10658
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	GLA	Glades	020	019	13	13	Winesett	Sherra		1098
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	HEN	Hendry	020	019	22	22	Winesett	Sherra		2579
+9/3/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LEE	Lee	020	019	150	150	Winesett	Sherra		31364

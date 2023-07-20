@@ -1,0 +1,1274 @@
+"","election_id","office_id","district","office_local","office","seat","contested","n_winners","selection_method","retention_method","open_seat"
+"1","IN_2002-11-05_GEN","CK1_Allen_1_1","Allen_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"2","IN_2002-11-05_GEN","CK1_Benton_1_1","Benton_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"3","IN_2002-11-05_GEN","CK1_Cass_1_1","Cass_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"4","IN_2002-11-05_GEN","CK1_Dubois_1_1","Dubois_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"5","IN_2002-11-05_GEN","CK1_Boone_1_1","Boone_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"6","IN_2002-11-05_GEN","CK1_Brown_1_1","Brown_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"7","IN_2002-11-05_GEN","CK1_Dearborn_1_1","Dearborn_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"8","IN_2002-11-05_GEN","CK1_Elkhart_1_1","Elkhart_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"9","IN_2002-11-05_GEN","CK1_Bartholomew_1_1","Bartholomew_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"10","IN_2002-11-05_GEN","CK1_Blackford_1_1","Blackford_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"11","IN_2002-11-05_GEN","CK1_Carroll_1_1","Carroll_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"12","IN_2002-11-05_GEN","CK1_Daviess_1_1","Daviess_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"13","IN_2002-11-05_GEN","CK1_Decatur_1_1","Decatur_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"14","IN_2002-11-05_GEN","CK1_DeKalb_1_1","DeKalb_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"15","IN_2002-11-05_GEN","CK1_Delaware_1_1","Delaware_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"16","IN_2002-11-05_GEN","CK1_Adams_1_1","Adams_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"17","IN_2002-11-05_GEN","CK1_Clark_1_1","Clark_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"18","IN_2002-11-05_GEN","CK1_Clay_1_1","Clay_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"19","IN_2002-11-05_GEN","CK1_Clinton_1_1","Clinton_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"20","IN_2002-11-05_GEN","CK1_Crawford_1_1","Crawford_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"21","IN_2002-11-05_GEN","CK1_Adams_1_1","Adams_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"22","IN_2002-11-05_GEN","CK1_Clark_1_1","Clark_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"23","IN_2002-11-05_GEN","CK1_Clay_1_1","Clay_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"24","IN_2002-11-05_GEN","CK1_Clinton_1_1","Clinton_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"25","IN_2002-11-05_GEN","CK1_Crawford_1_1","Crawford_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"26","IN_2002-11-05_GEN","CK1_Bartholomew_1_1","Bartholomew_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"27","IN_2002-11-05_GEN","CK1_Blackford_1_1","Blackford_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"28","IN_2002-11-05_GEN","CK1_Carroll_1_1","Carroll_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"29","IN_2002-11-05_GEN","CK1_Daviess_1_1","Daviess_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"30","IN_2002-11-05_GEN","CK1_Decatur_1_1","Decatur_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"31","IN_2002-11-05_GEN","CK1_DeKalb_1_1","DeKalb_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"32","IN_2002-11-05_GEN","CK1_Delaware_1_1","Delaware_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"33","IN_2002-11-05_GEN","CK1_Allen_1_1","Allen_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"34","IN_2002-11-05_GEN","CK1_Benton_1_1","Benton_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"35","IN_2002-11-05_GEN","CK1_Cass_1_1","Cass_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"36","IN_2002-11-05_GEN","CK1_Dubois_1_1","Dubois_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"37","IN_2002-11-05_GEN","CK1_Boone_1_1","Boone_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"38","IN_2002-11-05_GEN","CK1_Brown_1_1","Brown_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"39","IN_2002-11-05_GEN","CK1_Dearborn_1_1","Dearborn_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"40","IN_2002-11-05_GEN","CK1_Elkhart_1_1","Elkhart_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"41","IN_2002-11-05_GEN","CK1_Bartholomew_1_1","Bartholomew_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"42","IN_2002-11-05_GEN","CK1_Benton_1_1","Benton_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"43","IN_2002-11-05_GEN","CK1_Blackford_1_1","Blackford_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"44","IN_2002-11-05_GEN","CK1_Clark_1_1","Clark_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"45","IN_2002-11-05_GEN","CK1_Decatur_1_1","Decatur_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"46","IN_2002-11-05_GEN","CK1_Adams_1_1","Adams_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"47","IN_2002-11-05_GEN","CK1_Boone_1_1","Boone_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"48","IN_2002-11-05_GEN","CK1_Carroll_1_1","Carroll_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"49","IN_2002-11-05_GEN","CK1_Clay_1_1","Clay_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"50","IN_2002-11-05_GEN","CK1_Clinton_1_1","Clinton_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"51","IN_2002-11-05_GEN","CK1_Dearborn_1_1","Dearborn_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"52","IN_2002-11-05_GEN","CK1_DeKalb_1_1","DeKalb_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"53","IN_2002-11-05_GEN","CK1_Elkhart_1_1","Elkhart_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"54","IN_2002-11-05_GEN","CK1_Brown_1_1","Brown_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"55","IN_2002-11-05_GEN","CK1_Cass_1_1","Cass_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"56","IN_2002-11-05_GEN","CK1_Daviess_1_1","Daviess_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"57","IN_2002-11-05_GEN","CK1_Delaware_1_1","Delaware_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"58","IN_2002-11-05_GEN","CK1_Dubois_1_1","Dubois_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"59","IN_2002-11-05_GEN","CK1_Allen_1_1","Allen_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"60","IN_2002-11-05_GEN","CK1_Crawford_1_1","Crawford_1","Clerk of the Supreme Court","CK1",1,1,NA,NA,NA,NA
+"61","IN_2002-11-05_GEN","TC2_Allen_38_1","Allen_38","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"62","IN_2002-11-05_GEN","TC2_Benton_76_1","Benton_76","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"63","IN_2002-11-05_GEN","TC2_Carroll_74_1","Carroll_74","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"64","IN_2002-11-05_GEN","TC1_Adams_1_1","Adams_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"65","IN_2002-11-05_GEN","TC1_Adams_1_1","Adams_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"66","IN_2002-11-05_GEN","TC1_Allen_1_1","Allen_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"67","IN_2002-11-05_GEN","TC1_Allen_1_1","Allen_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"68","IN_2002-11-05_GEN","TC1_Allen_1_1","Allen_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"69","IN_2002-11-05_GEN","TC1_Allen_1_1","Allen_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"70","IN_2002-11-05_GEN","TC1_Allen_1_1","Allen_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"71","IN_2002-11-05_GEN","TC1_Bartholomew_1_2","Bartholomew_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"72","IN_2002-11-05_GEN","TC1_Bartholomew_1_2","Bartholomew_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"73","IN_2002-11-05_GEN","TC2_Daviess_49_1","Daviess_49","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"74","IN_2002-11-05_GEN","TC1_Boone_1_1","Boone_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"75","IN_2002-11-05_GEN","TC1_Boone_1_2","Boone_1","Judge of the Superior Court","TC1",2,0,NA,NA,NA,NA
+"76","IN_2002-11-05_GEN","TC2_Delaware_46_3","Delaware_46","Judge of the Circuit Court","TC2",3,0,NA,NA,NA,NA
+"77","IN_2002-11-05_GEN","TC2_Delaware_46_4","Delaware_46","Judge of the Circuit Court","TC2",4,1,NA,NA,NA,NA
+"78","IN_2002-11-05_GEN","TC2_Delaware_46_4","Delaware_46","Judge of the Circuit Court","TC2",4,1,NA,NA,NA,NA
+"79","IN_2002-11-05_GEN","TC2_Delaware_46_5","Delaware_46","Judge of the Circuit Court","TC2",5,1,NA,NA,NA,NA
+"80","IN_2002-11-05_GEN","TC2_Delaware_46_5","Delaware_46","Judge of the Circuit Court","TC2",5,1,NA,NA,NA,NA
+"81","IN_2002-11-05_GEN","TC1_Carroll_1_1","Carroll_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"82","IN_2002-11-05_GEN","TC2_Dubois_57_1","Dubois_57","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"83","IN_2002-11-05_GEN","TC1_Clark_1_2","Clark_1","Judge of the Superior Court","TC1",2,0,NA,NA,NA,NA
+"84","IN_2002-11-05_GEN","TC1_Clark_1_3","Clark_1","Judge of the Superior Court","TC1",3,0,NA,NA,NA,NA
+"85","IN_2002-11-05_GEN","TC1_Clinton_1_1","Clinton_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"86","IN_2002-11-05_GEN","TC1_Daviess_1_1","Daviess_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"87","IN_2002-11-05_GEN","TC1_Daviess_1_1","Daviess_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"88","IN_2002-11-05_GEN","TC1_Dearborn_1_1","Dearborn_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"89","IN_2002-11-05_GEN","TC1_Decatur_1_1","Decatur_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"90","IN_2002-11-05_GEN","TC1_DeKalb_1_1","DeKalb_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"91","IN_2002-11-05_GEN","TC1_Elkhart_1_1","Elkhart_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"92","IN_2002-11-05_GEN","DA_Adams_26_1","Adams_26","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"93","IN_2002-11-05_GEN","DA_Allen_38_1","Allen_38","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"94","IN_2002-11-05_GEN","TC1_Elkhart_1_3","Elkhart_1","Judge of the Superior Court","TC1",3,0,NA,NA,NA,NA
+"95","IN_2002-11-05_GEN","DA_Allen_38_1","Allen_38","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"96","IN_2002-11-05_GEN","DA_Bartholomew_9_1","Bartholomew_9","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"97","IN_2002-11-05_GEN","TC1_Elkhart_1_4","Elkhart_1","Judge of the Superior Court","TC1",4,0,NA,NA,NA,NA
+"98","IN_2002-11-05_GEN","DA_Bartholomew_9_1","Bartholomew_9","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"99","IN_2002-11-05_GEN","TC1_Elkhart_1_5","Elkhart_1","Judge of the Superior Court","TC1",5,0,NA,NA,NA,NA
+"100","IN_2002-11-05_GEN","DA_Benton_76_1","Benton_76","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"101","IN_2002-11-05_GEN","DA_Blackford_71_1","Blackford_71","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"102","IN_2002-11-05_GEN","DA_Boone_20_1","Boone_20","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"103","IN_2002-11-05_GEN","DA_Brown_88_1","Brown_88","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"104","IN_2002-11-05_GEN","DA_Brown_88_1","Brown_88","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"105","IN_2002-11-05_GEN","DA_Brown_88_1","Brown_88","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"106","IN_2002-11-05_GEN","DA_Carroll_74_1","Carroll_74","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"107","IN_2002-11-05_GEN","DA_Carroll_74_1","Carroll_74","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"108","IN_2002-11-05_GEN","DA_Cass_29_1","Cass_29","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"109","IN_2002-11-05_GEN","DA_Cass_29_1","Cass_29","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"110","IN_2002-11-05_GEN","DA_Clark_4_1","Clark_4","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"111","IN_2002-11-05_GEN","DA_Clay_13_1","Clay_13","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"112","IN_2002-11-05_GEN","DA_Clinton_45_1","Clinton_45","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"113","IN_2002-11-05_GEN","DA_Crawford_77_1","Crawford_77","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"114","IN_2002-11-05_GEN","DA_Crawford_77_1","Crawford_77","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"115","IN_2002-11-05_GEN","DA_Daviess_49_1","Daviess_49","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"116","IN_2002-11-05_GEN","DA_Daviess_49_1","Daviess_49","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"117","IN_2002-11-05_GEN","DA_Dearborn_7_1","Dearborn_7","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"118","IN_2002-11-05_GEN","DA_Decatur_69_1","Decatur_69","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"119","IN_2002-11-05_GEN","DA_DeKalb_75_1","DeKalb_75","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"120","IN_2002-11-05_GEN","DA_Delaware_46_1","Delaware_46","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"121","IN_2002-11-05_GEN","DA_Dubois_57_1","Dubois_57","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"122","IN_2002-11-05_GEN","DA_Elkhart_34_1","Elkhart_34","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"123","IN_2002-11-05_GEN","DA_Elkhart_34_1","Elkhart_34","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"124","IN_2002-11-05_GEN","CK2_Adams_1_1","Adams_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"125","IN_2002-11-05_GEN","CK2_Allen_1_1","Allen_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"126","IN_2002-11-05_GEN","CK2_Bartholomew_1_1","Bartholomew_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"127","IN_2002-11-05_GEN","CK2_Benton_1_1","Benton_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"128","IN_2002-11-05_GEN","CK2_Boone_1_1","Boone_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"129","IN_2002-11-05_GEN","CK2_Brown_1_1","Brown_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"130","IN_2002-11-05_GEN","CK2_Clark_1_1","Clark_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"131","IN_2002-11-05_GEN","CK2_Clinton_1_1","Clinton_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"132","IN_2002-11-05_GEN","CK2_Crawford_1_1","Crawford_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"133","IN_2002-11-05_GEN","CK2_Daviess_1_1","Daviess_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"134","IN_2002-11-05_GEN","CK2_Decatur_1_1","Decatur_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"135","IN_2002-11-05_GEN","CK2_Delaware_1_1","Delaware_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"136","IN_2002-11-05_GEN","CK2_Dubois_1_1","Dubois_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"137","IN_2002-11-05_GEN","CK2_Elkhart_1_1","Elkhart_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"138","IN_2002-11-05_GEN","SF_Adams_1_1","Adams_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"139","IN_2002-11-05_GEN","SF_Allen_1_1","Allen_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"140","IN_2002-11-05_GEN","SF_Bartholomew_1_1","Bartholomew_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"141","IN_2002-11-05_GEN","SF_Benton_1_1","Benton_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"142","IN_2002-11-05_GEN","SF_Blackford_1_1","Blackford_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"143","IN_2002-11-05_GEN","SF_Boone_1_1","Boone_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"144","IN_2002-11-05_GEN","SF_Brown_1_1","Brown_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"145","IN_2002-11-05_GEN","SF_Carroll_1_1","Carroll_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"146","IN_2002-11-05_GEN","SF_Cass_1_1","Cass_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"147","IN_2002-11-05_GEN","SF_Clark_1_1","Clark_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"148","IN_2002-11-05_GEN","SF_Clay_1_1","Clay_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"149","IN_2002-11-05_GEN","SF_Clinton_1_1","Clinton_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"150","IN_2002-11-05_GEN","SF_Crawford_1_1","Crawford_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"151","IN_2002-11-05_GEN","SF_Daviess_1_1","Daviess_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"152","IN_2002-11-05_GEN","SF_Dearborn_1_1","Dearborn_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"153","IN_2002-11-05_GEN","SF_Decatur_1_1","Decatur_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"154","IN_2002-11-05_GEN","SF_DeKalb_1_1","DeKalb_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"155","IN_2002-11-05_GEN","SF_Delaware_1_1","Delaware_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"156","IN_2002-11-05_GEN","SF_Dubois_1_1","Dubois_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"157","IN_2002-11-05_GEN","SF_Elkhart_1_1","Elkhart_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"158","IN_2002-05-07_PRI","TC2_Allen_38_1","Allen_38","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"159","IN_2002-05-07_PRI","TC2_Benton_76_1","Benton_76","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"160","IN_2002-05-07_PRI","TC2_Carroll_74_1","Carroll_74","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"161","IN_2002-05-07_PRI","TC2_Carroll_74_1","Carroll_74","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"162","IN_2002-05-07_PRI","TC1_Adams_1_1","Adams_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"163","IN_2002-05-07_PRI","TC1_Adams_1_1","Adams_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"164","IN_2002-05-07_PRI","TC1_Adams_1_1","Adams_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"165","IN_2002-05-07_PRI","TC1_Bartholomew_1_2","Bartholomew_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"166","IN_2002-05-07_PRI","TC1_Bartholomew_1_2","Bartholomew_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"167","IN_2002-05-07_PRI","TC2_Daviess_49_1","Daviess_49","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"168","IN_2002-05-07_PRI","TC1_Boone_1_1","Boone_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"169","IN_2002-05-07_PRI","TC1_Boone_1_1","Boone_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"170","IN_2002-05-07_PRI","TC1_Boone_1_2","Boone_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"171","IN_2002-05-07_PRI","TC1_Boone_1_2","Boone_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"172","IN_2002-05-07_PRI","TC2_Delaware_46_3","Delaware_46","Judge of the Circuit Court","TC2",3,0,NA,NA,NA,NA
+"173","IN_2002-05-07_PRI","TC2_Delaware_46_4","Delaware_46","Judge of the Circuit Court","TC2",4,1,NA,NA,NA,NA
+"174","IN_2002-05-07_PRI","TC2_Delaware_46_4","Delaware_46","Judge of the Circuit Court","TC2",4,1,NA,NA,NA,NA
+"175","IN_2002-05-07_PRI","TC2_Delaware_46_4","Delaware_46","Judge of the Circuit Court","TC2",4,1,NA,NA,NA,NA
+"176","IN_2002-05-07_PRI","TC2_Delaware_46_5","Delaware_46","Judge of the Circuit Court","TC2",5,1,NA,NA,NA,NA
+"177","IN_2002-05-07_PRI","TC2_Delaware_46_5","Delaware_46","Judge of the Circuit Court","TC2",5,1,NA,NA,NA,NA
+"178","IN_2002-05-07_PRI","TC1_Carroll_1_1","Carroll_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"179","IN_2002-05-07_PRI","TC2_Dubois_57_1","Dubois_57","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"180","IN_2002-05-07_PRI","TC1_Clark_1_2","Clark_1","Judge of the Superior Court","TC1",2,0,NA,NA,NA,NA
+"181","IN_2002-05-07_PRI","TC1_Clark_1_3","Clark_1","Judge of the Superior Court","TC1",3,0,NA,NA,NA,NA
+"182","IN_2002-05-07_PRI","TC1_Clinton_1_1","Clinton_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"183","IN_2002-05-07_PRI","TC1_Daviess_1_1","Daviess_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"184","IN_2002-05-07_PRI","TC1_Daviess_1_1","Daviess_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"185","IN_2002-05-07_PRI","TC1_Dearborn_1_1","Dearborn_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"186","IN_2002-05-07_PRI","TC1_Decatur_1_1","Decatur_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"187","IN_2002-05-07_PRI","TC1_DeKalb_1_1","DeKalb_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"188","IN_2002-05-07_PRI","TC1_Elkhart_1_1","Elkhart_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"189","IN_2002-05-07_PRI","TC1_Elkhart_1_3","Elkhart_1","Judge of the Superior Court","TC1",3,0,NA,NA,NA,NA
+"190","IN_2002-05-07_PRI","TC1_Elkhart_1_4","Elkhart_1","Judge of the Superior Court","TC1",4,0,NA,NA,NA,NA
+"191","IN_2002-05-07_PRI","TC1_Elkhart_1_5","Elkhart_1","Judge of the Superior Court","TC1",5,0,NA,NA,NA,NA
+"192","IN_2002-05-07_PRI","DA_Adams_26_1","Adams_26","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"193","IN_2002-05-07_PRI","DA_Allen_38_1","Allen_38","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"194","IN_2002-05-07_PRI","DA_Allen_38_1","Allen_38","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"195","IN_2002-05-07_PRI","DA_Allen_38_1","Allen_38","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"196","IN_2002-05-07_PRI","DA_Bartholomew_9_1","Bartholomew_9","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"197","IN_2002-05-07_PRI","DA_Bartholomew_9_1","Bartholomew_9","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"198","IN_2002-05-07_PRI","DA_Benton_76_1","Benton_76","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"199","IN_2002-05-07_PRI","DA_Blackford_71_1","Blackford_71","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"200","IN_2002-05-07_PRI","DA_Boone_20_1","Boone_20","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"201","IN_2002-05-07_PRI","DA_Brown_88_1","Brown_88","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"202","IN_2002-05-07_PRI","DA_Brown_88_1","Brown_88","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"203","IN_2002-05-07_PRI","DA_Carroll_74_1","Carroll_74","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"204","IN_2002-05-07_PRI","DA_Carroll_74_1","Carroll_74","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"205","IN_2002-05-07_PRI","DA_Cass_29_1","Cass_29","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"206","IN_2002-05-07_PRI","DA_Cass_29_1","Cass_29","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"207","IN_2002-05-07_PRI","DA_Clark_4_1","Clark_4","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"208","IN_2002-05-07_PRI","DA_Clay_13_1","Clay_13","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"209","IN_2002-05-07_PRI","DA_Clinton_45_1","Clinton_45","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"210","IN_2002-05-07_PRI","DA_Crawford_77_1","Crawford_77","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"211","IN_2002-05-07_PRI","DA_Crawford_77_1","Crawford_77","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"212","IN_2002-05-07_PRI","DA_Crawford_77_1","Crawford_77","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"213","IN_2002-05-07_PRI","DA_Crawford_77_1","Crawford_77","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"214","IN_2002-05-07_PRI","DA_Crawford_77_1","Crawford_77","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"215","IN_2002-05-07_PRI","DA_Daviess_49_1","Daviess_49","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"216","IN_2002-05-07_PRI","DA_Daviess_49_1","Daviess_49","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"217","IN_2002-05-07_PRI","DA_Dearborn_7_1","Dearborn_7","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"218","IN_2002-05-07_PRI","DA_Decatur_69_1","Decatur_69","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"219","IN_2002-05-07_PRI","DA_DeKalb_75_1","DeKalb_75","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"220","IN_2002-05-07_PRI","DA_Delaware_46_2","Delaware_46","Prosecuting Attorney","DA",2,0,NA,NA,NA,NA
+"221","IN_2002-05-07_PRI","DA_Dubois_57_1","Dubois_57","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"222","IN_2002-05-07_PRI","DA_Elkhart_34_1","Elkhart_34","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"223","IN_2002-05-07_PRI","DA_Elkhart_34_1","Elkhart_34","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"224","IN_2002-05-07_PRI","DA_Elkhart_34_1","Elkhart_34","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"225","IN_2004-11-02_GEN","AG_Boone_1_1","Boone_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"226","IN_2004-11-02_GEN","AG_Clinton_1_1","Clinton_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"227","IN_2004-11-02_GEN","AG_Dearborn_1_1","Dearborn_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"228","IN_2004-11-02_GEN","AG_Elkhart_1_1","Elkhart_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"229","IN_2004-11-02_GEN","AG_Adams_1_1","Adams_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"230","IN_2004-11-02_GEN","AG_Carroll_1_1","Carroll_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"231","IN_2004-11-02_GEN","AG_Clay_1_1","Clay_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"232","IN_2004-11-02_GEN","AG_Crawford_1_1","Crawford_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"233","IN_2004-11-02_GEN","AG_Daviess_1_1","Daviess_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"234","IN_2004-11-02_GEN","AG_DeKalb_1_1","DeKalb_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"235","IN_2004-11-02_GEN","AG_Allen_1_1","Allen_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"236","IN_2004-11-02_GEN","AG_Bartholomew_1_1","Bartholomew_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"237","IN_2004-11-02_GEN","AG_Benton_1_1","Benton_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"238","IN_2004-11-02_GEN","AG_Blackford_1_1","Blackford_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"239","IN_2004-11-02_GEN","AG_Cass_1_1","Cass_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"240","IN_2004-11-02_GEN","AG_Brown_1_1","Brown_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"241","IN_2004-11-02_GEN","AG_Clark_1_1","Clark_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"242","IN_2004-11-02_GEN","AG_Decatur_1_1","Decatur_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"243","IN_2004-11-02_GEN","AG_Delaware_1_1","Delaware_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"244","IN_2004-11-02_GEN","AG_Dubois_1_1","Dubois_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"245","IN_2004-11-02_GEN","AG_Adams_1_1","Adams_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"246","IN_2004-11-02_GEN","AG_Clinton_1_1","Clinton_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"247","IN_2004-11-02_GEN","AG_Dearborn_1_1","Dearborn_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"248","IN_2004-11-02_GEN","AG_Elkhart_1_1","Elkhart_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"249","IN_2004-11-02_GEN","AG_Allen_1_1","Allen_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"250","IN_2004-11-02_GEN","AG_Bartholomew_1_1","Bartholomew_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"251","IN_2004-11-02_GEN","AG_Benton_1_1","Benton_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"252","IN_2004-11-02_GEN","AG_Cass_1_1","Cass_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"253","IN_2004-11-02_GEN","AG_Clark_1_1","Clark_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"254","IN_2004-11-02_GEN","AG_Boone_1_1","Boone_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"255","IN_2004-11-02_GEN","AG_Carroll_1_1","Carroll_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"256","IN_2004-11-02_GEN","AG_Clay_1_1","Clay_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"257","IN_2004-11-02_GEN","AG_Crawford_1_1","Crawford_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"258","IN_2004-11-02_GEN","AG_Daviess_1_1","Daviess_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"259","IN_2004-11-02_GEN","AG_Blackford_1_1","Blackford_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"260","IN_2004-11-02_GEN","AG_Brown_1_1","Brown_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"261","IN_2004-11-02_GEN","AG_Decatur_1_1","Decatur_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"262","IN_2004-11-02_GEN","AG_DeKalb_1_1","DeKalb_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"263","IN_2004-11-02_GEN","AG_Delaware_1_1","Delaware_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"264","IN_2004-11-02_GEN","AG_Dubois_1_1","Dubois_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"265","IN_2004-11-02_GEN","AG_Benton_1_1","Benton_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"266","IN_2004-11-02_GEN","AG_Clark_1_1","Clark_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"267","IN_2004-11-02_GEN","AG_Clay_1_1","Clay_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"268","IN_2004-11-02_GEN","AG_Crawford_1_1","Crawford_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"269","IN_2004-11-02_GEN","AG_Dubois_1_1","Dubois_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"270","IN_2004-11-02_GEN","AG_Adams_1_1","Adams_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"271","IN_2004-11-02_GEN","AG_Clinton_1_1","Clinton_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"272","IN_2004-11-02_GEN","AG_DeKalb_1_1","DeKalb_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"273","IN_2004-11-02_GEN","AG_Blackford_1_1","Blackford_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"274","IN_2004-11-02_GEN","AG_Brown_1_1","Brown_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"275","IN_2004-11-02_GEN","AG_Dearborn_1_1","Dearborn_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"276","IN_2004-11-02_GEN","AG_Decatur_1_1","Decatur_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"277","IN_2004-11-02_GEN","AG_Delaware_1_1","Delaware_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"278","IN_2004-11-02_GEN","AG_Elkhart_1_1","Elkhart_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"279","IN_2004-11-02_GEN","AG_Allen_1_1","Allen_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"280","IN_2004-11-02_GEN","AG_Bartholomew_1_1","Bartholomew_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"281","IN_2004-11-02_GEN","AG_Boone_1_1","Boone_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"282","IN_2004-11-02_GEN","AG_Carroll_1_1","Carroll_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"283","IN_2004-11-02_GEN","AG_Cass_1_1","Cass_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"284","IN_2004-11-02_GEN","AG_Daviess_1_1","Daviess_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"285","IN_2004-11-02_GEN","TC2_Bartholomew_9_1","Bartholomew_9","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"286","IN_2004-11-02_GEN","TC2_Bartholomew_9_1","Bartholomew_9","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"287","IN_2004-11-02_GEN","TC2_Clark_4_1","Clark_4","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"288","IN_2004-11-02_GEN","TC1_Allen_1_1","Allen_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"289","IN_2004-11-02_GEN","TC1_Allen_1_9","Allen_1","Judge of the Superior Court","TC1",9,0,NA,NA,NA,NA
+"290","IN_2004-11-02_GEN","TC1_Allen_1_4","Allen_1","Judge of the Superior Court","TC1",4,0,NA,NA,NA,NA
+"291","IN_2004-11-02_GEN","TC2_Clay_13_1","Clay_13","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"292","IN_2004-11-02_GEN","TC1_Allen_1_1","Allen_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"293","IN_2004-11-02_GEN","TC2_Crawford_77_1","Crawford_77","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"294","IN_2004-11-02_GEN","TC1_Blackford_1_1","Blackford_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"295","IN_2004-11-02_GEN","TC2_Dearborn_7_1","Dearborn_7","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"296","IN_2004-11-02_GEN","TC2_DeKalb_75_1","DeKalb_75","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"297","IN_2004-11-02_GEN","TC2_Delaware_46_1","Delaware_46","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"298","IN_2004-11-02_GEN","TC2_Delaware_46_1","Delaware_46","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"299","IN_2004-11-02_GEN","TC1_Cass_1_1","Cass_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"300","IN_2004-11-02_GEN","TC2_Elkhart_34_1","Elkhart_34","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"301","IN_2004-11-02_GEN","TC1_Dubois_1_1","Dubois_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"302","IN_2004-11-02_GEN","TC1_Dubois_1_1","Dubois_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"303","IN_2004-11-02_GEN","CK2_Blackford_1_1","Blackford_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"304","IN_2004-11-02_GEN","CK2_Blackford_1_1","Blackford_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"305","IN_2004-11-02_GEN","CK2_Carroll_1_1","Carroll_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"306","IN_2004-11-02_GEN","CK2_Cass_1_1","Cass_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"307","IN_2004-11-02_GEN","CK2_Cass_1_1","Cass_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"308","IN_2004-11-02_GEN","CK2_Clay_1_1","Clay_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"309","IN_2004-11-02_GEN","CK2_Dearborn_1_1","Dearborn_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"310","IN_2004-11-02_GEN","CK2_DeKalb_1_1","DeKalb_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"311","IN_2004-05-04_PRI","TC2_Bartholomew_9_1","Bartholomew_9","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"312","IN_2004-05-04_PRI","TC2_Bartholomew_9_1","Bartholomew_9","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"313","IN_2004-05-04_PRI","TC2_Clark_4_1","Clark_4","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"314","IN_2004-05-04_PRI","TC2_Clay_13_1","Clay_13","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"315","IN_2004-05-04_PRI","TC2_Crawford_77_1","Crawford_77","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"316","IN_2004-05-04_PRI","TC1_Blackford_1_1","Blackford_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"317","IN_2004-05-04_PRI","TC2_Dearborn_7_1","Dearborn_7","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"318","IN_2004-05-04_PRI","TC2_DeKalb_75_1","DeKalb_75","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"319","IN_2004-05-04_PRI","TC2_Delaware_46_1","Delaware_46","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"320","IN_2004-05-04_PRI","TC2_Delaware_46_1","Delaware_46","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"321","IN_2004-05-04_PRI","TC1_Cass_1_1","Cass_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"322","IN_2004-05-04_PRI","TC2_Elkhart_34_1","Elkhart_34","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"323","IN_2004-05-04_PRI","TC1_Dubois_1_1","Dubois_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"324","IN_2004-05-04_PRI","TC1_Dubois_1_1","Dubois_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"325","IN_2004-05-04_PRI","TC1_Dubois_1_1","Dubois_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"326","IN_2006-11-07_GEN","TC2_Adams_26_1","Adams_26","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"327","IN_2006-11-07_GEN","TC2_Blackford_71_1","Blackford_71","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"328","IN_2006-11-07_GEN","TC2_Boone_20_1","Boone_20","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"329","IN_2006-11-07_GEN","TC2_Brown_88_1","Brown_88","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"330","IN_2006-11-07_GEN","TC2_Carroll_74_1","Carroll_74","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"331","IN_2006-11-07_GEN","TC2_Cass_29_1","Cass_29","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"332","IN_2006-11-07_GEN","TC2_Cass_29_1","Cass_29","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"333","IN_2006-11-07_GEN","TC2_Clay_13_1","Clay_13","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"334","IN_2006-11-07_GEN","TC2_Clay_13_1","Clay_13","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"335","IN_2006-11-07_GEN","TC2_Clinton_45_1","Clinton_45","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"336","IN_2006-11-07_GEN","TC1_Bartholomew_1_1","Bartholomew_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"337","IN_2006-11-07_GEN","TC1_Bartholomew_1_1","Bartholomew_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"338","IN_2006-11-07_GEN","TC2_Decatur_69_1","Decatur_69","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"339","IN_2006-11-07_GEN","TC2_Delaware_46_2","Delaware_46","Judge of the Circuit Court","TC2",2,0,NA,NA,NA,NA
+"340","IN_2006-11-07_GEN","TC1_Cass_1_2","Cass_1","Judge of the Superior Court","TC1",2,0,NA,NA,NA,NA
+"341","IN_2006-11-07_GEN","TC1_Clark_1_1","Clark_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"342","IN_2006-11-07_GEN","TC1_Clark_1_1","Clark_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"343","IN_2006-11-07_GEN","TC1_Clay_1_1","Clay_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"344","IN_2006-11-07_GEN","TC1_Dearborn_1_2","Dearborn_1","Judge of the Superior Court","TC1",2,0,NA,NA,NA,NA
+"345","IN_2006-11-07_GEN","TC1_DeKalb_1_2","DeKalb_1","Judge of the Superior Court","TC1",2,0,NA,NA,NA,NA
+"346","IN_2006-11-07_GEN","DA_Adams_26_1","Adams_26","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"347","IN_2006-11-07_GEN","TC1_Elkhart_1_2","Elkhart_1","Judge of the Superior Court","TC1",2,0,NA,NA,NA,NA
+"348","IN_2006-11-07_GEN","DA_Allen_38_1","Allen_38","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"349","IN_2006-11-07_GEN","DA_Bartholomew_9_1","Bartholomew_9","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"350","IN_2006-11-07_GEN","DA_Benton_76_1","Benton_76","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"351","IN_2006-11-07_GEN","TC1_Elkhart_1_6","Elkhart_1","Judge of the Superior Court","TC1",6,0,NA,NA,NA,NA
+"352","IN_2006-11-07_GEN","DA_Blackford_71_1","Blackford_71","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"353","IN_2006-11-07_GEN","DA_Boone_20_1","Boone_20","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"354","IN_2006-11-07_GEN","DA_Brown_88_1","Brown_88","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"355","IN_2006-11-07_GEN","DA_Brown_88_1","Brown_88","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"356","IN_2006-11-07_GEN","DA_Carroll_74_1","Carroll_74","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"357","IN_2006-11-07_GEN","DA_Carroll_74_1","Carroll_74","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"358","IN_2006-11-07_GEN","DA_Cass_29_1","Cass_29","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"359","IN_2006-11-07_GEN","DA_Clark_4_1","Clark_4","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"360","IN_2006-11-07_GEN","DA_Clay_13_1","Clay_13","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"361","IN_2006-11-07_GEN","DA_Clinton_45_1","Clinton_45","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"362","IN_2006-11-07_GEN","DA_Clinton_45_1","Clinton_45","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"363","IN_2006-11-07_GEN","DA_Crawford_77_1","Crawford_77","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"364","IN_2006-11-07_GEN","DA_Crawford_77_1","Crawford_77","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"365","IN_2006-11-07_GEN","DA_Daviess_49_1","Daviess_49","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"366","IN_2006-11-07_GEN","DA_Dearborn_7_1","Dearborn_7","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"367","IN_2006-11-07_GEN","DA_Decatur_69_1","Decatur_69","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"368","IN_2006-11-07_GEN","DA_DeKalb_75_1","DeKalb_75","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"369","IN_2006-11-07_GEN","DA_Delaware_46_1","Delaware_46","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"370","IN_2006-11-07_GEN","DA_Delaware_46_1","Delaware_46","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"371","IN_2006-11-07_GEN","DA_Dubois_57_1","Dubois_57","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"372","IN_2006-11-07_GEN","DA_Elkhart_34_1","Elkhart_34","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"373","IN_2006-05-02_PRI","TC2_Adams_26_1","Adams_26","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"374","IN_2006-05-02_PRI","TC2_Blackford_71_1","Blackford_71","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"375","IN_2006-05-02_PRI","TC2_Boone_20_1","Boone_20","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"376","IN_2006-05-02_PRI","TC2_Brown_88_1","Brown_88","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"377","IN_2006-05-02_PRI","TC2_Carroll_74_1","Carroll_74","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"378","IN_2006-05-02_PRI","TC2_Cass_29_1","Cass_29","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"379","IN_2006-05-02_PRI","TC2_Cass_29_1","Cass_29","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"380","IN_2006-05-02_PRI","TC2_Cass_29_1","Cass_29","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"381","IN_2006-05-02_PRI","TC2_Clay_13_1","Clay_13","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"382","IN_2006-05-02_PRI","TC2_Clay_13_1","Clay_13","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"383","IN_2006-05-02_PRI","TC2_Clinton_45_1","Clinton_45","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"384","IN_2006-05-02_PRI","TC1_Bartholomew_1_1","Bartholomew_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"385","IN_2006-05-02_PRI","TC1_Bartholomew_1_1","Bartholomew_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"386","IN_2006-05-02_PRI","TC1_Bartholomew_1_1","Bartholomew_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"387","IN_2006-05-02_PRI","TC2_Decatur_69_1","Decatur_69","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"388","IN_2006-05-02_PRI","TC2_Delaware_46_2","Delaware_46","Judge of the Circuit Court","TC2",2,0,NA,NA,NA,NA
+"389","IN_2006-05-02_PRI","TC1_Cass_1_2","Cass_1","Judge of the Superior Court","TC1",2,0,NA,NA,NA,NA
+"390","IN_2006-05-02_PRI","TC1_Clark_1_1","Clark_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"391","IN_2006-05-02_PRI","TC1_Clark_1_1","Clark_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"392","IN_2006-05-02_PRI","TC1_Clark_1_1","Clark_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"393","IN_2006-05-02_PRI","TC1_Clay_1_1","Clay_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"394","IN_2006-05-02_PRI","TC1_Dearborn_1_2","Dearborn_1","Judge of the Superior Court","TC1",2,0,NA,NA,NA,NA
+"395","IN_2006-05-02_PRI","TC1_DeKalb_1_2","DeKalb_1","Judge of the Superior Court","TC1",2,0,NA,NA,NA,NA
+"396","IN_2006-05-02_PRI","DA_Adams_26_1","Adams_26","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"397","IN_2006-05-02_PRI","TC1_Elkhart_1_2","Elkhart_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"398","IN_2006-05-02_PRI","TC1_Elkhart_1_2","Elkhart_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"399","IN_2006-05-02_PRI","DA_Allen_38_1","Allen_38","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"400","IN_2006-05-02_PRI","DA_Bartholomew_9_1","Bartholomew_9","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"401","IN_2006-05-02_PRI","DA_Benton_76_1","Benton_76","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"402","IN_2006-05-02_PRI","DA_Benton_76_1","Benton_76","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"403","IN_2006-05-02_PRI","TC1_Elkhart_1_6","Elkhart_1","Judge of the Superior Court","TC1",6,0,NA,NA,NA,NA
+"404","IN_2006-05-02_PRI","DA_Blackford_71_1","Blackford_71","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"405","IN_2006-05-02_PRI","DA_Boone_20_1","Boone_20","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"406","IN_2006-05-02_PRI","DA_Brown_88_1","Brown_88","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"407","IN_2006-05-02_PRI","DA_Brown_88_1","Brown_88","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"408","IN_2006-05-02_PRI","DA_Carroll_74_1","Carroll_74","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"409","IN_2006-05-02_PRI","DA_Carroll_74_1","Carroll_74","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"410","IN_2006-05-02_PRI","DA_Cass_29_1","Cass_29","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"411","IN_2006-05-02_PRI","DA_Clark_4_1","Clark_4","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"412","IN_2006-05-02_PRI","DA_Clay_13_1","Clay_13","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"413","IN_2006-05-02_PRI","DA_Clinton_45_1","Clinton_45","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"414","IN_2006-05-02_PRI","DA_Clinton_45_1","Clinton_45","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"415","IN_2006-05-02_PRI","DA_Clinton_45_1","Clinton_45","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"416","IN_2006-05-02_PRI","DA_Crawford_77_1","Crawford_77","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"417","IN_2006-05-02_PRI","DA_Crawford_77_1","Crawford_77","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"418","IN_2006-05-02_PRI","DA_Daviess_49_1","Daviess_49","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"419","IN_2006-05-02_PRI","DA_Dearborn_7_1","Dearborn_7","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"420","IN_2006-05-02_PRI","DA_Decatur_69_1","Decatur_69","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"421","IN_2006-05-02_PRI","DA_DeKalb_75_1","DeKalb_75","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"422","IN_2006-05-02_PRI","DA_DeKalb_75_1","DeKalb_75","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"423","IN_2006-05-02_PRI","DA_Delaware_46_1","Delaware_46","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"424","IN_2006-05-02_PRI","DA_Delaware_46_1","Delaware_46","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"425","IN_2006-05-02_PRI","DA_Dubois_57_1","Dubois_57","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"426","IN_2006-05-02_PRI","DA_Elkhart_34_1","Elkhart_34","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"427","IN_2008-11-04_GEN","AG_Bartholomew_1_1","Bartholomew_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"428","IN_2008-11-04_GEN","AG_Blackford_1_1","Blackford_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"429","IN_2008-11-04_GEN","AG_Cass_1_1","Cass_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"430","IN_2008-11-04_GEN","AG_Clark_1_1","Clark_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"431","IN_2008-11-04_GEN","AG_Delaware_1_1","Delaware_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"432","IN_2008-11-04_GEN","AG_Adams_1_1","Adams_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"433","IN_2008-11-04_GEN","AG_Clay_1_1","Clay_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"434","IN_2008-11-04_GEN","AG_Clinton_1_1","Clinton_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"435","IN_2008-11-04_GEN","AG_Dearborn_1_1","Dearborn_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"436","IN_2008-11-04_GEN","AG_DeKalb_1_1","DeKalb_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"437","IN_2008-11-04_GEN","AG_Elkhart_1_1","Elkhart_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"438","IN_2008-11-04_GEN","AG_Allen_1_1","Allen_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"439","IN_2008-11-04_GEN","AG_Boone_1_1","Boone_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"440","IN_2008-11-04_GEN","AG_Crawford_1_1","Crawford_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"441","IN_2008-11-04_GEN","AG_Benton_1_1","Benton_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"442","IN_2008-11-04_GEN","AG_Brown_1_1","Brown_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"443","IN_2008-11-04_GEN","AG_Carroll_1_1","Carroll_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"444","IN_2008-11-04_GEN","AG_Daviess_1_1","Daviess_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"445","IN_2008-11-04_GEN","AG_Decatur_1_1","Decatur_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"446","IN_2008-11-04_GEN","AG_Dubois_1_1","Dubois_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"447","IN_2008-11-04_GEN","AG_Adams_1_1","Adams_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"448","IN_2008-11-04_GEN","AG_Clinton_1_1","Clinton_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"449","IN_2008-11-04_GEN","AG_Crawford_1_1","Crawford_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"450","IN_2008-11-04_GEN","AG_Boone_1_1","Boone_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"451","IN_2008-11-04_GEN","AG_Clay_1_1","Clay_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"452","IN_2008-11-04_GEN","AG_Dearborn_1_1","Dearborn_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"453","IN_2008-11-04_GEN","AG_Decatur_1_1","Decatur_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"454","IN_2008-11-04_GEN","AG_DeKalb_1_1","DeKalb_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"455","IN_2008-11-04_GEN","AG_Elkhart_1_1","Elkhart_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"456","IN_2008-11-04_GEN","AG_Allen_1_1","Allen_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"457","IN_2008-11-04_GEN","AG_Bartholomew_1_1","Bartholomew_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"458","IN_2008-11-04_GEN","AG_Benton_1_1","Benton_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"459","IN_2008-11-04_GEN","AG_Clark_1_1","Clark_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"460","IN_2008-11-04_GEN","AG_Blackford_1_1","Blackford_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"461","IN_2008-11-04_GEN","AG_Brown_1_1","Brown_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"462","IN_2008-11-04_GEN","AG_Carroll_1_1","Carroll_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"463","IN_2008-11-04_GEN","AG_Cass_1_1","Cass_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"464","IN_2008-11-04_GEN","AG_Daviess_1_1","Daviess_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"465","IN_2008-11-04_GEN","AG_Delaware_1_1","Delaware_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"466","IN_2008-11-04_GEN","AG_Dubois_1_1","Dubois_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"467","IN_2008-11-04_GEN","TC2_Allen_38_1","Allen_38","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"468","IN_2008-11-04_GEN","TC2_Benton_76_1","Benton_76","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"469","IN_2008-11-04_GEN","TC2_Clark_4_1","Clark_4","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"470","IN_2008-11-04_GEN","TC2_Clark_4_1","Clark_4","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"471","IN_2008-11-04_GEN","TC1_Adams_1_1","Adams_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"472","IN_2008-11-04_GEN","TC1_Adams_1_1","Adams_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"473","IN_2008-11-04_GEN","TC1_Allen_1_1","Allen_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"474","IN_2008-11-04_GEN","TC1_Allen_1_1","Allen_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"475","IN_2008-11-04_GEN","TC1_Allen_1_1","Allen_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"476","IN_2008-11-04_GEN","TC1_Allen_1_1","Allen_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"477","IN_2008-11-04_GEN","TC1_Allen_1_1","Allen_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"478","IN_2008-11-04_GEN","TC1_Bartholomew_1_2","Bartholomew_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"479","IN_2008-11-04_GEN","TC1_Bartholomew_1_2","Bartholomew_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"480","IN_2008-11-04_GEN","TC2_Daviess_49_1","Daviess_49","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"481","IN_2008-11-04_GEN","TC2_Daviess_49_1","Daviess_49","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"482","IN_2008-11-04_GEN","TC1_Boone_1_1","Boone_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"483","IN_2008-11-04_GEN","TC1_Boone_1_2","Boone_1","Judge of the Superior Court","TC1",2,0,NA,NA,NA,NA
+"484","IN_2008-11-04_GEN","TC2_Delaware_46_3","Delaware_46","Judge of the Circuit Court","TC2",3,1,NA,NA,NA,NA
+"485","IN_2008-11-04_GEN","TC2_Delaware_46_3","Delaware_46","Judge of the Circuit Court","TC2",3,1,NA,NA,NA,NA
+"486","IN_2008-11-04_GEN","TC2_Delaware_46_4","Delaware_46","Judge of the Circuit Court","TC2",4,1,NA,NA,NA,NA
+"487","IN_2008-11-04_GEN","TC2_Delaware_46_4","Delaware_46","Judge of the Circuit Court","TC2",4,1,NA,NA,NA,NA
+"488","IN_2008-11-04_GEN","TC2_Delaware_46_5","Delaware_46","Judge of the Circuit Court","TC2",5,1,NA,NA,NA,NA
+"489","IN_2008-11-04_GEN","TC2_Delaware_46_5","Delaware_46","Judge of the Circuit Court","TC2",5,1,NA,NA,NA,NA
+"490","IN_2008-11-04_GEN","TC1_Carroll_1_1","Carroll_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"491","IN_2008-11-04_GEN","TC2_Dubois_57_1","Dubois_57","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"492","IN_2008-11-04_GEN","TC1_Clark_1_2","Clark_1","Judge of the Superior Court","TC1",2,0,NA,NA,NA,NA
+"493","IN_2008-11-04_GEN","TC1_Clark_1_3","Clark_1","Judge of the Superior Court","TC1",3,0,NA,NA,NA,NA
+"494","IN_2008-11-04_GEN","TC1_Clinton_1_1","Clinton_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"495","IN_2008-11-04_GEN","TC1_Clinton_1_1","Clinton_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"496","IN_2008-11-04_GEN","TC1_Daviess_1_1","Daviess_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"497","IN_2008-11-04_GEN","TC1_Dearborn_1_1","Dearborn_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"498","IN_2008-11-04_GEN","TC1_Dearborn_1_1","Dearborn_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"499","IN_2008-11-04_GEN","TC1_Decatur_1_1","Decatur_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"500","IN_2008-11-04_GEN","TC1_DeKalb_1_1","DeKalb_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"501","IN_2008-11-04_GEN","TC1_Elkhart_1_1","Elkhart_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"502","IN_2008-11-04_GEN","TC1_Elkhart_1_3","Elkhart_1","Judge of the Superior Court","TC1",3,0,NA,NA,NA,NA
+"503","IN_2008-11-04_GEN","TC1_Elkhart_1_4","Elkhart_1","Judge of the Superior Court","TC1",4,0,NA,NA,NA,NA
+"504","IN_2008-11-04_GEN","TC1_Elkhart_1_5","Elkhart_1","Judge of the Superior Court","TC1",5,1,NA,NA,NA,NA
+"505","IN_2008-11-04_GEN","TC1_Elkhart_1_5","Elkhart_1","Judge of the Superior Court","TC1",5,1,NA,NA,NA,NA
+"506","IN_2008-05-06_PRI","TC2_Allen_38_1","Allen_38","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"507","IN_2008-05-06_PRI","TC2_Benton_76_1","Benton_76","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"508","IN_2008-05-06_PRI","TC1_Adams_1_1","Adams_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"509","IN_2008-05-06_PRI","TC1_Adams_1_1","Adams_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"510","IN_2008-05-06_PRI","TC1_Bartholomew_1_2","Bartholomew_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"511","IN_2008-05-06_PRI","TC1_Bartholomew_1_2","Bartholomew_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"512","IN_2008-05-06_PRI","TC2_Daviess_49_1","Daviess_49","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"513","IN_2008-05-06_PRI","TC2_Daviess_49_1","Daviess_49","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"514","IN_2008-05-06_PRI","TC1_Boone_1_1","Boone_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"515","IN_2008-05-06_PRI","TC1_Boone_1_2","Boone_1","Judge of the Superior Court","TC1",2,0,NA,NA,NA,NA
+"516","IN_2008-05-06_PRI","TC2_Delaware_46_3","Delaware_46","Judge of the Circuit Court","TC2",3,1,NA,NA,NA,NA
+"517","IN_2008-05-06_PRI","TC2_Delaware_46_3","Delaware_46","Judge of the Circuit Court","TC2",3,1,NA,NA,NA,NA
+"518","IN_2008-05-06_PRI","TC2_Delaware_46_3","Delaware_46","Judge of the Circuit Court","TC2",3,1,NA,NA,NA,NA
+"519","IN_2008-05-06_PRI","TC2_Delaware_46_3","Delaware_46","Judge of the Circuit Court","TC2",3,1,NA,NA,NA,NA
+"520","IN_2008-05-06_PRI","TC2_Delaware_46_4","Delaware_46","Judge of the Circuit Court","TC2",4,1,NA,NA,NA,NA
+"521","IN_2008-05-06_PRI","TC2_Delaware_46_4","Delaware_46","Judge of the Circuit Court","TC2",4,1,NA,NA,NA,NA
+"522","IN_2008-05-06_PRI","TC2_Delaware_46_5","Delaware_46","Judge of the Circuit Court","TC2",5,1,NA,NA,NA,NA
+"523","IN_2008-05-06_PRI","TC2_Delaware_46_5","Delaware_46","Judge of the Circuit Court","TC2",5,1,NA,NA,NA,NA
+"524","IN_2008-05-06_PRI","TC2_Delaware_46_5","Delaware_46","Judge of the Circuit Court","TC2",5,1,NA,NA,NA,NA
+"525","IN_2008-05-06_PRI","TC2_Delaware_46_5","Delaware_46","Judge of the Circuit Court","TC2",5,1,NA,NA,NA,NA
+"526","IN_2008-05-06_PRI","TC1_Carroll_1_1","Carroll_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"527","IN_2008-05-06_PRI","TC2_Dubois_57_1","Dubois_57","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"528","IN_2008-05-06_PRI","TC1_Clark_1_2","Clark_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"529","IN_2008-05-06_PRI","TC1_Clark_1_2","Clark_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"530","IN_2008-05-06_PRI","TC1_Clark_1_2","Clark_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"531","IN_2008-05-06_PRI","TC1_Clark_1_2","Clark_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"532","IN_2008-05-06_PRI","TC1_Clark_1_3","Clark_1","Judge of the Superior Court","TC1",3,0,NA,NA,NA,NA
+"533","IN_2008-05-06_PRI","TC1_Clinton_1_1","Clinton_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"534","IN_2008-05-06_PRI","TC1_Clinton_1_1","Clinton_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"535","IN_2008-05-06_PRI","TC1_Clinton_1_1","Clinton_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"536","IN_2008-05-06_PRI","TC1_Clinton_1_1","Clinton_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"537","IN_2008-05-06_PRI","TC1_Clinton_1_1","Clinton_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"538","IN_2008-05-06_PRI","TC1_Daviess_1_1","Daviess_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"539","IN_2008-05-06_PRI","TC1_Dearborn_1_1","Dearborn_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"540","IN_2008-05-06_PRI","TC1_Dearborn_1_1","Dearborn_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"541","IN_2008-05-06_PRI","TC1_Dearborn_1_1","Dearborn_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"542","IN_2008-05-06_PRI","TC1_Dearborn_1_1","Dearborn_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"543","IN_2008-05-06_PRI","TC1_Decatur_1_1","Decatur_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"544","IN_2008-05-06_PRI","TC1_Decatur_1_1","Decatur_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"545","IN_2008-05-06_PRI","TC1_DeKalb_1_1","DeKalb_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"546","IN_2008-05-06_PRI","TC1_Elkhart_1_1","Elkhart_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"547","IN_2008-05-06_PRI","TC1_Elkhart_1_3","Elkhart_1","Judge of the Superior Court","TC1",3,0,NA,NA,NA,NA
+"548","IN_2008-05-06_PRI","TC1_Elkhart_1_4","Elkhart_1","Judge of the Superior Court","TC1",4,0,NA,NA,NA,NA
+"549","IN_2008-05-06_PRI","TC1_Elkhart_1_5","Elkhart_1","Judge of the Superior Court","TC1",5,1,NA,NA,NA,NA
+"550","IN_2008-05-06_PRI","TC1_Elkhart_1_5","Elkhart_1","Judge of the Superior Court","TC1",5,1,NA,NA,NA,NA
+"551","IN_2008-05-06_PRI","TC1_Elkhart_1_5","Elkhart_1","Judge of the Superior Court","TC1",5,1,NA,NA,NA,NA
+"552","IN_2008-05-06_PRI","TC1_Elkhart_1_5","Elkhart_1","Judge of the Superior Court","TC1",5,1,NA,NA,NA,NA
+"553","IN_2008-05-06_PRI","TC1_Elkhart_1_5","Elkhart_1","Judge of the Superior Court","TC1",5,1,NA,NA,NA,NA
+"554","IN_2010-11-02_GEN","TC2_Bartholomew_9_1","Bartholomew_9","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"555","IN_2010-11-02_GEN","TC1_Allen_1_1","Allen_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"556","IN_2010-11-02_GEN","TC1_Allen_1_9","Allen_1","Judge of the Superior Court","TC1",9,0,NA,NA,NA,NA
+"557","IN_2010-11-02_GEN","TC1_Allen_1_4","Allen_1","Judge of the Superior Court","TC1",4,0,NA,NA,NA,NA
+"558","IN_2010-11-02_GEN","TC1_Allen_1_1","Allen_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"559","IN_2010-11-02_GEN","TC1_Allen_1_1","Allen_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"560","IN_2010-11-02_GEN","TC1_Allen_1_1","Allen_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"561","IN_2010-11-02_GEN","TC2_Crawford_77_1","Crawford_77","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"562","IN_2010-11-02_GEN","TC1_Blackford_1_1","Blackford_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"563","IN_2010-11-02_GEN","TC2_Dearborn_7_1","Dearborn_7","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"564","IN_2010-11-02_GEN","TC1_Blackford_1_1","Blackford_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"565","IN_2010-11-02_GEN","TC2_DeKalb_75_1","DeKalb_75","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"566","IN_2010-11-02_GEN","TC2_Delaware_46_1","Delaware_46","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"567","IN_2010-11-02_GEN","TC1_Cass_1_1","Cass_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"568","IN_2010-11-02_GEN","TC2_Elkhart_34_1","Elkhart_34","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"569","IN_2010-11-02_GEN","TC1_Dubois_1_1","Dubois_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"570","IN_2010-11-02_GEN","TC1_Dubois_1_1","Dubois_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"571","IN_2010-11-02_GEN","DA_Adams_26_1","Adams_26","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"572","IN_2010-11-02_GEN","DA_Allen_38_1","Allen_38","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"573","IN_2010-11-02_GEN","DA_Bartholomew_9_1","Bartholomew_9","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"574","IN_2010-11-02_GEN","DA_Benton_76_1","Benton_76","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"575","IN_2010-11-02_GEN","DA_Blackford_71_1","Blackford_71","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"576","IN_2010-11-02_GEN","DA_Boone_20_1","Boone_20","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"577","IN_2010-11-02_GEN","DA_Brown_88_1","Brown_88","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"578","IN_2010-11-02_GEN","DA_Brown_88_1","Brown_88","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"579","IN_2010-11-02_GEN","DA_Carroll_74_1","Carroll_74","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"580","IN_2010-11-02_GEN","DA_Carroll_74_1","Carroll_74","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"581","IN_2010-11-02_GEN","DA_Cass_29_1","Cass_29","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"582","IN_2010-11-02_GEN","DA_Clark_4_1","Clark_4","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"583","IN_2010-11-02_GEN","DA_Clay_13_1","Clay_13","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"584","IN_2010-11-02_GEN","DA_Clay_13_1","Clay_13","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"585","IN_2010-11-02_GEN","DA_Clinton_45_1","Clinton_45","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"586","IN_2010-11-02_GEN","DA_Crawford_77_1","Crawford_77","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"587","IN_2010-11-02_GEN","DA_Crawford_77_1","Crawford_77","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"588","IN_2010-11-02_GEN","DA_Daviess_49_1","Daviess_49","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"589","IN_2010-11-02_GEN","DA_Dearborn_7_1","Dearborn_7","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"590","IN_2010-11-02_GEN","DA_Decatur_69_1","Decatur_69","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"591","IN_2010-11-02_GEN","DA_DeKalb_75_1","DeKalb_75","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"592","IN_2010-11-02_GEN","DA_Delaware_46_1","Delaware_46","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"593","IN_2010-11-02_GEN","DA_Delaware_46_1","Delaware_46","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"594","IN_2010-11-02_GEN","DA_Dubois_57_1","Dubois_57","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"595","IN_2010-11-02_GEN","DA_Dubois_57_1","Dubois_57","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"596","IN_2010-11-02_GEN","DA_Elkhart_34_1","Elkhart_34","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"597","IN_2010-05-04_PRI","TC2_Bartholomew_9_1","Bartholomew_9","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"598","IN_2010-05-04_PRI","TC2_Crawford_77_1","Crawford_77","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"599","IN_2010-05-04_PRI","TC2_Dearborn_7_1","Dearborn_7","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"600","IN_2010-05-04_PRI","TC1_Blackford_1_1","Blackford_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"601","IN_2010-05-04_PRI","TC2_DeKalb_75_1","DeKalb_75","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"602","IN_2010-05-04_PRI","TC2_Delaware_46_1","Delaware_46","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"603","IN_2010-05-04_PRI","TC1_Cass_1_1","Cass_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"604","IN_2010-05-04_PRI","TC2_Elkhart_34_1","Elkhart_34","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"605","IN_2010-05-04_PRI","TC1_Dubois_1_1","Dubois_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"606","IN_2010-05-04_PRI","TC1_Dubois_1_1","Dubois_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"607","IN_2010-05-04_PRI","DA_Adams_26_1","Adams_26","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"608","IN_2010-05-04_PRI","DA_Allen_38_1","Allen_38","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"609","IN_2010-05-04_PRI","DA_Bartholomew_9_1","Bartholomew_9","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"610","IN_2010-05-04_PRI","DA_Benton_76_1","Benton_76","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"611","IN_2010-05-04_PRI","DA_Blackford_71_1","Blackford_71","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"612","IN_2010-05-04_PRI","DA_Boone_20_1","Boone_20","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"613","IN_2010-05-04_PRI","DA_Brown_88_1","Brown_88","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"614","IN_2010-05-04_PRI","DA_Carroll_74_1","Carroll_74","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"615","IN_2010-05-04_PRI","DA_Carroll_74_1","Carroll_74","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"616","IN_2010-05-04_PRI","DA_Carroll_74_1","Carroll_74","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"617","IN_2010-05-04_PRI","DA_Cass_29_1","Cass_29","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"618","IN_2010-05-04_PRI","DA_Clark_4_1","Clark_4","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"619","IN_2010-05-04_PRI","DA_Clay_13_1","Clay_13","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"620","IN_2010-05-04_PRI","DA_Clay_13_1","Clay_13","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"621","IN_2010-05-04_PRI","DA_Clay_13_1","Clay_13","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"622","IN_2010-05-04_PRI","DA_Clinton_45_1","Clinton_45","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"623","IN_2010-05-04_PRI","DA_Crawford_77_1","Crawford_77","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"624","IN_2010-05-04_PRI","DA_Crawford_77_1","Crawford_77","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"625","IN_2010-05-04_PRI","DA_Daviess_49_1","Daviess_49","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"626","IN_2010-05-04_PRI","DA_Dearborn_7_1","Dearborn_7","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"627","IN_2010-05-04_PRI","DA_Decatur_69_1","Decatur_69","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"628","IN_2010-05-04_PRI","DA_DeKalb_75_1","DeKalb_75","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"629","IN_2010-05-04_PRI","DA_Delaware_46_1","Delaware_46","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"630","IN_2010-05-04_PRI","DA_Delaware_46_1","Delaware_46","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"631","IN_2010-05-04_PRI","DA_Dubois_57_1","Dubois_57","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"632","IN_2010-05-04_PRI","DA_Dubois_57_1","Dubois_57","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"633","IN_2010-05-04_PRI","DA_Dubois_57_1","Dubois_57","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"634","IN_2010-05-04_PRI","DA_Elkhart_34_1","Elkhart_34","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"635","IN_2012-11-06_GEN","AG_Bartholomew_1_1","Bartholomew_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"636","IN_2012-11-06_GEN","AG_Blackford_1_1","Blackford_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"637","IN_2012-11-06_GEN","AG_Brown_1_1","Brown_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"638","IN_2012-11-06_GEN","AG_Carroll_1_1","Carroll_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"639","IN_2012-11-06_GEN","AG_Cass_1_1","Cass_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"640","IN_2012-11-06_GEN","AG_Daviess_1_1","Daviess_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"641","IN_2012-11-06_GEN","AG_Dubois_1_1","Dubois_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"642","IN_2012-11-06_GEN","AG_Allen_1_1","Allen_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"643","IN_2012-11-06_GEN","AG_Benton_1_1","Benton_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"644","IN_2012-11-06_GEN","AG_Clark_1_1","Clark_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"645","IN_2012-11-06_GEN","AG_Boone_1_1","Boone_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"646","IN_2012-11-06_GEN","AG_Clay_1_1","Clay_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"647","IN_2012-11-06_GEN","AG_Dearborn_1_1","Dearborn_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"648","IN_2012-11-06_GEN","AG_Decatur_1_1","Decatur_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"649","IN_2012-11-06_GEN","AG_DeKalb_1_1","DeKalb_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"650","IN_2012-11-06_GEN","AG_Delaware_1_1","Delaware_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"651","IN_2012-11-06_GEN","AG_Elkhart_1_1","Elkhart_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"652","IN_2012-11-06_GEN","AG_Adams_1_1","Adams_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"653","IN_2012-11-06_GEN","AG_Clinton_1_1","Clinton_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"654","IN_2012-11-06_GEN","AG_Crawford_1_1","Crawford_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"655","IN_2012-11-06_GEN","AG_Bartholomew_1_1","Bartholomew_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"656","IN_2012-11-06_GEN","AG_Benton_1_1","Benton_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"657","IN_2012-11-06_GEN","AG_Brown_1_1","Brown_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"658","IN_2012-11-06_GEN","AG_Cass_1_1","Cass_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"659","IN_2012-11-06_GEN","AG_Decatur_1_1","Decatur_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"660","IN_2012-11-06_GEN","AG_Carroll_1_1","Carroll_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"661","IN_2012-11-06_GEN","AG_Clinton_1_1","Clinton_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"662","IN_2012-11-06_GEN","AG_Crawford_1_1","Crawford_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"663","IN_2012-11-06_GEN","AG_Daviess_1_1","Daviess_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"664","IN_2012-11-06_GEN","AG_Dubois_1_1","Dubois_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"665","IN_2012-11-06_GEN","AG_Adams_1_1","Adams_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"666","IN_2012-11-06_GEN","AG_Clark_1_1","Clark_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"667","IN_2012-11-06_GEN","AG_Clay_1_1","Clay_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"668","IN_2012-11-06_GEN","AG_Delaware_1_1","Delaware_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"669","IN_2012-11-06_GEN","AG_Allen_1_1","Allen_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"670","IN_2012-11-06_GEN","AG_Blackford_1_1","Blackford_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"671","IN_2012-11-06_GEN","AG_Boone_1_1","Boone_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"672","IN_2012-11-06_GEN","AG_Dearborn_1_1","Dearborn_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"673","IN_2012-11-06_GEN","AG_DeKalb_1_1","DeKalb_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"674","IN_2012-11-06_GEN","AG_Elkhart_1_1","Elkhart_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"675","IN_2012-11-06_GEN","TC2_Adams_26_1","Adams_26","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"676","IN_2012-11-06_GEN","TC2_Adams_26_1","Adams_26","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"677","IN_2012-11-06_GEN","TC2_Blackford_71_1","Blackford_71","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"678","IN_2012-11-06_GEN","TC2_Boone_20_1","Boone_20","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"679","IN_2012-11-06_GEN","TC2_Brown_88_1","Brown_88","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"680","IN_2012-11-06_GEN","TC2_Carroll_74_1","Carroll_74","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"681","IN_2012-11-06_GEN","TC2_Carroll_74_1","Carroll_74","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"682","IN_2012-11-06_GEN","TC2_Cass_29_1","Cass_29","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"683","IN_2012-11-06_GEN","TC2_Cass_29_1","Cass_29","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"684","IN_2012-11-06_GEN","TC2_Clark_4_1","Clark_4","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"685","IN_2012-11-06_GEN","TC2_Clay_13_1","Clay_13","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"686","IN_2012-11-06_GEN","TC2_Clay_13_1","Clay_13","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"687","IN_2012-11-06_GEN","TC2_Clinton_45_1","Clinton_45","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"688","IN_2012-11-06_GEN","TC1_Bartholomew_1_1","Bartholomew_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"689","IN_2012-11-06_GEN","TC1_Bartholomew_1_1","Bartholomew_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"690","IN_2012-11-06_GEN","TC2_Decatur_69_1","Decatur_69","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"691","IN_2012-11-06_GEN","TC2_Decatur_69_1","Decatur_69","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"692","IN_2012-11-06_GEN","TC2_Delaware_46_2","Delaware_46","Judge of the Circuit Court","TC2",2,1,NA,NA,NA,NA
+"693","IN_2012-11-06_GEN","TC2_Delaware_46_2","Delaware_46","Judge of the Circuit Court","TC2",2,1,NA,NA,NA,NA
+"694","IN_2012-11-06_GEN","TC1_Cass_1_2","Cass_1","Judge of the Superior Court","TC1",2,0,NA,NA,NA,NA
+"695","IN_2012-11-06_GEN","TC1_Clay_1_1","Clay_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"696","IN_2012-11-06_GEN","TC1_Clay_1_1","Clay_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"697","IN_2012-11-06_GEN","TC1_Dearborn_1_2","Dearborn_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"698","IN_2012-11-06_GEN","TC1_Dearborn_1_2","Dearborn_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"699","IN_2012-11-06_GEN","TC1_DeKalb_1_2","DeKalb_1","Judge of the Superior Court","TC1",2,0,NA,NA,NA,NA
+"700","IN_2012-11-06_GEN","TC1_Elkhart_1_2","Elkhart_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"701","IN_2012-11-06_GEN","TC1_Elkhart_1_2","Elkhart_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"702","IN_2012-11-06_GEN","TC1_Elkhart_1_6","Elkhart_1","Judge of the Superior Court","TC1",6,0,NA,NA,NA,NA
+"703","IN_2012-05-08_PRI","TC2_Adams_26_1","Adams_26","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"704","IN_2012-05-08_PRI","TC2_Adams_26_1","Adams_26","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"705","IN_2012-05-08_PRI","TC2_Blackford_71_1","Blackford_71","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"706","IN_2012-05-08_PRI","TC2_Boone_20_1","Boone_20","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"707","IN_2012-05-08_PRI","TC2_Brown_88_1","Brown_88","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"708","IN_2012-05-08_PRI","TC2_Carroll_74_1","Carroll_74","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"709","IN_2012-05-08_PRI","TC2_Carroll_74_1","Carroll_74","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"710","IN_2012-05-08_PRI","TC2_Cass_29_1","Cass_29","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"711","IN_2012-05-08_PRI","TC2_Cass_29_1","Cass_29","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"712","IN_2012-05-08_PRI","TC2_Clark_4_1","Clark_4","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"713","IN_2012-05-08_PRI","TC2_Clay_13_1","Clay_13","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"714","IN_2012-05-08_PRI","TC2_Clay_13_1","Clay_13","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"715","IN_2012-05-08_PRI","TC2_Clinton_45_1","Clinton_45","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"716","IN_2012-05-08_PRI","TC1_Bartholomew_1_1","Bartholomew_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"717","IN_2012-05-08_PRI","TC1_Bartholomew_1_1","Bartholomew_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"718","IN_2012-05-08_PRI","TC2_Decatur_69_1","Decatur_69","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"719","IN_2012-05-08_PRI","TC2_Decatur_69_1","Decatur_69","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"720","IN_2012-05-08_PRI","TC2_Delaware_46_2","Delaware_46","Judge of the Circuit Court","TC2",2,1,NA,NA,NA,NA
+"721","IN_2012-05-08_PRI","TC2_Delaware_46_2","Delaware_46","Judge of the Circuit Court","TC2",2,1,NA,NA,NA,NA
+"722","IN_2012-05-08_PRI","TC2_Delaware_46_2","Delaware_46","Judge of the Circuit Court","TC2",2,1,NA,NA,NA,NA
+"723","IN_2012-05-08_PRI","TC1_Cass_1_2","Cass_1","Judge of the Superior Court","TC1",2,0,NA,NA,NA,NA
+"724","IN_2012-05-08_PRI","TC1_Clay_1_1","Clay_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"725","IN_2012-05-08_PRI","TC1_Clay_1_1","Clay_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"726","IN_2012-05-08_PRI","TC1_Dearborn_1_2","Dearborn_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"727","IN_2012-05-08_PRI","TC1_Dearborn_1_2","Dearborn_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"728","IN_2012-05-08_PRI","TC1_DeKalb_1_2","DeKalb_1","Judge of the Superior Court","TC1",2,0,NA,NA,NA,NA
+"729","IN_2012-05-08_PRI","TC1_Elkhart_1_2","Elkhart_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"730","IN_2012-05-08_PRI","TC1_Elkhart_1_2","Elkhart_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"731","IN_2012-05-08_PRI","TC1_Elkhart_1_6","Elkhart_1","Judge of the Superior Court","TC1",6,0,NA,NA,NA,NA
+"732","IN_2014-11-04_GEN","TC2_Allen_38_1","Allen_38","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"733","IN_2014-11-04_GEN","TC2_Benton_76_1","Benton_76","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"734","IN_2014-11-04_GEN","TC2_Clark_4_1","Clark_4","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"735","IN_2014-11-04_GEN","TC2_Clark_4_2","Clark_4","Judge of the Circuit Court","TC2",2,1,NA,NA,NA,NA
+"736","IN_2014-11-04_GEN","TC2_Clark_4_2","Clark_4","Judge of the Circuit Court","TC2",2,1,NA,NA,NA,NA
+"737","IN_2014-11-04_GEN","TC1_Adams_1_1","Adams_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"738","IN_2014-11-04_GEN","TC2_Clark_4_3","Clark_4","Judge of the Circuit Court","TC2",3,1,NA,NA,NA,NA
+"739","IN_2014-11-04_GEN","TC2_Clark_4_3","Clark_4","Judge of the Circuit Court","TC2",3,1,NA,NA,NA,NA
+"740","IN_2014-11-04_GEN","TC1_Allen_1_1","Allen_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"741","IN_2014-11-04_GEN","TC1_Allen_1_1","Allen_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"742","IN_2014-11-04_GEN","TC1_Allen_1_1","Allen_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"743","IN_2014-11-04_GEN","TC1_Allen_1_1","Allen_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"744","IN_2014-11-04_GEN","TC1_Allen_1_1","Allen_1","Judge of the Superior Court","TC1",1,1,NA,NA,NA,NA
+"745","IN_2014-11-04_GEN","TC1_Allen_1_1","Allen_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"746","IN_2014-11-04_GEN","TC1_Allen_1_1","Allen_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"747","IN_2014-11-04_GEN","TC1_Bartholomew_1_2","Bartholomew_1","Judge of the Superior Court","TC1",2,0,NA,NA,NA,NA
+"748","IN_2014-11-04_GEN","TC2_Daviess_49_1","Daviess_49","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"749","IN_2014-11-04_GEN","TC1_Boone_1_1","Boone_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"750","IN_2014-11-04_GEN","TC1_Boone_1_2","Boone_1","Judge of the Superior Court","TC1",2,0,NA,NA,NA,NA
+"751","IN_2014-11-04_GEN","TC2_Delaware_46_3","Delaware_46","Judge of the Circuit Court","TC2",3,0,NA,NA,NA,NA
+"752","IN_2014-11-04_GEN","TC2_Delaware_46_4","Delaware_46","Judge of the Circuit Court","TC2",4,0,NA,NA,NA,NA
+"753","IN_2014-11-04_GEN","TC2_Delaware_46_5","Delaware_46","Judge of the Circuit Court","TC2",5,0,NA,NA,NA,NA
+"754","IN_2014-11-04_GEN","TC1_Carroll_1_1","Carroll_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"755","IN_2014-11-04_GEN","TC2_Dubois_57_1","Dubois_57","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"756","IN_2014-11-04_GEN","TC2_Dubois_57_1","Dubois_57","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"757","IN_2014-11-04_GEN","TC1_Clinton_1_1","Clinton_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"758","IN_2014-11-04_GEN","TC1_Daviess_1_1","Daviess_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"759","IN_2014-11-04_GEN","TC1_Dearborn_1_1","Dearborn_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"760","IN_2014-11-04_GEN","TC1_Decatur_1_1","Decatur_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"761","IN_2014-11-04_GEN","TC1_DeKalb_1_1","DeKalb_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"762","IN_2014-11-04_GEN","TC1_Elkhart_1_1","Elkhart_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"763","IN_2014-11-04_GEN","DA_Adams_26_1","Adams_26","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"764","IN_2014-11-04_GEN","DA_Adams_26_1","Adams_26","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"765","IN_2014-11-04_GEN","DA_Allen_38_1","Allen_38","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"766","IN_2014-11-04_GEN","TC1_Elkhart_1_3","Elkhart_1","Judge of the Superior Court","TC1",3,0,NA,NA,NA,NA
+"767","IN_2014-11-04_GEN","TC1_Elkhart_1_4","Elkhart_1","Judge of the Superior Court","TC1",4,0,NA,NA,NA,NA
+"768","IN_2014-11-04_GEN","DA_Bartholomew_9_1","Bartholomew_9","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"769","IN_2014-11-04_GEN","TC1_Elkhart_1_5","Elkhart_1","Judge of the Superior Court","TC1",5,0,NA,NA,NA,NA
+"770","IN_2014-11-04_GEN","DA_Benton_76_1","Benton_76","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"771","IN_2014-11-04_GEN","DA_Blackford_71_1","Blackford_71","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"772","IN_2014-11-04_GEN","DA_Boone_20_1","Boone_20","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"773","IN_2014-11-04_GEN","DA_Brown_88_1","Brown_88","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"774","IN_2014-11-04_GEN","DA_Brown_88_1","Brown_88","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"775","IN_2014-11-04_GEN","DA_Carroll_74_1","Carroll_74","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"776","IN_2014-11-04_GEN","DA_Cass_29_1","Cass_29","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"777","IN_2014-11-04_GEN","DA_Cass_29_1","Cass_29","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"778","IN_2014-11-04_GEN","DA_Clark_4_1","Clark_4","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"779","IN_2014-11-04_GEN","DA_Clark_4_1","Clark_4","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"780","IN_2014-11-04_GEN","DA_Clay_13_1","Clay_13","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"781","IN_2014-11-04_GEN","DA_Clinton_45_1","Clinton_45","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"782","IN_2014-11-04_GEN","DA_Crawford_77_1","Crawford_77","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"783","IN_2014-11-04_GEN","DA_Crawford_77_1","Crawford_77","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"784","IN_2014-11-04_GEN","DA_Daviess_49_1","Daviess_49","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"785","IN_2014-11-04_GEN","DA_Dearborn_7_1","Dearborn_7","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"786","IN_2014-11-04_GEN","DA_Decatur_69_1","Decatur_69","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"787","IN_2014-11-04_GEN","DA_Decatur_69_1","Decatur_69","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"788","IN_2014-11-04_GEN","DA_DeKalb_75_1","DeKalb_75","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"789","IN_2014-11-04_GEN","DA_Delaware_46_1","Delaware_46","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"790","IN_2014-11-04_GEN","DA_Dubois_57_1","Dubois_57","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"791","IN_2014-11-04_GEN","DA_Elkhart_34_1","Elkhart_34","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"792","IN_2014-05-06_PRI","TC2_Allen_38_1","Allen_38","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"793","IN_2014-05-06_PRI","TC2_Benton_76_1","Benton_76","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"794","IN_2014-05-06_PRI","TC2_Clark_4_1","Clark_4","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"795","IN_2014-05-06_PRI","TC2_Clark_4_1","Clark_4","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"796","IN_2014-05-06_PRI","TC2_Clark_4_2","Clark_4","Judge of the Circuit Court","TC2",2,1,NA,NA,NA,NA
+"797","IN_2014-05-06_PRI","TC2_Clark_4_2","Clark_4","Judge of the Circuit Court","TC2",2,1,NA,NA,NA,NA
+"798","IN_2014-05-06_PRI","TC1_Adams_1_1","Adams_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"799","IN_2014-05-06_PRI","TC2_Clark_4_3","Clark_4","Judge of the Circuit Court","TC2",3,0,NA,NA,NA,NA
+"800","IN_2014-05-06_PRI","TC1_Bartholomew_1_2","Bartholomew_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"801","IN_2014-05-06_PRI","TC1_Bartholomew_1_2","Bartholomew_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"802","IN_2014-05-06_PRI","TC1_Bartholomew_1_2","Bartholomew_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"803","IN_2014-05-06_PRI","TC2_Daviess_49_1","Daviess_49","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"804","IN_2014-05-06_PRI","TC1_Boone_1_1","Boone_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"805","IN_2014-05-06_PRI","TC1_Boone_1_2","Boone_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"806","IN_2014-05-06_PRI","TC1_Boone_1_2","Boone_1","Judge of the Superior Court","TC1",2,1,NA,NA,NA,NA
+"807","IN_2014-05-06_PRI","TC2_Delaware_46_3","Delaware_46","Judge of the Circuit Court","TC2",3,0,NA,NA,NA,NA
+"808","IN_2014-05-06_PRI","TC2_Delaware_46_4","Delaware_46","Judge of the Circuit Court","TC2",4,0,NA,NA,NA,NA
+"809","IN_2014-05-06_PRI","TC2_Delaware_46_5","Delaware_46","Judge of the Circuit Court","TC2",5,0,NA,NA,NA,NA
+"810","IN_2014-05-06_PRI","TC1_Carroll_1_1","Carroll_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"811","IN_2014-05-06_PRI","TC2_Dubois_57_1","Dubois_57","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"812","IN_2014-05-06_PRI","TC2_Dubois_57_1","Dubois_57","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"813","IN_2014-05-06_PRI","TC1_Clinton_1_1","Clinton_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"814","IN_2014-05-06_PRI","TC1_Daviess_1_1","Daviess_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"815","IN_2014-05-06_PRI","TC1_Dearborn_1_1","Dearborn_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"816","IN_2014-05-06_PRI","TC1_Decatur_1_1","Decatur_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"817","IN_2014-05-06_PRI","TC1_DeKalb_1_1","DeKalb_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"818","IN_2014-05-06_PRI","TC1_Elkhart_1_1","Elkhart_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"819","IN_2014-05-06_PRI","DA_Adams_26_1","Adams_26","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"820","IN_2014-05-06_PRI","DA_Adams_26_1","Adams_26","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"821","IN_2014-05-06_PRI","TC1_Elkhart_1_3","Elkhart_1","Judge of the Superior Court","TC1",3,1,NA,NA,NA,NA
+"822","IN_2014-05-06_PRI","TC1_Elkhart_1_3","Elkhart_1","Judge of the Superior Court","TC1",3,1,NA,NA,NA,NA
+"823","IN_2014-05-06_PRI","TC1_Elkhart_1_3","Elkhart_1","Judge of the Superior Court","TC1",3,1,NA,NA,NA,NA
+"824","IN_2014-05-06_PRI","DA_Allen_38_1","Allen_38","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"825","IN_2014-05-06_PRI","DA_Allen_38_1","Allen_38","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"826","IN_2014-05-06_PRI","TC1_Elkhart_1_3","Elkhart_1","Judge of the Superior Court","TC1",3,1,NA,NA,NA,NA
+"827","IN_2014-05-06_PRI","TC1_Elkhart_1_4","Elkhart_1","Judge of the Superior Court","TC1",4,0,NA,NA,NA,NA
+"828","IN_2014-05-06_PRI","DA_Bartholomew_9_1","Bartholomew_9","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"829","IN_2014-05-06_PRI","TC1_Elkhart_1_5","Elkhart_1","Judge of the Superior Court","TC1",5,0,NA,NA,NA,NA
+"830","IN_2014-05-06_PRI","DA_Benton_76_1","Benton_76","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"831","IN_2014-05-06_PRI","DA_Blackford_71_1","Blackford_71","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"832","IN_2014-05-06_PRI","DA_Boone_20_1","Boone_20","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"833","IN_2014-05-06_PRI","DA_Brown_88_1","Brown_88","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"834","IN_2014-05-06_PRI","DA_Carroll_74_1","Carroll_74","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"835","IN_2014-05-06_PRI","DA_Cass_29_1","Cass_29","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"836","IN_2014-05-06_PRI","DA_Cass_29_1","Cass_29","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"837","IN_2014-05-06_PRI","DA_Clark_4_1","Clark_4","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"838","IN_2014-05-06_PRI","DA_Clark_4_1","Clark_4","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"839","IN_2014-05-06_PRI","DA_Clay_13_1","Clay_13","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"840","IN_2014-05-06_PRI","DA_Clay_13_1","Clay_13","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"841","IN_2014-05-06_PRI","DA_Clinton_45_1","Clinton_45","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"842","IN_2014-05-06_PRI","DA_Crawford_77_1","Crawford_77","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"843","IN_2014-05-06_PRI","DA_Crawford_77_1","Crawford_77","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"844","IN_2014-05-06_PRI","DA_Crawford_77_1","Crawford_77","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"845","IN_2014-05-06_PRI","DA_Daviess_49_1","Daviess_49","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"846","IN_2014-05-06_PRI","DA_Dearborn_7_1","Dearborn_7","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"847","IN_2014-05-06_PRI","DA_Decatur_69_1","Decatur_69","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"848","IN_2014-05-06_PRI","DA_Decatur_69_1","Decatur_69","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"849","IN_2014-05-06_PRI","DA_DeKalb_75_1","DeKalb_75","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"850","IN_2014-05-06_PRI","DA_Delaware_46_1","Delaware_46","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"851","IN_2014-05-06_PRI","DA_Dubois_57_1","Dubois_57","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"852","IN_2014-05-06_PRI","DA_Elkhart_34_1","Elkhart_34","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"853","IN_2016-11-08_GEN","AG_Blackford_1_1","Blackford_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"854","IN_2016-11-08_GEN","AG_Carroll_1_1","Carroll_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"855","IN_2016-11-08_GEN","AG_Daviess_1_1","Daviess_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"856","IN_2016-11-08_GEN","AG_Decatur_1_1","Decatur_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"857","IN_2016-11-08_GEN","AG_DeKalb_1_1","DeKalb_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"858","IN_2016-11-08_GEN","AG_Delaware_1_1","Delaware_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"859","IN_2016-11-08_GEN","AG_Dubois_1_1","Dubois_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"860","IN_2016-11-08_GEN","AG_Allen_1_1","Allen_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"861","IN_2016-11-08_GEN","AG_Bartholomew_1_1","Bartholomew_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"862","IN_2016-11-08_GEN","AG_Benton_1_1","Benton_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"863","IN_2016-11-08_GEN","AG_Cass_1_1","Cass_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"864","IN_2016-11-08_GEN","AG_Clark_1_1","Clark_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"865","IN_2016-11-08_GEN","AG_Brown_1_1","Brown_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"866","IN_2016-11-08_GEN","AG_Crawford_1_1","Crawford_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"867","IN_2016-11-08_GEN","AG_Dearborn_1_1","Dearborn_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"868","IN_2016-11-08_GEN","AG_Adams_1_1","Adams_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"869","IN_2016-11-08_GEN","AG_Boone_1_1","Boone_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"870","IN_2016-11-08_GEN","AG_Clay_1_1","Clay_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"871","IN_2016-11-08_GEN","AG_Clinton_1_1","Clinton_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"872","IN_2016-11-08_GEN","AG_Elkhart_1_1","Elkhart_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"873","IN_2016-11-08_GEN","AG_Blackford_1_1","Blackford_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"874","IN_2016-11-08_GEN","AG_Decatur_1_1","Decatur_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"875","IN_2016-11-08_GEN","AG_DeKalb_1_1","DeKalb_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"876","IN_2016-11-08_GEN","AG_Delaware_1_1","Delaware_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"877","IN_2016-11-08_GEN","AG_Allen_1_1","Allen_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"878","IN_2016-11-08_GEN","AG_Bartholomew_1_1","Bartholomew_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"879","IN_2016-11-08_GEN","AG_Benton_1_1","Benton_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"880","IN_2016-11-08_GEN","AG_Cass_1_1","Cass_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"881","IN_2016-11-08_GEN","AG_Dubois_1_1","Dubois_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"882","IN_2016-11-08_GEN","AG_Boone_1_1","Boone_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"883","IN_2016-11-08_GEN","AG_Brown_1_1","Brown_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"884","IN_2016-11-08_GEN","AG_Carroll_1_1","Carroll_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"885","IN_2016-11-08_GEN","AG_Crawford_1_1","Crawford_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"886","IN_2016-11-08_GEN","AG_Daviess_1_1","Daviess_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"887","IN_2016-11-08_GEN","AG_Dearborn_1_1","Dearborn_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"888","IN_2016-11-08_GEN","AG_Adams_1_1","Adams_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"889","IN_2016-11-08_GEN","AG_Clark_1_1","Clark_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"890","IN_2016-11-08_GEN","AG_Clay_1_1","Clay_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"891","IN_2016-11-08_GEN","AG_Clinton_1_1","Clinton_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"892","IN_2016-11-08_GEN","AG_Elkhart_1_1","Elkhart_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"893","IN_2016-11-08_GEN","TC2_Bartholomew_9_1","Bartholomew_9","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"894","IN_2016-11-08_GEN","TC1_Allen_1_1","Allen_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"895","IN_2016-11-08_GEN","TC1_Allen_1_9","Allen_1","Judge of the Superior Court","TC1",9,0,NA,NA,NA,NA
+"896","IN_2016-11-08_GEN","TC1_Allen_1_4","Allen_1","Judge of the Superior Court","TC1",4,0,NA,NA,NA,NA
+"897","IN_2016-11-08_GEN","TC1_Allen_1_8","Allen_1","Judge of the Superior Court","TC1",8,0,NA,NA,NA,NA
+"898","IN_2016-11-08_GEN","TC2_Crawford_77_1","Crawford_77","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"899","IN_2016-11-08_GEN","TC2_Crawford_77_1","Crawford_77","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"900","IN_2016-11-08_GEN","TC2_Dearborn_7_1","Dearborn_7","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"901","IN_2016-11-08_GEN","TC1_Blackford_1_1","Blackford_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"902","IN_2016-11-08_GEN","TC2_DeKalb_75_1","DeKalb_75","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"903","IN_2016-11-08_GEN","TC2_Delaware_46_1","Delaware_46","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"904","IN_2016-11-08_GEN","TC1_Cass_1_1","Cass_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"905","IN_2016-11-08_GEN","TC2_Elkhart_34_1","Elkhart_34","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"906","IN_2016-11-08_GEN","TC1_Dubois_1_1","Dubois_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"907","IN_2016-05-03_PRI","TC2_Bartholomew_9_1","Bartholomew_9","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"908","IN_2016-05-03_PRI","TC2_Bartholomew_9_1","Bartholomew_9","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"909","IN_2016-05-03_PRI","TC2_Crawford_77_1","Crawford_77","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"910","IN_2016-05-03_PRI","TC2_Crawford_77_1","Crawford_77","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"911","IN_2016-05-03_PRI","TC2_Crawford_77_1","Crawford_77","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"912","IN_2016-05-03_PRI","TC2_Crawford_77_1","Crawford_77","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"913","IN_2016-05-03_PRI","TC2_Dearborn_7_1","Dearborn_7","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"914","IN_2016-05-03_PRI","TC1_Blackford_1_1","Blackford_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"915","IN_2016-05-03_PRI","TC2_DeKalb_75_1","DeKalb_75","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"916","IN_2016-05-03_PRI","TC2_DeKalb_75_1","DeKalb_75","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"917","IN_2016-05-03_PRI","TC2_Delaware_46_1","Delaware_46","Judge of the Circuit Court","TC2",1,0,NA,NA,NA,NA
+"918","IN_2016-05-03_PRI","TC1_Cass_1_1","Cass_1","Judge of the Superior Court","TC1",1,0,NA,NA,NA,NA
+"919","IN_2016-05-03_PRI","TC2_Elkhart_34_1","Elkhart_34","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"920","IN_2016-05-03_PRI","TC2_Elkhart_34_1","Elkhart_34","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"921","IN_2016-05-03_PRI","TC2_Elkhart_34_1","Elkhart_34","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"922","IN_2016-05-03_PRI","TC2_Elkhart_34_1","Elkhart_34","Judge of the Circuit Court","TC2",1,1,NA,NA,NA,NA
+"923","IN_2018-11-06_GEN","TC2_Clay_1_1","Clay_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"924","IN_2018-11-06_GEN","TC2_Delaware_1_1","Delaware_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"925","IN_2018-11-06_GEN","TC2_Brown_1_1","Brown_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"926","IN_2018-11-06_GEN","TC2_Clark_1_1","Clark_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"927","IN_2018-11-06_GEN","TC2_Boone_1_1","Boone_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"928","IN_2018-11-06_GEN","TC2_Carroll_1_1","Carroll_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"929","IN_2018-11-06_GEN","TC2_Clinton_1_1","Clinton_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"930","IN_2018-11-06_GEN","TC2_Blackford_1_1","Blackford_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"931","IN_2018-11-06_GEN","TC2_Adams_1_1","Adams_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"932","IN_2018-11-06_GEN","TC2_Clark_1_1","Clark_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"933","IN_2018-11-06_GEN","TC2_Boone_1_1","Boone_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"934","IN_2018-11-06_GEN","TC2_Brown_1_1","Brown_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"935","IN_2018-11-06_GEN","TC2_Cass_1_1","Cass_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"936","IN_2018-11-06_GEN","TC2_Decatur_1_1","Decatur_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"937","IN_2018-11-06_GEN","TC1_Clay_1_1","Clay_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"938","IN_2018-11-06_GEN","TC1_Elkhart_1_1","Elkhart_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"939","IN_2018-11-06_GEN","TC1_Bartholomew_1_1","Bartholomew_1","Judge, Superior Court","TC1",1,0,NA,NA,NA,NA
+"940","IN_2018-11-06_GEN","TC1_DeKalb_1_1","DeKalb_1","Judge, Superior Court","TC1",1,0,NA,NA,NA,NA
+"941","IN_2018-11-06_GEN","TC1_Cass_1_1","Cass_1","Judge, Superior Court","TC1",1,0,NA,NA,NA,NA
+"942","IN_2018-11-06_GEN","TC1_Clay_1_1","Clay_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"943","IN_2018-11-06_GEN","TC1_Dearborn_1_1","Dearborn_1","Judge, Superior Court","TC1",1,0,NA,NA,NA,NA
+"944","IN_2018-11-06_GEN","TC1_Elkhart_1_1","Elkhart_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"945","IN_2018-11-06_GEN","DA_Blackford_1_1","Blackford_1","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"946","IN_2018-11-06_GEN","DA_Dubois_1_1","Dubois_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"947","IN_2018-11-06_GEN","DA_Crawford_1_1","Crawford_1","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"948","IN_2018-11-06_GEN","DA_Delaware_1_1","Delaware_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"949","IN_2018-11-06_GEN","DA_Brown_1_1","Brown_1","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"950","IN_2018-11-06_GEN","DA_Clinton_1_1","Clinton_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"951","IN_2018-11-06_GEN","DA_DeKalb_1_1","DeKalb_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"952","IN_2018-11-06_GEN","DA_Daviess_1_1","Daviess_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"953","IN_2018-11-06_GEN","DA_Clay_1_1","Clay_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"954","IN_2018-11-06_GEN","DA_Clark_1_1","Clark_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"955","IN_2018-11-06_GEN","DA_Adams_1_1","Adams_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"956","IN_2018-11-06_GEN","DA_Benton_1_1","Benton_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"957","IN_2018-11-06_GEN","DA_Allen_1_1","Allen_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"958","IN_2018-11-06_GEN","DA_Boone_1_1","Boone_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"959","IN_2018-11-06_GEN","DA_Blackford_1_1","Blackford_1","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"960","IN_2018-11-06_GEN","DA_Cass_1_1","Cass_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"961","IN_2018-11-06_GEN","DA_Dearborn_1_1","Dearborn_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"962","IN_2018-11-06_GEN","DA_Decatur_1_1","Decatur_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"963","IN_2018-11-06_GEN","DA_Carroll_1_1","Carroll_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"964","IN_2018-11-06_GEN","DA_Crawford_1_1","Crawford_1","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"965","IN_2018-11-06_GEN","DA_Brown_1_1","Brown_1","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"966","IN_2018-11-06_GEN","DA_Elkhart_1_1","Elkhart_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"967","IN_2018-11-06_GEN","DA_Bartholomew_1_1","Bartholomew_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"968","IN_2018-11-06_GEN","CK2_Brown_1_1","Brown_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"969","IN_2018-11-06_GEN","CK2_Allen_1_1","Allen_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"970","IN_2018-11-06_GEN","CK2_Decatur_1_1","Decatur_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"971","IN_2018-11-06_GEN","CK2_Dubois_1_1","Dubois_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"972","IN_2018-11-06_GEN","CK2_Crawford_1_1","Crawford_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"973","IN_2018-11-06_GEN","CK2_Delaware_1_1","Delaware_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"974","IN_2018-11-06_GEN","CK2_Clark_1_1","Clark_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"975","IN_2018-11-06_GEN","CK2_Decatur_1_1","Decatur_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"976","IN_2018-11-06_GEN","CK2_Dubois_1_1","Dubois_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"977","IN_2018-11-06_GEN","CK2_Allen_1_1","Allen_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"978","IN_2018-11-06_GEN","CK2_Elkhart_1_1","Elkhart_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"979","IN_2018-11-06_GEN","CK2_Clark_1_1","Clark_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"980","IN_2018-11-06_GEN","CK2_Adams_1_1","Adams_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"981","IN_2018-11-06_GEN","CK2_Daviess_1_1","Daviess_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"982","IN_2018-11-06_GEN","CK2_Bartholomew_1_1","Bartholomew_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"983","IN_2018-11-06_GEN","CK2_Boone_1_1","Boone_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"984","IN_2018-11-06_GEN","CK2_Brown_1_1","Brown_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"985","IN_2018-11-06_GEN","CK2_Benton_1_1","Benton_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"986","IN_2018-11-06_GEN","CK2_Clinton_1_1","Clinton_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"987","IN_2018-11-06_GEN","CK2_Delaware_1_1","Delaware_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"988","IN_2018-11-06_GEN","CK2_Crawford_1_1","Crawford_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"989","IN_2018-11-06_GEN","SF_Cass_1_1","Cass_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"990","IN_2018-11-06_GEN","SF_Decatur_1_1","Decatur_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"991","IN_2018-11-06_GEN","SF_Clark_1_1","Clark_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"992","IN_2018-11-06_GEN","SF_Adams_1_1","Adams_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"993","IN_2018-11-06_GEN","SF_Blackford_1_1","Blackford_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"994","IN_2018-11-06_GEN","SF_Allen_1_1","Allen_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"995","IN_2018-11-06_GEN","SF_Delaware_1_1","Delaware_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"996","IN_2018-11-06_GEN","SF_Crawford_1_1","Crawford_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"997","IN_2018-11-06_GEN","SF_Dubois_1_1","Dubois_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"998","IN_2018-11-06_GEN","SF_Crawford_1_1","Crawford_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"999","IN_2018-11-06_GEN","SF_Clark_1_1","Clark_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1000","IN_2018-11-06_GEN","SF_Adams_1_1","Adams_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1001","IN_2018-11-06_GEN","SF_DeKalb_1_1","DeKalb_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"1002","IN_2018-11-06_GEN","SF_Allen_1_1","Allen_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1003","IN_2018-11-06_GEN","SF_Benton_1_1","Benton_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"1004","IN_2018-11-06_GEN","SF_Cass_1_1","Cass_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1005","IN_2018-11-06_GEN","SF_Daviess_1_1","Daviess_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"1006","IN_2018-11-06_GEN","SF_Clark_1_1","Clark_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1007","IN_2018-11-06_GEN","SF_Elkhart_1_1","Elkhart_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"1008","IN_2018-11-06_GEN","SF_Crawford_1_1","Crawford_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1009","IN_2018-11-06_GEN","SF_Blackford_1_1","Blackford_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1010","IN_2018-11-06_GEN","SF_Bartholomew_1_1","Bartholomew_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"1011","IN_2018-11-06_GEN","SF_Boone_1_1","Boone_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"1012","IN_2018-11-06_GEN","SF_Clay_1_1","Clay_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"1013","IN_2018-11-06_GEN","SF_Clinton_1_1","Clinton_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"1014","IN_2018-11-06_GEN","SF_Brown_1_1","Brown_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"1015","IN_2018-11-06_GEN","SF_Dearborn_1_1","Dearborn_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"1016","IN_2018-11-06_GEN","SF_Dubois_1_1","Dubois_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1017","IN_2018-11-06_GEN","SF_Carroll_1_1","Carroll_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"1018","IN_2018-11-06_GEN","SF_Delaware_1_1","Delaware_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1019","IN_2018-11-06_GEN","SF_Decatur_1_1","Decatur_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1020","IN_2018-11-06_GEN","LC2_Boone_1_1","Boone_1","Judge, Town Court","LC2",1,0,NA,NA,NA,NA
+"1021","IN_2018-05-08_PRI","TC2_Brown_1_1","Brown_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1022","IN_2018-05-08_PRI","TC2_Clay_1_1","Clay_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"1023","IN_2018-05-08_PRI","TC2_Delaware_1_1","Delaware_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"1024","IN_2018-05-08_PRI","TC2_Brown_1_1","Brown_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1025","IN_2018-05-08_PRI","TC2_Clark_1_1","Clark_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1026","IN_2018-05-08_PRI","TC2_Carroll_1_1","Carroll_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"1027","IN_2018-05-08_PRI","TC2_Clinton_1_1","Clinton_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"1028","IN_2018-05-08_PRI","TC2_Blackford_1_1","Blackford_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1029","IN_2018-05-08_PRI","TC2_Adams_1_1","Adams_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"1030","IN_2018-05-08_PRI","TC2_Clark_1_1","Clark_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1031","IN_2018-05-08_PRI","TC2_Brown_1_1","Brown_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1032","IN_2018-05-08_PRI","TC2_Blackford_1_1","Blackford_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1033","IN_2018-05-08_PRI","TC2_Boone_1_1","Boone_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1034","IN_2018-05-08_PRI","TC2_Brown_1_1","Brown_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1035","IN_2018-05-08_PRI","TC2_Blackford_1_1","Blackford_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1036","IN_2018-05-08_PRI","TC2_Cass_1_1","Cass_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1037","IN_2018-05-08_PRI","TC2_Cass_1_1","Cass_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1038","IN_2018-05-08_PRI","TC2_Boone_1_1","Boone_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1039","IN_2018-05-08_PRI","TC2_Decatur_1_1","Decatur_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"1040","IN_2018-05-08_PRI","TC2_Boone_1_1","Boone_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1041","IN_2018-05-08_PRI","TC2_Brown_1_1","Brown_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1042","IN_2018-05-08_PRI","TC1_Clay_1_1","Clay_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1043","IN_2018-05-08_PRI","TC1_Elkhart_1_1","Elkhart_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1044","IN_2018-05-08_PRI","TC1_Bartholomew_1_1","Bartholomew_1","Judge, Superior Court","TC1",1,0,NA,NA,NA,NA
+"1045","IN_2018-05-08_PRI","TC1_DeKalb_1_1","DeKalb_1","Judge, Superior Court","TC1",1,0,NA,NA,NA,NA
+"1046","IN_2018-05-08_PRI","TC1_Cass_1_1","Cass_1","Judge, Superior Court","TC1",1,0,NA,NA,NA,NA
+"1047","IN_2018-05-08_PRI","TC1_Clay_1_1","Clay_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1048","IN_2018-05-08_PRI","TC1_Dearborn_1_1","Dearborn_1","Judge, Superior Court","TC1",1,0,NA,NA,NA,NA
+"1049","IN_2018-05-08_PRI","TC1_Elkhart_1_1","Elkhart_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1050","IN_2018-05-08_PRI","DA_Blackford_1_1","Blackford_1","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"1051","IN_2018-05-08_PRI","DA_Dubois_1_1","Dubois_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"1052","IN_2018-05-08_PRI","DA_Delaware_1_1","Delaware_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"1053","IN_2018-05-08_PRI","DA_Clinton_1_1","Clinton_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"1054","IN_2018-05-08_PRI","DA_DeKalb_1_1","DeKalb_1","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"1055","IN_2018-05-08_PRI","DA_Daviess_1_1","Daviess_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"1056","IN_2018-05-08_PRI","DA_Clay_1_1","Clay_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"1057","IN_2018-05-08_PRI","DA_Clark_1_1","Clark_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"1058","IN_2018-05-08_PRI","DA_Adams_1_1","Adams_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"1059","IN_2018-05-08_PRI","DA_Benton_1_1","Benton_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"1060","IN_2018-05-08_PRI","DA_Allen_1_1","Allen_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"1061","IN_2018-05-08_PRI","DA_Boone_1_1","Boone_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"1062","IN_2018-05-08_PRI","DA_Blackford_1_1","Blackford_1","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"1063","IN_2018-05-08_PRI","DA_Crawford_1_1","Crawford_1","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"1064","IN_2018-05-08_PRI","DA_Cass_1_1","Cass_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"1065","IN_2018-05-08_PRI","DA_Dearborn_1_1","Dearborn_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"1066","IN_2018-05-08_PRI","DA_Elkhart_1_1","Elkhart_1","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"1067","IN_2018-05-08_PRI","DA_Decatur_1_1","Decatur_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"1068","IN_2018-05-08_PRI","DA_Carroll_1_1","Carroll_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"1069","IN_2018-05-08_PRI","DA_Crawford_1_1","Crawford_1","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"1070","IN_2018-05-08_PRI","DA_DeKalb_1_1","DeKalb_1","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"1071","IN_2018-05-08_PRI","DA_Brown_1_1","Brown_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"1072","IN_2018-05-08_PRI","DA_Elkhart_1_1","Elkhart_1","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"1073","IN_2018-05-08_PRI","DA_Bartholomew_1_1","Bartholomew_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"1074","IN_2018-05-08_PRI","CK2_Brown_1_1","Brown_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"1075","IN_2018-05-08_PRI","CK2_Allen_1_1","Allen_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"1076","IN_2018-05-08_PRI","CK2_Allen_1_1","Allen_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"1077","IN_2018-05-08_PRI","CK2_Allen_1_1","Allen_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"1078","IN_2018-05-08_PRI","CK2_Allen_1_1","Allen_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"1079","IN_2018-05-08_PRI","CK2_Decatur_1_1","Decatur_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"1080","IN_2018-05-08_PRI","CK2_Dubois_1_1","Dubois_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"1081","IN_2018-05-08_PRI","CK2_Crawford_1_1","Crawford_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"1082","IN_2018-05-08_PRI","CK2_Delaware_1_1","Delaware_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"1083","IN_2018-05-08_PRI","CK2_Clark_1_1","Clark_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"1084","IN_2018-05-08_PRI","CK2_Decatur_1_1","Decatur_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"1085","IN_2018-05-08_PRI","CK2_Dubois_1_1","Dubois_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"1086","IN_2018-05-08_PRI","CK2_Allen_1_1","Allen_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"1087","IN_2018-05-08_PRI","CK2_Elkhart_1_1","Elkhart_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"1088","IN_2018-05-08_PRI","CK2_Clark_1_1","Clark_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"1089","IN_2018-05-08_PRI","CK2_Brown_1_1","Brown_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"1090","IN_2018-05-08_PRI","CK2_Adams_1_1","Adams_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"1091","IN_2018-05-08_PRI","CK2_Daviess_1_1","Daviess_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"1092","IN_2018-05-08_PRI","CK2_Bartholomew_1_1","Bartholomew_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"1093","IN_2018-05-08_PRI","CK2_Boone_1_1","Boone_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"1094","IN_2018-05-08_PRI","CK2_Brown_1_1","Brown_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"1095","IN_2018-05-08_PRI","CK2_Benton_1_1","Benton_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"1096","IN_2018-05-08_PRI","CK2_Clinton_1_1","Clinton_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"1097","IN_2018-05-08_PRI","CK2_Delaware_1_1","Delaware_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"1098","IN_2018-05-08_PRI","CK2_Adams_1_1","Adams_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"1099","IN_2018-05-08_PRI","CK2_Crawford_1_1","Crawford_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"1100","IN_2018-05-08_PRI","SF_Delaware_1_1","Delaware_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1101","IN_2018-05-08_PRI","SF_Cass_1_1","Cass_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1102","IN_2018-05-08_PRI","SF_Decatur_1_1","Decatur_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1103","IN_2018-05-08_PRI","SF_Clark_1_1","Clark_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1104","IN_2018-05-08_PRI","SF_Blackford_1_1","Blackford_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1105","IN_2018-05-08_PRI","SF_Allen_1_1","Allen_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1106","IN_2018-05-08_PRI","SF_Delaware_1_1","Delaware_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1107","IN_2018-05-08_PRI","SF_Crawford_1_1","Crawford_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1108","IN_2018-05-08_PRI","SF_Dubois_1_1","Dubois_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1109","IN_2018-05-08_PRI","SF_Crawford_1_1","Crawford_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1110","IN_2018-05-08_PRI","SF_Dearborn_1_1","Dearborn_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1111","IN_2018-05-08_PRI","SF_Crawford_1_1","Crawford_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1112","IN_2018-05-08_PRI","SF_Adams_1_1","Adams_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1113","IN_2018-05-08_PRI","SF_DeKalb_1_1","DeKalb_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1114","IN_2018-05-08_PRI","SF_Allen_1_1","Allen_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1115","IN_2018-05-08_PRI","SF_Benton_1_1","Benton_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"1116","IN_2018-05-08_PRI","SF_Cass_1_1","Cass_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1117","IN_2018-05-08_PRI","SF_Elkhart_1_1","Elkhart_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1118","IN_2018-05-08_PRI","SF_Cass_1_1","Cass_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1119","IN_2018-05-08_PRI","SF_Daviess_1_1","Daviess_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1120","IN_2018-05-08_PRI","SF_DeKalb_1_1","DeKalb_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1121","IN_2018-05-08_PRI","SF_Decatur_1_1","Decatur_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1122","IN_2018-05-08_PRI","SF_Clark_1_1","Clark_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1123","IN_2018-05-08_PRI","SF_Elkhart_1_1","Elkhart_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1124","IN_2018-05-08_PRI","SF_Crawford_1_1","Crawford_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1125","IN_2018-05-08_PRI","SF_Blackford_1_1","Blackford_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1126","IN_2018-05-08_PRI","SF_Crawford_1_1","Crawford_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1127","IN_2018-05-08_PRI","SF_Clinton_1_1","Clinton_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1128","IN_2018-05-08_PRI","SF_Crawford_1_1","Crawford_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1129","IN_2018-05-08_PRI","SF_Decatur_1_1","Decatur_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1130","IN_2018-05-08_PRI","SF_Blackford_1_1","Blackford_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1131","IN_2018-05-08_PRI","SF_Elkhart_1_1","Elkhart_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1132","IN_2018-05-08_PRI","SF_Clinton_1_1","Clinton_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1133","IN_2018-05-08_PRI","SF_Crawford_1_1","Crawford_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1134","IN_2018-05-08_PRI","SF_Bartholomew_1_1","Bartholomew_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1135","IN_2018-05-08_PRI","SF_Clinton_1_1","Clinton_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1136","IN_2018-05-08_PRI","SF_Clay_1_1","Clay_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1137","IN_2018-05-08_PRI","SF_Boone_1_1","Boone_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1138","IN_2018-05-08_PRI","SF_Boone_1_1","Boone_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1139","IN_2018-05-08_PRI","SF_Clay_1_1","Clay_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1140","IN_2018-05-08_PRI","SF_Clinton_1_1","Clinton_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1141","IN_2018-05-08_PRI","SF_Decatur_1_1","Decatur_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1142","IN_2018-05-08_PRI","SF_Bartholomew_1_1","Bartholomew_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1143","IN_2018-05-08_PRI","SF_Brown_1_1","Brown_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"1144","IN_2018-05-08_PRI","SF_Dearborn_1_1","Dearborn_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1145","IN_2018-05-08_PRI","SF_Decatur_1_1","Decatur_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1146","IN_2018-05-08_PRI","SF_Bartholomew_1_1","Bartholomew_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1147","IN_2018-05-08_PRI","SF_Dubois_1_1","Dubois_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1148","IN_2018-05-08_PRI","SF_Crawford_1_1","Crawford_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1149","IN_2018-05-08_PRI","SF_Carroll_1_1","Carroll_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"1150","IN_2018-05-08_PRI","SF_Blackford_1_1","Blackford_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1151","IN_2018-05-08_PRI","SF_Delaware_1_1","Delaware_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1152","IN_2018-05-08_PRI","SF_Daviess_1_1","Daviess_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1153","IN_2018-05-08_PRI","SF_Adams_1_1","Adams_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1154","IN_2018-05-08_PRI","SF_Decatur_1_1","Decatur_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"1155","IN_2020-11-03_GEN","AG_Benton_1_1","Benton_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1156","IN_2020-11-03_GEN","AG_Brown_1_1","Brown_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1157","IN_2020-11-03_GEN","AG_Crawford_1_1","Crawford_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1158","IN_2020-11-03_GEN","AG_Dubois_1_1","Dubois_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1159","IN_2020-11-03_GEN","AG_Adams_1_1","Adams_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1160","IN_2020-11-03_GEN","AG_Clay_1_1","Clay_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1161","IN_2020-11-03_GEN","AG_Clinton_1_1","Clinton_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1162","IN_2020-11-03_GEN","AG_DeKalb_1_1","DeKalb_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1163","IN_2020-11-03_GEN","AG_Blackford_1_1","Blackford_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1164","IN_2020-11-03_GEN","AG_Clark_1_1","Clark_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1165","IN_2020-11-03_GEN","AG_Decatur_1_1","Decatur_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1166","IN_2020-11-03_GEN","AG_Delaware_1_1","Delaware_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1167","IN_2020-11-03_GEN","AG_Elkhart_1_1","Elkhart_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1168","IN_2020-11-03_GEN","AG_Allen_1_1","Allen_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1169","IN_2020-11-03_GEN","AG_Bartholomew_1_1","Bartholomew_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1170","IN_2020-11-03_GEN","AG_Boone_1_1","Boone_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1171","IN_2020-11-03_GEN","AG_Carroll_1_1","Carroll_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1172","IN_2020-11-03_GEN","AG_Cass_1_1","Cass_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1173","IN_2020-11-03_GEN","AG_Daviess_1_1","Daviess_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1174","IN_2020-11-03_GEN","AG_Dearborn_1_1","Dearborn_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1175","IN_2020-11-03_GEN","AG_Benton_1_1","Benton_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1176","IN_2020-11-03_GEN","AG_Clay_1_1","Clay_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1177","IN_2020-11-03_GEN","AG_Crawford_1_1","Crawford_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1178","IN_2020-11-03_GEN","AG_Blackford_1_1","Blackford_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1179","IN_2020-11-03_GEN","AG_Boone_1_1","Boone_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1180","IN_2020-11-03_GEN","AG_Brown_1_1","Brown_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1181","IN_2020-11-03_GEN","AG_Dearborn_1_1","Dearborn_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1182","IN_2020-11-03_GEN","AG_Decatur_1_1","Decatur_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1183","IN_2020-11-03_GEN","AG_Delaware_1_1","Delaware_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1184","IN_2020-11-03_GEN","AG_Elkhart_1_1","Elkhart_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1185","IN_2020-11-03_GEN","AG_Adams_1_1","Adams_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1186","IN_2020-11-03_GEN","AG_Clark_1_1","Clark_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1187","IN_2020-11-03_GEN","AG_Clinton_1_1","Clinton_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1188","IN_2020-11-03_GEN","AG_DeKalb_1_1","DeKalb_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1189","IN_2020-11-03_GEN","AG_Dubois_1_1","Dubois_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1190","IN_2020-11-03_GEN","AG_Allen_1_1","Allen_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1191","IN_2020-11-03_GEN","AG_Bartholomew_1_1","Bartholomew_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1192","IN_2020-11-03_GEN","AG_Carroll_1_1","Carroll_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1193","IN_2020-11-03_GEN","AG_Cass_1_1","Cass_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1194","IN_2020-11-03_GEN","AG_Daviess_1_1","Daviess_1","Attorney General","AG",1,1,NA,NA,NA,NA
+"1195","IN_2020-11-03_GEN","TC2_Clark_1_1","Clark_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1196","IN_2020-11-03_GEN","TC2_Clark_1_1","Clark_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1197","IN_2020-11-03_GEN","TC2_Delaware_1_1","Delaware_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1198","IN_2020-11-03_GEN","TC2_Dubois_1_1","Dubois_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1199","IN_2020-11-03_GEN","TC2_Delaware_1_1","Delaware_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1200","IN_2020-11-03_GEN","TC2_Clark_1_1","Clark_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1201","IN_2020-11-03_GEN","TC2_Clark_1_1","Clark_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1202","IN_2020-11-03_GEN","TC2_Daviess_1_1","Daviess_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"1203","IN_2020-11-03_GEN","TC2_Benton_1_1","Benton_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"1204","IN_2020-11-03_GEN","TC2_Delaware_1_1","Delaware_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1205","IN_2020-11-03_GEN","TC2_Dubois_1_1","Dubois_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1206","IN_2020-11-03_GEN","TC2_Clark_1_1","Clark_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1207","IN_2020-11-03_GEN","TC2_Allen_1_1","Allen_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"1208","IN_2020-11-03_GEN","TC1_Adams_1_1","Adams_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1209","IN_2020-11-03_GEN","TC1_Allen_1_1","Allen_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1210","IN_2020-11-03_GEN","TC1_Allen_1_1","Allen_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1211","IN_2020-11-03_GEN","TC1_Allen_1_1","Allen_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1212","IN_2020-11-03_GEN","TC1_Allen_1_1","Allen_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1213","IN_2020-11-03_GEN","TC1_Allen_1_1","Allen_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1214","IN_2020-11-03_GEN","TC1_DeKalb_1_1","DeKalb_1","Judge, Superior Court","TC1",1,0,NA,NA,NA,NA
+"1215","IN_2020-11-03_GEN","TC1_Boone_1_1","Boone_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1216","IN_2020-11-03_GEN","TC1_Elkhart_1_1","Elkhart_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1217","IN_2020-11-03_GEN","TC1_Daviess_1_1","Daviess_1","Judge, Superior Court","TC1",1,0,NA,NA,NA,NA
+"1218","IN_2020-11-03_GEN","TC1_Elkhart_1_1","Elkhart_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1219","IN_2020-11-03_GEN","TC1_Bartholomew_1_1","Bartholomew_1","Judge, Superior Court","TC1",1,0,NA,NA,NA,NA
+"1220","IN_2020-11-03_GEN","TC1_Dearborn_1_1","Dearborn_1","Judge, Superior Court","TC1",1,0,NA,NA,NA,NA
+"1221","IN_2020-11-03_GEN","TC1_Clinton_1_1","Clinton_1","Judge, Superior Court","TC1",1,0,NA,NA,NA,NA
+"1222","IN_2020-11-03_GEN","TC1_Elkhart_1_1","Elkhart_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1223","IN_2020-11-03_GEN","TC1_Boone_1_1","Boone_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1224","IN_2020-11-03_GEN","TC1_Decatur_1_1","Decatur_1","Judge, Superior Court","TC1",1,0,NA,NA,NA,NA
+"1225","IN_2020-11-03_GEN","TC1_Adams_1_1","Adams_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1226","IN_2020-11-03_GEN","TC1_Elkhart_1_1","Elkhart_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1227","IN_2020-11-03_GEN","TC1_Carroll_1_1","Carroll_1","Judge, Superior Court","TC1",1,0,NA,NA,NA,NA
+"1228","IN_2020-11-03_GEN","CK2_Clay_1_1","Clay_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"1229","IN_2020-11-03_GEN","CK2_Cass_1_1","Cass_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"1230","IN_2020-11-03_GEN","CK2_Dearborn_1_1","Dearborn_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"1231","IN_2020-11-03_GEN","CK2_DeKalb_1_1","DeKalb_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"1232","IN_2020-11-03_GEN","CK2_Blackford_1_1","Blackford_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"1233","IN_2020-11-03_GEN","CK2_Carroll_1_1","Carroll_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"1234","IN_2020-06-02_PRI","TC2_Clark_1_1","Clark_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1235","IN_2020-06-02_PRI","TC2_Clark_1_1","Clark_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1236","IN_2020-06-02_PRI","TC2_Delaware_1_1","Delaware_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1237","IN_2020-06-02_PRI","TC2_Dubois_1_1","Dubois_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"1238","IN_2020-06-02_PRI","TC2_Delaware_1_1","Delaware_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1239","IN_2020-06-02_PRI","TC2_Clark_1_1","Clark_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1240","IN_2020-06-02_PRI","TC2_Clark_1_1","Clark_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1241","IN_2020-06-02_PRI","TC2_Daviess_1_1","Daviess_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"1242","IN_2020-06-02_PRI","TC2_Benton_1_1","Benton_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"1243","IN_2020-06-02_PRI","TC2_Delaware_1_1","Delaware_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1244","IN_2020-06-02_PRI","TC2_Clark_1_1","Clark_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1245","IN_2020-06-02_PRI","TC2_Clark_1_1","Clark_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"1246","IN_2020-06-02_PRI","TC2_Allen_1_1","Allen_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"1247","IN_2020-06-02_PRI","TC1_DeKalb_1_1","DeKalb_1","Judge, Superior Court","TC1",1,0,NA,NA,NA,NA
+"1248","IN_2020-06-02_PRI","TC1_Boone_1_1","Boone_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1249","IN_2020-06-02_PRI","TC1_Elkhart_1_1","Elkhart_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1250","IN_2020-06-02_PRI","TC1_Elkhart_1_1","Elkhart_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1251","IN_2020-06-02_PRI","TC1_Daviess_1_1","Daviess_1","Judge, Superior Court","TC1",1,0,NA,NA,NA,NA
+"1252","IN_2020-06-02_PRI","TC1_Bartholomew_1_1","Bartholomew_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1253","IN_2020-06-02_PRI","TC1_Elkhart_1_1","Elkhart_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1254","IN_2020-06-02_PRI","TC1_Elkhart_1_1","Elkhart_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1255","IN_2020-06-02_PRI","TC1_Bartholomew_1_1","Bartholomew_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1256","IN_2020-06-02_PRI","TC1_Dearborn_1_1","Dearborn_1","Judge, Superior Court","TC1",1,0,NA,NA,NA,NA
+"1257","IN_2020-06-02_PRI","TC1_Bartholomew_1_1","Bartholomew_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1258","IN_2020-06-02_PRI","TC1_Clinton_1_1","Clinton_1","Judge, Superior Court","TC1",1,0,NA,NA,NA,NA
+"1259","IN_2020-06-02_PRI","TC1_Elkhart_1_1","Elkhart_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1260","IN_2020-06-02_PRI","TC1_Elkhart_1_1","Elkhart_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1261","IN_2020-06-02_PRI","TC1_Boone_1_1","Boone_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1262","IN_2020-06-02_PRI","TC1_Decatur_1_1","Decatur_1","Judge, Superior Court","TC1",1,0,NA,NA,NA,NA
+"1263","IN_2020-06-02_PRI","TC1_Adams_1_1","Adams_1","Judge, Superior Court","TC1",1,0,NA,NA,NA,NA
+"1264","IN_2020-06-02_PRI","TC1_Bartholomew_1_1","Bartholomew_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1265","IN_2020-06-02_PRI","TC1_Elkhart_1_1","Elkhart_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"1266","IN_2020-06-02_PRI","CK2_Clay_1_1","Clay_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"1267","IN_2020-06-02_PRI","CK2_Carroll_1_1","Carroll_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"1268","IN_2020-06-02_PRI","CK2_Cass_1_1","Cass_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"1269","IN_2020-06-02_PRI","CK2_Cass_1_1","Cass_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"1270","IN_2020-06-02_PRI","CK2_Dearborn_1_1","Dearborn_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"1271","IN_2020-06-02_PRI","CK2_DeKalb_1_1","DeKalb_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"1272","IN_2020-06-02_PRI","CK2_Blackford_1_1","Blackford_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"1273","IN_2020-06-02_PRI","CK2_Carroll_1_1","Carroll_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA

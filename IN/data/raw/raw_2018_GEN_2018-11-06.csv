@@ -1,0 +1,2230 @@
+County,Office,Candidate,Party,District,Votes
+Bartholomew,US Senator,Joe Donnelly,Democratic,"1,2,3,4,5,6,7,8,9",10071
+Benton,US Senator,Joe Donnelly,Democratic,"1,2,3,4,5,6,7,8,9",847
+Blackford,US Senator,Joe Donnelly,Democratic,"1,2,3,4,5,6,7,8,9",1275
+Brown,US Senator,Joe Donnelly,Democratic,"1,2,3,4,5,6,7,8,9",2768
+Cass,US Senator,Joe Donnelly,Democratic,"1,2,3,4,5,6,7,8,9",4061
+Allen,US Senator,Joe Donnelly,Democratic,"1,2,3,4,5,6,7,8,9",55903
+Boone,US Senator,Joe Donnelly,Democratic,"1,2,3,4,5,6,7,8,9",10981
+Dearborn,US Senator,Joe Donnelly,Democratic,"1,2,3,4,5,6,7,8,9",4481
+DeKalb,US Senator,Joe Donnelly,Democratic,"1,2,3,4,5,6,7,8,9",4204
+Elkhart,US Senator,Joe Donnelly,Democratic,"1,2,3,4,5,6,7,8,9",21062
+Clark,US Senator,Joe Donnelly,Democratic,"1,2,3,4,5,6,7,8,9",18551
+Clay,US Senator,Joe Donnelly,Democratic,"1,2,3,4,5,6,7,8,9",2601
+Decatur,US Senator,Joe Donnelly,Democratic,"1,2,3,4,5,6,7,8,9",2287
+Delaware,US Senator,Joe Donnelly,Democratic,"1,2,3,4,5,6,7,8,9",18159
+Adams,US Senator,Joe Donnelly,Democratic,"1,2,3,4,5,6,7,8,9",3146
+Carroll,US Senator,Joe Donnelly,Democratic,"1,2,3,4,5,6,7,8,9",2071
+Clinton,US Senator,Joe Donnelly,Democratic,"1,2,3,4,5,6,7,8,9",2755
+Crawford,US Senator,Joe Donnelly,Democratic,"1,2,3,4,5,6,7,8,9",1504
+Daviess,US Senator,Joe Donnelly,Democratic,"1,2,3,4,5,6,7,8,9",1901
+Dubois,US Senator,Joe Donnelly,Democratic,"1,2,3,4,5,6,7,8,9",5264
+Carroll,US Senator,Christopher Fischer,Independent,"1,2,3,4,5,6,7,8,9",0
+Cass,US Senator,Christopher Fischer,Independent,"1,2,3,4,5,6,7,8,9",0
+Daviess,US Senator,Christopher Fischer,Independent,"1,2,3,4,5,6,7,8,9",0
+Decatur,US Senator,Christopher Fischer,Independent,"1,2,3,4,5,6,7,8,9",0
+Delaware,US Senator,Christopher Fischer,Independent,"1,2,3,4,5,6,7,8,9",0
+Dubois,US Senator,Christopher Fischer,Independent,"1,2,3,4,5,6,7,8,9",0
+Adams,US Senator,Christopher Fischer,Independent,"1,2,3,4,5,6,7,8,9",0
+Boone,US Senator,Christopher Fischer,Independent,"1,2,3,4,5,6,7,8,9",0
+Clay,US Senator,Christopher Fischer,Independent,"1,2,3,4,5,6,7,8,9",0
+Clinton,US Senator,Christopher Fischer,Independent,"1,2,3,4,5,6,7,8,9",0
+Dearborn,US Senator,Christopher Fischer,Independent,"1,2,3,4,5,6,7,8,9",0
+DeKalb,US Senator,Christopher Fischer,Independent,"1,2,3,4,5,6,7,8,9",0
+Elkhart,US Senator,Christopher Fischer,Independent,"1,2,3,4,5,6,7,8,9",0
+Allen,US Senator,Christopher Fischer,Independent,"1,2,3,4,5,6,7,8,9",1
+Crawford,US Senator,Christopher Fischer,Independent,"1,2,3,4,5,6,7,8,9",0
+Brown,US Senator,Christopher Fischer,Independent,"1,2,3,4,5,6,7,8,9",0
+Bartholomew,US Senator,Christopher Fischer,Independent,"1,2,3,4,5,6,7,8,9",0
+Benton,US Senator,Christopher Fischer,Independent,"1,2,3,4,5,6,7,8,9",0
+Blackford,US Senator,Christopher Fischer,Independent,"1,2,3,4,5,6,7,8,9",0
+Clark,US Senator,Christopher Fischer,Independent,"1,2,3,4,5,6,7,8,9",0
+Adams,US Senator,Nathan Altman,Independent,"1,2,3,4,5,6,7,8,9",0
+Boone,US Senator,Nathan Altman,Independent,"1,2,3,4,5,6,7,8,9",0
+Clay,US Senator,Nathan Altman,Independent,"1,2,3,4,5,6,7,8,9",0
+Clinton,US Senator,Nathan Altman,Independent,"1,2,3,4,5,6,7,8,9",0
+Dearborn,US Senator,Nathan Altman,Independent,"1,2,3,4,5,6,7,8,9",1
+DeKalb,US Senator,Nathan Altman,Independent,"1,2,3,4,5,6,7,8,9",0
+Elkhart,US Senator,Nathan Altman,Independent,"1,2,3,4,5,6,7,8,9",0
+Bartholomew,US Senator,Nathan Altman,Independent,"1,2,3,4,5,6,7,8,9",4
+Brown,US Senator,Nathan Altman,Independent,"1,2,3,4,5,6,7,8,9",0
+Carroll,US Senator,Nathan Altman,Independent,"1,2,3,4,5,6,7,8,9",0
+Cass,US Senator,Nathan Altman,Independent,"1,2,3,4,5,6,7,8,9",0
+Daviess,US Senator,Nathan Altman,Independent,"1,2,3,4,5,6,7,8,9",0
+Decatur,US Senator,Nathan Altman,Independent,"1,2,3,4,5,6,7,8,9",0
+Delaware,US Senator,Nathan Altman,Independent,"1,2,3,4,5,6,7,8,9",4
+Dubois,US Senator,Nathan Altman,Independent,"1,2,3,4,5,6,7,8,9",0
+Allen,US Senator,Nathan Altman,Independent,"1,2,3,4,5,6,7,8,9",5
+Crawford,US Senator,Nathan Altman,Independent,"1,2,3,4,5,6,7,8,9",0
+Benton,US Senator,Nathan Altman,Independent,"1,2,3,4,5,6,7,8,9",0
+Blackford,US Senator,Nathan Altman,Independent,"1,2,3,4,5,6,7,8,9",0
+Clark,US Senator,Nathan Altman,Independent,"1,2,3,4,5,6,7,8,9",0
+Benton,US Senator,Lucy M. Brenton,Libertarian,"1,2,3,4,5,6,7,8,9",191
+Brown,US Senator,Lucy M. Brenton,Libertarian,"1,2,3,4,5,6,7,8,9",318
+Clark,US Senator,Lucy M. Brenton,Libertarian,"1,2,3,4,5,6,7,8,9",1967
+Dubois,US Senator,Lucy M. Brenton,Libertarian,"1,2,3,4,5,6,7,8,9",658
+Allen,US Senator,Lucy M. Brenton,Libertarian,"1,2,3,4,5,6,7,8,9",4080
+Cass,US Senator,Lucy M. Brenton,Libertarian,"1,2,3,4,5,6,7,8,9",772
+Dearborn,US Senator,Lucy M. Brenton,Libertarian,"1,2,3,4,5,6,7,8,9",487
+Elkhart,US Senator,Lucy M. Brenton,Libertarian,"1,2,3,4,5,6,7,8,9",1661
+Adams,US Senator,Lucy M. Brenton,Libertarian,"1,2,3,4,5,6,7,8,9",489
+Carroll,US Senator,Lucy M. Brenton,Libertarian,"1,2,3,4,5,6,7,8,9",325
+Clay,US Senator,Lucy M. Brenton,Libertarian,"1,2,3,4,5,6,7,8,9",469
+Clinton,US Senator,Lucy M. Brenton,Libertarian,"1,2,3,4,5,6,7,8,9",485
+Crawford,US Senator,Lucy M. Brenton,Libertarian,"1,2,3,4,5,6,7,8,9",207
+Daviess,US Senator,Lucy M. Brenton,Libertarian,"1,2,3,4,5,6,7,8,9",283
+DeKalb,US Senator,Lucy M. Brenton,Libertarian,"1,2,3,4,5,6,7,8,9",561
+Bartholomew,US Senator,Lucy M. Brenton,Libertarian,"1,2,3,4,5,6,7,8,9",1223
+Blackford,US Senator,Lucy M. Brenton,Libertarian,"1,2,3,4,5,6,7,8,9",300
+Boone,US Senator,Lucy M. Brenton,Libertarian,"1,2,3,4,5,6,7,8,9",1019
+Decatur,US Senator,Lucy M. Brenton,Libertarian,"1,2,3,4,5,6,7,8,9",473
+Delaware,US Senator,Lucy M. Brenton,Libertarian,"1,2,3,4,5,6,7,8,9",2099
+Adams,US Senator,James L. Johnson Jr.,Other,"1,2,3,4,5,6,7,8,9",0
+Clark,US Senator,James L. Johnson Jr.,Other,"1,2,3,4,5,6,7,8,9",0
+Delaware,US Senator,James L. Johnson Jr.,Other,"1,2,3,4,5,6,7,8,9",1
+Blackford,US Senator,James L. Johnson Jr.,Other,"1,2,3,4,5,6,7,8,9",0
+Boone,US Senator,James L. Johnson Jr.,Other,"1,2,3,4,5,6,7,8,9",0
+Clinton,US Senator,James L. Johnson Jr.,Other,"1,2,3,4,5,6,7,8,9",0
+Dearborn,US Senator,James L. Johnson Jr.,Other,"1,2,3,4,5,6,7,8,9",0
+Elkhart,US Senator,James L. Johnson Jr.,Other,"1,2,3,4,5,6,7,8,9",0
+Allen,US Senator,James L. Johnson Jr.,Other,"1,2,3,4,5,6,7,8,9",1
+Carroll,US Senator,James L. Johnson Jr.,Other,"1,2,3,4,5,6,7,8,9",0
+Clay,US Senator,James L. Johnson Jr.,Other,"1,2,3,4,5,6,7,8,9",0
+Crawford,US Senator,James L. Johnson Jr.,Other,"1,2,3,4,5,6,7,8,9",0
+Daviess,US Senator,James L. Johnson Jr.,Other,"1,2,3,4,5,6,7,8,9",0
+DeKalb,US Senator,James L. Johnson Jr.,Other,"1,2,3,4,5,6,7,8,9",0
+Dubois,US Senator,James L. Johnson Jr.,Other,"1,2,3,4,5,6,7,8,9",0
+Bartholomew,US Senator,James L. Johnson Jr.,Other,"1,2,3,4,5,6,7,8,9",0
+Benton,US Senator,James L. Johnson Jr.,Other,"1,2,3,4,5,6,7,8,9",0
+Brown,US Senator,James L. Johnson Jr.,Other,"1,2,3,4,5,6,7,8,9",0
+Cass,US Senator,James L. Johnson Jr.,Other,"1,2,3,4,5,6,7,8,9",0
+Decatur,US Senator,James L. Johnson Jr.,Other,"1,2,3,4,5,6,7,8,9",0
+Brown,US Senator,Mike Braun,Republican,"1,2,3,4,5,6,7,8,9",4103
+Delaware,US Senator,Mike Braun,Republican,"1,2,3,4,5,6,7,8,9",17447
+Dubois,US Senator,Mike Braun,Republican,"1,2,3,4,5,6,7,8,9",11204
+Allen,US Senator,Mike Braun,Republican,"1,2,3,4,5,6,7,8,9",65927
+Dearborn,US Senator,Mike Braun,Republican,"1,2,3,4,5,6,7,8,9",13287
+Elkhart,US Senator,Mike Braun,Republican,"1,2,3,4,5,6,7,8,9",31164
+Bartholomew,US Senator,Mike Braun,Republican,"1,2,3,4,5,6,7,8,9",15222
+Benton,US Senator,Mike Braun,Republican,"1,2,3,4,5,6,7,8,9",1926
+Blackford,US Senator,Mike Braun,Republican,"1,2,3,4,5,6,7,8,9",2303
+Cass,US Senator,Mike Braun,Republican,"1,2,3,4,5,6,7,8,9",6617
+Clark,US Senator,Mike Braun,Republican,"1,2,3,4,5,6,7,8,9",22766
+Decatur,US Senator,Mike Braun,Republican,"1,2,3,4,5,6,7,8,9",6246
+Carroll,US Senator,Mike Braun,Republican,"1,2,3,4,5,6,7,8,9",4518
+Clay,US Senator,Mike Braun,Republican,"1,2,3,4,5,6,7,8,9",6207
+Clinton,US Senator,Mike Braun,Republican,"1,2,3,4,5,6,7,8,9",5967
+Crawford,US Senator,Mike Braun,Republican,"1,2,3,4,5,6,7,8,9",2252
+Daviess,US Senator,Mike Braun,Republican,"1,2,3,4,5,6,7,8,9",6555
+DeKalb,US Senator,Mike Braun,Republican,"1,2,3,4,5,6,7,8,9",9167
+Adams,US Senator,Mike Braun,Republican,"1,2,3,4,5,6,7,8,9",7511
+Boone,US Senator,Mike Braun,Republican,"1,2,3,4,5,6,7,8,9",15540
+Benton,Secretary of State,Jim Harper,Democratic,Indiana,698
+Brown,Secretary of State,Jim Harper,Democratic,Indiana,2466
+Clark,Secretary of State,Jim Harper,Democratic,Indiana,17408
+Crawford,Secretary of State,Jim Harper,Democratic,Indiana,1446
+Dubois,Secretary of State,Jim Harper,Democratic,Indiana,5139
+Allen,Secretary of State,Jim Harper,Democratic,Indiana,50206
+Bartholomew,Secretary of State,Jim Harper,Democratic,Indiana,8488
+Cass,Secretary of State,Jim Harper,Democratic,Indiana,3308
+Dearborn,Secretary of State,Jim Harper,Democratic,Indiana,4142
+Adams,Secretary of State,Jim Harper,Democratic,Indiana,2572
+Carroll,Secretary of State,Jim Harper,Democratic,Indiana,1689
+Clay,Secretary of State,Jim Harper,Democratic,Indiana,2284
+Clinton,Secretary of State,Jim Harper,Democratic,Indiana,2227
+Daviess,Secretary of State,Jim Harper,Democratic,Indiana,1623
+DeKalb,Secretary of State,Jim Harper,Democratic,Indiana,3482
+Blackford,Secretary of State,Jim Harper,Democratic,Indiana,1086
+Boone,Secretary of State,Jim Harper,Democratic,Indiana,8813
+Decatur,Secretary of State,Jim Harper,Democratic,Indiana,1740
+Delaware,Secretary of State,Jim Harper,Democratic,Indiana,15773
+Elkhart,Secretary of State,Jim Harper,Democratic,Indiana,17414
+Benton,Secretary of State,George William Wolfe,Green,Indiana,0
+Blackford,Secretary of State,George William Wolfe,Green,Indiana,0
+Clark,Secretary of State,George William Wolfe,Green,Indiana,0
+Bartholomew,Secretary of State,George William Wolfe,Green,Indiana,0
+Brown,Secretary of State,George William Wolfe,Green,Indiana,1
+Carroll,Secretary of State,George William Wolfe,Green,Indiana,0
+Cass,Secretary of State,George William Wolfe,Green,Indiana,0
+Daviess,Secretary of State,George William Wolfe,Green,Indiana,1
+Decatur,Secretary of State,George William Wolfe,Green,Indiana,0
+DeKalb,Secretary of State,George William Wolfe,Green,Indiana,3
+Delaware,Secretary of State,George William Wolfe,Green,Indiana,154
+Dubois,Secretary of State,George William Wolfe,Green,Indiana,2
+Allen,Secretary of State,George William Wolfe,Green,Indiana,46
+Clay,Secretary of State,George William Wolfe,Green,Indiana,0
+Clinton,Secretary of State,George William Wolfe,Green,Indiana,0
+Crawford,Secretary of State,George William Wolfe,Green,Indiana,0
+Adams,Secretary of State,George William Wolfe,Green,Indiana,2
+Boone,Secretary of State,George William Wolfe,Green,Indiana,7
+Dearborn,Secretary of State,George William Wolfe,Green,Indiana,1
+Elkhart,Secretary of State,George William Wolfe,Green,Indiana,13
+Allen,Secretary of State,Mark W. Rutherford,Libertarian,Indiana,3353
+Bartholomew,Secretary of State,Mark W. Rutherford,Libertarian,Indiana,847
+Blackford,Secretary of State,Mark W. Rutherford,Libertarian,Indiana,138
+Boone,Secretary of State,Mark W. Rutherford,Libertarian,Indiana,935
+Dearborn,Secretary of State,Mark W. Rutherford,Libertarian,Indiana,597
+DeKalb,Secretary of State,Mark W. Rutherford,Libertarian,Indiana,453
+Elkhart,Secretary of State,Mark W. Rutherford,Libertarian,Indiana,1406
+Carroll,Secretary of State,Mark W. Rutherford,Libertarian,Indiana,229
+Clinton,Secretary of State,Mark W. Rutherford,Libertarian,Indiana,275
+Crawford,Secretary of State,Mark W. Rutherford,Libertarian,Indiana,135
+Daviess,Secretary of State,Mark W. Rutherford,Libertarian,Indiana,253
+Dubois,Secretary of State,Mark W. Rutherford,Libertarian,Indiana,535
+Brown,Secretary of State,Mark W. Rutherford,Libertarian,Indiana,235
+Cass,Secretary of State,Mark W. Rutherford,Libertarian,Indiana,360
+Adams,Secretary of State,Mark W. Rutherford,Libertarian,Indiana,307
+Benton,Secretary of State,Mark W. Rutherford,Libertarian,Indiana,119
+Clark,Secretary of State,Mark W. Rutherford,Libertarian,Indiana,1491
+Clay,Secretary of State,Mark W. Rutherford,Libertarian,Indiana,313
+Decatur,Secretary of State,Mark W. Rutherford,Libertarian,Indiana,282
+Delaware,Secretary of State,Mark W. Rutherford,Libertarian,Indiana,1408
+Blackford,Secretary of State,Jeremy Heath,Pirate Party,Indiana,0
+Cass,Secretary of State,Jeremy Heath,Pirate Party,Indiana,0
+Clark,Secretary of State,Jeremy Heath,Pirate Party,Indiana,0
+Delaware,Secretary of State,Jeremy Heath,Pirate Party,Indiana,3
+Adams,Secretary of State,Jeremy Heath,Pirate Party,Indiana,0
+Clay,Secretary of State,Jeremy Heath,Pirate Party,Indiana,0
+Clinton,Secretary of State,Jeremy Heath,Pirate Party,Indiana,0
+Dearborn,Secretary of State,Jeremy Heath,Pirate Party,Indiana,3
+DeKalb,Secretary of State,Jeremy Heath,Pirate Party,Indiana,1
+Elkhart,Secretary of State,Jeremy Heath,Pirate Party,Indiana,2
+Benton,Secretary of State,Jeremy Heath,Pirate Party,Indiana,0
+Brown,Secretary of State,Jeremy Heath,Pirate Party,Indiana,0
+Carroll,Secretary of State,Jeremy Heath,Pirate Party,Indiana,0
+Daviess,Secretary of State,Jeremy Heath,Pirate Party,Indiana,0
+Decatur,Secretary of State,Jeremy Heath,Pirate Party,Indiana,0
+Dubois,Secretary of State,Jeremy Heath,Pirate Party,Indiana,0
+Allen,Secretary of State,Jeremy Heath,Pirate Party,Indiana,0
+Boone,Secretary of State,Jeremy Heath,Pirate Party,Indiana,0
+Crawford,Secretary of State,Jeremy Heath,Pirate Party,Indiana,0
+Bartholomew,Secretary of State,Jeremy Heath,Pirate Party,Indiana,1
+Allen,Secretary of State,Connie Lawson,Republican,Indiana,71147
+Carroll,Secretary of State,Connie Lawson,Republican,Indiana,4968
+Clinton,Secretary of State,Connie Lawson,Republican,Indiana,6600
+Crawford,Secretary of State,Connie Lawson,Republican,Indiana,2238
+Daviess,Secretary of State,Connie Lawson,Republican,Indiana,6749
+Dubois,Secretary of State,Connie Lawson,Republican,Indiana,10895
+Adams,Secretary of State,Connie Lawson,Republican,Indiana,8095
+Benton,Secretary of State,Connie Lawson,Republican,Indiana,2118
+Clark,Secretary of State,Connie Lawson,Republican,Indiana,23525
+Clay,Secretary of State,Connie Lawson,Republican,Indiana,6580
+Delaware,Secretary of State,Connie Lawson,Republican,Indiana,19949
+Bartholomew,Secretary of State,Connie Lawson,Republican,Indiana,16770
+Blackford,Secretary of State,Connie Lawson,Republican,Indiana,2604
+Boone,Secretary of State,Connie Lawson,Republican,Indiana,17535
+Dearborn,Secretary of State,Connie Lawson,Republican,Indiana,13301
+DeKalb,Secretary of State,Connie Lawson,Republican,Indiana,9847
+Elkhart,Secretary of State,Connie Lawson,Republican,Indiana,34486
+Brown,Secretary of State,Connie Lawson,Republican,Indiana,4428
+Cass,Secretary of State,Connie Lawson,Republican,Indiana,7664
+Decatur,Secretary of State,Connie Lawson,Republican,Indiana,6874
+Allen,Auditor of State,Joselyn Whitticker,Democratic,Indiana,47417
+Bartholomew,Auditor of State,Joselyn Whitticker,Democratic,Indiana,8641
+Boone,Auditor of State,Joselyn Whitticker,Democratic,Indiana,8764
+Carroll,Auditor of State,Joselyn Whitticker,Democratic,Indiana,1753
+Cass,Auditor of State,Joselyn Whitticker,Democratic,Indiana,3398
+Daviess,Auditor of State,Joselyn Whitticker,Democratic,Indiana,1641
+Blackford,Auditor of State,Joselyn Whitticker,Democratic,Indiana,1176
+Brown,Auditor of State,Joselyn Whitticker,Democratic,Indiana,2523
+Dearborn,Auditor of State,Joselyn Whitticker,Democratic,Indiana,4157
+Decatur,Auditor of State,Joselyn Whitticker,Democratic,Indiana,1894
+Delaware,Auditor of State,Joselyn Whitticker,Democratic,Indiana,16010
+Elkhart,Auditor of State,Joselyn Whitticker,Democratic,Indiana,17744
+Benton,Auditor of State,Joselyn Whitticker,Democratic,Indiana,723
+Clark,Auditor of State,Joselyn Whitticker,Democratic,Indiana,17473
+Clay,Auditor of State,Joselyn Whitticker,Democratic,Indiana,2363
+Crawford,Auditor of State,Joselyn Whitticker,Democratic,Indiana,1458
+Dubois,Auditor of State,Joselyn Whitticker,Democratic,Indiana,5442
+Adams,Auditor of State,Joselyn Whitticker,Democratic,Indiana,2728
+Clinton,Auditor of State,Joselyn Whitticker,Democratic,Indiana,2315
+DeKalb,Auditor of State,Joselyn Whitticker,Democratic,Indiana,3509
+Adams,Auditor of State,John Schick,Libertarian,Indiana,339
+Boone,Auditor of State,John Schick,Libertarian,Indiana,1039
+Carroll,Auditor of State,John Schick,Libertarian,Indiana,239
+Clay,Auditor of State,John Schick,Libertarian,Indiana,307
+Clinton,Auditor of State,John Schick,Libertarian,Indiana,285
+Dearborn,Auditor of State,John Schick,Libertarian,Indiana,692
+DeKalb,Auditor of State,John Schick,Libertarian,Indiana,509
+Elkhart,Auditor of State,John Schick,Libertarian,Indiana,1681
+Benton,Auditor of State,John Schick,Libertarian,Indiana,127
+Brown,Auditor of State,John Schick,Libertarian,Indiana,260
+Cass,Auditor of State,John Schick,Libertarian,Indiana,473
+Daviess,Auditor of State,John Schick,Libertarian,Indiana,244
+Dubois,Auditor of State,John Schick,Libertarian,Indiana,508
+Bartholomew,Auditor of State,John Schick,Libertarian,Indiana,871
+Blackford,Auditor of State,John Schick,Libertarian,Indiana,187
+Clark,Auditor of State,John Schick,Libertarian,Indiana,1679
+Decatur,Auditor of State,John Schick,Libertarian,Indiana,283
+Delaware,Auditor of State,John Schick,Libertarian,Indiana,1462
+Allen,Auditor of State,John Schick,Libertarian,Indiana,3735
+Crawford,Auditor of State,John Schick,Libertarian,Indiana,138
+Blackford,Auditor of State,Tera Klutz,Republican,Indiana,2433
+Boone,Auditor of State,Tera Klutz,Republican,Indiana,17244
+Dearborn,Auditor of State,Tera Klutz,Republican,Indiana,13056
+Elkhart,Auditor of State,Tera Klutz,Republican,Indiana,33486
+Allen,Auditor of State,Tera Klutz,Republican,Indiana,72716
+Carroll,Auditor of State,Tera Klutz,Republican,Indiana,4885
+Clay,Auditor of State,Tera Klutz,Republican,Indiana,6333
+Crawford,Auditor of State,Tera Klutz,Republican,Indiana,2159
+Daviess,Auditor of State,Tera Klutz,Republican,Indiana,6535
+DeKalb,Auditor of State,Tera Klutz,Republican,Indiana,9647
+Dubois,Auditor of State,Tera Klutz,Republican,Indiana,9857
+Adams,Auditor of State,Tera Klutz,Republican,Indiana,7814
+Clark,Auditor of State,Tera Klutz,Republican,Indiana,22799
+Clinton,Auditor of State,Tera Klutz,Republican,Indiana,6450
+Bartholomew,Auditor of State,Tera Klutz,Republican,Indiana,16461
+Benton,Auditor of State,Tera Klutz,Republican,Indiana,2060
+Brown,Auditor of State,Tera Klutz,Republican,Indiana,4315
+Cass,Auditor of State,Tera Klutz,Republican,Indiana,7450
+Decatur,Auditor of State,Tera Klutz,Republican,Indiana,6486
+Delaware,Auditor of State,Tera Klutz,Republican,Indiana,18917
+Adams,Treasurer of State,John C. Aguilera,Democratic,Indiana,2612
+Boone,Treasurer of State,John C. Aguilera,Democratic,Indiana,8927
+Clay,Treasurer of State,John C. Aguilera,Democratic,Indiana,2269
+Clinton,Treasurer of State,John C. Aguilera,Democratic,Indiana,2278
+Crawford,Treasurer of State,John C. Aguilera,Democratic,Indiana,1406
+Brown,Treasurer of State,John C. Aguilera,Democratic,Indiana,2532
+Dearborn,Treasurer of State,John C. Aguilera,Democratic,Indiana,4115
+Elkhart,Treasurer of State,John C. Aguilera,Democratic,Indiana,17694
+Bartholomew,Treasurer of State,John C. Aguilera,Democratic,Indiana,8606
+Blackford,Treasurer of State,John C. Aguilera,Democratic,Indiana,1138
+Carroll,Treasurer of State,John C. Aguilera,Democratic,Indiana,1766
+Daviess,Treasurer of State,John C. Aguilera,Democratic,Indiana,1602
+Decatur,Treasurer of State,John C. Aguilera,Democratic,Indiana,1767
+DeKalb,Treasurer of State,John C. Aguilera,Democratic,Indiana,3557
+Delaware,Treasurer of State,John C. Aguilera,Democratic,Indiana,16076
+Allen,Treasurer of State,John C. Aguilera,Democratic,Indiana,49499
+Benton,Treasurer of State,John C. Aguilera,Democratic,Indiana,729
+Cass,Treasurer of State,John C. Aguilera,Democratic,Indiana,3282
+Clark,Treasurer of State,John C. Aguilera,Democratic,Indiana,17360
+Dubois,Treasurer of State,John C. Aguilera,Democratic,Indiana,5013
+Adams,Treasurer of State,Kelly Mitchell,Republican,Indiana,8244
+Carroll,Treasurer of State,Kelly Mitchell,Republican,Indiana,5116
+Clay,Treasurer of State,Kelly Mitchell,Republican,Indiana,6721
+Clinton,Treasurer of State,Kelly Mitchell,Republican,Indiana,6767
+Crawford,Treasurer of State,Kelly Mitchell,Republican,Indiana,2353
+Daviess,Treasurer of State,Kelly Mitchell,Republican,Indiana,6824
+Dearborn,Treasurer of State,Kelly Mitchell,Republican,Indiana,13685
+DeKalb,Treasurer of State,Kelly Mitchell,Republican,Indiana,10095
+Allen,Treasurer of State,Kelly Mitchell,Republican,Indiana,73830
+Bartholomew,Treasurer of State,Kelly Mitchell,Republican,Indiana,17293
+Boone,Treasurer of State,Kelly Mitchell,Republican,Indiana,18077
+Elkhart,Treasurer of State,Kelly Mitchell,Republican,Indiana,35050
+Blackford,Treasurer of State,Kelly Mitchell,Republican,Indiana,2664
+Cass,Treasurer of State,Kelly Mitchell,Republican,Indiana,8019
+Clark,Treasurer of State,Kelly Mitchell,Republican,Indiana,24286
+Benton,Treasurer of State,Kelly Mitchell,Republican,Indiana,2172
+Brown,Treasurer of State,Kelly Mitchell,Republican,Indiana,4541
+Decatur,Treasurer of State,Kelly Mitchell,Republican,Indiana,6872
+Delaware,Treasurer of State,Kelly Mitchell,Republican,Indiana,20340
+Dubois,Treasurer of State,Kelly Mitchell,Republican,Indiana,10831
+Allen,US Representative,Courtney Tritch,Democratic,3,54759
+Adams,US Representative,Courtney Tritch,Democratic,3,2842
+DeKalb,US Representative,Courtney Tritch,Democratic,3,4027
+Blackford,US Representative,Courtney Tritch,Democratic,3,260
+Boone,US Representative,Dee Thornton,Democratic,5,6095
+Blackford,US Representative,Dee Thornton,Democratic,5,854
+Decatur,US Representative,Jeannine Lee Lake,Democratic,6,2007
+Delaware,US Representative,Jeannine Lee Lake,Democratic,6,18480
+Dearborn,US Representative,Jeannine Lee Lake,Democratic,6,4277
+Bartholomew,US Representative,Jeannine Lee Lake,Democratic,6,9607
+Brown,US Representative,Liz Watson,Democratic,9,3002
+Clark,US Representative,Liz Watson,Democratic,9,19236
+Crawford,US Representative,Liz Watson,Democratic,9,1397
+Elkhart,US Representative,Mel Hall,Democratic,2,20162
+Boone,US Representative,Tobi Beck,Democratic,4,3440
+Benton,US Representative,Tobi Beck,Democratic,4,795
+Cass,US Representative,Tobi Beck,Democratic,4,3733
+Carroll,US Representative,Tobi Beck,Democratic,4,1942
+Clinton,US Representative,Tobi Beck,Democratic,4,2584
+Dubois,US Representative,William Tanoos,Democratic,8,4932
+Clay,US Representative,William Tanoos,Democratic,8,2207
+Crawford,US Representative,William Tanoos,Democratic,8,178
+Daviess,US Representative,William Tanoos,Democratic,8,1627
+Bartholomew,US Representative,Heather Leigh Meloy,Independent,6,0
+Dearborn,US Representative,Heather Leigh Meloy,Independent,6,0
+Decatur,US Representative,Heather Leigh Meloy,Independent,6,0
+Delaware,US Representative,Heather Leigh Meloy,Independent,6,1
+Delaware,US Representative,John Miller,Independent,6,0
+Dearborn,US Representative,John Miller,Independent,6,0
+Bartholomew,US Representative,John Miller,Independent,6,1
+Decatur,US Representative,John Miller,Independent,6,0
+Elkhart,US Representative,Richard Wolf,Independent,2,1
+Dearborn,US Representative,Tom Ferkinhoff,Libertarian,6,469
+Decatur,US Representative,Tom Ferkinhoff,Libertarian,6,277
+Delaware,US Representative,Tom Ferkinhoff,Libertarian,6,1068
+Bartholomew,US Representative,Tom Ferkinhoff,Libertarian,6,782
+Bartholomew,US Representative,Greg Pence,Republican,6,16161
+Dearborn,US Representative,Greg Pence,Republican,6,13434
+Decatur,US Representative,Greg Pence,Republican,6,6692
+Delaware,US Representative,Greg Pence,Republican,6,18072
+Elkhart,US Representative,Jackie Walorski,Republican,2,33499
+Boone,US Representative,Jim Baird,Republican,4,8377
+Carroll,US Representative,Jim Baird,Republican,4,4944
+Clinton,US Representative,Jim Baird,Republican,4,6535
+Benton,US Representative,Jim Baird,Republican,4,2128
+Cass,US Representative,Jim Baird,Republican,4,7590
+Blackford,US Representative,Jim Banks,Republican,3,609
+Adams,US Representative,Jim Banks,Republican,3,8322
+Allen,US Representative,Jim Banks,Republican,3,70954
+DeKalb,US Representative,Jim Banks,Republican,3,9906
+Crawford,US Representative,Larry D. Bucshon,Republican,8,363
+Dubois,US Representative,Larry D. Bucshon,Republican,8,11389
+Clay,US Representative,Larry D. Bucshon,Republican,8,7040
+Daviess,US Representative,Larry D. Bucshon,Republican,8,7026
+Blackford,US Representative,Susan W. Brooks,Republican,5,2103
+Boone,US Representative,Susan W. Brooks,Republican,5,9391
+Brown,US Representative,Trey Hollingsworth,Republican,9,4169
+Clark,US Representative,Trey Hollingsworth,Republican,9,23751
+Crawford,US Representative,Trey Hollingsworth,Republican,9,1976
+Clark,State Senator,Anna Murray,Democratic,46,8913
+Clay,State Senator,Chris Gambill,Democratic,38,2073
+Clinton,State Senator,Christina Fivecoate,Democratic,21,166
+Delaware,State Senator,Dave Cravens,Democratic,26,5356
+Elkhart,State Senator,Ed Liptrap,Democratic,11,5415
+Boone,State Senator,J.D. Ford,Democratic,29,4061
+Dearborn,State Senator,Jerome (Jake) Hoog,Democratic,27,991
+Clark,State Senator,John Perkins,Democratic,45,8509
+Allen,State Senator,Kathy Zoucha,Democratic,15,19321
+Dubois,State Senator,Nicholas A. (Nick) Siler,Democratic,47,1619
+Crawford,State Senator,Nicholas A. (Nick) Siler,Democratic,47,1643
+Bartholomew,State Senator,Ross Thomas,Democratic,41,5094
+Benton,State Senator,Ryan Farrar,Democratic,06,738
+Delaware,State Senator,Tim Lanane,Democratic,25,12286
+Clark,State Senator,Charles Johnson,Libertarian,45,841
+Delaware,State Senator,Greg Noland,Libertarian,26,425
+Delaware,State Senator,Robert Q. Jozwiak,Libertarian,25,747
+Clark,State Senator,Chris Garten,Republican,45,15509
+Decatur,State Senator,Clyde A. "Chip" Perfect Jr.,Republican,43,6515
+Bartholomew,State Senator,Clyde A. "Chip" Perfect Jr.,Republican,43,3310
+Dearborn,State Senator,Clyde A. "Chip" Perfect Jr.,Republican,43,11070
+DeKalb,State Senator,Dennis K. Kruse,Republican,14,8149
+Allen,State Senator,Dennis K. Kruse,Republican,14,26393
+Allen,State Senator,Elizabeth "Liz" Brown,Republican,15,23980
+Clay,State Senator,Eric S. Bassler,Republican,39,2111
+Daviess,State Senator,Eric S. Bassler,Republican,39,7618
+Crawford,State Senator,Erin Houchin,Republican,47,2317
+Dubois,State Senator,Erin Houchin,Republican,47,3647
+Bartholomew,State Senator,Greg Walker,Republican,41,8479
+Clinton,State Senator,James R. Buck,Republican,21,417
+Dearborn,State Senator,Jeff Raatz,Republican,27,3458
+Clay,State Senator,Jon Ford,Republican,38,4704
+Elkhart,State Senator,Linda Rogers,Republican,11,9301
+Dubois,State Senator,Mark Messmer,Republican,48,9848
+Boone,State Senator,Mike Delph,Republican,29,4986
+Delaware,State Senator,Mike Gaskill,Republican,26,8329
+Boone,State Senator,Philip L. (Phil) Boots,Republican,23,10448
+Benton,State Senator,Rick Niemeyer,Republican,06,2183
+Clark,State Senator,Ron Grooms,Republican,46,8954
+Adams,State Senator,Travis Holdman,Republican,19,9224
+Blackford,State Senator,Travis Holdman,Republican,19,2894
+Delaware,State Senator,Zaki Ali,Republican,25,10221
+Delaware,State Representative,Amie Neiling,Democratic,32,242
+Daviess,State Representative,Amy Swain,Democratic,62,189
+Boone,State Representative,Brock Ervin,Democratic,41,2758
+Elkhart,State Representative,Carl Rust,Democratic,21,4136
+Allen,State Representative,Christopher J. Rex,Democratic,85,6613
+Decatur,State Representative,Cordelle Feuston,Democratic,67,391
+Dearborn,State Representative,Cordelle Feuston,Democratic,67,703
+Decatur,State Representative,Corinne Westerfield,Democratic,55,1648
+Allen,State Representative,Curtis Nash,Democratic,84,10027
+Bartholomew,State Representative,Dale Nowlin,Democratic,59,8930
+Clay,State Representative,E. Thomasina Marsili,Democratic,46,535
+Clay,State Representative,Evelyn Brown,Democratic,42,1709
+Boone,State Representative,Harlan Vondersaar,Democratic,28,637
+Brown,State Representative,Jared Stancombe,Democratic,65,2665
+Daviess,State Representative,Jim Exline,Democratic,45,49
+Allen,State Representative,Jorge Fernandez,Democratic,50,3054
+Dubois,State Representative,Joseph "Joe" Lannan,Democratic,63,3135
+Daviess,State Representative,Joseph "Joe" Lannan,Democratic,63,2128
+Clay,State Representative,Kimberly Anne Fidler,Democratic,44,624
+Allen,State Representative,Kyle R. Miller,Democratic,81,9069
+Crawford,State Representative,Larry K. Kleeman,Democratic,74,1599
+Dubois,State Representative,Larry K. Kleeman,Democratic,74,2260
+Benton,State Representative,Loretta Barnes,Democratic,13,733
+Blackford,State Representative,Lynn Johnson,Democratic,31,1145
+Delaware,State Representative,Lynn Johnson,Democratic,31,865
+Allen,State Representative,Martha Lemert,Democratic,52,2738
+DeKalb,State Representative,Martha Lemert,Democratic,52,3431
+Dearborn,State Representative,Matt Gaustad,Democratic,68,3311
+Carroll,State Representative,Maurice Oakel Fuller,Democratic,25,1088
+Clinton,State Representative,Maurice Oakel Fuller,Democratic,25,526
+Cass,State Representative,Maurice Oakel Fuller,Democratic,25,409
+Delaware,State Representative,Melanie M. Wright,Democratic,35,5748
+Allen,State Representative,Mike Wilber,Democratic,82,552
+Elkhart,State Representative,Mike Wilber,Democratic,82,122
+Boone,State Representative,Naomi S. Bechtold,Democratic,24,6245
+Allen,State Representative,Phil GiaQuinta,Democratic,80,12229
+Clark,State Representative,Rita A. Fleming,Democratic,71,13239
+Clark,State Representative,Sarah Stivers,Democratic,70,3231
+Delaware,State Representative,Shon Byrum,Democratic,33,2635
+Blackford,State Representative,Shon Byrum,Democratic,33,13
+Bartholomew,State Representative,Steve Schoettmer,Democratic,69,138
+Delaware,State Representative,Sue Errington,Democratic,34,11553
+Cass,State Representative,Terry Doran,Democratic,23,3084
+Clark,State Representative,Terry Goodin,Democratic,66,3508
+Carroll,State Representative,Thomas (Tom) Hedde,Democratic,38,906
+Clinton,State Representative,Thomas (Tom) Hedde,Democratic,38,2028
+Cass,State Representative,Thomas (Tom) Hedde,Democratic,38,558
+Cass,State Representative,Adam Werner,Libertarian,23,229
+Bartholomew,State Representative,Clyde D. Myers,Libertarian,59,573
+Blackford,State Representative,Dale Arnett,Libertarian,33,1
+Delaware,State Representative,Dale Arnett,Libertarian,33,191
+Boone,State Representative,Donald G. Rainwater II,Libertarian,24,430
+Elkhart,State Representative,Ethan Legg,Libertarian,21,420
+Elkhart,State Representative,Robert Wilson Jr.,Libertarian,48,3798
+Clark,State Representative,Thomas Keister,Libertarian,71,534
+Clay,State Representative,Alan Morrison,Republican,42,2881
+Delaware,State Representative,Anthony J. ("Tony") Cook,Republican,32,447
+Clay,State Representative,Beau Baird,Republican,44,1554
+Allen,State Representative,Ben Smaltz,Republican,52,6533
+DeKalb,State Representative,Ben Smaltz,Republican,52,10330
+Delaware,State Representative,Ben W. Fisher,Republican,35,5688
+Clay,State Representative,Bob Heaton,Republican,46,1930
+Allen,State Representative,Bob Morris,Republican,84,16771
+Daviess,State Representative,Bruce Borders,Republican,45,282
+Brown,State Representative,Chris D. May,Republican,65,4418
+Allen,State Representative,Christopher N. Judy,Republican,83,13582
+Elkhart,State Representative,Christy Stutzman,Republican,49,13633
+Decatur,State Representative,Cindy Meyer Ziemke,Republican,55,4645
+Elkhart,State Representative,Curt Nisly,Republican,22,3504
+Allen,State Representative,Daniel J. (Dan) Leonard,Republican,50,3991
+Allen,State Representative,Dave Heine,Republican,85,15871
+Elkhart,State Representative,David H. Abbott,Republican,82,710
+Allen,State Representative,David H. Abbott,Republican,82,1785
+Cass,State Representative,Donald J. Lehe,Republican,25,1389
+Carroll,State Representative,Donald J. Lehe,Republican,25,2945
+Clinton,State Representative,Donald J. Lehe,Republican,25,1545
+Boone,State Representative,Donna Schaibley,Republican,24,8645
+Elkhart,State Representative,Doug Miller,Republican,48,12370
+Cass,State Representative,Ethan Manning,Republican,23,4368
+Carroll,State Representative,Heath R. VanNatter,Republican,38,1946
+Cass,State Representative,Heath R. VanNatter,Republican,38,1367
+Clinton,State Representative,Heath R. VanNatter,Republican,38,5001
+Daviess,State Representative,Jeff Ellington,Republican,62,927
+Boone,State Representative,Jeffrey A. Thompson,Republican,28,985
+Bartholomew,State Representative,Jim Lucas,Republican,69,305
+Blackford,State Representative,John (J.D.) Prescott,Republican,33,10
+Delaware,State Representative,John (J.D.) Prescott,Republican,33,3964
+Clark,State Representative,Karen Engleman,Republican,70,5163
+Blackford,State Representative,Kevin A. Mahan,Republican,31,2680
+Delaware,State Representative,Kevin A. Mahan,Republican,31,1651
+Allen,State Representative,Martin Carbaugh,Republican,81,10504
+Clark,State Representative,Matt Owen,Republican,71,10031
+Allen,State Representative,Matthew S. Lehman,Republican,79,3078
+Adams,State Representative,Matthew S. Lehman,Republican,79,9368
+Clark,State Representative,Mike Bowling,Republican,66,4406
+Dearborn,State Representative,Randy Frye,Republican,67,2303
+Decatur,State Representative,Randy Frye,Republican,67,2157
+Dearborn,State Representative,Randy Lyness,Republican,68,11677
+Bartholomew,State Representative,Ryan Lauer,Republican,59,12519
+Bartholomew,State Representative,Sean R. Eberhart,Republican,57,3174
+Daviess,State Representative,Shane M. Lindauer,Republican,63,4988
+Dubois,State Representative,Shane M. Lindauer,Republican,63,7542
+Benton,State Representative,Sharon Negele,Republican,13,2207
+Dubois,State Representative,Stephen R. Bartels,Republican,74,3875
+Crawford,State Representative,Stephen R. Bartels,Republican,74,2330
+Clark,State Representative,Steve Davisson,Republican,73,2280
+Boone,State Representative,Tim Brown,Republican,41,7413
+Elkhart,State Representative,Timothy Wesco,Republican,21,7173
+Clay,"Judge, Circuit Court",Joseph Dom Trout,Democratic,Clay,6148
+Delaware,"Judge, Circuit Court",Kimberly S. Dowling,Democratic,Delaware,24761
+Brown,"Judge, Circuit Court",Kristopher Kritzer,Democratic,Brown,2759
+Clark,"Judge, Circuit Court",Vicki Carmichael,Democratic,Clark,22923
+Boone,"Judge, Circuit Court",Pam Buchanan,Independent,Boone,8601
+Carroll,"Judge, Circuit Court",Benjamin A. Diener,Republican,Carroll,6205
+Clinton,"Judge, Circuit Court",Bradley K. Mohler,Republican,Clinton,7816
+Blackford,"Judge, Circuit Court",Brian Bade,Republican,Blackford,3178
+Adams,"Judge, Circuit Court",Chad E. Kukelhan,Republican,Adams,9459
+Clark,"Judge, Circuit Court",Dan Moore,Republican,Clark,20083
+Boone,"Judge, Circuit Court",Lori Schein,Republican,Boone,17183
+Brown,"Judge, Circuit Court",Mary Wertz,Republican,Brown,4405
+Cass,"Judge, Circuit Court",Stephen Roger Kitts II,Republican,Cass,8887
+Decatur,"Judge, Circuit Court",Timothy B. Day,Republican,Decatur,7324
+Clay,"Judge, Superior Court",Jason D. Brown,Democratic,Clay,3926
+Elkhart,"Judge, Superior Court",David C. Bonfiglio,Republican,Elkhart,40292
+Bartholomew,"Judge, Superior Court",James "Jim" Worton,Republican,Bartholomew,20527
+DeKalb,"Judge, Superior Court",Monte L. Brown,Republican,DeKalb,11656
+Cass,"Judge, Superior Court",Rick Maughmer,Republican,Cass,9334
+Clay,"Judge, Superior Court",Robert Alex Pell,Republican,Clay,5297
+Dearborn,"Judge, Superior Court",Sally A. McLaughlin,Republican,Dearborn,15000
+Elkhart,"Judge, Superior Court",Stephen R. Bowers,Republican,Elkhart,40617
+Blackford,Prosecuting Attorney,Aaron M. Henderson,Democratic,Blackford,1647
+Dubois,Prosecuting Attorney,Anthony D. Quinn,Democratic,Dubois,10974
+Crawford,Prosecuting Attorney,Cheryl J. Hillenburg,Democratic,Crawford,2024
+Delaware,Prosecuting Attorney,Eric M. Hoffman,Democratic,Delaware,24577
+Brown,Prosecuting Attorney,Greg Bowes,Democratic,Brown,2458
+Clinton,Prosecuting Attorney,Anthony J. Sommer,Republican,Clinton,7297
+DeKalb,Prosecuting Attorney,ClaraMary Winebrenner,Republican,DeKalb,11155
+Daviess,Prosecuting Attorney,Daniel S. Murrie,Republican,Daviess,7344
+Clay,Prosecuting Attorney,Emily Clarke,Republican,Clay,7805
+Clark,Prosecuting Attorney,Jeremy Mull,Republican,Clark,30513
+Adams,Prosecuting Attorney,Jeremy W. Brown,Republican,Adams,9410
+Benton,Prosecuting Attorney,John C. Wright,Republican,Benton,2475
+Allen,Prosecuting Attorney,Karen Richards,Republican,Allen,88162
+Boone,Prosecuting Attorney,Kent T. Eastwood,Republican,Boone,20944
+Blackford,Prosecuting Attorney,Kevin N. Basey,Republican,Blackford,2228
+Cass,Prosecuting Attorney,Lisa L. Swaim,Republican,Cass,9068
+Dearborn,Prosecuting Attorney,Lynn Deddens,Republican,"Dearborn,Ohio",14929
+Decatur,Prosecuting Attorney,Nathan W. Harter IV,Republican,Decatur,7251
+Carroll,Prosecuting Attorney,Nicholas C. McLeland,Republican,Carroll,6207
+Crawford,Prosecuting Attorney,Nicholas W. Haverstock,Republican,Crawford,1998
+Brown,Prosecuting Attorney,Ted Adams,Republican,Brown,4656
+Elkhart,Prosecuting Attorney,Vicki Elaine Becker,Republican,Elkhart,40228
+Bartholomew,Prosecuting Attorney,William M. (Bill) Nash,Republican,Bartholomew,20110
+Brown,Clerk of the Circuit Court,Brenda Woods,Democratic,Brown,3354
+Allen,Clerk of the Circuit Court,Danielle N Andersen,Democratic,Allen,50624
+Decatur,Clerk of the Circuit Court,KAREN S HIGGINBOTHAM,Democratic,Decatur,3209
+Dubois,Clerk of the Circuit Court,Kiersten L. Knies,Democratic,Dubois,7248
+Crawford,Clerk of the Circuit Court,Lisa Stephenson-Holzbog (Busick),Democratic,Crawford,2020
+Delaware,Clerk of the Circuit Court,MIKE KING,Democratic,Delaware,17849
+Clark,Clerk of the Circuit Court,Susan Popp,Democratic,Clark,21598
+Decatur,Clerk of the Circuit Court,ADINA A ROBERTS,Republican,Decatur,5546
+Dubois,Clerk of the Circuit Court,Amy L Kippenbrock,Republican,Dubois,9404
+Allen,Clerk of the Circuit Court,Christopher (Chris) Nancarrow,Republican,Allen,71863
+Elkhart,Clerk of the Circuit Court,CHRISTOPHER ANDERSON,Republican,Elkhart,39241
+Clark,Clerk of the Circuit Court,Darci  Schiller,Republican,Clark,20860
+Adams,Clerk of the Circuit Court,JAMES (Jim) J VOGLEWEDE Jr.,Republican,Adams,9125
+Daviess,Clerk of the Circuit Court,Janice M. Williams,Republican,Daviess,7511
+Bartholomew,Clerk of the Circuit Court,Jay Phelps,Republican,Bartholomew,20395
+Boone,Clerk of the Circuit Court,JESSICA J FOUTS,Republican,Boone,21080
+Brown,Clerk of the Circuit Court,Kathy (Grimes) Smith,Republican,Brown,3781
+Benton,Clerk of the Circuit Court,NATALIE J. KIDD,Republican,Benton,2486
+Clinton,Clerk of the Circuit Court,RHEA A COPAS,Republican,Clinton,7385
+Delaware,Clerk of the Circuit Court,RICK SPANGLER,Republican,Delaware,19305
+Crawford,Clerk of the Circuit Court,WENDY MARPLES,Republican,Crawford,1931
+Brown,County Auditor,Beth Williamson Mulry,Democratic,Brown,3360
+Clark,County Auditor,Nancy Stemler Shepherd,Democratic,Clark,19584
+Elkhart,County Auditor,NICOLE LUDLOW,Democratic,Elkhart,20325
+Crawford,County Auditor,ROXANNE JONES MORGAN,Democratic,Crawford,1542
+Dubois,County Auditor,Sandra L Morton,Democratic,Dubois,10765
+Delaware,County Auditor,STEVEN G CRAYCRAFT,Democratic,Delaware,25348
+Carroll,County Auditor,Beth L. Myers,Republican,Carroll,6206
+Clinton,County Auditor,Britt A Ostler,Republican,Clinton,7560
+Crawford,County Auditor,CHRISTIAN J HOWELL,Republican,Crawford,2414
+Dearborn,County Auditor,Connie A Fromhold,Republican,Dearborn,14471
+Clark,County Auditor,Danny Yost,Republican,Clark,22824
+DeKalb,County Auditor,Jan Bauman,Republican,DeKalb,11313
+Clay,County Auditor,Jennifer M Flater,Republican,Clay,7921
+Brown,County Auditor,Julia (Julie) B. Reeves,Republican,Brown,3761
+Allen,County Auditor,Nicholas D Jordan,Republican,Allen,86965
+Daviess,County Auditor,Patricia K. (Patty) Ball,Republican,Daviess,7536
+Elkhart,County Auditor,PATTY PICKENS,Republican,Elkhart,32314
+Bartholomew,County Auditor,Pia O'Connor,Republican,Bartholomew,20154
+Blackford,County Auditor,Sharon L. Hartley,Republican,Blackford,3112
+Dearborn,County Recorder,Christine Craig,Democratic,Dearborn,4528
+Dubois,County Recorder,Gail Hasenour Reutman,Democratic,Dubois,7280
+Clark,County Recorder,Lincoln D Crum,Democratic,Clark,19651
+Crawford,County Recorder,Tammy Patton Procter,Democratic,Crawford,1778
+Allen,County Recorder,Anita A Mather,Republican,Allen,87057
+Cass,County Recorder,Cindy D. Howard,Republican,Cass,9028
+Decatur,County Recorder,DOTTIE MOORE ROBBINS,Republican,Decatur,7494
+Dubois,County Recorder,Jaclyn Messmer McPherron,Republican,Dubois,9119
+Elkhart,County Recorder,JENNIFER DORIOT,Republican,Elkhart,39565
+Crawford,County Recorder,JESSICA VILLEGAS BOWMAN,Republican,Crawford,2177
+Dearborn,County Recorder,Joyce Oles ,Republican,Dearborn,13270
+Delaware,County Recorder,MELANIE MARSHALL,Republican,Delaware,26859
+Bartholomew,County Recorder,Tami L. Hines,Republican,Bartholomew,20208
+Clark,County Recorder,Terry E Conway,Republican,Clark,22687
+Clark,County Treasurer,David (Yogi) Paris,Democratic,Clark,17786
+Carroll,County Treasurer,Jack V. Wilson,Democratic,Carroll,2051
+Bartholomew,County Treasurer,Barb Hackman,Republican,Bartholomew,20482
+Clay,County Treasurer,Debra S James,Republican,Clay,7942
+Carroll,County Treasurer,Melinda K Rossetter,Republican,Carroll,4825
+Clark,County Treasurer,R. Monty Snelling,Republican,Clark,24498
+Cass,County Sheriff,Dale Campbell,Democratic,Cass,4487
+Decatur,County Sheriff,DAVE DURANT,Democratic,Decatur,4544
+Clark,County Sheriff,Dwight T Ingle,Democratic,Clark,14224
+Adams,County Sheriff,JAMES P FRANZE,Democratic,Adams,4419
+Blackford,County Sheriff,John M Rains,Democratic,Blackford,1040
+Allen,County Sheriff,Philip R Davis,Democratic,Allen,46931
+Delaware,County Sheriff,RAY DUDLEY,Democratic,Delaware,17691
+Crawford,County Sheriff,SHAWN SCOTT,Democratic,Crawford,1753
+Dubois,County Sheriff,Tim D Lampert,Democratic,Dubois,7772
+Crawford,County Sheriff,GLEN H LAWS,Independent,Crawford,99
+Clark,County Sheriff,Christopher (Chris) Kaelin,Libertarian,Clark,1763
+Adams,County Sheriff,DAN MAWHORR,Republican,Adams,6734
+DeKalb,County Sheriff,David (Dave) Cserep,Republican,DeKalb,11644
+Allen,County Sheriff,David J Gladieux,Republican,Allen,77027
+Benton,County Sheriff,DON MUNSON,Republican,Benton,2453
+Cass,County Sheriff,Edward (Ed) C. Schroder,Republican,Cass,7036
+Daviess,County Sheriff,Gary W. Allison,Republican,Daviess,7611
+Clark,County Sheriff,Jamey J Noel,Republican,Clark,27113
+Elkhart,County Sheriff,JEFF A SIEGEL,Republican,Elkhart,39917
+Crawford,County Sheriff,Jeff Howell,Republican,Crawford,2206
+Blackford,County Sheriff,Jeffrey C Sones,Republican,Blackford,2848
+Bartholomew,County Sheriff,Matthew A. Myers,Republican,Bartholomew,21063
+Boone,County Sheriff,MICHAEL T. (Mike)  NIELSEN,Republican,Boone,22157
+Clay,County Sheriff,Paul B Harden,Republican,Clay,8067
+Clinton,County Sheriff,Richard "Rich" Kelly,Republican,Clinton,7795
+Brown,County Sheriff,Scott Southerland,Republican,Brown,5678
+Dearborn,County Sheriff,Shane McHenry,Republican,Dearborn,14872
+Dubois,County Sheriff,Thomas J Kleinhelter,Republican,Dubois,9263
+Carroll,County Sheriff,Tobe Leazenby,Republican,Carroll,6380
+Delaware,County Sheriff,TONY SKINNER,Republican,Delaware,19711
+Decatur,County Sheriff,WILLIAM B MEYERROSE,Republican,Decatur,4474
+Delaware,County Coroner,ERIC "RICK" HENRY,Democratic,Delaware,17077
+Blackford,County Coroner,Nick Parrott ,Democratic,Blackford,1437
+Decatur,County Coroner,DOUG BANKS,Republican,Decatur,7701
+Brown,County Coroner,Earl R. Piper,Republican,Brown,5748
+DeKalb,County Coroner,Michael P Gerber,Republican,DeKalb,11440
+Delaware,County Coroner,RICK HOWELL,Republican,Delaware,19484
+Blackford,County Coroner,Zach Crouch,Republican,Blackford,2403
+Clark,County Surveyor,David R Blankenbeker,Democratic,Clark,27194
+Benton,County Surveyor,DAVID (DAVE) L. FISHER,Republican,Benton,2441
+Boone,County Surveyor,KENNETH HEDGE,Republican,Boone,21188
+Adams,County Surveyor,PAUL NORR,Republican,Adams,9301
+Blackford,County Surveyor,Paul Schriver,Republican,Blackford,3057
+Dubois,County Assessor,Angie  Giesler,Democratic,Dubois,9128
+Clark,County Assessor,Carol J Moon,Democratic,Clark,18246
+Crawford,County Assessor,DON E DUBOIS,Democratic,Crawford,1532
+Clay,County Assessor,Jill Bennett,Democratic,Clay,3888
+Clay,County Assessor,Barbara (Barb) Scott,Republican,Clay,5245
+Clark,County Assessor,Butch Love,Republican,Clark,23540
+Cass,County Assessor,Cathy Isaacs,Republican,Cass,9216
+Elkhart,County Assessor,CATHY SEARCY,Republican,Elkhart,39462
+Clinton,County Assessor,Dana M Myers,Republican,Clinton,7729
+Daviess,County Assessor,Dennis G. Eaton,Republican,Daviess,7643
+Adams,County Assessor,DONALD  KUHN,Republican,Adams,9243
+Decatur,County Assessor,DORENE  GREIWE,Republican,Decatur,7636
+Dubois,County Assessor,Eve Drew,Republican,Dubois,7353
+Bartholomew,County Assessor,Ginny Whipple,Republican,Bartholomew,19925
+Delaware,County Assessor,JAMES D CARMICHAEL,Republican,Delaware,26860
+Blackford,County Assessor,Kathy Goodspeed,Republican,Blackford,3130
+Benton,County Assessor,KELLY J. BALENSIEFER,Republican,Benton,2464
+Boone,County Assessor,LISA C GAROFFOLO,Republican,Boone,21176
+Brown,County Assessor,Mari H. Miller,Republican,Brown,5488
+Dearborn,County Assessor,Megan A. Acra,Republican,Dearborn,14486
+Crawford,County Assessor,MICHAEL A CARLISLE Sr.,Republican,Crawford,2311
+Carroll,County Assessor,Neda K Duff,Republican,Carroll,6243
+DeKalb,County Assessor,Sheila Stonebraker,Republican,DeKalb,11512
+Allen,County Assessor,Stacey O'Day,Republican,Allen,87555
+Boone,County Commissioner,ELLEN MARIE ROBINSON,Democratic,Boone,9856
+Dubois,County Commissioner,Elmer Brames,Democratic,Dubois,11551
+Allen,County Commissioner,Grant Walmer,Democratic,Allen,49524
+Blackford,County Commissioner,Harry Pearson,Democratic,Blackford,1567
+Adams,County Commissioner,JAMES R KUHNLE,Democratic,Adams,3272
+Delaware,County Commissioner,JASON DONATI,Democratic,Delaware,15400
+Brown,County Commissioner,Kyle Birkemeier,Democratic,Brown,3107
+Daviess,County Commissioner,LARRY E MILLER,Democratic,Daviess,2311
+Crawford,County Commissioner,RICHARD "RICK"GRIDER,Democratic,Crawford,1715
+Delaware,County Commissioner,DAVE RING,Independent,Delaware,3943
+Cass,County Commissioner,Gary Davis,Independent,Cass,3190
+Dearborn,County Commissioner,Glenn Wright ,Independent,Dearborn,6384
+DeKalb,County Commissioner,Bill Hartman,Republican,DeKalb,11134
+Clark,County Commissioner,Bryan Glover,Republican,Clark,28733
+Bartholomew,County Commissioner,Carl H. Lienhoop,Republican,Bartholomew,20066
+Crawford,County Commissioner,DANIEL CRECELIUS,Republican,Crawford,2254
+Brown,County Commissioner,Diana McDonald Biddle,Republican,Brown,3987
+Elkhart,County Commissioner,FRANK R LUCCHESE,Republican,Elkhart,39825
+Decatur,County Commissioner,JEROME A BUENING,Republican,Decatur,7662
+Carroll,County Commissioner,Loren T. Hylton,Republican,Carroll,6225
+Daviess,County Commissioner,NATHAN  GABHART,Republican,Daviess,6229
+Blackford,County Commissioner,Nick Rhodes,Republican,Blackford,2273
+Clay,County Commissioner,Paul R Sinders,Republican,Clay,7721
+Adams,County Commissioner,REX M MOORE,Republican,Adams,7723
+Allen,County Commissioner,Richard (Rich) Beck,Republican,Allen,72994
+Dearborn,County Commissioner,Rick Probst ,Republican,Dearborn,10593
+Cass,County Commissioner,Ryan D. Browning,Republican,Cass,7093
+Clinton,County Commissioner,Scott T Shoemaker,Republican,Clinton,7652
+Delaware,County Commissioner,SHANNON HENRY,Republican,Delaware,18029
+Benton,County Commissioner,STEVEN P. COX,Republican,Benton,2347
+Allen,County Commissioner,Therese M Brown,Republican,Allen,87415
+Boone,County Commissioner,TOM SANTELLI,Republican,Boone,16937
+Blackford,County Council Member,ALICIA E USSERY,Democratic,1,294
+Dearborn,County Council Member,Ann (Shelly) Snyder,Democratic,1,1067
+Clark,County Council Member,Barbara C Hollis,Democratic,1,6374
+Allen,County Council Member,Ben Schoch,Democratic,COUNTY COUNCIL 2ND DISTRICT,11169
+Blackford,County Council Member,Brian Ross,Democratic,4,309
+Delaware,County Council Member,CHRISTOPHER W MATCHETT,Democratic,1,3905
+Dubois,County Council Member,Craig M Greulich,Democratic,COUNTY COUNCIL DISTRICT 1,3036
+Crawford,County Council Member,DALE ROLL,Democratic,3,478
+Dearborn,County Council Member,Dan Lansing,Democratic,2,2238
+Daviess,County Council Member,DANA FULTON,Democratic,1,394
+Dubois,County Council Member,Deborah A Major,Democratic,COUNTY COUNCIL DISTRICT 3,1435
+Brown,County Council Member,Debra Guffey,Democratic,1,640
+Crawford,County Council Member,DIANA  CONRAD,Democratic,2,475
+Brown,County Council Member,Diana H. Wright,Democratic,4,791
+Boone,County Council Member,ERIN M BREWSTER,Democratic,4,3693
+Decatur,County Council Member,FRED FRY,Democratic,03,485
+Bartholomew,County Council Member,Hanna Omar,Democratic,CC1,2117
+Clark,County Council Member,Heidi Cade Sellers,Democratic,3,4725
+Clark,County Council Member,Janne Newland,Democratic,2,4411
+DeKalb,County Council Member,Jim Redmond,Democratic,2,811
+Clark,County Council Member,Joe Renck Jr.,Democratic,4,4503
+Adams,County Council Member,JOHN L SCHULTZ,Democratic,COUNTY COUNCIL 2,1798
+Delaware,County Council Member,JOHN M MILLER Jr.,Democratic,2,4779
+Bartholomew,County Council Member,Lynne L. Fleming,Democratic,CC4,2673
+Boone,County Council Member,MARCIA IRELAND ROSENFELD,Democratic,1,3324
+Dubois,County Council Member,Mary E Beckman,Democratic,COUNTY COUNCIL DISTRICT 2,2366
+Delaware,County Council Member,MARY I CHAMBERS,Democratic,3,4681
+Dearborn,County Council Member,"Melvin C Kremer, Jr ",Democratic,3,806
+Daviess,County Council Member,MICHAEL S MORRIS,Democratic,2,406
+Blackford,County Council Member,PATRICK T CALE,Democratic,3,674
+Elkhart,County Council Member,PAUL STEURY,Democratic,3,5898
+Elkhart,County Council Member,RALPH SPELBRING,Democratic,1,5007
+Clay,County Council Member,Reanda Kirchner,Democratic,CO COUNCILMAN DIST III,753
+Cass,County Council Member,Rick Ohman,Democratic,4,144
+Brown,County Council Member,Roger D. Kelso,Democratic,3,912
+Decatur,County Council Member,RYAN MADDUX,Democratic,01,926
+Delaware,County Council Member,RYAN S WEBB,Democratic,4,3548
+Crawford,County Council Member,SAMUEL R  "SAM" TAYLOR,Democratic,1,347
+Allen,County Council Member,Sharon Tucker,Democratic,COUNTY COUNCIL 1ST DISTRICT,13438
+Brown,County Council Member,Sherrie Mitchell,Democratic,2,564
+Blackford,County Council Member,Thomas High,Democratic,2,205
+Cass,County Council Member,Tia Justice,Democratic,2,633
+Daviess,County Council Member,VINCENT A SELLERS,Democratic,4,438
+Decatur,County Council Member,MATTHEW L MORROW,Independent,03,379
+Elkhart,County Council Member,ERIC D HARRIS,Libertarian,2,2289
+Clark,County Council Member,Greg Hertzsch,Libertarian,2,491
+Boone,County Council Member,RUSSELL MUELLER,Libertarian,1,282
+Clinton,County Council Member,Alan Dunn,Republican,4,2463
+Benton,County Council Member,ALAN J. ADWELL,Republican,DISTRICT 1,614
+DeKalb,County Council Member,AMY  DEMSKE,Republican,3,2611
+Brown,County Council Member,Arthur (Art) Knight,Republican,4,1100
+Brown,County Council Member,Bill Hamilton,Republican,1,943
+Benton,County Council Member,BRAD HARMAN,Republican,DISTRICT 3,624
+Cass,County Council Member,Brian Reed,Republican,4,2367
+Clark,County Council Member,Brittney Ferree,Republican,3,7236
+Crawford,County Council Member,CHAD L RIDDLE,Republican,4,734
+Dubois,County Council Member,Charmian R Klem,Republican,COUNTY COUNCIL DISTRICT 3,3123
+Adams,County Council Member,CORY SPRUNGER,Republican,COUNTY COUNCIL 3,2184
+Blackford,County Council Member,Dan Borgenheimer,Republican,2,513
+Decatur,County Council Member,DANNY D PETERS,Republican,02,1534
+Brown,County Council Member,Darren Byrd,Republican,2,1121
+Dubois,County Council Member,Darren C Patterson,Republican,COUNTY COUNCIL DISTRICT 2,1758
+Elkhart,County Council Member,DARRYL J RIEGSECKER,Republican,3,8403
+Daviess,County Council Member,Dave (Smitty) Smith,Republican,1,1217
+Cass,County Council Member,David (Dave) Redweik,Republican,1,3122
+Elkhart,County Council Member,DAVID L HESS,Republican,4,11249
+Brown,County Council Member,David Redding,Republican,3,1024
+Decatur,County Council Member,DEANNA L BURKART,Republican,03,1164
+Dearborn,County Council Member,Dennis A. Kraus ,Republican,4,4250
+Crawford,County Council Member,DOUG BYRUM,Republican,3,469
+Elkhart,County Council Member,DOUG GRAHAM,Republican,1,8266
+Adams,County Council Member,EDGAR B DYER ,Republican,COUNTY COUNCIL 2,1532
+DeKalb,County Council Member,Eldonna (Donna) King,Republican,1,3217
+Carroll,County Council Member,Ethan H. Brown,Republican,3,1411
+Delaware,County Council Member,EUGENE H WHITEHEAD,Republican,3,4477
+Blackford,County Council Member,Fred Tobey,Republican,1,663
+Cass,County Council Member,Grover C. Bishop,Republican,2,844
+Clinton,County Council Member,Jacob Myers,Republican,2,1416
+Clay,County Council Member,Jacqueline (Jackie) Mitchell,Republican,CO COUNCILMAN DIST I,1353
+Clark,County Council Member,James (Bubba) Disponett,Republican,2,4203
+Benton,County Council Member,JAMES K. SCHOEN,Republican,DISTRICT 4,601
+Delaware,County Council Member,JANE LASATER,Republican,4,5632
+Clay,County Council Member,Jason C Thomas,Republican,CO COUNCILMAN DIST III,1975
+Clay,County Council Member,Jason D Britton,Republican,CO COUNCILMAN DIST II,1951
+Boone,County Council Member,JENNIFER J HOSTETTER,Republican,1,4763
+Dubois,County Council Member,Jerry R Hunefeld,Republican,COUNTY COUNCIL DISTRICT 4,2977
+Allen,County Council Member,Joel M Benz,Republican,COUNTY COUNCIL 3RD DISTRICT,26830
+Boone,County Council Member,JOHN RINER,Republican,2,4421
+Clinton,County Council Member,Jon Hussey,Republican,1,1145
+Bartholomew,County Council Member,Jorge (George) Morales,Republican,CC4,4893
+Decatur,County Council Member,KENNY HOOTEN,Republican,01,1474
+Boone,County Council Member,KEVIN J VAN HORN,Republican,3,3254
+Dearborn,County Council Member,Kevin Turner,Republican,3,2856
+Allen,County Council Member,Kimberly R (Kim) Doster,Republican,COUNTY COUNCIL 1ST DISTRICT,9970
+Blackford,County Council Member,Kyle Lechien,Republican,4,738
+Allen,County Council Member,Larry Brown,Republican,COUNTY COUNCIL 4TH DISTRICT,23188
+Clay,County Council Member,Larry J Moss,Republican,CO COUNCILMAN DIST IV,2126
+Decatur,County Council Member,LARRY M MEYER,Republican,04,2165
+Bartholomew,County Council Member,Laura Dedomenic,Republican,CC2,5461
+Dearborn,County Council Member,Liz Morris ,Republican,1,4182
+Crawford,County Council Member,LUCAS  STROUD,Republican,1,674
+Bartholomew,County Council Member,Mark E. Gorbett,Republican,CC3,3680
+Crawford,County Council Member,MARK STEVENS,Republican,2,484
+Daviess,County Council Member,Michael R. Myers,Republican,3,2218
+Cass,County Council Member,Mike Stajduhar,Republican,3,1805
+Daviess,County Council Member,Patrick Dant,Republican,4,1804
+Carroll,County Council Member,Paul Rider,Republican,4,1321
+Elkhart,County Council Member,RANDALL (RANDY) D YOHN,Republican,2,7497
+DeKalb,County Council Member,Richard (Rick) Ring,Republican,4,2736
+Benton,County Council Member,ROBERT D. SLONIGER,Republican,DISTRICT 2,621
+Clinton,County Council Member,Ron Gascho,Republican,3,2596
+Delaware,County Council Member,RONALD ("Ron") B QUAKENBUSH,Republican,2,5595
+Delaware,County Council Member,RYAN M BALLARD,Republican,1,4258
+Bartholomew,County Council Member,Scott Bonnell,Republican,CC1,3970
+Carroll,County Council Member,Scott W. Ayres,Republican,2,1690
+Adams,County Council Member,STAN STOPPENHAGEN,Republican,COUNTY COUNCIL 1,3191
+Clark,County Council Member,Steve Doherty,Republican,4,7414
+Boone,County Council Member,STEVE JACOB,Republican,4,5683
+Allen,County Council Member,Thomas A (Tom) Harris,Republican,COUNTY COUNCIL 2ND DISTRICT,20170
+Daviess,County Council Member,Tony Duncheon.,Republican,2,1726
+Carroll,County Council Member,Tracy Martin,Republican,1,1668
+DeKalb,County Council Member,William (Bill) VanWye,Republican,2,2332
+Adams,County Council Member,YVETTE A WEILAND,Republican,COUNTY COUNCIL 4,1421
+Allen,Township Assessor,Beverly (Bev) Zuber,Democratic,WAYNE,19577
+Elkhart,Township Assessor,VERONICA DONALDSON,Democratic,CONCORD,5543
+Elkhart,Township Assessor,CHRISTOPHER S DICKINSON,Republican,CONCORD,6588
+Carroll,Township Trustee,Alan D. Jackson,Democratic,BURLINGTON,557
+Dubois,Township Trustee,Allen  Thewes,Democratic,HALL TWP,461
+Dearborn,Township Trustee,Amanda Vinup Noell ,Democratic,YORK TOWNSHIP,77
+Clark,Township Trustee,Amy Burton,Democratic,OREGON,400
+Daviess,Township Trustee,Amy Holstine,Democratic,BOGARD,83
+Blackford,Township Trustee,Amy Payne,Democratic,WASHINGTON,232
+Decatur,Township Trustee,BENJAMIN M TYLKA,Democratic,MARION,75
+Daviess,Township Trustee,BRADY TURNER,Democratic,HARRISON,47
+Dubois,Township Trustee,BRET G COLLIGNON,Democratic,MADISON TWP,405
+Dubois,Township Trustee,Brian King,Democratic,JEFFERSON TWP,386
+Allen,Township Trustee,Bruce J Amstutz,Democratic,SPRINGFIELD,381
+Allen,Township Trustee,Carol Griffin,Democratic,ST JOE,10685
+Clay,Township Trustee,Carolyn Mullens,Democratic,LEWIS,319
+Clark,Township Trustee,Charles (Frank) Routh,Democratic,BETHLEHEM,85
+DeKalb,Township Trustee,Charlie Odier,Democratic,NEWVILLE,33
+Blackford,Township Trustee,Chris Holtzleiter,Democratic,LICKING,1513
+Dubois,Township Trustee,Clarence Reckelhoff,Democratic,MARION TWP,441
+Clark,Township Trustee,Dale Popp,Democratic,JEFFERSONVILLE,11185
+Clinton,Township Trustee,Darrin S Lafferty,Democratic,KIRKLIN,298
+Dubois,Township Trustee,DAVID M KEMPER,Democratic,FERDINAND TWP,1220
+Allen,Township Trustee,Denita Washington,Democratic,ADAMS,4808
+Bartholomew,Township Trustee,Dennis Brooks,Democratic,ROCKCREEK,229
+Carroll,Township Trustee,Emily A. Meek,Democratic,WASHINGTON,180
+DeKalb,Township Trustee,Emily Prosser,Democratic,UNION,1629
+Clark,Township Trustee,Eric Lawhorn,Democratic,CHARLESTOWN,1586
+Decatur,Township Trustee,GEORGE E CONNALL,Democratic,SALTCREEK,126
+Elkhart,Township Trustee,GREGORY M BURTSFIELD,Democratic,CLEVELAND,1057
+Allen,Township Trustee,Harold Kleine,Democratic,MARION,823
+Delaware,Township Trustee,IVAN D GREGORY JR,Democratic,MONROE,564
+Decatur,Township Trustee,JACOB MATTOX,Democratic,JACKSON,107
+Crawford,Township Trustee,JAMES "JIM" TAYLOR,Democratic,LIBERTY,288
+Clay,Township Trustee,James (Jim) Smith,Democratic,POSEY,1003
+Dubois,Township Trustee,James K Meyer,Democratic,CASS TWP,570
+Clay,Township Trustee,Janice S Cox,Democratic,DICK JOHNSON,115
+Elkhart,Township Trustee,JEREMY J EVERETT  ,Democratic,CONCORD,5336
+Clark,Township Trustee,Joann Sullivan,Democratic,WOOD,438
+Crawford,Township Trustee,John "Geff" Procter,Democratic,UNION,152
+Crawford,Township Trustee,JOHN EARL LAHUE,Democratic,JENNINGS,271
+Clinton,Township Trustee,John L Bonecutter,Democratic,SUGAR CREEK,123
+Blackford,Township Trustee,Judith M. (Judy) Morris,Democratic,JACKSON,271
+DeKalb,Township Trustee,Judy Shippy Hart,Democratic,RICHLAND,223
+Allen,Township Trustee,Julie Nolan,Democratic,JEFFERSON,266
+Dubois,Township Trustee,Ken Buck,Democratic,BAINBRIDGE TWP,4714
+Cass,Township Trustee,Kim Tocco,Democratic,Jackson,538
+Clinton,Township Trustee,Larry L Laughner,Democratic,UNION,245
+DeKalb,Township Trustee,Leon Hicks,Democratic,KEYSER,652
+Clay,Township Trustee,Lisa Kellar,Democratic,BRAZIL,958
+Dearborn,Township Trustee,Lonnie G Walcott ,Democratic,LAWRENCEBURG TOWNSHIPS,1875
+Delaware,Township Trustee,MARILYN ("KAY") WALKER,Democratic,CENTER,10558
+Bartholomew,Township Trustee,Mark S. Romine,Democratic,CLIFTY,270
+Clark,Township Trustee,Martha (Bruner) Whetsell,Democratic,UTICA,1530
+Allen,Township Trustee,Max J Meyer,Democratic,MONROE,468
+Allen,Township Trustee,Melissa Rinehart,Democratic,PERRY,4812
+Clinton,Township Trustee,Michael E Boesch,Democratic,MADISON,363
+Cass,Township Trustee,Michael E. (Mike) Fincher,Democratic,Eel,2036
+Dearborn,Township Trustee,Nancy Fahey Turner,Democratic,CENTER TOWNSHIPS,849
+Adams,Township Trustee,NATHAN  MIHM,Democratic,UNION TWP,281
+Brown,Township Trustee,Paul D. Hardin,Democratic,WASHINGTON,1125
+Clinton,Township Trustee,Phillip Andrew,Democratic,ROSS,369
+Allen,Township Trustee,Richard A Stevenson Sr ,Democratic,WAYNE,19447
+Clark,Township Trustee,Rick Cannon,Democratic,CARR,659
+Clay,Township Trustee,Robert Dodson,Democratic,CASS,63
+Adams,Township Trustee,ROBERT W REEF,Democratic,JEFFERSON TWP,96
+Daviess,Township Trustee,RON CRITCHLOW,Democratic,WASHINGTON,1040
+Adams,Township Trustee,RUSSELL E COOK,Democratic,ST MARYS TWP,351
+Crawford,Township Trustee,RUSSELL NEWKIRK,Democratic,STERLING,396
+Elkhart,Township Trustee,STEPHEN M SALISBURY,Democratic,MIDDLEBURY,435
+Adams,Township Trustee,STEVEN L (Steve) AFFOLDER,Democratic,FRENCH TWP,226
+Brown,Township Trustee,Susan W. Showalter,Democratic,VAN BUREN,247
+Elkhart,Township Trustee,SUSIE MEEKS-WADE,Democratic,WASHINGTON,674
+DeKalb,Township Trustee,Suzanne Davis,Democratic,JACKSON,308
+Dubois,Township Trustee,Sylvester L Voegerl,Democratic,JACKSON TWP,728
+Crawford,Township Trustee,TERRY L STROUD,Democratic,WHISKEY RUN,534
+Delaware,Township Trustee,TOMMY D CRAWFORD,Democratic,SALEM,623
+Clark,Township Trustee,William L (Billy) Ramser,Democratic,SILVER CREEK,2603
+Dubois,Township Trustee,Jeff Summers,Independent,PATOKA TWP,487
+Dearborn,Township Trustee,Sherman Hughes ,Independent,CAESAR CREEK TOWNSHIP,106
+Allen,Township Trustee,Steven A Kammeyer,Independent,MAUMEE,275
+Bartholomew,Township Trustee,Brent N. Land,Libertarian,WAYNE,214
+Benton,Township Trustee,ALISA K. NOBLE,Republican,OAK GROVE,470
+Clay,Township Trustee,Amy A Griffith,Republican,SUGAR RIDGE,330
+Clinton,Township Trustee,Andrea Huber,Republican,MADISON,399
+Benton,Township Trustee,ANGELA A. BRUNTON,Republican,CENTER,764
+DeKalb,Township Trustee,Audra Wilcoxson,Republican,JACKSON,1068
+Clark,Township Trustee,Barbara Ann Reynolds,Republican,CARR,1448
+Allen,Township Trustee,Barry L Steinman,Republican,JACKSON,182
+Bartholomew,Township Trustee,Ben Jackson,Republican,COLUMBUS,11575
+Benton,Township Trustee,BERNICE A. GILBERT,Republican,UNION,80
+Elkhart,Township Trustee,BEUFORD H LEE,Republican,WASHINGTON,1553
+Cass,Township Trustee,Bob Pifer,Republican,Boone,464
+Benton,Township Trustee,BOSTON L. PRITCHETT ( BUTCH),Republican,BOLIVAR,317
+Elkhart,Township Trustee,BRAD S SHOWALTER,Republican,BENTON,753
+Brown,Township Trustee,Brandon Edens Magner,Republican,WASHINGTON,1417
+Bartholomew,Township Trustee,Brenda K. Mijares,Republican,WAYNE,908
+Decatur,Township Trustee,BRENDA M SHIREMAN,Republican,JACKSON,293
+Clinton,Township Trustee,Brenda Robertson,Republican,FOREST,237
+Delaware,Township Trustee,BRIAN DUDLEY,Republican,LIBERTY,1517
+Allen,Township Trustee,Brian Yoh,Republican,ADAMS,4446
+Clark,Township Trustee,Brittany G Jones-Kinder,Republican,OWEN,268
+Bartholomew,Township Trustee,Bruce F. Bartells,Republican,JACKSON,297
+DeKalb,Township Trustee,Carl L Casebere,Republican,STAFFORD,103
+Cass,Township Trustee,Catherine (Cathy) Cree,Republican,Harrison,298
+Allen,Township Trustee,Chad A MacDowell,Republican,MILAN,810
+Boone,Township Trustee,CHAD JOHNSON,Republican,Clinton,323
+Delaware,Township Trustee,CHARLES ("CHUCK") PAUL Sr.,Republican,HARRISON,1190
+Clay,Township Trustee,Charles J (Jeff) Thompson,Republican,VAN BUREN,1007
+Decatur,Township Trustee,CHARLIE BILL CONNALL,Republican,"ADAMS,ST. PAUL",536
+DeKalb,Township Trustee,Cheri A Bushee,Republican,SPENCER,395
+Bartholomew,Township Trustee,Chris West,Republican,GERMAN,1320
+Decatur,Township Trustee,CHRISTIAN A.B. RUST,Republican,"GREENSBURG 1,GREENSBURG 2,GREENSBURG 3,GREENSBURG 4,GREENSBURG 5,GREENSBURG 6,GREENSBURG 7,GREENSBURG 8,WASHINGTON",3440
+Elkhart,Township Trustee,CHRISTINE J ARTLEY,Republican,YORK,906
+Elkhart,Township Trustee,CHUCK CHEEK,Republican,ELKHART,6837
+Adams,Township Trustee,COREY L AFFOLDER,Republican,WASHINGTON TWP,2210
+Clinton,Township Trustee,Cory Klinedinst,Republican,OWEN,275
+DeKalb,Township Trustee,Craig Bassett,Republican,UNION,2929
+Decatur,Township Trustee,DAN WENNING,Republican,"SANDCREEK NORTH,SANDCREEK SOUTH,WESTPORT",879
+Boone,Township Trustee,DANNY MITCHELL,Republican,Jackson,880
+Adams,Township Trustee,DARREL EHLERDING,Republican,PREBLE TWP,435
+Bartholomew,Township Trustee,David Dwyer,Republican,HARRISON,1412
+Dearborn,Township Trustee,David J Wunderlich,Republican,WASHINGTON TOWNSHIP,404
+Decatur,Township Trustee,DAVID R ISRAEL,Republican,CLAY,375
+Carroll,Township Trustee,Dean Gangwer,Republican,DEMOCRAT,317
+Clay,Township Trustee,DeAnna L Steiner,Republican,WASHINGTON,295
+Boone,Township Trustee,DEBBIE MARTIN,Republican,Washington,532
+Carroll,Township Trustee,Deborah (Deb) L Foreman,Republican,JACKSON,399
+Dearborn,Township Trustee,Denise (Cottingham) Bowling ,Republican,HARRISON TOWNSHIPS,1059
+Delaware,Township Trustee,DENISE THORNBURG,Republican,DELAWARE,1075
+Delaware,Township Trustee,DEWAYNE RICHMOND,Republican,CENTER,6601
+DeKalb,Township Trustee,Diana L Miller,Republican,SMITHFIELD,520
+Cass,Township Trustee,Diann A. Sedam,Republican,Noble,569
+DeKalb,Township Trustee,Donald F Gengnagel,Republican,NEWVILLE,160
+Dubois,Township Trustee,Donald J. Astrike,Republican,PATOKA TWP,1616
+Carroll,Township Trustee,Donald L. Leisure,Republican,ROCK CREEK,107
+Carroll,Township Trustee,Doris McLeland,Republican,DEER CREEK,1259
+Carroll,Township Trustee,Dwaine K. Ward,Republican,MADISON,155
+Decatur,Township Trustee,ELIZABETH A FRY,Republican,MARION,549
+Crawford,Township Trustee,ENOS E SCHWARTZ,Republican,JOHNSON,102
+Allen,Township Trustee,Eric (ET) Tippmann,Republican,PERRY,9420
+Allen,Township Trustee,Erik S Linnemeier,Republican,LAKE,898
+Clinton,Township Trustee,Fran Reagan,Republican,JACKSON,403
+Decatur,Township Trustee,FRED A KRIEGER,Republican,SALTCREEK,376
+Adams,Township Trustee,FRED J KUNKEL,Republican,ROOT TWP,2120
+Bartholomew,Township Trustee,Gary W. Jaquess,Republican,ROCKCREEK,364
+Adams,Township Trustee,GERALD M "Jerry" WALKER,Republican,MONROE TWP,1077
+Clark,Township Trustee,Greg Alexander,Republican,UNION,1152
+Dearborn,Township Trustee,Greggory Callahan,Republican,YORK TOWNSHIP,425
+DeKalb,Township Trustee,Heather L Bledsoe,Republican,WILMINGTON,785
+Clark,Township Trustee,Irene (Renie) Coffman,Republican,WOOD,680
+Clinton,Township Trustee,James (Jim) A Harris,Republican,ROSS,582
+Elkhart,Township Trustee,JAMES (JIM) WELDY,Republican,JEFFERSON,2892
+Clark,Township Trustee,James Allen Bottorff,Republican,MONROE,1792
+Boone,Township Trustee,JAMES D (Jim) BALDWIN,Republican,Worth,1174
+Decatur,Township Trustee,JAMES GEIS,Republican,FUGIT,730
+Carroll,Township Trustee,Jamie Musall,Republican,ADAMS,162
+Allen,Township Trustee,Jane Linker,Republican,MADISON,569
+Adams,Township Trustee,JEANENE K NEUENSCHWANDER,Republican,WABASH TWP,1626
+Clinton,Township Trustee,Jeffrey C Sigler,Republican,WASHINGTON,323
+Cass,Township Trustee,Jennifer M. Nies,Republican,Clay,946
+DeKalb,Township Trustee,Jerry D Staller,Republican,BUTLER,543
+Dearborn,Township Trustee,Jerry R Caldwell,Republican,CLAY TOWNSHIPS,738
+Dearborn,Township Trustee,Jim Maune ,Republican,JACKSON 1,579
+Elkhart,Township Trustee,JIM WEEBER,Republican,CONCORD,6829
+Daviess,Township Trustee,Joan Harker,Republican,REEVE,219
+Bartholomew,Township Trustee,John A. McDonald,Republican,CLAY,930
+Allen,Township Trustee,John D Henry,Republican,PLEASANT,938
+Clark,Township Trustee,John Durbin,Republican,UTICA,1705
+Boone,Township Trustee,JOHN MERSON,Republican,Jefferson,552
+Carroll,Township Trustee,John R. O'Rourke,Republican,CARROLLTON,223
+Cass,Township Trustee,Joseph W. Pear,Republican,Miami,454
+Daviess,Township Trustee,Joshua M. Dove,Republican,ELMORE,304
+Daviess,Township Trustee,Karen McBride,Republican,STEELE,301
+Elkhart,Township Trustee,KATHERINE A WEAVER,Republican,BAUGO,2191
+Carroll,Township Trustee,Kathy A. Justice,Republican,LIBERTY,157
+Elkhart,Township Trustee,KATHY J GORDON,Republican,CLEVELAND,2141
+Dearborn,Township Trustee,Katrina L. McIntosh,Republican,SPARTA TOWNSHIPS,738
+Elkhart,Township Trustee,KENNETH A MILLER,Republican,UNION,1446
+Adams,Township Trustee,KERRY L STEINER,Republican,HARTFORD TWP,269
+Elkhart,Township Trustee,KERRY YAW,Republican,HARRISON,815
+Clay,Township Trustee,Kevin Barrett,Republican,PERRY,355
+Clinton,Township Trustee,Kevin Evans,Republican,CENTER,2866
+Blackford,Township Trustee,Kim Twibell Batten,Republican,HARRISON,597
+Daviess,Township Trustee,Kimberly A. Armes,Republican,HARRISON,236
+Crawford,Township Trustee,KYLE O WISEMAN,Republican,OHIO,183
+Dubois,Township Trustee,Larry  Gene Hall,Republican,COLUMBIA TWP,324
+Dearborn,Township Trustee,Laura N Ankenman,Republican,MANCHESTER TOWNSHIP,1090
+Benton,Township Trustee,LEONA "KATIE" BUTTS,Republican,HICKORY GROVE,72
+Delaware,Township Trustee,LEONARD REESE,Republican,MONROE,1045
+Adams,Township Trustee,LESLIE REILLY-GREEN,Republican,KIRKLAND TWP,369
+Elkhart,Township Trustee,LINDA A HARTZELL,Republican,OLIVE,1012
+Delaware,Township Trustee,LISA GARRISON,Republican,WASHINGTON,566
+Bartholomew,Township Trustee,Lisa Moore,Republican,FLATROCK,534
+Elkhart,Township Trustee,LISA O'LENA,Republican,OSOLO,5921
+Boone,Township Trustee,LORA L THOMPSON,Republican,Sugar Creek,654
+Allen,Township Trustee,Lynn E Rorick ,Republican,JEFFERSON,642
+Crawford,Township Trustee,MAE B PARR,Republican,BOONE,46
+Cass,Township Trustee,Marcia A. Harness,Republican,Tipton,770
+Carroll,Township Trustee,Marcia Jura,Republican,TIPPECANOE,715
+Cass,Township Trustee,Margaret Hubenthal,Republican,Bethlehem,234
+Daviess,Township Trustee,Maria C. Killion,Republican,VEALE,480
+DeKalb,Township Trustee,Mark  Jennings,Republican,TROY,99
+Dubois,Township Trustee,Mark A Kieffner,Republican,BOONE TWP,344
+Cass,Township Trustee,Mark Cotner,Republican,Jefferson,423
+Cass,Township Trustee,Mark Strong,Republican,Eel,2061
+Carroll,Township Trustee,Marla R Milazzo,Republican,CLAY,319
+Allen,Township Trustee,Marty Dager,Republican,SCIPIO,163
+Dubois,Township Trustee,Marvin Gene Eisenhut,Republican,HARBISON TWP,523
+DeKalb,Township Trustee,Mary Dangler,Republican,GRANT,767
+Clay,Township Trustee,Mendy Litz,Republican,JACKSON,1104
+DeKalb,Township Trustee,MICHAEL J LILLY,Republican,KEYSER,1266
+Allen,Township Trustee,Michael Meyers,Republican,ABOITE,13251
+Daviess,Township Trustee,Michelle R. Guy,Republican,WASHINGTON,3504
+Daviess,Township Trustee,Mike Burch,Republican,MADISON,824
+Cass,Township Trustee,Mike Deitrich,Republican,Clinton,188
+Dearborn,Township Trustee,Mike Merrill ,Republican,HOGAN TOWNSHIP,341
+Boone,Township Trustee,MIKE MORGAN,Republican,Marion,455
+Adams,Township Trustee,MONICA SCHAEFER,Republican,BLUE CREEK TWP,164
+Dearborn,Township Trustee,Myrtle M White ,Republican,LOGAN TOWNSHIPS,1300
+Clinton,Township Trustee,Nick K Bales,Republican,MICHIGAN,500
+Benton,Township Trustee,PAM MOLTER,Republican,YORK,65
+DeKalb,Township Trustee,Pamela Sebert,Republican,RICHLAND,261
+Delaware,Township Trustee,PATRICIA (TRISH) CARROLL,Republican,SALEM,1001
+Dearborn,Township Trustee,Patricia Little,Republican,MILLER TOWNSHIPS,3396
+Crawford,Township Trustee,PATRICIA P. RAMSEY,Republican,JENNINGS,312
+Elkhart,Township Trustee,PEGGY HUNSBERGER,Republican,LOCKE,648
+Delaware,Township Trustee,PEGGY L EVANS,Republican,NILES,463
+Brown,Township Trustee,Phil Stephens,Republican,HAMBLEN,1463
+Delaware,Township Trustee,R BOBBY ADAMS,Republican,PERRY,550
+Crawford,Township Trustee,RALPH D SHERRON,Republican,LIBERTY,426
+Delaware,Township Trustee,RALPH FLOWERS,Republican,HAMILTON,2530
+Boone,Township Trustee,RANDY LARGE,Republican,Center,4857
+Benton,Township Trustee,RENE ADWELL,Republican,PINE,113
+Carroll,Township Trustee,Rita Millhouse,Republican,JEFFERSON,778
+Bartholomew,Township Trustee,Rob Simpson,Republican,OHIO,651
+Daviess,Township Trustee,Robert D. Showalter,Republican,BARR,967
+Allen,Township Trustee,Robert E Arnold,Republican,WASHINGTON,8511
+Clay,Township Trustee,Robert M (Mike) Fowler Jr,Republican,HARRISON,743
+Bartholomew,Township Trustee,Ronald D. Hatton,Republican,HAWCREEK,991
+Decatur,Township Trustee,RONNIE BRUNER,Republican,CLINTON,179
+Elkhart,Township Trustee,RUTH A EASH,Republican,MIDDLEBURY,1780
+DeKalb,Township Trustee,Sandra (Sandy) M Harrison,Republican,FRANKLIN,346
+Brown,Township Trustee,Sandra K. Higgins,Republican,JACKSON,1452
+Bartholomew,Township Trustee,Sandy Bayles,Republican,SANDCREEK,704
+Carroll,Township Trustee,Sarah E. Hanaway,Republican,MONROE,803
+Allen,Township Trustee,Sarah Gnagy,Republican,ST JOE,16062
+Dubois,Township Trustee,Scott A. Blazey,Republican,MADISON TWP,935
+Cass,Township Trustee,Scott Albaugh,Republican,Washington,387
+Clinton,Township Trustee,Scott Kimmel,Republican,PERRY,412
+Cass,Township Trustee,Scott M. Rudicel,Republican,Adams,285
+Allen,Township Trustee,Selma Hough,Republican,EEL RIVER,1403
+DeKalb,Township Trustee,Sicily L Wappes,Republican,FAIRFIELD,467
+DeKalb,Township Trustee,Stacey L Crowl,Republican,CONCORD,381
+Cass,Township Trustee,Stephany R. Prather,Republican,Deer Creek,293
+Clark,Township Trustee,Steve Gill,Republican,JEFFERSONVILLE,8800
+Allen,Township Trustee,Steven P Herman,Republican,CEDAR CREEK,4550
+Cass,Township Trustee,Sunny Saylor Gordon,Republican,Jackson,520
+Daviess,Township Trustee,Teresa K. Huff,Republican,VAN BUREN,207
+Clay,Township Trustee,Terry L Castor,Republican,DICK JOHNSON,419
+Clark,Township Trustee,Thomas (Tank) Harris III,Republican,SILVER CREEK,2533
+Clay,Township Trustee,Thomas J (TJ) Sneddon,Republican,BRAZIL,1221
+Clark,Township Trustee,Todd Webb,Republican,WASHINGTON,571
+Clark,Township Trustee,Tom Kendrick,Republican,CHARLESTOWN,3710
+Elkhart,Township Trustee,TOM LANTZ,Republican,JACKSON,1379
+Clinton,Township Trustee,Tom Marshall,Republican,JOHNSON,109
+Elkhart,Township Trustee,TONI MILLER,Republican,CLINTON,586
+Benton,Township Trustee,TRACY A. LANG,Republican,GRANT,312
+Allen,Township Trustee,Vicki L Thompson,Republican,MAUMEE,536
+Brown,Township Trustee,Vicki Payne,Republican,VAN BUREN,618
+Delaware,Township Trustee,VICKIE E WALBURN,Republican,UNION,549
+Allen,Township Trustee,William E (Bill) Harris,Republican,SPRINGFIELD,683
+Elkhart,Township Board Member,AARON K MISHLER,Democratic,OSOLO,2754
+Allen,Township Board Member,Abbie Fuelling,Democratic,PERRY,3768
+Carroll,Township Board Member,Adam Butcher,Democratic,CARROLLTON,185
+Allen,Township Board Member,Alan R Gilbert,Democratic,ABOITE,5919
+Dubois,Township Board Member,Albert  Dilger,Democratic,FERDINAND TWP,1112
+Clay,Township Board Member,Alyssa Papinchock Lovett,Democratic,BRAZIL,703
+Elkhart,Township Board Member,ANDREW (ANDY) WILLIAMS,Democratic,CLEVELAND,910
+Clark,Township Board Member,Angela Cornett,Democratic,CHARLESTOWN,1558
+Decatur,Township Board Member,ANN M STAGGE,Democratic,CLAY,214
+Delaware,Township Board Member,ANNE MARIE COPELAND,Democratic,HAMILTON,1297
+Allen,Township Board Member,Anthony (Tony) Henry,Democratic,WAYNE,13167
+Delaware,Township Board Member,ASHLEY WRIGHT,Democratic,MONROE,646
+Allen,Township Board Member,Austin Barron,Democratic,LAKE,243
+Blackford,Township Board Member,Betty Jo Armstrong,Democratic,JACKSON,221
+Crawford,Township Board Member,BEVERLY  OXLEY,Democratic,PATOKA,234
+Crawford,Township Board Member,BEVERLY ARCHIBALD,Democratic,STERLING,283
+Bartholomew,Township Board Member,Bob Hyatt,Democratic,HARRISON,511
+Clark,Township Board Member,Brandy Brewer,Democratic,JEFFERSONVILLE,7011
+Clay,Township Board Member,Brandy Pierce,Democratic,BRAZIL,763
+Allen,Township Board Member,Bruce Norman Stier,Democratic,WAYNE,11143
+Clinton,Township Board Member,C David Little,Democratic,UNION,198
+Elkhart,Township Board Member,CHAD M CRABTREE,Democratic,CONCORD,4702
+Dubois,Township Board Member,Charlene L. Atkins,Democratic,JEFFERSON TWP,264
+Elkhart,Township Board Member,CHARLES D MUMAW,Democratic,ELKHART,3981
+Crawford,Township Board Member,CHARLES T PARKS,Democratic,WHISKEY RUN,216
+Clark,Township Board Member,Chastity L Glowaski,Democratic,CARR,501
+Delaware,Township Board Member,CHERYL WESLEY,Democratic,HARRISON,722
+Delaware,Township Board Member,CHRIS MCCAMMON,Democratic,MONROE,450
+Carroll,Township Board Member,Christopher J. Dyke,Democratic,WASHINGTON,148
+Delaware,Township Board Member,CONNIE RENEA SMITH,Democratic,SALEM,552
+Clinton,Township Board Member,Craig B Michael,Democratic,OWEN,145
+Dubois,Township Board Member,Dan Oeding,Democratic,JACKSON TWP,584
+Crawford,Township Board Member,DANIEL D HOUSE,Democratic,LIBERTY,318
+Dearborn,Township Board Member,"Darry Hutcherson, Sr",Democratic,LAWRENCEBURG TOWNSHIPS,1124
+Crawford,Township Board Member,DARWIN GROVES,Democratic,UNION,71
+Crawford,Township Board Member,DAVID A SCHOTTER,Democratic,JENNINGS,209
+Dearborn,Township Board Member,David A Todd,Democratic,MANCHESTER TOWNSHIP,291
+Daviess,Township Board Member,DAVID D NEIDIGH,Democratic,ELMORE,160
+Dubois,Township Board Member,David J Spellmeyer,Democratic,BAINBRIDGE TWP,3273
+Bartholomew,Township Board Member,David R. Skinner,Democratic,SANDCREEK,296
+DeKalb,Township Board Member,David S Albright,Democratic,RICHLAND,302
+Crawford,Township Board Member,DAVID W BULLINGTON,Democratic,LIBERTY,295
+Clay,Township Board Member,Dawn M Bemis,Democratic,VAN BUREN,346
+Blackford,Township Board Member,Denise Hile,Democratic,JACKSON,179
+Decatur,Township Board Member,DENNIS COX,Democratic,"SANDCREEK NORTH,SANDCREEK SOUTH,WESTPORT",616
+Bartholomew,Township Board Member,Dennis Tibbetts,Democratic,WAYNE,520
+Allen,Township Board Member,Denny Burden,Democratic,WASHINGTON,3303
+Decatur,Township Board Member,DONALD T WILMER,Democratic,MARION,170
+Clark,Township Board Member,Donna S Hurst,Democratic,WOOD,353
+Clark,Township Board Member,Elysia M Fisher,Democratic,CHARLESTOWN,1239
+Clark,Township Board Member,Eric Schnatter,Democratic,BETHLEHEM,40
+Elkhart,Township Board Member,ERIN HIPSHER,Democratic,WASHINGTON,691
+Dubois,Township Board Member,Eugene A. Bachman,Democratic,MARION TWP,329
+Bartholomew,Township Board Member,F. Norma Carson,Democratic,ROCKCREEK,209
+Clark,Township Board Member,Farrah Alexander,Democratic,SILVER CREEK,1616
+Dubois,Township Board Member,Francis Egler,Democratic,FERDINAND TWP,858
+Dubois,Township Board Member,Fred J. Lampert,Democratic,HALL TWP,391
+Bartholomew,Township Board Member,Georgia C. McCarty,Democratic,HAWCREEK,487
+Brown,Township Board Member,Gerald Joe Miller,Democratic,WASHINGTON,1325
+Dearborn,Township Board Member,Gerald Vornheder,Democratic,MANCHESTER TOWNSHIP,243
+Clay,Township Board Member,Glen Brown,Democratic,POSEY,466
+Blackford,Township Board Member,Gloria J. Mahan,Democratic,LICKING,1079
+Dubois,Township Board Member,Gregory K Welp,Democratic,JACKSON TWP,573
+Decatur,Township Board Member,GRETCHEN  STONE,Democratic,MARION,283
+Clark,Township Board Member,Holly Cannon,Democratic,CARR,639
+Clark,Township Board Member,Jacky Snelling,Democratic,UTICA,1568
+Blackford,Township Board Member,Jacob Holsten,Democratic,LICKING,1085
+Allen,Township Board Member,Jacqueline Keating,Democratic,WASHINGTON,4247
+Crawford,Township Board Member,JAMES "JIM" W ELLIOTT,Democratic,UNION,80
+Dubois,Township Board Member,James A Schroeder,Democratic,BAINBRIDGE TWP,3492
+Elkhart,Township Board Member,JAMES H (JAY) LITTLE,Democratic,CONCORD,4395
+Dubois,Township Board Member,James K. Hasenour,Democratic,MARION TWP,332
+Bartholomew,Township Board Member,James Mahoney,Democratic,GERMAN,723
+Blackford,Township Board Member,JAMES R THURMAN,Democratic,WASHINGTON,161
+Clinton,Township Board Member,James R Unger,Democratic,OWEN,140
+Allen,Township Board Member,Jamie Teller,Democratic,PERRY,3301
+Allen,Township Board Member,Jan Palmer,Democratic,MAUMEE,229
+Clark,Township Board Member,Jana Meyer,Democratic,SILVER CREEK,2043
+Crawford,Township Board Member,JANET L LEONARD,Democratic,PATOKA,250
+Clark,Township Board Member,Janet M Flaugh,Democratic,UNION,372
+Carroll,Township Board Member,Janie Smith,Democratic,DEER CREEK,949
+Clark,Township Board Member,Jason Joe Shemanski,Democratic,WOOD,447
+Bartholomew,Township Board Member,Jeff Schroer,Democratic,CLAY,528
+Carroll,Township Board Member,Jeff Sieber,Democratic,JACKSON,186
+Dubois,Township Board Member,Jeffrey  Betz,Democratic,HALL TWP,332
+Clay,Township Board Member,Jenni Mesanovic,Democratic,POSEY,383
+Delaware,Township Board Member,JENNIFER L HATHAWAY,Democratic,MONROE,514
+Clark,Township Board Member,Jenny Hostetler,Democratic,OREGON,270
+Dearborn,Township Board Member,Jerald L. Grace ,Democratic,CAESAR CREEK TOWNSHIP,72
+Clark,Township Board Member,Jerry R Dickey,Democratic,BETHLEHEM,47
+Crawford,Township Board Member,JERRY W BROWN Jr.,Democratic,WHISKEY RUN,318
+Allen,Township Board Member,Jessica Hannie,Democratic,ST JOE,8532
+Dearborn,Township Board Member,Jill W. Pruss ,Democratic,CAESAR CREEK TOWNSHIP,69
+Decatur,Township Board Member,JIM J KOORS,Democratic,MARION,249
+Bartholomew,Township Board Member,Joe Hoene,Democratic,JACKSON,153
+Clark,Township Board Member,Joe Hubbard,Democratic,UNION,447
+Dearborn,Township Board Member,John Johnson,Democratic,LAWRENCEBURG TOWNSHIPS,956
+Clinton,Township Board Member,John T Meyer,Democratic,MADISON,285
+Clinton,Township Board Member,John W Grice,Democratic,KIRKLIN,197
+Carroll,Township Board Member,Joseph Mylet,Democratic,WASHINGTON,150
+Cass,Township Board Member,Julie M. Morris,Democratic,Eel,1630
+Clay,Township Board Member,Karen E Stearley,Democratic,SUGAR RIDGE,159
+Bartholomew,Township Board Member,Kari G. Tyree,Democratic,GERMAN,490
+Dearborn,Township Board Member,KAYLEE A MCDONALD  ,Democratic,CENTER TOWNSHIPS,411
+Clark,Township Board Member,Kelly Zullo,Democratic,UTICA,1072
+Dubois,Township Board Member,Kenneth L Hulsman,Democratic,BAINBRIDGE TWP,3783
+Brown,Township Board Member,Kevin G. Fleming,Democratic,VAN BUREN,261
+Bartholomew,Township Board Member,Kim A. Miller,Democratic,HAWCREEK,485
+Elkhart,Township Board Member,LaRITA K ROBINSON,Democratic,OSOLO,2376
+Brown,Township Board Member,Larry (Levi) E. Voils III ,Democratic,HAMBLEN,658
+Clark,Township Board Member,Larry Graebe,Democratic,OWEN,99
+Clark,Township Board Member,Larry Harbin,Democratic,OWEN,133
+Dubois,Township Board Member,Larry J. Ferguson,Democratic,PATOKA TWP,1085
+Crawford,Township Board Member,LEANN BERTRAM,Democratic,STERLING,173
+Dubois,Township Board Member,Lee  Bilderback,Democratic,CASS TWP,515
+Dearborn,Township Board Member,Leo Martini,Democratic,YORK TOWNSHIP,292
+Delaware,Township Board Member,LESIA MEER,Democratic,CENTER,7743
+Clinton,Township Board Member,Lewis B Flohr III,Democratic,OWEN,157
+Clinton,Township Board Member,Linda Harris,Democratic,KIRKLIN,179
+Carroll,Township Board Member,Linda L. Huffer,Democratic,BURLINGTON,225
+DeKalb,Township Board Member,Lisa G Gerardot,Democratic,FRANKLIN,179
+Dubois,Township Board Member,Lisa Matthews,Democratic,CASS TWP,467
+Crawford,Township Board Member,LISA NEWKIRK RIDDELL,Democratic,STERLING,240
+Dubois,Township Board Member,Lisa Striegel,Democratic,JEFFERSON TWP,282
+Clark,Township Board Member,Logan M Johnson,Democratic,CHARLESTOWN,1316
+Delaware,Township Board Member,LORA A JONES,Democratic,LIBERTY,926
+Clay,Township Board Member,Loren B Holdaway,Democratic,LEWIS,194
+Allen,Township Board Member,Loren R Grabner,Democratic,MONROE,366
+Allen,Township Board Member,Lori Black,Democratic,ST JOE,9405
+Crawford,Township Board Member,LUCY D VELTMAN,Democratic,JENNINGS,144
+Dearborn,Township Board Member,Marilyn Bower ,Democratic,KELSO TOWNSHIPS,456
+Clinton,Township Board Member,Mark A Newhart,Democratic,WASHINGTON,111
+Daviess,Township Board Member,MARY ANN KENSEK,Democratic,STEELE,137
+Allen,Township Board Member,Mary Corinne Lowenstein,Democratic,LAKE,284
+Crawford,Township Board Member,MARY K MCLAIN,Democratic,PATOKA,367
+DeKalb,Township Board Member,MaryLou Hartman-Crowell,Democratic,FAIRFIELD,167
+Crawford,Township Board Member,MATTHEW C CHAPIN,Democratic,JENNINGS,123
+DeKalb,Township Board Member,Maygan Leco,Democratic,UNION,1376
+Blackford,Township Board Member,Michael Maddox,Democratic,HARRISON,387
+Brown,Township Board Member,Michael O'Connor,Democratic,VAN BUREN,250
+Dubois,Township Board Member,Michael R. Lindauer,Democratic,FERDINAND TWP,998
+Adams,Township Board Member,MIKE BUSSE,Democratic,KIRKLAND TWP,196
+Delaware,Township Board Member,MIKE MILLER,Democratic,CENTER,7545
+Elkhart,Township Board Member,MINDA CLEMENS,Democratic,ELKHART,4052
+Adams,Township Board Member,NORMAN L GLASS,Democratic,FRENCH TWP,109
+Elkhart,Township Board Member,OXANA WERBIANSKY,Democratic,CONCORD,4302
+Dearborn,Township Board Member,Patience Sheckels ,Democratic,CENTER TOWNSHIPS,320
+Allen,Township Board Member,Patricia (Pat) Turner,Democratic,WAYNE,13618
+Clark,Township Board Member,Patricia Stricker,Democratic,OREGON,217
+Dearborn,Township Board Member,Patrick Davies ,Democratic,CAESAR CREEK TOWNSHIP,61
+Dubois,Township Board Member,Patrick Lichlyter ,Democratic,MADISON TWP,887
+Bartholomew,Township Board Member,Paul A. Newkirk,Democratic,JACKSON,135
+Daviess,Township Board Member,PAUL V STEINER,Democratic,BARR,456
+Brown,Township Board Member,Paula Hardin Maggard,Democratic,WASHINGTON,1023
+Clark,Township Board Member,Phil Ellis,Democratic,JEFFERSONVILLE,6920
+Delaware,Township Board Member,PHYLLIS A LUTTON,Democratic,WASHINGTON,346
+Clark,Township Board Member,R. Kelly Hostetler,Democratic,WASHINGTON,247
+Dubois,Township Board Member,Randy L. Lueken,Democratic,MARION TWP,371
+Allen,Township Board Member,Rebecca S Miller,Democratic,ST JOE,8950
+Adams,Township Board Member,RENE BROWN,Democratic,KIRKLAND TWP,200
+Adams,Township Board Member,REX A MIHM,Democratic,UNION TWP,194
+Crawford,Township Board Member,RICKI L HAWKINS,Democratic,LIBERTY,240
+Boone,Township Board Member,RITA COFFMAN,Democratic,Washington,129
+Cass,Township Board Member,Rob McMinn,Democratic,Eel,1512
+Dubois,Township Board Member,Robert  Welp,Democratic,JACKSON TWP,518
+Allen,Township Board Member,Robert W Behr,Democratic,ABOITE,5712
+Bartholomew,Township Board Member,Roger Williams,Democratic,SANDCREEK,241
+Dubois,Township Board Member,Roland Terwiske,Democratic,PATOKA TWP,976
+Clay,Township Board Member,Rose Thompson,Democratic,CASS,45
+Clay,Township Board Member,Ruth Miller,Democratic,PERRY,198
+Elkhart,Township Board Member,SANDI PONTIUS,Democratic,CLEVELAND,1045
+Carroll,Township Board Member,Sandra Brown,Democratic,ROCK CREEK,102
+Clark,Township Board Member,Shirley J Bell,Democratic,JEFFERSONVILLE,7703
+Clark,Township Board Member,Shirley J Hurst,Democratic,WOOD,373
+Crawford,Township Board Member,SONDRA JELLISON,Democratic,PATOKA,254
+Brown,Township Board Member,Stefanie Gore,Democratic,WASHINGTON,1264
+Allen,Township Board Member,Stephani Schultz,Democratic,PERRY,3652
+Bartholomew,Township Board Member,Stephen Whiteside,Democratic,ROCKCREEK,178
+Allen,Township Board Member,Steve (Skip) Howard,Democratic,MONROE,290
+Dubois,Township Board Member,Steve A Eckert,Democratic,CASS TWP,439
+Bartholomew,Township Board Member,Steve Audretch,Democratic,HARRISON,444
+Cass,Township Board Member,Steve Clary,Democratic,Eel,1962
+Adams,Township Board Member,SUSAN  (Suzy) J FUELLING,Democratic,ROOT TWP,1426
+Elkhart,Township Board Member,SUSAN J LANNING,Democratic,ELKHART,4008
+Delaware,Township Board Member,TAMMY L (SNEED) STAIMPEL,Democratic,SALEM,631
+Crawford,Township Board Member,TAMMY M JELLISON,Democratic,UNION,104
+Elkhart,Township Board Member,TANZIE NIELSEN,Democratic,OSOLO,2579
+Decatur,Township Board Member,TERRAH "ANNE" NUNLEY,Democratic,"GREENSBURG 1,GREENSBURG 2,GREENSBURG 3,GREENSBURG 4,GREENSBURG 5,GREENSBURG 6,GREENSBURG 7,GREENSBURG 8,WASHINGTON",1419
+Bartholomew,Township Board Member,Terry L. Sweasy,Democratic,ROCKCREEK,118
+Crawford,Township Board Member,TERRY LEE JONES,Democratic,WHISKEY RUN,313
+Carroll,Township Board Member,Theodore M. Enoch,Democratic,DEMOCRAT,222
+Blackford,Township Board Member,THOMAS (Tom) AULBACH,Democratic,WASHINGTON,190
+Clark,Township Board Member,Thomas B (Tom) Higdon,Democratic,MONROE,821
+Allen,Township Board Member,Thomas R Blauvelt ,Democratic,MONROE,355
+Allen,Township Board Member,Timothy E Barr,Democratic,WASHINGTON,3622
+Clay,Township Board Member,Tommy J Zurcher,Democratic,SUGAR RIDGE,167
+Dearborn,Township Board Member,Tristica Howard ,Democratic,CENTER TOWNSHIPS,388
+Clinton,Township Board Member,Troy Clark,Democratic,MADISON,300
+Delaware,Township Board Member,WILLIAM "Billy Mac" MCINTOSH Sr.,Democratic,CENTER,7460
+Brown,Township Board Member,William (Bill) Miller,Democratic,VAN BUREN,311
+Clark,Township Board Member,William E (Bill) Hostetler,Democratic,WASHINGTON,284
+Adams,Township Board Member,RICHARD ALAN FRAVEL,Independent,ROOT TWP,702
+Clark,Township Board Member,Kelley Curran,Libertarian,JEFFERSONVILLE,3244
+Carroll,Township Board Member,"Mac" Macolynn Gray,Republican,DEMOCRAT,252
+Cass,Township Board Member,Aaron Lee Sylvain,Republican,Adams,195
+Adams,Township Board Member,ABIGAIL (Abby)  M DYER,Republican,WASHINGTON TWP,1522
+Adams,Township Board Member,ALAN BAUMAN,Republican,WABASH TWP,1075
+Dubois,Township Board Member,Alan Small,Republican,MADISON TWP,757
+Crawford,Township Board Member,ALMA RILEY,Republican,JOHNSON,50
+Clinton,Township Board Member,Andrew Bailey,Republican,PERRY,286
+DeKalb,Township Board Member,Andrew Giegold,Republican,BUTLER,395
+Boone,Township Board Member,ANDREW HEFFNER,Republican,Worth,699
+Allen,Township Board Member,Andrew Kohrman,Republican,MARION,825
+Clinton,Township Board Member,ANDREW L DAVISON,Republican,WARREN,125
+Boone,Township Board Member,ANDREW WILHOITE,Republican,Clinton,234
+Decatur,Township Board Member,ANDY E HUNTER,Republican,"ADAMS,ST. PAUL",316
+Allen,Township Board Member,Ann Louden,Republican,JACKSON,115
+Carroll,Township Board Member,Anna (Annie) M. Crosser,Republican,JEFFERSON,633
+Clay,Township Board Member,Annette R Ream,Republican,SUGAR RIDGE,237
+Clark,Township Board Member,Anthony J Stewart,Republican,UTICA,1133
+Boone,Township Board Member,APRIL SHEPHERD,Republican,Washington,338
+Boone,Township Board Member,ARLAN JOHNSON,Republican,Harrison,169
+Clark,Township Board Member,Austin Wiggam,Republican,WASHINGTON,465
+Allen,Township Board Member,Barbara J Krisher,Republican,ABOITE,10393
+Dearborn,Township Board Member,Barbara L. Tibbs ,Republican,CENTER TOWNSHIPS,850
+Decatur,Township Board Member,BART P METZ,Republican,FUGIT,504
+Boone,Township Board Member,BARTON GRINSTEAD,Republican,Marion,341
+Elkhart,Township Board Member,BEN LEAVITT,Republican,UNION,1099
+Brown,Township Board Member,Ben Miller,Republican,VAN BUREN,553
+Brown,Township Board Member,Ben Phillips,Republican,VAN BUREN,500
+Crawford,Township Board Member,BENJAMIN BREEDEN,Republican,OHIO,120
+DeKalb,Township Board Member,Bert Hollman,Republican,SPENCER,298
+Delaware,Township Board Member,BETH HENRY,Republican,DELAWARE,771
+Carroll,Township Board Member,Bethany E. Zink,Republican,TIPPECANOE,589
+Carroll,Township Board Member,Bill Northcutt,Republican,BURLINGTON,523
+Cass,Township Board Member,Blake A. Guy,Republican,Jackson,650
+Boone,Township Board Member,BRAD SMITH,Republican,Clinton,217
+Decatur,Township Board Member,BRADLEY SCHEIDLER,Republican,"ADAMS,ST. PAUL",294
+Cass,Township Board Member,Brady Saylor,Republican,Miami,296
+Delaware,Township Board Member,BRENDA K LOGAN RAGLAND,Republican,HARRISON,616
+Allen,Township Board Member,Brenda L Heisler,Republican,WASHINGTON,5293
+Cass,Township Board Member,Brenda Rusk,Republican,Harrison,220
+Daviess,Township Board Member,Brent D. Baker,Republican,HARRISON,201
+Allen,Township Board Member,Brent R Hoffman,Republican,JEFFERSON,592
+Elkhart,Township Board Member,BRENT REED,Republican,UNION,991
+Cass,Township Board Member,Brent Thomas,Republican,Adams,197
+Decatur,Township Board Member,BRIAN C SCHWERING,Republican,CLINTON,133
+Allen,Township Board Member,Brian J Amstutz,Republican,SPRINGFIELD,725
+Elkhart,Township Board Member,BRIAN RAMER,Republican,HARRISON,585
+Cass,Township Board Member,Brian Shafer,Republican,Adams,234
+Adams,Township Board Member,BRICE E AMSTUTZ,Republican,MONROE TWP,898
+Elkhart,Township Board Member,BRUCE KORENSTRA,Republican,JACKSON,993
+DeKalb,Township Board Member,Bruce Laub,Republican,SPENCER,297
+Daviess,Township Board Member,Bryan E. Engleman,Republican,STEELE,235
+Clay,Township Board Member,Bryan Husband,Republican,LEWIS,347
+Cass,Township Board Member,Bryant M. Liming,Republican,Deer Creek,169
+Dearborn,Township Board Member,Carl Andry ,Republican,MILLER TOWNSHIPS,1781
+Decatur,Township Board Member,CARL GEIS,Republican,FUGIT,558
+Decatur,Township Board Member,CARL STIER,Republican,MARION,502
+Carroll,Township Board Member,Carol Richard Bordner,Republican,DEMOCRAT,282
+Elkhart,Township Board Member,CAROL W McDOWELL,Republican,OSOLO,4455
+Clark,Township Board Member,Carolyn M Hacker,Republican,CARR,1153
+Bartholomew,Township Board Member,Carolyn Massengale,Republican,OHIO,509
+Benton,Township Board Member,CECIL KREBS,Republican,OAK GROVE,383
+Allen,Township Board Member,Charles F Powell,Republican,PLEASANT,724
+Cass,Township Board Member,Charles P. Stephenson,Republican,Washington,322
+Delaware,Township Board Member,CHARLES W (BUD) CONWELL,Republican,PERRY,419
+Bartholomew,Township Board Member,Charlie Deweese,Republican,FLATROCK,328
+Allen,Township Board Member,Charlotte J Kaiser,Republican,MADISON,383
+Clark,Township Board Member,Chris Rountree,Republican,SILVER CREEK,2149
+Bartholomew,Township Board Member,Christi Bruer,Republican,FLATROCK,341
+Benton,Township Board Member,CHRISTINE M. SHEETZ,Republican,PINE,93
+Allen,Township Board Member,Christopher G Wolf,Republican,CEDAR CREEK,2647
+Adams,Township Board Member,CHRISTOPHER MOWERY,Republican,UNION TWP,215
+Clark,Township Board Member,Cindy Couch,Republican,SILVER CREEK,2545
+Brown,Township Board Member,Clara M. Becraft,Republican,VAN BUREN,495
+Clay,Township Board Member,Clark Ferguson,Republican,DICK JOHNSON,288
+Dearborn,Township Board Member,Connie M Cottingham,Republican,HARRISON TOWNSHIPS,732
+Cass,Township Board Member,Craig Kennell,Republican,Jefferson,383
+Dubois,Township Board Member,Cynthia Fehribach,Republican,PATOKA TWP,1408
+Daviess,Township Board Member,Cynthia Webster,Republican,VEALE,359
+Dubois,Township Board Member,Dalcus G Fuhrman,Republican,HARBISON TWP,438
+Clay,Township Board Member,Dale Loughmiller,Republican,DICK JOHNSON,366
+Allen,Township Board Member,Dan H Meyer,Republican,MILAN,503
+Carroll,Township Board Member,Dan LePage,Republican,MADISON,131
+Clark,Township Board Member,Dan Roberts,Republican,CHARLESTOWN,2161
+Bartholomew,Township Board Member,Dana Lynn Parks,Republican,HARRISON,875
+Allen,Township Board Member,Daniel Andorfer,Republican,WASHINGTON,5436
+Allen,Township Board Member,Daniel E Miller,Republican,SPRINGFIELD,543
+Clinton,Township Board Member,Daniel J Lahrman,Republican,MADISON,522
+DeKalb,Township Board Member,Darin W Yarian,Republican,FAIRFIELD,315
+DeKalb,Township Board Member,Darrell R King,Republican,SMITHFIELD,399
+Delaware,Township Board Member,DAVE HEINKEL,Republican,HAMILTON,1876
+Delaware,Township Board Member,DAVID (DOC) DAVIS,Republican,DELAWARE,701
+DeKalb,Township Board Member,David Capp,Republican,WILMINGTON,526
+Delaware,Township Board Member,DAVID HOLMES,Republican,MONROE,782
+Carroll,Township Board Member,David McCain,Republican,DEER CREEK,962
+Allen,Township Board Member,David R Krohn,Republican,MILAN,488
+Clark,Township Board Member,David Ray Abbott Jr.,Republican,CHARLESTOWN,2619
+Elkhart,Township Board Member,DAVID W GONGWER,Republican,OLIVE,730
+Adams,Township Board Member,DAWN R KREIGH,Republican,HARTFORD TWP,183
+Elkhart,Township Board Member,DEAN K MARTIN,Republican,YORK,568
+Elkhart,Township Board Member,DEAN R RINK,Republican,CLINTON,472
+DeKalb,Township Board Member,Dean Schrader,Republican,CONCORD,253
+Boone,Township Board Member,DEBBY "NEASE" SCERING,Republican,Center,2897
+DeKalb,Township Board Member,Debra (Debbie) K King,Republican,FRANKLIN,247
+Daviess,Township Board Member,Debra Baker,Republican,REEVE,173
+Blackford,Township Board Member,Debra J. Penrod,Republican,HARRISON,425
+Elkhart,Township Board Member,DEBRA JOHNSON,Republican,JEFFERSON,2119
+Benton,Township Board Member,DEBRA S. WETTSCHURACK,Republican,PINE,84
+Carroll,Township Board Member,Dee Humbarger,Republican,MADISON,135
+Adams,Township Board Member,DEE W TEEPLE,Republican,HARTFORD TWP,177
+Allen,Township Board Member,Delbert Thiele,Republican,PLEASANT,693
+Adams,Township Board Member,DENNIS A WERLING,Republican,PREBLE TWP,292
+Adams,Township Board Member,DENNIS CAFFEE,Republican,JEFFERSON TWP,119
+Decatur,Township Board Member,DENNIS D SHUPPERT,Republican,"ADAMS,ST. PAUL",322
+Decatur,Township Board Member,DENNIS E KINKER,Republican,SALTCREEK,426
+DeKalb,Township Board Member,Dennis R Taylor,Republican,SMITHFIELD,351
+Cass,Township Board Member,Dennis T. Crum,Republican,Deer Creek,208
+Crawford,Township Board Member,DENVER DALE SHELTON,Republican,BOONE,20
+Crawford,Township Board Member,DIANA MAIN,Republican,LIBERTY,320
+Adams,Township Board Member,DIANNA HERMAN,Republican,FRENCH TWP,229
+DeKalb,Township Board Member,Don Chaffin,Republican,KEYSER,1038
+Daviess,Township Board Member,Don Williams,Republican,WASHINGTON,2944
+Dubois,Township Board Member,Donald E Harison,Republican,COLUMBIA TWP,227
+Clark,Township Board Member,Donald Growe,Republican,JEFFERSONVILLE,5584
+Clark,Township Board Member,Doug Reiter,Republican,SILVER CREEK,2173
+Allen,Township Board Member,Doug Schenkel,Republican,ABOITE,9847
+Clay,Township Board Member,Douglas L Barr,Republican,JACKSON,833
+Cass,Township Board Member,Duane A. Stuart,Republican,Clinton,126
+Clay,Township Board Member,E E (Buz) Burgess,Republican,BRAZIL,1069
+DeKalb,Township Board Member,Ed Shilling,Republican,SPENCER,276
+Cass,Township Board Member,Edward (Ed) McKaig Jr.,Republican,Noble,462
+Elkhart,Township Board Member,EDWARD C PIPPENGER,Republican,LOCKE,434
+Decatur,Township Board Member,EDWARD J DWENGER,Republican,"GREENSBURG 1,GREENSBURG 2,GREENSBURG 3,GREENSBURG 4,GREENSBURG 5,GREENSBURG 6,GREENSBURG 7,GREENSBURG 8,WASHINGTON",2790
+Daviess,Township Board Member,Edward Ryan,Republican,STEELE,214
+DeKalb,Township Board Member,Edward Steury,Republican,NEWVILLE,129
+Daviess,Township Board Member,Elmer Lee Graber,Republican,VAN BUREN,145
+Adams,Township Board Member,ERIC  C MILLER  ,Republican,UNION TWP,249
+Clay,Township Board Member,Eric L (Rick) Wyndham,Republican,JACKSON,632
+DeKalb,Township Board Member,Erick Nickerson,Republican,TROY,62
+Elkhart,Township Board Member,ERIN HARTMAN,Republican,CLEVELAND,1866
+Bartholomew,Township Board Member,Frank Anderson,Republican,CLAY,738
+Elkhart,Township Board Member,FRED KIEPER,Republican,JEFFERSON,1802
+Brown,Township Board Member,Freida Milnes,Republican,HAMBLEN,1018
+Decatur,Township Board Member,G. TROY HILL,Republican,JACKSON,236
+Clinton,Township Board Member,Gail R Deboy,Republican,ROSS,597
+Elkhart,Township Board Member,GALEN R WITMER,Republican,HARRISON,556
+Bartholomew,Township Board Member,Garry L. Barker,Republican,ROCKCREEK,318
+Crawford,Township Board Member,GARY D WISEMAN,Republican,OHIO,140
+Crawford,Township Board Member,GARY MAIN Jr.,Republican,LIBERTY,319
+Cass,Township Board Member,Gary Miller,Republican,Jefferson,291
+Delaware,Township Board Member,GARY W ADDISON,Republican,CENTER,6141
+Boone,Township Board Member,GARY W BALDAUF,Republican,Harrison,201
+Clinton,Township Board Member,Gary W Gangwer,Republican,ROSS,579
+Carroll,Township Board Member,Gene Cocanower,Republican,JEFFERSON,671
+Allen,Township Board Member,Gerald W Sorg,Republican,MARION,811
+Allen,Township Board Member,Geraldine (Gerry) Franke,Republican,MADISON,487
+DeKalb,Township Board Member,Glen L Hartman,Republican,GRANT,611
+Allen,Township Board Member,Gloria E (Basting) Gerig,Republican,JACKSON,127
+Daviess,Township Board Member,Gordon Dean Miller,Republican,BARR,503
+Delaware,Township Board Member,GRADY L RAY,Republican,HAMILTON,1556
+Elkhart,Township Board Member,GREG BAILEY,Republican,WASHINGTON,1509
+Elkhart,Township Board Member,GREGG BERRY,Republican,MIDDLEBURY,1380
+DeKalb,Township Board Member,Gregory J Weller,Republican,BUTLER,414
+DeKalb,Township Board Member,Gregory S Hook,Republican,STAFFORD,90
+Boone,Township Board Member,GRETCHEN SMITH,Republican,Jefferson,383
+Allen,Township Board Member,Gretchen Spires,Republican,ST JOE,12465
+Elkhart,Township Board Member,H WAYNE JENNETTE,Republican,ELKHART,4861
+Allen,Township Board Member,Harold G Gerig,Republican,MAUMEE,573
+Clark,Township Board Member,Harold G Goodlett Jr,Republican,MONROE,905
+Allen,Township Board Member,Harrold E Spenn,Republican,PLEASANT,660
+Clark,Township Board Member,Harry Sullivan,Republican,MONROE,697
+Clay,Township Board Member,Heather L Wallace,Republican,VAN BUREN,633
+Clay,Township Board Member,Henry R Buell,Republican,LEWIS,303
+Cass,Township Board Member,Herd Crimmins,Republican,Harrison,228
+DeKalb,Township Board Member,Ida Mae Hartman,Republican,GRANT,537
+Clinton,Township Board Member,Irma D Sanders,Republican,FOREST,185
+Bartholomew,Township Board Member,J. Stuart (Stu) Cundiff,Republican,COLUMBUS,6982
+Clinton,Township Board Member,Jada M Ray,Republican,CENTER,1823
+DeKalb,Township Board Member,James (Jim) A Pfefferkorn,Republican,JACKSON,773
+Clinton,Township Board Member,James A Mennen,Republican,JACKSON,294
+DeKalb,Township Board Member,James A Miller,Republican,SMITHFIELD,334
+Bartholomew,Township Board Member,James A. Stevens,Republican,GERMAN,730
+Allen,Township Board Member,James Berger,Republican,CEDAR CREEK,3091
+Elkhart,Township Board Member,JAMES D BECK,Republican,CONCORD,5939
+Daviess,Township Board Member,"James D. Fish, Jr.",Republican,ELMORE,207
+Brown,Township Board Member,James E. Kakavecos Jr.,Republican,JACKSON,876
+Elkhart,Township Board Member,JAMES F JACKA,Republican,WASHINGTON,1275
+Decatur,Township Board Member,JAMES G STEWART,Republican,"GREENSBURG 1,GREENSBURG 2,GREENSBURG 3,GREENSBURG 4,GREENSBURG 5,GREENSBURG 6,GREENSBURG 7,GREENSBURG 8,WASHINGTON",2418
+Elkhart,Township Board Member,JAMES L MILLER,Republican,MIDDLEBURY,1332
+Dubois,Township Board Member,James Leon Wineinger,Republican,COLUMBIA TWP,231
+DeKalb,Township Board Member,James N Bauman Sr.,Republican,BUTLER,379
+Clinton,Township Board Member,Jamey L Chaney,Republican,PERRY,300
+Clinton,Township Board Member,Jami E Pratt,Republican,CENTER,1869
+Benton,Township Board Member,JANESSA STEPHENS,Republican,HICKORY GROVE,55
+Benton,Township Board Member,JANET M. GRETENCORD,Republican,CENTER,671
+Carroll,Township Board Member,Janice A Marvin,Republican,MONROE,663
+Allen,Township Board Member,Jason A Hollinger,Republican,ST JOE,13387
+Elkhart,Township Board Member,JASON E STUTSMAN,Republican,CLEVELAND,1921
+DeKalb,Township Board Member,Jason Kreischer,Republican,CONCORD,282
+DeKalb,Township Board Member,Jay Kern,Republican,GRANT,590
+Delaware,Township Board Member,JAYE KAYE WILSON,Republican,HAMILTON,1773
+Carroll,Township Board Member,Jayne A. Abbott,Republican,DEER CREEK,977
+Allen,Township Board Member,Jean Uhrick,Republican,ST JOE,12084
+Allen,Township Board Member,Jeff Abbott,Republican,MAUMEE,609
+DeKalb,Township Board Member,Jeff Ridge,Republican,WILMINGTON,589
+Adams,Township Board Member,JEFFERY W YODER,Republican,BLUE CREEK TWP,115
+Clinton,Township Board Member,Jeffrey L Strong,Republican,MICHIGAN,301
+Carroll,Township Board Member,Jeffrey Potts,Republican,ADAMS,138
+DeKalb,Township Board Member,Jeffrey W Cook SR,Republican,JACKSON,890
+Adams,Township Board Member,JEREMIAH LIPSCOMB,Republican,FRENCH TWP,220
+Carroll,Township Board Member,Jerry Frey,Republican,CLAY,256
+Delaware,Township Board Member,JERRY J KIRTLEY,Republican,WASHINGTON,405
+Clinton,Township Board Member,Jerry L Ostler,Republican,UNION,243
+Elkhart,Township Board Member,JERRY L WEAVER,Republican,MIDDLEBURY,1329
+Carroll,Township Board Member,Jerry L. Sparks,Republican,LIBERTY,139
+Clinton,Township Board Member,Jerry Milner,Republican,FOREST,156
+Elkhart,Township Board Member,JERRY P ADKINS,Republican,CONCORD,5985
+Decatur,Township Board Member,JERRY WISEMAN,Republican,CLAY,268
+Carroll,Township Board Member,Jill Moudy,Republican,JACKSON,306
+Clay,Township Board Member,Jim Burk,Republican,DICK JOHNSON,323
+Adams,Township Board Member,JIM JONES,Republican,ST MARYS TWP,254
+Clinton,Township Board Member,Jim Knapp,Republican,WASHINGTON,194
+Bartholomew,Township Board Member,Jim Reed,Republican,ROCKCREEK,305
+Elkhart,Township Board Member,JIM STEINKE,Republican,BAUGO,1359
+Clark,Township Board Member,Jimmy Hoffman,Republican,WOOD,388
+Boone,Township Board Member,JO LYNN "Jody"  DURHAM,Republican,Washington,364
+Elkhart,Township Board Member,JO ROOD,Republican,YORK,497
+Elkhart,Township Board Member,JOE A HIBSCHMAN,Republican,BENTON,492
+Crawford,Township Board Member,Joe E Schwartz,Republican,JOHNSON,67
+Daviess,Township Board Member,Joe Hawthorne,Republican,REEVE,178
+Clark,Township Board Member,Joe Waters,Republican,UNION,752
+Adams,Township Board Member,JOHN  AMSTUTZ,Republican,WABASH TWP,1234
+Carroll,Township Board Member,John A. Campbell,Republican,ADAMS,138
+Benton,Township Board Member,JOHN BLAKE,Republican,YORK,54
+Boone,Township Board Member,JOHN BROSE,Republican,Harrison,168
+DeKalb,Township Board Member,John Cutshall,Republican,KEYSER,852
+DeKalb,Township Board Member,John D Hovarter,Republican,RICHLAND,271
+Adams,Township Board Member,JOHN D SIPE,Republican,BLUE CREEK TWP,108
+Cass,Township Board Member,John Heckard,Republican,Clinton,134
+Decatur,Township Board Member,JOHN L (JACK) EMLY,Republican,JACKSON,250
+Carroll,Township Board Member,John M. (Jack) Begley,Republican,TIPPECANOE,576
+Elkhart,Township Board Member,JOHN P BAKER,Republican,YORK,649
+Dearborn,Township Board Member,John Probst ,Republican,HOGAN TOWNSHIP,261
+Adams,Township Board Member,JOHN R (Randy) JOHNSON,Republican,ST MARYS TWP,308
+Allen,Township Board Member,John T Yarnelle,Republican,LAKE,605
+Boone,Township Board Member,JOHN W PADGETT,Republican,Marion,369
+Cass,Township Board Member,John W. Carson,Republican,Clay,699
+Daviess,Township Board Member,John W. Potts,Republican,HARRISON,182
+Carroll,Township Board Member,John Wells,Republican,JEFFERSON,604
+Clay,Township Board Member,Jon P Coble,Republican,PERRY,209
+Clark,Township Board Member,Jonathan (Jr) Ramires,Republican,UTICA,1115
+Allen,Township Board Member,Jonathan DeWitt,Republican,PERRY,7760
+Delaware,Township Board Member,JONNA S REECE,Republican,CENTER,6061
+Delaware,Township Board Member,JOSEPH ALAN CARMICHAEL,Republican,PERRY,444
+Clay,Township Board Member,Joseph C (Joe) Edwards,Republican,HARRISON,567
+Carroll,Township Board Member,Joseph P. Martin,Republican,LIBERTY,139
+Carroll,Township Board Member,Joseph Seagrave,Republican,ROCK CREEK,72
+Clark,Township Board Member,Josh Waddell,Republican,JEFFERSONVILLE,5855
+Allen,Township Board Member,Joshua Abbott,Republican,MAUMEE,524
+Bartholomew,Township Board Member,Joshua W. Ogle,Republican,WAYNE,607
+Cass,Township Board Member,Joyce Beechy,Republican,Tipton,627
+DeKalb,Township Board Member,Joyce Gengnagel,Republican,NEWVILLE,117
+DeKalb,Township Board Member,Juanita Russell,Republican,STAFFORD,76
+Daviess,Township Board Member,Judy Robinson,Republican,VEALE,354
+Benton,Township Board Member,JULIA (JUDY) BELLAR,Republican,CENTER,529
+Delaware,Township Board Member,JUSTIN T SKINNER,Republican,SALEM,913
+Cass,Township Board Member,Karen Buffum,Republican,Miami,354
+Blackford,Township Board Member,Karen E. Gruwell,Republican,JACKSON,296
+Clay,Township Board Member,Kari Spelbring,Republican,WASHINGTON,231
+DeKalb,Township Board Member,KATHRYN J SATTISON,Republican,KEYSER,1112
+Boone,Township Board Member,KATHY G ADKINS,Republican,Jefferson,360
+Delaware,Township Board Member,KATHY J MILLER,Republican,WASHINGTON,290
+Delaware,Township Board Member,KATRINA (TRINA) MORGAN-RICHARDSON,Republican,SALEM,827
+Daviess,Township Board Member,Kay Laughlin,Republican,MADISON,698
+Boone,Township Board Member,KAY LEIGH FISHER,Republican,Sugar Creek,435
+Benton,Township Board Member,KEATON WILLIAM FOSTER,Republican,HICKORY GROVE,53
+Brown,Township Board Member,Keith Baker,Republican,WASHINGTON,1383
+DeKalb,Township Board Member,Keith E Crowl,Republican,TROY,89
+Decatur,Township Board Member,KELLI KOORS,Republican,CLAY,260
+Boone,Township Board Member,KERRY LEIGH DULL,Republican,Washington,426
+Dubois,Township Board Member,Kevin  Knies,Republican,HALL TWP,291
+Boone,Township Board Member,Kevin Foley,Republican,Worth,786
+Benton,Township Board Member,KEVIN T. MCNEIL,Republican,HICKORY GROVE,64
+Dubois,Township Board Member,Kim Hoffman,Republican,BOONE TWP,253
+Elkhart,Township Board Member,KIMBERLY MANSELL,Republican,CONCORD,5965
+Daviess,Township Board Member,Kimberly Shafer,Republican,MADISON,535
+Clay,Township Board Member,Kirby Barrett,Republican,PERRY,300
+DeKalb,Township Board Member,Kirby Hobbs,Republican,FRANKLIN,194
+Carroll,Township Board Member,Lance Alter,Republican,BURLINGTON,534
+Allen,Township Board Member,Lance Lothamer,Republican,ADAMS,3253
+Brown,Township Board Member,Lanny Rossman,Republican,HAMBLEN,959
+Dubois,Township Board Member,Larry  Mickler,Republican,COLUMBIA TWP,190
+Elkhart,Township Board Member,LARRY BLACKPORT,Republican,ELKHART,4823
+Delaware,Township Board Member,LARRY CRABTREE,Republican,PERRY,398
+Elkhart,Township Board Member,LARRY L ERB,Republican,BENTON,573
+Brown,Township Board Member,Larry L. Gardner,Republican,JACKSON,881
+Carroll,Township Board Member,Larry Leach,Republican,ROCK CREEK,91
+Dubois,Township Board Member,Larry M Jones,Republican,HARBISON TWP,373
+Cass,Township Board Member,Larry Phipps,Republican,Tipton,548
+DeKalb,Township Board Member,Larry W Seiler,Republican,JACKSON,834
+Bartholomew,Township Board Member,Larry W. Hoeltke,Republican,GERMAN,1002
+Benton,Township Board Member,LAURA  SENESAC,Republican,PINE,82
+Elkhart,Township Board Member,LEE BAUMAN,Republican,UNION,1005
+Benton,Township Board Member,LEO MARION,Republican,UNION,52
+Decatur,Township Board Member,LEON E JOHNSON,Republican,"GREENSBURG 1,GREENSBURG 2,GREENSBURG 3,GREENSBURG 4,GREENSBURG 5,GREENSBURG 6,GREENSBURG 7,GREENSBURG 8,WASHINGTON",2279
+Delaware,Township Board Member,LEROY (LEE) ROBERT SOLLARS,Republican,LIBERTY,695
+Boone,Township Board Member,LESLIE A CICCARELLI,Republican,Jackson,537
+DeKalb,Township Board Member,Leslie Nelson,Republican,WILMINGTON,500
+Delaware,Township Board Member,LINDA CAMPBELL-BURCHAM,Republican,NILES,354
+Carroll,Township Board Member,Linda Heinzelman,Republican,BURLINGTON,525
+Benton,Township Board Member,LINDA I. BREWER,Republican,CENTER,602
+Delaware,Township Board Member,LINDA J VORE,Republican,UNION,466
+Boone,Township Board Member,LINDA L GOODNIGHT,Republican,Jackson,611
+Cass,Township Board Member,Linda Riley,Republican,Tipton,553
+Daviess,Township Board Member,Linda Stites,Republican,ELMORE,220
+Decatur,Township Board Member,LINDA VOLK,Republican,CLINTON,114
+Clark,Township Board Member,Lisa  Nale,Republican,WOOD,663
+Delaware,Township Board Member,LISA A PIERCE,Republican,UNION,461
+Carroll,Township Board Member,Lisa Ringer,Republican,JACKSON,338
+Bartholomew,Township Board Member,Lloyd E. Miller,Republican,COLUMBUS,6499
+Daviess,Township Board Member,Lloyd W. Parsons,Republican,VAN BUREN,142
+Allen,Township Board Member,Loren W Stewart,Republican,ADAMS,3102
+Clay,Township Board Member,Lori A Hutcheson,Republican,POSEY,850
+Benton,Township Board Member,LORI S. BUDREAU,Republican,UNION,62
+Crawford,Township Board Member,LOUISE WRIGHT,Republican,JOHNSON,54
+Allen,Township Board Member,Lowell D Stahlhut,Republican,LAKE,714
+Delaware,Township Board Member,LOYAL CUTFORTH,Republican,UNION,476
+Clay,Township Board Member,Lucy Strauch,Republican,WASHINGTON,216
+Bartholomew,Township Board Member,Luke C. Otte,Republican,JACKSON,202
+Elkhart,Township Board Member,MADELINE A SMITH,Republican,BAUGO,1466
+Cass,Township Board Member,Marguerite (Missy) Field,Republican,Miami,278
+Daviess,Township Board Member,Maria L. Sergesketter,Republican,WASHINGTON,2689
+Dearborn,Township Board Member,MARILYN K COURTNEY,Republican,LAWRENCEBURG TOWNSHIPS,1760
+Clay,Township Board Member,Marion D Schafer,Republican,POSEY,676
+Allen,Township Board Member,Mark A Bradtmueller,Republican,MILAN,610
+Clinton,Township Board Member,Mark A Butcher,Republican,SUGAR CREEK,125
+Benton,Township Board Member,MARK H. JEFVERT,Republican,YORK,50
+Adams,Township Board Member,MARK L NEUENSCHWANDER,Republican,WABASH TWP,1126
+Adams,Township Board Member,MARK LEHMANN,Republican,JEFFERSON TWP,96
+Clark,Township Board Member,Mark Meyer,Republican,BETHLEHEM,72
+Adams,Township Board Member,MARK P MERKEL,Republican,JEFFERSON TWP,96
+Dubois,Township Board Member,Mark R. Schmitt,Republican,MADISON TWP,920
+Allen,Township Board Member,Mark Roemke,Republican,SPRINGFIELD,594
+Clinton,Township Board Member,Marla G Caldwell,Republican,FOREST,180
+Carroll,Township Board Member,Marlene "Gail" Frye,Republican,JACKSON,291
+Cass,Township Board Member,Marsha Dollar,Republican,Jackson,669
+Delaware,Township Board Member,MARTHA A MORRISON,Republican,MONROE,781
+Dearborn,Township Board Member,Marty Hon ,Republican,CLAY TOWNSHIPS,319
+DeKalb,Township Board Member,Marvin L Skelly,Republican,FAIRFIELD,378
+Clay,Township Board Member,Marvin Strauch,Republican,CASS,63
+Decatur,Township Board Member,MARY (ROSIE) STIER,Republican,MARION,424
+Clinton,Township Board Member,MARY E HARNESS,Republican,WARREN,135
+Daviess,Township Board Member,Mary F. Woodruff,Republican,BOGARD,91
+Crawford,Township Board Member,MARY G CARLILE,Republican,JENNINGS,211
+Cass,Township Board Member,Mary Lou Foerg,Republican,Boone,357
+Dubois,Township Board Member,Mary Lou Zehr,Republican,HARBISON TWP,425
+Cass,Township Board Member,Mary Nell Smith,Republican,Bethlehem,197
+DeKalb,Township Board Member,Matt Peckhart,Republican,TROY,64
+Boone,Township Board Member,MATT YOUNG,Republican,Clinton,201
+Boone,Township Board Member,MATTHEW "Matt" SCHALLER,Republican,Center,3169
+Clay,Township Board Member,Matthew C Weber,Republican,HARRISON,565
+Elkhart,Township Board Member,MATTHEW HARTMAN,Republican,CLEVELAND,1785
+Clinton,Township Board Member,Matthew Johnson,Republican,SUGAR CREEK,110
+Clark,Township Board Member,Matthew Meyer,Republican,UNION,674
+Daviess,Township Board Member,Matthew S. Morris,Republican,BOGARD,86
+Adams,Township Board Member,MELVIN BURKHART,Republican,BLUE CREEK TWP,139
+Cass,Township Board Member,Melvin Price,Republican,Bethlehem,201
+Adams,Township Board Member,MICAH B BORNE,Republican,PREBLE TWP,306
+Blackford,Township Board Member,Michael A. Wolfe,Republican,LICKING,1415
+Adams,Township Board Member,MICHAEL G LIECHTY,Republican,HARTFORD TWP,210
+Clinton,Township Board Member,Michael J Gochenour,Republican,ROSS,568
+Allen,Township Board Member,Michael J Messmann,Republican,PERRY,7950
+Elkhart,Township Board Member,MICHAEL LEE,Republican,WASHINGTON,1423
+Bartholomew,Township Board Member,Michael R. Bell,Republican,WAYNE,747
+Elkhart,Township Board Member,MICHAEL RINK,Republican,CLINTON,385
+Bartholomew,Township Board Member,Michael Shireman,Republican,COLUMBUS,7269
+Adams,Township Board Member,MICHAEL STIMPSON,Republican,WASHINGTON TWP,1349
+Adams,Township Board Member,MICHAEL SWENEY,Republican,ROOT TWP,1349
+Clay,Township Board Member,Michele D Neese,Republican,CASS,64
+Clay,Township Board Member,Michelle Harden-Price,Republican,BRAZIL,1209
+Clinton,Township Board Member,MIKE HENRY,Republican,KIRKLIN,331
+Adams,Township Board Member,MIKE LIPSCOMB,Republican,FRENCH TWP,226
+Crawford,Township Board Member,MIKE LUTZ,Republican,OHIO,101
+Clinton,Township Board Member,Mike Strange,Republican,JOHNSON,72
+Adams,Township Board Member,MINDY FRUECHTE,Republican,KIRKLAND TWP,319
+Allen,Township Board Member,Nadean Kruckeberg,Republican,CEDAR CREEK,2798
+Dearborn,Township Board Member,Nancy Pickens,Republican,MANCHESTER TOWNSHIP,820
+Daviess,Township Board Member,Nancy Singleton,Republican,WASHINGTON,2789
+Adams,Township Board Member,NANCY WALKER,Republican,MONROE TWP,679
+Cass,Township Board Member,Nathan Allen,Republican,Washington,281
+Cass,Township Board Member,Nathan McClain,Republican,Clay,661
+Delaware,Township Board Member,NATHANIEL E CARROLL,Republican,CENTER,5333
+Clinton,Township Board Member,Neal J Clark,Republican,JACKSON,288
+Allen,Township Board Member,Norbert F Sarrazine,Republican,JEFFERSON,483
+Carroll,Township Board Member,Norman Anderson,Republican,MADISON,145
+Dubois,Township Board Member,Pamela J Weisheit-Hart,Republican,BOONE TWP,242
+Clay,Township Board Member,Patricia A Foxx,Republican,VAN BUREN,680
+Crawford,Township Board Member,PATRICIA L BEASLEY,Republican,JENNINGS,304
+Clinton,Township Board Member,Patricia McQuinn,Republican,MICHIGAN,400
+Crawford,Township Board Member,PATRICIA R SHELTON,Republican,BOONE,16
+Carroll,Township Board Member,Patrick H. O'Donnell,Republican,WASHINGTON,176
+Elkhart,Township Board Member,PAUL E GEYER,Republican,BAUGO,1453
+Daviess,Township Board Member,Paul E. Shafer,Republican,MADISON,557
+Clinton,Township Board Member,Paul L Dorsey,Republican,UNION,265
+Delaware,Township Board Member,PAUL M CAMPBELL,Republican,NILES,274
+Boone,Township Board Member,PENNY S BOGAN,Republican,Center,3898
+Clinton,Township Board Member,Phil Ramsey,Republican,PERRY,283
+DeKalb,Township Board Member,Philip R Brechbill,Republican,RICHLAND,312
+Clinton,Township Board Member,Phillip D Carter,Republican,WARREN,160
+Crawford,Township Board Member,PHYLIS A GOLDMAN,Republican,JENNINGS,307
+Delaware,Township Board Member,R VAN LASATER,Republican,DELAWARE,639
+Clay,Township Board Member,Ralph (Pete) Taylor,Republican,VAN BUREN,691
+Cass,Township Board Member,Randi J. Wecht,Republican,Jefferson,152
+Dubois,Township Board Member,Randy  Boehm,Republican,CASS TWP,531
+Dearborn,Township Board Member,Randy Bentle,Republican,MILLER TOWNSHIPS,1659
+DeKalb,Township Board Member,Randy Provines,Republican,STAFFORD,88
+Boone,Township Board Member,RENE MILLER,Republican,Jefferson,352
+Boone,Township Board Member,RICHARD "Mike" HANCOCK,Republican,Worth,803
+Allen,Township Board Member,Richard Kaylor,Republican,ADAMS,3517
+Elkhart,Township Board Member,RICHARD L SNIDER,Republican,JACKSON,1062
+DeKalb,Township Board Member,Rick A Fuller,Republican,CONCORD,304
+Elkhart,Township Board Member,RICK E KAUFFMAN,Republican,JEFFERSON,2077
+Clay,Township Board Member,Rick James,Republican,JACKSON,836
+Carroll,Township Board Member,Rick Roller,Republican,ADAMS,139
+Elkhart,Township Board Member,RICK VANDEGRIFT,Republican,OLIVE,652
+Cass,Township Board Member,Ricky J. Bernhardt,Republican,Eel,1835
+Clark,Township Board Member,Rob Caudill,Republican,CHARLESTOWN,2148
+Allen,Township Board Member,Robert (Bob) Kurtz,Republican,SCIPIO,134
+Dearborn,Township Board Member,Robert (Bob) Starks,Republican,MILLER TOWNSHIPS,1595
+Boone,Township Board Member,ROBERT BOONE,Republican,Marion,390
+Bartholomew,Township Board Member,Robert H. Fear,Republican,HARRISON,915
+Clay,Township Board Member,Robert J Gambill,Republican,POSEY,948
+Clinton,Township Board Member,ROBERT M MOORE,Republican,JACKSON,278
+Clinton,Township Board Member,ROBERT STINSON,Republican,WASHINGTON,220
+Elkhart,Township Board Member,ROBERT WELDY,Republican,LOCKE,425
+Clay,Township Board Member,Roberta Buell,Republican,WASHINGTON,227
+Delaware,Township Board Member,ROBIN E CARTER,Republican,MONROE,912
+Clinton,Township Board Member,Roger A McClain,Republican,KIRKLIN,270
+Allen,Township Board Member,Roger Jones,Republican,EEL RIVER,1116
+Allen,Township Board Member,Roger L Gump,Republican,PERRY,7879
+Bartholomew,Township Board Member,Roger L. Fromer,Republican,CLAY,447
+Clark,Township Board Member,Ronald F Reimer,Republican,CARR,882
+Bartholomew,Township Board Member,Ronald H. Hoevener,Republican,SANDCREEK,601
+Clark,Township Board Member,Ronald Jones,Republican,OWEN,156
+Bartholomew,Township Board Member,Ronald W. Speer,Republican,ROCKCREEK,303
+Clay,Township Board Member,Rustin Dean Sinders,Republican,HARRISON,606
+Cass,Township Board Member,Ruth Baker,Republican,Harrison,243
+Allen,Township Board Member,Ryan Day,Republican,WASHINGTON,5240
+Cass,Township Board Member,Sally R. Bechdol,Republican,Bethlehem,195
+Clark,Township Board Member,Samuel W Jones II,Republican,CARR,920
+Brown,Township Board Member,Sandra D. Pool,Republican,JACKSON,1132
+Benton,Township Board Member,SANDY TABERT,Republican,OAK GROVE,312
+DeKalb,Township Board Member,Sara Yarian,Republican,FAIRFIELD,354
+Carroll,Township Board Member,Scott D. Sisson,Republican,MONROE,758
+Dearborn,Township Board Member,Scott Fortner,Republican,CLAY TOWNSHIPS,540
+Cass,Township Board Member,Scott Sailors,Republican,Washington,312
+Clark,Township Board Member,Scott Sandefur,Republican,UTICA,1282
+Allen,Township Board Member,Scott Schroeder,Republican,MARION,727
+Allen,Township Board Member,Sharon K Rorick,Republican,MADISON,375
+Benton,Township Board Member,SHARON K. GARING,Republican,YORK,48
+Bartholomew,Township Board Member,Sharon Voelz,Republican,HARRISON,1015
+Delaware,Township Board Member,SHARYN DIANE BLACK,Republican,LIBERTY,1073
+Blackford,Township Board Member,Shawn Gearheart,Republican,HARRISON,437
+Clark,Township Board Member,Shawn L Grant,Republican,JEFFERSONVILLE,6805
+Delaware,Township Board Member,SHERI CHAFIN,Republican,HARRISON,834
+Carroll,Township Board Member,Shirley Goyer,Republican,TIPPECANOE,598
+Cass,Township Board Member,Shirley M. Bishop,Republican,Eel,1911
+Cass,Township Board Member,Spenser Forgey,Republican,Deer Creek,213
+Decatur,Township Board Member,STANLEY A SCHOETTMER,Republican,CLINTON,129
+Decatur,Township Board Member,STEVE FORTNER,Republican,JACKSON,272
+Clay,Township Board Member,Steve Garlits,Republican,BRAZIL,957
+Allen,Township Board Member,Steve Ottenweller,Republican,JEFFERSON,527
+Elkhart,Township Board Member,STEVE SHOWALTER,Republican,BENTON,607
+Daviess,Township Board Member,Steven L. Hart,Republican,BARR,837
+Clay,Township Board Member,Steven L. Stoelting,Republican,SUGAR RIDGE,273
+Boone,Township Board Member,STEVEN R SCHENCK,Republican,Sugar Creek,484
+Allen,Township Board Member,Steven W Dillman,Republican,LAKE,605
+Bartholomew,Township Board Member,Sue Anne Lee,Republican,JACKSON,196
+Dearborn,Township Board Member,Sue Grace ,Republican,CLAY TOWNSHIPS,447
+Daviess,Township Board Member,Sue Killion,Republican,VEALE,414
+Cass,Township Board Member,Susan (Suki) Wilson,Republican,Noble,359
+Adams,Township Board Member,SUSAN PRICE MILLER,Republican,WASHINGTON TWP,1496
+Cass,Township Board Member,Susan VonTobel,Republican,Boone,387
+Elkhart,Township Board Member,SUSIE ROGERS,Republican,ELKHART,4753
+Boone,Township Board Member,TAMARA K LAWSON,Republican,Sugar Creek,441
+Allen,Township Board Member,Tanya Spangler,Republican,JACKSON,120
+Elkhart,Township Board Member,TARA L LENGACHER,Republican,OLIVE,791
+Benton,Township Board Member,TASIA WILLEFORD,Republican,UNION,41
+Cass,Township Board Member,Ted Speicher,Republican,Noble,403
+Delaware,Township Board Member,TERESA A HENSLEY,Republican,SALEM,957
+Daviess,Township Board Member,Terry Eaton,Republican,BOGARD,107
+Clark,Township Board Member,Terry Roudenbush,Republican,UNION,636
+Cass,Township Board Member,Thomas K. Weatherwax,Republican,Clay,683
+Elkhart,Township Board Member,THOMAS R STROUP,Republican,CLINTON,433
+Elkhart,Township Board Member,TIM CUNNINGHAM,Republican,OSOLO,4714
+Brown,Township Board Member,Tim Cunningham,Republican,WASHINGTON,1173
+Elkhart,Township Board Member,TIM STUTSMAN,Republican,HARRISON,612
+Clinton,Township Board Member,Timothy A Wyrick,Republican,JOHNSON,85
+Carroll,Township Board Member,Tina Albaugh,Republican,MONROE,695
+Brown,Township Board Member,Tina McCormack,Republican,HAMBLEN,1161
+DeKalb,Township Board Member,Todd Bishop,Republican,UNION,2842
+Decatur,Township Board Member,TOM CARROLL,Republican,FUGIT,434
+Cass,Township Board Member,Tom Lane,Republican,Clinton,139
+Bartholomew,Township Board Member,Tom R. Finke,Republican,FLATROCK,385
+Adams,Township Board Member,TONY  HEISER,Republican,ST MARYS TWP,263
+Clinton,Township Board Member,Travis Kramer,Republican,JOHNSON,75
+Adams,Township Board Member,TRISHA P MOSER,Republican,MONROE TWP,724
+DeKalb,Township Board Member,Troy A Stahly,Republican,UNION,2389
+Daviess,Township Board Member,Troy Wininger,Republican,VAN BUREN,125
+Daviess,Township Board Member,Valerie Williams,Republican,HARRISON,183
+Elkhart,Township Board Member,VERN MILLER,Republican,OSOLO,4399
+Crawford,Township Board Member,VIRGINIA A BELL,Republican,BOONE,24
+Cass,Township Board Member,W. Edward (Ed) Smith,Republican,Jackson,525
+Elkhart,Township Board Member,WAYNE D KLOTZ,Republican,LOCKE,500
+Carroll,Township Board Member,Wayne Remaly,Republican,CLAY,278
+Benton,Township Board Member,WENDY  BROST,Republican,GRANT,263
+Allen,Township Board Member,William (Bill) Browne,Republican,ABOITE,9015
+Daviess,Township Board Member,William C. Corbin,Republican,REEVE,177
+Clinton,Township Board Member,William G Fultz,Republican,WASHINGTON,188
+Cass,Township Board Member,William Haselby,Republican,Boone,334
+Boone,Township Board Member,WILLIAM JEFF HOPPER,Republican,Jackson,597
+Bartholomew,Township Board Member,William L. Erfmeier,Republican,CLIFTY,288
+Clark,Township Board Member,William R Draper Jr,Republican,WASHINGTON,267
+Clinton,Township Board Member,Zachary J Light,Republican,CENTER,1965
+DeKalb,Township Board Member,Zachary M Lightner,Republican,UNION,2320
+Allen,City-County or City Common Council Member,BARBARA A OCONNOR,Democratic,ZANESVILLE,24
+Allen,City-County or City Common Council Member,JOHN E SCHUHMACHER,Democratic,ZANESVILLE,20
+Allen,City-County or City Common Council Member,DAVID L FRICK,Republican,ZANESVILLE,28
+Allen,City-County or City Common Council Member,DENNIS J KAMMERER Sr.,Republican,ZANESVILLE,22
+Dubois,Town Clerk-Treasurer,Brittany L Schepers,Democratic,BIRDSEYE,100
+Allen,Town Clerk-Treasurer,JULIE A CHRISTIAN,Democratic,ZANESVILLE,21
+Delaware,Town Clerk-Treasurer,LAURA A JAROMIN,Democratic,YORKTOWN,2139
+Benton,Town Clerk-Treasurer,CHRISTIE HALE ,Independent,Oxford,206
+Benton,Town Clerk-Treasurer,JENIFER CRISP,Independent,Boswell,95
+Boone,Town Clerk-Treasurer,JOHN GILLAN,Independent,Thorntown,130
+Boone,Town Clerk-Treasurer,MIKADA DAVIS,Independent,Thorntown,280
+Boone,Town Clerk-Treasurer,SHARI JOHNSON,Independent,Advance,98
+Benton,Town Clerk-Treasurer,CHRISTINE M. BROST,Republican,Ambia,25
+Benton,Town Clerk-Treasurer,DONNA MUSENBROCK,Republican,Boswell,143
+Bartholomew,Town Clerk-Treasurer,Judy L. Nichols,Republican,ELIZABETHTOWN,63
+Delaware,Town Clerk-Treasurer,LANCE TURNER,Republican,YORKTOWN,2916
+Dearborn,Town Clerk-Treasurer,Rita Cutter Stevens,Republican,CLAY 1,265
+Benton,Town Clerk-Treasurer,RUSSELL "RUSTY" HOAKS,Republican,Oxford,149
+Allen,Town Clerk-Treasurer,Ryan Schwab,Republican,HUNTERTOWN,2252
+Benton,Town Clerk-Treasurer,TREEVA SARLES,Republican,OTTERBEIN,175
+Boone,"Judge, Town Court",DONALD G VAUGHN,Independent,Thorntown,369
+Delaware,Town Council Member,BETH JOHNSON,Democratic,YORKTOWN,2250
+Bartholomew,Town Council Member,Carroll D. Thompson,Democratic,Cf In Town,39
+Bartholomew,Town Council Member,Chelsea A. Warriner  ,Democratic,HOPE,204
+Dearborn,Town Council Member,Christina (Tina) Fortner ,Democratic,CLAY 1,112
+Dubois,Town Council Member,Clyde Huff,Democratic,BIRDSEYE,0
+Bartholomew,Town Council Member,Danny James,Democratic,Cf In Town,36
+Cass,Town Council Member,Don Conn III,Democratic,ROYAL CENTER,77
+Bartholomew,Town Council Member,Ed Stone,Democratic,Cf In Town,35
+Delaware,Town Council Member,GARY S PRATER,Democratic,YORKTOWN,1622
+Carroll,Town Council Member,Jason Burns,Democratic,FLORA,249
+Bartholomew,Town Council Member,Jerry Bragg,Democratic,HOPE,231
+Dubois,Town Council Member,Lisa A Huff,Democratic,BIRDSEYE,59
+DeKalb,Town Council Member,Lucy La Hurreau,Democratic,TOWN OF HAMILTON,29
+Carroll,Town Council Member,Mark Pinkard,Democratic,FLORA,225
+Dubois,Town Council Member,Mary  Ann Cummings,Democratic,BIRDSEYE,93
+DeKalb,Town Council Member,Mindy Bireley Gillen,Democratic,TOWN OF HAMILTON,40
+Delaware,Town Council Member,PAUL N ASHCRAFT,Democratic,ALBANY,472
+Delaware,Town Council Member,RICHARD E YENCER,Democratic,YORKTOWN,1744
+Bartholomew,Town Council Member,Rick Mullins,Democratic,El In Town,38
+Bartholomew,Town Council Member,Ron Hoffman,Democratic,TOWN OF EDINBURGH,15
+Dubois,Town Council Member,Roy L Partenheimer,Democratic,BIRDSEYE,79
+Bartholomew,Town Council Member,Shirley J. Nugent,Democratic,El In Town,34
+Delaware,Town Council Member,THOMAS (TOM) C. STJOHN,Democratic,ALBANY,244
+Elkhart,Town Council Member,WHITNEY PIERLE,Democratic,BRISTOL,278
+Brown,Town Council Member,Anna Hofstetter,Independent,NASHVILLE,289
+Brown,Town Council Member,Arthur Omberg,Independent,NASHVILLE,267
+Boone,Town Council Member,BRUCE BURTNER,Independent,Thorntown,296
+Daviess,Town Council Member,CAROL A KRYDER,Independent,Daviess,172
+Brown,Town Council Member,Charles (Buzz) King,Independent,NASHVILLE,186
+Boone,Town Council Member,DAVID R WILLIAMS,Independent,Thorntown,274
+Brown,Town Council Member,David Rudd,Independent,NASHVILLE,285
+Bartholomew,Town Council Member,Don McQueen,Independent,TOWN OF EDINBURGH,7
+Daviess,Town Council Member,DOUGLAS L BENJAMIN,Independent,Daviess,277
+Boone,Town Council Member,KEVIN L SMITH,Independent,Thorntown,122
+Boone,Town Council Member,KOREN GRAY,Independent,Thorntown,313
+Boone,Town Council Member,MATT JOHNSON,Independent,Advance,70
+Boone,Town Council Member,MELODY FRY,Independent,Advance,71
+Brown,Town Council Member,Mike (Possum) Roberts,Independent,NASHVILLE,254
+Benton,Town Council Member,MIKE BREWER,Independent,Fowler,401
+Brown,Town Council Member,Nancy Crocker,Independent,NASHVILLE,400
+DeKalb,Town Council Member,Nancy Renner,Independent,TOWN OF HAMILTON,44
+Benton,Town Council Member,PAUL L. TOLEN ,Independent,Boswell,133
+Benton,Town Council Member,RANDY JONES,Independent,Oxford,193
+Benton,Town Council Member,RICHARD WOELLNER,Independent,Oxford,100
+Boone,Town Council Member,RICKY HAYDEN COMBS,Independent,Advance,45
+Adams,Town Council Member,AGNES Ann SCHOCH,Republican,GENEVA,339
+Elkhart,Town Council Member,ALEX COOK,Republican,WAKARUSA,437
+Benton,Town Council Member,AMY J. CADE,Republican,Ambia,24
+Benton,Town Council Member,AMY R. BROWN,Republican,OTTERBEIN,130
+Elkhart,Town Council Member,ANNETTE L BROWN,Republican,WAKARUSA,460
+Bartholomew,Town Council Member,Bonnie "BJ" Everroad,Republican,Cf In Town,28
+Allen,Town Council Member,Brandon Seifert,Republican,HUNTERTOWN,1603
+Dubois,Town Council Member,Bret D Eckert,Republican,BIRDSEYE,71
+Dearborn,Town Council Member,Casey Finnegan,Republican,CLAY 1,260
+Elkhart,Town Council Member,CATHY BURKE,Republican,BRISTOL,295
+Bartholomew,Town Council Member,Charlie Bob Moore,Republican,Cf In Town,27
+Allen,Town Council Member,Christopher (Chris) Adams,Republican,LEO-CEDARVILLE,862
+Allen,Town Council Member,Claude Schrock,Republican,GRABILL,280
+Cass,Town Council Member,Clayton Freels,Republican,ROYAL CENTER,172
+Bartholomew,Town Council Member,Clyde Compton,Republican,HOPE,207
+Cass,Town Council Member,Cory M Harmon,Republican,ROYAL CENTER,244
+Delaware,Town Council Member,DANIEL FLANAGAN,Republican,YORKTOWN,2832
+Carroll,Town Council Member,Darrell Yoder,Republican,FLORA,406
+Benton,Town Council Member,DAVID G. FREEMAN,Republican,Oxford,160
+Cass,Town Council Member,Dick Case,Republican,WALTON,233
+Allen,Town Council Member,Gary Grant,Republican,HUNTERTOWN,1664
+Allen,Town Council Member,Gregory V Peck,Republican,LEO-CEDARVILLE,865
+Benton,Town Council Member,JACKEY APACHE,Republican,OTTERBEIN,154
+Carroll,Town Council Member,Jacob D. "Jake" Adams,Republican,FLORA,367
+Benton,Town Council Member,JASON FISHER ,Republican,Fowler,453
+Clinton,Town Council Member,JENNIFER BOWMAN,Republican,PRECINCT 25,146
+Clinton,Town Council Member,JERRY FAUCETT,Republican,PRECINCT 25,172
+DeKalb,Town Council Member,Jess Lee Jessup,Republican,WATERLOO,333
+Adams,Town Council Member,JIM TIMMONS,Republican,GENEVA,345
+Benton,Town Council Member,JUSTIN W. BRUMMETT,Republican,Oxford,219
+Cass,Town Council Member,Kelley S Magee,Republican,ROYAL CENTER,170
+Benton,Town Council Member,LINDA K. BROUILLETTE,Republican,Fowler,468
+Delaware,Town Council Member,LON FOX,Republican,YORKTOWN,2623
+Bartholomew,Town Council Member,Lou K.,Republican,HOPE,171
+Bartholomew,Town Council Member,Marshall Ryan Piercefield,Republican,TOWN OF EDINBURGH,33
+Dearborn,Town Council Member,Mary Lou Powers,Republican,CLAY 1,273
+Benton,Town Council Member,MATT SHUEE,Republican,Boswell,109
+Allen,Town Council Member,Michael J Aker,Republican,HUNTERTOWN,1678
+Benton,Town Council Member,MICHAEL SANDERS,Republican,Fowler,403
+Allen,Town Council Member,Michael Stamets,Republican,HUNTERTOWN,1590
+DeKalb,Town Council Member,Nathan Diehl,Republican,WATERLOO,360
+Allen,Town Council Member,Patricia M Freck,Republican,HUNTERTOWN,1712
+Elkhart,Town Council Member,"RAYMOND DEAN RENTFROW, JR",Republican,BRISTOL,270
+Delaware,Town Council Member,RICH LEE,Republican,YORKTOWN,3223
+Benton,Town Council Member,RICK HADLEY,Republican,OTTERBEIN,133
+Delaware,Town Council Member,ROBERT (BOB) RATCHFORD,Republican,YORKTOWN,3699
+Bartholomew,Town Council Member,Robert Tertocha,Republican,El In Town,51
+Allen,Town Council Member,Scott A Connally,Republican,LEO-CEDARVILLE,765
+DeKalb,Town Council Member,Steve Blum,Republican,TOWN OF HAMILTON,41
+Delaware,Town Council Member,STEVE HALL,Republican,ALBANY,506
+Benton,Town Council Member,TINA COFFMAN,Republican,Oxford,225
+Dearborn,Town Council Member,Tom Wafford ,Republican,CLAY 1,207
+Bartholomew,Town Council Member,William (Bill) Jones,Republican,TOWN OF EDINBURGH,30
+Dearborn,School Board Member, H. BRYAN JOHNSON,Non Partisan,LAWRENCEBURG COMM.,1936
+Elkhart,School Board Member,AARON RINK,Non Partisan,FAIRFIELD COMMUNITY SCHOOL,1398
+Delaware,School Board Member,ALAN D WRIGHT,Non Partisan,MONROE,1006
+Delaware,School Board Member,ALICE JO GILLIS,Non Partisan,Delaware Community School District,2070
+Bartholomew,School Board Member,Alice Nancy Taulman,Non Partisan,EDINBURGH COMM SCHOOL COR,22
+Benton,School Board Member,AMANDA  BERENDA,Non Partisan,SOUTH NEWTON,57
+Elkhart,School Board Member,AMANDA QUALLS,Non Partisan,GOSHEN COMMUNITY SCHOOL,4908
+Clay,School Board Member,Amy Burke Adams,Non Partisan,Clay Community,2819
+Bartholomew,School Board Member,Angel Emerson-Burkman,Non Partisan,EDINBURGH COMM SCHOOL COR,7
+Delaware,School Board Member,ANGELA R JOHNSON,Non Partisan,MONROE,738
+Allen,School Board Member,ANNE DUFF,Non Partisan,FORT WAYNE COMMUNITY,31012
+Elkhart,School Board Member,ANNE VONDERVELLEN,Non Partisan,ELKHART COMMUNITY SCHOOL,3925
+Clay,School Board Member,Anthony E Harper,Non Partisan,Clay Community,1064
+Boone,School Board Member,ANTHONY L ROBBINS,Non Partisan,"LCS Center,LCS Lebanon,LCS Perry,LCS Worth",2340
+Clark,School Board Member,April  Hauber,Non Partisan,Clarksville Community School Corp,1590
+Clay,School Board Member,Ashlee Vitz,Non Partisan,Clay Community,2556
+Elkhart,School Board Member,BABETTE S BOLING,Non Partisan,ELKHART COMMUNITY SCHOOL,7331
+Dubois,School Board Member,Belinda Lange,Non Partisan,SOUTHWEST SCHOOL DISTRICT,1867
+Carroll,School Board Member,Benjamin Michael Gleason,Non Partisan,D7,332
+Dubois,School Board Member,Bernard J Vogler,Non Partisan,GREATER JASPER CONSOLIDATED,6244
+Cass,School Board Member,BETH MICHELLE HOWARD,Non Partisan,CASTON SCHOOL CORPORATION,451
+Cass,School Board Member,Bill Cuppy,Non Partisan,Logansport SC,4402
+Clark,School Board Member,Bill Hawkins,Non Partisan,Greater Clark County Schools,10276
+Dearborn,School Board Member,"Bill Lane, Jr",Non Partisan,SOUTH DEARBORN COMM.,774
+Daviess,School Board Member,BRAD ROARK,Non Partisan,NORTH DAVIESS,1549
+Cass,School Board Member,Bradley Swartzell,Non Partisan,Pioneer SC,1348
+Cass,School Board Member,Brandi Rinehart,Non Partisan,Pioneer SC,519
+Dearborn,School Board Member,Brent Casebolt ,Non Partisan,SOUTH DEARBORN COMM.,1493
+Clark,School Board Member,Brian Guernsey,Non Partisan,WEST CLARK 1,2336
+Dearborn,School Board Member,BRIAN P JANSEN,Non Partisan,LAWRENCEBURG COMM.,2004
+Allen,School Board Member,BRIAN THOMPSON,Non Partisan,FORT WAYNE COMMUNITY,22775
+DeKalb,School Board Member,Bruce Buttermore,Non Partisan,DEKALB CENTRAL,3693
+Clinton,School Board Member,BRYCE EATON,Non Partisan,"PRECINCT 21,PRECINCT 24,PRECINCT 25,PRECINCT 26,PRECINCT 29,PRECINCT 30,PRECINCT 36,PRECINCT 38",891
+Elkhart,School Board Member,CALEB A PONTIUS,Non Partisan,BAUGO COMMUNITY SCHOOL,1694
+Blackford,School Board Member,CAMILLE MEALY,Non Partisan,BLACKFORD COUNTY SCHOOLS,1415
+Brown,School Board Member,Carolyn V. Bowden,Non Partisan,Brown,3241
+Elkhart,School Board Member,CATHERINE (CATHY) TAHMASSEBI,Non Partisan,CONCORD COMMUNITY SCHOOL,1909
+Benton,School Board Member,CHAD M. TOLEN,Non Partisan,BENTON COMMUNITY SCHOOL CORPORATION,1511
+Bartholomew,School Board Member,Chad Miller,Non Partisan,SCH F,476
+Delaware,School Board Member,CHARLES (RICK) JONES,Non Partisan,MONROE,417
+Clay,School Board Member,Charley Jackson,Non Partisan,Clay Community,2903
+Decatur,School Board Member,CHRIS OWENS,Non Partisan,Decatur County,3239
+Blackford,School Board Member,CHRISTOPHER M SNOW,Non Partisan,JAY SCHOOL CORP,12
+Clinton,School Board Member,Cindy Neal,Non Partisan,"PRECINCT 22,PRECINCT 23,PRECINCT 27,PRECINCT 28,PRECINCT 32,PRECINCT 33,PRECINCT 39",913
+Blackford,School Board Member,CORY A GUNDRUM,Non Partisan,JAY SCHOOL CORP,6
+Clinton,School Board Member,CRAIG M SHEETS,Non Partisan,"PRECINCT 21,PRECINCT 24,PRECINCT 25,PRECINCT 26,PRECINCT 29,PRECINCT 30,PRECINCT 36,PRECINCT 38",628
+Clark,School Board Member,Curt Daniel,Non Partisan,WEST CLARK 2,180
+Elkhart,School Board Member,CURT FLICKINGER,Non Partisan,WA-NEE COMMUNITY SCHOOL,3096
+Bartholomew,School Board Member,Daniel Teter,Non Partisan,EDINBURGH COMM SCHOOL COR,33
+Adams,School Board Member,DAVE  HILL,Non Partisan,"NA SCHOOL BOARD DIST 1,NA SCHOOL BOARD DIST 2",3751
+Elkhart,School Board Member,DAVID L BLACK,Non Partisan,MCS D,331
+Dearborn,School Board Member,DAWN DISBRO BURKE,Non Partisan,SUNMAN-DEARBORN COMM.,3529
+Boone,School Board Member,DEBBIE UNGAR,Non Partisan,"ZCS Eagle,ZCS Union",10185
+Dearborn,School Board Member,Denise Rollins,Non Partisan,SOUTH DEARBORN COMM.,1033
+Boone,School Board Member,DENNIS J REAGAN,Non Partisan,"WBCCS Clinton,WBCCS Harrison,WBCCS Jackson,WBCCS Jefferson,WBCCS Sugar Creek,WBCCS Washington",2363
+Crawford,School Board Member,DONALD R LAHUE,Non Partisan,Crawford County,390
+Benton,School Board Member,DONALD R. PAMPEL,Non Partisan,TRI-COUNTY,84
+Blackford,School Board Member,DONNA GEESAMAN,Non Partisan,JAY SCHOOL CORP,12
+Clark,School Board Member,Doug Coffman,Non Partisan,WEST CLARK 3,1884
+Dubois,School Board Member,Elaine Miller,Non Partisan,SOUTHEAST SCHOOL DISTRICT,2226
+Boone,School Board Member,ELIZABETH (Liz) PADGETT KEITH,Non Partisan,"LCS Center,LCS Lebanon,LCS Perry,LCS Worth",6031
+Blackford,School Board Member,ELIZABETH A KRIEG,Non Partisan,JAY SCHOOL CORP,4
+Allen,School Board Member,ELIZABETH HATHAWAY,Non Partisan,NORTHWEST ALLEN,10423
+Carroll,School Board Member,Eric E. Johnson,Non Partisan,"C1,C2,C3,C4,C5",2003
+Boone,School Board Member,EROL ALI CETINOK,Non Partisan,"ZCS Eagle,ZCS Union",1014
+Clay,School Board Member,Gary D Rickert,Non Partisan,Clay Community,974
+Dearborn,School Board Member,Gary Gellert,Non Partisan,SUNMAN-DEARBORN COMM.,4780
+Allen,School Board Member,GAYLE C ETZLER,Non Partisan,EAST ALLEN 2E,3038
+Carroll,School Board Member,Gilbert (Gil) C. Smith,Non Partisan,D2,701
+Clinton,School Board Member,GINA CRENSHAW,Non Partisan,"PRECINCT 21,PRECINCT 24,PRECINCT 25,PRECINCT 26,PRECINCT 29,PRECINCT 30,PRECINCT 36,PRECINCT 38",1361
+Elkhart,School Board Member,GLENN B NULL Jr.,Non Partisan,GOSHEN COMMUNITY SCHOOL,3315
+Elkhart,School Board Member,GLENN L DUNCAN,Non Partisan,ECS B,1998
+Dearborn,School Board Member,Glenn Scholl,Non Partisan,SUNMAN-DEARBORN COMM.,4733
+DeKalb,School Board Member,Greg Lantz,Non Partisan,DEKALB CENTRAL,3734
+DeKalb,School Board Member,Greg Newcomer,Non Partisan,DEKALB EASTERN,998
+Carroll,School Board Member,Gregory E. Terry,Non Partisan,D1,151
+Adams,School Board Member,HEATHER M FRANK,Non Partisan,"AC SCHOOL BOARD SEAT 1,AC SCHOOL BOARD SEAT 2,AC SCHOOL BOARD SEAT 3,AC SCHOOL BOARD SEAT 4,AC SCHOOL BOARD SEAT 5,AC SCHOOL BOARD SEAT 6",1169
+Delaware,School Board Member,JACOB M CASE,Non Partisan,Delaware Community School District,2282
+Dubois,School Board Member,JAMES B CORBIN,Non Partisan,GREATER JASPER CONSOLIDATED,3470
+Clay,School Board Member,James H Yeryar,Non Partisan,Metropolitan School District of Shakamak,336
+Clark,School Board Member,Janelle Fitzpatrick,Non Partisan,Greater Clark County Schools,12708
+Allen,School Board Member,JARED L WIDENHOEFER,Non Partisan,EAST ALLEN 2E,1638
+Bartholomew,School Board Member,Jason R. Lawson,Non Partisan,EDINBURGH COMM SCHOOL COR,23
+Dubois,School Board Member,Jason T. Heile,Non Partisan,SOUTHWEST SCHOOL DISTRICT,648
+Daviess,School Board Member,JAY ARMES,Non Partisan,WASHINGTON,3482
+Clay,School Board Member,Jay B Criss,Non Partisan,Metropolitan School District of Shakamak,197
+Cass,School Board Member,JEFFERY A SMITH,Non Partisan,CASTON SCHOOL CORPORATION,467
+Dearborn,School Board Member,JEFFERY ALLEN LANE,Non Partisan,SOUTH DEARBORN COMM.,2341
+Dearborn,School Board Member,JEFFREY K COTTON,Non Partisan,SOUTH DEARBORN COMM.,1839
+Carroll,School Board Member,Jenna Fassnacht,Non Partisan,D3,188
+Allen,School Board Member,JENNIFER COUCH,Non Partisan,SOUTHWEST ALLEN,13667
+Elkhart,School Board Member,JENNIFER DAVIS,Non Partisan,CONCORD COMMUNITY SCHOOL,4684
+Benton,School Board Member,JENNIFER W. BARCE,Non Partisan,BENTON COMMUNITY SCHOOL CORPORATION,1467
+Adams,School Board Member,JEREMI D SCHORTGEN,Non Partisan,"AC SCHOOL BOARD SEAT 1,AC SCHOOL BOARD SEAT 2,AC SCHOOL BOARD SEAT 3,AC SCHOOL BOARD SEAT 4,AC SCHOOL BOARD SEAT 5,AC SCHOOL BOARD SEAT 6",1853
+Elkhart,School Board Member,JERI E STAHR,Non Partisan,ELKHART COMMUNITY SCHOOL,3237
+Delaware,School Board Member,JESSE P WHITE,Non Partisan,MONROE,363
+Bartholomew,School Board Member,Jill D. Shedd,Non Partisan,Bartholomew Consolidated,15820
+Elkhart,School Board Member,JILL SZYARTO,Non Partisan,ELKHART COMMUNITY SCHOOL,3502
+Daviess,School Board Member,JODY W SCHULTHEIS,Non Partisan,BARR-REEVE,671
+Clark,School Board Member,John (Jack) I Stagner,Non Partisan,Greater Clark County Schools,2215
+Dubois,School Board Member,John A Schroeder,Non Partisan,SOUTHWEST SCHOOL DISTRICT,2074
+Clark,School Board Member,John Buckwalter,Non Partisan,Greater Clark County Schools,9592
+Bartholomew,School Board Member,John D. Harker,Non Partisan,SCH H,986
+Clay,School Board Member,John F Gambill,Non Partisan,Metropolitan School District of Shakamak,251
+Adams,School Board Member,JOHN L MANN,Non Partisan,"SA SCHOOL BOARD SEAT 1,SA SCHOOL BOARD SEAT 2,SA SCHOOL BOARD SEAT 3,SA SCHOOL BOARD SEAT 4,SA SCHOOL BOARD SEAT 5",2395
+Carroll,School Board Member,Jon A. Johnson,Non Partisan,"C1,C2,C3,C4,C5",2015
+Allen,School Board Member,JORDAN LEBAMOFF,Non Partisan,FORT WAYNE COMMUNITY 4,2855
+Elkhart,School Board Member,JOSE ELIZALDE,Non Partisan,GCS 1,1540
+Elkhart,School Board Member,JOSEPH GUERRERO,Non Partisan,GCS 3,665
+Carroll,School Board Member,JOSEPH LEE MINK,Non Partisan,ROSSVILLE,304
+Clinton,School Board Member,JOSEPH LEE MINK,Non Partisan,ROSSVILLE,964
+Brown,School Board Member,Judith Hardwick,Non Partisan,Brown,2327
+Allen,School Board Member,JULIA L HOLLINGSWORTH,Non Partisan,FORT WAYNE COMMUNITY 1,8800
+Bartholomew,School Board Member,Julie Ann Bilz,Non Partisan,Bartholomew Consolidated,14119
+Bartholomew,School Board Member,Justin A. Lollar,Non Partisan,EDINBURGH COMM SCHOOL COR,36
+Clark,School Board Member,Justin Hansford,Non Partisan,Clarksville Community School Corp,1512
+Clinton,School Board Member,KATHERINE (Katie) EVANS COHEE,Non Partisan,"PRECINCT 21,PRECINCT 24,PRECINCT 25,PRECINCT 26,PRECINCT 29,PRECINCT 30,PRECINCT 36,PRECINCT 38",1358
+Clark,School Board Member,Kathryn (Katie) Morgan,Non Partisan,WEST CLARK 2,398
+Blackford,School Board Member,KATHRYN LUDWIG,Non Partisan,Blackford,2166
+Bartholomew,School Board Member,Kathy L. Dayhoff-Dwyer,Non Partisan,Bartholomew Consolidated,14533
+Delaware,School Board Member,KEITH  DAVIS,Non Partisan,LIBERTY,1692
+Elkhart,School Board Member,KELLIE LYN MULLINS,Non Partisan,ELKHART COMMUNITY SCHOOL,5552
+Elkhart,School Board Member,KELLY BARR,Non Partisan,CONCORD COMMUNITY SCHOOL,2089
+Dubois,School Board Member,Kenneth  L Schnaus,Non Partisan,GREATER JASPER CONSOLIDATED,3730
+Dubois,School Board Member,Kent G Uebelhor,Non Partisan,SOUTHEAST SCHOOL DISTRICT,2334
+Delaware,School Board Member,KEVIN  THOMAS,Non Partisan,Liberty Perry Community School District,1672
+Delaware,School Board Member,KEVIN L ELAM,Non Partisan,SALEM,669
+Clark,School Board Member,Kevin M Anderson II,Non Partisan,Greater Clark County Schools,7592
+Clark,School Board Member,Kevin Puckett,Non Partisan,WEST CLARK 3,1130
+Dearborn,School Board Member,KEVIN R MOLLAUN,Non Partisan,LAWRENCEBURG COMM.,1574
+Crawford,School Board Member,KIMBERLY D HOWERTON,Non Partisan,Crawford County,546
+Carroll,School Board Member,Kirk L. Schwarzkopf,Non Partisan,D3,237
+Elkhart,School Board Member,KRIS E SEYMORE,Non Partisan,BAUGO COMMUNITY SCHOOL,1607
+Clinton,School Board Member,KRISTEN L BEARDSLEY,Non Partisan,FRANKFORT 04,769
+Allen,School Board Member,KRISTI KAY SCHLATTER,Non Partisan,NORTHWEST ALLEN,12302
+Benton,School Board Member,KYLE M. ARVIN,Non Partisan,TRI-COUNTY,78
+Daviess,School Board Member,LANA HELMS,Non Partisan,BARR-REEVE,1079
+Crawford,School Board Member,LANCE E STROUD,Non Partisan,Crawford County,680
+Adams,School Board Member,LANDON K PATTERSON,Non Partisan,"SA SCHOOL BOARD SEAT 1,SA SCHOOL BOARD SEAT 2,SA SCHOOL BOARD SEAT 3,SA SCHOOL BOARD SEAT 4,SA SCHOOL BOARD SEAT 5",2077
+Delaware,School Board Member,Larry J Batt,Non Partisan,WASHINGTON,547
+DeKalb,School Board Member,Larry W. Getts Jr.,Non Partisan,"GARRETT, KEYSER, BUTLER",2064
+DeKalb,School Board Member,Lee M. Stoy ,Non Partisan,HAMILTON SCHOOL DISTRICT - DIST 1,316
+Dubois,School Board Member,Leslie A. Petry,Non Partisan,SOUTHWEST SCHOOL DISTRICT,2147
+DeKalb,School Board Member,Leslie Peel,Non Partisan,DEKALB CENTRAL,3659
+Brown,School Board Member,Linda L. Hobbs,Non Partisan,Brown,2164
+Boone,School Board Member,LISA E HUTCHESON,Non Partisan,"LCS Center,LCS Lebanon,LCS Perry,LCS Worth",4124
+DeKalb,School Board Member,Lisa Reinhart,Non Partisan,DEKALB EASTERN,956
+Decatur,School Board Member,LIZETTE R BELL,Non Partisan,Decatur County,2888
+Clark,School Board Member,Logan Hostettler,Non Partisan,Greater Clark County Schools,9126
+Elkhart,School Board Member,LOUIS BONACORSI,Non Partisan,WA-NEE COMMUNITY SCHOOL,3080
+Clay,School Board Member,Lynn S Romas,Non Partisan,Clay Community,4925
+Allen,School Board Member,MARIA NORMAN,Non Partisan,FORT WAYNE COMMUNITY,28648
+Elkhart,School Board Member,MARIO GARBER,Non Partisan,GCS 3,890
+DeKalb,School Board Member,Mark H Gould,Non Partisan,HAMILTON SCHOOL DISTRICT,233
+Dearborn,School Board Member,Mark Knigga,Non Partisan,LAWRENCEBURG COMM.,1727
+Clinton,School Board Member,MARK SHEETS,Non Partisan,PRECINCT 20,284
+Decatur,School Board Member,MATTHEW J. (MATT)  HOEING,Non Partisan,Decatur County,3097
+Cass,School Board Member,Matthew P. Lewellen,Non Partisan,Lewis Cass Schools,2094
+Boone,School Board Member,MELISSA A JOHNSON SMITH,Non Partisan,"WBCCS Clinton,WBCCS Harrison,WBCCS Jackson,WBCCS Jefferson,WBCCS Sugar Creek,WBCCS Washington",2331
+Clinton,School Board Member,MICHAEL (Joey) STILLWELL,Non Partisan,"PRECINCT 22,PRECINCT 23,PRECINCT 27,PRECINCT 28,PRECINCT 32,PRECINCT 33,PRECINCT 39",451
+Carroll,School Board Member,Michael A. Priest,Non Partisan,D7,396
+Boone,School Board Member,MICHAEL BERG,Non Partisan,"ZCS Eagle,ZCS Union",4769
+Boone,School Board Member,MICHAEL COUSSENS,Non Partisan,"ZCS Eagle,ZCS Union",9357
+Dearborn,School Board Member,Michael Griffin,Non Partisan,SUNMAN-DEARBORN COMM.,1962
+Blackford,School Board Member,MICHAEL J SHANNON,Non Partisan,JAY SCHOOL CORP,15
+Dearborn,School Board Member,MICHAEL NORMAN,Non Partisan,SUNMAN-DEARBORN COMM.,4714
+Delaware,School Board Member,MICHAEL R VANHORN,Non Partisan,MONROE,762
+Delaware,School Board Member,MICHAEL S BEHRENDT,Non Partisan,MT PLEASANT,2336
+Delaware,School Board Member,MICHAEL THOMAS DOWNHAM,Non Partisan,MONROE,643
+Cass,School Board Member,Milt Hess,Non Partisan,Logansport SC,4491
+Cass,School Board Member,Mitch Lynn Zehring,Non Partisan,Lewis Cass Schools,1143
+Elkhart,School Board Member,MITCH MILLER,Non Partisan,MCS D,506
+Adams,School Board Member,MITCHEL W SPRUNGER,Non Partisan,"SA SCHOOL BOARD SEAT 1,SA SCHOOL BOARD SEAT 2,SA SCHOOL BOARD SEAT 3,SA SCHOOL BOARD SEAT 4,SA SCHOOL BOARD SEAT 5",2069
+Clark,School Board Member,Myra Wright Powell,Non Partisan,WEST CLARK 2,1946
+Crawford,School Board Member,MYRNA L SANDERS,Non Partisan,Crawford County,333
+Boone,School Board Member,Nancy Boone,Non Partisan,SHERIDAN,426
+Clinton,School Board Member,NATHAN M ROOT,Non Partisan,"CLAY,PRECINCT 31,PRECINCT 34,PRECINCT 35",1015
+Carroll,School Board Member,NATHAN M ROOT,Non Partisan,"CLAY,PRECINCT 31,PRECINCT 34,PRECINCT 35",315
+Boone,School Board Member,NICHOLAS  SPROULL,Non Partisan,"ZCS Eagle,ZCS Union",4673
+Clark,School Board Member,Nick L Duran Jr.,Non Partisan,Greater Clark County Schools,6782
+Blackford,School Board Member,P J CORWIN,Non Partisan,JAY SCHOOL CORP,3
+Daviess,School Board Member,PAMELA LYNN BARTLETT,Non Partisan,WASHINGTON,3021
+Delaware,School Board Member,PAT LAVELLE,Non Partisan,MT PLEASANT,3193
+Bartholomew,School Board Member,Pat Walters,Non Partisan,Flat Rock-Hawcreek,1264
+Delaware,School Board Member,Patricia Diane Evans,Non Partisan,SALEM,968
+Benton,School Board Member,PATRICK A. THURSTON,Non Partisan,BENTON COMMUNITY SCHOOL CORPORATION,987
+Elkhart,School Board Member,PAUL M GAYLER,Non Partisan,MCS A,842
+Allen,School Board Member,PAULETTE NELLEMS,Non Partisan,EAST ALLEN 3E,2004
+Boone,School Board Member,PHIL FOSTER,Non Partisan,"WBCCS Clinton,WBCCS Harrison,WBCCS Jackson,WBCCS Jefferson,WBCCS Sugar Creek,WBCCS Washington",2414
+Blackford,School Board Member,PHIL JONES,Non Partisan,BLACKFORD COUNTY SCHOOLS,2841
+Allen,School Board Member,RACHEL L RAYBURN,Non Partisan,FORT WAYNE COMMUNITY 4,2474
+Cass,School Board Member,Rachelle Pearson,Non Partisan,Pioneer SC,915
+Elkhart,School Board Member,RANDALL (RANDY) MYERS,Non Partisan,CONCORD COMMUNITY SCHOOL,2677
+Daviess,School Board Member,RHETT D WILLIAMS,Non Partisan,WASHINGTON,1079
+Bartholomew,School Board Member,"Richard A. Stenner, Jr.",Non Partisan,Bartholomew Consolidated,14514
+DeKalb,School Board Member,RICHARD D MUSSER,Non Partisan,DEKALB EASTERN,1688
+Delaware,School Board Member,RICHARD L JOHNSON,Non Partisan,Harrison Washington School District,1613
+Daviess,School Board Member,RITA M ALLEN,Non Partisan,BARR-REEVE,100
+Clinton,School Board Member,ROBERT B ALLEN,Non Partisan,"PRECINCT 22,PRECINCT 23,PRECINCT 27,PRECINCT 28,PRECINCT 32,PRECINCT 33,PRECINCT 39",482
+Clay,School Board Member,Robert J Wise,Non Partisan,Metropolitan School District of Shakamak,259
+Delaware,School Board Member,ROBERT PAUL COOK,Non Partisan,Liberty Perry Community School District,1559
+Benton,School Board Member,ROBERT S. (BOB) GERBER,Non Partisan,TRI-COUNTY,71
+Elkhart,School Board Member,ROGER A NAFZIGER,Non Partisan,GOSHEN COMMUNITY SCHOOL,6171
+Daviess,School Board Member,ROGER B CALLAHAN,Non Partisan,NORTH DAVIESS,1592
+Allen,School Board Member,RONALD D FELGER,Non Partisan,NORTHWEST ALLEN,10263
+Delaware,School Board Member,RONALD K HALBERT Jr.,Non Partisan,SALEM,791
+Clay,School Board Member,Ronald L Scherb,Non Partisan,Clay Community,1745
+Blackford,School Board Member,RONALD LAUX,Non Partisan,JAY SCHOOL CORP,18
+Daviess,School Board Member,RONALD W BOYD,Non Partisan,BARR-REEVE,537
+Elkhart,School Board Member,ROSCOE (ROCKY) L ENFIELD Jr.,Non Partisan,ECS B,2738
+Clay,School Board Member,Ryan J Keller,Non Partisan,Clay Community,1791
+Delaware,School Board Member,RYAN KELLY,Non Partisan,MT PLEASANT,3595
+Benton,School Board Member,RYAN L. KINDIG,Non Partisan,SOUTH NEWTON,46
+Cass,School Board Member,Ryan Zeck,Non Partisan,Lewis Cass Schools,1486
+Clinton,School Board Member,S. Denise Goodman,Non Partisan,"PRECINCT 22,PRECINCT 23,PRECINCT 27,PRECINCT 28,PRECINCT 32,PRECINCT 33,PRECINCT 39",328
+Elkhart,School Board Member,SARAH ELLEDGE,Non Partisan,FAIRFIELD COMMUNITY SCHOOL,1689
+Blackford,School Board Member,SCOTT A MALOTT,Non Partisan,BLACKFORD COUNTY SCHOOLS,1965
+Clark,School Board Member,Scott Groan,Non Partisan,WEST CLARK 2,1673
+Dearborn,School Board Member,Scott Willoughby,Non Partisan,SOUTH DEARBORN COMM.,3404
+Carroll,School Board Member,SHANE HANNA,Non Partisan,TWLK 1,153
+Boone,School Board Member,SHANE STEIMEL,Non Partisan,"WBCCS Clinton,WBCCS Harrison,WBCCS Jackson,WBCCS Jefferson,WBCCS Sugar Creek,WBCCS Washington",2236
+Clay,School Board Member,Shane Wiram,Non Partisan,Clay Community,2105
+DeKalb,School Board Member,Sherri Strock,Non Partisan,DEKALB EASTERN,1661
+Adams,School Board Member,STEVE A MALLER,Non Partisan,"AC SCHOOL BOARD SEAT 1,AC SCHOOL BOARD SEAT 2,AC SCHOOL BOARD SEAT 3,AC SCHOOL BOARD SEAT 4,AC SCHOOL BOARD SEAT 5,AC SCHOOL BOARD SEAT 6",923
+Daviess,School Board Member,STEVE BOUCHIE,Non Partisan,WASHINGTON,4264
+Brown,School Board Member,Steve Miller Jr,Non Partisan,Brown,2375
+Crawford,School Board Member,STEVEN B HILGARTNER,Non Partisan,Crawford County,277
+Elkhart,School Board Member,STEVEN EDWARDS,Non Partisan,FAIRFIELD COMMUNITY SCHOOL,1223
+Daviess,School Board Member,STEVEN K FRETTE,Non Partisan,WASHINGTON,4258
+Carroll,School Board Member,Steven Myer,Non Partisan,D1,377
+Boone,School Board Member,Steven T. Dollahan,Non Partisan,SHERIDAN,304
+Dearborn,School Board Member,Suzanna Thies ,Non Partisan,SOUTH DEARBORN COMM.,1116
+Brown,School Board Member,Tabitha K. Hilligoss,Non Partisan,Brown,2260
+DeKalb,School Board Member,Tamara L Best,Non Partisan,"GARRETT, KEYSER, BUTLER",1726
+Elkhart,School Board Member,TED SELMAN,Non Partisan,GCS 3,482
+Elkhart,School Board Member,TERRY L GRABER,Non Partisan,WA-NEE COMMUNITY SCHOOL,3079
+Delaware,School Board Member,THOMAS D SIMPSON,Non Partisan,MT PLEASANT,2979
+Brown,School Board Member,Tim Clark,Non Partisan,Brown,1223
+DeKalb,School Board Member,Tim E Haynes,Non Partisan,DEKALB CENTRAL,3677
+Allen,School Board Member,TIMOTHY E HINES,Non Partisan,EAST ALLEN,14051
+Daviess,School Board Member,TIMOTHY HEDRICK,Non Partisan,WASHINGTON,1491
+Clinton,School Board Member,Timothy Matthew Snyder,Non Partisan,"PRECINCT 22,PRECINCT 23,PRECINCT 27,PRECINCT 28,PRECINCT 32,PRECINCT 33,PRECINCT 39",499
+Adams,School Board Member,TIMOTHY R TOBIAS,Non Partisan,"AC SCHOOL BOARD SEAT 1,AC SCHOOL BOARD SEAT 2,AC SCHOOL BOARD SEAT 3,AC SCHOOL BOARD SEAT 4,AC SCHOOL BOARD SEAT 5,AC SCHOOL BOARD SEAT 6",1865
+Boone,School Board Member,Todd C. Roberts,Non Partisan,SHERIDAN,351
+Delaware,School Board Member,TODD E TREHEARNE,Non Partisan,HARRISON,1016
+Decatur,School Board Member,TODD W MAUER,Non Partisan,Decatur County,2994
+Allen,School Board Member,TOM RHOADES,Non Partisan,SOUTHWEST ALLEN,13476
+Clinton,School Board Member,TRAVIS S KELLEY,Non Partisan,"PRECINCT 22,PRECINCT 23,PRECINCT 27,PRECINCT 28,PRECINCT 32,PRECINCT 33,PRECINCT 39",790
+Delaware,School Board Member,TRENT A FOX,Non Partisan,Delaware Community School District,3880
+Benton,School Board Member,TRENTON LINDENMAN,Non Partisan,BENTON COMMUNITY SCHOOL CORPORATION,847
+Elkhart,School Board Member,TROY E SCOTT,Non Partisan,ELKHART COMMUNITY SCHOOL,4155
+Crawford,School Board Member,TROY L WHEELER,Non Partisan,Crawford County,297
+Brown,School Board Member,Vicki Jean Harden,Non Partisan,Brown,3306
+Crawford,School Board Member,WAYNE CAROTHERS,Non Partisan,Crawford County,581
+Blackford,School Board Member,WILLIAM (Bill)  DICE,Non Partisan,Blackford,1061

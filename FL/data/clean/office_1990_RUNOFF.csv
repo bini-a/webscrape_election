@@ -1,0 +1,4 @@
+"election_id","office_id","district","office_local","office","seat","n_winners","selection_method","retention_method","open_seat","contested","runoff","special"
+"FL_1990-10-02_PRI","TC2_11_38",11,"Circuit Judge","TC2",38,2,"NPE",NA,NA,1,1,0
+"FL_1990-10-02_PRI","TC2_13_14",13,"Circuit Judge","TC2",14,2,"NPE",NA,NA,1,1,0
+"FL_1990-10-02_PRI","TC2_13_15",13,"Circuit Judge","TC2",15,2,"NPE",NA,NA,1,1,0

@@ -1,0 +1,80 @@
+"","District_orig","County","election_id","office_id","candidate_id","candidate_name","first_name","last_name","prefix","suffix","gender","race","ethinicity","age","incumbent"
+"1","Indiana","Benton","IN_2020-11-03_GEN","AG_Benton_1_1",NA,"Jonathan Weinzapfel","Jonathan","Weinzapfel",NA,NA,NA,NA,NA,NA,NA
+"2","Indiana","Brown","IN_2020-11-03_GEN","AG_Brown_1_1",NA,"Jonathan Weinzapfel","Jonathan","Weinzapfel",NA,NA,NA,NA,NA,NA,NA
+"3","Indiana","Crawford","IN_2020-11-03_GEN","AG_Crawford_1_1",NA,"Jonathan Weinzapfel","Jonathan","Weinzapfel",NA,NA,NA,NA,NA,NA,NA
+"4","Indiana","Dubois","IN_2020-11-03_GEN","AG_Dubois_1_1",NA,"Jonathan Weinzapfel","Jonathan","Weinzapfel",NA,NA,NA,NA,NA,NA,NA
+"5","Indiana","Adams","IN_2020-11-03_GEN","AG_Adams_1_1",NA,"Jonathan Weinzapfel","Jonathan","Weinzapfel",NA,NA,NA,NA,NA,NA,NA
+"6","Indiana","Clay","IN_2020-11-03_GEN","AG_Clay_1_1",NA,"Jonathan Weinzapfel","Jonathan","Weinzapfel",NA,NA,NA,NA,NA,NA,NA
+"7","Indiana","Clinton","IN_2020-11-03_GEN","AG_Clinton_1_1",NA,"Jonathan Weinzapfel","Jonathan","Weinzapfel",NA,NA,NA,NA,NA,NA,NA
+"8","Indiana","DeKalb","IN_2020-11-03_GEN","AG_DeKalb_1_1",NA,"Jonathan Weinzapfel","Jonathan","Weinzapfel",NA,NA,NA,NA,NA,NA,NA
+"9","Indiana","Blackford","IN_2020-11-03_GEN","AG_Blackford_1_1",NA,"Jonathan Weinzapfel","Jonathan","Weinzapfel",NA,NA,NA,NA,NA,NA,NA
+"10","Indiana","Clark","IN_2020-11-03_GEN","AG_Clark_1_1",NA,"Jonathan Weinzapfel","Jonathan","Weinzapfel",NA,NA,NA,NA,NA,NA,NA
+"11","Indiana","Decatur","IN_2020-11-03_GEN","AG_Decatur_1_1",NA,"Jonathan Weinzapfel","Jonathan","Weinzapfel",NA,NA,NA,NA,NA,NA,NA
+"12","Indiana","Delaware","IN_2020-11-03_GEN","AG_Delaware_1_1",NA,"Jonathan Weinzapfel","Jonathan","Weinzapfel",NA,NA,NA,NA,NA,NA,NA
+"13","Indiana","Elkhart","IN_2020-11-03_GEN","AG_Elkhart_1_1",NA,"Jonathan Weinzapfel","Jonathan","Weinzapfel",NA,NA,NA,NA,NA,NA,NA
+"14","Indiana","Allen","IN_2020-11-03_GEN","AG_Allen_1_1",NA,"Jonathan Weinzapfel","Jonathan","Weinzapfel",NA,NA,NA,NA,NA,NA,NA
+"15","Indiana","Bartholomew","IN_2020-11-03_GEN","AG_Bartholomew_1_1",NA,"Jonathan Weinzapfel","Jonathan","Weinzapfel",NA,NA,NA,NA,NA,NA,NA
+"16","Indiana","Boone","IN_2020-11-03_GEN","AG_Boone_1_1",NA,"Jonathan Weinzapfel","Jonathan","Weinzapfel",NA,NA,NA,NA,NA,NA,NA
+"17","Indiana","Carroll","IN_2020-11-03_GEN","AG_Carroll_1_1",NA,"Jonathan Weinzapfel","Jonathan","Weinzapfel",NA,NA,NA,NA,NA,NA,NA
+"18","Indiana","Cass","IN_2020-11-03_GEN","AG_Cass_1_1",NA,"Jonathan Weinzapfel","Jonathan","Weinzapfel",NA,NA,NA,NA,NA,NA,NA
+"19","Indiana","Daviess","IN_2020-11-03_GEN","AG_Daviess_1_1",NA,"Jonathan Weinzapfel","Jonathan","Weinzapfel",NA,NA,NA,NA,NA,NA,NA
+"20","Indiana","Dearborn","IN_2020-11-03_GEN","AG_Dearborn_1_1",NA,"Jonathan Weinzapfel","Jonathan","Weinzapfel",NA,NA,NA,NA,NA,NA,NA
+"21","Indiana","Benton","IN_2020-11-03_GEN","AG_Benton_1_1",NA,"Todd Rokita","Todd","Rokita",NA,NA,NA,NA,NA,NA,NA
+"22","Indiana","Clay","IN_2020-11-03_GEN","AG_Clay_1_1",NA,"Todd Rokita","Todd","Rokita",NA,NA,NA,NA,NA,NA,NA
+"23","Indiana","Crawford","IN_2020-11-03_GEN","AG_Crawford_1_1",NA,"Todd Rokita","Todd","Rokita",NA,NA,NA,NA,NA,NA,NA
+"24","Indiana","Blackford","IN_2020-11-03_GEN","AG_Blackford_1_1",NA,"Todd Rokita","Todd","Rokita",NA,NA,NA,NA,NA,NA,NA
+"25","Indiana","Boone","IN_2020-11-03_GEN","AG_Boone_1_1",NA,"Todd Rokita","Todd","Rokita",NA,NA,NA,NA,NA,NA,NA
+"26","Indiana","Brown","IN_2020-11-03_GEN","AG_Brown_1_1",NA,"Todd Rokita","Todd","Rokita",NA,NA,NA,NA,NA,NA,NA
+"27","Indiana","Dearborn","IN_2020-11-03_GEN","AG_Dearborn_1_1",NA,"Todd Rokita","Todd","Rokita",NA,NA,NA,NA,NA,NA,NA
+"28","Indiana","Decatur","IN_2020-11-03_GEN","AG_Decatur_1_1",NA,"Todd Rokita","Todd","Rokita",NA,NA,NA,NA,NA,NA,NA
+"29","Indiana","Delaware","IN_2020-11-03_GEN","AG_Delaware_1_1",NA,"Todd Rokita","Todd","Rokita",NA,NA,NA,NA,NA,NA,NA
+"30","Indiana","Elkhart","IN_2020-11-03_GEN","AG_Elkhart_1_1",NA,"Todd Rokita","Todd","Rokita",NA,NA,NA,NA,NA,NA,NA
+"31","Indiana","Adams","IN_2020-11-03_GEN","AG_Adams_1_1",NA,"Todd Rokita","Todd","Rokita",NA,NA,NA,NA,NA,NA,NA
+"32","Indiana","Clark","IN_2020-11-03_GEN","AG_Clark_1_1",NA,"Todd Rokita","Todd","Rokita",NA,NA,NA,NA,NA,NA,NA
+"33","Indiana","Clinton","IN_2020-11-03_GEN","AG_Clinton_1_1",NA,"Todd Rokita","Todd","Rokita",NA,NA,NA,NA,NA,NA,NA
+"34","Indiana","DeKalb","IN_2020-11-03_GEN","AG_DeKalb_1_1",NA,"Todd Rokita","Todd","Rokita",NA,NA,NA,NA,NA,NA,NA
+"35","Indiana","Dubois","IN_2020-11-03_GEN","AG_Dubois_1_1",NA,"Todd Rokita","Todd","Rokita",NA,NA,NA,NA,NA,NA,NA
+"36","Indiana","Allen","IN_2020-11-03_GEN","AG_Allen_1_1",NA,"Todd Rokita","Todd","Rokita",NA,NA,NA,NA,NA,NA,NA
+"37","Indiana","Bartholomew","IN_2020-11-03_GEN","AG_Bartholomew_1_1",NA,"Todd Rokita","Todd","Rokita",NA,NA,NA,NA,NA,NA,NA
+"38","Indiana","Carroll","IN_2020-11-03_GEN","AG_Carroll_1_1",NA,"Todd Rokita","Todd","Rokita",NA,NA,NA,NA,NA,NA,NA
+"39","Indiana","Cass","IN_2020-11-03_GEN","AG_Cass_1_1",NA,"Todd Rokita","Todd","Rokita",NA,NA,NA,NA,NA,NA,NA
+"40","Indiana","Daviess","IN_2020-11-03_GEN","AG_Daviess_1_1",NA,"Todd Rokita","Todd","Rokita",NA,NA,NA,NA,NA,NA,NA
+"41","Clark","Clark","IN_2020-11-03_GEN","TC2_Clark_1_1",NA,"Andrew (Drew) Adams","Andrew","Adams",NA,NA,NA,NA,NA,NA,NA
+"42","Clark","Clark","IN_2020-11-03_GEN","TC2_Clark_1_1",NA,"Joseph P. Weber","Joseph","Weber",NA,NA,NA,NA,NA,NA,NA
+"43","Delaware","Delaware","IN_2020-11-03_GEN","TC2_Delaware_1_1",NA,"Linda Ralu Wolf","Linda","Wolf",NA,NA,NA,NA,NA,NA,NA
+"44","Dubois","Dubois","IN_2020-11-03_GEN","TC2_Dubois_1_1",NA,"Nathan A. Verkamp","Nathan","Verkamp",NA,NA,NA,NA,NA,NA,NA
+"45","Delaware","Delaware","IN_2020-11-03_GEN","TC2_Delaware_1_1",NA,"Thomas A. Cannon Jr.","Thomas","Cannon",NA,NA,NA,NA,NA,NA,NA
+"46","Clark","Clark","IN_2020-11-03_GEN","TC2_Clark_1_1",NA,"Bradley Jacobs","Bradley","Jacobs",NA,NA,NA,NA,NA,NA,NA
+"47","Clark","Clark","IN_2020-11-03_GEN","TC2_Clark_1_1",NA,"Dan Moore","Dan","Moore",NA,NA,NA,NA,NA,NA,NA
+"48","Daviess","Daviess","IN_2020-11-03_GEN","TC2_Daviess_1_1",NA,"Gregory A. Smith","Gregory","Smith",NA,NA,NA,NA,NA,NA,NA
+"49","Benton","Benton","IN_2020-11-03_GEN","TC2_Benton_1_1",NA,"John C. Wright","John","Wright",NA,NA,NA,NA,NA,NA,NA
+"50","Delaware","Delaware","IN_2020-11-03_GEN","TC2_Delaware_1_1",NA,"John M. Feick","John","Feick",NA,NA,NA,NA,NA,NA,NA
+"51","Dubois","Dubois","IN_2020-11-03_GEN","TC2_Dubois_1_1",NA,"Kevin D. Crouse","Kevin","Crouse",NA,NA,NA,NA,NA,NA,NA
+"52","Clark","Clark","IN_2020-11-03_GEN","TC2_Clark_1_1",NA,"N. Lisa Glickfield","N.","Glickfield",NA,NA,NA,NA,NA,NA,NA
+"53","Allen","Allen","IN_2020-11-03_GEN","TC2_Allen_1_1",NA,"Wendy Davis","Wendy","Davis",NA,NA,NA,NA,NA,NA,NA
+"54","Adams","Adams","IN_2020-11-03_GEN","TC1_Adams_1_1",NA,"Sam Conrad","Sam","Conrad",NA,NA,NA,NA,NA,NA,NA
+"55","Allen","Allen","IN_2020-11-03_GEN","TC1_Allen_1_1",NA,"Andrea R. Trevino","Andrea","Trevino",NA,NA,NA,NA,NA,NA,NA
+"56","Allen","Allen","IN_2020-11-03_GEN","TC1_Allen_1_1",NA,"Craig J. Bobay","Craig","Bobay",NA,NA,NA,NA,NA,NA,NA
+"57","Allen","Allen","IN_2020-11-03_GEN","TC1_Allen_1_1",NA,"David M. Zent","David","Zent",NA,NA,NA,NA,NA,NA,NA
+"58","Allen","Allen","IN_2020-11-03_GEN","TC1_Allen_1_1",NA,"Fran C. Gull","Fran","Gull",NA,NA,NA,NA,NA,NA,NA
+"59","Allen","Allen","IN_2020-11-03_GEN","TC1_Allen_1_1",NA,"Jennifer L. DeGroote","Jennifer","DeGroote",NA,NA,NA,NA,NA,NA,NA
+"60","DeKalb","DeKalb","IN_2020-11-03_GEN","TC1_DeKalb_1_1",NA,"Adam Squiller","Adam","Squiller",NA,NA,NA,NA,NA,NA,NA
+"61","Boone","Boone","IN_2020-11-03_GEN","TC1_Boone_1_1",NA,"Bruce E. Petit","Bruce","Petit",NA,NA,NA,NA,NA,NA,NA
+"62","Elkhart","Elkhart","IN_2020-11-03_GEN","TC1_Elkhart_1_1",NA,"Christopher J. (Chris) Spataro","Christopher","Spataro",NA,NA,NA,NA,NA,NA,NA
+"63","Daviess","Daviess","IN_2020-11-03_GEN","TC1_Daviess_1_1",NA,"Dean A. Sobecki","Dean","Sobecki",NA,NA,NA,NA,NA,NA,NA
+"64","Elkhart","Elkhart","IN_2020-11-03_GEN","TC1_Elkhart_1_1",NA,"Gretchen S. Lund","Gretchen","Lund",NA,NA,NA,NA,NA,NA,NA
+"65","Bartholomew","Bartholomew","IN_2020-11-03_GEN","TC1_Bartholomew_1_1",NA,"Jonathan L. (Jon) Rohde","Jonathan","Rohde",NA,NA,NA,NA,NA,NA,NA
+"66","Dearborn","Dearborn","IN_2020-11-03_GEN","TC1_Dearborn_1_1",NA,"Jonathan N. Cleary","Jonathan","Cleary",NA,NA,NA,NA,NA,NA,NA
+"67","Clinton","Clinton","IN_2020-11-03_GEN","TC1_Clinton_1_1",NA,"Justin Harold Hunter","Justin","Hunter",NA,NA,NA,NA,NA,NA,NA
+"68","Elkhart","Elkhart","IN_2020-11-03_GEN","TC1_Elkhart_1_1",NA,"Kristine Osterday","Kristine","Osterday",NA,NA,NA,NA,NA,NA,NA
+"69","Boone","Boone","IN_2020-11-03_GEN","TC1_Boone_1_1",NA,"Matthew C. Kincaid","Matthew","Kincaid",NA,NA,NA,NA,NA,NA,NA
+"70","Decatur","Decatur","IN_2020-11-03_GEN","TC1_Decatur_1_1",NA,"Matthew D. Bailey","Matthew","Bailey",NA,NA,NA,NA,NA,NA,NA
+"71","Adams","Adams","IN_2020-11-03_GEN","TC1_Adams_1_1",NA,"Patrick R. Miller","Patrick","Miller",NA,NA,NA,NA,NA,NA,NA
+"72","Elkhart","Elkhart","IN_2020-11-03_GEN","TC1_Elkhart_1_1",NA,"Teresa L. Cataldo","Teresa","Cataldo",NA,NA,NA,NA,NA,NA,NA
+"73","Carroll","Carroll","IN_2020-11-03_GEN","TC1_Carroll_1_1",NA,"Troy Hawkins","Troy","Hawkins",NA,NA,NA,NA,NA,NA,NA
+"74","Clay","Clay","IN_2020-11-03_GEN","CK2_Clay_1_1",NA,"Amy Ellen (Knox) Jordan","Amy","Jordan",NA,NA,NA,NA,NA,NA,NA
+"75","Cass","Cass","IN_2020-11-03_GEN","CK2_Cass_1_1",NA,"Destry Richey","Destry","Richey",NA,NA,NA,NA,NA,NA,NA
+"76","Dearborn","Dearborn","IN_2020-11-03_GEN","CK2_Dearborn_1_1",NA,"Gayle L Pennington","Gayle","Pennington",NA,NA,NA,NA,NA,NA,NA
+"77","DeKalb","DeKalb","IN_2020-11-03_GEN","CK2_DeKalb_1_1",NA,"Holly A Albright","Holly","Albright",NA,NA,NA,NA,NA,NA,NA
+"78","Blackford","Blackford","IN_2020-11-03_GEN","CK2_Blackford_1_1",NA,"Kimberly Pitts","Kimberly","Pitts",NA,NA,NA,NA,NA,NA,NA
+"79","Carroll","Carroll","IN_2020-11-03_GEN","CK2_Carroll_1_1",NA,"Sharon Milburn","Sharon","Milburn",NA,NA,NA,NA,NA,NA,NA

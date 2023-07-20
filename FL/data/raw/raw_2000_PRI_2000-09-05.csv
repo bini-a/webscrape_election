@@ -1,0 +1,1195 @@
+ElectionDate	PartyCode	PartyName	RaceCode	OfficeDesc	CountyCode	CountyName	Juris1num	Juris2num	Precincts	PrecinctsReporting	CanNameLast	CanNameFirst	CanNameMiddle	CanVotes
+9/5/2000	REP	Republican	USS	United States Senator	ALA	Alachua			53	53	Bartlett	Hamilton	A. S.	924
+9/5/2000	REP	Republican	USS	United States Senator	BAK	Baker			9	9	Bartlett	Hamilton	A. S.	127
+9/5/2000	REP	Republican	USS	United States Senator	BAY	Bay			49	49	Bartlett	Hamilton	A. S.	1762
+9/5/2000	REP	Republican	USS	United States Senator	BRA	Bradford			20	20	Bartlett	Hamilton	A. S.	207
+9/5/2000	REP	Republican	USS	United States Senator	BRE	Brevard			177	177	Bartlett	Hamilton	A. S.	4366
+9/5/2000	REP	Republican	USS	United States Senator	BRO	Broward			606	606	Bartlett	Hamilton	A. S.	5597
+9/5/2000	REP	Republican	USS	United States Senator	CAL	Calhoun			14	14	Bartlett	Hamilton	A. S.	31
+9/5/2000	REP	Republican	USS	United States Senator	CHA	Charlotte			63	63	Bartlett	Hamilton	A. S.	2428
+9/5/2000	REP	Republican	USS	United States Senator	CIT	Citrus			35	35	Bartlett	Hamilton	A. S.	1434
+9/5/2000	REP	Republican	USS	United States Senator	CLA	Clay			52	52	Bartlett	Hamilton	A. S.	3511
+9/5/2000	REP	Republican	USS	United States Senator	CLL	Collier			96	96	Bartlett	Hamilton	A. S.	4731
+9/5/2000	REP	Republican	USS	United States Senator	CLM	Columbia			31	31	Bartlett	Hamilton	A. S.	377
+9/5/2000	REP	Republican	USS	United States Senator	DES	Desoto			15	15	Bartlett	Hamilton	A. S.	148
+9/5/2000	REP	Republican	USS	United States Senator	DIX	Dixie			11	11	Bartlett	Hamilton	A. S.	60
+9/5/2000	REP	Republican	USS	United States Senator	DUV	Duval			268	268	Bartlett	Hamilton	A. S.	9003
+9/5/2000	REP	Republican	USS	United States Senator	ESC	Escambia			109	109	Bartlett	Hamilton	A. S.	3576
+9/5/2000	REP	Republican	USS	United States Senator	FLA	Flagler			27	27	Bartlett	Hamilton	A. S.	604
+9/5/2000	REP	Republican	USS	United States Senator	FRA	Franklin			8	8	Bartlett	Hamilton	A. S.	88
+9/5/2000	REP	Republican	USS	United States Senator	GAD	Gadsden			16	16	Bartlett	Hamilton	A. S.	161
+9/5/2000	REP	Republican	USS	United States Senator	GIL	Gilchrist			10	10	Bartlett	Hamilton	A. S.	106
+9/5/2000	REP	Republican	USS	United States Senator	GLA	Glades			13	13	Bartlett	Hamilton	A. S.	63
+9/5/2000	REP	Republican	USS	United States Senator	GUL	Gulf			14	14	Bartlett	Hamilton	A. S.	81
+9/5/2000	REP	Republican	USS	United States Senator	HAM	Hamilton			8	8	Bartlett	Hamilton	A. S.	77
+9/5/2000	REP	Republican	USS	United States Senator	HAR	Hardee			12	12	Bartlett	Hamilton	A. S.	147
+9/5/2000	REP	Republican	USS	United States Senator	HEN	Hendry			22	22	Bartlett	Hamilton	A. S.	261
+9/5/2000	REP	Republican	USS	United States Senator	HER	Hernando			51	51	Bartlett	Hamilton	A. S.	1402
+9/5/2000	REP	Republican	USS	United States Senator	HIG	Highlands			24	24	Bartlett	Hamilton	A. S.	1783
+9/5/2000	REP	Republican	USS	United States Senator	HIL	Hillsborough			320	320	Bartlett	Hamilton	A. S.	6146
+9/5/2000	REP	Republican	USS	United States Senator	HOL	Holmes			17	17	Bartlett	Hamilton	A. S.	99
+9/5/2000	REP	Republican	USS	United States Senator	IND	Indian River			38	38	Bartlett	Hamilton	A. S.	2642
+9/5/2000	REP	Republican	USS	United States Senator	JAC	Jackson			27	27	Bartlett	Hamilton	A. S.	268
+9/5/2000	REP	Republican	USS	United States Senator	JEF	Jefferson			13	13	Bartlett	Hamilton	A. S.	98
+9/5/2000	REP	Republican	USS	United States Senator	LAF	Lafayette			5	5	Bartlett	Hamilton	A. S.	28
+9/5/2000	REP	Republican	USS	United States Senator	LAK	Lake			86	86	Bartlett	Hamilton	A. S.	3927
+9/5/2000	REP	Republican	USS	United States Senator	LEE	Lee			150	150	Bartlett	Hamilton	A. S.	8809
+9/5/2000	REP	Republican	USS	United States Senator	LEO	Leon			95	95	Bartlett	Hamilton	A. S.	1649
+9/5/2000	REP	Republican	USS	United States Senator	LEV	Levy			21	21	Bartlett	Hamilton	A. S.	262
+9/5/2000	REP	Republican	USS	United States Senator	LIB	Liberty			8	8	Bartlett	Hamilton	A. S.	14
+9/5/2000	REP	Republican	USS	United States Senator	MAD	Madison			11	11	Bartlett	Hamilton	A. S.	122
+9/5/2000	REP	Republican	USS	United States Senator	MAN	Manatee			135	135	Bartlett	Hamilton	A. S.	3166
+9/5/2000	REP	Republican	USS	United States Senator	MRN	Marion			96	96	Bartlett	Hamilton	A. S.	3506
+9/5/2000	REP	Republican	USS	United States Senator	MRT	Martin			40	40	Bartlett	Hamilton	A. S.	2433
+9/5/2000	REP	Republican	USS	United States Senator	DAD	Miami-Dade			617	617	Bartlett	Hamilton	A. S.	18685
+9/5/2000	REP	Republican	USS	United States Senator	MON	Monroe			33	33	Bartlett	Hamilton	A. S.	743
+9/5/2000	REP	Republican	USS	United States Senator	NAS	Nassau			21	21	Bartlett	Hamilton	A. S.	926
+9/5/2000	REP	Republican	USS	United States Senator	OKA	Okaloosa			48	48	Bartlett	Hamilton	A. S.	3109
+9/5/2000	REP	Republican	USS	United States Senator	OKE	Okeechobee			18	18	Bartlett	Hamilton	A. S.	296
+9/5/2000	REP	Republican	USS	United States Senator	ORA	Orange			232	232	Bartlett	Hamilton	A. S.	4862
+9/5/2000	REP	Republican	USS	United States Senator	OSC	Osceola			66	66	Bartlett	Hamilton	A. S.	1691
+9/5/2000	REP	Republican	USS	United States Senator	PAL	Palm Beach			531	531	Bartlett	Hamilton	A. S.	7251
+9/5/2000	REP	Republican	USS	United States Senator	PAS	Pasco			132	132	Bartlett	Hamilton	A. S.	3538
+9/5/2000	REP	Republican	USS	United States Senator	PIN	Pinellas			345	345	Bartlett	Hamilton	A. S.	10828
+9/5/2000	REP	Republican	USS	United States Senator	POL	Polk			163	163	Bartlett	Hamilton	A. S.	3872
+9/5/2000	REP	Republican	USS	United States Senator	PUT	Putnam			50	50	Bartlett	Hamilton	A. S.	462
+9/5/2000	REP	Republican	USS	United States Senator	SAN	Santa Rosa			38	38	Bartlett	Hamilton	A. S.	1592
+9/5/2000	REP	Republican	USS	United States Senator	SAR	Sarasota			142	142	Bartlett	Hamilton	A. S.	6497
+9/5/2000	REP	Republican	USS	United States Senator	SEM	Seminole			133	133	Bartlett	Hamilton	A. S.	2303
+9/5/2000	REP	Republican	USS	United States Senator	STJ	St. Johns			58	58	Bartlett	Hamilton	A. S.	2636
+9/5/2000	REP	Republican	USS	United States Senator	STL	St. Lucie			78	78	Bartlett	Hamilton	A. S.	1757
+9/5/2000	REP	Republican	USS	United States Senator	SUM	Sumter			31	31	Bartlett	Hamilton	A. S.	631
+9/5/2000	REP	Republican	USS	United States Senator	SUW	Suwannee			16	16	Bartlett	Hamilton	A. S.	296
+9/5/2000	REP	Republican	USS	United States Senator	TAY	Taylor			14	14	Bartlett	Hamilton	A. S.	83
+9/5/2000	REP	Republican	USS	United States Senator	UNI	Union			11	11	Bartlett	Hamilton	A. S.	55
+9/5/2000	REP	Republican	USS	United States Senator	VOL	Volusia			172	172	Bartlett	Hamilton	A. S.	4377
+9/5/2000	REP	Republican	USS	United States Senator	WAK	Wakulla			12	12	Bartlett	Hamilton	A. S.	108
+9/5/2000	REP	Republican	USS	United States Senator	WAL	Walton			33	33	Bartlett	Hamilton	A. S.	622
+9/5/2000	REP	Republican	USS	United States Senator	WAS	Washington			16	16	Bartlett	Hamilton	A. S.	169
+9/5/2000	REP	Republican	USS	United States Senator	ALA	Alachua			53	53	McCollum	Bill		5473
+9/5/2000	REP	Republican	USS	United States Senator	BAK	Baker			9	9	McCollum	Bill		452
+9/5/2000	REP	Republican	USS	United States Senator	BAY	Bay			49	49	McCollum	Bill		6974
+9/5/2000	REP	Republican	USS	United States Senator	BRA	Bradford			20	20	McCollum	Bill		817
+9/5/2000	REP	Republican	USS	United States Senator	BRE	Brevard			177	177	McCollum	Bill		29037
+9/5/2000	REP	Republican	USS	United States Senator	BRO	Broward			606	606	McCollum	Bill		20040
+9/5/2000	REP	Republican	USS	United States Senator	CAL	Calhoun			14	14	McCollum	Bill		80
+9/5/2000	REP	Republican	USS	United States Senator	CHA	Charlotte			63	63	McCollum	Bill		11210
+9/5/2000	REP	Republican	USS	United States Senator	CIT	Citrus			35	35	McCollum	Bill		8427
+9/5/2000	REP	Republican	USS	United States Senator	CLA	Clay			52	52	McCollum	Bill		11677
+9/5/2000	REP	Republican	USS	United States Senator	CLL	Collier			96	96	McCollum	Bill		17156
+9/5/2000	REP	Republican	USS	United States Senator	CLM	Columbia			31	31	McCollum	Bill		1420
+9/5/2000	REP	Republican	USS	United States Senator	DES	Desoto			15	15	McCollum	Bill		626
+9/5/2000	REP	Republican	USS	United States Senator	DIX	Dixie			11	11	McCollum	Bill		153
+9/5/2000	REP	Republican	USS	United States Senator	DUV	Duval			268	268	McCollum	Bill		40056
+9/5/2000	REP	Republican	USS	United States Senator	ESC	Escambia			109	109	McCollum	Bill		18184
+9/5/2000	REP	Republican	USS	United States Senator	FLA	Flagler			27	27	McCollum	Bill		3260
+9/5/2000	REP	Republican	USS	United States Senator	FRA	Franklin			8	8	McCollum	Bill		273
+9/5/2000	REP	Republican	USS	United States Senator	GAD	Gadsden			16	16	McCollum	Bill		571
+9/5/2000	REP	Republican	USS	United States Senator	GIL	Gilchrist			10	10	McCollum	Bill		357
+9/5/2000	REP	Republican	USS	United States Senator	GLA	Glades			13	13	McCollum	Bill		220
+9/5/2000	REP	Republican	USS	United States Senator	GUL	Gulf			14	14	McCollum	Bill		404
+9/5/2000	REP	Republican	USS	United States Senator	HAM	Hamilton			8	8	McCollum	Bill		159
+9/5/2000	REP	Republican	USS	United States Senator	HAR	Hardee			12	12	McCollum	Bill		457
+9/5/2000	REP	Republican	USS	United States Senator	HEN	Hendry			22	22	McCollum	Bill		956
+9/5/2000	REP	Republican	USS	United States Senator	HER	Hernando			51	51	McCollum	Bill		8744
+9/5/2000	REP	Republican	USS	United States Senator	HIG	Highlands			24	24	McCollum	Bill		5314
+9/5/2000	REP	Republican	USS	United States Senator	HIL	Hillsborough			320	320	McCollum	Bill		25225
+9/5/2000	REP	Republican	USS	United States Senator	HOL	Holmes			17	17	McCollum	Bill		261
+9/5/2000	REP	Republican	USS	United States Senator	IND	Indian River			38	38	McCollum	Bill		11847
+9/5/2000	REP	Republican	USS	United States Senator	JAC	Jackson			27	27	McCollum	Bill		914
+9/5/2000	REP	Republican	USS	United States Senator	JEF	Jefferson			13	13	McCollum	Bill		383
+9/5/2000	REP	Republican	USS	United States Senator	LAF	Lafayette			5	5	McCollum	Bill		86
+9/5/2000	REP	Republican	USS	United States Senator	LAK	Lake			86	86	McCollum	Bill		17542
+9/5/2000	REP	Republican	USS	United States Senator	LEE	Lee			150	150	McCollum	Bill		31600
+9/5/2000	REP	Republican	USS	United States Senator	LEO	Leon			95	95	McCollum	Bill		9144
+9/5/2000	REP	Republican	USS	United States Senator	LEV	Levy			21	21	McCollum	Bill		1042
+9/5/2000	REP	Republican	USS	United States Senator	LIB	Liberty			8	8	McCollum	Bill		59
+9/5/2000	REP	Republican	USS	United States Senator	MAD	Madison			11	11	McCollum	Bill		345
+9/5/2000	REP	Republican	USS	United States Senator	MAN	Manatee			135	135	McCollum	Bill		12801
+9/5/2000	REP	Republican	USS	United States Senator	MRN	Marion			96	96	McCollum	Bill		14797
+9/5/2000	REP	Republican	USS	United States Senator	MRT	Martin			40	40	McCollum	Bill		14087
+9/5/2000	REP	Republican	USS	United States Senator	DAD	Miami-Dade			617	617	McCollum	Bill		51209
+9/5/2000	REP	Republican	USS	United States Senator	MON	Monroe			33	33	McCollum	Bill		3271
+9/5/2000	REP	Republican	USS	United States Senator	NAS	Nassau			21	21	McCollum	Bill		3177
+9/5/2000	REP	Republican	USS	United States Senator	OKA	Okaloosa			48	48	McCollum	Bill		14574
+9/5/2000	REP	Republican	USS	United States Senator	OKE	Okeechobee			18	18	McCollum	Bill		1097
+9/5/2000	REP	Republican	USS	United States Senator	ORA	Orange			232	232	McCollum	Bill		36723
+9/5/2000	REP	Republican	USS	United States Senator	OSC	Osceola			66	66	McCollum	Bill		6985
+9/5/2000	REP	Republican	USS	United States Senator	PAL	Palm Beach			531	531	McCollum	Bill		27770
+9/5/2000	REP	Republican	USS	United States Senator	PAS	Pasco			132	132	McCollum	Bill		14063
+9/5/2000	REP	Republican	USS	United States Senator	PIN	Pinellas			345	345	McCollum	Bill		43932
+9/5/2000	REP	Republican	USS	United States Senator	POL	Polk			163	163	McCollum	Bill		19495
+9/5/2000	REP	Republican	USS	United States Senator	PUT	Putnam			50	50	McCollum	Bill		2488
+9/5/2000	REP	Republican	USS	United States Senator	SAN	Santa Rosa			38	38	McCollum	Bill		10507
+9/5/2000	REP	Republican	USS	United States Senator	SAR	Sarasota			142	142	McCollum	Bill		25000
+9/5/2000	REP	Republican	USS	United States Senator	SEM	Seminole			133	133	McCollum	Bill		19946
+9/5/2000	REP	Republican	USS	United States Senator	STJ	St. Johns			58	58	McCollum	Bill		10820
+9/5/2000	REP	Republican	USS	United States Senator	STL	St. Lucie			78	78	McCollum	Bill		10570
+9/5/2000	REP	Republican	USS	United States Senator	SUM	Sumter			31	31	McCollum	Bill		2712
+9/5/2000	REP	Republican	USS	United States Senator	SUW	Suwannee			16	16	McCollum	Bill		1232
+9/5/2000	REP	Republican	USS	United States Senator	TAY	Taylor			14	14	McCollum	Bill		405
+9/5/2000	REP	Republican	USS	United States Senator	UNI	Union			11	11	McCollum	Bill		189
+9/5/2000	REP	Republican	USS	United States Senator	VOL	Volusia			172	172	McCollum	Bill		18667
+9/5/2000	REP	Republican	USS	United States Senator	WAK	Wakulla			12	12	McCollum	Bill		426
+9/5/2000	REP	Republican	USS	United States Senator	WAL	Walton			33	33	McCollum	Bill		2251
+9/5/2000	REP	Republican	USS	United States Senator	WAS	Washington			16	16	McCollum	Bill		453
+9/5/2000	REP	Republican	USR	United States Representative	BAY	Bay	001		14	14	Condon	Bob		880
+9/5/2000	REP	Republican	USR	United States Representative	ESC	Escambia	001		109	109	Condon	Bob		5666
+9/5/2000	REP	Republican	USR	United States Representative	HOL	Holmes	001		17	17	Condon	Bob		126
+9/5/2000	REP	Republican	USR	United States Representative	OKA	Okaloosa	001		48	48	Condon	Bob		5147
+9/5/2000	REP	Republican	USR	United States Representative	SAN	Santa Rosa	001		38	38	Condon	Bob		3247
+9/5/2000	REP	Republican	USR	United States Representative	WAL	Walton	001		33	33	Condon	Bob		742
+9/5/2000	REP	Republican	USR	United States Representative	BAY	Bay	001		14	14	Scarborough	Joe		2392
+9/5/2000	REP	Republican	USR	United States Representative	ESC	Escambia	001		109	109	Scarborough	Joe		18623
+9/5/2000	REP	Republican	USR	United States Representative	HOL	Holmes	001		17	17	Scarborough	Joe		324
+9/5/2000	REP	Republican	USR	United States Representative	OKA	Okaloosa	001		48	48	Scarborough	Joe		18388
+9/5/2000	REP	Republican	USR	United States Representative	SAN	Santa Rosa	001		38	38	Scarborough	Joe		11924
+9/5/2000	REP	Republican	USR	United States Representative	WAL	Walton	001		33	33	Scarborough	Joe		2381
+9/5/2000	REP	Republican	USR	United States Representative	DUV	Duval	004		135	135	Crenshaw	Ander		29628
+9/5/2000	REP	Republican	USR	United States Representative	FLA	Flagler	004		25	25	Crenshaw	Ander		2559
+9/5/2000	REP	Republican	USR	United States Representative	NAS	Nassau	004		21	21	Crenshaw	Ander		3406
+9/5/2000	REP	Republican	USR	United States Representative	STJ	St. Johns	004		49	49	Crenshaw	Ander		8694
+9/5/2000	REP	Republican	USR	United States Representative	VOL	Volusia	004		45	45	Crenshaw	Ander		3301
+9/5/2000	REP	Republican	USR	United States Representative	DUV	Duval	004		135	135	Quiggle	Dan		11797
+9/5/2000	REP	Republican	USR	United States Representative	FLA	Flagler	004		25	25	Quiggle	Dan		1416
+9/5/2000	REP	Republican	USR	United States Representative	NAS	Nassau	004		21	21	Quiggle	Dan		1087
+9/5/2000	REP	Republican	USR	United States Representative	STJ	St. Johns	004		49	49	Quiggle	Dan		4447
+9/5/2000	REP	Republican	USR	United States Representative	VOL	Volusia	004		45	45	Quiggle	Dan		2069
+9/5/2000	REP	Republican	USR	United States Representative	ALA	Alachua	005		53	53	Enwall	Pete		4422
+9/5/2000	REP	Republican	USR	United States Representative	CIT	Citrus	005		35	35	Enwall	Pete		5181
+9/5/2000	REP	Republican	USR	United States Representative	CLM	Columbia	005		22	22	Enwall	Pete		767
+9/5/2000	REP	Republican	USR	United States Representative	HER	Hernando	005		51	51	Enwall	Pete		4705
+9/5/2000	REP	Republican	USR	United States Representative	LEV	Levy	005		21	21	Enwall	Pete		550
+9/5/2000	REP	Republican	USR	United States Representative	MRN	Marion	005		9	9	Enwall	Pete		543
+9/5/2000	REP	Republican	USR	United States Representative	PAS	Pasco	005		53	53	Enwall	Pete		3237
+9/5/2000	REP	Republican	USR	United States Representative	ALA	Alachua	005		53	53	King	Jim		2021
+9/5/2000	REP	Republican	USR	United States Representative	CIT	Citrus	005		35	35	King	Jim		5152
+9/5/2000	REP	Republican	USR	United States Representative	CLM	Columbia	005		22	22	King	Jim		578
+9/5/2000	REP	Republican	USR	United States Representative	HER	Hernando	005		51	51	King	Jim		5922
+9/5/2000	REP	Republican	USR	United States Representative	LEV	Levy	005		21	21	King	Jim		733
+9/5/2000	REP	Republican	USR	United States Representative	MRN	Marion	005		9	9	King	Jim		512
+9/5/2000	REP	Republican	USR	United States Representative	PAS	Pasco	005		53	53	King	Jim		3457
+9/5/2000	REP	Republican	USR	United States Representative	ORA	Orange	008		199	199	Hering	Bob		9419
+9/5/2000	REP	Republican	USR	United States Representative	OSC	Osceola	008		26	26	Hering	Bob		1317
+9/5/2000	REP	Republican	USR	United States Representative	ORA	Orange	008		199	199	Keller	Ric		12155
+9/5/2000	REP	Republican	USR	United States Representative	OSC	Osceola	008		26	26	Keller	Ric		826
+9/5/2000	REP	Republican	USR	United States Representative	ORA	Orange	008		199	199	Sublette	Bill		17247
+9/5/2000	REP	Republican	USR	United States Representative	OSC	Osceola	008		26	26	Sublette	Bill		949
+9/5/2000	REP	Republican	STA	State Attorney	CIT	Citrus	005		35	35	Ferro	Henry		5958
+9/5/2000	REP	Republican	STA	State Attorney	HER	Hernando	005		51	51	Ferro	Henry		5967
+9/5/2000	REP	Republican	STA	State Attorney	LAK	Lake	005		86	86	Ferro	Henry		6970
+9/5/2000	REP	Republican	STA	State Attorney	MRN	Marion	005		96	96	Ferro	Henry		10392
+9/5/2000	REP	Republican	STA	State Attorney	SUM	Sumter	005		31	31	Ferro	Henry		1845
+9/5/2000	REP	Republican	STA	State Attorney	CIT	Citrus	005		35	35	King	Brad		14954
+9/5/2000	REP	Republican	STA	State Attorney	HER	Hernando	005		51	51	King	Brad		13467
+9/5/2000	REP	Republican	STA	State Attorney	LAK	Lake	005		86	86	King	Brad		23731
+9/5/2000	REP	Republican	STA	State Attorney	MRN	Marion	005		96	96	King	Brad		24588
+9/5/2000	REP	Republican	STA	State Attorney	SUM	Sumter	005		31	31	King	Brad		4752
+9/5/2000	REP	Republican	STA	State Attorney	HIL	Hillsborough	013		320	320	Jennings	Bill		13119
+9/5/2000	REP	Republican	STA	State Attorney	HIL	Hillsborough	013		320	320	Ober	Mark		18967
+9/5/2000	REP	Republican	STA	State Attorney	MON	Monroe	016		33	33	Barnes	Michael	'Mick'	2353
+9/5/2000	REP	Republican	STA	State Attorney	MON	Monroe	016		33	33	Kohl	Mark	E.	2458
+9/5/2000	REP	Republican	PUB	Public Defender	PAS	Pasco	006		132	132	Angelis	C.	A.	10379
+9/5/2000	REP	Republican	PUB	Public Defender	PIN	Pinellas	006		345	345	Angelis	C.	A.	31587
+9/5/2000	REP	Republican	PUB	Public Defender	PAS	Pasco	006		132	132	Dillinger	Bob		22856
+9/5/2000	REP	Republican	PUB	Public Defender	PIN	Pinellas	006		345	345	Dillinger	Bob		67638
+9/5/2000	REP	Republican	PUB	Public Defender	FLA	Flagler	007		27	27	Gibson	James	B.	3182
+9/5/2000	REP	Republican	PUB	Public Defender	PUT	Putnam	007		50	50	Gibson	James	B.	6563
+9/5/2000	REP	Republican	PUB	Public Defender	STJ	St. Johns	007		58	58	Gibson	James	B.	9404
+9/5/2000	REP	Republican	PUB	Public Defender	VOL	Volusia	007		172	172	Gibson	James	B.	23383
+9/5/2000	REP	Republican	PUB	Public Defender	FLA	Flagler	007		27	27	Purdy	Jim		5276
+9/5/2000	REP	Republican	PUB	Public Defender	PUT	Putnam	007		50	50	Purdy	Jim		4393
+9/5/2000	REP	Republican	PUB	Public Defender	STJ	St. Johns	007		58	58	Purdy	Jim		9531
+9/5/2000	REP	Republican	PUB	Public Defender	VOL	Volusia	007		172	172	Purdy	Jim		23097
+9/5/2000	REP	Republican	STS	State Senator	ORA	Orange	009		65	65	Cannon	Kevin		3224
+9/5/2000	REP	Republican	STS	State Senator	SEM	Seminole	009		53	53	Cannon	Kevin		2333
+9/5/2000	REP	Republican	STS	State Senator	ORA	Orange	009		65	65	Constantine	Lee		10308
+9/5/2000	REP	Republican	STS	State Senator	SEM	Seminole	009		53	53	Constantine	Lee		7626
+9/5/2000	REP	Republican	STS	State Senator	CIT	Citrus	011		20	20	Cowin	Anna		2861
+9/5/2000	REP	Republican	STS	State Senator	LAK	Lake	011		86	86	Cowin	Anna		14660
+9/5/2000	REP	Republican	STS	State Senator	MRN	Marion	011		48	48	Cowin	Anna		6682
+9/5/2000	REP	Republican	STS	State Senator	SEM	Seminole	011		12	12	Cowin	Anna		1299
+9/5/2000	REP	Republican	STS	State Senator	SUM	Sumter	011		10	10	Cowin	Anna		1638
+9/5/2000	REP	Republican	STS	State Senator	CIT	Citrus	011		20	20	Kelly	Everett		3030
+9/5/2000	REP	Republican	STS	State Senator	LAK	Lake	011		86	86	Kelly	Everett		7066
+9/5/2000	REP	Republican	STS	State Senator	MRN	Marion	011		48	48	Kelly	Everett		3657
+9/5/2000	REP	Republican	STS	State Senator	SEM	Seminole	011		12	12	Kelly	Everett		692
+9/5/2000	REP	Republican	STS	State Senator	SUM	Sumter	011		10	10	Kelly	Everett		520
+9/5/2000	REP	Republican	STS	State Senator	HIL	Hillsborough	013		103	103	Crist	Victor		8171
+9/5/2000	REP	Republican	STS	State Senator	PAS	Pasco	013		30	30	Crist	Victor		3470
+9/5/2000	REP	Republican	STS	State Senator	HIL	Hillsborough	013		103	103	Culp	Faye		2904
+9/5/2000	REP	Republican	STS	State Senator	PAS	Pasco	013		30	30	Culp	Faye		1008
+9/5/2000	REP	Republican	STS	State Senator	HIL	Hillsborough	013		103	103	Reynaert	David		906
+9/5/2000	REP	Republican	STS	State Senator	PAS	Pasco	013		30	30	Reynaert	David		499
+9/5/2000	REP	Republican	STS	State Senator	BRE	Brevard	015		77	77	Goode Jr.	Harry		5740
+9/5/2000	REP	Republican	STS	State Senator	IND	Indian River	015		30	30	Goode Jr.	Harry		3902
+9/5/2000	REP	Republican	STS	State Senator	STL	St. Lucie	015		33	33	Goode Jr.	Harry		1290
+9/5/2000	REP	Republican	STS	State Senator	BRE	Brevard	015		77	77	Posey	Bill		10906
+9/5/2000	REP	Republican	STS	State Senator	IND	Indian River	015		30	30	Posey	Bill		6699
+9/5/2000	REP	Republican	STS	State Senator	STL	St. Lucie	015		33	33	Posey	Bill		2499
+9/5/2000	REP	Republican	STS	State Senator	IND	Indian River	027		10	10	Merchant	Sharon	J.	1000
+9/5/2000	REP	Republican	STS	State Senator	MRT	Martin	027		40	40	Merchant	Sharon	J.	6058
+9/5/2000	REP	Republican	STS	State Senator	PAL	Palm Beach	027		82	82	Merchant	Sharon	J.	5271
+9/5/2000	REP	Republican	STS	State Senator	STL	St. Lucie	027		45	45	Merchant	Sharon	J.	3023
+9/5/2000	REP	Republican	STS	State Senator	IND	Indian River	027		10	10	Pruitt	Ken		2577
+9/5/2000	REP	Republican	STS	State Senator	MRT	Martin	027		40	40	Pruitt	Ken		11427
+9/5/2000	REP	Republican	STS	State Senator	PAL	Palm Beach	027		82	82	Pruitt	Ken		4267
+9/5/2000	REP	Republican	STS	State Senator	STL	St. Lucie	027		45	45	Pruitt	Ken		6506
+9/5/2000	REP	Republican	STS	State Senator	IND	Indian River	027		10	10	Rich	Jeff		497
+9/5/2000	REP	Republican	STS	State Senator	MRT	Martin	027		40	40	Rich	Jeff		2145
+9/5/2000	REP	Republican	STS	State Senator	PAL	Palm Beach	027		82	82	Rich	Jeff		1411
+9/5/2000	REP	Republican	STS	State Senator	STL	St. Lucie	027		45	45	Rich	Jeff		1128
+9/5/2000	REP	Republican	STS	State Senator	DAD	Miami-Dade	039		87	87	Garcia Jr.	Rodolfo	'Rudy'	16193
+9/5/2000	REP	Republican	STS	State Senator	DAD	Miami-Dade	039		87	87	Morales	Alex		9232
+9/5/2000	REP	Republican	STS	State Senator	DAD	Miami-Dade	039		87	87	Rojas	Luis	E.	3651
+9/5/2000	REP	Republican	STR	State Representative	ESC	Escambia	003		47	47	Anderson	Ed		1402
+9/5/2000	REP	Republican	STR	State Representative	ESC	Escambia	003		47	47	Benson	Holly		3297
+9/5/2000	REP	Republican	STR	State Representative	ESC	Escambia	003		47	47	McKenzie	Gerald		1017
+9/5/2000	REP	Republican	STR	State Representative	ESC	Escambia	004		3	3	Melvin	Jerry		424
+9/5/2000	REP	Republican	STR	State Representative	OKA	Okaloosa	004		28	28	Melvin	Jerry		10225
+9/5/2000	REP	Republican	STR	State Representative	SAN	Santa Rosa	004		11	11	Melvin	Jerry		4140
+9/5/2000	REP	Republican	STR	State Representative	ESC	Escambia	004		3	3	Sansom	Ray		423
+9/5/2000	REP	Republican	STR	State Representative	OKA	Okaloosa	004		28	28	Sansom	Ray		10575
+9/5/2000	REP	Republican	STR	State Representative	SAN	Santa Rosa	004		11	11	Sansom	Ray		3738
+9/5/2000	REP	Republican	STR	State Representative	HOL	Holmes	005		17	17	Brown	Donald		213
+9/5/2000	REP	Republican	STR	State Representative	OKA	Okaloosa	005		17	17	Brown	Donald		4278
+9/5/2000	REP	Republican	STR	State Representative	WAL	Walton	005		29	29	Brown	Donald		1363
+9/5/2000	REP	Republican	STR	State Representative	WAS	Washington	005		16	16	Brown	Donald		217
+9/5/2000	REP	Republican	STR	State Representative	HOL	Holmes	005		17	17	Ellis Jr.	O. L. 'Ole'		233
+9/5/2000	REP	Republican	STR	State Representative	OKA	Okaloosa	005		17	17	Ellis Jr.	O. L. 'Ole'		1787
+9/5/2000	REP	Republican	STR	State Representative	WAL	Walton	005		29	29	Ellis Jr.	O. L. 'Ole'		360
+9/5/2000	REP	Republican	STR	State Representative	WAS	Washington	005		16	16	Ellis Jr.	O. L. 'Ole'		462
+9/5/2000	REP	Republican	STR	State Representative	BAK	Baker	012		9	9	Bean	Aaron		355
+9/5/2000	REP	Republican	STR	State Representative	BRA	Bradford	012		20	20	Bean	Aaron		579
+9/5/2000	REP	Republican	STR	State Representative	DUV	Duval	012		10	10	Bean	Aaron		523
+9/5/2000	REP	Republican	STR	State Representative	NAS	Nassau	012		21	21	Bean	Aaron		3115
+9/5/2000	REP	Republican	STR	State Representative	UNI	Union	012		11	11	Bean	Aaron		183
+9/5/2000	REP	Republican	STR	State Representative	BAK	Baker	012		9	9	Gandy	Ed		208
+9/5/2000	REP	Republican	STR	State Representative	BRA	Bradford	012		20	20	Gandy	Ed		434
+9/5/2000	REP	Republican	STR	State Representative	DUV	Duval	012		10	10	Gandy	Ed		282
+9/5/2000	REP	Republican	STR	State Representative	NAS	Nassau	012		21	21	Gandy	Ed		1306
+9/5/2000	REP	Republican	STR	State Representative	UNI	Union	012		11	11	Gandy	Ed		81
+9/5/2000	REP	Republican	STR	State Representative	DUV	Duval	016		48	48	Mahon	Mark		9999
+9/5/2000	REP	Republican	STR	State Representative	DUV	Duval	016		48	48	McBurney	Charles		9583
+9/5/2000	REP	Republican	STR	State Representative	DUV	Duval	017		46	46	Jordan	Stan		12516
+9/5/2000	REP	Republican	STR	State Representative	DUV	Duval	017		46	46	Tullis	Jim		12357
+9/5/2000	REP	Republican	STR	State Representative	DUV	Duval	018		30	30	Davis	Don		4840
+9/5/2000	REP	Republican	STR	State Representative	STJ	St. Johns	018		10	10	Davis	Don		1648
+9/5/2000	REP	Republican	STR	State Representative	DUV	Duval	018		30	30	Jones	Edward	Skinner	1399
+9/5/2000	REP	Republican	STR	State Representative	STJ	St. Johns	018		10	10	Jones	Edward	Skinner	474
+9/5/2000	REP	Republican	STR	State Representative	DUV	Duval	018		30	30	Kartsonis	Holly		2930
+9/5/2000	REP	Republican	STR	State Representative	STJ	St. Johns	018		10	10	Kartsonis	Holly		1022
+9/5/2000	REP	Republican	STR	State Representative	DUV	Duval	018		30	30	Sneed	Jeff		1399
+9/5/2000	REP	Republican	STR	State Representative	STJ	St. Johns	018		10	10	Sneed	Jeff		1112
+9/5/2000	REP	Republican	STR	State Representative	CLA	Clay	019		21	21	Crook	Monty		4003
+9/5/2000	REP	Republican	STR	State Representative	DUV	Duval	019		20	20	Crook	Monty		1965
+9/5/2000	REP	Republican	STR	State Representative	STJ	St. Johns	019		8	8	Crook	Monty		631
+9/5/2000	REP	Republican	STR	State Representative	CLA	Clay	019		21	21	Kravitz	Dick		4043
+9/5/2000	REP	Republican	STR	State Representative	DUV	Duval	019		20	20	Kravitz	Dick		5592
+9/5/2000	REP	Republican	STR	State Representative	STJ	St. Johns	019		8	8	Kravitz	Dick		1611
+9/5/2000	REP	Republican	STR	State Representative	CLA	Clay	021		18	18	Eaton	Sinclair		2514
+9/5/2000	REP	Republican	STR	State Representative	MRN	Marion	021		9	9	Eaton	Sinclair		406
+9/5/2000	REP	Republican	STR	State Representative	PUT	Putnam	021		50	50	Eaton	Sinclair		1034
+9/5/2000	REP	Republican	STR	State Representative	CLA	Clay	021		18	18	Pickens	Joe	H.	2185
+9/5/2000	REP	Republican	STR	State Representative	MRN	Marion	021		9	9	Pickens	Joe	H.	503
+9/5/2000	REP	Republican	STR	State Representative	PUT	Putnam	021		50	50	Pickens	Joe	H.	2261
+9/5/2000	REP	Republican	STR	State Representative	MRN	Marion	024		53	53	Baxley	Dennis	K.	10433
+9/5/2000	REP	Republican	STR	State Representative	MRN	Marion	024		53	53	Onett	George		1648
+9/5/2000	REP	Republican	STR	State Representative	LAK	Lake	025		26	26	Baker	Carey		3796
+9/5/2000	REP	Republican	STR	State Representative	MRN	Marion	025		2	2	Baker	Carey		132
+9/5/2000	REP	Republican	STR	State Representative	SEM	Seminole	025		14	14	Baker	Carey		810
+9/5/2000	REP	Republican	STR	State Representative	VOL	Volusia	025		17	17	Baker	Carey		993
+9/5/2000	REP	Republican	STR	State Representative	LAK	Lake	025		26	26	Hensinger	Betty		2510
+9/5/2000	REP	Republican	STR	State Representative	MRN	Marion	025		2	2	Hensinger	Betty		108
+9/5/2000	REP	Republican	STR	State Representative	SEM	Seminole	025		14	14	Hensinger	Betty		1038
+9/5/2000	REP	Republican	STR	State Representative	VOL	Volusia	025		17	17	Hensinger	Betty		969
+9/5/2000	REP	Republican	STR	State Representative	LAK	Lake	025		26	26	Wiseman	Randy		694
+9/5/2000	REP	Republican	STR	State Representative	MRN	Marion	025		2	2	Wiseman	Randy		42
+9/5/2000	REP	Republican	STR	State Representative	SEM	Seminole	025		14	14	Wiseman	Randy		280
+9/5/2000	REP	Republican	STR	State Representative	VOL	Volusia	025		17	17	Wiseman	Randy		267
+9/5/2000	REP	Republican	STR	State Representative	BRE	Brevard	030		46	46	Bonder	Janet	Simpson	1186
+9/5/2000	REP	Republican	STR	State Representative	BRE	Brevard	030		46	46	DiLavore	Peter		2176
+9/5/2000	REP	Republican	STR	State Representative	BRE	Brevard	030		46	46	Haridopolos	Mike		6155
+9/5/2000	REP	Republican	STR	State Representative	BRE	Brevard	030		46	46	Muro	Christopher		1219
+9/5/2000	REP	Republican	STR	State Representative	BRE	Brevard	030		46	46	Nail	Mary	Jane	833
+9/5/2000	REP	Republican	STR	State Representative	BRE	Brevard	030		46	46	Tobia	John		1298
+9/5/2000	REP	Republican	STR	State Representative	BRE	Brevard	032		40	40	Allen	Bob		1538
+9/5/2000	REP	Republican	STR	State Representative	IND	Indian River	032		5	5	Allen	Bob		121
+9/5/2000	REP	Republican	STR	State Representative	ORA	Orange	032		15	15	Allen	Bob		733
+9/5/2000	REP	Republican	STR	State Representative	BRE	Brevard	032		40	40	Altman	Thad		2576
+9/5/2000	REP	Republican	STR	State Representative	IND	Indian River	032		5	5	Altman	Thad		51
+9/5/2000	REP	Republican	STR	State Representative	ORA	Orange	032		15	15	Altman	Thad		343
+9/5/2000	REP	Republican	STR	State Representative	BRE	Brevard	032		40	40	Cook	Mark		1353
+9/5/2000	REP	Republican	STR	State Representative	IND	Indian River	032		5	5	Cook	Mark		31
+9/5/2000	REP	Republican	STR	State Representative	ORA	Orange	032		15	15	Cook	Mark		160
+9/5/2000	REP	Republican	STR	State Representative	BRE	Brevard	032		40	40	Harrison	Pat (Patricia)		1411
+9/5/2000	REP	Republican	STR	State Representative	IND	Indian River	032		5	5	Harrison	Pat (Patricia)		102
+9/5/2000	REP	Republican	STR	State Representative	ORA	Orange	032		15	15	Harrison	Pat (Patricia)		378
+9/5/2000	REP	Republican	STR	State Representative	BRE	Brevard	032		40	40	Hobbs	David		1413
+9/5/2000	REP	Republican	STR	State Representative	IND	Indian River	032		5	5	Hobbs	David		58
+9/5/2000	REP	Republican	STR	State Representative	ORA	Orange	032		15	15	Hobbs	David		245
+9/5/2000	REP	Republican	STR	State Representative	ORA	Orange	034		6	6	Denis	Frank		234
+9/5/2000	REP	Republican	STR	State Representative	SEM	Seminole	034		44	44	Denis	Frank		2031
+9/5/2000	REP	Republican	STR	State Representative	ORA	Orange	034		6	6	Mealor	David	J.	600
+9/5/2000	REP	Republican	STR	State Representative	SEM	Seminole	034		44	44	Mealor	David	J.	3439
+9/5/2000	REP	Republican	STR	State Representative	ORA	Orange	034		6	6	Michel	Mark	A.	647
+9/5/2000	REP	Republican	STR	State Representative	SEM	Seminole	034		44	44	Michel	Mark	A.	1676
+9/5/2000	REP	Republican	STR	State Representative	ORA	Orange	035		37	37	Kallinger	Jim		4336
+9/5/2000	REP	Republican	STR	State Representative	SEM	Seminole	035		3	3	Kallinger	Jim		585
+9/5/2000	REP	Republican	STR	State Representative	ORA	Orange	035		37	37	Krob	Richard	L.	1148
+9/5/2000	REP	Republican	STR	State Representative	SEM	Seminole	035		3	3	Krob	Richard	L.	122
+9/5/2000	REP	Republican	STR	State Representative	ORA	Orange	037		7	7	Simmons	David		557
+9/5/2000	REP	Republican	STR	State Representative	SEM	Seminole	037		40	40	Simmons	David		3202
+9/5/2000	REP	Republican	STR	State Representative	ORA	Orange	037		7	7	Strickler	Larry		389
+9/5/2000	REP	Republican	STR	State Representative	SEM	Seminole	037		40	40	Strickler	Larry		2991
+9/5/2000	REP	Republican	STR	State Representative	ORA	Orange	040		51	51	Dowless	John		2748
+9/5/2000	REP	Republican	STR	State Representative	ORA	Orange	040		51	51	Ferris	Geraldine 'Gerri'		2599
+9/5/2000	REP	Republican	STR	State Representative	ORA	Orange	040		51	51	Gardiner	Andy		3477
+9/5/2000	REP	Republican	STR	State Representative	ORA	Orange	040		51	51	Rudd	Michael		520
+9/5/2000	REP	Republican	STR	State Representative	LAK	Lake	041		16	16	Johnson	Randy		2696
+9/5/2000	REP	Republican	STR	State Representative	ORA	Orange	041		35	35	Johnson	Randy		4321
+9/5/2000	REP	Republican	STR	State Representative	OSC	Osceola	041		15	15	Johnson	Randy		989
+9/5/2000	REP	Republican	STR	State Representative	LAK	Lake	041		16	16	Schneider	Mark		1379
+9/5/2000	REP	Republican	STR	State Representative	ORA	Orange	041		35	35	Schneider	Mark		1343
+9/5/2000	REP	Republican	STR	State Representative	OSC	Osceola	041		15	15	Schneider	Mark		378
+9/5/2000	REP	Republican	STR	State Representative	LAK	Lake	042		34	34	Gibson	Hugh		5392
+9/5/2000	REP	Republican	STR	State Representative	MRN	Marion	042		14	14	Gibson	Hugh		1015
+9/5/2000	REP	Republican	STR	State Representative	SUM	Sumter	042		25	25	Gibson	Hugh		1848
+9/5/2000	REP	Republican	STR	State Representative	LAK	Lake	042		34	34	Pruitt	Will		3137
+9/5/2000	REP	Republican	STR	State Representative	MRN	Marion	042		14	14	Pruitt	Will		1022
+9/5/2000	REP	Republican	STR	State Representative	SUM	Sumter	042		25	25	Pruitt	Will		1245
+9/5/2000	REP	Republican	STR	State Representative	HER	Hernando	044		43	43	DeVito	Sabato		1595
+9/5/2000	REP	Republican	STR	State Representative	LAK	Lake	044		4	4	DeVito	Sabato		39
+9/5/2000	REP	Republican	STR	State Representative	PAS	Pasco	044		1	1	DeVito	Sabato		6
+9/5/2000	REP	Republican	STR	State Representative	POL	Polk	044		4	4	DeVito	Sabato		86
+9/5/2000	REP	Republican	STR	State Representative	SUM	Sumter	044		6	6	DeVito	Sabato		27
+9/5/2000	REP	Republican	STR	State Representative	HER	Hernando	044		43	43	Nicholson	Nicholas	W.	2268
+9/5/2000	REP	Republican	STR	State Representative	LAK	Lake	044		4	4	Nicholson	Nicholas	W.	105
+9/5/2000	REP	Republican	STR	State Representative	PAS	Pasco	044		1	1	Nicholson	Nicholas	W.	9
+9/5/2000	REP	Republican	STR	State Representative	POL	Polk	044		4	4	Nicholson	Nicholas	W.	110
+9/5/2000	REP	Republican	STR	State Representative	SUM	Sumter	044		6	6	Nicholson	Nicholas	W.	59
+9/5/2000	REP	Republican	STR	State Representative	HER	Hernando	044		43	43	Russell	Dave		5766
+9/5/2000	REP	Republican	STR	State Representative	LAK	Lake	044		4	4	Russell	Dave		161
+9/5/2000	REP	Republican	STR	State Representative	PAS	Pasco	044		1	1	Russell	Dave		27
+9/5/2000	REP	Republican	STR	State Representative	POL	Polk	044		4	4	Russell	Dave		280
+9/5/2000	REP	Republican	STR	State Representative	SUM	Sumter	044		6	6	Russell	Dave		97
+9/5/2000	REP	Republican	STR	State Representative	PIN	Pinellas	050		40	40	Berfield	Kim		3693
+9/5/2000	REP	Republican	STR	State Representative	PIN	Pinellas	050		40	40	Hooper	Ed		2915
+9/5/2000	REP	Republican	STR	State Representative	PIN	Pinellas	053		45	45	Kersteen	Robert	A.	3290
+9/5/2000	REP	Republican	STR	State Representative	PIN	Pinellas	053		45	45	Robbins	Tom		2943
+9/5/2000	REP	Republican	STR	State Representative	PIN	Pinellas	054		46	46	Carassas	John		6134
+9/5/2000	REP	Republican	STR	State Representative	PIN	Pinellas	054		46	46	Curran	Dan		1981
+9/5/2000	REP	Republican	STR	State Representative	PIN	Pinellas	054		46	46	DiMatteo	Tony		3501
+9/5/2000	REP	Republican	STR	State Representative	PIN	Pinellas	054		46	46	Miller	Dave		6268
+9/5/2000	REP	Republican	STR	State Representative	HIL	Hillsborough	058		40	40	Calcines	Eddy		1953
+9/5/2000	REP	Republican	STR	State Representative	HIL	Hillsborough	058		40	40	Vila	Hector		1133
+9/5/2000	REP	Republican	STR	State Representative	HIL	Hillsborough	060		40	40	Homan	Ed		2084
+9/5/2000	REP	Republican	STR	State Representative	HIL	Hillsborough	060		40	40	Johnson	Warren		830
+9/5/2000	REP	Republican	STR	State Representative	HIL	Hillsborough	060		40	40	Woodard	Keven	A.	1089
+9/5/2000	REP	Republican	STR	State Representative	POL	Polk	065		43	43	Bowen	Marty		3477
+9/5/2000	REP	Republican	STR	State Representative	POL	Polk	065		43	43	Lee	Earle		2266
+9/5/2000	REP	Republican	STR	State Representative	HIL	Hillsborough	067		7	7	Bennett	Michael	S.	1439
+9/5/2000	REP	Republican	STR	State Representative	MAN	Manatee	067		61	61	Bennett	Michael	S.	7242
+9/5/2000	REP	Republican	STR	State Representative	SAR	Sarasota	067		10	10	Bennett	Michael	S.	2087
+9/5/2000	REP	Republican	STR	State Representative	HIL	Hillsborough	067		7	7	Reagan	Ronald		774
+9/5/2000	REP	Republican	STR	State Representative	MAN	Manatee	067		61	61	Reagan	Ronald		5571
+9/5/2000	REP	Republican	STR	State Representative	SAR	Sarasota	067		10	10	Reagan	Ronald		972
+9/5/2000	REP	Republican	STR	State Representative	SAR	Sarasota	069		49	49	Chambers	Howard		1275
+9/5/2000	REP	Republican	STR	State Representative	SAR	Sarasota	069		49	49	Clarke	Donna (Azar)		3023
+9/5/2000	REP	Republican	STR	State Representative	SAR	Sarasota	069		49	49	Gruters	Joe		2328
+9/5/2000	REP	Republican	STR	State Representative	SAR	Sarasota	069		49	49	Lewis	John		2537
+9/5/2000	REP	Republican	STR	State Representative	CHA	Charlotte	071		40	40	Columbus	Christopher		1072
+9/5/2000	REP	Republican	STR	State Representative	SAR	Sarasota	071		21	21	Columbus	Christopher		561
+9/5/2000	REP	Republican	STR	State Representative	CHA	Charlotte	071		40	40	Monroe	Paul		3070
+9/5/2000	REP	Republican	STR	State Representative	SAR	Sarasota	071		21	21	Monroe	Paul		1290
+9/5/2000	REP	Republican	STR	State Representative	CHA	Charlotte	071		40	40	Paul'	'Jerry		4772
+9/5/2000	REP	Republican	STR	State Representative	SAR	Sarasota	071		21	21	Paul'	'Jerry		2276
+9/5/2000	REP	Republican	STR	State Representative	CHA	Charlotte	074		5	5	Kottkamp	Jeff		427
+9/5/2000	REP	Republican	STR	State Representative	LEE	Lee	074		45	45	Kottkamp	Jeff		6396
+9/5/2000	REP	Republican	STR	State Representative	SAR	Sarasota	074		5	5	Kottkamp	Jeff		335
+9/5/2000	REP	Republican	STR	State Representative	CHA	Charlotte	074		5	5	Personette	Steven		200
+9/5/2000	REP	Republican	STR	State Representative	LEE	Lee	074		45	45	Personette	Steven		2345
+9/5/2000	REP	Republican	STR	State Representative	SAR	Sarasota	074		5	5	Personette	Steven		382
+9/5/2000	REP	Republican	STR	State Representative	CHA	Charlotte	074		5	5	Stout	Marilyn		516
+9/5/2000	REP	Republican	STR	State Representative	LEE	Lee	074		45	45	Stout	Marilyn		5020
+9/5/2000	REP	Republican	STR	State Representative	SAR	Sarasota	074		5	5	Stout	Marilyn		593
+9/5/2000	REP	Republican	STR	State Representative	IND	Indian River	080		36	36	Davis	Wesley		3754
+9/5/2000	REP	Republican	STR	State Representative	STL	St. Lucie	080		17	17	Davis	Wesley		318
+9/5/2000	REP	Republican	STR	State Representative	IND	Indian River	080		36	36	Jordan	Carole	Jean	3682
+9/5/2000	REP	Republican	STR	State Representative	STL	St. Lucie	080		17	17	Jordan	Carole	Jean	1105
+9/5/2000	REP	Republican	STR	State Representative	IND	Indian River	080		36	36	Mayfield	Stan		4086
+9/5/2000	REP	Republican	STR	State Representative	STL	St. Lucie	080		17	17	Mayfield	Stan		574
+9/5/2000	REP	Republican	STR	State Representative	IND	Indian River	080		36	36	Poppell	Ralph		3405
+9/5/2000	REP	Republican	STR	State Representative	STL	St. Lucie	080		17	17	Poppell	Ralph		924
+9/5/2000	REP	Republican	STR	State Representative	MRT	Martin	081		15	15	Harrell	Gayle		4833
+9/5/2000	REP	Republican	STR	State Representative	STL	St. Lucie	081		40	40	Harrell	Gayle		6141
+9/5/2000	REP	Republican	STR	State Representative	MRT	Martin	081		15	15	Jackson	Genny		1774
+9/5/2000	REP	Republican	STR	State Representative	STL	St. Lucie	081		40	40	Jackson	Genny		3348
+9/5/2000	REP	Republican	STR	State Representative	MRT	Martin	082		26	26	Argenio	Art		4579
+9/5/2000	REP	Republican	STR	State Representative	PAL	Palm Beach	082		27	27	Argenio	Art		1589
+9/5/2000	REP	Republican	STR	State Representative	MRT	Martin	082		26	26	Negron	Joe		5083
+9/5/2000	REP	Republican	STR	State Representative	PAL	Palm Beach	082		27	27	Negron	Joe		1407
+9/5/2000	REP	Republican	STR	State Representative	MRT	Martin	082		26	26	Traill II	David	G.B.	2656
+9/5/2000	REP	Republican	STR	State Representative	PAL	Palm Beach	082		27	27	Traill II	David	G.B.	465
+9/5/2000	REP	Republican	STR	State Representative	PAL	Palm Beach	083		75	75	Atwater	Jeff		5101
+9/5/2000	REP	Republican	STR	State Representative	PAL	Palm Beach	083		75	75	Domino	Carl	J	1011
+9/5/2000	REP	Republican	STR	State Representative	PAL	Palm Beach	083		75	75	Zientek	Helen		1049
+9/5/2000	REP	Republican	STR	State Representative	PAL	Palm Beach	084		70	70	Green	Beverly		1022
+9/5/2000	REP	Republican	STR	State Representative	PAL	Palm Beach	084		70	70	Orlando	Myra		1035
+9/5/2000	REP	Republican	STR	State Representative	BRO	Broward	091		41	41	Mack	Connie		2954
+9/5/2000	REP	Republican	STR	State Representative	PAL	Palm Beach	091		18	18	Mack	Connie		1133
+9/5/2000	REP	Republican	STR	State Representative	BRO	Broward	091		41	41	Pagans	Lynn	Spinella	2379
+9/5/2000	REP	Republican	STR	State Representative	PAL	Palm Beach	091		18	18	Pagans	Lynn	Spinella	898
+9/5/2000	REP	Republican	STR	State Representative	BRO	Broward	097		55	55	Garner	Eric	E.	1633
+9/5/2000	REP	Republican	STR	State Representative	BRO	Broward	097		55	55	Lassner	Kip	O.	1003
+9/5/2000	REP	Republican	STR	State Representative	CLL	Collier	102		13	13	Arza	Rafael	'Ralph'	1246
+9/5/2000	REP	Republican	STR	State Representative	DAD	Miami-Dade	102		26	26	Arza	Rafael	'Ralph'	9644
+9/5/2000	REP	Republican	STR	State Representative	CLL	Collier	102		13	13	Rivera	Hector		342
+9/5/2000	REP	Republican	STR	State Representative	DAD	Miami-Dade	102		26	26	Rivera	Hector		2212
+9/5/2000	REP	Republican	STR	State Representative	CLL	Collier	102		13	13	Serra	Frank		710
+9/5/2000	REP	Republican	STR	State Representative	DAD	Miami-Dade	102		26	26	Serra	Frank		1859
+9/5/2000	REP	Republican	STR	State Representative	DAD	Miami-Dade	110		23	23	Garcia	Rene		7212
+9/5/2000	REP	Republican	STR	State Representative	DAD	Miami-Dade	110		23	23	Perez	Andres	'Andy'	5950
+9/5/2000	REP	Republican	STR	State Representative	DAD	Miami-Dade	113		36	36	Carollo	Frank		3781
+9/5/2000	REP	Republican	STR	State Representative	DAD	Miami-Dade	113		36	36	Prieguez	Manuel		4877
+9/5/2000	REP	Republican	STR	State Representative	DAD	Miami-Dade	114		27	27	Cantens	Gaston		10955
+9/5/2000	REP	Republican	STR	State Representative	DAD	Miami-Dade	114		27	27	Diaz	Roberto	J.	2968
+9/5/2000	REP	Republican	STR	State Representative	DAD	Miami-Dade	117		34	34	Alliegro	Ana		4376
+9/5/2000	REP	Republican	STR	State Representative	DAD	Miami-Dade	117		34	34	Lacasa	Carlos		5227
+9/5/2000	REP	Republican	STR	State Representative	DAD	Miami-Dade	117		34	34	Penland	John	Robert	623
+9/5/2000	DEM	Democrat	USS	United States Senator	ALA	Alachua			53	53	Daughtrey	Newall	Jerome	1291
+9/5/2000	DEM	Democrat	USS	United States Senator	BAK	Baker			9	9	Daughtrey	Newall	Jerome	605
+9/5/2000	DEM	Democrat	USS	United States Senator	BAY	Bay			49	49	Daughtrey	Newall	Jerome	1453
+9/5/2000	DEM	Democrat	USS	United States Senator	BRA	Bradford			20	20	Daughtrey	Newall	Jerome	500
+9/5/2000	DEM	Democrat	USS	United States Senator	BRE	Brevard			177	177	Daughtrey	Newall	Jerome	1392
+9/5/2000	DEM	Democrat	USS	United States Senator	BRO	Broward			606	606	Daughtrey	Newall	Jerome	9875
+9/5/2000	DEM	Democrat	USS	United States Senator	CAL	Calhoun			14	14	Daughtrey	Newall	Jerome	422
+9/5/2000	DEM	Democrat	USS	United States Senator	CHA	Charlotte			63	63	Daughtrey	Newall	Jerome	1061
+9/5/2000	DEM	Democrat	USS	United States Senator	CIT	Citrus			35	35	Daughtrey	Newall	Jerome	810
+9/5/2000	DEM	Democrat	USS	United States Senator	CLA	Clay			52	52	Daughtrey	Newall	Jerome	476
+9/5/2000	DEM	Democrat	USS	United States Senator	CLL	Collier			96	96	Daughtrey	Newall	Jerome	892
+9/5/2000	DEM	Democrat	USS	United States Senator	CLM	Columbia			31	31	Daughtrey	Newall	Jerome	800
+9/5/2000	DEM	Democrat	USS	United States Senator	DES	Desoto			15	15	Daughtrey	Newall	Jerome	526
+9/5/2000	DEM	Democrat	USS	United States Senator	DIX	Dixie			11	11	Daughtrey	Newall	Jerome	582
+9/5/2000	DEM	Democrat	USS	United States Senator	DUV	Duval			268	268	Daughtrey	Newall	Jerome	6816
+9/5/2000	DEM	Democrat	USS	United States Senator	ESC	Escambia			109	109	Daughtrey	Newall	Jerome	3955
+9/5/2000	DEM	Democrat	USS	United States Senator	FLA	Flagler			27	27	Daughtrey	Newall	Jerome	539
+9/5/2000	DEM	Democrat	USS	United States Senator	FRA	Franklin			8	8	Daughtrey	Newall	Jerome	376
+9/5/2000	DEM	Democrat	USS	United States Senator	GAD	Gadsden			16	16	Daughtrey	Newall	Jerome	879
+9/5/2000	DEM	Democrat	USS	United States Senator	GIL	Gilchrist			10	10	Daughtrey	Newall	Jerome	287
+9/5/2000	DEM	Democrat	USS	United States Senator	GLA	Glades			13	13	Daughtrey	Newall	Jerome	271
+9/5/2000	DEM	Democrat	USS	United States Senator	GUL	Gulf			14	14	Daughtrey	Newall	Jerome	306
+9/5/2000	DEM	Democrat	USS	United States Senator	HAM	Hamilton			8	8	Daughtrey	Newall	Jerome	380
+9/5/2000	DEM	Democrat	USS	United States Senator	HAR	Hardee			12	12	Daughtrey	Newall	Jerome	332
+9/5/2000	DEM	Democrat	USS	United States Senator	HEN	Hendry			22	22	Daughtrey	Newall	Jerome	353
+9/5/2000	DEM	Democrat	USS	United States Senator	HER	Hernando			51	51	Daughtrey	Newall	Jerome	1029
+9/5/2000	DEM	Democrat	USS	United States Senator	HIG	Highlands			24	24	Daughtrey	Newall	Jerome	603
+9/5/2000	DEM	Democrat	USS	United States Senator	HIL	Hillsborough			320	320	Daughtrey	Newall	Jerome	4258
+9/5/2000	DEM	Democrat	USS	United States Senator	HOL	Holmes			17	17	Daughtrey	Newall	Jerome	506
+9/5/2000	DEM	Democrat	USS	United States Senator	IND	Indian River			38	38	Daughtrey	Newall	Jerome	550
+9/5/2000	DEM	Democrat	USS	United States Senator	JAC	Jackson			27	27	Daughtrey	Newall	Jerome	1016
+9/5/2000	DEM	Democrat	USS	United States Senator	JEF	Jefferson			13	13	Daughtrey	Newall	Jerome	318
+9/5/2000	DEM	Democrat	USS	United States Senator	LAF	Lafayette			5	5	Daughtrey	Newall	Jerome	177
+9/5/2000	DEM	Democrat	USS	United States Senator	LAK	Lake			86	86	Daughtrey	Newall	Jerome	664
+9/5/2000	DEM	Democrat	USS	United States Senator	LEE	Lee			150	150	Daughtrey	Newall	Jerome	2408
+9/5/2000	DEM	Democrat	USS	United States Senator	LEO	Leon			95	95	Daughtrey	Newall	Jerome	2416
+9/5/2000	DEM	Democrat	USS	United States Senator	LEV	Levy			21	21	Daughtrey	Newall	Jerome	667
+9/5/2000	DEM	Democrat	USS	United States Senator	LIB	Liberty			8	8	Daughtrey	Newall	Jerome	415
+9/5/2000	DEM	Democrat	USS	United States Senator	MAD	Madison			11	11	Daughtrey	Newall	Jerome	561
+9/5/2000	DEM	Democrat	USS	United States Senator	MAN	Manatee			135	135	Daughtrey	Newall	Jerome	1168
+9/5/2000	DEM	Democrat	USS	United States Senator	MRN	Marion			96	96	Daughtrey	Newall	Jerome	1289
+9/5/2000	DEM	Democrat	USS	United States Senator	MRT	Martin			40	40	Daughtrey	Newall	Jerome	703
+9/5/2000	DEM	Democrat	USS	United States Senator	DAD	Miami-Dade			617	617	Daughtrey	Newall	Jerome	20790
+9/5/2000	DEM	Democrat	USS	United States Senator	MON	Monroe			33	33	Daughtrey	Newall	Jerome	378
+9/5/2000	DEM	Democrat	USS	United States Senator	NAS	Nassau			21	21	Daughtrey	Newall	Jerome	453
+9/5/2000	DEM	Democrat	USS	United States Senator	OKA	Okaloosa			48	48	Daughtrey	Newall	Jerome	954
+9/5/2000	DEM	Democrat	USS	United States Senator	OKE	Okeechobee			18	18	Daughtrey	Newall	Jerome	585
+9/5/2000	DEM	Democrat	USS	United States Senator	ORA	Orange			232	232	Daughtrey	Newall	Jerome	2787
+9/5/2000	DEM	Democrat	USS	United States Senator	OSC	Osceola			66	66	Daughtrey	Newall	Jerome	956
+9/5/2000	DEM	Democrat	USS	United States Senator	PAL	Palm Beach			531	531	Daughtrey	Newall	Jerome	5136
+9/5/2000	DEM	Democrat	USS	United States Senator	PAS	Pasco			132	132	Daughtrey	Newall	Jerome	1548
+9/5/2000	DEM	Democrat	USS	United States Senator	PIN	Pinellas			345	345	Daughtrey	Newall	Jerome	4679
+9/5/2000	DEM	Democrat	USS	United States Senator	POL	Polk			163	163	Daughtrey	Newall	Jerome	2161
+9/5/2000	DEM	Democrat	USS	United States Senator	PUT	Putnam			50	50	Daughtrey	Newall	Jerome	549
+9/5/2000	DEM	Democrat	USS	United States Senator	SAN	Santa Rosa			38	38	Daughtrey	Newall	Jerome	855
+9/5/2000	DEM	Democrat	USS	United States Senator	SAR	Sarasota			142	142	Daughtrey	Newall	Jerome	1553
+9/5/2000	DEM	Democrat	USS	United States Senator	SEM	Seminole			133	133	Daughtrey	Newall	Jerome	635
+9/5/2000	DEM	Democrat	USS	United States Senator	STJ	St. Johns			58	58	Daughtrey	Newall	Jerome	745
+9/5/2000	DEM	Democrat	USS	United States Senator	STL	St. Lucie			78	78	Daughtrey	Newall	Jerome	1616
+9/5/2000	DEM	Democrat	USS	United States Senator	SUM	Sumter			31	31	Daughtrey	Newall	Jerome	308
+9/5/2000	DEM	Democrat	USS	United States Senator	SUW	Suwannee			16	16	Daughtrey	Newall	Jerome	711
+9/5/2000	DEM	Democrat	USS	United States Senator	TAY	Taylor			14	14	Daughtrey	Newall	Jerome	389
+9/5/2000	DEM	Democrat	USS	United States Senator	UNI	Union			11	11	Daughtrey	Newall	Jerome	240
+9/5/2000	DEM	Democrat	USS	United States Senator	VOL	Volusia			172	172	Daughtrey	Newall	Jerome	2462
+9/5/2000	DEM	Democrat	USS	United States Senator	WAK	Wakulla			12	12	Daughtrey	Newall	Jerome	358
+9/5/2000	DEM	Democrat	USS	United States Senator	WAL	Walton			33	33	Daughtrey	Newall	Jerome	608
+9/5/2000	DEM	Democrat	USS	United States Senator	WAS	Washington			16	16	Daughtrey	Newall	Jerome	267
+9/5/2000	DEM	Democrat	USS	United States Senator	ALA	Alachua			53	53	Higginbottom	David	B.	1756
+9/5/2000	DEM	Democrat	USS	United States Senator	BAK	Baker			9	9	Higginbottom	David	B.	1358
+9/5/2000	DEM	Democrat	USS	United States Senator	BAY	Bay			49	49	Higginbottom	David	B.	1840
+9/5/2000	DEM	Democrat	USS	United States Senator	BRA	Bradford			20	20	Higginbottom	David	B.	757
+9/5/2000	DEM	Democrat	USS	United States Senator	BRE	Brevard			177	177	Higginbottom	David	B.	1621
+9/5/2000	DEM	Democrat	USS	United States Senator	BRO	Broward			606	606	Higginbottom	David	B.	4744
+9/5/2000	DEM	Democrat	USS	United States Senator	CAL	Calhoun			14	14	Higginbottom	David	B.	228
+9/5/2000	DEM	Democrat	USS	United States Senator	CHA	Charlotte			63	63	Higginbottom	David	B.	817
+9/5/2000	DEM	Democrat	USS	United States Senator	CIT	Citrus			35	35	Higginbottom	David	B.	931
+9/5/2000	DEM	Democrat	USS	United States Senator	CLA	Clay			52	52	Higginbottom	David	B.	888
+9/5/2000	DEM	Democrat	USS	United States Senator	CLL	Collier			96	96	Higginbottom	David	B.	677
+9/5/2000	DEM	Democrat	USS	United States Senator	CLM	Columbia			31	31	Higginbottom	David	B.	895
+9/5/2000	DEM	Democrat	USS	United States Senator	DES	Desoto			15	15	Higginbottom	David	B.	544
+9/5/2000	DEM	Democrat	USS	United States Senator	DIX	Dixie			11	11	Higginbottom	David	B.	825
+9/5/2000	DEM	Democrat	USS	United States Senator	DUV	Duval			268	268	Higginbottom	David	B.	11517
+9/5/2000	DEM	Democrat	USS	United States Senator	ESC	Escambia			109	109	Higginbottom	David	B.	3221
+9/5/2000	DEM	Democrat	USS	United States Senator	FLA	Flagler			27	27	Higginbottom	David	B.	610
+9/5/2000	DEM	Democrat	USS	United States Senator	FRA	Franklin			8	8	Higginbottom	David	B.	487
+9/5/2000	DEM	Democrat	USS	United States Senator	GAD	Gadsden			16	16	Higginbottom	David	B.	757
+9/5/2000	DEM	Democrat	USS	United States Senator	GIL	Gilchrist			10	10	Higginbottom	David	B.	360
+9/5/2000	DEM	Democrat	USS	United States Senator	GLA	Glades			13	13	Higginbottom	David	B.	333
+9/5/2000	DEM	Democrat	USS	United States Senator	GUL	Gulf			14	14	Higginbottom	David	B.	557
+9/5/2000	DEM	Democrat	USS	United States Senator	HAM	Hamilton			8	8	Higginbottom	David	B.	448
+9/5/2000	DEM	Democrat	USS	United States Senator	HAR	Hardee			12	12	Higginbottom	David	B.	464
+9/5/2000	DEM	Democrat	USS	United States Senator	HEN	Hendry			22	22	Higginbottom	David	B.	615
+9/5/2000	DEM	Democrat	USS	United States Senator	HER	Hernando			51	51	Higginbottom	David	B.	915
+9/5/2000	DEM	Democrat	USS	United States Senator	HIG	Highlands			24	24	Higginbottom	David	B.	661
+9/5/2000	DEM	Democrat	USS	United States Senator	HIL	Hillsborough			320	320	Higginbottom	David	B.	3870
+9/5/2000	DEM	Democrat	USS	United States Senator	HOL	Holmes			17	17	Higginbottom	David	B.	656
+9/5/2000	DEM	Democrat	USS	United States Senator	IND	Indian River			38	38	Higginbottom	David	B.	551
+9/5/2000	DEM	Democrat	USS	United States Senator	JAC	Jackson			27	27	Higginbottom	David	B.	1210
+9/5/2000	DEM	Democrat	USS	United States Senator	JEF	Jefferson			13	13	Higginbottom	David	B.	339
+9/5/2000	DEM	Democrat	USS	United States Senator	LAF	Lafayette			5	5	Higginbottom	David	B.	239
+9/5/2000	DEM	Democrat	USS	United States Senator	LAK	Lake			86	86	Higginbottom	David	B.	848
+9/5/2000	DEM	Democrat	USS	United States Senator	LEE	Lee			150	150	Higginbottom	David	B.	2445
+9/5/2000	DEM	Democrat	USS	United States Senator	LEO	Leon			95	95	Higginbottom	David	B.	2465
+9/5/2000	DEM	Democrat	USS	United States Senator	LEV	Levy			21	21	Higginbottom	David	B.	871
+9/5/2000	DEM	Democrat	USS	United States Senator	LIB	Liberty			8	8	Higginbottom	David	B.	277
+9/5/2000	DEM	Democrat	USS	United States Senator	MAD	Madison			11	11	Higginbottom	David	B.	473
+9/5/2000	DEM	Democrat	USS	United States Senator	MAN	Manatee			135	135	Higginbottom	David	B.	1113
+9/5/2000	DEM	Democrat	USS	United States Senator	MRN	Marion			96	96	Higginbottom	David	B.	1392
+9/5/2000	DEM	Democrat	USS	United States Senator	MRT	Martin			40	40	Higginbottom	David	B.	676
+9/5/2000	DEM	Democrat	USS	United States Senator	DAD	Miami-Dade			617	617	Higginbottom	David	B.	7455
+9/5/2000	DEM	Democrat	USS	United States Senator	MON	Monroe			33	33	Higginbottom	David	B.	377
+9/5/2000	DEM	Democrat	USS	United States Senator	NAS	Nassau			21	21	Higginbottom	David	B.	1353
+9/5/2000	DEM	Democrat	USS	United States Senator	OKA	Okaloosa			48	48	Higginbottom	David	B.	1080
+9/5/2000	DEM	Democrat	USS	United States Senator	OKE	Okeechobee			18	18	Higginbottom	David	B.	564
+9/5/2000	DEM	Democrat	USS	United States Senator	ORA	Orange			232	232	Higginbottom	David	B.	3014
+9/5/2000	DEM	Democrat	USS	United States Senator	OSC	Osceola			66	66	Higginbottom	David	B.	722
+9/5/2000	DEM	Democrat	USS	United States Senator	PAL	Palm Beach			531	531	Higginbottom	David	B.	3652
+9/5/2000	DEM	Democrat	USS	United States Senator	PAS	Pasco			132	132	Higginbottom	David	B.	1489
+9/5/2000	DEM	Democrat	USS	United States Senator	PIN	Pinellas			345	345	Higginbottom	David	B.	3197
+9/5/2000	DEM	Democrat	USS	United States Senator	POL	Polk			163	163	Higginbottom	David	B.	3784
+9/5/2000	DEM	Democrat	USS	United States Senator	PUT	Putnam			50	50	Higginbottom	David	B.	1237
+9/5/2000	DEM	Democrat	USS	United States Senator	SAN	Santa Rosa			38	38	Higginbottom	David	B.	847
+9/5/2000	DEM	Democrat	USS	United States Senator	SAR	Sarasota			142	142	Higginbottom	David	B.	1259
+9/5/2000	DEM	Democrat	USS	United States Senator	SEM	Seminole			133	133	Higginbottom	David	B.	926
+9/5/2000	DEM	Democrat	USS	United States Senator	STJ	St. Johns			58	58	Higginbottom	David	B.	1054
+9/5/2000	DEM	Democrat	USS	United States Senator	STL	St. Lucie			78	78	Higginbottom	David	B.	1189
+9/5/2000	DEM	Democrat	USS	United States Senator	SUM	Sumter			31	31	Higginbottom	David	B.	426
+9/5/2000	DEM	Democrat	USS	United States Senator	SUW	Suwannee			16	16	Higginbottom	David	B.	818
+9/5/2000	DEM	Democrat	USS	United States Senator	TAY	Taylor			14	14	Higginbottom	David	B.	451
+9/5/2000	DEM	Democrat	USS	United States Senator	UNI	Union			11	11	Higginbottom	David	B.	507
+9/5/2000	DEM	Democrat	USS	United States Senator	VOL	Volusia			172	172	Higginbottom	David	B.	2399
+9/5/2000	DEM	Democrat	USS	United States Senator	WAK	Wakulla			12	12	Higginbottom	David	B.	406
+9/5/2000	DEM	Democrat	USS	United States Senator	WAL	Walton			33	33	Higginbottom	David	B.	690
+9/5/2000	DEM	Democrat	USS	United States Senator	WAS	Washington			16	16	Higginbottom	David	B.	345
+9/5/2000	DEM	Democrat	USS	United States Senator	ALA	Alachua			53	53	Nelson	Bill		16759
+9/5/2000	DEM	Democrat	USS	United States Senator	BAK	Baker			9	9	Nelson	Bill		3568
+9/5/2000	DEM	Democrat	USS	United States Senator	BAY	Bay			49	49	Nelson	Bill		12120
+9/5/2000	DEM	Democrat	USS	United States Senator	BRA	Bradford			20	20	Nelson	Bill		3362
+9/5/2000	DEM	Democrat	USS	United States Senator	BRE	Brevard			177	177	Nelson	Bill		20429
+9/5/2000	DEM	Democrat	USS	United States Senator	BRO	Broward			606	606	Nelson	Bill		55551
+9/5/2000	DEM	Democrat	USS	United States Senator	CAL	Calhoun			14	14	Nelson	Bill		1537
+9/5/2000	DEM	Democrat	USS	United States Senator	CHA	Charlotte			63	63	Nelson	Bill		4507
+9/5/2000	DEM	Democrat	USS	United States Senator	CIT	Citrus			35	35	Nelson	Bill		7695
+9/5/2000	DEM	Democrat	USS	United States Senator	CLA	Clay			52	52	Nelson	Bill		3329
+9/5/2000	DEM	Democrat	USS	United States Senator	CLL	Collier			96	96	Nelson	Bill		3518
+9/5/2000	DEM	Democrat	USS	United States Senator	CLM	Columbia			31	31	Nelson	Bill		6761
+9/5/2000	DEM	Democrat	USS	United States Senator	DES	Desoto			15	15	Nelson	Bill		2392
+9/5/2000	DEM	Democrat	USS	United States Senator	DIX	Dixie			11	11	Nelson	Bill		2567
+9/5/2000	DEM	Democrat	USS	United States Senator	DUV	Duval			268	268	Nelson	Bill		44119
+9/5/2000	DEM	Democrat	USS	United States Senator	ESC	Escambia			109	109	Nelson	Bill		17154
+9/5/2000	DEM	Democrat	USS	United States Senator	FLA	Flagler			27	27	Nelson	Bill		3447
+9/5/2000	DEM	Democrat	USS	United States Senator	FRA	Franklin			8	8	Nelson	Bill		2566
+9/5/2000	DEM	Democrat	USS	United States Senator	GAD	Gadsden			16	16	Nelson	Bill		8960
+9/5/2000	DEM	Democrat	USS	United States Senator	GIL	Gilchrist			10	10	Nelson	Bill		1948
+9/5/2000	DEM	Democrat	USS	United States Senator	GLA	Glades			13	13	Nelson	Bill		1098
+9/5/2000	DEM	Democrat	USS	United States Senator	GUL	Gulf			14	14	Nelson	Bill		3424
+9/5/2000	DEM	Democrat	USS	United States Senator	HAM	Hamilton			8	8	Nelson	Bill		2379
+9/5/2000	DEM	Democrat	USS	United States Senator	HAR	Hardee			12	12	Nelson	Bill		2500
+9/5/2000	DEM	Democrat	USS	United States Senator	HEN	Hendry			22	22	Nelson	Bill		2244
+9/5/2000	DEM	Democrat	USS	United States Senator	HER	Hernando			51	51	Nelson	Bill		6461
+9/5/2000	DEM	Democrat	USS	United States Senator	HIG	Highlands			24	24	Nelson	Bill		3735
+9/5/2000	DEM	Democrat	USS	United States Senator	HIL	Hillsborough			320	320	Nelson	Bill		32995
+9/5/2000	DEM	Democrat	USS	United States Senator	HOL	Holmes			17	17	Nelson	Bill		3321
+9/5/2000	DEM	Democrat	USS	United States Senator	IND	Indian River			38	38	Nelson	Bill		4976
+9/5/2000	DEM	Democrat	USS	United States Senator	JAC	Jackson			27	27	Nelson	Bill		7531
+9/5/2000	DEM	Democrat	USS	United States Senator	JEF	Jefferson			13	13	Nelson	Bill		3300
+9/5/2000	DEM	Democrat	USS	United States Senator	LAF	Lafayette			5	5	Nelson	Bill		1738
+9/5/2000	DEM	Democrat	USS	United States Senator	LAK	Lake			86	86	Nelson	Bill		7704
+9/5/2000	DEM	Democrat	USS	United States Senator	LEE	Lee			150	150	Nelson	Bill		11039
+9/5/2000	DEM	Democrat	USS	United States Senator	LEO	Leon			95	95	Nelson	Bill		28678
+9/5/2000	DEM	Democrat	USS	United States Senator	LEV	Levy			21	21	Nelson	Bill		4650
+9/5/2000	DEM	Democrat	USS	United States Senator	LIB	Liberty			8	8	Nelson	Bill		1625
+9/5/2000	DEM	Democrat	USS	United States Senator	MAD	Madison			11	11	Nelson	Bill		3567
+9/5/2000	DEM	Democrat	USS	United States Senator	MAN	Manatee			135	135	Nelson	Bill		7124
+9/5/2000	DEM	Democrat	USS	United States Senator	MRN	Marion			96	96	Nelson	Bill		12560
+9/5/2000	DEM	Democrat	USS	United States Senator	MRT	Martin			40	40	Nelson	Bill		4630
+9/5/2000	DEM	Democrat	USS	United States Senator	DAD	Miami-Dade			617	617	Nelson	Bill		65098
+9/5/2000	DEM	Democrat	USS	United States Senator	MON	Monroe			33	33	Nelson	Bill		2121
+9/5/2000	DEM	Democrat	USS	United States Senator	NAS	Nassau			21	21	Nelson	Bill		3083
+9/5/2000	DEM	Democrat	USS	United States Senator	OKA	Okaloosa			48	48	Nelson	Bill		5605
+9/5/2000	DEM	Democrat	USS	United States Senator	OKE	Okeechobee			18	18	Nelson	Bill		3407
+9/5/2000	DEM	Democrat	USS	United States Senator	ORA	Orange			232	232	Nelson	Bill		26540
+9/5/2000	DEM	Democrat	USS	United States Senator	OSC	Osceola			66	66	Nelson	Bill		5940
+9/5/2000	DEM	Democrat	USS	United States Senator	PAL	Palm Beach			531	531	Nelson	Bill		44326
+9/5/2000	DEM	Democrat	USS	United States Senator	PAS	Pasco			132	132	Nelson	Bill		12068
+9/5/2000	DEM	Democrat	USS	United States Senator	PIN	Pinellas			345	345	Nelson	Bill		35217
+9/5/2000	DEM	Democrat	USS	United States Senator	POL	Polk			163	163	Nelson	Bill		19196
+9/5/2000	DEM	Democrat	USS	United States Senator	PUT	Putnam			50	50	Nelson	Bill		6829
+9/5/2000	DEM	Democrat	USS	United States Senator	SAN	Santa Rosa			38	38	Nelson	Bill		5080
+9/5/2000	DEM	Democrat	USS	United States Senator	SAR	Sarasota			142	142	Nelson	Bill		11425
+9/5/2000	DEM	Democrat	USS	United States Senator	SEM	Seminole			133	133	Nelson	Bill		8070
+9/5/2000	DEM	Democrat	USS	United States Senator	STJ	St. Johns			58	58	Nelson	Bill		4789
+9/5/2000	DEM	Democrat	USS	United States Senator	STL	St. Lucie			78	78	Nelson	Bill		9408
+9/5/2000	DEM	Democrat	USS	United States Senator	SUM	Sumter			31	31	Nelson	Bill		2632
+9/5/2000	DEM	Democrat	USS	United States Senator	SUW	Suwannee			16	16	Nelson	Bill		5609
+9/5/2000	DEM	Democrat	USS	United States Senator	TAY	Taylor			14	14	Nelson	Bill		3666
+9/5/2000	DEM	Democrat	USS	United States Senator	UNI	Union			11	11	Nelson	Bill		2232
+9/5/2000	DEM	Democrat	USS	United States Senator	VOL	Volusia			172	172	Nelson	Bill		19758
+9/5/2000	DEM	Democrat	USS	United States Senator	WAK	Wakulla			12	12	Nelson	Bill		3498
+9/5/2000	DEM	Democrat	USS	United States Senator	WAL	Walton			33	33	Nelson	Bill		3915
+9/5/2000	DEM	Democrat	USS	United States Senator	WAS	Washington			16	16	Nelson	Bill		3067
+9/5/2000	DEM	Democrat	USR	United States Representative	DUV	Duval	004		135	135	Sanders	Kevin	Schaun	10464
+9/5/2000	DEM	Democrat	USR	United States Representative	FLA	Flagler	004		25	25	Sanders	Kevin	Schaun	1451
+9/5/2000	DEM	Democrat	USR	United States Representative	NAS	Nassau	004		21	21	Sanders	Kevin	Schaun	1835
+9/5/2000	DEM	Democrat	USR	United States Representative	STJ	St. Johns	004		49	49	Sanders	Kevin	Schaun	1692
+9/5/2000	DEM	Democrat	USR	United States Representative	VOL	Volusia	004		45	45	Sanders	Kevin	Schaun	2210
+9/5/2000	DEM	Democrat	USR	United States Representative	DUV	Duval	004		135	135	Sullivan	Tom		17882
+9/5/2000	DEM	Democrat	USR	United States Representative	FLA	Flagler	004		25	25	Sullivan	Tom		2552
+9/5/2000	DEM	Democrat	USR	United States Representative	NAS	Nassau	004		21	21	Sullivan	Tom		2723
+9/5/2000	DEM	Democrat	USR	United States Representative	STJ	St. Johns	004		49	49	Sullivan	Tom		3026
+9/5/2000	DEM	Democrat	USR	United States Representative	VOL	Volusia	004		45	45	Sullivan	Tom		2826
+9/5/2000	DEM	Democrat	USR	United States Representative	CHA	Charlotte	013		17	17	Dunn	Daniel	E.	1345
+9/5/2000	DEM	Democrat	USR	United States Representative	HIL	Hillsborough	013		20	20	Dunn	Daniel	E.	955
+9/5/2000	DEM	Democrat	USR	United States Representative	MAN	Manatee	013		135	135	Dunn	Daniel	E.	6564
+9/5/2000	DEM	Democrat	USR	United States Representative	SAR	Sarasota	013		142	142	Dunn	Daniel	E.	10236
+9/5/2000	DEM	Democrat	USR	United States Representative	CHA	Charlotte	013		17	17	Salzberg	Robert		628
+9/5/2000	DEM	Democrat	USR	United States Representative	HIL	Hillsborough	013		20	20	Salzberg	Robert		447
+9/5/2000	DEM	Democrat	USR	United States Representative	MAN	Manatee	013		135	135	Salzberg	Robert		2447
+9/5/2000	DEM	Democrat	USR	United States Representative	SAR	Sarasota	013		142	142	Salzberg	Robert		3255
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	ALA	Alachua			53	53	Bush III	James		2879
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	BAK	Baker			9	9	Bush III	James		2703
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	BAY	Bay			49	49	Bush III	James		5859
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	BRA	Bradford			20	20	Bush III	James		1840
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	BRE	Brevard			177	177	Bush III	James		4505
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	BRO	Broward			606	606	Bush III	James		13784
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	CAL	Calhoun			14	14	Bush III	James		800
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	CHA	Charlotte			63	63	Bush III	James		1173
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	CIT	Citrus			35	35	Bush III	James		1694
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	CLA	Clay			52	52	Bush III	James		1642
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	CLL	Collier			96	96	Bush III	James		1278
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	CLM	Columbia			31	31	Bush III	James		3063
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	DES	Desoto			15	15	Bush III	James		1152
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	DIX	Dixie			11	11	Bush III	James		1665
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	DUV	Duval			268	268	Bush III	James		18487
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	ESC	Escambia			109	109	Bush III	James		8176
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	FLA	Flagler			27	27	Bush III	James		1024
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	FRA	Franklin			8	8	Bush III	James		1417
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	GAD	Gadsden			16	16	Bush III	James		3353
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	GIL	Gilchrist			10	10	Bush III	James		1001
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	GLA	Glades			13	13	Bush III	James		693
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	GUL	Gulf			14	14	Bush III	James		1671
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	HAM	Hamilton			8	8	Bush III	James		1550
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	HAR	Hardee			12	12	Bush III	James		1266
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	HEN	Hendry			22	22	Bush III	James		1413
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	HER	Hernando			51	51	Bush III	James		1590
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	HIG	Highlands			24	24	Bush III	James		1330
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	HIL	Hillsborough			320	320	Bush III	James		7145
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	HOL	Holmes			17	17	Bush III	James		1826
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	IND	Indian River			38	38	Bush III	James		1560
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	JAC	Jackson			27	27	Bush III	James		3398
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	JEF	Jefferson			13	13	Bush III	James		1343
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	LAF	Lafayette			5	5	Bush III	James		889
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	LAK	Lake			86	86	Bush III	James		1641
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	LEE	Lee			150	150	Bush III	James		4121
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	LEO	Leon			95	95	Bush III	James		9126
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	LEV	Levy			21	21	Bush III	James		1936
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	LIB	Liberty			8	8	Bush III	James		885
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	MAD	Madison			11	11	Bush III	James		2041
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	MAN	Manatee			135	135	Bush III	James		1624
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	MRN	Marion			96	96	Bush III	James		3559
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	MRT	Martin			40	40	Bush III	James		1218
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	DAD	Miami-Dade			617	617	Bush III	James		40092
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	MON	Monroe			33	33	Bush III	James		651
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	NAS	Nassau			21	21	Bush III	James		1771
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	OKA	Okaloosa			48	48	Bush III	James		2316
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	OKE	Okeechobee			18	18	Bush III	James		1489
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	ORA	Orange			232	232	Bush III	James		6861
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	OSC	Osceola			66	66	Bush III	James		2100
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	PAL	Palm Beach			531	531	Bush III	James		8686
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	PAS	Pasco			132	132	Bush III	James		2773
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	PIN	Pinellas			345	345	Bush III	James		7541
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	POL	Polk			163	163	Bush III	James		4794
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	PUT	Putnam			50	50	Bush III	James		2485
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	SAN	Santa Rosa			38	38	Bush III	James		2135
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	SAR	Sarasota			142	142	Bush III	James		2586
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	SEM	Seminole			133	133	Bush III	James		1562
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	STJ	St. Johns			58	58	Bush III	James		2182
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	STL	St. Lucie			78	78	Bush III	James		3174
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	SUM	Sumter			31	31	Bush III	James		859
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	SUW	Suwannee			16	16	Bush III	James		2883
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	TAY	Taylor			14	14	Bush III	James		1914
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	UNI	Union			11	11	Bush III	James		1185
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	VOL	Volusia			172	172	Bush III	James		5512
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	WAK	Wakulla			12	12	Bush III	James		1326
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	WAL	Walton			33	33	Bush III	James		1919
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	WAS	Washington			16	16	Bush III	James		1428
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	ALA	Alachua			53	53	Sheldon	George	H.	14600
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	BAK	Baker			9	9	Sheldon	George	H.	2657
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	BAY	Bay			49	49	Sheldon	George	H.	8327
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	BRA	Bradford			20	20	Sheldon	George	H.	2590
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	BRE	Brevard			177	177	Sheldon	George	H.	16634
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	BRO	Broward			606	606	Sheldon	George	H.	53218
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	CAL	Calhoun			14	14	Sheldon	George	H.	1256
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	CHA	Charlotte			63	63	Sheldon	George	H.	5045
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	CIT	Citrus			35	35	Sheldon	George	H.	7388
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	CLA	Clay			52	52	Sheldon	George	H.	2922
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	CLL	Collier			96	96	Sheldon	George	H.	3633
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	CLM	Columbia			31	31	Sheldon	George	H.	4852
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	DES	Desoto			15	15	Sheldon	George	H.	2224
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	DIX	Dixie			11	11	Sheldon	George	H.	2220
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	DUV	Duval			268	268	Sheldon	George	H.	38696
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	ESC	Escambia			109	109	Sheldon	George	H.	15442
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	FLA	Flagler			27	27	Sheldon	George	H.	3362
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	FRA	Franklin			8	8	Sheldon	George	H.	1923
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	GAD	Gadsden			16	16	Sheldon	George	H.	6657
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	GIL	Gilchrist			10	10	Sheldon	George	H.	1471
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	GLA	Glades			13	13	Sheldon	George	H.	972
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	GUL	Gulf			14	14	Sheldon	George	H.	2418
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	HAM	Hamilton			8	8	Sheldon	George	H.	1625
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	HAR	Hardee			12	12	Sheldon	George	H.	1926
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	HEN	Hendry			22	22	Sheldon	George	H.	1740
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	HER	Hernando			51	51	Sheldon	George	H.	6543
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	HIG	Highlands			24	24	Sheldon	George	H.	3466
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	HIL	Hillsborough			320	320	Sheldon	George	H.	33088
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	HOL	Holmes			17	17	Sheldon	George	H.	2480
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	IND	Indian River			38	38	Sheldon	George	H.	4321
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	JAC	Jackson			27	27	Sheldon	George	H.	5864
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	JEF	Jefferson			13	13	Sheldon	George	H.	2304
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	LAF	Lafayette			5	5	Sheldon	George	H.	1176
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	LAK	Lake			86	86	Sheldon	George	H.	6903
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	LEE	Lee			150	150	Sheldon	George	H.	11177
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	LEO	Leon			95	95	Sheldon	George	H.	21763
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	LEV	Levy			21	21	Sheldon	George	H.	3948
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	LIB	Liberty			8	8	Sheldon	George	H.	1336
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	MAD	Madison			11	11	Sheldon	George	H.	2325
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	MAN	Manatee			135	135	Sheldon	George	H.	7366
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	MRN	Marion			96	96	Sheldon	George	H.	10541
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	MRT	Martin			40	40	Sheldon	George	H.	4176
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	DAD	Miami-Dade			617	617	Sheldon	George	H.	51739
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	MON	Monroe			33	33	Sheldon	George	H.	2104
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	NAS	Nassau			21	21	Sheldon	George	H.	2700
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	OKA	Okaloosa			48	48	Sheldon	George	H.	5084
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	OKE	Okeechobee			18	18	Sheldon	George	H.	2915
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	ORA	Orange			232	232	Sheldon	George	H.	23741
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	OSC	Osceola			66	66	Sheldon	George	H.	5219
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	PAL	Palm Beach			531	531	Sheldon	George	H.	40698
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	PAS	Pasco			132	132	Sheldon	George	H.	11691
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	PIN	Pinellas			345	345	Sheldon	George	H.	34260
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	POL	Polk			163	163	Sheldon	George	H.	18885
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	PUT	Putnam			50	50	Sheldon	George	H.	5469
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	SAN	Santa Rosa			38	38	Sheldon	George	H.	4502
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	SAR	Sarasota			142	142	Sheldon	George	H.	10927
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	SEM	Seminole			133	133	Sheldon	George	H.	7428
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	STJ	St. Johns			58	58	Sheldon	George	H.	4130
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	STL	St. Lucie			78	78	Sheldon	George	H.	8466
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	SUM	Sumter			31	31	Sheldon	George	H.	2224
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	SUW	Suwannee			16	16	Sheldon	George	H.	3930
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	TAY	Taylor			14	14	Sheldon	George	H.	2342
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	UNI	Union			11	11	Sheldon	George	H.	1685
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	VOL	Volusia			172	172	Sheldon	George	H.	17753
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	WAK	Wakulla			12	12	Sheldon	George	H.	2610
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	WAL	Walton			33	33	Sheldon	George	H.	3099
+9/5/2000	DEM	Democrat	EDU	Commissioner of Education	WAS	Washington			16	16	Sheldon	George	H.	1913
+9/5/2000	DEM	Democrat	STA	State Attorney	HIL	Hillsborough	013		320	320	Alpert	Jonathan		16853
+9/5/2000	DEM	Democrat	STA	State Attorney	HIL	Hillsborough	013		320	320	Shimberg	Robert		24190
+9/5/2000	DEM	Democrat	STA	State Attorney	BRO	Broward	017		606	606	Balkan	Adam	M.	32206
+9/5/2000	DEM	Democrat	STA	State Attorney	BRO	Broward	017		606	606	Satz	Mike		63583
+9/5/2000	DEM	Democrat	STS	State Senator	BAY	Bay	003		16	16	Boone	Eddie		1431
+9/5/2000	DEM	Democrat	STS	State Senator	CAL	Calhoun	003		14	14	Boone	Eddie		550
+9/5/2000	DEM	Democrat	STS	State Senator	FRA	Franklin	003		8	8	Boone	Eddie		677
+9/5/2000	DEM	Democrat	STS	State Senator	GAD	Gadsden	003		16	16	Boone	Eddie		1935
+9/5/2000	DEM	Democrat	STS	State Senator	GUL	Gulf	003		14	14	Boone	Eddie		1251
+9/5/2000	DEM	Democrat	STS	State Senator	JAC	Jackson	003		27	27	Boone	Eddie		2623
+9/5/2000	DEM	Democrat	STS	State Senator	JEF	Jefferson	003		6	6	Boone	Eddie		229
+9/5/2000	DEM	Democrat	STS	State Senator	LEO	Leon	003		68	68	Boone	Eddie		5006
+9/5/2000	DEM	Democrat	STS	State Senator	LIB	Liberty	003		8	8	Boone	Eddie		565
+9/5/2000	DEM	Democrat	STS	State Senator	MAD	Madison	003		9	9	Boone	Eddie		744
+9/5/2000	DEM	Democrat	STS	State Senator	WAK	Wakulla	003		12	12	Boone	Eddie		1218
+9/5/2000	DEM	Democrat	STS	State Senator	BAY	Bay	003		16	16	Boyd	Janegale		2002
+9/5/2000	DEM	Democrat	STS	State Senator	CAL	Calhoun	003		14	14	Boyd	Janegale		909
+9/5/2000	DEM	Democrat	STS	State Senator	FRA	Franklin	003		8	8	Boyd	Janegale		2028
+9/5/2000	DEM	Democrat	STS	State Senator	GAD	Gadsden	003		16	16	Boyd	Janegale		1854
+9/5/2000	DEM	Democrat	STS	State Senator	GUL	Gulf	003		14	14	Boyd	Janegale		2072
+9/5/2000	DEM	Democrat	STS	State Senator	JAC	Jackson	003		27	27	Boyd	Janegale		4460
+9/5/2000	DEM	Democrat	STS	State Senator	JEF	Jefferson	003		6	6	Boyd	Janegale		974
+9/5/2000	DEM	Democrat	STS	State Senator	LEO	Leon	003		68	68	Boyd	Janegale		4042
+9/5/2000	DEM	Democrat	STS	State Senator	LIB	Liberty	003		8	8	Boyd	Janegale		663
+9/5/2000	DEM	Democrat	STS	State Senator	MAD	Madison	003		9	9	Boyd	Janegale		1418
+9/5/2000	DEM	Democrat	STS	State Senator	WAK	Wakulla	003		12	12	Boyd	Janegale		2065
+9/5/2000	DEM	Democrat	STS	State Senator	BAY	Bay	003		16	16	Fenn	Dean	J.	307
+9/5/2000	DEM	Democrat	STS	State Senator	CAL	Calhoun	003		14	14	Fenn	Dean	J.	254
+9/5/2000	DEM	Democrat	STS	State Senator	FRA	Franklin	003		8	8	Fenn	Dean	J.	107
+9/5/2000	DEM	Democrat	STS	State Senator	GAD	Gadsden	003		16	16	Fenn	Dean	J.	1234
+9/5/2000	DEM	Democrat	STS	State Senator	GUL	Gulf	003		14	14	Fenn	Dean	J.	269
+9/5/2000	DEM	Democrat	STS	State Senator	JAC	Jackson	003		27	27	Fenn	Dean	J.	994
+9/5/2000	DEM	Democrat	STS	State Senator	JEF	Jefferson	003		6	6	Fenn	Dean	J.	33
+9/5/2000	DEM	Democrat	STS	State Senator	LEO	Leon	003		68	68	Fenn	Dean	J.	806
+9/5/2000	DEM	Democrat	STS	State Senator	LIB	Liberty	003		8	8	Fenn	Dean	J.	526
+9/5/2000	DEM	Democrat	STS	State Senator	MAD	Madison	003		9	9	Fenn	Dean	J.	93
+9/5/2000	DEM	Democrat	STS	State Senator	WAK	Wakulla	003		12	12	Fenn	Dean	J.	127
+9/5/2000	DEM	Democrat	STS	State Senator	BAY	Bay	003		16	16	Lawson	Alfred	'Al'	817
+9/5/2000	DEM	Democrat	STS	State Senator	CAL	Calhoun	003		14	14	Lawson	Alfred	'Al'	666
+9/5/2000	DEM	Democrat	STS	State Senator	FRA	Franklin	003		8	8	Lawson	Alfred	'Al'	1118
+9/5/2000	DEM	Democrat	STS	State Senator	GAD	Gadsden	003		16	16	Lawson	Alfred	'Al'	6201
+9/5/2000	DEM	Democrat	STS	State Senator	GUL	Gulf	003		14	14	Lawson	Alfred	'Al'	947
+9/5/2000	DEM	Democrat	STS	State Senator	JAC	Jackson	003		27	27	Lawson	Alfred	'Al'	2304
+9/5/2000	DEM	Democrat	STS	State Senator	JEF	Jefferson	003		6	6	Lawson	Alfred	'Al'	398
+9/5/2000	DEM	Democrat	STS	State Senator	LEO	Leon	003		68	68	Lawson	Alfred	'Al'	12892
+9/5/2000	DEM	Democrat	STS	State Senator	LIB	Liberty	003		8	8	Lawson	Alfred	'Al'	789
+9/5/2000	DEM	Democrat	STS	State Senator	MAD	Madison	003		9	9	Lawson	Alfred	'Al'	1005
+9/5/2000	DEM	Democrat	STS	State Senator	WAK	Wakulla	003		12	12	Lawson	Alfred	'Al'	1145
+9/5/2000	DEM	Democrat	STS	State Senator	ALA	Alachua	005		48	48	Chestnut	Cynthia	Moore	7908
+9/5/2000	DEM	Democrat	STS	State Senator	BRA	Bradford	005		10	10	Chestnut	Cynthia	Moore	739
+9/5/2000	DEM	Democrat	STS	State Senator	CLA	Clay	005		13	13	Chestnut	Cynthia	Moore	514
+9/5/2000	DEM	Democrat	STS	State Senator	CLM	Columbia	005		21	21	Chestnut	Cynthia	Moore	2020
+9/5/2000	DEM	Democrat	STS	State Senator	LEV	Levy	005		12	12	Chestnut	Cynthia	Moore	1318
+9/5/2000	DEM	Democrat	STS	State Senator	MRN	Marion	005		14	14	Chestnut	Cynthia	Moore	1021
+9/5/2000	DEM	Democrat	STS	State Senator	PUT	Putnam	005		37	37	Chestnut	Cynthia	Moore	2523
+9/5/2000	DEM	Democrat	STS	State Senator	SUW	Suwannee	005		10	10	Chestnut	Cynthia	Moore	999
+9/5/2000	DEM	Democrat	STS	State Senator	UNI	Union	005		6	6	Chestnut	Cynthia	Moore	513
+9/5/2000	DEM	Democrat	STS	State Senator	ALA	Alachua	005		48	48	Smith	Rod		9674
+9/5/2000	DEM	Democrat	STS	State Senator	BRA	Bradford	005		10	10	Smith	Rod		1819
+9/5/2000	DEM	Democrat	STS	State Senator	CLA	Clay	005		13	13	Smith	Rod		546
+9/5/2000	DEM	Democrat	STS	State Senator	CLM	Columbia	005		21	21	Smith	Rod		3566
+9/5/2000	DEM	Democrat	STS	State Senator	LEV	Levy	005		12	12	Smith	Rod		3193
+9/5/2000	DEM	Democrat	STS	State Senator	MRN	Marion	005		14	14	Smith	Rod		773
+9/5/2000	DEM	Democrat	STS	State Senator	PUT	Putnam	005		37	37	Smith	Rod		5560
+9/5/2000	DEM	Democrat	STS	State Senator	SUW	Suwannee	005		10	10	Smith	Rod		1699
+9/5/2000	DEM	Democrat	STS	State Senator	UNI	Union	005		6	6	Smith	Rod		1322
+9/5/2000	DEM	Democrat	STS	State Senator	ORA	Orange	009		65	65	Ellman	Ron		4997
+9/5/2000	DEM	Democrat	STS	State Senator	SEM	Seminole	009		53	53	Ellman	Ron		2575
+9/5/2000	DEM	Democrat	STS	State Senator	ORA	Orange	009		65	65	Villard	Steve		2352
+9/5/2000	DEM	Democrat	STS	State Senator	SEM	Seminole	009		53	53	Villard	Steve		1310
+9/5/2000	DEM	Democrat	STS	State Senator	HIL	Hillsborough	021		86	86	Jamerson	Doug		3782
+9/5/2000	DEM	Democrat	STS	State Senator	MAN	Manatee	021		18	18	Jamerson	Doug		654
+9/5/2000	DEM	Democrat	STS	State Senator	PIN	Pinellas	021		31	31	Jamerson	Doug		5812
+9/5/2000	DEM	Democrat	STS	State Senator	HIL	Hillsborough	021		86	86	Miller	Lesley	'Les'	10598
+9/5/2000	DEM	Democrat	STS	State Senator	MAN	Manatee	021		18	18	Miller	Lesley	'Les'	615
+9/5/2000	DEM	Democrat	STS	State Senator	PIN	Pinellas	021		31	31	Miller	Lesley	'Les'	944
+9/5/2000	DEM	Democrat	STS	State Senator	BRO	Broward	031		138	138	Beatty	John	A.	2564
+9/5/2000	DEM	Democrat	STS	State Senator	PAL	Palm Beach	031		48	48	Beatty	John	A.	748
+9/5/2000	DEM	Democrat	STS	State Senator	BRO	Broward	031		138	138	Gillespie	John		6293
+9/5/2000	DEM	Democrat	STS	State Senator	PAL	Palm Beach	031		48	48	Gillespie	John		1536
+9/5/2000	DEM	Democrat	STR	State Representative	ESC	Escambia	003		47	47	Manale	Jodie		3407
+9/5/2000	DEM	Democrat	STR	State Representative	ESC	Escambia	003		47	47	Wyche	John	H.	6993
+9/5/2000	DEM	Democrat	STR	State Representative	GAD	Gadsden	008		16	16	Barber	Kenneth		2444
+9/5/2000	DEM	Democrat	STR	State Representative	LEO	Leon	008		32	32	Barber	Kenneth		2337
+9/5/2000	DEM	Democrat	STR	State Representative	GAD	Gadsden	008		16	16	Dobson	Michael		1193
+9/5/2000	DEM	Democrat	STR	State Representative	LEO	Leon	008		32	32	Dobson	Michael		506
+9/5/2000	DEM	Democrat	STR	State Representative	GAD	Gadsden	008		16	16	Groomes	Freddie	L.	1963
+9/5/2000	DEM	Democrat	STR	State Representative	LEO	Leon	008		32	32	Groomes	Freddie	L.	1681
+9/5/2000	DEM	Democrat	STR	State Representative	GAD	Gadsden	008		16	16	Mitchell-Long	Carrie		661
+9/5/2000	DEM	Democrat	STR	State Representative	LEO	Leon	008		32	32	Mitchell-Long	Carrie		489
+9/5/2000	DEM	Democrat	STR	State Representative	GAD	Gadsden	008		16	16	Richardson	Curtis		3124
+9/5/2000	DEM	Democrat	STR	State Representative	LEO	Leon	008		32	32	Richardson	Curtis		2310
+9/5/2000	DEM	Democrat	STR	State Representative	LEO	Leon	009		63	63	Ausley	Loranne		8795
+9/5/2000	DEM	Democrat	STR	State Representative	LEO	Leon	009		63	63	Carvajal	Tony		1406
+9/5/2000	DEM	Democrat	STR	State Representative	LEO	Leon	009		63	63	Croley	Doug		3164
+9/5/2000	DEM	Democrat	STR	State Representative	LEO	Leon	009		63	63	Patterson	Todd		7985
+9/5/2000	DEM	Democrat	STR	State Representative	LEO	Leon	009		63	63	Woodall	Karen		3155
+9/5/2000	DEM	Democrat	STR	State Representative	ALA	Alachua	010		3	3	Dove	Joyce		123
+9/5/2000	DEM	Democrat	STR	State Representative	DIX	Dixie	010		11	11	Dove	Joyce		529
+9/5/2000	DEM	Democrat	STR	State Representative	FRA	Franklin	010		8	8	Dove	Joyce		314
+9/5/2000	DEM	Democrat	STR	State Representative	GIL	Gilchrist	010		5	5	Dove	Joyce		108
+9/5/2000	DEM	Democrat	STR	State Representative	JEF	Jefferson	010		13	13	Dove	Joyce		387
+9/5/2000	DEM	Democrat	STR	State Representative	LEO	Leon	010		4	4	Dove	Joyce		199
+9/5/2000	DEM	Democrat	STR	State Representative	LEV	Levy	010		21	21	Dove	Joyce		887
+9/5/2000	DEM	Democrat	STR	State Representative	MRN	Marion	010		7	7	Dove	Joyce		160
+9/5/2000	DEM	Democrat	STR	State Representative	TAY	Taylor	010		14	14	Dove	Joyce		337
+9/5/2000	DEM	Democrat	STR	State Representative	WAK	Wakulla	010		12	12	Dove	Joyce		317
+9/5/2000	DEM	Democrat	STR	State Representative	ALA	Alachua	010		3	3	Hankerson	Johnny	'Hank'	91
+9/5/2000	DEM	Democrat	STR	State Representative	DIX	Dixie	010		11	11	Hankerson	Johnny	'Hank'	377
+9/5/2000	DEM	Democrat	STR	State Representative	FRA	Franklin	010		8	8	Hankerson	Johnny	'Hank'	343
+9/5/2000	DEM	Democrat	STR	State Representative	GIL	Gilchrist	010		5	5	Hankerson	Johnny	'Hank'	82
+9/5/2000	DEM	Democrat	STR	State Representative	JEF	Jefferson	010		13	13	Hankerson	Johnny	'Hank'	1244
+9/5/2000	DEM	Democrat	STR	State Representative	LEO	Leon	010		4	4	Hankerson	Johnny	'Hank'	185
+9/5/2000	DEM	Democrat	STR	State Representative	LEV	Levy	010		21	21	Hankerson	Johnny	'Hank'	1018
+9/5/2000	DEM	Democrat	STR	State Representative	MRN	Marion	010		7	7	Hankerson	Johnny	'Hank'	58
+9/5/2000	DEM	Democrat	STR	State Representative	TAY	Taylor	010		14	14	Hankerson	Johnny	'Hank'	2317
+9/5/2000	DEM	Democrat	STR	State Representative	WAK	Wakulla	010		12	12	Hankerson	Johnny	'Hank'	479
+9/5/2000	DEM	Democrat	STR	State Representative	ALA	Alachua	010		3	3	Johnston	George	D.	33
+9/5/2000	DEM	Democrat	STR	State Representative	DIX	Dixie	010		11	11	Johnston	George	D.	104
+9/5/2000	DEM	Democrat	STR	State Representative	FRA	Franklin	010		8	8	Johnston	George	D.	96
+9/5/2000	DEM	Democrat	STR	State Representative	GIL	Gilchrist	010		5	5	Johnston	George	D.	38
+9/5/2000	DEM	Democrat	STR	State Representative	JEF	Jefferson	010		13	13	Johnston	George	D.	172
+9/5/2000	DEM	Democrat	STR	State Representative	LEO	Leon	010		4	4	Johnston	George	D.	48
+9/5/2000	DEM	Democrat	STR	State Representative	LEV	Levy	010		21	21	Johnston	George	D.	261
+9/5/2000	DEM	Democrat	STR	State Representative	MRN	Marion	010		7	7	Johnston	George	D.	43
+9/5/2000	DEM	Democrat	STR	State Representative	TAY	Taylor	010		14	14	Johnston	George	D.	66
+9/5/2000	DEM	Democrat	STR	State Representative	WAK	Wakulla	010		12	12	Johnston	George	D.	378
+9/5/2000	DEM	Democrat	STR	State Representative	ALA	Alachua	010		3	3	Kendrick	Will	S.	53
+9/5/2000	DEM	Democrat	STR	State Representative	DIX	Dixie	010		11	11	Kendrick	Will	S.	317
+9/5/2000	DEM	Democrat	STR	State Representative	FRA	Franklin	010		8	8	Kendrick	Will	S.	2331
+9/5/2000	DEM	Democrat	STR	State Representative	GIL	Gilchrist	010		5	5	Kendrick	Will	S.	77
+9/5/2000	DEM	Democrat	STR	State Representative	JEF	Jefferson	010		13	13	Kendrick	Will	S.	1234
+9/5/2000	DEM	Democrat	STR	State Representative	LEO	Leon	010		4	4	Kendrick	Will	S.	199
+9/5/2000	DEM	Democrat	STR	State Representative	LEV	Levy	010		21	21	Kendrick	Will	S.	686
+9/5/2000	DEM	Democrat	STR	State Representative	MRN	Marion	010		7	7	Kendrick	Will	S.	46
+9/5/2000	DEM	Democrat	STR	State Representative	TAY	Taylor	010		14	14	Kendrick	Will	S.	718
+9/5/2000	DEM	Democrat	STR	State Representative	WAK	Wakulla	010		12	12	Kendrick	Will	S.	1101
+9/5/2000	DEM	Democrat	STR	State Representative	ALA	Alachua	010		3	3	Lander	Joseph	T.	94
+9/5/2000	DEM	Democrat	STR	State Representative	DIX	Dixie	010		11	11	Lander	Joseph	T.	2438
+9/5/2000	DEM	Democrat	STR	State Representative	FRA	Franklin	010		8	8	Lander	Joseph	T.	71
+9/5/2000	DEM	Democrat	STR	State Representative	GIL	Gilchrist	010		5	5	Lander	Joseph	T.	509
+9/5/2000	DEM	Democrat	STR	State Representative	JEF	Jefferson	010		13	13	Lander	Joseph	T.	160
+9/5/2000	DEM	Democrat	STR	State Representative	LEO	Leon	010		4	4	Lander	Joseph	T.	26
+9/5/2000	DEM	Democrat	STR	State Representative	LEV	Levy	010		21	21	Lander	Joseph	T.	1624
+9/5/2000	DEM	Democrat	STR	State Representative	MRN	Marion	010		7	7	Lander	Joseph	T.	27
+9/5/2000	DEM	Democrat	STR	State Representative	TAY	Taylor	010		14	14	Lander	Joseph	T.	362
+9/5/2000	DEM	Democrat	STR	State Representative	WAK	Wakulla	010		12	12	Lander	Joseph	T.	68
+9/5/2000	DEM	Democrat	STR	State Representative	ALA	Alachua	010		3	3	McLaughlin	Murray		57
+9/5/2000	DEM	Democrat	STR	State Representative	DIX	Dixie	010		11	11	McLaughlin	Murray		369
+9/5/2000	DEM	Democrat	STR	State Representative	FRA	Franklin	010		8	8	McLaughlin	Murray		415
+9/5/2000	DEM	Democrat	STR	State Representative	GIL	Gilchrist	010		5	5	McLaughlin	Murray		59
+9/5/2000	DEM	Democrat	STR	State Representative	JEF	Jefferson	010		13	13	McLaughlin	Murray		300
+9/5/2000	DEM	Democrat	STR	State Representative	LEO	Leon	010		4	4	McLaughlin	Murray		146
+9/5/2000	DEM	Democrat	STR	State Representative	LEV	Levy	010		21	21	McLaughlin	Murray		979
+9/5/2000	DEM	Democrat	STR	State Representative	MRN	Marion	010		7	7	McLaughlin	Murray		108
+9/5/2000	DEM	Democrat	STR	State Representative	TAY	Taylor	010		14	14	McLaughlin	Murray		349
+9/5/2000	DEM	Democrat	STR	State Representative	WAK	Wakulla	010		12	12	McLaughlin	Murray		1720
+9/5/2000	DEM	Democrat	STR	State Representative	ALA	Alachua	010		3	3	Ogden	Carl		37
+9/5/2000	DEM	Democrat	STR	State Representative	DIX	Dixie	010		11	11	Ogden	Carl		200
+9/5/2000	DEM	Democrat	STR	State Representative	FRA	Franklin	010		8	8	Ogden	Carl		144
+9/5/2000	DEM	Democrat	STR	State Representative	GIL	Gilchrist	010		5	5	Ogden	Carl		65
+9/5/2000	DEM	Democrat	STR	State Representative	JEF	Jefferson	010		13	13	Ogden	Carl		395
+9/5/2000	DEM	Democrat	STR	State Representative	LEO	Leon	010		4	4	Ogden	Carl		111
+9/5/2000	DEM	Democrat	STR	State Representative	LEV	Levy	010		21	21	Ogden	Carl		650
+9/5/2000	DEM	Democrat	STR	State Representative	MRN	Marion	010		7	7	Ogden	Carl		49
+9/5/2000	DEM	Democrat	STR	State Representative	TAY	Taylor	010		14	14	Ogden	Carl		625
+9/5/2000	DEM	Democrat	STR	State Representative	WAK	Wakulla	010		12	12	Ogden	Carl		338
+9/5/2000	DEM	Democrat	STR	State Representative	BAK	Baker	012		9	9	Green	Lex		838
+9/5/2000	DEM	Democrat	STR	State Representative	BRA	Bradford	012		20	20	Green	Lex		3375
+9/5/2000	DEM	Democrat	STR	State Representative	DUV	Duval	012		10	10	Green	Lex		329
+9/5/2000	DEM	Democrat	STR	State Representative	NAS	Nassau	012		21	21	Green	Lex		1196
+9/5/2000	DEM	Democrat	STR	State Representative	UNI	Union	012		11	11	Green	Lex		1189
+9/5/2000	DEM	Democrat	STR	State Representative	BAK	Baker	012		9	9	Hart	Bobby		5079
+9/5/2000	DEM	Democrat	STR	State Representative	BRA	Bradford	012		20	20	Hart	Bobby		1134
+9/5/2000	DEM	Democrat	STR	State Representative	DUV	Duval	012		10	10	Hart	Bobby		503
+9/5/2000	DEM	Democrat	STR	State Representative	NAS	Nassau	012		21	21	Hart	Bobby		1531
+9/5/2000	DEM	Democrat	STR	State Representative	UNI	Union	012		11	11	Hart	Bobby		1808
+9/5/2000	DEM	Democrat	STR	State Representative	BAK	Baker	012		9	9	Mayo	Jim	L.	267
+9/5/2000	DEM	Democrat	STR	State Representative	BRA	Bradford	012		20	20	Mayo	Jim	L.	290
+9/5/2000	DEM	Democrat	STR	State Representative	DUV	Duval	012		10	10	Mayo	Jim	L.	225
+9/5/2000	DEM	Democrat	STR	State Representative	NAS	Nassau	012		21	21	Mayo	Jim	L.	2011
+9/5/2000	DEM	Democrat	STR	State Representative	UNI	Union	012		11	11	Mayo	Jim	L.	185
+9/5/2000	DEM	Democrat	STR	State Representative	DUV	Duval	014		47	47	Barlow	A. Wellington	'Al'	7137
+9/5/2000	DEM	Democrat	STR	State Representative	DUV	Duval	014		47	47	Fields	Terry	L.	9258
+9/5/2000	DEM	Democrat	STR	State Representative	ALA	Alachua	022		36	36	Delaney	Bruce	L.	4489
+9/5/2000	DEM	Democrat	STR	State Representative	MRN	Marion	022		11	11	Delaney	Bruce	L.	577
+9/5/2000	DEM	Democrat	STR	State Representative	ALA	Alachua	022		36	36	McGriff Jr	Perry	C.	7644
+9/5/2000	DEM	Democrat	STR	State Representative	MRN	Marion	022		11	11	McGriff Jr	Perry	C.	400
+9/5/2000	DEM	Democrat	STR	State Representative	ALA	Alachua	022		36	36	Rosenblatt	Howard		1739
+9/5/2000	DEM	Democrat	STR	State Representative	MRN	Marion	022		11	11	Rosenblatt	Howard		157
+9/5/2000	DEM	Democrat	STR	State Representative	ALA	Alachua	023		25	25	Budd	Harvey		3171
+9/5/2000	DEM	Democrat	STR	State Representative	MRN	Marion	023		13	13	Budd	Harvey		334
+9/5/2000	DEM	Democrat	STR	State Representative	ALA	Alachua	023		25	25	Jennings Jr.	Ed		3744
+9/5/2000	DEM	Democrat	STR	State Representative	MRN	Marion	023		13	13	Jennings Jr.	Ed		1411
+9/5/2000	DEM	Democrat	STR	State Representative	MRN	Marion	024		53	53	Harper	Anthony		1857
+9/5/2000	DEM	Democrat	STR	State Representative	MRN	Marion	024		53	53	Johnson	Judy		7378
+9/5/2000	DEM	Democrat	STR	State Representative	BRE	Brevard	032		40	40	Bruno	Juan	R.	1204
+9/5/2000	DEM	Democrat	STR	State Representative	IND	Indian River	032		5	5	Bruno	Juan	R.	58
+9/5/2000	DEM	Democrat	STR	State Representative	ORA	Orange	032		15	15	Bruno	Juan	R.	551
+9/5/2000	DEM	Democrat	STR	State Representative	BRE	Brevard	032		40	40	Smith	Joe	Lee	3820
+9/5/2000	DEM	Democrat	STR	State Representative	IND	Indian River	032		5	5	Smith	Joe	Lee	191
+9/5/2000	DEM	Democrat	STR	State Representative	ORA	Orange	032		15	15	Smith	Joe	Lee	654
+9/5/2000	DEM	Democrat	STR	State Representative	ORA	Orange	039		30	30	Antone	Bruce		1743
+9/5/2000	DEM	Democrat	STR	State Representative	ORA	Orange	039		30	30	Brooks	Miles		343
+9/5/2000	DEM	Democrat	STR	State Representative	ORA	Orange	039		30	30	Rucker	David		312
+9/5/2000	DEM	Democrat	STR	State Representative	ORA	Orange	039		30	30	Sims	Wardell		1973
+9/5/2000	DEM	Democrat	STR	State Representative	ORA	Orange	039		30	30	Siplin	Gary		2082
+9/5/2000	DEM	Democrat	STR	State Representative	HER	Hernando	044		43	43	Te Strake	Diane		3271
+9/5/2000	DEM	Democrat	STR	State Representative	LAK	Lake	044		4	4	Te Strake	Diane		80
+9/5/2000	DEM	Democrat	STR	State Representative	PAS	Pasco	044		1	1	Te Strake	Diane		14
+9/5/2000	DEM	Democrat	STR	State Representative	POL	Polk	044		4	4	Te Strake	Diane		265
+9/5/2000	DEM	Democrat	STR	State Representative	SUM	Sumter	044		6	6	Te Strake	Diane		191
+9/5/2000	DEM	Democrat	STR	State Representative	HER	Hernando	044		43	43	Williams	Gregory	L.	3923
+9/5/2000	DEM	Democrat	STR	State Representative	LAK	Lake	044		4	4	Williams	Gregory	L.	67
+9/5/2000	DEM	Democrat	STR	State Representative	PAS	Pasco	044		1	1	Williams	Gregory	L.	19
+9/5/2000	DEM	Democrat	STR	State Representative	POL	Polk	044		4	4	Williams	Gregory	L.	183
+9/5/2000	DEM	Democrat	STR	State Representative	SUM	Sumter	044		6	6	Williams	Gregory	L.	184
+9/5/2000	DEM	Democrat	STR	State Representative	PIN	Pinellas	053		45	45	Justice	Charlie		2995
+9/5/2000	DEM	Democrat	STR	State Representative	PIN	Pinellas	053		45	45	King	Michele		2774
+9/5/2000	DEM	Democrat	STR	State Representative	HIL	Hillsborough	055		1	1	Peterman Jr.	Frank		0
+9/5/2000	DEM	Democrat	STR	State Representative	MAN	Manatee	055		14	14	Peterman Jr.	Frank		676
+9/5/2000	DEM	Democrat	STR	State Representative	PIN	Pinellas	055		37	37	Peterman Jr.	Frank		6879
+9/5/2000	DEM	Democrat	STR	State Representative	HIL	Hillsborough	055		1	1	Williams	Earnest		0
+9/5/2000	DEM	Democrat	STR	State Representative	MAN	Manatee	055		14	14	Williams	Earnest		996
+9/5/2000	DEM	Democrat	STR	State Representative	PIN	Pinellas	055		37	37	Williams	Earnest		3577
+9/5/2000	DEM	Democrat	STR	State Representative	HIL	Hillsborough	059		34	34	Joyner	Arthenia	L.	6484
+9/5/2000	DEM	Democrat	STR	State Representative	HIL	Hillsborough	059		34	34	Reddick	Frank		2681
+9/5/2000	DEM	Democrat	STR	State Representative	POL	Polk	065		43	43	Bozeman	Marlene	A	3472
+9/5/2000	DEM	Democrat	STR	State Representative	POL	Polk	065		43	43	Dershimer	Dave	'Dersh'	3150
+9/5/2000	DEM	Democrat	STR	State Representative	SAR	Sarasota	069		49	49	Cullen	David		2749
+9/5/2000	DEM	Democrat	STR	State Representative	SAR	Sarasota	069		49	49	Lanier	Pattie		2611
+9/5/2000	DEM	Democrat	STR	State Representative	HIG	Highlands	078		6	6	Kindred Sr.	Thomas	R. L.	627
+9/5/2000	DEM	Democrat	STR	State Representative	MRT	Martin	078		1	1	Kindred Sr.	Thomas	R. L.	72
+9/5/2000	DEM	Democrat	STR	State Representative	OKE	Okeechobee	078		6	6	Kindred Sr.	Thomas	R. L.	1774
+9/5/2000	DEM	Democrat	STR	State Representative	PAL	Palm Beach	078		29	29	Kindred Sr.	Thomas	R. L.	1266
+9/5/2000	DEM	Democrat	STR	State Representative	STL	St. Lucie	078		21	21	Kindred Sr.	Thomas	R. L.	3503
+9/5/2000	DEM	Democrat	STR	State Representative	HIG	Highlands	078		6	6	Machek	Richard	A.	772
+9/5/2000	DEM	Democrat	STR	State Representative	MRT	Martin	078		1	1	Machek	Richard	A.	74
+9/5/2000	DEM	Democrat	STR	State Representative	OKE	Okeechobee	078		6	6	Machek	Richard	A.	1695
+9/5/2000	DEM	Democrat	STR	State Representative	PAL	Palm Beach	078		29	29	Machek	Richard	A.	4213
+9/5/2000	DEM	Democrat	STR	State Representative	STL	St. Lucie	078		21	21	Machek	Richard	A.	1414
+9/5/2000	DEM	Democrat	STR	State Representative	PAL	Palm Beach	084		70	70	Becton	Cinthia		2709
+9/5/2000	DEM	Democrat	STR	State Representative	PAL	Palm Beach	084		70	70	Greenspan	Roland	I.	727
+9/5/2000	DEM	Democrat	STR	State Representative	PAL	Palm Beach	084		70	70	Harper Jr.	James	'Hank'	4127
+9/5/2000	DEM	Democrat	STR	State Representative	PAL	Palm Beach	087		67	67	Ingersoll	Joan		2279
+9/5/2000	DEM	Democrat	STR	State Representative	PAL	Palm Beach	087		67	67	Klasfeld	Sheldon	(Shelly)	549
+9/5/2000	DEM	Democrat	STR	State Representative	PAL	Palm Beach	087		67	67	Meyer	Steve		1488
+9/5/2000	DEM	Democrat	STR	State Representative	PAL	Palm Beach	088		79	79	Gannon	Anne	M.	2705
+9/5/2000	DEM	Democrat	STR	State Representative	PAL	Palm Beach	088		79	79	Nemo	Michele		1539
+9/5/2000	DEM	Democrat	STR	State Representative	PAL	Palm Beach	088		79	79	Niven	David		1959
+9/5/2000	DEM	Democrat	STR	State Representative	PAL	Palm Beach	088		79	79	Silver	Barry		3887
+9/5/2000	DEM	Democrat	STR	State Representative	PAL	Palm Beach	088		79	79	Westcott	Doug		293
+9/5/2000	DEM	Democrat	STR	State Representative	PAL	Palm Beach	089		54	54	Bush	Bobra		1636
+9/5/2000	DEM	Democrat	STR	State Representative	PAL	Palm Beach	089		54	54	Levine	Curt		4047
+9/5/2000	DEM	Democrat	STR	State Representative	PAL	Palm Beach	089		54	54	Shepard	Marc		822
+9/5/2000	DEM	Democrat	STR	State Representative	PAL	Palm Beach	089		54	54	Slosberg	Irving		4085
+9/5/2000	DEM	Democrat	STR	State Representative	BRO	Broward	090		51	51	Keiser	Belinda		4832
+9/5/2000	DEM	Democrat	STR	State Representative	BRO	Broward	090		51	51	Weissman	Mark		5193
+9/5/2000	DEM	Democrat	STR	State Representative	BRO	Broward	094		51	51	Jackson	Clarence 'CJ'		4254
+9/5/2000	DEM	Democrat	STR	State Representative	BRO	Broward	094		51	51	Meadows	Matthew	'Matt'	4733
+9/5/2000	DEM	Democrat	STR	State Representative	BRO	Broward	094		51	51	Valias-Jean	Alain		803
+9/5/2000	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	103		28	28	Holloway	Wilbert	'Tee'	9360
+9/5/2000	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	103		28	28	Williams	Anthony		3063
+9/5/2000	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	106		41	41	Gelber	Dan		4671
+9/5/2000	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	106		41	41	Geller	Joseph 'Joe'		1968
+9/5/2000	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	106		41	41	Kinzer	Mitchell		849
+9/5/2000	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	108		34	34	Black	Daisy	M.	3303
+9/5/2000	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	108		34	34	Brutus	Phillip	J.	5699
+9/5/2000	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		36	36	Bendross-Mindingall	Dorothy		2293
+9/5/2000	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		36	36	Bush	Bernadine		2019
+9/5/2000	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		36	36	Colyer	Jacqui		2105
+9/5/2000	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		36	36	Davis	Phil		683
+9/5/2000	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		36	36	Hardemon	Roy		383
+9/5/2000	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		36	36	Hester	Billy		285
+9/5/2000	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		36	36	Ramos	Victor	M.	488
+9/5/2000	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		46	46	Andrews	Israel	J.	1678
+9/5/2000	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		46	46	Bullard	Edward	B.	2851
+9/5/2000	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		46	46	Jones	Donald		1707
+9/5/2000	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		46	46	Lane	Angela	Solomon	1662
+9/5/2000	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		46	46	Sewell	Joseph	G.	783
+9/5/2000	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		46	46	Wood	Denny 'The T-Shirt	Man'	752
+9/5/2000	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	119		42	42	Lerner	Cindy		5271
+9/5/2000	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	119		42	42	Rader	Fred		1057
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	ESC	Escambia	001	014	109	109	Clark	Daniel	W.	20339
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	OKA	Okaloosa	001	014	48	48	Clark	Daniel	W.	14337
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	SAN	Santa Rosa	001	014	38	38	Clark	Daniel	W.	8039
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	WAL	Walton	001	014	33	33	Clark	Daniel	W.	4140
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	ESC	Escambia	001	014	109	109	Nobles	Linda	L.	30276
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	OKA	Okaloosa	001	014	48	48	Nobles	Linda	L.	17570
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	SAN	Santa Rosa	001	014	38	38	Nobles	Linda	L.	14415
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	WAL	Walton	001	014	33	33	Nobles	Linda	L.	4448
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	014	132	132	Webb	Bill		20578
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	014	345	345	Webb	Bill		60768
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	014	132	132	Peyton	Don		11250
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	014	345	345	Peyton	Don		34254
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	ALA	Alachua	008	005	53	53	Kann	Terry		10744
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	BAK	Baker	008	005	9	9	Kann	Terry		2981
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	BRA	Bradford	008	005	20	20	Kann	Terry		3209
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	GIL	Gilchrist	008	005	10	10	Kann	Terry		1123
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	LEV	Levy	008	005	21	21	Kann	Terry		2682
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	UNI	Union	008	005	11	11	Kann	Terry		1458
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	ALA	Alachua	008	005	53	53	Monaco	Toby		15899
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	BAK	Baker	008	005	9	9	Monaco	Toby		3031
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	BRA	Bradford	008	005	20	20	Monaco	Toby		2282
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	GIL	Gilchrist	008	005	10	10	Monaco	Toby		1846
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	LEV	Levy	008	005	21	21	Monaco	Toby		4451
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	UNI	Union	008	005	11	11	Monaco	Toby		1615
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	003	232	232	McLatchey	Russell	F.	34249
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	003	66	66	McLatchey	Russell	F.	7549
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	003	232	232	Perry Jr.	Belvin		40653
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	003	66	66	Perry Jr.	Belvin		8224
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	011	232	232	Suarez	Anthony	(Tony)	26376
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	011	66	66	Suarez	Anthony	(Tony)	5152
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	011	232	232	Adams	Gail		49271
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	011	66	66	Adams	Gail		11218
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	015	232	232	Doane	Gary	E.	25582
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	015	66	66	Doane	Gary	E.	5309
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	015	232	232	Miller	Jeffords	D. (Jeff)	44757
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	015	66	66	Miller	Jeffords	D. (Jeff)	10362
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	019	232	232	Stroker	R.	James	39171
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	019	66	66	Stroker	R.	James	8615
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	019	232	232	Hightower	Dennis		34221
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	019	66	66	Hightower	Dennis		6523
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	008	617	617	Miller	David	C.	77700
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	008	617	617	Spiegel	Arthur 'Artie'		45212
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	008	617	617	Peckins	David		52307
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	024	617	617	Kahn	Martin	D.	78924
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	024	617	617	Glazer	Mindy	S.	81626
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	025	617	617	Zilber	Martin		46385
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	025	617	617	Murphy	Dennis	J.	53704
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	025	617	617	Mendez	Gina		74078
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	025	617	617	Adrien	Peter	Sylvester	11259
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	056	617	617	Dennis	Maria	Espinosa	113002
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	056	617	617	Schatzman	Larry		83897
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	025	320	320	Dee	David		12449
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	025	320	320	Ware	Ellen		16740
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	025	320	320	Foster Jr.	Robert	A.	20393
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	025	320	320	Baldwin	Leland	Anne	22651
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	BAY	Bay	014	003	49	49	Lewis	Bill		8125
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	CAL	Calhoun	014	003	14	14	Lewis	Bill		1136
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	GUL	Gulf	014	003	14	14	Lewis	Bill		1283
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	HOL	Holmes	014	003	17	17	Lewis	Bill		1141
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	JAC	Jackson	014	003	27	27	Lewis	Bill		2327
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	WAS	Washington	014	003	16	16	Lewis	Bill		949
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	BAY	Bay	014	003	49	49	Pell	Robert	A.	6718
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	CAL	Calhoun	014	003	14	14	Pell	Robert	A.	1160
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	GUL	Gulf	014	003	14	14	Pell	Robert	A.	1472
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	HOL	Holmes	014	003	17	17	Pell	Robert	A.	785
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	JAC	Jackson	014	003	27	27	Pell	Robert	A.	1768
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	WAS	Washington	014	003	16	16	Pell	Robert	A.	948
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	BAY	Bay	014	003	49	49	Albritton	Richard		13224
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	CAL	Calhoun	014	003	14	14	Albritton	Richard		2302
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	GUL	Gulf	014	003	14	14	Albritton	Richard		2470
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	HOL	Holmes	014	003	17	17	Albritton	Richard		3524
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	JAC	Jackson	014	003	27	27	Albritton	Richard		7441
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	WAS	Washington	014	003	16	16	Albritton	Richard		2629
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	031	606	606	Fields	Samuel 'Sam'		32685
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	031	606	606	Hurley	John 'Jay'		19069
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	031	606	606	Beach	Marcia		46276
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	010	177	177	Nelson	Debra		40920
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	010	133	133	Nelson	Debra		23110
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	010	177	177	Grunor	Sylvia	A.	16502
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	010	133	133	Grunor	Sylvia	A.	8296
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	011	177	177	Freeman	Tom		36755
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	011	133	133	Freeman	Tom		22161
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	011	177	177	Levin	Norman		19267
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	011	133	133	Levin	Norman		9458
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	008	38	38	Cox	Jack		5064
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	008	40	40	Cox	Jack		6826
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	008	18	18	Cox	Jack		1382
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	008	78	78	Cox	Jack		7439
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	008	38	38	Hawley	Bob		16026
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	008	40	40	Hawley	Bob		16578
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	008	18	18	Hawley	Bob		4480
+9/5/2000	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	008	78	78	Hawley	Bob		18618
+9/5/2000	NOP	Non-Partisan	SMS	Sarasota-Manatee Airport Authority	SAR	Sarasota		001	142	142	Turner	Rosie		19915
+9/5/2000	NOP	Non-Partisan	SMS	Sarasota-Manatee Airport Authority	SAR	Sarasota		001	142	142	Waechter	Bob		24182
+9/5/2000	NOP	Non-Partisan	SMS	Sarasota-Manatee Airport Authority	SAR	Sarasota		002	142	142	Abde	Douglas	E.	11314
+9/5/2000	NOP	Non-Partisan	SMS	Sarasota-Manatee Airport Authority	SAR	Sarasota		002	142	142	Gurney	Frank	I.	31184
+9/5/2000	NOP	Non-Partisan	SMM	Sarasota-Manatee Airport Authority	MAN	Manatee		002	135	135	Rynerson	Jack		17489
+9/5/2000	NOP	Non-Partisan	SMM	Sarasota-Manatee Airport Authority	MAN	Manatee		002	135	135	Smith	Edwin	T.	9516
+9/5/2000	NOP	Non-Partisan	SMS	Sarasota-Manatee Airport Authority	SAR	Sarasota		004	142	142	Van Schoor	John		17296
+9/5/2000	NOP	Non-Partisan	SMS	Sarasota-Manatee Airport Authority	SAR	Sarasota		004	142	142	Welsh	Thomas	P.	24848

@@ -1,0 +1,61 @@
+"","District_orig","County","election_id","office_id","candidate_id","candidate_name","first_name","last_name","prefix","suffix","gender","race","ethinicity","age","incumbent"
+"1","Allen (38th District)","Allen","IN_2014-11-04_GEN","TC2_Allen_38_1",NA,"Thomas J. Felts","Thomas","Felts",NA,NA,NA,NA,NA,NA,NA
+"2","Benton (76th Circuit) ","Benton","IN_2014-11-04_GEN","TC2_Benton_76_1",NA,"Rex W. Kepner","Rex","Kepner",NA,NA,NA,NA,NA,NA,NA
+"3","Clark (4th Circt), No. 1","Clark","IN_2014-11-04_GEN","TC2_Clark_4_1",NA,"Andrew (Drew) Adams","Andrew","Adams",NA,NA,NA,NA,NA,NA,NA
+"4","Clark (4th Circt), No. 2","Clark","IN_2014-11-04_GEN","TC2_Clark_4_2",NA,"Laura A. Harbison","Laura","Harbison",NA,NA,NA,NA,NA,NA,NA
+"5","Clark (4th Circt), No. 2","Clark","IN_2014-11-04_GEN","TC2_Clark_4_2",NA,"Brad Jacobs","Brad","Jacobs",NA,NA,NA,NA,NA,NA,NA
+"6","Adams County ","Adams","IN_2014-11-04_GEN","TC1_Adams_1_1",NA,"Patrick R. Miller","Patrick","Miller",NA,NA,NA,NA,NA,NA,NA
+"7","Clark (4th Circt), No. 3","Clark","IN_2014-11-04_GEN","TC2_Clark_4_3",NA,"Joe P. Weber","Joe","Weber",NA,NA,NA,NA,NA,NA,NA
+"8","Clark (4th Circt), No. 3","Clark","IN_2014-11-04_GEN","TC2_Clark_4_3",NA,"Kyle P. Williams","Kyle","Williams",NA,NA,NA,NA,NA,NA,NA
+"9","Allen Civil Div.(Bobay)","Allen","IN_2014-11-04_GEN","TC1_Allen_1_1",NA,"Craig J. Bobay","Craig","Bobay",NA,NA,NA,NA,NA,NA,NA
+"10","Allen Fam.Rel. (Heath)","Allen","IN_2014-11-04_GEN","TC1_Allen_1_1",NA,"Dan Heath","Dan","Heath",NA,NA,NA,NA,NA,NA,NA
+"11","Allen Civil (Levine)","Allen","IN_2014-11-04_GEN","TC1_Allen_1_1",NA,"Daniel J. Borgmann","Daniel","Borgmann",NA,NA,NA,NA,NA,NA,NA
+"12","Allen Civil (Levine)","Allen","IN_2014-11-04_GEN","TC1_Allen_1_1",NA,"James P. Posey","James","Posey",NA,NA,NA,NA,NA,NA,NA
+"13","Allen Civil (Levine)","Allen","IN_2014-11-04_GEN","TC1_Allen_1_1",NA,"Stanley A. Levine","Stanley","Levine",NA,NA,NA,NA,NA,NA,NA
+"14","Allen Criminal (Gull)","Allen","IN_2014-11-04_GEN","TC1_Allen_1_1",NA,"Fran C. Gull","Fran","Gull",NA,NA,NA,NA,NA,NA,NA
+"15","Allen Criminal (Surbeck)","Allen","IN_2014-11-04_GEN","TC1_Allen_1_1",NA,"John F. Surbeck Jr","John","Surbeck",NA,NA,NA,NA,NA,NA,NA
+"16","Bartholomew County, No. 2","Bartholomew","IN_2014-11-04_GEN","TC1_Bartholomew_1_2",NA,"Kathleen (Kitty) Tighe Coriden","Kathleen","Coriden",NA,NA,NA,NA,NA,NA,NA
+"17","Daviess (49th Circuit)","Daviess","IN_2014-11-04_GEN","TC2_Daviess_49_1",NA,"Gregory A. Smith","Gregory","Smith",NA,NA,NA,NA,NA,NA,NA
+"18","Boone County, No. 1","Boone","IN_2014-11-04_GEN","TC1_Boone_1_1",NA,"Matt Kincaid","Matt","Kincaid",NA,NA,NA,NA,NA,NA,NA
+"19","Boone County, No. 2","Boone","IN_2014-11-04_GEN","TC1_Boone_1_2",NA,"Bruce Petit","Bruce","Petit",NA,NA,NA,NA,NA,NA,NA
+"20","Delaware Ct. 3(46th Cir.)","Delaware","IN_2014-11-04_GEN","TC2_Delaware_46_3",NA,"Linda Ralu Wolf","Linda","Wolf",NA,NA,NA,NA,NA,NA,NA
+"21","Delaware Ct. 4(46th Cir.)","Delaware","IN_2014-11-04_GEN","TC2_Delaware_46_4",NA,"John M. Feick","John","Feick",NA,NA,NA,NA,NA,NA,NA
+"22","Delaware Ct. 5(46th Cir.)","Delaware","IN_2014-11-04_GEN","TC2_Delaware_46_5",NA,"Thomas A. Cannon Jr.","Thomas","Cannon",NA,NA,NA,NA,NA,NA,NA
+"23","Carroll County","Carroll","IN_2014-11-04_GEN","TC1_Carroll_1_1",NA,"Kurtis Glenn Fouts","Kurtis","Fouts",NA,NA,NA,NA,NA,NA,NA
+"24","Dubois (57th Circuit)","Dubois","IN_2014-11-04_GEN","TC2_Dubois_57_1",NA,"Nathan A.  Verkamp","Nathan","Verkamp",NA,NA,NA,NA,NA,NA,NA
+"25","Dubois (57th Circuit)","Dubois","IN_2014-11-04_GEN","TC2_Dubois_57_1",NA,"Kevin D. Crouse","Kevin","Crouse",NA,NA,NA,NA,NA,NA,NA
+"26","Clinton County","Clinton","IN_2014-11-04_GEN","TC1_Clinton_1_1",NA,"Justin H. Hunter","Justin","Hunter",NA,NA,NA,NA,NA,NA,NA
+"27","Daviess County","Daviess","IN_2014-11-04_GEN","TC1_Daviess_1_1",NA,"Dean A. Sobecki","Dean","Sobecki",NA,NA,NA,NA,NA,NA,NA
+"28","Dearborn County No. 1","Dearborn","IN_2014-11-04_GEN","TC1_Dearborn_1_1",NA,"Jonathan N. Cleary","Jonathan","Cleary",NA,NA,NA,NA,NA,NA,NA
+"29","Decatur County","Decatur","IN_2014-11-04_GEN","TC1_Decatur_1_1",NA,"Matthew D. Bailey","Matthew","Bailey",NA,NA,NA,NA,NA,NA,NA
+"30","DeKalb County, Court 1","DeKalb","IN_2014-11-04_GEN","TC1_DeKalb_1_1",NA,"Kevin P. Wallace","Kevin","Wallace",NA,NA,NA,NA,NA,NA,NA
+"31","Elkhart County, No. 1","Elkhart","IN_2014-11-04_GEN","TC1_Elkhart_1_1",NA,"Evan S. Roberts","Evan","Roberts",NA,NA,NA,NA,NA,NA,NA
+"32","Adams (26th Circuit)","Adams","IN_2014-11-04_GEN","DA_Adams_26_1",NA,"Christopher E. Harvey","Christopher","Harvey",NA,NA,NA,NA,NA,NA,NA
+"33","Adams (26th Circuit)","Adams","IN_2014-11-04_GEN","DA_Adams_26_1",NA,"Jeremy W. Brown","Jeremy","Brown",NA,NA,NA,NA,NA,NA,NA
+"34","Allen (38th Circuit)","Allen","IN_2014-11-04_GEN","DA_Allen_38_1",NA,"Karen Richards","Karen","Richards",NA,NA,NA,NA,NA,NA,NA
+"35","Elkhart County, No. 3","Elkhart","IN_2014-11-04_GEN","TC1_Elkhart_1_3",NA,"Teresa L. Cataldo","Teresa","Cataldo",NA,NA,NA,NA,NA,NA,NA
+"36","Elkhart County, No. 4","Elkhart","IN_2014-11-04_GEN","TC1_Elkhart_1_4",NA,"Gretchen S. Lund","Gretchen","Lund",NA,NA,NA,NA,NA,NA,NA
+"37","Bartholomew (9th Circuit)","Bartholomew","IN_2014-11-04_GEN","DA_Bartholomew_9_1",NA,"William M. (Bill) Nash","William","Nash",NA,NA,NA,NA,NA,NA,NA
+"38","Elkhart County, No. 5","Elkhart","IN_2014-11-04_GEN","TC1_Elkhart_1_5",NA,"Charles Carter Wicks","Charles","Wicks",NA,NA,NA,NA,NA,NA,NA
+"39","Benton (76th Circuit)","Benton","IN_2014-11-04_GEN","DA_Benton_76_1",NA,"John C. Wright","John","Wright",NA,NA,NA,NA,NA,NA,NA
+"40","Blackford (71st Circuit)","Blackford","IN_2014-11-04_GEN","DA_Blackford_71_1",NA,"Kevin N. Basey","Kevin","Basey",NA,NA,NA,NA,NA,NA,NA
+"41","Boone (20th Circuit)","Boone","IN_2014-11-04_GEN","DA_Boone_20_1",NA,"Todd J. Meyer","Todd","Meyer",NA,NA,NA,NA,NA,NA,NA
+"42","Brown (88th Circuit)","Brown","IN_2014-11-04_GEN","DA_Brown_88_1",NA,"James R. Oliver","James","Oliver",NA,NA,NA,NA,NA,NA,NA
+"43","Brown (88th Circuit)","Brown","IN_2014-11-04_GEN","DA_Brown_88_1",NA,"Ted Adams","Ted","Adams",NA,NA,NA,NA,NA,NA,NA
+"44","Carroll (74th Circuit)","Carroll","IN_2014-11-04_GEN","DA_Carroll_74_1",NA,"Robert T. (Rob) Ives","Robert","Ives",NA,NA,NA,NA,NA,NA,NA
+"45","Cass (29th Circuit)","Cass","IN_2014-11-04_GEN","DA_Cass_29_1",NA,"Mark Kelly Leeman","Mark","Leeman",NA,NA,NA,NA,NA,NA,NA
+"46","Cass (29th Circuit)","Cass","IN_2014-11-04_GEN","DA_Cass_29_1",NA,"Lisa L. Swaim","Lisa","Swaim",NA,NA,NA,NA,NA,NA,NA
+"47","Clark (4th Circuit)","Clark","IN_2014-11-04_GEN","DA_Clark_4_1",NA,"Robert G. Bottorff II","Robert","II",NA,NA,NA,NA,NA,NA,NA
+"48","Clark (4th Circuit)","Clark","IN_2014-11-04_GEN","DA_Clark_4_1",NA,"Jeremy Mull","Jeremy","Mull",NA,NA,NA,NA,NA,NA,NA
+"49","Clay (13th Circuit)","Clay","IN_2014-11-04_GEN","DA_Clay_13_1",NA,"Robert Alex Pell","Robert","Pell",NA,NA,NA,NA,NA,NA,NA
+"50","Clinton (45th Circuit)","Clinton","IN_2014-11-04_GEN","DA_Clinton_45_1",NA,"Anthony J. Sommer","Anthony","Sommer",NA,NA,NA,NA,NA,NA,NA
+"51","Crawford (77th Circuit)","Crawford","IN_2014-11-04_GEN","DA_Crawford_77_1",NA,"Cheryl J. Hillenburg","Cheryl","Hillenburg",NA,NA,NA,NA,NA,NA,NA
+"52","Crawford (77th Circuit)","Crawford","IN_2014-11-04_GEN","DA_Crawford_77_1",NA,"Nicholas W. Haverstock","Nicholas","Haverstock",NA,NA,NA,NA,NA,NA,NA
+"53","Daviess (49th Circuit)","Daviess","IN_2014-11-04_GEN","DA_Daviess_49_1",NA,"Dan Murrie","Dan","Murrie",NA,NA,NA,NA,NA,NA,NA
+"54","Dearborn & Ohio(7th Cir.)","Dearborn","IN_2014-11-04_GEN","DA_Dearborn_7_1",NA,"Aaron Negangard","Aaron","Negangard",NA,NA,NA,NA,NA,NA,NA
+"55","Decatur (69th Circuit)","Decatur","IN_2014-11-04_GEN","DA_Decatur_69_1",NA,"Christopher M. Tebbe","Christopher","Tebbe",NA,NA,NA,NA,NA,NA,NA
+"56","Decatur (69th Circuit)","Decatur","IN_2014-11-04_GEN","DA_Decatur_69_1",NA,"Nathan W. Harter IV","Nathan","IV",NA,NA,NA,NA,NA,NA,NA
+"57","DeKalb (75th Circuit)","DeKalb","IN_2014-11-04_GEN","DA_DeKalb_75_1",NA,"ClaraMary Winebrenner","ClaraMary","Winebrenner",NA,NA,NA,NA,NA,NA,NA
+"58","Delaware (46th Circuit)","Delaware","IN_2014-11-04_GEN","DA_Delaware_46_1",NA,"Jeffrey L. Arnold","Jeffrey","Arnold",NA,NA,NA,NA,NA,NA,NA
+"59","Dubois (57th Circuit)","Dubois","IN_2014-11-04_GEN","DA_Dubois_57_1",NA,"Anthony D. Quinn","Anthony","Quinn",NA,NA,NA,NA,NA,NA,NA
+"60","Elkhart (34th Circuit)","Elkhart","IN_2014-11-04_GEN","DA_Elkhart_34_1",NA,"Curtis T. Hill, Jr.","Curtis","Hill",NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,1273 @@
+ElectionDate	PartyCode	PartyName	RaceCode	OfficeDesc	CountyCode	CountyName	Juris1num	Juris2num	Precincts	PrecinctsReporting	CanNameLast	CanNameFirst	CanNameMiddle	CanVotes
+8/31/2004	REP	Republican	USS	United States Senator	ALA	Alachua			69	69	Byrd	Johnnie		307
+8/31/2004	REP	Republican	USS	United States Senator	BAK	Baker			9	9	Byrd	Johnnie		101
+8/31/2004	REP	Republican	USS	United States Senator	BAY	Bay			59	59	Byrd	Johnnie		1272
+8/31/2004	REP	Republican	USS	United States Senator	BRA	Bradford			22	22	Byrd	Johnnie		105
+8/31/2004	REP	Republican	USS	United States Senator	BRE	Brevard			221	221	Byrd	Johnnie		1131
+8/31/2004	REP	Republican	USS	United States Senator	BRO	Broward			800	800	Byrd	Johnnie		1889
+8/31/2004	REP	Republican	USS	United States Senator	CAL	Calhoun			15	15	Byrd	Johnnie		19
+8/31/2004	REP	Republican	USS	United States Senator	CHA	Charlotte			83	83	Byrd	Johnnie		1521
+8/31/2004	REP	Republican	USS	United States Senator	CIT	Citrus			41	41	Byrd	Johnnie		554
+8/31/2004	REP	Republican	USS	United States Senator	CLA	Clay			64	64	Byrd	Johnnie		2414
+8/31/2004	REP	Republican	USS	United States Senator	CLL	Collier			94	94	Byrd	Johnnie		1421
+8/31/2004	REP	Republican	USS	United States Senator	CLM	Columbia			25	25	Byrd	Johnnie		251
+8/31/2004	REP	Republican	USS	United States Senator	DES	Desoto			17	17	Byrd	Johnnie		63
+8/31/2004	REP	Republican	USS	United States Senator	DIX	Dixie			11	11	Byrd	Johnnie		48
+8/31/2004	REP	Republican	USS	United States Senator	DUV	Duval			285	285	Byrd	Johnnie		4268
+8/31/2004	REP	Republican	USS	United States Senator	ESC	Escambia			91	91	Byrd	Johnnie		1929
+8/31/2004	REP	Republican	USS	United States Senator	FLA	Flagler			34	34	Byrd	Johnnie		230
+8/31/2004	REP	Republican	USS	United States Senator	FRA	Franklin			10	10	Byrd	Johnnie		39
+8/31/2004	REP	Republican	USS	United States Senator	GAD	Gadsden			26	26	Byrd	Johnnie		55
+8/31/2004	REP	Republican	USS	United States Senator	GIL	Gilchrist			12	12	Byrd	Johnnie		86
+8/31/2004	REP	Republican	USS	United States Senator	GLA	Glades			13	13	Byrd	Johnnie		48
+8/31/2004	REP	Republican	USS	United States Senator	GUL	Gulf			16	16	Byrd	Johnnie		92
+8/31/2004	REP	Republican	USS	United States Senator	HAM	Hamilton			10	10	Byrd	Johnnie		24
+8/31/2004	REP	Republican	USS	United States Senator	HAR	Hardee			12	12	Byrd	Johnnie		60
+8/31/2004	REP	Republican	USS	United States Senator	HEN	Hendry			26	26	Byrd	Johnnie		94
+8/31/2004	REP	Republican	USS	United States Senator	HER	Hernando			56	56	Byrd	Johnnie		777
+8/31/2004	REP	Republican	USS	United States Senator	HIG	Highlands			27	27	Byrd	Johnnie		564
+8/31/2004	REP	Republican	USS	United States Senator	HIL	Hillsborough			360	360	Byrd	Johnnie		11112
+8/31/2004	REP	Republican	USS	United States Senator	HOL	Holmes			18	18	Byrd	Johnnie		123
+8/31/2004	REP	Republican	USS	United States Senator	IND	Indian River			57	57	Byrd	Johnnie		783
+8/31/2004	REP	Republican	USS	United States Senator	JAC	Jackson			28	28	Byrd	Johnnie		206
+8/31/2004	REP	Republican	USS	United States Senator	JEF	Jefferson			15	15	Byrd	Johnnie		73
+8/31/2004	REP	Republican	USS	United States Senator	LAF	Lafayette			6	6	Byrd	Johnnie		27
+8/31/2004	REP	Republican	USS	United States Senator	LAK	Lake			102	102	Byrd	Johnnie		452
+8/31/2004	REP	Republican	USS	United States Senator	LEE	Lee			175	175	Byrd	Johnnie		4923
+8/31/2004	REP	Republican	USS	United States Senator	LEO	Leon			115	115	Byrd	Johnnie		928
+8/31/2004	REP	Republican	USS	United States Senator	LEV	Levy			20	20	Byrd	Johnnie		103
+8/31/2004	REP	Republican	USS	United States Senator	LIB	Liberty			10	10	Byrd	Johnnie		18
+8/31/2004	REP	Republican	USS	United States Senator	MAD	Madison			11	11	Byrd	Johnnie		26
+8/31/2004	REP	Republican	USS	United States Senator	MAN	Manatee			136	136	Byrd	Johnnie		2000
+8/31/2004	REP	Republican	USS	United States Senator	MRN	Marion			143	143	Byrd	Johnnie		831
+8/31/2004	REP	Republican	USS	United States Senator	MRT	Martin			51	51	Byrd	Johnnie		618
+8/31/2004	REP	Republican	USS	United States Senator	DAD	Miami-Dade			870	870	Byrd	Johnnie		1185
+8/31/2004	REP	Republican	USS	United States Senator	MON	Monroe			33	33	Byrd	Johnnie		190
+8/31/2004	REP	Republican	USS	United States Senator	NAS	Nassau			24	24	Byrd	Johnnie		845
+8/31/2004	REP	Republican	USS	United States Senator	OKA	Okaloosa			52	52	Byrd	Johnnie		1800
+8/31/2004	REP	Republican	USS	United States Senator	OKE	Okeechobee			18	18	Byrd	Johnnie		79
+8/31/2004	REP	Republican	USS	United States Senator	ORA	Orange			272	272	Byrd	Johnnie		568
+8/31/2004	REP	Republican	USS	United States Senator	OSC	Osceola			95	95	Byrd	Johnnie		148
+8/31/2004	REP	Republican	USS	United States Senator	PAL	Palm Beach			695	695	Byrd	Johnnie		2349
+8/31/2004	REP	Republican	USS	United States Senator	PAS	Pasco			164	164	Byrd	Johnnie		2810
+8/31/2004	REP	Republican	USS	United States Senator	PIN	Pinellas			379	379	Byrd	Johnnie		5802
+8/31/2004	REP	Republican	USS	United States Senator	POL	Polk			161	161	Byrd	Johnnie		2943
+8/31/2004	REP	Republican	USS	United States Senator	PUT	Putnam			55	55	Byrd	Johnnie		324
+8/31/2004	REP	Republican	USS	United States Senator	SAN	Santa Rosa			43	43	Byrd	Johnnie		1271
+8/31/2004	REP	Republican	USS	United States Senator	SAR	Sarasota			156	156	Byrd	Johnnie		2586
+8/31/2004	REP	Republican	USS	United States Senator	SEM	Seminole			126	126	Byrd	Johnnie		331
+8/31/2004	REP	Republican	USS	United States Senator	STJ	St. Johns			68	68	Byrd	Johnnie		1904
+8/31/2004	REP	Republican	USS	United States Senator	STL	St. Lucie			75	75	Byrd	Johnnie		463
+8/31/2004	REP	Republican	USS	United States Senator	SUM	Sumter			42	42	Byrd	Johnnie		237
+8/31/2004	REP	Republican	USS	United States Senator	SUW	Suwannee			19	19	Byrd	Johnnie		167
+8/31/2004	REP	Republican	USS	United States Senator	TAY	Taylor			14	14	Byrd	Johnnie		54
+8/31/2004	REP	Republican	USS	United States Senator	UNI	Union			11	11	Byrd	Johnnie		37
+8/31/2004	REP	Republican	USS	United States Senator	VOL	Volusia			179	179	Byrd	Johnnie		513
+8/31/2004	REP	Republican	USS	United States Senator	WAK	Wakulla			12	12	Byrd	Johnnie		108
+8/31/2004	REP	Republican	USS	United States Senator	WAL	Walton			32	32	Byrd	Johnnie		580
+8/31/2004	REP	Republican	USS	United States Senator	WAS	Washington			21	21	Byrd	Johnnie		103
+8/31/2004	REP	Republican	USS	United States Senator	ALA	Alachua			69	69	Gallagher	Doug		1808
+8/31/2004	REP	Republican	USS	United States Senator	BAK	Baker			9	9	Gallagher	Doug		142
+8/31/2004	REP	Republican	USS	United States Senator	BAY	Bay			59	59	Gallagher	Doug		3899
+8/31/2004	REP	Republican	USS	United States Senator	BRA	Bradford			22	22	Gallagher	Doug		281
+8/31/2004	REP	Republican	USS	United States Senator	BRE	Brevard			221	221	Gallagher	Doug		5129
+8/31/2004	REP	Republican	USS	United States Senator	BRO	Broward			800	800	Gallagher	Doug		9240
+8/31/2004	REP	Republican	USS	United States Senator	CAL	Calhoun			15	15	Gallagher	Doug		91
+8/31/2004	REP	Republican	USS	United States Senator	CHA	Charlotte			83	83	Gallagher	Doug		2044
+8/31/2004	REP	Republican	USS	United States Senator	CIT	Citrus			41	41	Gallagher	Doug		1750
+8/31/2004	REP	Republican	USS	United States Senator	CLA	Clay			64	64	Gallagher	Doug		3967
+8/31/2004	REP	Republican	USS	United States Senator	CLL	Collier			94	94	Gallagher	Doug		2557
+8/31/2004	REP	Republican	USS	United States Senator	CLM	Columbia			25	25	Gallagher	Doug		881
+8/31/2004	REP	Republican	USS	United States Senator	DES	Desoto			17	17	Gallagher	Doug		142
+8/31/2004	REP	Republican	USS	United States Senator	DIX	Dixie			11	11	Gallagher	Doug		108
+8/31/2004	REP	Republican	USS	United States Senator	DUV	Duval			285	285	Gallagher	Doug		5430
+8/31/2004	REP	Republican	USS	United States Senator	ESC	Escambia			91	91	Gallagher	Doug		5222
+8/31/2004	REP	Republican	USS	United States Senator	FLA	Flagler			34	34	Gallagher	Doug		805
+8/31/2004	REP	Republican	USS	United States Senator	FRA	Franklin			10	10	Gallagher	Doug		95
+8/31/2004	REP	Republican	USS	United States Senator	GAD	Gadsden			26	26	Gallagher	Doug		111
+8/31/2004	REP	Republican	USS	United States Senator	GIL	Gilchrist			12	12	Gallagher	Doug		261
+8/31/2004	REP	Republican	USS	United States Senator	GLA	Glades			13	13	Gallagher	Doug		90
+8/31/2004	REP	Republican	USS	United States Senator	GUL	Gulf			16	16	Gallagher	Doug		341
+8/31/2004	REP	Republican	USS	United States Senator	HAM	Hamilton			10	10	Gallagher	Doug		54
+8/31/2004	REP	Republican	USS	United States Senator	HAR	Hardee			12	12	Gallagher	Doug		106
+8/31/2004	REP	Republican	USS	United States Senator	HEN	Hendry			26	26	Gallagher	Doug		198
+8/31/2004	REP	Republican	USS	United States Senator	HER	Hernando			56	56	Gallagher	Doug		2050
+8/31/2004	REP	Republican	USS	United States Senator	HIG	Highlands			27	27	Gallagher	Doug		1213
+8/31/2004	REP	Republican	USS	United States Senator	HIL	Hillsborough			360	360	Gallagher	Doug		7075
+8/31/2004	REP	Republican	USS	United States Senator	HOL	Holmes			18	18	Gallagher	Doug		200
+8/31/2004	REP	Republican	USS	United States Senator	IND	Indian River			57	57	Gallagher	Doug		2730
+8/31/2004	REP	Republican	USS	United States Senator	JAC	Jackson			28	28	Gallagher	Doug		455
+8/31/2004	REP	Republican	USS	United States Senator	JEF	Jefferson			15	15	Gallagher	Doug		111
+8/31/2004	REP	Republican	USS	United States Senator	LAF	Lafayette			6	6	Gallagher	Doug		36
+8/31/2004	REP	Republican	USS	United States Senator	LAK	Lake			102	102	Gallagher	Doug		2604
+8/31/2004	REP	Republican	USS	United States Senator	LEE	Lee			175	175	Gallagher	Doug		8817
+8/31/2004	REP	Republican	USS	United States Senator	LEO	Leon			115	115	Gallagher	Doug		2145
+8/31/2004	REP	Republican	USS	United States Senator	LEV	Levy			20	20	Gallagher	Doug		315
+8/31/2004	REP	Republican	USS	United States Senator	LIB	Liberty			10	10	Gallagher	Doug		36
+8/31/2004	REP	Republican	USS	United States Senator	MAD	Madison			11	11	Gallagher	Doug		72
+8/31/2004	REP	Republican	USS	United States Senator	MAN	Manatee			136	136	Gallagher	Doug		3514
+8/31/2004	REP	Republican	USS	United States Senator	MRN	Marion			143	143	Gallagher	Doug		3516
+8/31/2004	REP	Republican	USS	United States Senator	MRT	Martin			51	51	Gallagher	Doug		3588
+8/31/2004	REP	Republican	USS	United States Senator	DAD	Miami-Dade			870	870	Gallagher	Doug		12356
+8/31/2004	REP	Republican	USS	United States Senator	MON	Monroe			33	33	Gallagher	Doug		1712
+8/31/2004	REP	Republican	USS	United States Senator	NAS	Nassau			24	24	Gallagher	Doug		1443
+8/31/2004	REP	Republican	USS	United States Senator	OKA	Okaloosa			52	52	Gallagher	Doug		4643
+8/31/2004	REP	Republican	USS	United States Senator	OKE	Okeechobee			18	18	Gallagher	Doug		387
+8/31/2004	REP	Republican	USS	United States Senator	ORA	Orange			272	272	Gallagher	Doug		3597
+8/31/2004	REP	Republican	USS	United States Senator	OSC	Osceola			95	95	Gallagher	Doug		906
+8/31/2004	REP	Republican	USS	United States Senator	PAL	Palm Beach			695	695	Gallagher	Doug		9588
+8/31/2004	REP	Republican	USS	United States Senator	PAS	Pasco			164	164	Gallagher	Doug		3782
+8/31/2004	REP	Republican	USS	United States Senator	PIN	Pinellas			379	379	Gallagher	Doug		9347
+8/31/2004	REP	Republican	USS	United States Senator	POL	Polk			161	161	Gallagher	Doug		4660
+8/31/2004	REP	Republican	USS	United States Senator	PUT	Putnam			55	55	Gallagher	Doug		694
+8/31/2004	REP	Republican	USS	United States Senator	SAN	Santa Rosa			43	43	Gallagher	Doug		3965
+8/31/2004	REP	Republican	USS	United States Senator	SAR	Sarasota			156	156	Gallagher	Doug		4551
+8/31/2004	REP	Republican	USS	United States Senator	SEM	Seminole			126	126	Gallagher	Doug		2429
+8/31/2004	REP	Republican	USS	United States Senator	STJ	St. Johns			68	68	Gallagher	Doug		3058
+8/31/2004	REP	Republican	USS	United States Senator	STL	St. Lucie			75	75	Gallagher	Doug		2454
+8/31/2004	REP	Republican	USS	United States Senator	SUM	Sumter			42	42	Gallagher	Doug		785
+8/31/2004	REP	Republican	USS	United States Senator	SUW	Suwannee			19	19	Gallagher	Doug		364
+8/31/2004	REP	Republican	USS	United States Senator	TAY	Taylor			14	14	Gallagher	Doug		86
+8/31/2004	REP	Republican	USS	United States Senator	UNI	Union			11	11	Gallagher	Doug		120
+8/31/2004	REP	Republican	USS	United States Senator	VOL	Volusia			179	179	Gallagher	Doug		2171
+8/31/2004	REP	Republican	USS	United States Senator	WAK	Wakulla			12	12	Gallagher	Doug		176
+8/31/2004	REP	Republican	USS	United States Senator	WAL	Walton			32	32	Gallagher	Doug		1517
+8/31/2004	REP	Republican	USS	United States Senator	WAS	Washington			21	21	Gallagher	Doug		340
+8/31/2004	REP	Republican	USS	United States Senator	ALA	Alachua			69	69	Klayman	Larry		214
+8/31/2004	REP	Republican	USS	United States Senator	BAK	Baker			9	9	Klayman	Larry		8
+8/31/2004	REP	Republican	USS	United States Senator	BAY	Bay			59	59	Klayman	Larry		109
+8/31/2004	REP	Republican	USS	United States Senator	BRA	Bradford			22	22	Klayman	Larry		18
+8/31/2004	REP	Republican	USS	United States Senator	BRE	Brevard			221	221	Klayman	Larry		820
+8/31/2004	REP	Republican	USS	United States Senator	BRO	Broward			800	800	Klayman	Larry		752
+8/31/2004	REP	Republican	USS	United States Senator	CAL	Calhoun			15	15	Klayman	Larry		8
+8/31/2004	REP	Republican	USS	United States Senator	CHA	Charlotte			83	83	Klayman	Larry		252
+8/31/2004	REP	Republican	USS	United States Senator	CIT	Citrus			41	41	Klayman	Larry		178
+8/31/2004	REP	Republican	USS	United States Senator	CLA	Clay			64	64	Klayman	Larry		189
+8/31/2004	REP	Republican	USS	United States Senator	CLL	Collier			94	94	Klayman	Larry		258
+8/31/2004	REP	Republican	USS	United States Senator	CLM	Columbia			25	25	Klayman	Larry		88
+8/31/2004	REP	Republican	USS	United States Senator	DES	Desoto			17	17	Klayman	Larry		16
+8/31/2004	REP	Republican	USS	United States Senator	DIX	Dixie			11	11	Klayman	Larry		14
+8/31/2004	REP	Republican	USS	United States Senator	DUV	Duval			285	285	Klayman	Larry		260
+8/31/2004	REP	Republican	USS	United States Senator	ESC	Escambia			91	91	Klayman	Larry		461
+8/31/2004	REP	Republican	USS	United States Senator	FLA	Flagler			34	34	Klayman	Larry		62
+8/31/2004	REP	Republican	USS	United States Senator	FRA	Franklin			10	10	Klayman	Larry		8
+8/31/2004	REP	Republican	USS	United States Senator	GAD	Gadsden			26	26	Klayman	Larry		22
+8/31/2004	REP	Republican	USS	United States Senator	GIL	Gilchrist			12	12	Klayman	Larry		35
+8/31/2004	REP	Republican	USS	United States Senator	GLA	Glades			13	13	Klayman	Larry		7
+8/31/2004	REP	Republican	USS	United States Senator	GUL	Gulf			16	16	Klayman	Larry		16
+8/31/2004	REP	Republican	USS	United States Senator	HAM	Hamilton			10	10	Klayman	Larry		10
+8/31/2004	REP	Republican	USS	United States Senator	HAR	Hardee			12	12	Klayman	Larry		11
+8/31/2004	REP	Republican	USS	United States Senator	HEN	Hendry			26	26	Klayman	Larry		15
+8/31/2004	REP	Republican	USS	United States Senator	HER	Hernando			56	56	Klayman	Larry		169
+8/31/2004	REP	Republican	USS	United States Senator	HIG	Highlands			27	27	Klayman	Larry		109
+8/31/2004	REP	Republican	USS	United States Senator	HIL	Hillsborough			360	360	Klayman	Larry		449
+8/31/2004	REP	Republican	USS	United States Senator	HOL	Holmes			18	18	Klayman	Larry		24
+8/31/2004	REP	Republican	USS	United States Senator	IND	Indian River			57	57	Klayman	Larry		235
+8/31/2004	REP	Republican	USS	United States Senator	JAC	Jackson			28	28	Klayman	Larry		32
+8/31/2004	REP	Republican	USS	United States Senator	JEF	Jefferson			15	15	Klayman	Larry		16
+8/31/2004	REP	Republican	USS	United States Senator	LAF	Lafayette			6	6	Klayman	Larry		5
+8/31/2004	REP	Republican	USS	United States Senator	LAK	Lake			102	102	Klayman	Larry		558
+8/31/2004	REP	Republican	USS	United States Senator	LEE	Lee			175	175	Klayman	Larry		544
+8/31/2004	REP	Republican	USS	United States Senator	LEO	Leon			115	115	Klayman	Larry		279
+8/31/2004	REP	Republican	USS	United States Senator	LEV	Levy			20	20	Klayman	Larry		59
+8/31/2004	REP	Republican	USS	United States Senator	LIB	Liberty			10	10	Klayman	Larry		2
+8/31/2004	REP	Republican	USS	United States Senator	MAD	Madison			11	11	Klayman	Larry		9
+8/31/2004	REP	Republican	USS	United States Senator	MAN	Manatee			136	136	Klayman	Larry		328
+8/31/2004	REP	Republican	USS	United States Senator	MRN	Marion			143	143	Klayman	Larry		679
+8/31/2004	REP	Republican	USS	United States Senator	MRT	Martin			51	51	Klayman	Larry		236
+8/31/2004	REP	Republican	USS	United States Senator	DAD	Miami-Dade			870	870	Klayman	Larry		721
+8/31/2004	REP	Republican	USS	United States Senator	MON	Monroe			33	33	Klayman	Larry		78
+8/31/2004	REP	Republican	USS	United States Senator	NAS	Nassau			24	24	Klayman	Larry		54
+8/31/2004	REP	Republican	USS	United States Senator	OKA	Okaloosa			52	52	Klayman	Larry		381
+8/31/2004	REP	Republican	USS	United States Senator	OKE	Okeechobee			18	18	Klayman	Larry		31
+8/31/2004	REP	Republican	USS	United States Senator	ORA	Orange			272	272	Klayman	Larry		233
+8/31/2004	REP	Republican	USS	United States Senator	OSC	Osceola			95	95	Klayman	Larry		92
+8/31/2004	REP	Republican	USS	United States Senator	PAL	Palm Beach			695	695	Klayman	Larry		955
+8/31/2004	REP	Republican	USS	United States Senator	PAS	Pasco			164	164	Klayman	Larry		322
+8/31/2004	REP	Republican	USS	United States Senator	PIN	Pinellas			379	379	Klayman	Larry		637
+8/31/2004	REP	Republican	USS	United States Senator	POL	Polk			161	161	Klayman	Larry		344
+8/31/2004	REP	Republican	USS	United States Senator	PUT	Putnam			55	55	Klayman	Larry		60
+8/31/2004	REP	Republican	USS	United States Senator	SAN	Santa Rosa			43	43	Klayman	Larry		324
+8/31/2004	REP	Republican	USS	United States Senator	SAR	Sarasota			156	156	Klayman	Larry		474
+8/31/2004	REP	Republican	USS	United States Senator	SEM	Seminole			126	126	Klayman	Larry		155
+8/31/2004	REP	Republican	USS	United States Senator	STJ	St. Johns			68	68	Klayman	Larry		160
+8/31/2004	REP	Republican	USS	United States Senator	STL	St. Lucie			75	75	Klayman	Larry		145
+8/31/2004	REP	Republican	USS	United States Senator	SUM	Sumter			42	42	Klayman	Larry		102
+8/31/2004	REP	Republican	USS	United States Senator	SUW	Suwannee			19	19	Klayman	Larry		58
+8/31/2004	REP	Republican	USS	United States Senator	TAY	Taylor			14	14	Klayman	Larry		12
+8/31/2004	REP	Republican	USS	United States Senator	UNI	Union			11	11	Klayman	Larry		8
+8/31/2004	REP	Republican	USS	United States Senator	VOL	Volusia			179	179	Klayman	Larry		218
+8/31/2004	REP	Republican	USS	United States Senator	WAK	Wakulla			12	12	Klayman	Larry		13
+8/31/2004	REP	Republican	USS	United States Senator	WAL	Walton			32	32	Klayman	Larry		98
+8/31/2004	REP	Republican	USS	United States Senator	WAS	Washington			21	21	Klayman	Larry		18
+8/31/2004	REP	Republican	USS	United States Senator	ALA	Alachua			69	69	Kogut	William	Billy	17
+8/31/2004	REP	Republican	USS	United States Senator	BAK	Baker			9	9	Kogut	William	Billy	2
+8/31/2004	REP	Republican	USS	United States Senator	BAY	Bay			59	59	Kogut	William	Billy	49
+8/31/2004	REP	Republican	USS	United States Senator	BRA	Bradford			22	22	Kogut	William	Billy	3
+8/31/2004	REP	Republican	USS	United States Senator	BRE	Brevard			221	221	Kogut	William	Billy	149
+8/31/2004	REP	Republican	USS	United States Senator	BRO	Broward			800	800	Kogut	William	Billy	245
+8/31/2004	REP	Republican	USS	United States Senator	CAL	Calhoun			15	15	Kogut	William	Billy	4
+8/31/2004	REP	Republican	USS	United States Senator	CHA	Charlotte			83	83	Kogut	William	Billy	74
+8/31/2004	REP	Republican	USS	United States Senator	CIT	Citrus			41	41	Kogut	William	Billy	42
+8/31/2004	REP	Republican	USS	United States Senator	CLA	Clay			64	64	Kogut	William	Billy	46
+8/31/2004	REP	Republican	USS	United States Senator	CLL	Collier			94	94	Kogut	William	Billy	57
+8/31/2004	REP	Republican	USS	United States Senator	CLM	Columbia			25	25	Kogut	William	Billy	16
+8/31/2004	REP	Republican	USS	United States Senator	DES	Desoto			17	17	Kogut	William	Billy	4
+8/31/2004	REP	Republican	USS	United States Senator	DIX	Dixie			11	11	Kogut	William	Billy	3
+8/31/2004	REP	Republican	USS	United States Senator	DUV	Duval			285	285	Kogut	William	Billy	49
+8/31/2004	REP	Republican	USS	United States Senator	ESC	Escambia			91	91	Kogut	William	Billy	86
+8/31/2004	REP	Republican	USS	United States Senator	FLA	Flagler			34	34	Kogut	William	Billy	30
+8/31/2004	REP	Republican	USS	United States Senator	FRA	Franklin			10	10	Kogut	William	Billy	0
+8/31/2004	REP	Republican	USS	United States Senator	GAD	Gadsden			26	26	Kogut	William	Billy	0
+8/31/2004	REP	Republican	USS	United States Senator	GIL	Gilchrist			12	12	Kogut	William	Billy	4
+8/31/2004	REP	Republican	USS	United States Senator	GLA	Glades			13	13	Kogut	William	Billy	3
+8/31/2004	REP	Republican	USS	United States Senator	GUL	Gulf			16	16	Kogut	William	Billy	2
+8/31/2004	REP	Republican	USS	United States Senator	HAM	Hamilton			10	10	Kogut	William	Billy	2
+8/31/2004	REP	Republican	USS	United States Senator	HAR	Hardee			12	12	Kogut	William	Billy	0
+8/31/2004	REP	Republican	USS	United States Senator	HEN	Hendry			26	26	Kogut	William	Billy	4
+8/31/2004	REP	Republican	USS	United States Senator	HER	Hernando			56	56	Kogut	William	Billy	66
+8/31/2004	REP	Republican	USS	United States Senator	HIG	Highlands			27	27	Kogut	William	Billy	15
+8/31/2004	REP	Republican	USS	United States Senator	HIL	Hillsborough			360	360	Kogut	William	Billy	177
+8/31/2004	REP	Republican	USS	United States Senator	HOL	Holmes			18	18	Kogut	William	Billy	3
+8/31/2004	REP	Republican	USS	United States Senator	IND	Indian River			57	57	Kogut	William	Billy	49
+8/31/2004	REP	Republican	USS	United States Senator	JAC	Jackson			28	28	Kogut	William	Billy	16
+8/31/2004	REP	Republican	USS	United States Senator	JEF	Jefferson			15	15	Kogut	William	Billy	5
+8/31/2004	REP	Republican	USS	United States Senator	LAF	Lafayette			6	6	Kogut	William	Billy	4
+8/31/2004	REP	Republican	USS	United States Senator	LAK	Lake			102	102	Kogut	William	Billy	68
+8/31/2004	REP	Republican	USS	United States Senator	LEE	Lee			175	175	Kogut	William	Billy	189
+8/31/2004	REP	Republican	USS	United States Senator	LEO	Leon			115	115	Kogut	William	Billy	42
+8/31/2004	REP	Republican	USS	United States Senator	LEV	Levy			20	20	Kogut	William	Billy	8
+8/31/2004	REP	Republican	USS	United States Senator	LIB	Liberty			10	10	Kogut	William	Billy	0
+8/31/2004	REP	Republican	USS	United States Senator	MAD	Madison			11	11	Kogut	William	Billy	2
+8/31/2004	REP	Republican	USS	United States Senator	MAN	Manatee			136	136	Kogut	William	Billy	72
+8/31/2004	REP	Republican	USS	United States Senator	MRN	Marion			143	143	Kogut	William	Billy	62
+8/31/2004	REP	Republican	USS	United States Senator	MRT	Martin			51	51	Kogut	William	Billy	67
+8/31/2004	REP	Republican	USS	United States Senator	DAD	Miami-Dade			870	870	Kogut	William	Billy	314
+8/31/2004	REP	Republican	USS	United States Senator	MON	Monroe			33	33	Kogut	William	Billy	97
+8/31/2004	REP	Republican	USS	United States Senator	NAS	Nassau			24	24	Kogut	William	Billy	26
+8/31/2004	REP	Republican	USS	United States Senator	OKA	Okaloosa			52	52	Kogut	William	Billy	107
+8/31/2004	REP	Republican	USS	United States Senator	OKE	Okeechobee			18	18	Kogut	William	Billy	14
+8/31/2004	REP	Republican	USS	United States Senator	ORA	Orange			272	272	Kogut	William	Billy	49
+8/31/2004	REP	Republican	USS	United States Senator	OSC	Osceola			95	95	Kogut	William	Billy	20
+8/31/2004	REP	Republican	USS	United States Senator	PAL	Palm Beach			695	695	Kogut	William	Billy	218
+8/31/2004	REP	Republican	USS	United States Senator	PAS	Pasco			164	164	Kogut	William	Billy	103
+8/31/2004	REP	Republican	USS	United States Senator	PIN	Pinellas			379	379	Kogut	William	Billy	293
+8/31/2004	REP	Republican	USS	United States Senator	POL	Polk			161	161	Kogut	William	Billy	189
+8/31/2004	REP	Republican	USS	United States Senator	PUT	Putnam			55	55	Kogut	William	Billy	12
+8/31/2004	REP	Republican	USS	United States Senator	SAN	Santa Rosa			43	43	Kogut	William	Billy	77
+8/31/2004	REP	Republican	USS	United States Senator	SAR	Sarasota			156	156	Kogut	William	Billy	136
+8/31/2004	REP	Republican	USS	United States Senator	SEM	Seminole			126	126	Kogut	William	Billy	27
+8/31/2004	REP	Republican	USS	United States Senator	STJ	St. Johns			68	68	Kogut	William	Billy	50
+8/31/2004	REP	Republican	USS	United States Senator	STL	St. Lucie			75	75	Kogut	William	Billy	47
+8/31/2004	REP	Republican	USS	United States Senator	SUM	Sumter			42	42	Kogut	William	Billy	40
+8/31/2004	REP	Republican	USS	United States Senator	SUW	Suwannee			19	19	Kogut	William	Billy	8
+8/31/2004	REP	Republican	USS	United States Senator	TAY	Taylor			14	14	Kogut	William	Billy	2
+8/31/2004	REP	Republican	USS	United States Senator	UNI	Union			11	11	Kogut	William	Billy	0
+8/31/2004	REP	Republican	USS	United States Senator	VOL	Volusia			179	179	Kogut	William	Billy	65
+8/31/2004	REP	Republican	USS	United States Senator	WAK	Wakulla			12	12	Kogut	William	Billy	6
+8/31/2004	REP	Republican	USS	United States Senator	WAL	Walton			32	32	Kogut	William	Billy	52
+8/31/2004	REP	Republican	USS	United States Senator	WAS	Washington			21	21	Kogut	William	Billy	7
+8/31/2004	REP	Republican	USS	United States Senator	ALA	Alachua			69	69	March	Sonya		141
+8/31/2004	REP	Republican	USS	United States Senator	BAK	Baker			9	9	March	Sonya		17
+8/31/2004	REP	Republican	USS	United States Senator	BAY	Bay			59	59	March	Sonya		320
+8/31/2004	REP	Republican	USS	United States Senator	BRA	Bradford			22	22	March	Sonya		18
+8/31/2004	REP	Republican	USS	United States Senator	BRE	Brevard			221	221	March	Sonya		647
+8/31/2004	REP	Republican	USS	United States Senator	BRO	Broward			800	800	March	Sonya		844
+8/31/2004	REP	Republican	USS	United States Senator	CAL	Calhoun			15	15	March	Sonya		7
+8/31/2004	REP	Republican	USS	United States Senator	CHA	Charlotte			83	83	March	Sonya		342
+8/31/2004	REP	Republican	USS	United States Senator	CIT	Citrus			41	41	March	Sonya		215
+8/31/2004	REP	Republican	USS	United States Senator	CLA	Clay			64	64	March	Sonya		302
+8/31/2004	REP	Republican	USS	United States Senator	CLL	Collier			94	94	March	Sonya		284
+8/31/2004	REP	Republican	USS	United States Senator	CLM	Columbia			25	25	March	Sonya		86
+8/31/2004	REP	Republican	USS	United States Senator	DES	Desoto			17	17	March	Sonya		21
+8/31/2004	REP	Republican	USS	United States Senator	DIX	Dixie			11	11	March	Sonya		21
+8/31/2004	REP	Republican	USS	United States Senator	DUV	Duval			285	285	March	Sonya		429
+8/31/2004	REP	Republican	USS	United States Senator	ESC	Escambia			91	91	March	Sonya		620
+8/31/2004	REP	Republican	USS	United States Senator	FLA	Flagler			34	34	March	Sonya		98
+8/31/2004	REP	Republican	USS	United States Senator	FRA	Franklin			10	10	March	Sonya		21
+8/31/2004	REP	Republican	USS	United States Senator	GAD	Gadsden			26	26	March	Sonya		15
+8/31/2004	REP	Republican	USS	United States Senator	GIL	Gilchrist			12	12	March	Sonya		28
+8/31/2004	REP	Republican	USS	United States Senator	GLA	Glades			13	13	March	Sonya		10
+8/31/2004	REP	Republican	USS	United States Senator	GUL	Gulf			16	16	March	Sonya		35
+8/31/2004	REP	Republican	USS	United States Senator	HAM	Hamilton			10	10	March	Sonya		2
+8/31/2004	REP	Republican	USS	United States Senator	HAR	Hardee			12	12	March	Sonya		13
+8/31/2004	REP	Republican	USS	United States Senator	HEN	Hendry			26	26	March	Sonya		17
+8/31/2004	REP	Republican	USS	United States Senator	HER	Hernando			56	56	March	Sonya		250
+8/31/2004	REP	Republican	USS	United States Senator	HIG	Highlands			27	27	March	Sonya		99
+8/31/2004	REP	Republican	USS	United States Senator	HIL	Hillsborough			360	360	March	Sonya		922
+8/31/2004	REP	Republican	USS	United States Senator	HOL	Holmes			18	18	March	Sonya		24
+8/31/2004	REP	Republican	USS	United States Senator	IND	Indian River			57	57	March	Sonya		484
+8/31/2004	REP	Republican	USS	United States Senator	JAC	Jackson			28	28	March	Sonya		47
+8/31/2004	REP	Republican	USS	United States Senator	JEF	Jefferson			15	15	March	Sonya		24
+8/31/2004	REP	Republican	USS	United States Senator	LAF	Lafayette			6	6	March	Sonya		8
+8/31/2004	REP	Republican	USS	United States Senator	LAK	Lake			102	102	March	Sonya		310
+8/31/2004	REP	Republican	USS	United States Senator	LEE	Lee			175	175	March	Sonya		880
+8/31/2004	REP	Republican	USS	United States Senator	LEO	Leon			115	115	March	Sonya		203
+8/31/2004	REP	Republican	USS	United States Senator	LEV	Levy			20	20	March	Sonya		42
+8/31/2004	REP	Republican	USS	United States Senator	LIB	Liberty			10	10	March	Sonya		4
+8/31/2004	REP	Republican	USS	United States Senator	MAD	Madison			11	11	March	Sonya		10
+8/31/2004	REP	Republican	USS	United States Senator	MAN	Manatee			136	136	March	Sonya		429
+8/31/2004	REP	Republican	USS	United States Senator	MRN	Marion			143	143	March	Sonya		341
+8/31/2004	REP	Republican	USS	United States Senator	MRT	Martin			51	51	March	Sonya		442
+8/31/2004	REP	Republican	USS	United States Senator	DAD	Miami-Dade			870	870	March	Sonya		889
+8/31/2004	REP	Republican	USS	United States Senator	MON	Monroe			33	33	March	Sonya		203
+8/31/2004	REP	Republican	USS	United States Senator	NAS	Nassau			24	24	March	Sonya		124
+8/31/2004	REP	Republican	USS	United States Senator	OKA	Okaloosa			52	52	March	Sonya		538
+8/31/2004	REP	Republican	USS	United States Senator	OKE	Okeechobee			18	18	March	Sonya		53
+8/31/2004	REP	Republican	USS	United States Senator	ORA	Orange			272	272	March	Sonya		292
+8/31/2004	REP	Republican	USS	United States Senator	OSC	Osceola			95	95	March	Sonya		65
+8/31/2004	REP	Republican	USS	United States Senator	PAL	Palm Beach			695	695	March	Sonya		923
+8/31/2004	REP	Republican	USS	United States Senator	PAS	Pasco			164	164	March	Sonya		585
+8/31/2004	REP	Republican	USS	United States Senator	PIN	Pinellas			379	379	March	Sonya		1698
+8/31/2004	REP	Republican	USS	United States Senator	POL	Polk			161	161	March	Sonya		386
+8/31/2004	REP	Republican	USS	United States Senator	PUT	Putnam			55	55	March	Sonya		67
+8/31/2004	REP	Republican	USS	United States Senator	SAN	Santa Rosa			43	43	March	Sonya		454
+8/31/2004	REP	Republican	USS	United States Senator	SAR	Sarasota			156	156	March	Sonya		739
+8/31/2004	REP	Republican	USS	United States Senator	SEM	Seminole			126	126	March	Sonya		205
+8/31/2004	REP	Republican	USS	United States Senator	STJ	St. Johns			68	68	March	Sonya		276
+8/31/2004	REP	Republican	USS	United States Senator	STL	St. Lucie			75	75	March	Sonya		417
+8/31/2004	REP	Republican	USS	United States Senator	SUM	Sumter			42	42	March	Sonya		127
+8/31/2004	REP	Republican	USS	United States Senator	SUW	Suwannee			19	19	March	Sonya		58
+8/31/2004	REP	Republican	USS	United States Senator	TAY	Taylor			14	14	March	Sonya		21
+8/31/2004	REP	Republican	USS	United States Senator	UNI	Union			11	11	March	Sonya		6
+8/31/2004	REP	Republican	USS	United States Senator	VOL	Volusia			179	179	March	Sonya		255
+8/31/2004	REP	Republican	USS	United States Senator	WAK	Wakulla			12	12	March	Sonya		35
+8/31/2004	REP	Republican	USS	United States Senator	WAL	Walton			32	32	March	Sonya		270
+8/31/2004	REP	Republican	USS	United States Senator	WAS	Washington			21	21	March	Sonya		46
+8/31/2004	REP	Republican	USS	United States Senator	ALA	Alachua			69	69	Martinez	Mel		4088
+8/31/2004	REP	Republican	USS	United States Senator	BAK	Baker			9	9	Martinez	Mel		472
+8/31/2004	REP	Republican	USS	United States Senator	BAY	Bay			59	59	Martinez	Mel		6602
+8/31/2004	REP	Republican	USS	United States Senator	BRA	Bradford			22	22	Martinez	Mel		626
+8/31/2004	REP	Republican	USS	United States Senator	BRE	Brevard			221	221	Martinez	Mel		22609
+8/31/2004	REP	Republican	USS	United States Senator	BRO	Broward			800	800	Martinez	Mel		15729
+8/31/2004	REP	Republican	USS	United States Senator	CAL	Calhoun			15	15	Martinez	Mel		119
+8/31/2004	REP	Republican	USS	United States Senator	CHA	Charlotte			83	83	Martinez	Mel		5151
+8/31/2004	REP	Republican	USS	United States Senator	CIT	Citrus			41	41	Martinez	Mel		3797
+8/31/2004	REP	Republican	USS	United States Senator	CLA	Clay			64	64	Martinez	Mel		10895
+8/31/2004	REP	Republican	USS	United States Senator	CLL	Collier			94	94	Martinez	Mel		9588
+8/31/2004	REP	Republican	USS	United States Senator	CLM	Columbia			25	25	Martinez	Mel		1634
+8/31/2004	REP	Republican	USS	United States Senator	DES	Desoto			17	17	Martinez	Mel		286
+8/31/2004	REP	Republican	USS	United States Senator	DIX	Dixie			11	11	Martinez	Mel		153
+8/31/2004	REP	Republican	USS	United States Senator	DUV	Duval			285	285	Martinez	Mel		21814
+8/31/2004	REP	Republican	USS	United States Senator	ESC	Escambia			91	91	Martinez	Mel		13827
+8/31/2004	REP	Republican	USS	United States Senator	FLA	Flagler			34	34	Martinez	Mel		2750
+8/31/2004	REP	Republican	USS	United States Senator	FRA	Franklin			10	10	Martinez	Mel		145
+8/31/2004	REP	Republican	USS	United States Senator	GAD	Gadsden			26	26	Martinez	Mel		344
+8/31/2004	REP	Republican	USS	United States Senator	GIL	Gilchrist			12	12	Martinez	Mel		402
+8/31/2004	REP	Republican	USS	United States Senator	GLA	Glades			13	13	Martinez	Mel		254
+8/31/2004	REP	Republican	USS	United States Senator	GUL	Gulf			16	16	Martinez	Mel		454
+8/31/2004	REP	Republican	USS	United States Senator	HAM	Hamilton			10	10	Martinez	Mel		114
+8/31/2004	REP	Republican	USS	United States Senator	HAR	Hardee			12	12	Martinez	Mel		335
+8/31/2004	REP	Republican	USS	United States Senator	HEN	Hendry			26	26	Martinez	Mel		748
+8/31/2004	REP	Republican	USS	United States Senator	HER	Hernando			56	56	Martinez	Mel		4025
+8/31/2004	REP	Republican	USS	United States Senator	HIG	Highlands			27	27	Martinez	Mel		3783
+8/31/2004	REP	Republican	USS	United States Senator	HIL	Hillsborough			360	360	Martinez	Mel		20042
+8/31/2004	REP	Republican	USS	United States Senator	HOL	Holmes			18	18	Martinez	Mel		302
+8/31/2004	REP	Republican	USS	United States Senator	IND	Indian River			57	57	Martinez	Mel		5828
+8/31/2004	REP	Republican	USS	United States Senator	JAC	Jackson			28	28	Martinez	Mel		933
+8/31/2004	REP	Republican	USS	United States Senator	JEF	Jefferson			15	15	Martinez	Mel		358
+8/31/2004	REP	Republican	USS	United States Senator	LAF	Lafayette			6	6	Martinez	Mel		73
+8/31/2004	REP	Republican	USS	United States Senator	LAK	Lake			102	102	Martinez	Mel		14037
+8/31/2004	REP	Republican	USS	United States Senator	LEE	Lee			175	175	Martinez	Mel		21558
+8/31/2004	REP	Republican	USS	United States Senator	LEO	Leon			115	115	Martinez	Mel		6608
+8/31/2004	REP	Republican	USS	United States Senator	LEV	Levy			20	20	Martinez	Mel		674
+8/31/2004	REP	Republican	USS	United States Senator	LIB	Liberty			10	10	Martinez	Mel		46
+8/31/2004	REP	Republican	USS	United States Senator	MAD	Madison			11	11	Martinez	Mel		200
+8/31/2004	REP	Republican	USS	United States Senator	MAN	Manatee			136	136	Martinez	Mel		10557
+8/31/2004	REP	Republican	USS	United States Senator	MRN	Marion			143	143	Martinez	Mel		13697
+8/31/2004	REP	Republican	USS	United States Senator	MRT	Martin			51	51	Martinez	Mel		7488
+8/31/2004	REP	Republican	USS	United States Senator	DAD	Miami-Dade			870	870	Martinez	Mel		102441
+8/31/2004	REP	Republican	USS	United States Senator	MON	Monroe			33	33	Martinez	Mel		1996
+8/31/2004	REP	Republican	USS	United States Senator	NAS	Nassau			24	24	Martinez	Mel		3953
+8/31/2004	REP	Republican	USS	United States Senator	OKA	Okaloosa			52	52	Martinez	Mel		9220
+8/31/2004	REP	Republican	USS	United States Senator	OKE	Okeechobee			18	18	Martinez	Mel		730
+8/31/2004	REP	Republican	USS	United States Senator	ORA	Orange			272	272	Martinez	Mel		28489
+8/31/2004	REP	Republican	USS	United States Senator	OSC	Osceola			95	95	Martinez	Mel		5194
+8/31/2004	REP	Republican	USS	United States Senator	PAL	Palm Beach			695	695	Martinez	Mel		20684
+8/31/2004	REP	Republican	USS	United States Senator	PAS	Pasco			164	164	Martinez	Mel		8650
+8/31/2004	REP	Republican	USS	United States Senator	PIN	Pinellas			379	379	Martinez	Mel		19150
+8/31/2004	REP	Republican	USS	United States Senator	POL	Polk			161	161	Martinez	Mel		17104
+8/31/2004	REP	Republican	USS	United States Senator	PUT	Putnam			55	55	Martinez	Mel		1831
+8/31/2004	REP	Republican	USS	United States Senator	SAN	Santa Rosa			43	43	Martinez	Mel		7242
+8/31/2004	REP	Republican	USS	United States Senator	SAR	Sarasota			156	156	Martinez	Mel		13019
+8/31/2004	REP	Republican	USS	United States Senator	SEM	Seminole			126	126	Martinez	Mel		14955
+8/31/2004	REP	Republican	USS	United States Senator	STJ	St. Johns			68	68	Martinez	Mel		9447
+8/31/2004	REP	Republican	USS	United States Senator	STL	St. Lucie			75	75	Martinez	Mel		5331
+8/31/2004	REP	Republican	USS	United States Senator	SUM	Sumter			42	42	Martinez	Mel		5272
+8/31/2004	REP	Republican	USS	United States Senator	SUW	Suwannee			19	19	Martinez	Mel		884
+8/31/2004	REP	Republican	USS	United States Senator	TAY	Taylor			14	14	Martinez	Mel		330
+8/31/2004	REP	Republican	USS	United States Senator	UNI	Union			11	11	Martinez	Mel		154
+8/31/2004	REP	Republican	USS	United States Senator	VOL	Volusia			179	179	Martinez	Mel		10205
+8/31/2004	REP	Republican	USS	United States Senator	WAK	Wakulla			12	12	Martinez	Mel		476
+8/31/2004	REP	Republican	USS	United States Senator	WAL	Walton			32	32	Martinez	Mel		2584
+8/31/2004	REP	Republican	USS	United States Senator	WAS	Washington			21	21	Martinez	Mel		508
+8/31/2004	REP	Republican	USS	United States Senator	ALA	Alachua			69	69	McCollum	Bill		3394
+8/31/2004	REP	Republican	USS	United States Senator	BAK	Baker			9	9	McCollum	Bill		386
+8/31/2004	REP	Republican	USS	United States Senator	BAY	Bay			59	59	McCollum	Bill		5097
+8/31/2004	REP	Republican	USS	United States Senator	BRA	Bradford			22	22	McCollum	Bill		429
+8/31/2004	REP	Republican	USS	United States Senator	BRE	Brevard			221	221	McCollum	Bill		15571
+8/31/2004	REP	Republican	USS	United States Senator	BRO	Broward			800	800	McCollum	Bill		13840
+8/31/2004	REP	Republican	USS	United States Senator	CAL	Calhoun			15	15	McCollum	Bill		65
+8/31/2004	REP	Republican	USS	United States Senator	CHA	Charlotte			83	83	McCollum	Bill		3781
+8/31/2004	REP	Republican	USS	United States Senator	CIT	Citrus			41	41	McCollum	Bill		5791
+8/31/2004	REP	Republican	USS	United States Senator	CLA	Clay			64	64	McCollum	Bill		7674
+8/31/2004	REP	Republican	USS	United States Senator	CLL	Collier			94	94	McCollum	Bill		6371
+8/31/2004	REP	Republican	USS	United States Senator	CLM	Columbia			25	25	McCollum	Bill		1381
+8/31/2004	REP	Republican	USS	United States Senator	DES	Desoto			17	17	McCollum	Bill		246
+8/31/2004	REP	Republican	USS	United States Senator	DIX	Dixie			11	11	McCollum	Bill		149
+8/31/2004	REP	Republican	USS	United States Senator	DUV	Duval			285	285	McCollum	Bill		15917
+8/31/2004	REP	Republican	USS	United States Senator	ESC	Escambia			91	91	McCollum	Bill		9548
+8/31/2004	REP	Republican	USS	United States Senator	FLA	Flagler			34	34	McCollum	Bill		2795
+8/31/2004	REP	Republican	USS	United States Senator	FRA	Franklin			10	10	McCollum	Bill		136
+8/31/2004	REP	Republican	USS	United States Senator	GAD	Gadsden			26	26	McCollum	Bill		263
+8/31/2004	REP	Republican	USS	United States Senator	GIL	Gilchrist			12	12	McCollum	Bill		302
+8/31/2004	REP	Republican	USS	United States Senator	GLA	Glades			13	13	McCollum	Bill		134
+8/31/2004	REP	Republican	USS	United States Senator	GUL	Gulf			16	16	McCollum	Bill		289
+8/31/2004	REP	Republican	USS	United States Senator	HAM	Hamilton			10	10	McCollum	Bill		93
+8/31/2004	REP	Republican	USS	United States Senator	HAR	Hardee			12	12	McCollum	Bill		282
+8/31/2004	REP	Republican	USS	United States Senator	HEN	Hendry			26	26	McCollum	Bill		359
+8/31/2004	REP	Republican	USS	United States Senator	HER	Hernando			56	56	McCollum	Bill		6870
+8/31/2004	REP	Republican	USS	United States Senator	HIG	Highlands			27	27	McCollum	Bill		2905
+8/31/2004	REP	Republican	USS	United States Senator	HIL	Hillsborough			360	360	McCollum	Bill		20028
+8/31/2004	REP	Republican	USS	United States Senator	HOL	Holmes			18	18	McCollum	Bill		179
+8/31/2004	REP	Republican	USS	United States Senator	IND	Indian River			57	57	McCollum	Bill		6661
+8/31/2004	REP	Republican	USS	United States Senator	JAC	Jackson			28	28	McCollum	Bill		575
+8/31/2004	REP	Republican	USS	United States Senator	JEF	Jefferson			15	15	McCollum	Bill		319
+8/31/2004	REP	Republican	USS	United States Senator	LAF	Lafayette			6	6	McCollum	Bill		75
+8/31/2004	REP	Republican	USS	United States Senator	LAK	Lake			102	102	McCollum	Bill		11121
+8/31/2004	REP	Republican	USS	United States Senator	LEE	Lee			175	175	McCollum	Bill		17005
+8/31/2004	REP	Republican	USS	United States Senator	LEO	Leon			115	115	McCollum	Bill		5508
+8/31/2004	REP	Republican	USS	United States Senator	LEV	Levy			20	20	McCollum	Bill		582
+8/31/2004	REP	Republican	USS	United States Senator	LIB	Liberty			10	10	McCollum	Bill		46
+8/31/2004	REP	Republican	USS	United States Senator	MAD	Madison			11	11	McCollum	Bill		163
+8/31/2004	REP	Republican	USS	United States Senator	MAN	Manatee			136	136	McCollum	Bill		7561
+8/31/2004	REP	Republican	USS	United States Senator	MRN	Marion			143	143	McCollum	Bill		9534
+8/31/2004	REP	Republican	USS	United States Senator	MRT	Martin			51	51	McCollum	Bill		6727
+8/31/2004	REP	Republican	USS	United States Senator	DAD	Miami-Dade			870	870	McCollum	Bill		10372
+8/31/2004	REP	Republican	USS	United States Senator	MON	Monroe			33	33	McCollum	Bill		2558
+8/31/2004	REP	Republican	USS	United States Senator	NAS	Nassau			24	24	McCollum	Bill		3077
+8/31/2004	REP	Republican	USS	United States Senator	OKA	Okaloosa			52	52	McCollum	Bill		8175
+8/31/2004	REP	Republican	USS	United States Senator	OKE	Okeechobee			18	18	McCollum	Bill		529
+8/31/2004	REP	Republican	USS	United States Senator	ORA	Orange			272	272	McCollum	Bill		20445
+8/31/2004	REP	Republican	USS	United States Senator	OSC	Osceola			95	95	McCollum	Bill		3811
+8/31/2004	REP	Republican	USS	United States Senator	PAL	Palm Beach			695	695	McCollum	Bill		16285
+8/31/2004	REP	Republican	USS	United States Senator	PAS	Pasco			164	164	McCollum	Bill		10681
+8/31/2004	REP	Republican	USS	United States Senator	PIN	Pinellas			379	379	McCollum	Bill		25269
+8/31/2004	REP	Republican	USS	United States Senator	POL	Polk			161	161	McCollum	Bill		10513
+8/31/2004	REP	Republican	USS	United States Senator	PUT	Putnam			55	55	McCollum	Bill		1220
+8/31/2004	REP	Republican	USS	United States Senator	SAN	Santa Rosa			43	43	McCollum	Bill		6570
+8/31/2004	REP	Republican	USS	United States Senator	SAR	Sarasota			156	156	McCollum	Bill		9877
+8/31/2004	REP	Republican	USS	United States Senator	SEM	Seminole			126	126	McCollum	Bill		13517
+8/31/2004	REP	Republican	USS	United States Senator	STJ	St. Johns			68	68	McCollum	Bill		6841
+8/31/2004	REP	Republican	USS	United States Senator	STL	St. Lucie			75	75	McCollum	Bill		4475
+8/31/2004	REP	Republican	USS	United States Senator	SUM	Sumter			42	42	McCollum	Bill		2810
+8/31/2004	REP	Republican	USS	United States Senator	SUW	Suwannee			19	19	McCollum	Bill		701
+8/31/2004	REP	Republican	USS	United States Senator	TAY	Taylor			14	14	McCollum	Bill		200
+8/31/2004	REP	Republican	USS	United States Senator	UNI	Union			11	11	McCollum	Bill		175
+8/31/2004	REP	Republican	USS	United States Senator	VOL	Volusia			179	179	McCollum	Bill		9588
+8/31/2004	REP	Republican	USS	United States Senator	WAK	Wakulla			12	12	McCollum	Bill		383
+8/31/2004	REP	Republican	USS	United States Senator	WAL	Walton			32	32	McCollum	Bill		1909
+8/31/2004	REP	Republican	USS	United States Senator	WAS	Washington			21	21	McCollum	Bill		341
+8/31/2004	REP	Republican	USS	United States Senator	ALA	Alachua			69	69	Saull	Karen		156
+8/31/2004	REP	Republican	USS	United States Senator	BAK	Baker			9	9	Saull	Karen		7
+8/31/2004	REP	Republican	USS	United States Senator	BAY	Bay			59	59	Saull	Karen		322
+8/31/2004	REP	Republican	USS	United States Senator	BRA	Bradford			22	22	Saull	Karen		13
+8/31/2004	REP	Republican	USS	United States Senator	BRE	Brevard			221	221	Saull	Karen		630
+8/31/2004	REP	Republican	USS	United States Senator	BRO	Broward			800	800	Saull	Karen		1110
+8/31/2004	REP	Republican	USS	United States Senator	CAL	Calhoun			15	15	Saull	Karen		13
+8/31/2004	REP	Republican	USS	United States Senator	CHA	Charlotte			83	83	Saull	Karen		321
+8/31/2004	REP	Republican	USS	United States Senator	CIT	Citrus			41	41	Saull	Karen		242
+8/31/2004	REP	Republican	USS	United States Senator	CLA	Clay			64	64	Saull	Karen		311
+8/31/2004	REP	Republican	USS	United States Senator	CLL	Collier			94	94	Saull	Karen		314
+8/31/2004	REP	Republican	USS	United States Senator	CLM	Columbia			25	25	Saull	Karen		117
+8/31/2004	REP	Republican	USS	United States Senator	DES	Desoto			17	17	Saull	Karen		11
+8/31/2004	REP	Republican	USS	United States Senator	DIX	Dixie			11	11	Saull	Karen		23
+8/31/2004	REP	Republican	USS	United States Senator	DUV	Duval			285	285	Saull	Karen		382
+8/31/2004	REP	Republican	USS	United States Senator	ESC	Escambia			91	91	Saull	Karen		656
+8/31/2004	REP	Republican	USS	United States Senator	FLA	Flagler			34	34	Saull	Karen		97
+8/31/2004	REP	Republican	USS	United States Senator	FRA	Franklin			10	10	Saull	Karen		20
+8/31/2004	REP	Republican	USS	United States Senator	GAD	Gadsden			26	26	Saull	Karen		24
+8/31/2004	REP	Republican	USS	United States Senator	GIL	Gilchrist			12	12	Saull	Karen		36
+8/31/2004	REP	Republican	USS	United States Senator	GLA	Glades			13	13	Saull	Karen		20
+8/31/2004	REP	Republican	USS	United States Senator	GUL	Gulf			16	16	Saull	Karen		29
+8/31/2004	REP	Republican	USS	United States Senator	HAM	Hamilton			10	10	Saull	Karen		18
+8/31/2004	REP	Republican	USS	United States Senator	HAR	Hardee			12	12	Saull	Karen		8
+8/31/2004	REP	Republican	USS	United States Senator	HEN	Hendry			26	26	Saull	Karen		38
+8/31/2004	REP	Republican	USS	United States Senator	HER	Hernando			56	56	Saull	Karen		251
+8/31/2004	REP	Republican	USS	United States Senator	HIG	Highlands			27	27	Saull	Karen		113
+8/31/2004	REP	Republican	USS	United States Senator	HIL	Hillsborough			360	360	Saull	Karen		645
+8/31/2004	REP	Republican	USS	United States Senator	HOL	Holmes			18	18	Saull	Karen		29
+8/31/2004	REP	Republican	USS	United States Senator	IND	Indian River			57	57	Saull	Karen		559
+8/31/2004	REP	Republican	USS	United States Senator	JAC	Jackson			28	28	Saull	Karen		45
+8/31/2004	REP	Republican	USS	United States Senator	JEF	Jefferson			15	15	Saull	Karen		30
+8/31/2004	REP	Republican	USS	United States Senator	LAF	Lafayette			6	6	Saull	Karen		1
+8/31/2004	REP	Republican	USS	United States Senator	LAK	Lake			102	102	Saull	Karen		406
+8/31/2004	REP	Republican	USS	United States Senator	LEE	Lee			175	175	Saull	Karen		1042
+8/31/2004	REP	Republican	USS	United States Senator	LEO	Leon			115	115	Saull	Karen		357
+8/31/2004	REP	Republican	USS	United States Senator	LEV	Levy			20	20	Saull	Karen		57
+8/31/2004	REP	Republican	USS	United States Senator	LIB	Liberty			10	10	Saull	Karen		5
+8/31/2004	REP	Republican	USS	United States Senator	MAD	Madison			11	11	Saull	Karen		15
+8/31/2004	REP	Republican	USS	United States Senator	MAN	Manatee			136	136	Saull	Karen		415
+8/31/2004	REP	Republican	USS	United States Senator	MRN	Marion			143	143	Saull	Karen		476
+8/31/2004	REP	Republican	USS	United States Senator	MRT	Martin			51	51	Saull	Karen		1006
+8/31/2004	REP	Republican	USS	United States Senator	DAD	Miami-Dade			870	870	Saull	Karen		919
+8/31/2004	REP	Republican	USS	United States Senator	MON	Monroe			33	33	Saull	Karen		436
+8/31/2004	REP	Republican	USS	United States Senator	NAS	Nassau			24	24	Saull	Karen		160
+8/31/2004	REP	Republican	USS	United States Senator	OKA	Okaloosa			52	52	Saull	Karen		502
+8/31/2004	REP	Republican	USS	United States Senator	OKE	Okeechobee			18	18	Saull	Karen		131
+8/31/2004	REP	Republican	USS	United States Senator	ORA	Orange			272	272	Saull	Karen		300
+8/31/2004	REP	Republican	USS	United States Senator	OSC	Osceola			95	95	Saull	Karen		90
+8/31/2004	REP	Republican	USS	United States Senator	PAL	Palm Beach			695	695	Saull	Karen		1953
+8/31/2004	REP	Republican	USS	United States Senator	PAS	Pasco			164	164	Saull	Karen		508
+8/31/2004	REP	Republican	USS	United States Senator	PIN	Pinellas			379	379	Saull	Karen		1125
+8/31/2004	REP	Republican	USS	United States Senator	POL	Polk			161	161	Saull	Karen		421
+8/31/2004	REP	Republican	USS	United States Senator	PUT	Putnam			55	55	Saull	Karen		61
+8/31/2004	REP	Republican	USS	United States Senator	SAN	Santa Rosa			43	43	Saull	Karen		438
+8/31/2004	REP	Republican	USS	United States Senator	SAR	Sarasota			156	156	Saull	Karen		738
+8/31/2004	REP	Republican	USS	United States Senator	SEM	Seminole			126	126	Saull	Karen		174
+8/31/2004	REP	Republican	USS	United States Senator	STJ	St. Johns			68	68	Saull	Karen		355
+8/31/2004	REP	Republican	USS	United States Senator	STL	St. Lucie			75	75	Saull	Karen		680
+8/31/2004	REP	Republican	USS	United States Senator	SUM	Sumter			42	42	Saull	Karen		314
+8/31/2004	REP	Republican	USS	United States Senator	SUW	Suwannee			19	19	Saull	Karen		72
+8/31/2004	REP	Republican	USS	United States Senator	TAY	Taylor			14	14	Saull	Karen		22
+8/31/2004	REP	Republican	USS	United States Senator	UNI	Union			11	11	Saull	Karen		7
+8/31/2004	REP	Republican	USS	United States Senator	VOL	Volusia			179	179	Saull	Karen		234
+8/31/2004	REP	Republican	USS	United States Senator	WAK	Wakulla			12	12	Saull	Karen		60
+8/31/2004	REP	Republican	USS	United States Senator	WAL	Walton			32	32	Saull	Karen		252
+8/31/2004	REP	Republican	USS	United States Senator	WAS	Washington			21	21	Saull	Karen		43
+8/31/2004	REP	Republican	USR	United States Representative	BAK	Baker	004		9	9	Crenshaw	Ander		1011
+8/31/2004	REP	Republican	USR	United States Representative	CLM	Columbia	004		25	25	Crenshaw	Ander		3456
+8/31/2004	REP	Republican	USR	United States Representative	DUV	Duval	004		165	165	Crenshaw	Ander		32908
+8/31/2004	REP	Republican	USR	United States Representative	HAM	Hamilton	004		10	10	Crenshaw	Ander		264
+8/31/2004	REP	Republican	USR	United States Representative	JEF	Jefferson	004		10	10	Crenshaw	Ander		281
+8/31/2004	REP	Republican	USR	United States Representative	LEO	Leon	004		6	6	Crenshaw	Ander		625
+8/31/2004	REP	Republican	USR	United States Representative	MAD	Madison	004		11	11	Crenshaw	Ander		402
+8/31/2004	REP	Republican	USR	United States Representative	NAS	Nassau	004		24	24	Crenshaw	Ander		8747
+8/31/2004	REP	Republican	USR	United States Representative	UNI	Union	004		11	11	Crenshaw	Ander		435
+8/31/2004	REP	Republican	USR	United States Representative	BAK	Baker	004		9	9	Pueschel	Deborah	Katz	105
+8/31/2004	REP	Republican	USR	United States Representative	CLM	Columbia	004		25	25	Pueschel	Deborah	Katz	834
+8/31/2004	REP	Republican	USR	United States Representative	DUV	Duval	004		165	165	Pueschel	Deborah	Katz	3030
+8/31/2004	REP	Republican	USR	United States Representative	HAM	Hamilton	004		10	10	Pueschel	Deborah	Katz	48
+8/31/2004	REP	Republican	USR	United States Representative	JEF	Jefferson	004		10	10	Pueschel	Deborah	Katz	78
+8/31/2004	REP	Republican	USR	United States Representative	LEO	Leon	004		6	6	Pueschel	Deborah	Katz	171
+8/31/2004	REP	Republican	USR	United States Representative	MAD	Madison	004		11	11	Pueschel	Deborah	Katz	96
+8/31/2004	REP	Republican	USR	United States Representative	NAS	Nassau	004		24	24	Pueschel	Deborah	Katz	950
+8/31/2004	REP	Republican	USR	United States Representative	UNI	Union	004		11	11	Pueschel	Deborah	Katz	56
+8/31/2004	REP	Republican	USR	United States Representative	HIL	Hillsborough	009		100	100	Bilirakis	Michael		19280
+8/31/2004	REP	Republican	USR	United States Representative	PAS	Pasco	009		73	73	Bilirakis	Michael		11374
+8/31/2004	REP	Republican	USR	United States Representative	PIN	Pinellas	009		84	84	Bilirakis	Michael		13925
+8/31/2004	REP	Republican	USR	United States Representative	HIL	Hillsborough	009		100	100	Stanley	Joseph	H.	3475
+8/31/2004	REP	Republican	USR	United States Representative	PAS	Pasco	009		73	73	Stanley	Joseph	H.	2053
+8/31/2004	REP	Republican	USR	United States Representative	PIN	Pinellas	009		84	84	Stanley	Joseph	H.	2661
+8/31/2004	REP	Republican	USR	United States Representative	HIL	Hillsborough	012		76	76	Putnam	Adam	H.	13571
+8/31/2004	REP	Republican	USR	United States Representative	OSC	Osceola	012		5	5	Putnam	Adam	H.	272
+8/31/2004	REP	Republican	USR	United States Representative	POL	Polk	012		142	142	Putnam	Adam	H.	28762
+8/31/2004	REP	Republican	USR	United States Representative	HIL	Hillsborough	012		76	76	Wirengard	Robert		1460
+8/31/2004	REP	Republican	USR	United States Representative	OSC	Osceola	012		5	5	Wirengard	Robert		123
+8/31/2004	REP	Republican	USR	United States Representative	POL	Polk	012		142	142	Wirengard	Robert		1963
+8/31/2004	REP	Republican	USR	United States Representative	CHA	Charlotte	014		16	16	Coy	Andy		139
+8/31/2004	REP	Republican	USR	United States Representative	CLL	Collier	014		80	80	Coy	Andy		2839
+8/31/2004	REP	Republican	USR	United States Representative	LEE	Lee	014		175	175	Coy	Andy		14111
+8/31/2004	REP	Republican	USR	United States Representative	CHA	Charlotte	014		16	16	Green	Carole		470
+8/31/2004	REP	Republican	USR	United States Representative	CLL	Collier	014		80	80	Green	Carole		4570
+8/31/2004	REP	Republican	USR	United States Representative	LEE	Lee	014		175	175	Green	Carole		19727
+8/31/2004	REP	Republican	USR	United States Representative	CHA	Charlotte	014		16	16	Mack	Connie		1644
+8/31/2004	REP	Republican	USR	United States Representative	CLL	Collier	014		80	80	Mack	Connie		8312
+8/31/2004	REP	Republican	USR	United States Representative	LEE	Lee	014		175	175	Mack	Connie		17570
+8/31/2004	REP	Republican	USR	United States Representative	CHA	Charlotte	014		16	16	Schwerin	Frank		178
+8/31/2004	REP	Republican	USR	United States Representative	CLL	Collier	014		80	80	Schwerin	Frank		2876
+8/31/2004	REP	Republican	USR	United States Representative	LEE	Lee	014		175	175	Schwerin	Frank		4411
+8/31/2004	REP	Republican	STA	State Attorney	DAD	Miami-Dade	011		870	870	Milian	Al		83385
+8/31/2004	REP	Republican	STA	State Attorney	DAD	Miami-Dade	011		870	870	Rothenberg	Leslie		33765
+8/31/2004	REP	Republican	STA	State Attorney	HIL	Hillsborough	013		360	360	Fuson	Robin	Fernandez	29924
+8/31/2004	REP	Republican	STA	State Attorney	HIL	Hillsborough	013		360	360	Ober	Mark		95967
+8/31/2004	REP	Republican	STA	State Attorney	MON	Monroe	016		33	33	Ellsworth	Jonathan		7646
+8/31/2004	REP	Republican	STA	State Attorney	MON	Monroe	016		33	33	Kohl	Mark	E.	8847
+8/31/2004	REP	Republican	PUB	Public Defender	FLA	Flagler	007		34	34	Ford Jr.	Bennett	R.	2310
+8/31/2004	REP	Republican	PUB	Public Defender	PUT	Putnam	007		55	55	Ford Jr.	Bennett	R.	2363
+8/31/2004	REP	Republican	PUB	Public Defender	STJ	St. Johns	007		68	68	Ford Jr.	Bennett	R.	10066
+8/31/2004	REP	Republican	PUB	Public Defender	VOL	Volusia	007		179	179	Ford Jr.	Bennett	R.	9142
+8/31/2004	REP	Republican	PUB	Public Defender	FLA	Flagler	007		34	34	Purdy	James	S.	4121
+8/31/2004	REP	Republican	PUB	Public Defender	PUT	Putnam	007		55	55	Purdy	James	S.	1584
+8/31/2004	REP	Republican	PUB	Public Defender	STJ	St. Johns	007		68	68	Purdy	James	S.	8866
+8/31/2004	REP	Republican	PUB	Public Defender	VOL	Volusia	007		179	179	Purdy	James	S.	12061
+8/31/2004	REP	Republican	STS	State Senator	CLA	Clay	005		49	49	Rankin	Alan	M.	4430
+8/31/2004	REP	Republican	STS	State Senator	DUV	Duval	005		90	90	Rankin	Alan	M.	3116
+8/31/2004	REP	Republican	STS	State Senator	NAS	Nassau	005		20	20	Rankin	Alan	M.	1671
+8/31/2004	REP	Republican	STS	State Senator	STJ	St. Johns	005		16	16	Rankin	Alan	M.	910
+8/31/2004	REP	Republican	STS	State Senator	CLA	Clay	005		49	49	Wise	Stephen		15971
+8/31/2004	REP	Republican	STS	State Senator	DUV	Duval	005		90	90	Wise	Stephen		17765
+8/31/2004	REP	Republican	STS	State Senator	NAS	Nassau	005		20	20	Wise	Stephen		4013
+8/31/2004	REP	Republican	STS	State Senator	STJ	St. Johns	005		16	16	Wise	Stephen		3682
+8/31/2004	REP	Republican	STR	State Representative	ESC	Escambia	002		35	35	Murzin	Dave		10282
+8/31/2004	REP	Republican	STR	State Representative	ESC	Escambia	002		35	35	Pope	Richard		6722
+8/31/2004	REP	Republican	STR	State Representative	BAY	Bay	007		19	19	Coley	David		2823
+8/31/2004	REP	Republican	STR	State Representative	CAL	Calhoun	007		15	15	Coley	David		244
+8/31/2004	REP	Republican	STR	State Representative	GAD	Gadsden	007		5	5	Coley	David		84
+8/31/2004	REP	Republican	STR	State Representative	JAC	Jackson	007		19	19	Coley	David		930
+8/31/2004	REP	Republican	STR	State Representative	LEO	Leon	007		10	10	Coley	David		431
+8/31/2004	REP	Republican	STR	State Representative	LIB	Liberty	007		10	10	Coley	David		91
+8/31/2004	REP	Republican	STR	State Representative	OKA	Okaloosa	007		3	3	Coley	David		759
+8/31/2004	REP	Republican	STR	State Representative	WAK	Wakulla	007		10	10	Coley	David		569
+8/31/2004	REP	Republican	STR	State Representative	WAL	Walton	007		3	3	Coley	David		1548
+8/31/2004	REP	Republican	STR	State Representative	BAY	Bay	007		19	19	Westbrook	Jamey		1490
+8/31/2004	REP	Republican	STR	State Representative	CAL	Calhoun	007		15	15	Westbrook	Jamey		91
+8/31/2004	REP	Republican	STR	State Representative	GAD	Gadsden	007		5	5	Westbrook	Jamey		45
+8/31/2004	REP	Republican	STR	State Representative	JAC	Jackson	007		19	19	Westbrook	Jamey		571
+8/31/2004	REP	Republican	STR	State Representative	LEO	Leon	007		10	10	Westbrook	Jamey		302
+8/31/2004	REP	Republican	STR	State Representative	LIB	Liberty	007		10	10	Westbrook	Jamey		63
+8/31/2004	REP	Republican	STR	State Representative	OKA	Okaloosa	007		3	3	Westbrook	Jamey		430
+8/31/2004	REP	Republican	STR	State Representative	WAK	Wakulla	007		10	10	Westbrook	Jamey		389
+8/31/2004	REP	Republican	STR	State Representative	WAL	Walton	007		3	3	Westbrook	Jamey		1056
+8/31/2004	REP	Republican	STR	State Representative	CLA	Clay	020		11	11	McCarthy	Kerry		970
+8/31/2004	REP	Republican	STR	State Representative	FLA	Flagler	020		32	32	McCarthy	Kerry		1837
+8/31/2004	REP	Republican	STR	State Representative	STJ	St. Johns	020		40	40	McCarthy	Kerry		3185
+8/31/2004	REP	Republican	STR	State Representative	CLA	Clay	020		11	11	Proctor	Bill		2423
+8/31/2004	REP	Republican	STR	State Representative	FLA	Flagler	020		32	32	Proctor	Bill		4295
+8/31/2004	REP	Republican	STR	State Representative	STJ	St. Johns	020		40	40	Proctor	Bill		7282
+8/31/2004	REP	Republican	STR	State Representative	LAK	Lake	025		47	47	Hays	Alan		4643
+8/31/2004	REP	Republican	STR	State Representative	SEM	Seminole	025		9	9	Hays	Alan		391
+8/31/2004	REP	Republican	STR	State Representative	VOL	Volusia	025		12	12	Hays	Alan		308
+8/31/2004	REP	Republican	STR	State Representative	LAK	Lake	025		47	47	Huggins	JoAnn		1040
+8/31/2004	REP	Republican	STR	State Representative	SEM	Seminole	025		9	9	Huggins	JoAnn		128
+8/31/2004	REP	Republican	STR	State Representative	VOL	Volusia	025		12	12	Huggins	JoAnn		150
+8/31/2004	REP	Republican	STR	State Representative	LAK	Lake	025		47	47	Metz	Larry		3566
+8/31/2004	REP	Republican	STR	State Representative	SEM	Seminole	025		9	9	Metz	Larry		441
+8/31/2004	REP	Republican	STR	State Representative	VOL	Volusia	025		12	12	Metz	Larry		437
+8/31/2004	REP	Republican	STR	State Representative	LAK	Lake	025		47	47	Smith	Johnny	Barto	1951
+8/31/2004	REP	Republican	STR	State Representative	SEM	Seminole	025		9	9	Smith	Johnny	Barto	155
+8/31/2004	REP	Republican	STR	State Representative	VOL	Volusia	025		12	12	Smith	Johnny	Barto	127
+8/31/2004	REP	Republican	STR	State Representative	LAK	Lake	025		47	47	Wiseman	Randy		1637
+8/31/2004	REP	Republican	STR	State Representative	SEM	Seminole	025		9	9	Wiseman	Randy		161
+8/31/2004	REP	Republican	STR	State Representative	VOL	Volusia	025		12	12	Wiseman	Randy		159
+8/31/2004	REP	Republican	STR	State Representative	BRE	Brevard	031		52	52	Needelman	Mitch		9308
+8/31/2004	REP	Republican	STR	State Representative	BRE	Brevard	031		52	52	Whittington	Richard		2996
+8/31/2004	REP	Republican	STR	State Representative	BRE	Brevard	032		54	54	Allen	Bob		6919
+8/31/2004	REP	Republican	STR	State Representative	ORA	Orange	032		23	23	Allen	Bob		1438
+8/31/2004	REP	Republican	STR	State Representative	BRE	Brevard	032		54	54	O'Brien	Randy		2267
+8/31/2004	REP	Republican	STR	State Representative	ORA	Orange	032		23	23	O'Brien	Randy		289
+8/31/2004	REP	Republican	STR	State Representative	BRE	Brevard	032		54	54	Taylor	Ron		2240
+8/31/2004	REP	Republican	STR	State Representative	ORA	Orange	032		23	23	Taylor	Ron		494
+8/31/2004	REP	Republican	STR	State Representative	ORA	Orange	034		11	11	Mealor	David	J.	80
+8/31/2004	REP	Republican	STR	State Representative	SEM	Seminole	034		45	45	Mealor	David	J.	6415
+8/31/2004	REP	Republican	STR	State Representative	ORA	Orange	034		11	11	Roosa	Allen		60
+8/31/2004	REP	Republican	STR	State Representative	SEM	Seminole	034		45	45	Roosa	Allen		3218
+8/31/2004	REP	Republican	STR	State Representative	PAS	Pasco	046		60	60	Legg	John		5249
+8/31/2004	REP	Republican	STR	State Representative	PAS	Pasco	046		60	60	Stewart	John		4434
+8/31/2004	REP	Republican	STR	State Representative	HIL	Hillsborough	047		48	48	Ambler	Kevin		4672
+8/31/2004	REP	Republican	STR	State Representative	HIL	Hillsborough	047		48	48	Bunkley	Bill		4542
+8/31/2004	REP	Republican	STR	State Representative	HIL	Hillsborough	056		60	60	Carty	Deven	Wanda	1409
+8/31/2004	REP	Republican	STR	State Representative	HIL	Hillsborough	056		60	60	DeVitto	Lisa		2226
+8/31/2004	REP	Republican	STR	State Representative	HIL	Hillsborough	056		60	60	Mimbs	Tim		140
+8/31/2004	REP	Republican	STR	State Representative	HIL	Hillsborough	056		60	60	Shannon	Frank		1587
+8/31/2004	REP	Republican	STR	State Representative	HIL	Hillsborough	056		60	60	Tompkins	Chris		1679
+8/31/2004	REP	Republican	STR	State Representative	HIL	Hillsborough	056		60	60	Traviesa	Trey		3350
+8/31/2004	REP	Republican	STR	State Representative	HIL	Hillsborough	062		45	45	Burgin	Josh		4192
+8/31/2004	REP	Republican	STR	State Representative	PAS	Pasco	062		3	3	Burgin	Josh		2
+8/31/2004	REP	Republican	STR	State Representative	HIL	Hillsborough	062		45	45	Glorioso	Rich		4868
+8/31/2004	REP	Republican	STR	State Representative	PAS	Pasco	062		3	3	Glorioso	Rich		4
+8/31/2004	REP	Republican	STR	State Representative	HIL	Hillsborough	062		45	45	Waldron	Arlene		2017
+8/31/2004	REP	Republican	STR	State Representative	PAS	Pasco	062		3	3	Waldron	Arlene		8
+8/31/2004	REP	Republican	STR	State Representative	MAN	Manatee	069		7	7	Clarke	Donna		463
+8/31/2004	REP	Republican	STR	State Representative	SAR	Sarasota	069		53	53	Clarke	Donna		6700
+8/31/2004	REP	Republican	STR	State Representative	MAN	Manatee	069		7	7	Ellis	Steve		226
+8/31/2004	REP	Republican	STR	State Representative	SAR	Sarasota	069		53	53	Ellis	Steve		2952
+8/31/2004	REP	Republican	STR	State Representative	CHA	Charlotte	071		48	48	Grant	Michael	J.	3743
+8/31/2004	REP	Republican	STR	State Representative	LEE	Lee	071		8	8	Grant	Michael	J.	905
+8/31/2004	REP	Republican	STR	State Representative	SAR	Sarasota	071		19	19	Grant	Michael	J.	1075
+8/31/2004	REP	Republican	STR	State Representative	CHA	Charlotte	071		48	48	King	Christopher		3486
+8/31/2004	REP	Republican	STR	State Representative	LEE	Lee	071		8	8	King	Christopher		637
+8/31/2004	REP	Republican	STR	State Representative	SAR	Sarasota	071		19	19	King	Christopher		1357
+8/31/2004	REP	Republican	STR	State Representative	CHA	Charlotte	072		37	37	Kirschner	Louis		535
+8/31/2004	REP	Republican	STR	State Representative	DES	Desoto	072		17	17	Kirschner	Louis		358
+8/31/2004	REP	Republican	STR	State Representative	LEE	Lee	072		21	21	Kirschner	Louis		1149
+8/31/2004	REP	Republican	STR	State Representative	CHA	Charlotte	072		37	37	Kreegel	Paige		2266
+8/31/2004	REP	Republican	STR	State Representative	DES	Desoto	072		17	17	Kreegel	Paige		238
+8/31/2004	REP	Republican	STR	State Representative	LEE	Lee	072		21	21	Kreegel	Paige		2003
+8/31/2004	REP	Republican	STR	State Representative	CHA	Charlotte	072		37	37	Miller	Gary	M.	472
+8/31/2004	REP	Republican	STR	State Representative	DES	Desoto	072		17	17	Miller	Gary	M.	48
+8/31/2004	REP	Republican	STR	State Representative	LEE	Lee	072		21	21	Miller	Gary	M.	860
+8/31/2004	REP	Republican	STR	State Representative	CHA	Charlotte	072		37	37	Roberson	Ken		1758
+8/31/2004	REP	Republican	STR	State Representative	DES	Desoto	072		17	17	Roberson	Ken		137
+8/31/2004	REP	Republican	STR	State Representative	LEE	Lee	072		21	21	Roberson	Ken		1355
+8/31/2004	REP	Republican	STR	State Representative	CLL	Collier	075		7	7	Livingston	Ralph	L.	937
+8/31/2004	REP	Republican	STR	State Representative	LEE	Lee	075		51	51	Livingston	Ralph	L.	7476
+8/31/2004	REP	Republican	STR	State Representative	CLL	Collier	075		7	7	Noethlich	Neal		379
+8/31/2004	REP	Republican	STR	State Representative	LEE	Lee	075		51	51	Noethlich	Neal		2495
+8/31/2004	REP	Republican	STR	State Representative	CLL	Collier	075		7	7	Williams	Trudi	K.	741
+8/31/2004	REP	Republican	STR	State Representative	LEE	Lee	075		51	51	Williams	Trudi	K.	9545
+8/31/2004	REP	Republican	STR	State Representative	CLL	Collier	077		3	3	Gossett Jr.	Gary	R.	19
+8/31/2004	REP	Republican	STR	State Representative	GLA	Glades	077		13	13	Gossett Jr.	Gary	R.	159
+8/31/2004	REP	Republican	STR	State Representative	HEN	Hendry	077		26	26	Gossett Jr.	Gary	R.	358
+8/31/2004	REP	Republican	STR	State Representative	HIG	Highlands	077		25	25	Gossett Jr.	Gary	R.	2501
+8/31/2004	REP	Republican	STR	State Representative	CLL	Collier	077		3	3	Grimsley	Denise		22
+8/31/2004	REP	Republican	STR	State Representative	GLA	Glades	077		13	13	Grimsley	Denise		394
+8/31/2004	REP	Republican	STR	State Representative	HEN	Hendry	077		26	26	Grimsley	Denise		1093
+8/31/2004	REP	Republican	STR	State Representative	HIG	Highlands	077		25	25	Grimsley	Denise		5540
+8/31/2004	REP	Republican	STR	State Representative	MRT	Martin	081		18	18	Harrell	Gayle		4958
+8/31/2004	REP	Republican	STR	State Representative	STL	St. Lucie	081		36	36	Harrell	Gayle		5699
+8/31/2004	REP	Republican	STR	State Representative	MRT	Martin	081		18	18	Winn	Charles	J.	1547
+8/31/2004	REP	Republican	STR	State Representative	STL	St. Lucie	081		36	36	Winn	Charles	J.	2080
+8/31/2004	REP	Republican	STR	State Representative	DAD	Miami-Dade	113		64	64	Damaso	Eileen		1345
+8/31/2004	REP	Republican	STR	State Representative	DAD	Miami-Dade	113		64	64	Lopez-Cantera	Carlos		7307
+8/31/2004	REP	Republican	STR	State Representative	DAD	Miami-Dade	114		57	57	Bao	Victor		1237
+8/31/2004	REP	Republican	STR	State Representative	DAD	Miami-Dade	114		57	57	Bello	Joel		1071
+8/31/2004	REP	Republican	STR	State Representative	DAD	Miami-Dade	114		57	57	Flores	Anitere		6531
+8/31/2004	REP	Republican	STR	State Representative	DAD	Miami-Dade	114		57	57	Manrique	Carlos		2190
+8/31/2004	REP	Republican	STR	State Representative	DAD	Miami-Dade	114		57	57	Orta	Luis	E.	223
+8/31/2004	REP	Republican	STR	State Representative	DAD	Miami-Dade	114		57	57	Sacco	Lisa	A.	516
+8/31/2004	REP	Republican	STR	State Representative	DAD	Miami-Dade	119		64	64	Artiles	Frank		3087
+8/31/2004	REP	Republican	STR	State Representative	DAD	Miami-Dade	119		64	64	Zapata	Juan	C.	5547
+8/31/2004	DEM	Democrat	USS	United States Senator	ALA	Alachua			69	69	Castor	Betty		18924
+8/31/2004	DEM	Democrat	USS	United States Senator	BAK	Baker			9	9	Castor	Betty		2687
+8/31/2004	DEM	Democrat	USS	United States Senator	BAY	Bay			59	59	Castor	Betty		8889
+8/31/2004	DEM	Democrat	USS	United States Senator	BRA	Bradford			22	22	Castor	Betty		2738
+8/31/2004	DEM	Democrat	USS	United States Senator	BRE	Brevard			221	221	Castor	Betty		19952
+8/31/2004	DEM	Democrat	USS	United States Senator	BRO	Broward			886	886	Castor	Betty		27568
+8/31/2004	DEM	Democrat	USS	United States Senator	CAL	Calhoun			15	15	Castor	Betty		2746
+8/31/2004	DEM	Democrat	USS	United States Senator	CHA	Charlotte			83	83	Castor	Betty		3282
+8/31/2004	DEM	Democrat	USS	United States Senator	CIT	Citrus			41	41	Castor	Betty		7129
+8/31/2004	DEM	Democrat	USS	United States Senator	CLA	Clay			64	64	Castor	Betty		5425
+8/31/2004	DEM	Democrat	USS	United States Senator	CLL	Collier			94	94	Castor	Betty		3440
+8/31/2004	DEM	Democrat	USS	United States Senator	CLM	Columbia			25	25	Castor	Betty		6623
+8/31/2004	DEM	Democrat	USS	United States Senator	DES	Desoto			17	17	Castor	Betty		1947
+8/31/2004	DEM	Democrat	USS	United States Senator	DIX	Dixie			11	11	Castor	Betty		2942
+8/31/2004	DEM	Democrat	USS	United States Senator	DUV	Duval			285	285	Castor	Betty		33417
+8/31/2004	DEM	Democrat	USS	United States Senator	ESC	Escambia			91	91	Castor	Betty		16508
+8/31/2004	DEM	Democrat	USS	United States Senator	FLA	Flagler			34	34	Castor	Betty		4379
+8/31/2004	DEM	Democrat	USS	United States Senator	FRA	Franklin			10	10	Castor	Betty		2596
+8/31/2004	DEM	Democrat	USS	United States Senator	GAD	Gadsden			26	26	Castor	Betty		9245
+8/31/2004	DEM	Democrat	USS	United States Senator	GIL	Gilchrist			12	12	Castor	Betty		1877
+8/31/2004	DEM	Democrat	USS	United States Senator	GLA	Glades			13	13	Castor	Betty		1069
+8/31/2004	DEM	Democrat	USS	United States Senator	GUL	Gulf			16	16	Castor	Betty		2500
+8/31/2004	DEM	Democrat	USS	United States Senator	HAM	Hamilton			10	10	Castor	Betty		1919
+8/31/2004	DEM	Democrat	USS	United States Senator	HAR	Hardee			12	12	Castor	Betty		1767
+8/31/2004	DEM	Democrat	USS	United States Senator	HEN	Hendry			26	26	Castor	Betty		1749
+8/31/2004	DEM	Democrat	USS	United States Senator	HER	Hernando			56	56	Castor	Betty		8237
+8/31/2004	DEM	Democrat	USS	United States Senator	HIG	Highlands			27	27	Castor	Betty		3083
+8/31/2004	DEM	Democrat	USS	United States Senator	HIL	Hillsborough			360	360	Castor	Betty		49909
+8/31/2004	DEM	Democrat	USS	United States Senator	HOL	Holmes			18	18	Castor	Betty		2741
+8/31/2004	DEM	Democrat	USS	United States Senator	IND	Indian River			57	57	Castor	Betty		3298
+8/31/2004	DEM	Democrat	USS	United States Senator	JAC	Jackson			28	28	Castor	Betty		7200
+8/31/2004	DEM	Democrat	USS	United States Senator	JEF	Jefferson			15	15	Castor	Betty		3267
+8/31/2004	DEM	Democrat	USS	United States Senator	LAF	Lafayette			6	6	Castor	Betty		1662
+8/31/2004	DEM	Democrat	USS	United States Senator	LAK	Lake			102	102	Castor	Betty		9434
+8/31/2004	DEM	Democrat	USS	United States Senator	LEE	Lee			175	175	Castor	Betty		8394
+8/31/2004	DEM	Democrat	USS	United States Senator	LEO	Leon			115	115	Castor	Betty		27474
+8/31/2004	DEM	Democrat	USS	United States Senator	LEV	Levy			20	20	Castor	Betty		4324
+8/31/2004	DEM	Democrat	USS	United States Senator	LIB	Liberty			10	10	Castor	Betty		1658
+8/31/2004	DEM	Democrat	USS	United States Senator	MAD	Madison			11	11	Castor	Betty		3813
+8/31/2004	DEM	Democrat	USS	United States Senator	MAN	Manatee			136	136	Castor	Betty		12671
+8/31/2004	DEM	Democrat	USS	United States Senator	MRN	Marion			143	143	Castor	Betty		14432
+8/31/2004	DEM	Democrat	USS	United States Senator	MRT	Martin			51	51	Castor	Betty		4604
+8/31/2004	DEM	Democrat	USS	United States Senator	DAD	Miami-Dade			820	820	Castor	Betty		43371
+8/31/2004	DEM	Democrat	USS	United States Senator	MON	Monroe			33	33	Castor	Betty		1760
+8/31/2004	DEM	Democrat	USS	United States Senator	NAS	Nassau			24	24	Castor	Betty		3083
+8/31/2004	DEM	Democrat	USS	United States Senator	OKA	Okaloosa			52	52	Castor	Betty		4926
+8/31/2004	DEM	Democrat	USS	United States Senator	OKE	Okeechobee			18	18	Castor	Betty		2446
+8/31/2004	DEM	Democrat	USS	United States Senator	ORA	Orange			272	272	Castor	Betty		27672
+8/31/2004	DEM	Democrat	USS	United States Senator	OSC	Osceola			95	95	Castor	Betty		4888
+8/31/2004	DEM	Democrat	USS	United States Senator	PAL	Palm Beach			695	695	Castor	Betty		51256
+8/31/2004	DEM	Democrat	USS	United States Senator	PAS	Pasco			157	157	Castor	Betty		13583
+8/31/2004	DEM	Democrat	USS	United States Senator	PIN	Pinellas			379	379	Castor	Betty		41841
+8/31/2004	DEM	Democrat	USS	United States Senator	POL	Polk			161	161	Castor	Betty		21017
+8/31/2004	DEM	Democrat	USS	United States Senator	PUT	Putnam			55	55	Castor	Betty		7388
+8/31/2004	DEM	Democrat	USS	United States Senator	SAN	Santa Rosa			43	43	Castor	Betty		5250
+8/31/2004	DEM	Democrat	USS	United States Senator	SAR	Sarasota			156	156	Castor	Betty		15402
+8/31/2004	DEM	Democrat	USS	United States Senator	SEM	Seminole			126	126	Castor	Betty		10241
+8/31/2004	DEM	Democrat	USS	United States Senator	STJ	St. Johns			68	68	Castor	Betty		5786
+8/31/2004	DEM	Democrat	USS	United States Senator	STL	St. Lucie			75	75	Castor	Betty		8376
+8/31/2004	DEM	Democrat	USS	United States Senator	SUM	Sumter			42	42	Castor	Betty		4869
+8/31/2004	DEM	Democrat	USS	United States Senator	SUW	Suwannee			19	19	Castor	Betty		5375
+8/31/2004	DEM	Democrat	USS	United States Senator	TAY	Taylor			14	14	Castor	Betty		2646
+8/31/2004	DEM	Democrat	USS	United States Senator	UNI	Union			11	11	Castor	Betty		1642
+8/31/2004	DEM	Democrat	USS	United States Senator	VOL	Volusia			179	179	Castor	Betty		19030
+8/31/2004	DEM	Democrat	USS	United States Senator	WAK	Wakulla			12	12	Castor	Betty		3848
+8/31/2004	DEM	Democrat	USS	United States Senator	WAL	Walton			32	32	Castor	Betty		2803
+8/31/2004	DEM	Democrat	USS	United States Senator	WAS	Washington			21	21	Castor	Betty		3328
+8/31/2004	DEM	Democrat	USS	United States Senator	ALA	Alachua			69	69	Deutsch	Peter		2767
+8/31/2004	DEM	Democrat	USS	United States Senator	BAK	Baker			9	9	Deutsch	Peter		860
+8/31/2004	DEM	Democrat	USS	United States Senator	BAY	Bay			59	59	Deutsch	Peter		3875
+8/31/2004	DEM	Democrat	USS	United States Senator	BRA	Bradford			22	22	Deutsch	Peter		758
+8/31/2004	DEM	Democrat	USS	United States Senator	BRE	Brevard			221	221	Deutsch	Peter		5390
+8/31/2004	DEM	Democrat	USS	United States Senator	BRO	Broward			886	886	Deutsch	Peter		77791
+8/31/2004	DEM	Democrat	USS	United States Senator	CAL	Calhoun			15	15	Deutsch	Peter		1082
+8/31/2004	DEM	Democrat	USS	United States Senator	CHA	Charlotte			83	83	Deutsch	Peter		916
+8/31/2004	DEM	Democrat	USS	United States Senator	CIT	Citrus			41	41	Deutsch	Peter		2259
+8/31/2004	DEM	Democrat	USS	United States Senator	CLA	Clay			64	64	Deutsch	Peter		2072
+8/31/2004	DEM	Democrat	USS	United States Senator	CLL	Collier			94	94	Deutsch	Peter		1058
+8/31/2004	DEM	Democrat	USS	United States Senator	CLM	Columbia			25	25	Deutsch	Peter		1744
+8/31/2004	DEM	Democrat	USS	United States Senator	DES	Desoto			17	17	Deutsch	Peter		483
+8/31/2004	DEM	Democrat	USS	United States Senator	DIX	Dixie			11	11	Deutsch	Peter		412
+8/31/2004	DEM	Democrat	USS	United States Senator	DUV	Duval			285	285	Deutsch	Peter		16580
+8/31/2004	DEM	Democrat	USS	United States Senator	ESC	Escambia			91	91	Deutsch	Peter		6865
+8/31/2004	DEM	Democrat	USS	United States Senator	FLA	Flagler			34	34	Deutsch	Peter		1272
+8/31/2004	DEM	Democrat	USS	United States Senator	FRA	Franklin			10	10	Deutsch	Peter		635
+8/31/2004	DEM	Democrat	USS	United States Senator	GAD	Gadsden			26	26	Deutsch	Peter		1699
+8/31/2004	DEM	Democrat	USS	United States Senator	GIL	Gilchrist			12	12	Deutsch	Peter		355
+8/31/2004	DEM	Democrat	USS	United States Senator	GLA	Glades			13	13	Deutsch	Peter		432
+8/31/2004	DEM	Democrat	USS	United States Senator	GUL	Gulf			16	16	Deutsch	Peter		956
+8/31/2004	DEM	Democrat	USS	United States Senator	HAM	Hamilton			10	10	Deutsch	Peter		331
+8/31/2004	DEM	Democrat	USS	United States Senator	HAR	Hardee			12	12	Deutsch	Peter		502
+8/31/2004	DEM	Democrat	USS	United States Senator	HEN	Hendry			26	26	Deutsch	Peter		621
+8/31/2004	DEM	Democrat	USS	United States Senator	HER	Hernando			56	56	Deutsch	Peter		2520
+8/31/2004	DEM	Democrat	USS	United States Senator	HIG	Highlands			27	27	Deutsch	Peter		860
+8/31/2004	DEM	Democrat	USS	United States Senator	HIL	Hillsborough			360	360	Deutsch	Peter		10206
+8/31/2004	DEM	Democrat	USS	United States Senator	HOL	Holmes			18	18	Deutsch	Peter		1044
+8/31/2004	DEM	Democrat	USS	United States Senator	IND	Indian River			57	57	Deutsch	Peter		2023
+8/31/2004	DEM	Democrat	USS	United States Senator	JAC	Jackson			28	28	Deutsch	Peter		1892
+8/31/2004	DEM	Democrat	USS	United States Senator	JEF	Jefferson			15	15	Deutsch	Peter		518
+8/31/2004	DEM	Democrat	USS	United States Senator	LAF	Lafayette			6	6	Deutsch	Peter		324
+8/31/2004	DEM	Democrat	USS	United States Senator	LAK	Lake			102	102	Deutsch	Peter		3287
+8/31/2004	DEM	Democrat	USS	United States Senator	LEE	Lee			175	175	Deutsch	Peter		2106
+8/31/2004	DEM	Democrat	USS	United States Senator	LEO	Leon			115	115	Deutsch	Peter		5050
+8/31/2004	DEM	Democrat	USS	United States Senator	LEV	Levy			20	20	Deutsch	Peter		684
+8/31/2004	DEM	Democrat	USS	United States Senator	LIB	Liberty			10	10	Deutsch	Peter		434
+8/31/2004	DEM	Democrat	USS	United States Senator	MAD	Madison			11	11	Deutsch	Peter		585
+8/31/2004	DEM	Democrat	USS	United States Senator	MAN	Manatee			136	136	Deutsch	Peter		2780
+8/31/2004	DEM	Democrat	USS	United States Senator	MRN	Marion			143	143	Deutsch	Peter		3808
+8/31/2004	DEM	Democrat	USS	United States Senator	MRT	Martin			51	51	Deutsch	Peter		2276
+8/31/2004	DEM	Democrat	USS	United States Senator	DAD	Miami-Dade			820	820	Deutsch	Peter		45025
+8/31/2004	DEM	Democrat	USS	United States Senator	MON	Monroe			33	33	Deutsch	Peter		4231
+8/31/2004	DEM	Democrat	USS	United States Senator	NAS	Nassau			24	24	Deutsch	Peter		1069
+8/31/2004	DEM	Democrat	USS	United States Senator	OKA	Okaloosa			52	52	Deutsch	Peter		1979
+8/31/2004	DEM	Democrat	USS	United States Senator	OKE	Okeechobee			18	18	Deutsch	Peter		1104
+8/31/2004	DEM	Democrat	USS	United States Senator	ORA	Orange			272	272	Deutsch	Peter		8374
+8/31/2004	DEM	Democrat	USS	United States Senator	OSC	Osceola			95	95	Deutsch	Peter		1510
+8/31/2004	DEM	Democrat	USS	United States Senator	PAL	Palm Beach			695	695	Deutsch	Peter		38347
+8/31/2004	DEM	Democrat	USS	United States Senator	PAS	Pasco			157	157	Deutsch	Peter		4255
+8/31/2004	DEM	Democrat	USS	United States Senator	PIN	Pinellas			379	379	Deutsch	Peter		8220
+8/31/2004	DEM	Democrat	USS	United States Senator	POL	Polk			161	161	Deutsch	Peter		6416
+8/31/2004	DEM	Democrat	USS	United States Senator	PUT	Putnam			55	55	Deutsch	Peter		2840
+8/31/2004	DEM	Democrat	USS	United States Senator	SAN	Santa Rosa			43	43	Deutsch	Peter		1976
+8/31/2004	DEM	Democrat	USS	United States Senator	SAR	Sarasota			156	156	Deutsch	Peter		3732
+8/31/2004	DEM	Democrat	USS	United States Senator	SEM	Seminole			126	126	Deutsch	Peter		2605
+8/31/2004	DEM	Democrat	USS	United States Senator	STJ	St. Johns			68	68	Deutsch	Peter		1893
+8/31/2004	DEM	Democrat	USS	United States Senator	STL	St. Lucie			75	75	Deutsch	Peter		4800
+8/31/2004	DEM	Democrat	USS	United States Senator	SUM	Sumter			42	42	Deutsch	Peter		1746
+8/31/2004	DEM	Democrat	USS	United States Senator	SUW	Suwannee			19	19	Deutsch	Peter		956
+8/31/2004	DEM	Democrat	USS	United States Senator	TAY	Taylor			14	14	Deutsch	Peter		461
+8/31/2004	DEM	Democrat	USS	United States Senator	UNI	Union			11	11	Deutsch	Peter		398
+8/31/2004	DEM	Democrat	USS	United States Senator	VOL	Volusia			179	179	Deutsch	Peter		5065
+8/31/2004	DEM	Democrat	USS	United States Senator	WAK	Wakulla			12	12	Deutsch	Peter		615
+8/31/2004	DEM	Democrat	USS	United States Senator	WAL	Walton			32	32	Deutsch	Peter		962
+8/31/2004	DEM	Democrat	USS	United States Senator	WAS	Washington			21	21	Deutsch	Peter		1231
+8/31/2004	DEM	Democrat	USS	United States Senator	ALA	Alachua			69	69	Klein	Bernard	E.	674
+8/31/2004	DEM	Democrat	USS	United States Senator	BAK	Baker			9	9	Klein	Bernard	E.	359
+8/31/2004	DEM	Democrat	USS	United States Senator	BAY	Bay			59	59	Klein	Bernard	E.	587
+8/31/2004	DEM	Democrat	USS	United States Senator	BRA	Bradford			22	22	Klein	Bernard	E.	296
+8/31/2004	DEM	Democrat	USS	United States Senator	BRE	Brevard			221	221	Klein	Bernard	E.	1013
+8/31/2004	DEM	Democrat	USS	United States Senator	BRO	Broward			886	886	Klein	Bernard	E.	3786
+8/31/2004	DEM	Democrat	USS	United States Senator	CAL	Calhoun			15	15	Klein	Bernard	E.	267
+8/31/2004	DEM	Democrat	USS	United States Senator	CHA	Charlotte			83	83	Klein	Bernard	E.	339
+8/31/2004	DEM	Democrat	USS	United States Senator	CIT	Citrus			41	41	Klein	Bernard	E.	372
+8/31/2004	DEM	Democrat	USS	United States Senator	CLA	Clay			64	64	Klein	Bernard	E.	413
+8/31/2004	DEM	Democrat	USS	United States Senator	CLL	Collier			94	94	Klein	Bernard	E.	350
+8/31/2004	DEM	Democrat	USS	United States Senator	CLM	Columbia			25	25	Klein	Bernard	E.	602
+8/31/2004	DEM	Democrat	USS	United States Senator	DES	Desoto			17	17	Klein	Bernard	E.	280
+8/31/2004	DEM	Democrat	USS	United States Senator	DIX	Dixie			11	11	Klein	Bernard	E.	446
+8/31/2004	DEM	Democrat	USS	United States Senator	DUV	Duval			285	285	Klein	Bernard	E.	1491
+8/31/2004	DEM	Democrat	USS	United States Senator	ESC	Escambia			91	91	Klein	Bernard	E.	1755
+8/31/2004	DEM	Democrat	USS	United States Senator	FLA	Flagler			34	34	Klein	Bernard	E.	172
+8/31/2004	DEM	Democrat	USS	United States Senator	FRA	Franklin			10	10	Klein	Bernard	E.	205
+8/31/2004	DEM	Democrat	USS	United States Senator	GAD	Gadsden			26	26	Klein	Bernard	E.	458
+8/31/2004	DEM	Democrat	USS	United States Senator	GIL	Gilchrist			12	12	Klein	Bernard	E.	229
+8/31/2004	DEM	Democrat	USS	United States Senator	GLA	Glades			13	13	Klein	Bernard	E.	150
+8/31/2004	DEM	Democrat	USS	United States Senator	GUL	Gulf			16	16	Klein	Bernard	E.	199
+8/31/2004	DEM	Democrat	USS	United States Senator	HAM	Hamilton			10	10	Klein	Bernard	E.	144
+8/31/2004	DEM	Democrat	USS	United States Senator	HAR	Hardee			12	12	Klein	Bernard	E.	188
+8/31/2004	DEM	Democrat	USS	United States Senator	HEN	Hendry			26	26	Klein	Bernard	E.	223
+8/31/2004	DEM	Democrat	USS	United States Senator	HER	Hernando			56	56	Klein	Bernard	E.	527
+8/31/2004	DEM	Democrat	USS	United States Senator	HIG	Highlands			27	27	Klein	Bernard	E.	165
+8/31/2004	DEM	Democrat	USS	United States Senator	HIL	Hillsborough			360	360	Klein	Bernard	E.	1893
+8/31/2004	DEM	Democrat	USS	United States Senator	HOL	Holmes			18	18	Klein	Bernard	E.	470
+8/31/2004	DEM	Democrat	USS	United States Senator	IND	Indian River			57	57	Klein	Bernard	E.	351
+8/31/2004	DEM	Democrat	USS	United States Senator	JAC	Jackson			28	28	Klein	Bernard	E.	618
+8/31/2004	DEM	Democrat	USS	United States Senator	JEF	Jefferson			15	15	Klein	Bernard	E.	137
+8/31/2004	DEM	Democrat	USS	United States Senator	LAF	Lafayette			6	6	Klein	Bernard	E.	223
+8/31/2004	DEM	Democrat	USS	United States Senator	LAK	Lake			102	102	Klein	Bernard	E.	568
+8/31/2004	DEM	Democrat	USS	United States Senator	LEE	Lee			175	175	Klein	Bernard	E.	693
+8/31/2004	DEM	Democrat	USS	United States Senator	LEO	Leon			115	115	Klein	Bernard	E.	628
+8/31/2004	DEM	Democrat	USS	United States Senator	LEV	Levy			20	20	Klein	Bernard	E.	423
+8/31/2004	DEM	Democrat	USS	United States Senator	LIB	Liberty			10	10	Klein	Bernard	E.	163
+8/31/2004	DEM	Democrat	USS	United States Senator	MAD	Madison			11	11	Klein	Bernard	E.	244
+8/31/2004	DEM	Democrat	USS	United States Senator	MAN	Manatee			136	136	Klein	Bernard	E.	740
+8/31/2004	DEM	Democrat	USS	United States Senator	MRN	Marion			143	143	Klein	Bernard	E.	800
+8/31/2004	DEM	Democrat	USS	United States Senator	MRT	Martin			51	51	Klein	Bernard	E.	444
+8/31/2004	DEM	Democrat	USS	United States Senator	DAD	Miami-Dade			820	820	Klein	Bernard	E.	4234
+8/31/2004	DEM	Democrat	USS	United States Senator	MON	Monroe			33	33	Klein	Bernard	E.	168
+8/31/2004	DEM	Democrat	USS	United States Senator	NAS	Nassau			24	24	Klein	Bernard	E.	197
+8/31/2004	DEM	Democrat	USS	United States Senator	OKA	Okaloosa			52	52	Klein	Bernard	E.	556
+8/31/2004	DEM	Democrat	USS	United States Senator	OKE	Okeechobee			18	18	Klein	Bernard	E.	308
+8/31/2004	DEM	Democrat	USS	United States Senator	ORA	Orange			272	272	Klein	Bernard	E.	1401
+8/31/2004	DEM	Democrat	USS	United States Senator	OSC	Osceola			95	95	Klein	Bernard	E.	334
+8/31/2004	DEM	Democrat	USS	United States Senator	PAL	Palm Beach			695	695	Klein	Bernard	E.	4243
+8/31/2004	DEM	Democrat	USS	United States Senator	PAS	Pasco			157	157	Klein	Bernard	E.	679
+8/31/2004	DEM	Democrat	USS	United States Senator	PIN	Pinellas			379	379	Klein	Bernard	E.	1435
+8/31/2004	DEM	Democrat	USS	United States Senator	POL	Polk			161	161	Klein	Bernard	E.	1503
+8/31/2004	DEM	Democrat	USS	United States Senator	PUT	Putnam			55	55	Klein	Bernard	E.	550
+8/31/2004	DEM	Democrat	USS	United States Senator	SAN	Santa Rosa			43	43	Klein	Bernard	E.	613
+8/31/2004	DEM	Democrat	USS	United States Senator	SAR	Sarasota			156	156	Klein	Bernard	E.	772
+8/31/2004	DEM	Democrat	USS	United States Senator	SEM	Seminole			126	126	Klein	Bernard	E.	466
+8/31/2004	DEM	Democrat	USS	United States Senator	STJ	St. Johns			68	68	Klein	Bernard	E.	223
+8/31/2004	DEM	Democrat	USS	United States Senator	STL	St. Lucie			75	75	Klein	Bernard	E.	790
+8/31/2004	DEM	Democrat	USS	United States Senator	SUM	Sumter			42	42	Klein	Bernard	E.	424
+8/31/2004	DEM	Democrat	USS	United States Senator	SUW	Suwannee			19	19	Klein	Bernard	E.	426
+8/31/2004	DEM	Democrat	USS	United States Senator	TAY	Taylor			14	14	Klein	Bernard	E.	142
+8/31/2004	DEM	Democrat	USS	United States Senator	UNI	Union			11	11	Klein	Bernard	E.	175
+8/31/2004	DEM	Democrat	USS	United States Senator	VOL	Volusia			179	179	Klein	Bernard	E.	629
+8/31/2004	DEM	Democrat	USS	United States Senator	WAK	Wakulla			12	12	Klein	Bernard	E.	203
+8/31/2004	DEM	Democrat	USS	United States Senator	WAL	Walton			32	32	Klein	Bernard	E.	394
+8/31/2004	DEM	Democrat	USS	United States Senator	WAS	Washington			21	21	Klein	Bernard	E.	397
+8/31/2004	DEM	Democrat	USS	United States Senator	ALA	Alachua			69	69	Penelas	Alex		1735
+8/31/2004	DEM	Democrat	USS	United States Senator	BAK	Baker			9	9	Penelas	Alex		464
+8/31/2004	DEM	Democrat	USS	United States Senator	BAY	Bay			59	59	Penelas	Alex		1111
+8/31/2004	DEM	Democrat	USS	United States Senator	BRA	Bradford			22	22	Penelas	Alex		307
+8/31/2004	DEM	Democrat	USS	United States Senator	BRE	Brevard			221	221	Penelas	Alex		2636
+8/31/2004	DEM	Democrat	USS	United States Senator	BRO	Broward			886	886	Penelas	Alex		12794
+8/31/2004	DEM	Democrat	USS	United States Senator	CAL	Calhoun			15	15	Penelas	Alex		227
+8/31/2004	DEM	Democrat	USS	United States Senator	CHA	Charlotte			83	83	Penelas	Alex		484
+8/31/2004	DEM	Democrat	USS	United States Senator	CIT	Citrus			41	41	Penelas	Alex		845
+8/31/2004	DEM	Democrat	USS	United States Senator	CLA	Clay			64	64	Penelas	Alex		750
+8/31/2004	DEM	Democrat	USS	United States Senator	CLL	Collier			94	94	Penelas	Alex		1071
+8/31/2004	DEM	Democrat	USS	United States Senator	CLM	Columbia			25	25	Penelas	Alex		722
+8/31/2004	DEM	Democrat	USS	United States Senator	DES	Desoto			17	17	Penelas	Alex		213
+8/31/2004	DEM	Democrat	USS	United States Senator	DIX	Dixie			11	11	Penelas	Alex		305
+8/31/2004	DEM	Democrat	USS	United States Senator	DUV	Duval			285	285	Penelas	Alex		3600
+8/31/2004	DEM	Democrat	USS	United States Senator	ESC	Escambia			91	91	Penelas	Alex		1594
+8/31/2004	DEM	Democrat	USS	United States Senator	FLA	Flagler			34	34	Penelas	Alex		580
+8/31/2004	DEM	Democrat	USS	United States Senator	FRA	Franklin			10	10	Penelas	Alex		450
+8/31/2004	DEM	Democrat	USS	United States Senator	GAD	Gadsden			26	26	Penelas	Alex		706
+8/31/2004	DEM	Democrat	USS	United States Senator	GIL	Gilchrist			12	12	Penelas	Alex		211
+8/31/2004	DEM	Democrat	USS	United States Senator	GLA	Glades			13	13	Penelas	Alex		232
+8/31/2004	DEM	Democrat	USS	United States Senator	GUL	Gulf			16	16	Penelas	Alex		205
+8/31/2004	DEM	Democrat	USS	United States Senator	HAM	Hamilton			10	10	Penelas	Alex		303
+8/31/2004	DEM	Democrat	USS	United States Senator	HAR	Hardee			12	12	Penelas	Alex		190
+8/31/2004	DEM	Democrat	USS	United States Senator	HEN	Hendry			26	26	Penelas	Alex		339
+8/31/2004	DEM	Democrat	USS	United States Senator	HER	Hernando			56	56	Penelas	Alex		1097
+8/31/2004	DEM	Democrat	USS	United States Senator	HIG	Highlands			27	27	Penelas	Alex		436
+8/31/2004	DEM	Democrat	USS	United States Senator	HIL	Hillsborough			360	360	Penelas	Alex		4758
+8/31/2004	DEM	Democrat	USS	United States Senator	HOL	Holmes			18	18	Penelas	Alex		398
+8/31/2004	DEM	Democrat	USS	United States Senator	IND	Indian River			57	57	Penelas	Alex		723
+8/31/2004	DEM	Democrat	USS	United States Senator	JAC	Jackson			28	28	Penelas	Alex		495
+8/31/2004	DEM	Democrat	USS	United States Senator	JEF	Jefferson			15	15	Penelas	Alex		216
+8/31/2004	DEM	Democrat	USS	United States Senator	LAF	Lafayette			6	6	Penelas	Alex		221
+8/31/2004	DEM	Democrat	USS	United States Senator	LAK	Lake			102	102	Penelas	Alex		1162
+8/31/2004	DEM	Democrat	USS	United States Senator	LEE	Lee			175	175	Penelas	Alex		1484
+8/31/2004	DEM	Democrat	USS	United States Senator	LEO	Leon			115	115	Penelas	Alex		2850
+8/31/2004	DEM	Democrat	USS	United States Senator	LEV	Levy			20	20	Penelas	Alex		488
+8/31/2004	DEM	Democrat	USS	United States Senator	LIB	Liberty			10	10	Penelas	Alex		167
+8/31/2004	DEM	Democrat	USS	United States Senator	MAD	Madison			11	11	Penelas	Alex		330
+8/31/2004	DEM	Democrat	USS	United States Senator	MAN	Manatee			136	136	Penelas	Alex		1235
+8/31/2004	DEM	Democrat	USS	United States Senator	MRN	Marion			143	143	Penelas	Alex		1467
+8/31/2004	DEM	Democrat	USS	United States Senator	MRT	Martin			51	51	Penelas	Alex		779
+8/31/2004	DEM	Democrat	USS	United States Senator	DAD	Miami-Dade			820	820	Penelas	Alex		28136
+8/31/2004	DEM	Democrat	USS	United States Senator	MON	Monroe			33	33	Penelas	Alex		1026
+8/31/2004	DEM	Democrat	USS	United States Senator	NAS	Nassau			24	24	Penelas	Alex		403
+8/31/2004	DEM	Democrat	USS	United States Senator	OKA	Okaloosa			52	52	Penelas	Alex		480
+8/31/2004	DEM	Democrat	USS	United States Senator	OKE	Okeechobee			18	18	Penelas	Alex		423
+8/31/2004	DEM	Democrat	USS	United States Senator	ORA	Orange			272	272	Penelas	Alex		5837
+8/31/2004	DEM	Democrat	USS	United States Senator	OSC	Osceola			95	95	Penelas	Alex		1846
+8/31/2004	DEM	Democrat	USS	United States Senator	PAL	Palm Beach			695	695	Penelas	Alex		7095
+8/31/2004	DEM	Democrat	USS	United States Senator	PAS	Pasco			157	157	Penelas	Alex		1704
+8/31/2004	DEM	Democrat	USS	United States Senator	PIN	Pinellas			379	379	Penelas	Alex		4163
+8/31/2004	DEM	Democrat	USS	United States Senator	POL	Polk			161	161	Penelas	Alex		2670
+8/31/2004	DEM	Democrat	USS	United States Senator	PUT	Putnam			55	55	Penelas	Alex		940
+8/31/2004	DEM	Democrat	USS	United States Senator	SAN	Santa Rosa			43	43	Penelas	Alex		610
+8/31/2004	DEM	Democrat	USS	United States Senator	SAR	Sarasota			156	156	Penelas	Alex		1424
+8/31/2004	DEM	Democrat	USS	United States Senator	SEM	Seminole			126	126	Penelas	Alex		1796
+8/31/2004	DEM	Democrat	USS	United States Senator	STJ	St. Johns			68	68	Penelas	Alex		711
+8/31/2004	DEM	Democrat	USS	United States Senator	STL	St. Lucie			75	75	Penelas	Alex		1461
+8/31/2004	DEM	Democrat	USS	United States Senator	SUM	Sumter			42	42	Penelas	Alex		667
+8/31/2004	DEM	Democrat	USS	United States Senator	SUW	Suwannee			19	19	Penelas	Alex		520
+8/31/2004	DEM	Democrat	USS	United States Senator	TAY	Taylor			14	14	Penelas	Alex		216
+8/31/2004	DEM	Democrat	USS	United States Senator	UNI	Union			11	11	Penelas	Alex		204
+8/31/2004	DEM	Democrat	USS	United States Senator	VOL	Volusia			179	179	Penelas	Alex		2144
+8/31/2004	DEM	Democrat	USS	United States Senator	WAK	Wakulla			12	12	Penelas	Alex		427
+8/31/2004	DEM	Democrat	USS	United States Senator	WAL	Walton			32	32	Penelas	Alex		308
+8/31/2004	DEM	Democrat	USS	United States Senator	WAS	Washington			21	21	Penelas	Alex		307
+8/31/2004	DEM	Democrat	USR	United States Representative	ALA	Alachua	003		17	17	Brown	Corrine		4979
+8/31/2004	DEM	Democrat	USR	United States Representative	CLA	Clay	003		10	10	Brown	Corrine		639
+8/31/2004	DEM	Democrat	USR	United States Representative	DUV	Duval	003		126	126	Brown	Corrine		24385
+8/31/2004	DEM	Democrat	USR	United States Representative	LAK	Lake	003		12	12	Brown	Corrine		676
+8/31/2004	DEM	Democrat	USR	United States Representative	MRN	Marion	003		10	10	Brown	Corrine		386
+8/31/2004	DEM	Democrat	USR	United States Representative	ORA	Orange	003		74	74	Brown	Corrine		10706
+8/31/2004	DEM	Democrat	USR	United States Representative	PUT	Putnam	003		33	33	Brown	Corrine		2714
+8/31/2004	DEM	Democrat	USR	United States Representative	SEM	Seminole	003		12	12	Brown	Corrine		1161
+8/31/2004	DEM	Democrat	USR	United States Representative	VOL	Volusia	003		13	13	Brown	Corrine		639
+8/31/2004	DEM	Democrat	USR	United States Representative	ALA	Alachua	003		17	17	Brown	Prince		868
+8/31/2004	DEM	Democrat	USR	United States Representative	CLA	Clay	003		10	10	Brown	Prince		420
+8/31/2004	DEM	Democrat	USR	United States Representative	DUV	Duval	003		126	126	Brown	Prince		3462
+8/31/2004	DEM	Democrat	USR	United States Representative	LAK	Lake	003		12	12	Brown	Prince		284
+8/31/2004	DEM	Democrat	USR	United States Representative	MRN	Marion	003		10	10	Brown	Prince		166
+8/31/2004	DEM	Democrat	USR	United States Representative	ORA	Orange	003		74	74	Brown	Prince		1967
+8/31/2004	DEM	Democrat	USR	United States Representative	PUT	Putnam	003		33	33	Brown	Prince		3107
+8/31/2004	DEM	Democrat	USR	United States Representative	SEM	Seminole	003		12	12	Brown	Prince		222
+8/31/2004	DEM	Democrat	USR	United States Representative	VOL	Volusia	003		13	13	Brown	Prince		143
+8/31/2004	DEM	Democrat	USR	United States Representative	CIT	Citrus	005		41	41	Moore	Brian		1925
+8/31/2004	DEM	Democrat	USR	United States Representative	HER	Hernando	005		56	56	Moore	Brian		2117
+8/31/2004	DEM	Democrat	USR	United States Representative	LAK	Lake	005		36	36	Moore	Brian		1447
+8/31/2004	DEM	Democrat	USR	United States Representative	LEV	Levy	005		16	16	Moore	Brian		915
+8/31/2004	DEM	Democrat	USR	United States Representative	MRN	Marion	005		13	13	Moore	Brian		210
+8/31/2004	DEM	Democrat	USR	United States Representative	PAS	Pasco	005		86	86	Moore	Brian		2020
+8/31/2004	DEM	Democrat	USR	United States Representative	POL	Polk	005		14	14	Moore	Brian		655
+8/31/2004	DEM	Democrat	USR	United States Representative	SUM	Sumter	005		42	42	Moore	Brian		2243
+8/31/2004	DEM	Democrat	USR	United States Representative	CIT	Citrus	005		41	41	Penberthy	Rick		2443
+8/31/2004	DEM	Democrat	USR	United States Representative	HER	Hernando	005		56	56	Penberthy	Rick		2480
+8/31/2004	DEM	Democrat	USR	United States Representative	LAK	Lake	005		36	36	Penberthy	Rick		669
+8/31/2004	DEM	Democrat	USR	United States Representative	LEV	Levy	005		16	16	Penberthy	Rick		416
+8/31/2004	DEM	Democrat	USR	United States Representative	MRN	Marion	005		13	13	Penberthy	Rick		231
+8/31/2004	DEM	Democrat	USR	United States Representative	PAS	Pasco	005		86	86	Penberthy	Rick		2344
+8/31/2004	DEM	Democrat	USR	United States Representative	POL	Polk	005		14	14	Penberthy	Rick		555
+8/31/2004	DEM	Democrat	USR	United States Representative	SUM	Sumter	005		42	42	Penberthy	Rick		1073
+8/31/2004	DEM	Democrat	USR	United States Representative	CIT	Citrus	005		41	41	Russell	John		2109
+8/31/2004	DEM	Democrat	USR	United States Representative	HER	Hernando	005		56	56	Russell	John		3722
+8/31/2004	DEM	Democrat	USR	United States Representative	LAK	Lake	005		36	36	Russell	John		1007
+8/31/2004	DEM	Democrat	USR	United States Representative	LEV	Levy	005		16	16	Russell	John		856
+8/31/2004	DEM	Democrat	USR	United States Representative	MRN	Marion	005		13	13	Russell	John		244
+8/31/2004	DEM	Democrat	USR	United States Representative	PAS	Pasco	005		86	86	Russell	John		2383
+8/31/2004	DEM	Democrat	USR	United States Representative	POL	Polk	005		14	14	Russell	John		945
+8/31/2004	DEM	Democrat	USR	United States Representative	SUM	Sumter	005		42	42	Russell	John		2122
+8/31/2004	DEM	Democrat	USR	United States Representative	CIT	Citrus	005		41	41	Whittel	Robert	G.	3487
+8/31/2004	DEM	Democrat	USR	United States Representative	HER	Hernando	005		56	56	Whittel	Robert	G.	3552
+8/31/2004	DEM	Democrat	USR	United States Representative	LAK	Lake	005		36	36	Whittel	Robert	G.	1727
+8/31/2004	DEM	Democrat	USR	United States Representative	LEV	Levy	005		16	16	Whittel	Robert	G.	1897
+8/31/2004	DEM	Democrat	USR	United States Representative	MRN	Marion	005		13	13	Whittel	Robert	G.	349
+8/31/2004	DEM	Democrat	USR	United States Representative	PAS	Pasco	005		86	86	Whittel	Robert	G.	2654
+8/31/2004	DEM	Democrat	USR	United States Representative	POL	Polk	005		14	14	Whittel	Robert	G.	1086
+8/31/2004	DEM	Democrat	USR	United States Representative	SUM	Sumter	005		42	42	Whittel	Robert	G.	1186
+8/31/2004	DEM	Democrat	USR	United States Representative	HIL	Hillsborough	012		76	76	Hagenmaier	Bob		8032
+8/31/2004	DEM	Democrat	USR	United States Representative	OSC	Osceola	012		5	5	Hagenmaier	Bob		351
+8/31/2004	DEM	Democrat	USR	United States Representative	POL	Polk	012		142	142	Hagenmaier	Bob		12661
+8/31/2004	DEM	Democrat	USR	United States Representative	HIL	Hillsborough	012		76	76	Siemer	Jeff		3816
+8/31/2004	DEM	Democrat	USR	United States Representative	OSC	Osceola	012		5	5	Siemer	Jeff		275
+8/31/2004	DEM	Democrat	USR	United States Representative	POL	Polk	012		142	142	Siemer	Jeff		11690
+8/31/2004	DEM	Democrat	USR	United States Representative	CHA	Charlotte	013		11	11	Czaia	C.J.		80
+8/31/2004	DEM	Democrat	USR	United States Representative	DES	Desoto	013		17	17	Czaia	C.J.		452
+8/31/2004	DEM	Democrat	USR	United States Representative	HAR	Hardee	013		12	12	Czaia	C.J.		316
+8/31/2004	DEM	Democrat	USR	United States Representative	MAN	Manatee	013		134	134	Czaia	C.J.		1863
+8/31/2004	DEM	Democrat	USR	United States Representative	SAR	Sarasota	013		156	156	Czaia	C.J.		1169
+8/31/2004	DEM	Democrat	USR	United States Representative	CHA	Charlotte	013		11	11	Jennings	Christine		356
+8/31/2004	DEM	Democrat	USR	United States Representative	DES	Desoto	013		17	17	Jennings	Christine		1173
+8/31/2004	DEM	Democrat	USR	United States Representative	HAR	Hardee	013		12	12	Jennings	Christine		1085
+8/31/2004	DEM	Democrat	USR	United States Representative	MAN	Manatee	013		134	134	Jennings	Christine		6414
+8/31/2004	DEM	Democrat	USR	United States Representative	SAR	Sarasota	013		156	156	Jennings	Christine		7553
+8/31/2004	DEM	Democrat	USR	United States Representative	CHA	Charlotte	013		11	11	Schneider	Jan		596
+8/31/2004	DEM	Democrat	USR	United States Representative	DES	Desoto	013		17	17	Schneider	Jan		778
+8/31/2004	DEM	Democrat	USR	United States Representative	HAR	Hardee	013		12	12	Schneider	Jan		673
+8/31/2004	DEM	Democrat	USR	United States Representative	MAN	Manatee	013		134	134	Schneider	Jan		6643
+8/31/2004	DEM	Democrat	USR	United States Representative	SAR	Sarasota	013		156	156	Schneider	Jan		11883
+8/31/2004	DEM	Democrat	USR	United States Representative	CHA	Charlotte	013		11	11	Winters	Floyd	Jay	93
+8/31/2004	DEM	Democrat	USR	United States Representative	DES	Desoto	013		17	17	Winters	Floyd	Jay	373
+8/31/2004	DEM	Democrat	USR	United States Representative	HAR	Hardee	013		12	12	Winters	Floyd	Jay	310
+8/31/2004	DEM	Democrat	USR	United States Representative	MAN	Manatee	013		134	134	Winters	Floyd	Jay	1284
+8/31/2004	DEM	Democrat	USR	United States Representative	SAR	Sarasota	013		156	156	Winters	Floyd	Jay	906
+8/31/2004	DEM	Democrat	USR	United States Representative	DAD	Miami-Dade	018		253	253	Patlak	David	Y.	10353
+8/31/2004	DEM	Democrat	USR	United States Representative	MON	Monroe	018		33	33	Patlak	David	Y.	2238
+8/31/2004	DEM	Democrat	USR	United States Representative	DAD	Miami-Dade	018		253	253	Sheldon	Sam		9222
+8/31/2004	DEM	Democrat	USR	United States Representative	MON	Monroe	018		33	33	Sheldon	Sam		3647
+8/31/2004	DEM	Democrat	USR	United States Representative	BRO	Broward	023		204	204	Clayborne	Keith	A.	8663
+8/31/2004	DEM	Democrat	USR	United States Representative	HEN	Hendry	023		10	10	Clayborne	Keith	A.	188
+8/31/2004	DEM	Democrat	USR	United States Representative	MRT	Martin	023		4	4	Clayborne	Keith	A.	85
+8/31/2004	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	023		145	145	Clayborne	Keith	A.	6819
+8/31/2004	DEM	Democrat	USR	United States Representative	STL	St. Lucie	023		13	13	Clayborne	Keith	A.	1351
+8/31/2004	DEM	Democrat	USR	United States Representative	BRO	Broward	023		204	204	Hastings	Alcee	L.	26932
+8/31/2004	DEM	Democrat	USR	United States Representative	HEN	Hendry	023		10	10	Hastings	Alcee	L.	744
+8/31/2004	DEM	Democrat	USR	United States Representative	MRT	Martin	023		4	4	Hastings	Alcee	L.	177
+8/31/2004	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	023		145	145	Hastings	Alcee	L.	18204
+8/31/2004	DEM	Democrat	USR	United States Representative	STL	St. Lucie	023		13	13	Hastings	Alcee	L.	3227
+8/31/2004	DEM	Democrat	PUB	Public Defender	ALA	Alachua	008		69	69	Galigani	Dean		12134
+8/31/2004	DEM	Democrat	PUB	Public Defender	BAK	Baker	008		9	9	Galigani	Dean		2325
+8/31/2004	DEM	Democrat	PUB	Public Defender	BRA	Bradford	008		22	22	Galigani	Dean		2335
+8/31/2004	DEM	Democrat	PUB	Public Defender	GIL	Gilchrist	008		12	12	Galigani	Dean		1909
+8/31/2004	DEM	Democrat	PUB	Public Defender	LEV	Levy	008		20	20	Galigani	Dean		3559
+8/31/2004	DEM	Democrat	PUB	Public Defender	UNI	Union	008		11	11	Galigani	Dean		1245
+8/31/2004	DEM	Democrat	PUB	Public Defender	ALA	Alachua	008		69	69	Parker	Rick		21163
+8/31/2004	DEM	Democrat	PUB	Public Defender	BAK	Baker	008		9	9	Parker	Rick		2840
+8/31/2004	DEM	Democrat	PUB	Public Defender	BRA	Bradford	008		22	22	Parker	Rick		3149
+8/31/2004	DEM	Democrat	PUB	Public Defender	GIL	Gilchrist	008		12	12	Parker	Rick		1862
+8/31/2004	DEM	Democrat	PUB	Public Defender	LEV	Levy	008		20	20	Parker	Rick		4113
+8/31/2004	DEM	Democrat	PUB	Public Defender	UNI	Union	008		11	11	Parker	Rick		1643
+8/31/2004	DEM	Democrat	STS	State Senator	ORA	Orange	019		115	115	Siplin	Gary		10820
+8/31/2004	DEM	Democrat	STS	State Senator	OSC	Osceola	019		22	22	Siplin	Gary		1212
+8/31/2004	DEM	Democrat	STS	State Senator	ORA	Orange	019		115	115	Thompson	Geraldine	F.	7323
+8/31/2004	DEM	Democrat	STS	State Senator	OSC	Osceola	019		22	22	Thompson	Geraldine	F.	857
+8/31/2004	DEM	Democrat	STS	State Senator	CLL	Collier	039		9	9	Bullard	Larcenia	J	73
+8/31/2004	DEM	Democrat	STS	State Senator	HEN	Hendry	039		26	26	Bullard	Larcenia	J	993
+8/31/2004	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	039		113	113	Bullard	Larcenia	J	11393
+8/31/2004	DEM	Democrat	STS	State Senator	MON	Monroe	039		33	33	Bullard	Larcenia	J	553
+8/31/2004	DEM	Democrat	STS	State Senator	PAL	Palm Beach	039		14	14	Bullard	Larcenia	J	807
+8/31/2004	DEM	Democrat	STS	State Senator	CLL	Collier	039		9	9	Chamberlain	Sheila	L.	72
+8/31/2004	DEM	Democrat	STS	State Senator	HEN	Hendry	039		26	26	Chamberlain	Sheila	L.	566
+8/31/2004	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	039		113	113	Chamberlain	Sheila	L.	2644
+8/31/2004	DEM	Democrat	STS	State Senator	MON	Monroe	039		33	33	Chamberlain	Sheila	L.	911
+8/31/2004	DEM	Democrat	STS	State Senator	PAL	Palm Beach	039		14	14	Chamberlain	Sheila	L.	339
+8/31/2004	DEM	Democrat	STS	State Senator	CLL	Collier	039		9	9	Saunders	Ron		154
+8/31/2004	DEM	Democrat	STS	State Senator	HEN	Hendry	039		26	26	Saunders	Ron		1329
+8/31/2004	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	039		113	113	Saunders	Ron		4034
+8/31/2004	DEM	Democrat	STS	State Senator	MON	Monroe	039		33	33	Saunders	Ron		5702
+8/31/2004	DEM	Democrat	STS	State Senator	PAL	Palm Beach	039		14	14	Saunders	Ron		808
+8/31/2004	DEM	Democrat	STR	State Representative	GAD	Gadsden	008		25	25	Adams	DeLane		1523
+8/31/2004	DEM	Democrat	STR	State Representative	LEO	Leon	008		46	46	Adams	DeLane		2033
+8/31/2004	DEM	Democrat	STR	State Representative	GAD	Gadsden	008		25	25	Richardson	Curtis		9223
+8/31/2004	DEM	Democrat	STR	State Representative	LEO	Leon	008		46	46	Richardson	Curtis		9549
+8/31/2004	DEM	Democrat	STR	State Representative	ORA	Orange	036		61	61	Berger	Marni	F.	3004
+8/31/2004	DEM	Democrat	STR	State Representative	ORA	Orange	036		61	61	McInvale	Sheri		3054
+8/31/2004	DEM	Democrat	STR	State Representative	ORA	Orange	039		49	49	Antone	Bruce		4785
+8/31/2004	DEM	Democrat	STR	State Representative	ORA	Orange	039		49	49	Moore	Tiffany		3618
+8/31/2004	DEM	Democrat	STR	State Representative	ORA	Orange	039		49	49	Seide	Fritz	Jackson	832
+8/31/2004	DEM	Democrat	STR	State Representative	ORA	Orange	049		48	48	Bruno	Juan	R	795
+8/31/2004	DEM	Democrat	STR	State Representative	OSC	Osceola	049		16	16	Bruno	Juan	R	416
+8/31/2004	DEM	Democrat	STR	State Representative	ORA	Orange	049		48	48	Mercado	Israel		1239
+8/31/2004	DEM	Democrat	STR	State Representative	OSC	Osceola	049		16	16	Mercado	Israel		869
+8/31/2004	DEM	Democrat	STR	State Representative	ORA	Orange	049		48	48	Raia	Ruth	Ann 'Lou'	1052
+8/31/2004	DEM	Democrat	STR	State Representative	OSC	Osceola	049		16	16	Raia	Ruth	Ann 'Lou'	421
+8/31/2004	DEM	Democrat	STR	State Representative	HIL	Hillsborough	060		53	53	Penoyer	Dave		2780
+8/31/2004	DEM	Democrat	STR	State Representative	HIL	Hillsborough	060		53	53	Perez	Karen		5127
+8/31/2004	DEM	Democrat	STR	State Representative	PAL	Palm Beach	084		86	86	Harris	Richard		2445
+8/31/2004	DEM	Democrat	STR	State Representative	PAL	Palm Beach	084		86	86	Mann	Cartheda	Taylor	4468
+8/31/2004	DEM	Democrat	STR	State Representative	PAL	Palm Beach	084		86	86	Taylor	Priscilla	Ann	5536
+8/31/2004	DEM	Democrat	STR	State Representative	BRO	Broward	087		9	9	Sansonia	Caravita	'Cara'	283
+8/31/2004	DEM	Democrat	STR	State Representative	PAL	Palm Beach	087		86	86	Sansonia	Caravita	'Cara'	2109
+8/31/2004	DEM	Democrat	STR	State Representative	BRO	Broward	087		9	9	West	Doug		390
+8/31/2004	DEM	Democrat	STR	State Representative	PAL	Palm Beach	087		86	86	West	Doug		3676
+8/31/2004	DEM	Democrat	STR	State Representative	PAL	Palm Beach	088		74	74	Bucher	Susan		7818
+8/31/2004	DEM	Democrat	STR	State Representative	PAL	Palm Beach	088		74	74	Silver	Joel		4249
+8/31/2004	DEM	Democrat	STR	State Representative	PAL	Palm Beach	089		75	75	Brandenburg	Mary		8960
+8/31/2004	DEM	Democrat	STR	State Representative	PAL	Palm Beach	089		75	75	Laun	Elna		2610
+8/31/2004	DEM	Democrat	STR	State Representative	BRO	Broward	093		95	95	Smith	Christopher	(Chris)	8840
+8/31/2004	DEM	Democrat	STR	State Representative	BRO	Broward	093		95	95	Tillman-Watson	Sallie		2292
+8/31/2004	DEM	Democrat	STR	State Representative	BRO	Broward	094		61	61	Hammond	Eric		5359
+8/31/2004	DEM	Democrat	STR	State Representative	BRO	Broward	094		61	61	Meadows	Matthew	'Matt'	5922
+8/31/2004	DEM	Democrat	STR	State Representative	BRO	Broward	096		65	65	Porth	Ari	Abraham	6073
+8/31/2004	DEM	Democrat	STR	State Representative	BRO	Broward	096		65	65	Weissman	Mark		4861
+8/31/2004	DEM	Democrat	STR	State Representative	BRO	Broward	097		88	88	Herrera-Hill	Barbara		4432
+8/31/2004	DEM	Democrat	STR	State Representative	BRO	Broward	097		88	88	Kiar	Martin	David	3948
+8/31/2004	DEM	Democrat	STR	State Representative	BRO	Broward	103		14	14	Cook	Joseph	'Joe'	486
+8/31/2004	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	103		41	41	Cook	Joseph	'Joe'	3139
+8/31/2004	DEM	Democrat	STR	State Representative	BRO	Broward	103		14	14	Holloway	Wilbert	'Tee'	756
+8/31/2004	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	103		41	41	Holloway	Wilbert	'Tee'	10421
+8/31/2004	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		67	67	Bendross-Mindingall	Dorothy		8056
+8/31/2004	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		67	67	Cooper Jr.	Johnnie	Edward	1802
+8/31/2004	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		67	67	Hardemon	Roy		1505
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	010	41	41	Tatti	Anthony	M.	5242
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	010	56	56	Tatti	Anthony	M.	7669
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	010	102	102	Tatti	Anthony	M.	7771
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	010	143	143	Tatti	Anthony	M.	11509
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	010	42	42	Tatti	Anthony	M.	4349
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	010	41	41	Spivey	Stephen	D.	9843
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	010	56	56	Spivey	Stephen	D.	10985
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	010	102	102	Spivey	Stephen	D.	20797
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	010	143	143	Spivey	Stephen	D.	22003
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	010	42	42	Spivey	Stephen	D.	7947
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	010	41	41	Takac	Michael	G.	7956
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	010	56	56	Takac	Michael	G.	7666
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	010	102	102	Takac	Michael	G.	11816
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	010	143	143	Takac	Michael	G.	16338
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	010	42	42	Takac	Michael	G.	4160
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	024	41	41	Wynn	Scott		9684
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	024	56	56	Wynn	Scott		12685
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	024	102	102	Wynn	Scott		20495
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	024	143	143	Wynn	Scott		19783
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	024	42	42	Wynn	Scott		9161
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	024	41	41	Pope	Willard		12812
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	024	56	56	Pope	Willard		13332
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	024	102	102	Pope	Willard		20643
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	024	143	143	Pope	Willard		28397
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	024	42	42	Pope	Willard		7731
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	018	167	167	Govan	Jan		17020
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	018	378	378	Govan	Jan		39950
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	018	167	167	Greer	George	W.	28930
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	018	378	378	Greer	George	W.	77089
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	022	167	167	Newton	Cynthia		16304
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	022	378	378	Newton	Cynthia		34952
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	022	167	167	Schafer Jr.	Walter	L. 'Skip'	10296
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	022	378	378	Schafer Jr.	Walter	L. 'Skip'	23079
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	022	167	167	Day	Jack		8787
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	022	378	378	Day	Jack		30974
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	022	167	167	Vinson	Bill		5526
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	022	378	378	Vinson	Bill		14478
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	022	167	167	Berry Sr.	Michael	C.	5342
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	022	378	378	Berry Sr.	Michael	C.	10986
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	ALA	Alachua	008	009	69	69	Baxter	Harvey		12227
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	BAK	Baker	008	009	9	9	Baxter	Harvey		1874
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	BRA	Bradford	008	009	22	22	Baxter	Harvey		802
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	GIL	Gilchrist	008	009	12	12	Baxter	Harvey		1088
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	LEV	Levy	008	009	20	20	Baxter	Harvey		1907
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	UNI	Union	008	009	11	11	Baxter	Harvey		679
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	ALA	Alachua	008	009	69	69	Sikes	Dan		2972
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	BAK	Baker	008	009	9	9	Sikes	Dan		1190
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	BRA	Bradford	008	009	22	22	Sikes	Dan		2411
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	GIL	Gilchrist	008	009	12	12	Sikes	Dan		633
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	LEV	Levy	008	009	20	20	Sikes	Dan		1382
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	UNI	Union	008	009	11	11	Sikes	Dan		588
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	ALA	Alachua	008	009	69	69	Moseley	Mark		8535
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	BAK	Baker	008	009	9	9	Moseley	Mark		2037
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	BRA	Bradford	008	009	22	22	Moseley	Mark		2173
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	GIL	Gilchrist	008	009	12	12	Moseley	Mark		1773
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	LEV	Levy	008	009	20	20	Moseley	Mark		3375
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	UNI	Union	008	009	11	11	Moseley	Mark		1571
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	ALA	Alachua	008	009	69	69	Hall	Craig		9221
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	BAK	Baker	008	009	9	9	Hall	Craig		406
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	BRA	Bradford	008	009	22	22	Hall	Craig		421
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	GIL	Gilchrist	008	009	12	12	Hall	Craig		400
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	LEV	Levy	008	009	20	20	Hall	Craig		1271
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	UNI	Union	008	009	11	11	Hall	Craig		207
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	003	969	969	Pooler	Teresa	M.	99417
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	003	969	969	Schlesinger	John		132176
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	032	969	969	Areces	Barbara		138258
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	032	969	969	Levy	D.	Bruce	100415
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	040	969	969	Thomas	William	L.	66421
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	040	969	969	Velis	Josie	M.	51284
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	040	969	969	Parks	Catherine	B.	66406
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	040	969	969	Cohn	Don	S.	37937
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	045	969	969	Adrien	Peter		116149
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	045	969	969	Harnage	Henry	H.	87591
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	DES	Desoto	012	002	17	17	Moreland	Diana		953
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	MAN	Manatee	012	002	136	136	Moreland	Diana		20747
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	SAR	Sarasota	012	002	156	156	Moreland	Diana		22394
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	DES	Desoto	012	002	17	17	Salomone	William	G.	418
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	MAN	Manatee	012	002	136	136	Salomone	William	G.	3359
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	SAR	Sarasota	012	002	156	156	Salomone	William	G.	4671
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	DES	Desoto	012	002	17	17	Chapman	Susan		1216
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	MAN	Manatee	012	002	136	136	Chapman	Susan		12831
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	SAR	Sarasota	012	002	156	156	Chapman	Susan		17393
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	DES	Desoto	012	002	17	17	Mosca	Michael		774
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	MAN	Manatee	012	002	136	136	Mosca	Michael		6273
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	SAR	Sarasota	012	002	156	156	Mosca	Michael		9240
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	017	360	360	Reineke	Beth	Gilmore	49988
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	017	360	360	Bergmann	Charles 'Ed'		68711
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	004	693	693	Colin	Martin	H.	79983
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	004	693	693	Arnold	Robert		67512
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	013	925	925	Tieman-Bristol	Hope		86792
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	013	925	925	Schwartzreich	Mila	K.	75153
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	051	925	925	Malove	Robert	David	74627
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	051	925	925	Aleman	Cheryl	J.	83850
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	001	55	55	McCann	Jim		13658
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	001	51	51	McCann	Jim		15966
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	001	18	18	McCann	Jim		4037
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	001	75	75	McCann	Jim		17213
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	001	55	55	Belanger	Robert		9331
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	001	51	51	Belanger	Robert		12247
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	001	18	18	Belanger	Robert		1923
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	001	75	75	Belanger	Robert		12607
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	002	55	55	Harpring	Jim		8391
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	002	51	51	Harpring	Jim		2923
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	002	18	18	Harpring	Jim		545
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	002	75	75	Harpring	Jim		4281
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	002	55	55	Sweet	Gary	L.	3284
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	002	51	51	Sweet	Gary	L.	12814
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	002	18	18	Sweet	Gary	L.	2078
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	002	75	75	Sweet	Gary	L.	9399
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	002	55	55	Pegg	Bob		9087
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	002	51	51	Pegg	Bob		4378
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	002	18	18	Pegg	Bob		1617
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	002	75	75	Pegg	Bob		5279
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	002	55	55	Moore	Albert	Burton	1694
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	002	51	51	Moore	Albert	Burton	2169
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	002	18	18	Moore	Albert	Burton	691
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	002	75	75	Moore	Albert	Burton	5761
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	002	55	55	Steele	Darren		1829
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	002	51	51	Steele	Darren		6009
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	002	18	18	Steele	Darren		1128
+8/31/2004	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	002	75	75	Steele	Darren		5226

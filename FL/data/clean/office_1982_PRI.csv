@@ -1,0 +1,17 @@
+"election_id","office_id","district","office_local","office","seat","n_winners","selection_method","retention_method","open_seat","contested","runoff","special"
+"FL_1982-09-07_PRI-D","AG_FL_000","FL","Attorney General","AG","000",1,"PE",NA,NA,1,0,0
+"FL_1982-09-07_PRI","TC2_2_1","2","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1982-09-07_PRI","TC2_4_1","4","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1982-09-07_PRI","TC2_5_3","5","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1982-09-07_PRI","TC2_6_7","6","Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_1982-09-07_PRI","TC2_9_2","9","Circuit Judge","TC2","2",2,"NPE",NA,NA,1,1,0
+"FL_1982-09-07_PRI","TC2_9_3","9","Circuit Judge","TC2","3",2,"NPE",NA,NA,1,1,0
+"FL_1982-09-07_PRI","TC2_11_5","11","Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_1982-09-07_PRI","TC2_11_6","11","Circuit Judge","TC2","6",1,"NPE",NA,NA,1,0,0
+"FL_1982-09-07_PRI","TC2_11_12","11","Circuit Judge","TC2","12",1,"NPE",NA,NA,1,0,0
+"FL_1982-09-07_PRI","TC2_11_18","11","Circuit Judge","TC2","18",1,"NPE",NA,NA,1,0,0
+"FL_1982-09-07_PRI","TC2_12_2","12","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_1982-09-07_PRI","TC2_16_1","16","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1982-09-07_PRI","TC2_17_9","17","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_1982-09-07_PRI","TC2_18_1","18","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1982-09-07_PRI","TC2_18_3","18","Circuit Judge","TC2","3",2,"NPE",NA,NA,1,1,0

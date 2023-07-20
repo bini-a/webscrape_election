@@ -1,0 +1,63 @@
+"election_id","office_id","candidate_id","candidate","party","votes","vote_share","winner"
+"FL_1992-09-01_PRI","TC2_11_10",NA,"Arthur Taylor","NON",60717,0.552,1
+"FL_1992-09-01_PRI","TC2_11_10",NA,"Michael Chavies","NON",49243,0.448,0
+"FL_1992-09-01_PRI","TC2_11_21",NA,"Edward Brian","NON",22461,0.206,0
+"FL_1992-09-01_PRI","TC2_11_21",NA,"Jack Coe","NON",31354,0.288,0
+"FL_1992-09-01_PRI","TC2_11_21",NA,"Judy Kreeger","NON",55236,0.507,1
+"FL_1992-09-01_PRI","TC2_11_28",NA,"Jennifer Bailey","NON",44572,0.408,1
+"FL_1992-09-01_PRI","TC2_11_28",NA,"Marcus Ambrose","NON",25151,0.23,0
+"FL_1992-09-01_PRI","TC2_11_28",NA,"Phillip Knight","NON",39573,0.362,1
+"FL_1992-09-01_PRI","TC2_11_40",NA,"Barbara Levenson","NON",58650,0.508,1
+"FL_1992-09-01_PRI","TC2_11_40",NA,"Ira Dubitsky","NON",18205,0.158,0
+"FL_1992-09-01_PRI","TC2_11_40",NA,"Joseph Nadler","NON",38527,0.334,0
+"FL_1992-09-01_PRI","TC2_11_41",NA,"Gerald Hubbart","NON",52748,0.506,1
+"FL_1992-09-01_PRI","TC2_11_41",NA,"Robert Weiner","NON",51518,0.494,0
+"FL_1992-09-01_PRI","TC2_11_43",NA,"Alan Gold","NON",59358,0.49,0
+"FL_1992-09-01_PRI","TC2_11_43",NA,"Leslie Rothenberg","NON",61698,0.51,1
+"FL_1992-09-01_PRI","TC2_11_52",NA,"Gary Canner","NON",49286,0.477,0
+"FL_1992-09-01_PRI","TC2_11_52",NA,"Michael Genden","NON",54026,0.523,1
+"FL_1992-09-01_PRI","TC2_11_62",NA,"David Nevel","NON",36231,0.341,0
+"FL_1992-09-01_PRI","TC2_11_62",NA,"Paul Siegel","NON",69962,0.659,1
+"FL_1992-09-01_PRI","TC2_12_2",NA,"Harry Rapkin","NON",56445,0.531,1
+"FL_1992-09-01_PRI","TC2_12_2",NA,"Nancy Donnellan","NON",49849,0.469,0
+"FL_1992-09-01_PRI","TC2_15_24",NA,"John Wessel","NON",54103,0.602,1
+"FL_1992-09-01_PRI","TC2_15_24",NA,"Oliver Harris","NON",35799,0.398,0
+"FL_1992-09-01_PRI","TC2_15_7",NA,"Edward Fine","NON",64656,0.677,1
+"FL_1992-09-01_PRI","TC2_15_7",NA,"Randee Schatz","NON",30826,0.323,0
+"FL_1992-09-01_PRI","TC2_20_12",NA,"Jay Rosman","NON",67187,0.615,1
+"FL_1992-09-01_PRI","TC2_20_12",NA,"Robert Hagaman","NON",42041,0.385,0
+"FL_1992-09-01_PRI","TC2_3_1",NA,"James Bean","NON",15556,0.391,1
+"FL_1992-09-01_PRI","TC2_3_1",NA,"Paul Bryan","NON",14781,0.372,1
+"FL_1992-09-01_PRI","TC2_3_1",NA,"William Slaughter, II","NON",9421,0.237,0
+"FL_1992-09-01_PRI","TC2_4_26",NA,"Mack Crenshaw, Jr.","NON",75543,0.673,1
+"FL_1992-09-01_PRI","TC2_4_26",NA,"Roberto Arias","NON",36667,0.327,0
+"FL_1992-09-01_PRI","TC2_6_20",NA,"Bonnie Newton","NON",85913,0.492,1
+"FL_1992-09-01_PRI","TC2_6_20",NA,"Glenn Woodworth","NON",43153,0.247,0
+"FL_1992-09-01_PRI","TC2_6_20",NA,"James Berfield","NON",45412,0.26,1
+"FL_1992-09-01_PRI","TC2_6_23",NA,"Charles Cope","NON",56268,0.323,1
+"FL_1992-09-01_PRI","TC2_6_23",NA,"Nelly Khouzam","NON",70057,0.402,1
+"FL_1992-09-01_PRI","TC2_6_23",NA,"Raymond Conklin","NON",47915,0.275,0
+"FL_1992-09-01_PRI","TC2_6_29",NA,"Craig Villanti","NON",73425,0.419,1
+"FL_1992-09-01_PRI","TC2_6_29",NA,"Robert Jagger","NON",46222,0.264,0
+"FL_1992-09-01_PRI","TC2_6_29",NA,"Walt Logan","NON",55726,0.318,1
+"FL_1992-09-01_PRI","TC2_6_3",NA,"Larry Sandefer","NON",26969,0.153,0
+"FL_1992-09-01_PRI","TC2_6_3",NA,"Marsha Glisson","NON",85421,0.485,1
+"FL_1992-09-01_PRI","TC2_6_3",NA,"Tom McCoun","NON",38732,0.22,1
+"FL_1992-09-01_PRI","TC2_6_3",NA,"William Slicker","NON",24908,0.141,0
+"FL_1992-09-01_PRI-D","PD_13_000",NA,"Judge Luckey, Jr.","DEM",23423,0.381,0
+"FL_1992-09-01_PRI-D","PD_13_000",NA,"Julianne Holt","DEM",38004,0.619,1
+"FL_1992-09-01_PRI-D","SA_7_000",NA,"Greg Kimball","DEM",23703,0.413,0
+"FL_1992-09-01_PRI-D","SA_7_000",NA,"Ted Doran","DEM",33671,0.587,1
+"FL_1992-09-01_PRI-D","SA_8_000",NA,"George Schaefer","DEM",20359,0.42,0
+"FL_1992-09-01_PRI-D","SA_8_000",NA,"Rod Smith","DEM",28134,0.58,1
+"FL_1992-09-01_PRI-R","PD_19_000",NA,"Diamond Horne","REP",17548,0.402,1
+"FL_1992-09-01_PRI-R","PD_19_000",NA,"Elton Schwarz","REP",14226,0.326,1
+"FL_1992-09-01_PRI-R","PD_19_000",NA,"Philip Yacucci Jr.","REP",11922,0.273,0
+"FL_1992-09-01_PRI-R","SA_15_000",NA,"Douglas Fulton","REP",17053,0.476,0
+"FL_1992-09-01_PRI-R","SA_15_000",NA,"Phil Butler","REP",18761,0.524,1
+"FL_1992-09-01_PRI-R","SA_18_000",NA,"John Galluzzo","REP",18424,0.297,0
+"FL_1992-09-01_PRI-R","SA_18_000",NA,"Norm Wolfinger","REP",43663,0.703,1
+"FL_1992-09-01_PRI-R","SA_6_000",NA,"Bernie McCabe","REP",62246,0.641,1
+"FL_1992-09-01_PRI-R","SA_6_000",NA,"Larry Jacobs","REP",34905,0.359,0
+"FL_1992-09-01_PRI-R","SA_7_000",NA,"James Alexander","REP",20283,0.501,1
+"FL_1992-09-01_PRI-R","SA_7_000",NA,"John Tanner","REP",20226,0.499,0

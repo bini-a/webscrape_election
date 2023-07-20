@@ -1,0 +1,580 @@
+ElectionDate	PartyCode	PartyName	RaceCode	OfficeDesc	CountyCode	CountyName	Juris1num	Juris2num	Precincts	PrecinctsReporting	CanNameLast	CanNameFirst	CanNameMiddle	CanVotes
+9/4/1984	DEM	Democrat	USR	United States Representative	BAK	Baker	002		0	0	Fuqua	Don		3915
+9/4/1984	DEM	Democrat	USR	United States Representative	BAY	Bay	002		0	0	Fuqua	Don		1186
+9/4/1984	DEM	Democrat	USR	United States Representative	BRA	Bradford	002		0	0	Fuqua	Don		3673
+9/4/1984	DEM	Democrat	USR	United States Representative	CAL	Calhoun	002		0	0	Fuqua	Don		3391
+9/4/1984	DEM	Democrat	USR	United States Representative	CLA	Clay	002		0	0	Fuqua	Don		1414
+9/4/1984	DEM	Democrat	USR	United States Representative	CLM	Columbia	002		0	0	Fuqua	Don		8136
+9/4/1984	DEM	Democrat	USR	United States Representative	DIX	Dixie	002		0	0	Fuqua	Don		3621
+9/4/1984	DEM	Democrat	USR	United States Representative	FRA	Franklin	002		0	0	Fuqua	Don		2897
+9/4/1984	DEM	Democrat	USR	United States Representative	GAD	Gadsden	002		0	0	Fuqua	Don		8822
+9/4/1984	DEM	Democrat	USR	United States Representative	GIL	Gilchrist	002		0	0	Fuqua	Don		2431
+9/4/1984	DEM	Democrat	USR	United States Representative	GUL	Gulf	002		0	0	Fuqua	Don		3859
+9/4/1984	DEM	Democrat	USR	United States Representative	HAM	Hamilton	002		0	0	Fuqua	Don		2305
+9/4/1984	DEM	Democrat	USR	United States Representative	HOL	Holmes	002		0	0	Fuqua	Don		4555
+9/4/1984	DEM	Democrat	USR	United States Representative	JAC	Jackson	002		0	0	Fuqua	Don		9682
+9/4/1984	DEM	Democrat	USR	United States Representative	JEF	Jefferson	002		0	0	Fuqua	Don		2852
+9/4/1984	DEM	Democrat	USR	United States Representative	LAF	Lafayette	002		0	0	Fuqua	Don		1817
+9/4/1984	DEM	Democrat	USR	United States Representative	LEO	Leon	002		0	0	Fuqua	Don		21815
+9/4/1984	DEM	Democrat	USR	United States Representative	LEV	Levy	002		0	0	Fuqua	Don		5017
+9/4/1984	DEM	Democrat	USR	United States Representative	LIB	Liberty	002		0	0	Fuqua	Don		1772
+9/4/1984	DEM	Democrat	USR	United States Representative	MAD	Madison	002		0	0	Fuqua	Don		3517
+9/4/1984	DEM	Democrat	USR	United States Representative	SUW	Suwannee	002		0	0	Fuqua	Don		5548
+9/4/1984	DEM	Democrat	USR	United States Representative	TAY	Taylor	002		0	0	Fuqua	Don		4507
+9/4/1984	DEM	Democrat	USR	United States Representative	UNI	Union	002		0	0	Fuqua	Don		2680
+9/4/1984	DEM	Democrat	USR	United States Representative	WAK	Wakulla	002		0	0	Fuqua	Don		3439
+9/4/1984	DEM	Democrat	USR	United States Representative	WAS	Washington	002		0	0	Fuqua	Don		4567
+9/4/1984	DEM	Democrat	USR	United States Representative	BAK	Baker	002		0	0	O'Connor	Kim		361
+9/4/1984	DEM	Democrat	USR	United States Representative	BAY	Bay	002		0	0	O'Connor	Kim		170
+9/4/1984	DEM	Democrat	USR	United States Representative	BRA	Bradford	002		0	0	O'Connor	Kim		352
+9/4/1984	DEM	Democrat	USR	United States Representative	CAL	Calhoun	002		0	0	O'Connor	Kim		388
+9/4/1984	DEM	Democrat	USR	United States Representative	CLA	Clay	002		0	0	O'Connor	Kim		272
+9/4/1984	DEM	Democrat	USR	United States Representative	CLM	Columbia	002		0	0	O'Connor	Kim		835
+9/4/1984	DEM	Democrat	USR	United States Representative	DIX	Dixie	002		0	0	O'Connor	Kim		234
+9/4/1984	DEM	Democrat	USR	United States Representative	FRA	Franklin	002		0	0	O'Connor	Kim		310
+9/4/1984	DEM	Democrat	USR	United States Representative	GAD	Gadsden	002		0	0	O'Connor	Kim		708
+9/4/1984	DEM	Democrat	USR	United States Representative	GIL	Gilchrist	002		0	0	O'Connor	Kim		154
+9/4/1984	DEM	Democrat	USR	United States Representative	GUL	Gulf	002		0	0	O'Connor	Kim		449
+9/4/1984	DEM	Democrat	USR	United States Representative	HAM	Hamilton	002		0	0	O'Connor	Kim		303
+9/4/1984	DEM	Democrat	USR	United States Representative	HOL	Holmes	002		0	0	O'Connor	Kim		592
+9/4/1984	DEM	Democrat	USR	United States Representative	JAC	Jackson	002		0	0	O'Connor	Kim		1443
+9/4/1984	DEM	Democrat	USR	United States Representative	JEF	Jefferson	002		0	0	O'Connor	Kim		376
+9/4/1984	DEM	Democrat	USR	United States Representative	LAF	Lafayette	002		0	0	O'Connor	Kim		239
+9/4/1984	DEM	Democrat	USR	United States Representative	LEO	Leon	002		0	0	O'Connor	Kim		3363
+9/4/1984	DEM	Democrat	USR	United States Representative	LEV	Levy	002		0	0	O'Connor	Kim		543
+9/4/1984	DEM	Democrat	USR	United States Representative	LIB	Liberty	002		0	0	O'Connor	Kim		262
+9/4/1984	DEM	Democrat	USR	United States Representative	MAD	Madison	002		0	0	O'Connor	Kim		550
+9/4/1984	DEM	Democrat	USR	United States Representative	SUW	Suwannee	002		0	0	O'Connor	Kim		567
+9/4/1984	DEM	Democrat	USR	United States Representative	TAY	Taylor	002		0	0	O'Connor	Kim		434
+9/4/1984	DEM	Democrat	USR	United States Representative	UNI	Union	002		0	0	O'Connor	Kim		312
+9/4/1984	DEM	Democrat	USR	United States Representative	WAK	Wakulla	002		0	0	O'Connor	Kim		417
+9/4/1984	DEM	Democrat	USR	United States Representative	WAS	Washington	002		0	0	O'Connor	Kim		644
+9/4/1984	DEM	Democrat	USR	United States Representative	BAK	Baker	002		0	0	Stinson	Eugene	A. (Gene)	263
+9/4/1984	DEM	Democrat	USR	United States Representative	BAY	Bay	002		0	0	Stinson	Eugene	A. (Gene)	70
+9/4/1984	DEM	Democrat	USR	United States Representative	BRA	Bradford	002		0	0	Stinson	Eugene	A. (Gene)	226
+9/4/1984	DEM	Democrat	USR	United States Representative	CAL	Calhoun	002		0	0	Stinson	Eugene	A. (Gene)	270
+9/4/1984	DEM	Democrat	USR	United States Representative	CLA	Clay	002		0	0	Stinson	Eugene	A. (Gene)	171
+9/4/1984	DEM	Democrat	USR	United States Representative	CLM	Columbia	002		0	0	Stinson	Eugene	A. (Gene)	351
+9/4/1984	DEM	Democrat	USR	United States Representative	DIX	Dixie	002		0	0	Stinson	Eugene	A. (Gene)	233
+9/4/1984	DEM	Democrat	USR	United States Representative	FRA	Franklin	002		0	0	Stinson	Eugene	A. (Gene)	241
+9/4/1984	DEM	Democrat	USR	United States Representative	GAD	Gadsden	002		0	0	Stinson	Eugene	A. (Gene)	1179
+9/4/1984	DEM	Democrat	USR	United States Representative	GIL	Gilchrist	002		0	0	Stinson	Eugene	A. (Gene)	169
+9/4/1984	DEM	Democrat	USR	United States Representative	GUL	Gulf	002		0	0	Stinson	Eugene	A. (Gene)	460
+9/4/1984	DEM	Democrat	USR	United States Representative	HAM	Hamilton	002		0	0	Stinson	Eugene	A. (Gene)	177
+9/4/1984	DEM	Democrat	USR	United States Representative	HOL	Holmes	002		0	0	Stinson	Eugene	A. (Gene)	338
+9/4/1984	DEM	Democrat	USR	United States Representative	JAC	Jackson	002		0	0	Stinson	Eugene	A. (Gene)	878
+9/4/1984	DEM	Democrat	USR	United States Representative	JEF	Jefferson	002		0	0	Stinson	Eugene	A. (Gene)	372
+9/4/1984	DEM	Democrat	USR	United States Representative	LAF	Lafayette	002		0	0	Stinson	Eugene	A. (Gene)	187
+9/4/1984	DEM	Democrat	USR	United States Representative	LEO	Leon	002		0	0	Stinson	Eugene	A. (Gene)	2991
+9/4/1984	DEM	Democrat	USR	United States Representative	LEV	Levy	002		0	0	Stinson	Eugene	A. (Gene)	375
+9/4/1984	DEM	Democrat	USR	United States Representative	LIB	Liberty	002		0	0	Stinson	Eugene	A. (Gene)	164
+9/4/1984	DEM	Democrat	USR	United States Representative	MAD	Madison	002		0	0	Stinson	Eugene	A. (Gene)	351
+9/4/1984	DEM	Democrat	USR	United States Representative	SUW	Suwannee	002		0	0	Stinson	Eugene	A. (Gene)	334
+9/4/1984	DEM	Democrat	USR	United States Representative	TAY	Taylor	002		0	0	Stinson	Eugene	A. (Gene)	356
+9/4/1984	DEM	Democrat	USR	United States Representative	UNI	Union	002		0	0	Stinson	Eugene	A. (Gene)	147
+9/4/1984	DEM	Democrat	USR	United States Representative	WAK	Wakulla	002		0	0	Stinson	Eugene	A. (Gene)	220
+9/4/1984	DEM	Democrat	USR	United States Representative	WAS	Washington	002		0	0	Stinson	Eugene	A. (Gene)	449
+9/4/1984	DEM	Democrat	USR	United States Representative	CLA	Clay	004		0	0	Chappell	Bill		4604
+9/4/1984	DEM	Democrat	USR	United States Representative	DUV	Duval	004		0	0	Chappell	Bill		5557
+9/4/1984	DEM	Democrat	USR	United States Representative	FLA	Flagler	004		0	0	Chappell	Bill		1623
+9/4/1984	DEM	Democrat	USR	United States Representative	PUT	Putnam	004		0	0	Chappell	Bill		5567
+9/4/1984	DEM	Democrat	USR	United States Representative	STJ	St. Johns	004		0	0	Chappell	Bill		7599
+9/4/1984	DEM	Democrat	USR	United States Representative	VOL	Volusia	004		0	0	Chappell	Bill		18009
+9/4/1984	DEM	Democrat	USR	United States Representative	CLA	Clay	004		0	0	Granstrom	Carol		1108
+9/4/1984	DEM	Democrat	USR	United States Representative	DUV	Duval	004		0	0	Granstrom	Carol		1843
+9/4/1984	DEM	Democrat	USR	United States Representative	FLA	Flagler	004		0	0	Granstrom	Carol		1587
+9/4/1984	DEM	Democrat	USR	United States Representative	PUT	Putnam	004		0	0	Granstrom	Carol		2230
+9/4/1984	DEM	Democrat	USR	United States Representative	STJ	St. Johns	004		0	0	Granstrom	Carol		2890
+9/4/1984	DEM	Democrat	USR	United States Representative	VOL	Volusia	004		0	0	Granstrom	Carol		15910
+9/4/1984	DEM	Democrat	USR	United States Representative	PIN	Pinellas	008		0	0	Kent	Robert		5635
+9/4/1984	DEM	Democrat	USR	United States Representative	PIN	Pinellas	008		0	0	Spuza	Mike		5633
+9/4/1984	DEM	Democrat	USR	United States Representative	PIN	Pinellas	008		0	0	Sutcliffe	Claud		10983
+9/4/1984	DEM	Democrat	USR	United States Representative	DES	Desoto	010		0	0	Carter	Jack		1335
+9/4/1984	DEM	Democrat	USR	United States Representative	HAR	Hardee	010		0	0	Carter	Jack		1005
+9/4/1984	DEM	Democrat	USR	United States Representative	MAN	Manatee	010		0	0	Carter	Jack		1970
+9/4/1984	DEM	Democrat	USR	United States Representative	OSC	Osceola	010		0	0	Carter	Jack		152
+9/4/1984	DEM	Democrat	USR	United States Representative	POL	Polk	010		0	0	Carter	Jack		13887
+9/4/1984	DEM	Democrat	USR	United States Representative	DES	Desoto	010		0	0	Glass	Patricia	M. (Pat)	2308
+9/4/1984	DEM	Democrat	USR	United States Representative	HAR	Hardee	010		0	0	Glass	Patricia	M. (Pat)	1588
+9/4/1984	DEM	Democrat	USR	United States Representative	MAN	Manatee	010		0	0	Glass	Patricia	M. (Pat)	11071
+9/4/1984	DEM	Democrat	USR	United States Representative	OSC	Osceola	010		0	0	Glass	Patricia	M. (Pat)	157
+9/4/1984	DEM	Democrat	USR	United States Representative	POL	Polk	010		0	0	Glass	Patricia	M. (Pat)	15749
+9/4/1984	DEM	Democrat	USR	United States Representative	DES	Desoto	010		0	0	Roberts	Gene		1161
+9/4/1984	DEM	Democrat	USR	United States Representative	HAR	Hardee	010		0	0	Roberts	Gene		1074
+9/4/1984	DEM	Democrat	USR	United States Representative	MAN	Manatee	010		0	0	Roberts	Gene		1078
+9/4/1984	DEM	Democrat	USR	United States Representative	OSC	Osceola	010		0	0	Roberts	Gene		147
+9/4/1984	DEM	Democrat	USR	United States Representative	POL	Polk	010		0	0	Roberts	Gene		11983
+9/4/1984	DEM	Democrat	USR	United States Representative	BRE	Brevard	011		0	0	Nelson	Bill		22211
+9/4/1984	DEM	Democrat	USR	United States Representative	IND	Indian River	011		0	0	Nelson	Bill		3130
+9/4/1984	DEM	Democrat	USR	United States Representative	ORA	Orange	011		0	0	Nelson	Bill		8995
+9/4/1984	DEM	Democrat	USR	United States Representative	OSC	Osceola	011		0	0	Nelson	Bill		6896
+9/4/1984	DEM	Democrat	USR	United States Representative	BRE	Brevard	011		0	0	Roundtree	Bill		4496
+9/4/1984	DEM	Democrat	USR	United States Representative	IND	Indian River	011		0	0	Roundtree	Bill		499
+9/4/1984	DEM	Democrat	USR	United States Representative	ORA	Orange	011		0	0	Roundtree	Bill		1204
+9/4/1984	DEM	Democrat	USR	United States Representative	OSC	Osceola	011		0	0	Roundtree	Bill		736
+9/4/1984	DEM	Democrat	USR	United States Representative	BRO	Broward	015		0	0	Humphrey	Bill		14807
+9/4/1984	DEM	Democrat	USR	United States Representative	BRO	Broward	015		0	0	Kolly	Tim		9745
+9/4/1984	DEM	Democrat	STA	State Attorney	FRA	Franklin	002		0	0	Meggs	William	N. 'Willie	1620
+9/4/1984	DEM	Democrat	STA	State Attorney	GAD	Gadsden	002		0	0	Meggs	William	N. 'Willie	4799
+9/4/1984	DEM	Democrat	STA	State Attorney	JEF	Jefferson	002		0	0	Meggs	William	N. 'Willie	1552
+9/4/1984	DEM	Democrat	STA	State Attorney	LEO	Leon	002		0	0	Meggs	William	N. 'Willie	18420
+9/4/1984	DEM	Democrat	STA	State Attorney	LIB	Liberty	002		0	0	Meggs	William	N. 'Willie	1359
+9/4/1984	DEM	Democrat	STA	State Attorney	WAK	Wakulla	002		0	0	Meggs	William	N. 'Willie	2570
+9/4/1984	DEM	Democrat	STA	State Attorney	FRA	Franklin	002		0	0	Modesitt	Don		1836
+9/4/1984	DEM	Democrat	STA	State Attorney	GAD	Gadsden	002		0	0	Modesitt	Don		6005
+9/4/1984	DEM	Democrat	STA	State Attorney	JEF	Jefferson	002		0	0	Modesitt	Don		2101
+9/4/1984	DEM	Democrat	STA	State Attorney	LEO	Leon	002		0	0	Modesitt	Don		10050
+9/4/1984	DEM	Democrat	STA	State Attorney	LIB	Liberty	002		0	0	Modesitt	Don		820
+9/4/1984	DEM	Democrat	STA	State Attorney	WAK	Wakulla	002		0	0	Modesitt	Don		1552
+9/4/1984	DEM	Democrat	STA	State Attorney	HAR	Hardee	010		0	0	Hill	Jerry		2146
+9/4/1984	DEM	Democrat	STA	State Attorney	HIG	Highlands	010		0	0	Hill	Jerry		4395
+9/4/1984	DEM	Democrat	STA	State Attorney	POL	Polk	010		0	0	Hill	Jerry		26039
+9/4/1984	DEM	Democrat	STA	State Attorney	HAR	Hardee	010		0	0	Rouse	Frank		1542
+9/4/1984	DEM	Democrat	STA	State Attorney	HIG	Highlands	010		0	0	Rouse	Frank		2136
+9/4/1984	DEM	Democrat	STA	State Attorney	POL	Polk	010		0	0	Rouse	Frank		16356
+9/4/1984	DEM	Democrat	STA	State Attorney	DAD	Miami-Dade	011		0	0	Reno	Janet		82630
+9/4/1984	DEM	Democrat	STA	State Attorney	DAD	Miami-Dade	011		0	0	Sanford	Jerry		45960
+9/4/1984	DEM	Democrat	STA	State Attorney	BAY	Bay	014		0	0	Appleman	Jim		14536
+9/4/1984	DEM	Democrat	STA	State Attorney	CAL	Calhoun	014		0	0	Appleman	Jim		2874
+9/4/1984	DEM	Democrat	STA	State Attorney	GUL	Gulf	014		0	0	Appleman	Jim		3368
+9/4/1984	DEM	Democrat	STA	State Attorney	HOL	Holmes	014		0	0	Appleman	Jim		4030
+9/4/1984	DEM	Democrat	STA	State Attorney	JAC	Jackson	014		0	0	Appleman	Jim		8929
+9/4/1984	DEM	Democrat	STA	State Attorney	WAS	Washington	014		0	0	Appleman	Jim		4202
+9/4/1984	DEM	Democrat	STA	State Attorney	BAY	Bay	014		0	0	Miller	Ed		8499
+9/4/1984	DEM	Democrat	STA	State Attorney	CAL	Calhoun	014		0	0	Miller	Ed		1173
+9/4/1984	DEM	Democrat	STA	State Attorney	GUL	Gulf	014		0	0	Miller	Ed		1629
+9/4/1984	DEM	Democrat	STA	State Attorney	HOL	Holmes	014		0	0	Miller	Ed		1676
+9/4/1984	DEM	Democrat	STA	State Attorney	JAC	Jackson	014		0	0	Miller	Ed		3180
+9/4/1984	DEM	Democrat	STA	State Attorney	WAS	Washington	014		0	0	Miller	Ed		1722
+9/4/1984	DEM	Democrat	PUB	Public Defender	FRA	Franklin	002		0	0	Allen	Michael	E.	2374
+9/4/1984	DEM	Democrat	PUB	Public Defender	GAD	Gadsden	002		0	0	Allen	Michael	E.	7288
+9/4/1984	DEM	Democrat	PUB	Public Defender	JEF	Jefferson	002		0	0	Allen	Michael	E.	1368
+9/4/1984	DEM	Democrat	PUB	Public Defender	LEO	Leon	002		0	0	Allen	Michael	E.	16631
+9/4/1984	DEM	Democrat	PUB	Public Defender	LIB	Liberty	002		0	0	Allen	Michael	E.	1507
+9/4/1984	DEM	Democrat	PUB	Public Defender	WAK	Wakulla	002		0	0	Allen	Michael	E.	2302
+9/4/1984	DEM	Democrat	PUB	Public Defender	FRA	Franklin	002		0	0	Harrison	Baya		587
+9/4/1984	DEM	Democrat	PUB	Public Defender	GAD	Gadsden	002		0	0	Harrison	Baya		2512
+9/4/1984	DEM	Democrat	PUB	Public Defender	JEF	Jefferson	002		0	0	Harrison	Baya		1536
+9/4/1984	DEM	Democrat	PUB	Public Defender	LEO	Leon	002		0	0	Harrison	Baya		9026
+9/4/1984	DEM	Democrat	PUB	Public Defender	LIB	Liberty	002		0	0	Harrison	Baya		437
+9/4/1984	DEM	Democrat	PUB	Public Defender	WAK	Wakulla	002		0	0	Harrison	Baya		1225
+9/4/1984	DEM	Democrat	PUB	Public Defender	CIT	Citrus	005		0	0	Babb	Howard	(Skip)	7578
+9/4/1984	DEM	Democrat	PUB	Public Defender	HER	Hernando	005		0	0	Babb	Howard	(Skip)	5842
+9/4/1984	DEM	Democrat	PUB	Public Defender	LAK	Lake	005		0	0	Babb	Howard	(Skip)	5329
+9/4/1984	DEM	Democrat	PUB	Public Defender	MRN	Marion	005		0	0	Babb	Howard	(Skip)	9960
+9/4/1984	DEM	Democrat	PUB	Public Defender	SUM	Sumter	005		0	0	Babb	Howard	(Skip)	3136
+9/4/1984	DEM	Democrat	PUB	Public Defender	CIT	Citrus	005		0	0	Fox	Ron		3462
+9/4/1984	DEM	Democrat	PUB	Public Defender	HER	Hernando	005		0	0	Fox	Ron		3509
+9/4/1984	DEM	Democrat	PUB	Public Defender	LAK	Lake	005		0	0	Fox	Ron		1846
+9/4/1984	DEM	Democrat	PUB	Public Defender	MRN	Marion	005		0	0	Fox	Ron		3834
+9/4/1984	DEM	Democrat	PUB	Public Defender	SUM	Sumter	005		0	0	Fox	Ron		1480
+9/4/1984	DEM	Democrat	PUB	Public Defender	HAR	Hardee	010		0	0	Grizzard	Bob		2132
+9/4/1984	DEM	Democrat	PUB	Public Defender	HIG	Highlands	010		0	0	Grizzard	Bob		3266
+9/4/1984	DEM	Democrat	PUB	Public Defender	POL	Polk	010		0	0	Grizzard	Bob		17440
+9/4/1984	DEM	Democrat	PUB	Public Defender	HAR	Hardee	010		0	0	Moorman	James	'Marion'	1273
+9/4/1984	DEM	Democrat	PUB	Public Defender	HIG	Highlands	010		0	0	Moorman	James	'Marion'	2585
+9/4/1984	DEM	Democrat	PUB	Public Defender	POL	Polk	010		0	0	Moorman	James	'Marion'	21874
+9/4/1984	DEM	Democrat	PUB	Public Defender	MON	Monroe	016		0	0	Keane	John	H.	1336
+9/4/1984	DEM	Democrat	PUB	Public Defender	MON	Monroe	016		0	0	Papy	Hugh	R.	3162
+9/4/1984	DEM	Democrat	PUB	Public Defender	MON	Monroe	016		0	0	Winter	Rand		4592
+9/4/1984	DEM	Democrat	STS	State Senator	ESC	Escambia	001		0	0	Broxson	John		17282
+9/4/1984	DEM	Democrat	STS	State Senator	SAN	Santa Rosa	001		0	0	Broxson	John		768
+9/4/1984	DEM	Democrat	STS	State Senator	ESC	Escambia	001		0	0	Childers	W.	D.	26622
+9/4/1984	DEM	Democrat	STS	State Senator	SAN	Santa Rosa	001		0	0	Childers	W.	D.	1394
+9/4/1984	DEM	Democrat	STS	State Senator	MRT	Martin	027		0	0	McKinnon	Dick		1159
+9/4/1984	DEM	Democrat	STS	State Senator	PAL	Palm Beach	027		0	0	McKinnon	Dick		3228
+9/4/1984	DEM	Democrat	STS	State Senator	STL	St. Lucie	027		0	0	McKinnon	Dick		2370
+9/4/1984	DEM	Democrat	STS	State Senator	MRT	Martin	027		0	0	Wood	David		2178
+9/4/1984	DEM	Democrat	STS	State Senator	PAL	Palm Beach	027		0	0	Wood	David		7019
+9/4/1984	DEM	Democrat	STS	State Senator	STL	St. Lucie	027		0	0	Wood	David		3206
+9/4/1984	DEM	Democrat	STS	State Senator	BRO	Broward	031		0	0	Loss	Florence	B.	6453
+9/4/1984	DEM	Democrat	STS	State Senator	BRO	Broward	031		0	0	Owen	Roger	L.	2315
+9/4/1984	DEM	Democrat	STS	State Senator	BRO	Broward	031		0	0	Rocoff	Alan	M.	4246
+9/4/1984	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	033		0	0	Hill	John	A.	7826
+9/4/1984	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	033		0	0	Reynolds	Bob		5570
+9/4/1984	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	035		0	0	Eisenberg	Sy		5705
+9/4/1984	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	035		0	0	Gordon	Jack	D.	14639
+9/4/1984	DEM	Democrat	STR	State Representative	ESC	Escambia	001		0	0	Patti	Maria	S.	4800
+9/4/1984	DEM	Democrat	STR	State Representative	ESC	Escambia	001		0	0	Tobiassen	Tom		10901
+9/4/1984	DEM	Democrat	STR	State Representative	ESC	Escambia	002		0	0	Bass	Virginia		10696
+9/4/1984	DEM	Democrat	STR	State Representative	ESC	Escambia	002		0	0	Catches	James	S.	2767
+9/4/1984	DEM	Democrat	STR	State Representative	OKA	Okaloosa	005		0	0	Crofut	Tomi		4437
+9/4/1984	DEM	Democrat	STR	State Representative	WAL	Walton	005		0	0	Crofut	Tomi		707
+9/4/1984	DEM	Democrat	STR	State Representative	OKA	Okaloosa	005		0	0	Ward	James	G.	8466
+9/4/1984	DEM	Democrat	STR	State Representative	WAL	Walton	005		0	0	Ward	James	G.	1245
+9/4/1984	DEM	Democrat	STR	State Representative	BAY	Bay	007		0	0	Conway	Frank	M.	664
+9/4/1984	DEM	Democrat	STR	State Representative	HOL	Holmes	007		0	0	Conway	Frank	M.	857
+9/4/1984	DEM	Democrat	STR	State Representative	JAC	Jackson	007		0	0	Conway	Frank	M.	711
+9/4/1984	DEM	Democrat	STR	State Representative	WAL	Walton	007		0	0	Conway	Frank	M.	573
+9/4/1984	DEM	Democrat	STR	State Representative	WAS	Washington	007		0	0	Conway	Frank	M.	1119
+9/4/1984	DEM	Democrat	STR	State Representative	BAY	Bay	007		0	0	Gillis	Annie	Ruth	830
+9/4/1984	DEM	Democrat	STR	State Representative	HOL	Holmes	007		0	0	Gillis	Annie	Ruth	1256
+9/4/1984	DEM	Democrat	STR	State Representative	JAC	Jackson	007		0	0	Gillis	Annie	Ruth	896
+9/4/1984	DEM	Democrat	STR	State Representative	WAL	Walton	007		0	0	Gillis	Annie	Ruth	1019
+9/4/1984	DEM	Democrat	STR	State Representative	WAS	Washington	007		0	0	Gillis	Annie	Ruth	892
+9/4/1984	DEM	Democrat	STR	State Representative	BAY	Bay	007		0	0	Mitchell	Sam		2707
+9/4/1984	DEM	Democrat	STR	State Representative	HOL	Holmes	007		0	0	Mitchell	Sam		3652
+9/4/1984	DEM	Democrat	STR	State Representative	JAC	Jackson	007		0	0	Mitchell	Sam		4384
+9/4/1984	DEM	Democrat	STR	State Representative	WAL	Walton	007		0	0	Mitchell	Sam		3190
+9/4/1984	DEM	Democrat	STR	State Representative	WAS	Washington	007		0	0	Mitchell	Sam		3948
+9/4/1984	DEM	Democrat	STR	State Representative	CIT	Citrus	011		0	0	Hodges	Gene		944
+9/4/1984	DEM	Democrat	STR	State Representative	DIX	Dixie	011		0	0	Hodges	Gene		3204
+9/4/1984	DEM	Democrat	STR	State Representative	GIL	Gilchrist	011		0	0	Hodges	Gene		2229
+9/4/1984	DEM	Democrat	STR	State Representative	JEF	Jefferson	011		0	0	Hodges	Gene		2655
+9/4/1984	DEM	Democrat	STR	State Representative	LAF	Lafayette	011		0	0	Hodges	Gene		1827
+9/4/1984	DEM	Democrat	STR	State Representative	LEV	Levy	011		0	0	Hodges	Gene		4996
+9/4/1984	DEM	Democrat	STR	State Representative	MRN	Marion	011		0	0	Hodges	Gene		359
+9/4/1984	DEM	Democrat	STR	State Representative	TAY	Taylor	011		0	0	Hodges	Gene		4414
+9/4/1984	DEM	Democrat	STR	State Representative	WAK	Wakulla	011		0	0	Hodges	Gene		2088
+9/4/1984	DEM	Democrat	STR	State Representative	CIT	Citrus	011		0	0	Swinden	J.	Michael	184
+9/4/1984	DEM	Democrat	STR	State Representative	DIX	Dixie	011		0	0	Swinden	J.	Michael	867
+9/4/1984	DEM	Democrat	STR	State Representative	GIL	Gilchrist	011		0	0	Swinden	J.	Michael	514
+9/4/1984	DEM	Democrat	STR	State Representative	JEF	Jefferson	011		0	0	Swinden	J.	Michael	441
+9/4/1984	DEM	Democrat	STR	State Representative	LAF	Lafayette	011		0	0	Swinden	J.	Michael	386
+9/4/1984	DEM	Democrat	STR	State Representative	LEV	Levy	011		0	0	Swinden	J.	Michael	891
+9/4/1984	DEM	Democrat	STR	State Representative	MRN	Marion	011		0	0	Swinden	J.	Michael	78
+9/4/1984	DEM	Democrat	STR	State Representative	TAY	Taylor	011		0	0	Swinden	J.	Michael	566
+9/4/1984	DEM	Democrat	STR	State Representative	WAK	Wakulla	011		0	0	Swinden	J.	Michael	474
+9/4/1984	DEM	Democrat	STR	State Representative	BAK	Baker	013		0	0	Crady	George		1726
+9/4/1984	DEM	Democrat	STR	State Representative	BRA	Bradford	013		0	0	Crady	George		1279
+9/4/1984	DEM	Democrat	STR	State Representative	DUV	Duval	013		0	0	Crady	George		344
+9/4/1984	DEM	Democrat	STR	State Representative	NAS	Nassau	013		0	0	Crady	George		5684
+9/4/1984	DEM	Democrat	STR	State Representative	UNI	Union	013		0	0	Crady	George		1658
+9/4/1984	DEM	Democrat	STR	State Representative	BAK	Baker	013		0	0	Yarbrough	E.	Ed	3164
+9/4/1984	DEM	Democrat	STR	State Representative	BRA	Bradford	013		0	0	Yarbrough	E.	Ed	1161
+9/4/1984	DEM	Democrat	STR	State Representative	DUV	Duval	013		0	0	Yarbrough	E.	Ed	271
+9/4/1984	DEM	Democrat	STR	State Representative	NAS	Nassau	013		0	0	Yarbrough	E.	Ed	2806
+9/4/1984	DEM	Democrat	STR	State Representative	UNI	Union	013		0	0	Yarbrough	E.	Ed	1531
+9/4/1984	DEM	Democrat	STR	State Representative	DUV	Duval	016		0	0	Anderson	C.	A. (Andy)	1088
+9/4/1984	DEM	Democrat	STR	State Representative	DUV	Duval	016		0	0	Davis	Kevin		390
+9/4/1984	DEM	Democrat	STR	State Representative	DUV	Duval	016		0	0	Davis	Moses		475
+9/4/1984	DEM	Democrat	STR	State Representative	DUV	Duval	016		0	0	Green	Hattye	Dix	239
+9/4/1984	DEM	Democrat	STR	State Representative	DUV	Duval	016		0	0	Hampton	Frank		2589
+9/4/1984	DEM	Democrat	STR	State Representative	DUV	Duval	016		0	0	Thomas	John		2826
+9/4/1984	DEM	Democrat	STR	State Representative	DUV	Duval	017		0	0	Brown	Corrine		5344
+9/4/1984	DEM	Democrat	STR	State Representative	DUV	Duval	017		0	0	Gomes	Anthony		1287
+9/4/1984	DEM	Democrat	STR	State Representative	VOL	Volusia	030		0	0	Brown	Tom	C.	7498
+9/4/1984	DEM	Democrat	STR	State Representative	VOL	Volusia	030		0	0	Christy	Robert	H.	2069
+9/4/1984	DEM	Democrat	STR	State Representative	BRE	Brevard	031		0	0	Gardner	W.	W. 'Bud'	6704
+9/4/1984	DEM	Democrat	STR	State Representative	BRE	Brevard	031		0	0	Townsend	Stephen	A.	2339
+9/4/1984	DEM	Democrat	STR	State Representative	BRE	Brevard	034		0	0	Anderson	Joy		1008
+9/4/1984	DEM	Democrat	STR	State Representative	ORA	Orange	034		0	0	Anderson	Joy		61
+9/4/1984	DEM	Democrat	STR	State Representative	SEM	Seminole	034		0	0	Anderson	Joy		1475
+9/4/1984	DEM	Democrat	STR	State Representative	BRE	Brevard	034		0	0	Pepper	Kit		562
+9/4/1984	DEM	Democrat	STR	State Representative	ORA	Orange	034		0	0	Pepper	Kit		50
+9/4/1984	DEM	Democrat	STR	State Representative	SEM	Seminole	034		0	0	Pepper	Kit		1309
+9/4/1984	DEM	Democrat	STR	State Representative	ORA	Orange	036		0	0	McKenna	Donald	E.	1417
+9/4/1984	DEM	Democrat	STR	State Representative	SEM	Seminole	036		0	0	McKenna	Donald	E.	310
+9/4/1984	DEM	Democrat	STR	State Representative	ORA	Orange	036		0	0	Stafford	C.	B. 'Joe'	1152
+9/4/1984	DEM	Democrat	STR	State Representative	SEM	Seminole	036		0	0	Stafford	C.	B. 'Joe'	292
+9/4/1984	DEM	Democrat	STR	State Representative	ORA	Orange	041		0	0	Batchelor	Dick	J.	3901
+9/4/1984	DEM	Democrat	STR	State Representative	ORA	Orange	041		0	0	West, Jr.	David	R.	1391
+9/4/1984	DEM	Democrat	STR	State Representative	POL	Polk	044		0	0	Canady	Charles	T.	8982
+9/4/1984	DEM	Democrat	STR	State Representative	POL	Polk	044		0	0	Ready	Gene		4191
+9/4/1984	DEM	Democrat	STR	State Representative	HER	Hernando	047		0	0	Friedel	Richard		3086
+9/4/1984	DEM	Democrat	STR	State Representative	PAS	Pasco	047		0	0	Friedel	Richard		579
+9/4/1984	DEM	Democrat	STR	State Representative	SUM	Sumter	047		0	0	Friedel	Richard		390
+9/4/1984	DEM	Democrat	STR	State Representative	HER	Hernando	047		0	0	Smith	Charles	R. 'Chuck'	7039
+9/4/1984	DEM	Democrat	STR	State Representative	PAS	Pasco	047		0	0	Smith	Charles	R. 'Chuck'	2483
+9/4/1984	DEM	Democrat	STR	State Representative	SUM	Sumter	047		0	0	Smith	Charles	R. 'Chuck'	1720
+9/4/1984	DEM	Democrat	STR	State Representative	HIL	Hillsborough	049		0	0	Branigan	Vincent	W.	1335
+9/4/1984	DEM	Democrat	STR	State Representative	HIL	Hillsborough	049		0	0	Chambers, Jr.	Dan		3013
+9/4/1984	DEM	Democrat	STR	State Representative	HIL	Hillsborough	049		0	0	Stovall	Leonard	D. (Len)	2587
+9/4/1984	DEM	Democrat	STR	State Representative	HIL	Hillsborough	049		0	0	Suttle	David	(Dave) G.	2464
+9/4/1984	DEM	Democrat	STR	State Representative	HIL	Hillsborough	049		0	0	Wentz	Reid		1478
+9/4/1984	DEM	Democrat	STR	State Representative	HIL	Hillsborough	064		0	0	Baker	Peggy	Haskins	1697
+9/4/1984	DEM	Democrat	STR	State Representative	HIL	Hillsborough	064		0	0	Davis	Helen	Gordon	4259
+9/4/1984	DEM	Democrat	STR	State Representative	HIL	Hillsborough	066		0	0	Gibbons	Mark		6187
+9/4/1984	DEM	Democrat	STR	State Representative	HIL	Hillsborough	066		0	0	Sheldon	George	H.	3870
+9/4/1984	DEM	Democrat	STR	State Representative	MAN	Manatee	069		0	0	Albee	Steve		266
+9/4/1984	DEM	Democrat	STR	State Representative	SAR	Sarasota	069		0	0	Albee	Steve		2353
+9/4/1984	DEM	Democrat	STR	State Representative	MAN	Manatee	069		0	0	Loiry	Bill		136
+9/4/1984	DEM	Democrat	STR	State Representative	SAR	Sarasota	069		0	0	Loiry	Bill		1361
+9/4/1984	DEM	Democrat	STR	State Representative	PAL	Palm Beach	083		0	0	Mack	Eva	Williams	4086
+9/4/1984	DEM	Democrat	STR	State Representative	PAL	Palm Beach	083		0	0	Weinstock	Eleanor		6584
+9/4/1984	DEM	Democrat	STR	State Representative	BRO	Broward	095		0	0	Brumberg	Benji		2198
+9/4/1984	DEM	Democrat	STR	State Representative	BRO	Broward	095		0	0	Mackenzie	Anne		2824
+9/4/1984	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	105		0	0	Spaet	Harold	(Hal) W.	2468
+9/4/1984	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	105		0	0	Ventura	Nick		1772
+9/4/1984	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	106		0	0	Frazier	Eufalia	'Smith'	804
+9/4/1984	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	106		0	0	McCartney	Ralph		966
+9/4/1984	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	106		0	0	Reaves, Sr.	Jeff		4558
+9/4/1984	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	106		0	0	Smithson	Diane		527
+9/4/1984	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	108		0	0	Logan	Willie		4926
+9/4/1984	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	108		0	0	Woods	Mary	L.	2629
+9/4/1984	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		0	0	Grossman	Armand	W.	2193
+9/4/1984	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		0	0	MacKenzie	'Chris'	Christina	2047
+9/4/1984	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	115		0	0	Murphy	Tim		4968
+9/4/1984	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	115		0	0	Rejon	Victor	M.	412
+9/4/1984	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	115		0	0	Zieja	Robert	Michael	251
+9/4/1984	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		0	0	Hall	Charlie		2006
+9/4/1984	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		0	0	Lehtinen	Dexter		4030
+9/4/1984	REP	Republican	USR	United States Representative	BRO	Broward	016		0	0	Bush	Tom		5891
+9/4/1984	REP	Republican	USR	United States Representative	DAD	Miami-Dade	016		0	0	Bush	Tom		7295
+9/4/1984	REP	Republican	USR	United States Representative	BRO	Broward	016		0	0	Smith	Doc		947
+9/4/1984	REP	Republican	USR	United States Representative	DAD	Miami-Dade	016		0	0	Smith	Doc		1285
+9/4/1984	REP	Republican	USR	United States Representative	DAD	Miami-Dade	018		0	0	Estrella	Evelio	S.	4888
+9/4/1984	REP	Republican	USR	United States Representative	DAD	Miami-Dade	018		0	0	Nunez	Ricardo		13245
+9/4/1984	REP	Republican	USR	United States Representative	DAD	Miami-Dade	019		0	0	Flanagan	Bill		10019
+9/4/1984	REP	Republican	USR	United States Representative	MON	Monroe	019		0	0	Flanagan	Bill		1144
+9/4/1984	REP	Republican	USR	United States Representative	DAD	Miami-Dade	019		0	0	Reinsprecht	Rudy		4823
+9/4/1984	REP	Republican	USR	United States Representative	MON	Monroe	019		0	0	Reinsprecht	Rudy		646
+9/4/1984	REP	Republican	STS	State Senator	DUV	Duval	009		0	0	Fisher	John	J. (Jack)	2119
+9/4/1984	REP	Republican	STS	State Senator	FLA	Flagler	009		0	0	Fisher	John	J. (Jack)	314
+9/4/1984	REP	Republican	STS	State Senator	STJ	St. Johns	009		0	0	Fisher	John	J. (Jack)	759
+9/4/1984	REP	Republican	STS	State Senator	DUV	Duval	009		0	0	Jenkins	Dan		2204
+9/4/1984	REP	Republican	STS	State Senator	FLA	Flagler	009		0	0	Jenkins	Dan		168
+9/4/1984	REP	Republican	STS	State Senator	STJ	St. Johns	009		0	0	Jenkins	Dan		623
+9/4/1984	REP	Republican	STS	State Senator	PIN	Pinellas	019		0	0	Kiser	Curt		14350
+9/4/1984	REP	Republican	STS	State Senator	PIN	Pinellas	019		0	0	Rehm	Gerald	S. 'Jerry'	9530
+9/4/1984	REP	Republican	STS	State Senator	CHA	Charlotte	025		0	0	Danson	Tom		2383
+9/4/1984	REP	Republican	STS	State Senator	SAR	Sarasota	025		0	0	Danson	Tom		15468
+9/4/1984	REP	Republican	STS	State Senator	CHA	Charlotte	025		0	0	Johnson	Bob		3169
+9/4/1984	REP	Republican	STS	State Senator	SAR	Sarasota	025		0	0	Johnson	Bob		19267
+9/4/1984	REP	Republican	STR	State Representative	DUV	Duval	020		0	0	Matthews	Joe	Greg	1274
+9/4/1984	REP	Republican	STR	State Representative	DUV	Duval	020		0	0	Raines	Bob		765
+9/4/1984	REP	Republican	STR	State Representative	PAS	Pasco	049		0	0	Luikart, Jr.	David	L.	3226
+9/4/1984	REP	Republican	STR	State Representative	PAS	Pasco	049		0	0	Renke, II	John	K.	4497
+9/4/1984	REP	Republican	STR	State Representative	PAS	Pasco	049		0	0	Rodis	George	C.	904
+9/4/1984	REP	Republican	STR	State Representative	PIN	Pinellas	058		0	0	Woodruff	T.	M. 'Tom'	4277
+9/4/1984	REP	Republican	STR	State Representative	PIN	Pinellas	058		0	0	Wyandt	Loretta		1141
+9/4/1984	REP	Republican	STR	State Representative	HAR	Hardee	067		0	0	Garst, Jr.	Claflin		42
+9/4/1984	REP	Republican	STR	State Representative	MAN	Manatee	067		0	0	Garst, Jr.	Claflin		2009
+9/4/1984	REP	Republican	STR	State Representative	HAR	Hardee	067		0	0	Holland	J.	J. 'Toby'	60
+9/4/1984	REP	Republican	STR	State Representative	MAN	Manatee	067		0	0	Holland	J.	J. 'Toby'	3568
+9/4/1984	REP	Republican	STR	State Representative	MAN	Manatee	069		0	0	Jennings	Harry		435
+9/4/1984	REP	Republican	STR	State Representative	SAR	Sarasota	069		0	0	Jennings	Harry		7035
+9/4/1984	REP	Republican	STR	State Representative	MAN	Manatee	069		0	0	Stuefer, Jr.	Bill		189
+9/4/1984	REP	Republican	STR	State Representative	SAR	Sarasota	069		0	0	Stuefer, Jr.	Bill		2569
+9/4/1984	REP	Republican	STR	State Representative	SAR	Sarasota	070		0	0	Lombard	James	M.	6969
+9/4/1984	REP	Republican	STR	State Representative	SAR	Sarasota	070		0	0	Rosin	Simon		4141
+9/4/1984	REP	Republican	STR	State Representative	SAR	Sarasota	070		0	0	Scherman	Norman		4255
+9/4/1984	REP	Republican	STR	State Representative	CHA	Charlotte	071		0	0	Baszto, Jr.	Ted	F.	517
+9/4/1984	REP	Republican	STR	State Representative	SAR	Sarasota	071		0	0	Baszto, Jr.	Ted	F.	1245
+9/4/1984	REP	Republican	STR	State Representative	CHA	Charlotte	071		0	0	Bent	J.	P. 'Jack'	1818
+9/4/1984	REP	Republican	STR	State Representative	SAR	Sarasota	071		0	0	Bent	J.	P. 'Jack'	850
+9/4/1984	REP	Republican	STR	State Representative	CHA	Charlotte	071		0	0	Confer	Scott		875
+9/4/1984	REP	Republican	STR	State Representative	SAR	Sarasota	071		0	0	Confer	Scott		2425
+9/4/1984	REP	Republican	STR	State Representative	CHA	Charlotte	071		0	0	Thomas	David	Dr. (Dave)	2055
+9/4/1984	REP	Republican	STR	State Representative	SAR	Sarasota	071		0	0	Thomas	David	Dr. (Dave)	3469
+9/4/1984	REP	Republican	STR	State Representative	BRO	Broward	088		0	0	Faiks	Jeanne	E.	925
+9/4/1984	REP	Republican	STR	State Representative	BRO	Broward	088		0	0	Letter	Jeff		613
+9/4/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	105		0	0	Alonso	Miriam		1131
+9/4/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	105		0	0	Burke	Jon	W.	569
+9/4/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	105		0	0	Cespedes	Mandy	De	403
+9/4/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	105		0	0	Gutman	Alberto	'Al'	1351
+9/4/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	109		0	0	Garcia, Jr.	Rodolfo	'Rudy'	1984
+9/4/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	109		0	0	Greene	Roxanna	Jimenez	421
+9/4/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	109		0	0	Hernandez	Oswaldo	F.	333
+9/4/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	109		0	0	Jacobson	Deborah	A.	1029
+9/4/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	111		0	0	Casas	Roberto		2947
+9/4/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	111		0	0	Fox	Ed		163
+9/4/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	111		0	0	Vidal	Yolanda	Montesino	664
+9/4/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	112		0	0	Amaro	H.	G.	1397
+9/4/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	112		0	0	Debesa	Placido	Paul	191
+9/4/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	112		0	0	Gonzalez-Quevedo	Arnhilda		2598
+9/4/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	112		0	0	Trujillo	Angel	Ed	293
+9/4/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	112		0	0	Welshans	Bob		739
+9/4/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	113		0	0	Cortina	Humberto		1665
+9/4/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	113		0	0	Marina	Evaristo	L.	1614
+9/4/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	113		0	0	Morse	Luis	C.	2314
+9/4/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	115		0	0	Arango	Franz		1434
+9/4/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	115		0	0	Dominguez	Carlos		1385
+9/4/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	115		0	0	Flinn	Gene		816
+9/4/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	115		0	0	Oliva	Alfredo		1282
+9/4/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	115		0	0	Souto	Javier		2018
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	ESC	Escambia	001	006	0	0	Geeker	Nick		23068
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	OKA	Okaloosa	001	006	0	0	Geeker	Nick		8522
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	SAN	Santa Rosa	001	006	0	0	Geeker	Nick		7037
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	WAL	Walton	001	006	0	0	Geeker	Nick		2461
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	ESC	Escambia	001	006	0	0	Santuri	Tom		17307
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	OKA	Okaloosa	001	006	0	0	Santuri	Tom		8653
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	SAN	Santa Rosa	001	006	0	0	Santuri	Tom		7683
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	WAL	Walton	001	006	0	0	Santuri	Tom		2180
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	001	0	0	Gary	William	L.	1810
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	001	0	0	Gary	William	L.	5124
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	001	0	0	Gary	William	L.	1910
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	001	0	0	Gary	William	L.	16185
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	001	0	0	Gary	William	L.	1262
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	001	0	0	Gary	William	L.	1924
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	001	0	0	Randolph	Roosevelt		921
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	001	0	0	Randolph	Roosevelt		4943
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	001	0	0	Randolph	Roosevelt		1391
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	001	0	0	Randolph	Roosevelt		12152
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	001	0	0	Randolph	Roosevelt		404
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	001	0	0	Randolph	Roosevelt		1048
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	003	0	0	Busch	David		1232
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	003	0	0	Busch	David		3280
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	003	0	0	Busch	David		732
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	003	0	0	Busch	David		6986
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	003	0	0	Busch	David		656
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	003	0	0	Busch	David		730
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	003	0	0	McClure	Charles	D.	1481
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	003	0	0	McClure	Charles	D.	6123
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	003	0	0	McClure	Charles	D.	2260
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	003	0	0	McClure	Charles	D.	21727
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	003	0	0	McClure	Charles	D.	1031
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	003	0	0	McClure	Charles	D.	2234
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	004	0	0	Black	Earl		1078
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	004	0	0	Black	Earl		5498
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	004	0	0	Black	Earl		1569
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	004	0	0	Black	Earl		10623
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	004	0	0	Black	Earl		793
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	004	0	0	Black	Earl		1324
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	004	0	0	Davey	P.	Kevin	1478
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	004	0	0	Davey	P.	Kevin	3449
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	004	0	0	Davey	P.	Kevin	1243
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	004	0	0	Davey	P.	Kevin	15274
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	004	0	0	Davey	P.	Kevin	847
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	004	0	0	Davey	P.	Kevin	1407
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	006	0	0	Cox	John	S.	4605
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	006	0	0	Cox	John	S.	29081
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	006	0	0	Cox	John	S.	4642
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	006	0	0	Sulik	John	J.	3392
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	006	0	0	Sulik	John	J.	20673
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	006	0	0	Sulik	John	J.	2666
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	007	0	0	Elliott, Jr.	Ralph	E.	1205
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	007	0	0	Elliott, Jr.	Ralph	E.	6934
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	007	0	0	Elliott, Jr.	Ralph	E.	665
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	007	0	0	Makofka	Lester		744
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	007	0	0	Makofka	Lester		6265
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	007	0	0	Makofka	Lester		680
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	007	0	0	Parsons	Bill		2540
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	007	0	0	Parsons	Bill		10637
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	007	0	0	Parsons	Bill		2357
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	007	0	0	Persons, Jr.	Robert	B.	1092
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	007	0	0	Persons, Jr.	Robert	B.	6565
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	007	0	0	Persons, Jr.	Robert	B.	976
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	007	0	0	Weatherby	Michael	B.	2264
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	007	0	0	Weatherby	Michael	B.	16576
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	007	0	0	Weatherby	Michael	B.	2444
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	006	0	0	Caldwell	Roy	W.	5711
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	006	0	0	Caldwell	Roy	W.	6830
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	006	0	0	Caldwell	Roy	W.	9669
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	006	0	0	Caldwell	Roy	W.	7593
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	006	0	0	Caldwell	Roy	W.	1952
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	006	0	0	Thurman	John		9704
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	006	0	0	Thurman	John		7511
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	006	0	0	Thurman	John		3381
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	006	0	0	Thurman	John		10868
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	006	0	0	Thurman	John		1111
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	001	0	0	Bray, Jr.	W.	Lowell	22356
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	001	0	0	Bray, Jr.	W.	Lowell	38848
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	001	0	0	Carr	Richard	W. 'Dick'	16792
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	001	0	0	Carr	Richard	W. 'Dick'	42330
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	002	0	0	Albritton	Owen	S.	25555
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	002	0	0	Albritton	Owen	S.	59574
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	002	0	0	Berman	Elihu	H.	11412
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	002	0	0	Berman	Elihu	H.	20300
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	003	0	0	Case	James	R.	19722
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	003	0	0	Case	James	R.	46919
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	003	0	0	O'Malley	William	P.	18380
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	003	0	0	O'Malley	William	P.	33822
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	006	0	0	Andrews	John	S.	26397
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	006	0	0	Andrews	John	S.	53633
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	006	0	0	Center	Jerry	H.	11829
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	006	0	0	Center	Jerry	H.	29166
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	015	0	0	Goldenfarb	Sondra	'Sunny' Ga	13863
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	015	0	0	Goldenfarb	Sondra	'Sunny' Ga	35000
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	015	0	0	Ware	John	T.	25266
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	015	0	0	Ware	John	T.	50009
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	002	0	0	Blossom	L.	Roland	586
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	002	0	0	Blossom	L.	Roland	1162
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	002	0	0	Blossom	L.	Roland	1742
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	002	0	0	Blossom	L.	Roland	5275
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	002	0	0	Gosney	Cliff		565
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	002	0	0	Gosney	Cliff		929
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	002	0	0	Gosney	Cliff		1418
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	002	0	0	Gosney	Cliff		7064
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	002	0	0	Johnson, Jr.	William	C. 'Bill'	1349
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	002	0	0	Johnson, Jr.	William	C. 'Bill'	3547
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	002	0	0	Johnson, Jr.	William	C. 'Bill'	4542
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	002	0	0	Johnson, Jr.	William	C. 'Bill'	15695
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	002	0	0	McFadden	J.	David	803
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	002	0	0	McFadden	J.	David	1385
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	002	0	0	McFadden	J.	David	2729
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	002	0	0	McFadden	J.	David	9570
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	HAR	Hardee	010	001	0	0	Durrance	Julian	Dale	2436
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	HIG	Highlands	010	001	0	0	Durrance	Julian	Dale	5194
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	POL	Polk	010	001	0	0	Durrance	Julian	Dale	23887
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	HAR	Hardee	010	001	0	0	Murray	James	D. 'Jim'	805
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	HIG	Highlands	010	001	0	0	Murray	James	D. 'Jim'	2610
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	POL	Polk	010	001	0	0	Murray	James	D. 'Jim'	21325
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	001	0	0	Bloom	Philip		109504
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	001	0	0	Herin	William	A. (Bill)	52207
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	005	0	0	Friedman	Ronald	M.	110703
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	005	0	0	Peckins	David	M.	44628
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	006	0	0	Donner	Amy	S.	84613
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	006	0	0	Farina	Fran	Myra	67293
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	006	0	0	Steele	Eugene	'Harold'	20838
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	007	0	0	Dellapa	Fred	M.	51246
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	007	0	0	Mackenzie	Mary	Ann	65345
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	007	0	0	Testa	Tom		44070
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	009	0	0	Tobin	David	L.	51789
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	009	0	0	Turner	Jack	M.	108700
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	023	0	0	Jones	Rosemary	Usher	108464
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	023	0	0	Lantz	'Dick'	C. P.	52224
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	024	0	0	Brigham	Ed		29511
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	024	0	0	Gersten	Joseph	J.	95165
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	024	0	0	Rubin	Leonard	H.	46072
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	025	0	0	Breger	Eli		56999
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	025	0	0	Esquiroz	Margarita		97085
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	025	0	0	Nazzaro	Joseph	C.	16469
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	027	0	0	Robinson	Steven	D.	105358
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	027	0	0	Wallen	Woodrow	A. Woody	31876
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DES	Desoto	012	006	0	0	Gallen	Tom		2797
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	MAN	Manatee	012	006	0	0	Gallen	Tom		17264
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	SAR	Sarasota	012	006	0	0	Gallen	Tom		17612
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	DES	Desoto	012	006	0	0	Haworth	Lee	E.	1945
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	MAN	Manatee	012	006	0	0	Haworth	Lee	E.	10419
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	SAR	Sarasota	012	006	0	0	Haworth	Lee	E.	22344
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	BAY	Bay	014	004	0	0	Costello	Dedee		10607
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	CAL	Calhoun	014	004	0	0	Costello	Dedee		1434
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	GUL	Gulf	014	004	0	0	Costello	Dedee		1531
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	HOL	Holmes	014	004	0	0	Costello	Dedee		2468
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	JAC	Jackson	014	004	0	0	Costello	Dedee		4090
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	WAS	Washington	014	004	0	0	Costello	Dedee		2697
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	BAY	Bay	014	004	0	0	Turner	W.	Fred	11618
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	CAL	Calhoun	014	004	0	0	Turner	W.	Fred	2312
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	GUL	Gulf	014	004	0	0	Turner	W.	Fred	2120
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	HOL	Holmes	014	004	0	0	Turner	W.	Fred	2726
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	JAC	Jackson	014	004	0	0	Turner	W.	Fred	6233
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	WAS	Washington	014	004	0	0	Turner	W.	Fred	2653
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	001	0	0	John	Leon	St.	25308
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	001	0	0	Wennet	Richard	I.	47018
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	004	0	0	Carlisle	James	T.	40310
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	004	0	0	Douglas	Paul	T.	31351
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	013	0	0	Kreidler	Frank	A.	22005
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	013	0	0	Lupo	Mary	E.	52663
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	MON	Monroe	016	002	0	0	Chappell	Bill	G.	3583
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	MON	Monroe	016	002	0	0	Fowler	Richard		6266
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	004	0	0	Englander	Patti	L.	43702
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	004	0	0	O'Toole	Robert	J.	36787
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	001	0	0	Antoon	John		26290
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	001	0	0	Antoon	John		8304
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	001	0	0	Dykes	Roger	F.	18166
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	001	0	0	Dykes	Roger	F.	7870
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	002	0	0	Clifton	William	R.	17535
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	002	0	0	Clifton	William	R.	6461
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	002	0	0	Waddell, Jr.	Tom		26657
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	002	0	0	Waddell, Jr.	Tom		9366
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	CHA	Charlotte	020	004	0	0	McIver	Wm.	C. 'Bill'	3739
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	CLL	Collier	020	004	0	0	McIver	Wm.	C. 'Bill'	6626
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	GLA	Glades	020	004	0	0	McIver	Wm.	C. 'Bill'	1072
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	HEN	Hendry	020	004	0	0	McIver	Wm.	C. 'Bill'	2336
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	LEE	Lee	020	004	0	0	McIver	Wm.	C. 'Bill'	27126
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	CHA	Charlotte	020	004	0	0	Stanley	Richard	M. (Dick)	9476
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	CLL	Collier	020	004	0	0	Stanley	Richard	M. (Dick)	8941
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	GLA	Glades	020	004	0	0	Stanley	Richard	M. (Dick)	853
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	HEN	Hendry	020	004	0	0	Stanley	Richard	M. (Dick)	1801
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	LEE	Lee	020	004	0	0	Stanley	Richard	M. (Dick)	13926
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	CHA	Charlotte	020	008	0	0	Friday, Jr.	Elmer	O.	5345
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	CLL	Collier	020	008	0	0	Friday, Jr.	Elmer	O.	7174
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	GLA	Glades	020	008	0	0	Friday, Jr.	Elmer	O.	1152
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	HEN	Hendry	020	008	0	0	Friday, Jr.	Elmer	O.	2555
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	LEE	Lee	020	008	0	0	Friday, Jr.	Elmer	O.	23730
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	CHA	Charlotte	020	008	0	0	Widmeyer	Stephan	B.	5921
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	CLL	Collier	020	008	0	0	Widmeyer	Stephan	B.	6793
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	GLA	Glades	020	008	0	0	Widmeyer	Stephan	B.	679
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	HEN	Hendry	020	008	0	0	Widmeyer	Stephan	B.	1417
+9/4/1984	NOP	Non-Partisan	CTJ	Circuit Judge	LEE	Lee	020	008	0	0	Widmeyer	Stephan	B.	14980

@@ -1,0 +1,3 @@
+"election_id","office_id","candidate_id","candidate","party","votes","vote_share","winner"
+"FL_1992-10-01_PRI-R","PD_19_000",NA,"Diamond Horne","REP",17706,0.576,1
+"FL_1992-10-01_PRI-R","PD_19_000",NA,"Elton Schwarz","REP",13053,0.424,0

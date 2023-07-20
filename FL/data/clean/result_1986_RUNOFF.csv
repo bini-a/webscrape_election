@@ -1,0 +1,3 @@
+"election_id","office_id","candidate_id","candidate","party","votes","vote_share","winner"
+"FL_1986-09-30_PRI-D","AG_FL_000",NA,"Ed Dunn","DEM",402413,0.499,0
+"FL_1986-09-30_PRI-D","AG_FL_000",NA,"Robert Butterworth","DEM",403413,0.501,1

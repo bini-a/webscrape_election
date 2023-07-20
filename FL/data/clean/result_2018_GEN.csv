@@ -1,0 +1,52 @@
+"election_id","office_id","candidate_id","candidate","party","votes","vote_share","winner"
+"FL_2018-11-06_GEN","AG_FL_000",NA,"Ashley Moody","REP",4232532,0.521,1
+"FL_2018-11-06_GEN","AG_FL_000",NA,"Jeffrey Siskind",NA,145296,0.018,0
+"FL_2018-11-06_GEN","AG_FL_000",NA,"Sean Shaw","DEM",3744912,0.461,0
+"FL_2018-11-06_GEN","SA_20_000",NA,"Amira Fox","REP",403899,0.998,1
+"FL_2018-11-06_GEN","SA_20_000",NA,"Joseph Hoffman","Write-In",844,0.002,0
+"FL_2018-11-06_GEN","TC2_10_10",NA,"Keith Merritt","NON",84039,0.353,0
+"FL_2018-11-06_GEN","TC2_10_10",NA,"Melissa Gravitt","NON",153760,0.647,1
+"FL_2018-11-06_GEN","TC2_11_14",NA,"Renee Gordon","NON",293606,0.468,0
+"FL_2018-11-06_GEN","TC2_11_14",NA,"Vivianne del Rio","NON",333289,0.532,1
+"FL_2018-11-06_GEN","TC2_13_25",NA,"Jamey Moody","NON",189115,0.443,0
+"FL_2018-11-06_GEN","TC2_13_25",NA,"Robin Fuson","NON",237779,0.557,1
+"FL_2018-11-06_GEN","TC2_15_13",NA,"Alcolya St. Juste","NON",214742,0.459,0
+"FL_2018-11-06_GEN","TC2_15_13",NA,"Scott Kerner","NON",253209,0.541,1
+"FL_2018-11-06_GEN","TC2_15_18",NA,"Marybel Coleman","NON",190059,0.41,0
+"FL_2018-11-06_GEN","TC2_15_18",NA,"Maxine Cheesman","NON",273103,0.59,1
+"FL_2018-11-06_GEN","TC2_15_25",NA,"Michael McAuliffe","NON",194495,0.417,0
+"FL_2018-11-06_GEN","TC2_15_25",NA,"Sarah Willis","NON",272008,0.583,1
+"FL_2018-11-06_GEN","TC2_17_38",NA,"Jason Allen-Rosner","NON",189873,0.336,0
+"FL_2018-11-06_GEN","TC2_17_38",NA,"Stefanie Moon","NON",375813,0.664,1
+"FL_2018-11-06_GEN","TC2_17_46",NA,"H. Curry","NON",264982,0.468,0
+"FL_2018-11-06_GEN","TC2_17_46",NA,"Maria Markhasin-Weekes","NON",301009,0.532,1
+"FL_2018-11-06_GEN","TC2_19_19",NA,"Nirlaine Smartt","NON",95349,0.398,0
+"FL_2018-11-06_GEN","TC2_19_19",NA,"Robert Meadows","NON",144430,0.602,1
+"FL_2018-11-06_GEN","TC2_2_12",NA,"David Frank","NON",89204,0.542,1
+"FL_2018-11-06_GEN","TC2_2_12",NA,"Lisa Barclay Fountain","NON",75458,0.458,0
+"FL_2018-11-06_GEN","TC2_6_4",NA,"Dave Ellis","NON",317941,0.594,1
+"FL_2018-11-06_GEN","TC2_6_4",NA,"Roxanne Fixsen","NON",216991,0.406,0
+"FL_2018-11-06_GEN","TC2_7_15",NA,"Linda Gaustad","NON",213965,0.586,1
+"FL_2018-11-06_GEN","TC2_7_15",NA,"Ryan Will","NON",151038,0.414,0
+"FL_2018-11-06_GEN","TC2_8_8",NA,"David Robertson","NON",62956,0.438,0
+"FL_2018-11-06_GEN","TC2_8_8",NA,"Gloria Walker","NON",80876,0.562,1
+"FL_2018-11-06_GEN","TC2_9_41",NA,"Dean Mosley","NON",190602,0.379,0
+"FL_2018-11-06_GEN","TC2_9_41",NA,"Laura Shaffer","NON",311855,0.621,1
+"FL_2018-11-06_GEN","SC_1_000",NA,"Alan Lawson","NON",5044890,0.714,1
+"FL_2018-11-06_GEN","TC1_1_1",NA,"Harvey Jay","NON",787244,0.664,1
+"FL_2018-11-06_GEN","TC1_1_2",NA,"Stephanie Ray","NON",813709,0.69,1
+"FL_2018-11-06_GEN","TC1_1_3",NA,"Brad Thomas","NON",773502,0.659,1
+"FL_2018-11-06_GEN","TC1_1_4",NA,"Kemmerly Thomas","NON",775643,0.661,1
+"FL_2018-11-06_GEN","TC1_1_5",NA,"Allen Winsor","NON",761518,0.649,1
+"FL_2018-11-06_GEN","TC1_2_1",NA,"Anthony Black","NON",1480603,0.736,1
+"FL_2018-11-06_GEN","TC1_2_2",NA,"Darryl Casanueva","NON",1395404,0.699,1
+"FL_2018-11-06_GEN","TC1_2_3",NA,"Edward LaRose","NON",1433864,0.719,1
+"FL_2018-11-06_GEN","TC1_2_4",NA,"Susan Rothstein-Youakim","NON",1451934,0.725,1
+"FL_2018-11-06_GEN","TC1_3_1",NA,"Kevin Emas","NON",532495,0.741,1
+"FL_2018-11-06_GEN","TC1_3_2",NA,"Ivan Fernandez","NON",533382,0.74,1
+"FL_2018-11-06_GEN","TC1_3_3",NA,"Norma Lindsey","NON",534916,0.753,1
+"FL_2018-11-06_GEN","TC1_3_4",NA,"Robert Luck","NON",501937,0.737,1
+"FL_2018-11-06_GEN","TC1_4_1",NA,"Burton Conner","NON",986636,0.751,1
+"FL_2018-11-06_GEN","TC1_4_2",NA,"Jeffrey Kuntz","NON",958412,0.737,1
+"FL_2018-11-06_GEN","TC1_4_3",NA,"Carole Taylor","NON",1022532,0.786,1
+"FL_2018-11-06_GEN","TC1_5_1",NA,"Eric Eisnaugle","NON",1119140,0.633,1

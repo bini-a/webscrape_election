@@ -1,0 +1,87 @@
+"","District_orig","County","election_id","office_id","candidate_id","candidate_name","first_name","last_name","prefix","suffix","gender","race","ethinicity","age","incumbent"
+"1","Statewide","Boone","IN_2004-11-02_GEN","AG_Boone_1_1",NA,"Joseph H. Hogsett","Joseph","Hogsett",NA,NA,NA,NA,NA,NA,NA
+"2","Statewide","Clinton","IN_2004-11-02_GEN","AG_Clinton_1_1",NA,"Joseph H. Hogsett","Joseph","Hogsett",NA,NA,NA,NA,NA,NA,NA
+"3","Statewide","Dearborn","IN_2004-11-02_GEN","AG_Dearborn_1_1",NA,"Joseph H. Hogsett","Joseph","Hogsett",NA,NA,NA,NA,NA,NA,NA
+"4","Statewide","Elkhart","IN_2004-11-02_GEN","AG_Elkhart_1_1",NA,"Joseph H. Hogsett","Joseph","Hogsett",NA,NA,NA,NA,NA,NA,NA
+"5","Statewide","Adams","IN_2004-11-02_GEN","AG_Adams_1_1",NA,"Joseph H. Hogsett","Joseph","Hogsett",NA,NA,NA,NA,NA,NA,NA
+"6","Statewide","Carroll","IN_2004-11-02_GEN","AG_Carroll_1_1",NA,"Joseph H. Hogsett","Joseph","Hogsett",NA,NA,NA,NA,NA,NA,NA
+"7","Statewide","Clay","IN_2004-11-02_GEN","AG_Clay_1_1",NA,"Joseph H. Hogsett","Joseph","Hogsett",NA,NA,NA,NA,NA,NA,NA
+"8","Statewide","Crawford","IN_2004-11-02_GEN","AG_Crawford_1_1",NA,"Joseph H. Hogsett","Joseph","Hogsett",NA,NA,NA,NA,NA,NA,NA
+"9","Statewide","Daviess","IN_2004-11-02_GEN","AG_Daviess_1_1",NA,"Joseph H. Hogsett","Joseph","Hogsett",NA,NA,NA,NA,NA,NA,NA
+"10","Statewide","DeKalb","IN_2004-11-02_GEN","AG_DeKalb_1_1",NA,"Joseph H. Hogsett","Joseph","Hogsett",NA,NA,NA,NA,NA,NA,NA
+"11","Statewide","Allen","IN_2004-11-02_GEN","AG_Allen_1_1",NA,"Joseph H. Hogsett","Joseph","Hogsett",NA,NA,NA,NA,NA,NA,NA
+"12","Statewide","Bartholomew","IN_2004-11-02_GEN","AG_Bartholomew_1_1",NA,"Joseph H. Hogsett","Joseph","Hogsett",NA,NA,NA,NA,NA,NA,NA
+"13","Statewide","Benton","IN_2004-11-02_GEN","AG_Benton_1_1",NA,"Joseph H. Hogsett","Joseph","Hogsett",NA,NA,NA,NA,NA,NA,NA
+"14","Statewide","Blackford","IN_2004-11-02_GEN","AG_Blackford_1_1",NA,"Joseph H. Hogsett","Joseph","Hogsett",NA,NA,NA,NA,NA,NA,NA
+"15","Statewide","Cass","IN_2004-11-02_GEN","AG_Cass_1_1",NA,"Joseph H. Hogsett","Joseph","Hogsett",NA,NA,NA,NA,NA,NA,NA
+"16","Statewide","Brown","IN_2004-11-02_GEN","AG_Brown_1_1",NA,"Joseph H. Hogsett","Joseph","Hogsett",NA,NA,NA,NA,NA,NA,NA
+"17","Statewide","Clark","IN_2004-11-02_GEN","AG_Clark_1_1",NA,"Joseph H. Hogsett","Joseph","Hogsett",NA,NA,NA,NA,NA,NA,NA
+"18","Statewide","Decatur","IN_2004-11-02_GEN","AG_Decatur_1_1",NA,"Joseph H. Hogsett","Joseph","Hogsett",NA,NA,NA,NA,NA,NA,NA
+"19","Statewide","Delaware","IN_2004-11-02_GEN","AG_Delaware_1_1",NA,"Joseph H. Hogsett","Joseph","Hogsett",NA,NA,NA,NA,NA,NA,NA
+"20","Statewide","Dubois","IN_2004-11-02_GEN","AG_Dubois_1_1",NA,"Joseph H. Hogsett","Joseph","Hogsett",NA,NA,NA,NA,NA,NA,NA
+"21","Statewide","Adams","IN_2004-11-02_GEN","AG_Adams_1_1",NA,"Aaron T. Milewski","Aaron","Milewski",NA,NA,NA,NA,NA,NA,NA
+"22","Statewide","Clinton","IN_2004-11-02_GEN","AG_Clinton_1_1",NA,"Aaron T. Milewski","Aaron","Milewski",NA,NA,NA,NA,NA,NA,NA
+"23","Statewide","Dearborn","IN_2004-11-02_GEN","AG_Dearborn_1_1",NA,"Aaron T. Milewski","Aaron","Milewski",NA,NA,NA,NA,NA,NA,NA
+"24","Statewide","Elkhart","IN_2004-11-02_GEN","AG_Elkhart_1_1",NA,"Aaron T. Milewski","Aaron","Milewski",NA,NA,NA,NA,NA,NA,NA
+"25","Statewide","Allen","IN_2004-11-02_GEN","AG_Allen_1_1",NA,"Aaron T. Milewski","Aaron","Milewski",NA,NA,NA,NA,NA,NA,NA
+"26","Statewide","Bartholomew","IN_2004-11-02_GEN","AG_Bartholomew_1_1",NA,"Aaron T. Milewski","Aaron","Milewski",NA,NA,NA,NA,NA,NA,NA
+"27","Statewide","Benton","IN_2004-11-02_GEN","AG_Benton_1_1",NA,"Aaron T. Milewski","Aaron","Milewski",NA,NA,NA,NA,NA,NA,NA
+"28","Statewide","Cass","IN_2004-11-02_GEN","AG_Cass_1_1",NA,"Aaron T. Milewski","Aaron","Milewski",NA,NA,NA,NA,NA,NA,NA
+"29","Statewide","Clark","IN_2004-11-02_GEN","AG_Clark_1_1",NA,"Aaron T. Milewski","Aaron","Milewski",NA,NA,NA,NA,NA,NA,NA
+"30","Statewide","Boone","IN_2004-11-02_GEN","AG_Boone_1_1",NA,"Aaron T. Milewski","Aaron","Milewski",NA,NA,NA,NA,NA,NA,NA
+"31","Statewide","Carroll","IN_2004-11-02_GEN","AG_Carroll_1_1",NA,"Aaron T. Milewski","Aaron","Milewski",NA,NA,NA,NA,NA,NA,NA
+"32","Statewide","Clay","IN_2004-11-02_GEN","AG_Clay_1_1",NA,"Aaron T. Milewski","Aaron","Milewski",NA,NA,NA,NA,NA,NA,NA
+"33","Statewide","Crawford","IN_2004-11-02_GEN","AG_Crawford_1_1",NA,"Aaron T. Milewski","Aaron","Milewski",NA,NA,NA,NA,NA,NA,NA
+"34","Statewide","Daviess","IN_2004-11-02_GEN","AG_Daviess_1_1",NA,"Aaron T. Milewski","Aaron","Milewski",NA,NA,NA,NA,NA,NA,NA
+"35","Statewide","Blackford","IN_2004-11-02_GEN","AG_Blackford_1_1",NA,"Aaron T. Milewski","Aaron","Milewski",NA,NA,NA,NA,NA,NA,NA
+"36","Statewide","Brown","IN_2004-11-02_GEN","AG_Brown_1_1",NA,"Aaron T. Milewski","Aaron","Milewski",NA,NA,NA,NA,NA,NA,NA
+"37","Statewide","Decatur","IN_2004-11-02_GEN","AG_Decatur_1_1",NA,"Aaron T. Milewski","Aaron","Milewski",NA,NA,NA,NA,NA,NA,NA
+"38","Statewide","DeKalb","IN_2004-11-02_GEN","AG_DeKalb_1_1",NA,"Aaron T. Milewski","Aaron","Milewski",NA,NA,NA,NA,NA,NA,NA
+"39","Statewide","Delaware","IN_2004-11-02_GEN","AG_Delaware_1_1",NA,"Aaron T. Milewski","Aaron","Milewski",NA,NA,NA,NA,NA,NA,NA
+"40","Statewide","Dubois","IN_2004-11-02_GEN","AG_Dubois_1_1",NA,"Aaron T. Milewski","Aaron","Milewski",NA,NA,NA,NA,NA,NA,NA
+"41","Statewide","Benton","IN_2004-11-02_GEN","AG_Benton_1_1",NA,"Steve Carter","Steve","Carter",NA,NA,NA,NA,NA,NA,NA
+"42","Statewide","Clark","IN_2004-11-02_GEN","AG_Clark_1_1",NA,"Steve Carter","Steve","Carter",NA,NA,NA,NA,NA,NA,NA
+"43","Statewide","Clay","IN_2004-11-02_GEN","AG_Clay_1_1",NA,"Steve Carter","Steve","Carter",NA,NA,NA,NA,NA,NA,NA
+"44","Statewide","Crawford","IN_2004-11-02_GEN","AG_Crawford_1_1",NA,"Steve Carter","Steve","Carter",NA,NA,NA,NA,NA,NA,NA
+"45","Statewide","Dubois","IN_2004-11-02_GEN","AG_Dubois_1_1",NA,"Steve Carter","Steve","Carter",NA,NA,NA,NA,NA,NA,NA
+"46","Statewide","Adams","IN_2004-11-02_GEN","AG_Adams_1_1",NA,"Steve Carter","Steve","Carter",NA,NA,NA,NA,NA,NA,NA
+"47","Statewide","Clinton","IN_2004-11-02_GEN","AG_Clinton_1_1",NA,"Steve Carter","Steve","Carter",NA,NA,NA,NA,NA,NA,NA
+"48","Statewide","DeKalb","IN_2004-11-02_GEN","AG_DeKalb_1_1",NA,"Steve Carter","Steve","Carter",NA,NA,NA,NA,NA,NA,NA
+"49","Statewide","Blackford","IN_2004-11-02_GEN","AG_Blackford_1_1",NA,"Steve Carter","Steve","Carter",NA,NA,NA,NA,NA,NA,NA
+"50","Statewide","Brown","IN_2004-11-02_GEN","AG_Brown_1_1",NA,"Steve Carter","Steve","Carter",NA,NA,NA,NA,NA,NA,NA
+"51","Statewide","Dearborn","IN_2004-11-02_GEN","AG_Dearborn_1_1",NA,"Steve Carter","Steve","Carter",NA,NA,NA,NA,NA,NA,NA
+"52","Statewide","Decatur","IN_2004-11-02_GEN","AG_Decatur_1_1",NA,"Steve Carter","Steve","Carter",NA,NA,NA,NA,NA,NA,NA
+"53","Statewide","Delaware","IN_2004-11-02_GEN","AG_Delaware_1_1",NA,"Steve Carter","Steve","Carter",NA,NA,NA,NA,NA,NA,NA
+"54","Statewide","Elkhart","IN_2004-11-02_GEN","AG_Elkhart_1_1",NA,"Steve Carter","Steve","Carter",NA,NA,NA,NA,NA,NA,NA
+"55","Statewide","Allen","IN_2004-11-02_GEN","AG_Allen_1_1",NA,"Steve Carter","Steve","Carter",NA,NA,NA,NA,NA,NA,NA
+"56","Statewide","Bartholomew","IN_2004-11-02_GEN","AG_Bartholomew_1_1",NA,"Steve Carter","Steve","Carter",NA,NA,NA,NA,NA,NA,NA
+"57","Statewide","Boone","IN_2004-11-02_GEN","AG_Boone_1_1",NA,"Steve Carter","Steve","Carter",NA,NA,NA,NA,NA,NA,NA
+"58","Statewide","Carroll","IN_2004-11-02_GEN","AG_Carroll_1_1",NA,"Steve Carter","Steve","Carter",NA,NA,NA,NA,NA,NA,NA
+"59","Statewide","Cass","IN_2004-11-02_GEN","AG_Cass_1_1",NA,"Steve Carter","Steve","Carter",NA,NA,NA,NA,NA,NA,NA
+"60","Statewide","Daviess","IN_2004-11-02_GEN","AG_Daviess_1_1",NA,"Steve Carter","Steve","Carter",NA,NA,NA,NA,NA,NA,NA
+"61","Bartholomew (9th Circuit)","Bartholomew","IN_2004-11-02_GEN","TC2_Bartholomew_9_1",NA,"Stephen R. Heimann","Stephen","Heimann",NA,NA,NA,NA,NA,NA,NA
+"62","Bartholomew (9th Circuit)","Bartholomew","IN_2004-11-02_GEN","TC2_Bartholomew_9_1",NA,"David A. Nowak","David","Nowak",NA,NA,NA,NA,NA,NA,NA
+"63","Clark (4th Circt), No. 1","Clark","IN_2004-11-02_GEN","TC2_Clark_4_1",NA,"Daniel F. Donahue","Daniel","Donahue",NA,NA,NA,NA,NA,NA,NA
+"64","Allen Civil No. 1","Allen","IN_2004-11-02_GEN","TC1_Allen_1_1",NA,"David J. Avery","David","Avery",NA,NA,NA,NA,NA,NA,NA
+"65","Allen Civil No. 9","Allen","IN_2004-11-02_GEN","TC1_Allen_1_9",NA,"Nancy Eshcoff Boyer","Nancy","Boyer",NA,NA,NA,NA,NA,NA,NA
+"66","Allen Criminal No. 4","Allen","IN_2004-11-02_GEN","TC1_Allen_1_4",NA,"Charles F. Pratt","Charles","Pratt",NA,NA,NA,NA,NA,NA,NA
+"67","Clay (13th Circuit)","Clay","IN_2004-11-02_GEN","TC2_Clay_13_1",NA,"Ernest E. Yelton","Ernest","Yelton",NA,NA,NA,NA,NA,NA,NA
+"68","Allen Criminal (Gull)","Allen","IN_2004-11-02_GEN","TC1_Allen_1_1",NA,"Kenneth R. Scheibenberger","Kenneth","Scheibenberger",NA,NA,NA,NA,NA,NA,NA
+"69","Crawford (77th Circuit)","Crawford","IN_2004-11-02_GEN","TC2_Crawford_77_1",NA,"Kenneth Lynn Lopp","Kenneth","Lopp",NA,NA,NA,NA,NA,NA,NA
+"70","Blackford County","Blackford","IN_2004-11-02_GEN","TC1_Blackford_1_1",NA,"John W. Forcum","John","Forcum",NA,NA,NA,NA,NA,NA,NA
+"71","Dearborn/Ohio (7th Cir.)","Dearborn","IN_2004-11-02_GEN","TC2_Dearborn_7_1",NA,"James D. Humphrey","James","Humphrey",NA,NA,NA,NA,NA,NA,NA
+"72","DeKalb (75th Circuit)","DeKalb","IN_2004-11-02_GEN","TC2_DeKalb_75_1",NA,"Kirk D. Carpenter","Kirk","Carpenter",NA,NA,NA,NA,NA,NA,NA
+"73","Delaware Ct. 1(46th Cir.)","Delaware","IN_2004-11-02_GEN","TC2_Delaware_46_1",NA,"Marianne Lafferty Vorhees","Marianne","Vorhees",NA,NA,NA,NA,NA,NA,NA
+"74","Delaware Ct. 1(46th Cir.)","Delaware","IN_2004-11-02_GEN","TC2_Delaware_46_1",NA,"Jeffrey L. Arnold","Jeffrey","Arnold",NA,NA,NA,NA,NA,NA,NA
+"75","Cass County, Court 1","Cass","IN_2004-11-02_GEN","TC1_Cass_1_1",NA,"Thomas C. Perrone","Thomas","Perrone",NA,NA,NA,NA,NA,NA,NA
+"76","Elkhart (34th Circuit)","Elkhart","IN_2004-11-02_GEN","TC2_Elkhart_34_1",NA,"Terry C. Shewmaker","Terry","Shewmaker",NA,NA,NA,NA,NA,NA,NA
+"77","Dubois County","Dubois","IN_2004-11-02_GEN","TC1_Dubois_1_1",NA,"Nathan A. Verkamp","Nathan","Verkamp",NA,NA,NA,NA,NA,NA,NA
+"78","Dubois County","Dubois","IN_2004-11-02_GEN","TC1_Dubois_1_1",NA,"Elaine Marie Becher Brown","Elaine","Brown",NA,NA,NA,NA,NA,NA,NA
+"79","Blackford County","Blackford","IN_2004-11-02_GEN","CK2_Blackford_1_1",NA,"Rik Rhodes","Rik","Rhodes",NA,NA,NA,NA,NA,NA,NA
+"80","Blackford County","Blackford","IN_2004-11-02_GEN","CK2_Blackford_1_1",NA,"Laura Pierce Coons","Laura","Coons",NA,NA,NA,NA,NA,NA,NA
+"81","Carroll County","Carroll","IN_2004-11-02_GEN","CK2_Carroll_1_1",NA,"Laura Sterrett","Laura","Sterrett",NA,NA,NA,NA,NA,NA,NA
+"82","Cass County","Cass","IN_2004-11-02_GEN","CK2_Cass_1_1",NA,"Sharon Strasser","Sharon","Strasser",NA,NA,NA,NA,NA,NA,NA
+"83","Cass County","Cass","IN_2004-11-02_GEN","CK2_Cass_1_1",NA,"Linda Crimmins","Linda","Crimmins",NA,NA,NA,NA,NA,NA,NA
+"84","Clay County","Clay","IN_2004-11-02_GEN","CK2_Clay_1_1",NA,"Mary C. Brown","Mary","Brown",NA,NA,NA,NA,NA,NA,NA
+"85","Dearborn County","Dearborn","IN_2004-11-02_GEN","CK2_Dearborn_1_1",NA,"Phillip D. Weaver","Phillip","Weaver",NA,NA,NA,NA,NA,NA,NA
+"86","DeKalb County","DeKalb","IN_2004-11-02_GEN","CK2_DeKalb_1_1",NA,"Jacqueline (Jackie) Rowan","Jacqueline","Rowan",NA,NA,NA,NA,NA,NA,NA

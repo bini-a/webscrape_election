@@ -1,0 +1,56 @@
+"election_id","office_id","candidate_id","candidate","party","votes","vote_share","winner"
+"FL_2004-08-31_PRI","TC2_11_3",NA,"John Schlesinger","NON",132176,0.571,1
+"FL_2004-08-31_PRI","TC2_11_3",NA,"Teresa Pooler","NON",99417,0.429,0
+"FL_2004-08-31_PRI","TC2_11_32",NA,"Barbara Areces","NON",138258,0.579,1
+"FL_2004-08-31_PRI","TC2_11_32",NA,"D. Levy","NON",100415,0.421,0
+"FL_2004-08-31_PRI","TC2_11_40",NA,"Catherine Parks","NON",66406,0.299,1
+"FL_2004-08-31_PRI","TC2_11_40",NA,"Don Cohn","NON",37937,0.171,0
+"FL_2004-08-31_PRI","TC2_11_40",NA,"Josie Velis","NON",51284,0.231,0
+"FL_2004-08-31_PRI","TC2_11_40",NA,"William Thomas","NON",66421,0.299,1
+"FL_2004-08-31_PRI","TC2_11_45",NA,"Henry Harnage","NON",87591,0.43,0
+"FL_2004-08-31_PRI","TC2_11_45",NA,"Peter Adrien","NON",116149,0.57,1
+"FL_2004-08-31_PRI","TC2_12_2",NA,"Diana Moreland","NON",44094,0.44,1
+"FL_2004-08-31_PRI","TC2_12_2",NA,"Michael Mosca","NON",16287,0.162,0
+"FL_2004-08-31_PRI","TC2_12_2",NA,"Susan Chapman","NON",31440,0.314,1
+"FL_2004-08-31_PRI","TC2_12_2",NA,"William Salomone","NON",8448,0.084,0
+"FL_2004-08-31_PRI","TC2_13_17",NA,"Beth Reineke","NON",49988,0.421,0
+"FL_2004-08-31_PRI","TC2_13_17",NA,"Charles 'Ed' Bergmann","NON",68711,0.579,1
+"FL_2004-08-31_PRI","TC2_15_4",NA,"Martin Colin","NON",79983,0.542,1
+"FL_2004-08-31_PRI","TC2_15_4",NA,"Robert Arnold","NON",67512,0.458,0
+"FL_2004-08-31_PRI","TC2_17_13",NA,"Hope Tieman-Bristol","NON",86792,0.536,1
+"FL_2004-08-31_PRI","TC2_17_13",NA,"Mila Schwartzreich","NON",75153,0.464,0
+"FL_2004-08-31_PRI","TC2_17_51",NA,"Cheryl Aleman","NON",83850,0.529,1
+"FL_2004-08-31_PRI","TC2_17_51",NA,"Robert Malove","NON",74627,0.471,0
+"FL_2004-08-31_PRI","TC2_19_1",NA,"Jim McCann","NON",50874,0.585,1
+"FL_2004-08-31_PRI","TC2_19_1",NA,"Robert Belanger","NON",36108,0.415,0
+"FL_2004-08-31_PRI","TC2_19_2",NA,"Albert Moore","NON",10315,0.116,0
+"FL_2004-08-31_PRI","TC2_19_2",NA,"Bob Pegg","NON",20361,0.23,1
+"FL_2004-08-31_PRI","TC2_19_2",NA,"Darren Steele","NON",14192,0.16,0
+"FL_2004-08-31_PRI","TC2_19_2",NA,"Gary Sweet","NON",27575,0.311,1
+"FL_2004-08-31_PRI","TC2_19_2",NA,"Jim Harpring","NON",16140,0.182,0
+"FL_2004-08-31_PRI","TC2_5_10",NA,"Anthony Tatti","NON",36540,0.234,0
+"FL_2004-08-31_PRI","TC2_5_10",NA,"Michael Takac","NON",47936,0.307,1
+"FL_2004-08-31_PRI","TC2_5_10",NA,"Stephen Spivey","NON",71575,0.459,1
+"FL_2004-08-31_PRI","TC2_5_24",NA,"Scott Wynn","NON",71808,0.464,0
+"FL_2004-08-31_PRI","TC2_5_24",NA,"Willard Pope","NON",82915,0.536,1
+"FL_2004-08-31_PRI","TC2_6_18",NA,"George Greer","NON",106019,0.65,1
+"FL_2004-08-31_PRI","TC2_6_18",NA,"Jan Govan","NON",56970,0.35,0
+"FL_2004-08-31_PRI","TC2_6_22",NA,"Bill Vinson","NON",20004,0.124,0
+"FL_2004-08-31_PRI","TC2_6_22",NA,"Cynthia Newton","NON",51256,0.319,1
+"FL_2004-08-31_PRI","TC2_6_22",NA,"Jack Day","NON",39761,0.247,1
+"FL_2004-08-31_PRI","TC2_6_22",NA,"Michael Berry Sr.","NON",16328,0.102,0
+"FL_2004-08-31_PRI","TC2_6_22",NA,"Walter Schafer Jr.","NON",33375,0.208,0
+"FL_2004-08-31_PRI","TC2_8_9",NA,"Craig Hall","NON",11926,0.202,0
+"FL_2004-08-31_PRI","TC2_8_9",NA,"Dan Sikes","NON",9176,0.155,0
+"FL_2004-08-31_PRI","TC2_8_9",NA,"Harvey Baxter","NON",18577,0.314,1
+"FL_2004-08-31_PRI","TC2_8_9",NA,"Mark Moseley","NON",19464,0.329,1
+"FL_2004-08-31_PRI-D","PD_8_000",NA,"Dean Galigani","DEM",23507,0.403,0
+"FL_2004-08-31_PRI-D","PD_8_000",NA,"Rick Parker","DEM",34770,0.597,1
+"FL_2004-08-31_PRI-R","PD_7_000",NA,"Bennett Ford Jr.","REP",23881,0.473,0
+"FL_2004-08-31_PRI-R","PD_7_000",NA,"James Purdy","REP",26632,0.527,1
+"FL_2004-08-31_PRI-R","SA_11_000",NA,"Al Milian","REP",83385,0.712,1
+"FL_2004-08-31_PRI-R","SA_11_000",NA,"Leslie Rothenberg","REP",33765,0.288,0
+"FL_2004-08-31_PRI-R","SA_13_000",NA,"Mark Ober","REP",95967,0.762,1
+"FL_2004-08-31_PRI-R","SA_13_000",NA,"Robin Fuson","REP",29924,0.238,0
+"FL_2004-08-31_PRI-R","SA_16_000",NA,"Jonathan Ellsworth","REP",7646,0.464,0
+"FL_2004-08-31_PRI-R","SA_16_000",NA,"Mark Kohl","REP",8847,0.536,1

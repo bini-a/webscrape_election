@@ -1,0 +1,1888 @@
+ElectionDate	PartyCode	PartyName	RaceCode	OfficeDesc	CountyCode	CountyName	Juris1num	Juris2num	Precincts	PrecinctsReporting	CanNameLast	CanNameFirst	CanNameMiddle	CanVotes
+9/4/1990	REP	Republican	USR	United States Representative	ALA	Alachua	006		0	0	Gallagher	Larry		1352
+9/4/1990	REP	Republican	USR	United States Representative	CIT	Citrus	006		0	0	Gallagher	Larry		1816
+9/4/1990	REP	Republican	USR	United States Representative	HER	Hernando	006		0	0	Gallagher	Larry		2682
+9/4/1990	REP	Republican	USR	United States Representative	LAK	Lake	006		0	0	Gallagher	Larry		2209
+9/4/1990	REP	Republican	USR	United States Representative	MRN	Marion	006		0	0	Gallagher	Larry		1568
+9/4/1990	REP	Republican	USR	United States Representative	PAS	Pasco	006		0	0	Gallagher	Larry		663
+9/4/1990	REP	Republican	USR	United States Representative	PUT	Putnam	006		0	0	Gallagher	Larry		19
+9/4/1990	REP	Republican	USR	United States Representative	SUM	Sumter	006		0	0	Gallagher	Larry		247
+9/4/1990	REP	Republican	USR	United States Representative	ALA	Alachua	006		0	0	Stearns	Clifford	(Cliff) B.	6442
+9/4/1990	REP	Republican	USR	United States Representative	CIT	Citrus	006		0	0	Stearns	Clifford	(Cliff) B.	5633
+9/4/1990	REP	Republican	USR	United States Representative	HER	Hernando	006		0	0	Stearns	Clifford	(Cliff) B.	7123
+9/4/1990	REP	Republican	USR	United States Representative	LAK	Lake	006		0	0	Stearns	Clifford	(Cliff) B.	7942
+9/4/1990	REP	Republican	USR	United States Representative	MRN	Marion	006		0	0	Stearns	Clifford	(Cliff) B.	8428
+9/4/1990	REP	Republican	USR	United States Representative	PAS	Pasco	006		0	0	Stearns	Clifford	(Cliff) B.	941
+9/4/1990	REP	Republican	USR	United States Representative	PUT	Putnam	006		0	0	Stearns	Clifford	(Cliff) B.	51
+9/4/1990	REP	Republican	USR	United States Representative	SUM	Sumter	006		0	0	Stearns	Clifford	(Cliff) B.	705
+9/4/1990	REP	Republican	USR	United States Representative	HIL	Hillsborough	009		0	0	Bilirakis	Michael		6467
+9/4/1990	REP	Republican	USR	United States Representative	PAS	Pasco	009		0	0	Bilirakis	Michael		11569
+9/4/1990	REP	Republican	USR	United States Representative	PIN	Pinellas	009		0	0	Bilirakis	Michael		18834
+9/4/1990	REP	Republican	USR	United States Representative	HIL	Hillsborough	009		0	0	Freehafer	John		1157
+9/4/1990	REP	Republican	USR	United States Representative	PAS	Pasco	009		0	0	Freehafer	John		2428
+9/4/1990	REP	Republican	USR	United States Representative	PIN	Pinellas	009		0	0	Freehafer	John		3731
+9/4/1990	REP	Republican	USR	United States Representative	BRE	Brevard	011		0	0	Filiberto	Frank	P.	4349
+9/4/1990	REP	Republican	USR	United States Representative	IND	Indian River	011		0	0	Filiberto	Frank	P.	615
+9/4/1990	REP	Republican	USR	United States Representative	ORA	Orange	011		0	0	Filiberto	Frank	P.	493
+9/4/1990	REP	Republican	USR	United States Representative	OSC	Osceola	011		0	0	Filiberto	Frank	P.	159
+9/4/1990	REP	Republican	USR	United States Representative	BRE	Brevard	011		0	0	Oliver	Lewis	(Lew)	1001
+9/4/1990	REP	Republican	USR	United States Representative	IND	Indian River	011		0	0	Oliver	Lewis	(Lew)	232
+9/4/1990	REP	Republican	USR	United States Representative	ORA	Orange	011		0	0	Oliver	Lewis	(Lew)	749
+9/4/1990	REP	Republican	USR	United States Representative	OSC	Osceola	011		0	0	Oliver	Lewis	(Lew)	253
+9/4/1990	REP	Republican	USR	United States Representative	BRE	Brevard	011		0	0	Pearlman	Mel		2099
+9/4/1990	REP	Republican	USR	United States Representative	IND	Indian River	011		0	0	Pearlman	Mel		258
+9/4/1990	REP	Republican	USR	United States Representative	ORA	Orange	011		0	0	Pearlman	Mel		1111
+9/4/1990	REP	Republican	USR	United States Representative	OSC	Osceola	011		0	0	Pearlman	Mel		259
+9/4/1990	REP	Republican	USR	United States Representative	BRE	Brevard	011		0	0	Tolley	Bill		12388
+9/4/1990	REP	Republican	USR	United States Representative	IND	Indian River	011		0	0	Tolley	Bill		2608
+9/4/1990	REP	Republican	USR	United States Representative	ORA	Orange	011		0	0	Tolley	Bill		5344
+9/4/1990	REP	Republican	USR	United States Representative	OSC	Osceola	011		0	0	Tolley	Bill		1576
+9/4/1990	REP	Republican	USR	United States Representative	BRE	Brevard	011		0	0	Vogt	John		12468
+9/4/1990	REP	Republican	USR	United States Representative	IND	Indian River	011		0	0	Vogt	John		1667
+9/4/1990	REP	Republican	USR	United States Representative	ORA	Orange	011		0	0	Vogt	John		5410
+9/4/1990	REP	Republican	USR	United States Representative	OSC	Osceola	011		0	0	Vogt	John		1711
+9/4/1990	REP	Republican	USR	United States Representative	BRE	Brevard	011		0	0	Wharton	Bonnie		2573
+9/4/1990	REP	Republican	USR	United States Representative	IND	Indian River	011		0	0	Wharton	Bonnie		560
+9/4/1990	REP	Republican	USR	United States Representative	ORA	Orange	011		0	0	Wharton	Bonnie		2192
+9/4/1990	REP	Republican	USR	United States Representative	OSC	Osceola	011		0	0	Wharton	Bonnie		680
+9/4/1990	REP	Republican	USR	United States Representative	CLL	Collier	012		0	0	Boyles	Kevan		1877
+9/4/1990	REP	Republican	USR	United States Representative	GLA	Glades	012		0	0	Boyles	Kevan		32
+9/4/1990	REP	Republican	USR	United States Representative	HEN	Hendry	012		0	0	Boyles	Kevan		72
+9/4/1990	REP	Republican	USR	United States Representative	HIG	Highlands	012		0	0	Boyles	Kevan		955
+9/4/1990	REP	Republican	USR	United States Representative	IND	Indian River	012		0	0	Boyles	Kevan		884
+9/4/1990	REP	Republican	USR	United States Representative	MRT	Martin	012		0	0	Boyles	Kevan		2668
+9/4/1990	REP	Republican	USR	United States Representative	OKE	Okeechobee	012		0	0	Boyles	Kevan		89
+9/4/1990	REP	Republican	USR	United States Representative	PAL	Palm Beach	012		0	0	Boyles	Kevan		2377
+9/4/1990	REP	Republican	USR	United States Representative	STL	St. Lucie	012		0	0	Boyles	Kevan		2515
+9/4/1990	REP	Republican	USR	United States Representative	CLL	Collier	012		0	0	Lewis	Tom		4767
+9/4/1990	REP	Republican	USR	United States Representative	GLA	Glades	012		0	0	Lewis	Tom		123
+9/4/1990	REP	Republican	USR	United States Representative	HEN	Hendry	012		0	0	Lewis	Tom		321
+9/4/1990	REP	Republican	USR	United States Representative	HIG	Highlands	012		0	0	Lewis	Tom		3008
+9/4/1990	REP	Republican	USR	United States Representative	IND	Indian River	012		0	0	Lewis	Tom		2318
+9/4/1990	REP	Republican	USR	United States Representative	MRT	Martin	012		0	0	Lewis	Tom		8524
+9/4/1990	REP	Republican	USR	United States Representative	OKE	Okeechobee	012		0	0	Lewis	Tom		391
+9/4/1990	REP	Republican	USR	United States Representative	PAL	Palm Beach	012		0	0	Lewis	Tom		7462
+9/4/1990	REP	Republican	USR	United States Representative	STL	St. Lucie	012		0	0	Lewis	Tom		6912
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	ALA	Alachua			0	0	Walter D. Murray	John Davis	/	402
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	BAK	Baker			0	0	Walter D. Murray	John Davis	/	5
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	BAY	Bay			0	0	Walter D. Murray	John Davis	/	282
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	BRA	Bradford			0	0	Walter D. Murray	John Davis	/	12
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	BRE	Brevard			0	0	Walter D. Murray	John Davis	/	1223
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	BRO	Broward			0	0	Walter D. Murray	John Davis	/	3231
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CAL	Calhoun			0	0	Walter D. Murray	John Davis	/	7
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CHA	Charlotte			0	0	Walter D. Murray	John Davis	/	831
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CIT	Citrus			0	0	Walter D. Murray	John Davis	/	373
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CLA	Clay			0	0	Walter D. Murray	John Davis	/	341
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CLL	Collier			0	0	Walter D. Murray	John Davis	/	1354
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CLM	Columbia			0	0	Walter D. Murray	John Davis	/	43
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	DES	Desoto			0	0	Walter D. Murray	John Davis	/	16
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	DIX	Dixie			0	0	Walter D. Murray	John Davis	/	15
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	DUV	Duval			0	0	Walter D. Murray	John Davis	/	569
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	ESC	Escambia			0	0	Walter D. Murray	John Davis	/	738
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	FLA	Flagler			0	0	Walter D. Murray	John Davis	/	169
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	FRA	Franklin			0	0	Walter D. Murray	John Davis	/	8
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	GAD	Gadsden			0	0	Walter D. Murray	John Davis	/	21
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	GIL	Gilchrist			0	0	Walter D. Murray	John Davis	/	16
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	GLA	Glades			0	0	Walter D. Murray	John Davis	/	12
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	GUL	Gulf			0	0	Walter D. Murray	John Davis	/	6
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HAM	Hamilton			0	0	Walter D. Murray	John Davis	/	4
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HAR	Hardee			0	0	Walter D. Murray	John Davis	/	4
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HEN	Hendry			0	0	Walter D. Murray	John Davis	/	17
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HER	Hernando			0	0	Walter D. Murray	John Davis	/	549
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HIG	Highlands			0	0	Walter D. Murray	John Davis	/	179
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HIL	Hillsborough			0	0	Walter D. Murray	John Davis	/	1178
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HOL	Holmes			0	0	Walter D. Murray	John Davis	/	14
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	IND	Indian River			0	0	Walter D. Murray	John Davis	/	447
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	JAC	Jackson			0	0	Walter D. Murray	John Davis	/	32
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	JEF	Jefferson			0	0	Walter D. Murray	John Davis	/	12
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LAF	Lafayette			0	0	Walter D. Murray	John Davis	/	3
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LAK	Lake			0	0	Walter D. Murray	John Davis	/	496
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LEE	Lee			0	0	Walter D. Murray	John Davis	/	1079
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LEO	Leon			0	0	Walter D. Murray	John Davis	/	239
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LEV	Levy			0	0	Walter D. Murray	John Davis	/	25
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LIB	Liberty			0	0	Walter D. Murray	John Davis	/	0
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	MAD	Madison			0	0	Walter D. Murray	John Davis	/	4
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	MAN	Manatee			0	0	Walter D. Murray	John Davis	/	665
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	MRN	Marion			0	0	Walter D. Murray	John Davis	/	512
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	MRT	Martin			0	0	Walter D. Murray	John Davis	/	596
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	DAD	Miami-Dade			0	0	Walter D. Murray	John Davis	/	3318
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	MON	Monroe			0	0	Walter D. Murray	John Davis	/	422
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	NAS	Nassau			0	0	Walter D. Murray	John Davis	/	22
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	OKA	Okaloosa			0	0	Walter D. Murray	John Davis	/	571
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	OKE	Okeechobee			0	0	Walter D. Murray	John Davis	/	32
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	ORA	Orange			0	0	Walter D. Murray	John Davis	/	1765
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	OSC	Osceola			0	0	Walter D. Murray	John Davis	/	396
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	PAL	Palm Beach			0	0	Walter D. Murray	John Davis	/	1656
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	PAS	Pasco			0	0	Walter D. Murray	John Davis	/	758
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	PIN	Pinellas			0	0	Walter D. Murray	John Davis	/	2569
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	POL	Polk			0	0	Walter D. Murray	John Davis	/	533
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	PUT	Putnam			0	0	Walter D. Murray	John Davis	/	131
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	SAN	Santa Rosa			0	0	Walter D. Murray	John Davis	/	250
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	SAR	Sarasota			0	0	Walter D. Murray	John Davis	/	2811
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	SEM	Seminole			0	0	Walter D. Murray	John Davis	/	974
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	STJ	St. Johns			0	0	Walter D. Murray	John Davis	/	311
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	STL	St. Lucie			0	0	Walter D. Murray	John Davis	/	760
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	SUM	Sumter			0	0	Walter D. Murray	John Davis	/	42
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	SUW	Suwannee			0	0	Walter D. Murray	John Davis	/	10
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	TAY	Taylor			0	0	Walter D. Murray	John Davis	/	20
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	UNI	Union			0	0	Walter D. Murray	John Davis	/	0
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	VOL	Volusia			0	0	Walter D. Murray	John Davis	/	1544
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	WAK	Wakulla			0	0	Walter D. Murray	John Davis	/	26
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	WAL	Walton			0	0	Walter D. Murray	John Davis	/	61
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	WAS	Washington			0	0	Walter D. Murray	John Davis	/	9
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	ALA	Alachua			0	0	Charles McDonald	Warren H. Folks	/	133
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	BAK	Baker			0	0	Charles McDonald	Warren H. Folks	/	2
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	BAY	Bay			0	0	Charles McDonald	Warren H. Folks	/	98
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	BRA	Bradford			0	0	Charles McDonald	Warren H. Folks	/	6
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	BRE	Brevard			0	0	Charles McDonald	Warren H. Folks	/	519
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	BRO	Broward			0	0	Charles McDonald	Warren H. Folks	/	1136
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CAL	Calhoun			0	0	Charles McDonald	Warren H. Folks	/	2
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CHA	Charlotte			0	0	Charles McDonald	Warren H. Folks	/	271
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CIT	Citrus			0	0	Charles McDonald	Warren H. Folks	/	142
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CLA	Clay			0	0	Charles McDonald	Warren H. Folks	/	107
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CLL	Collier			0	0	Charles McDonald	Warren H. Folks	/	362
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CLM	Columbia			0	0	Charles McDonald	Warren H. Folks	/	18
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	DES	Desoto			0	0	Charles McDonald	Warren H. Folks	/	3
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	DIX	Dixie			0	0	Charles McDonald	Warren H. Folks	/	4
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	DUV	Duval			0	0	Charles McDonald	Warren H. Folks	/	271
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	ESC	Escambia			0	0	Charles McDonald	Warren H. Folks	/	249
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	FLA	Flagler			0	0	Charles McDonald	Warren H. Folks	/	26
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	FRA	Franklin			0	0	Charles McDonald	Warren H. Folks	/	7
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	GAD	Gadsden			0	0	Charles McDonald	Warren H. Folks	/	3
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	GIL	Gilchrist			0	0	Charles McDonald	Warren H. Folks	/	3
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	GLA	Glades			0	0	Charles McDonald	Warren H. Folks	/	4
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	GUL	Gulf			0	0	Charles McDonald	Warren H. Folks	/	6
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HAM	Hamilton			0	0	Charles McDonald	Warren H. Folks	/	0
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HAR	Hardee			0	0	Charles McDonald	Warren H. Folks	/	5
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HEN	Hendry			0	0	Charles McDonald	Warren H. Folks	/	7
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HER	Hernando			0	0	Charles McDonald	Warren H. Folks	/	163
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HIG	Highlands			0	0	Charles McDonald	Warren H. Folks	/	46
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HIL	Hillsborough			0	0	Charles McDonald	Warren H. Folks	/	338
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HOL	Holmes			0	0	Charles McDonald	Warren H. Folks	/	0
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	IND	Indian River			0	0	Charles McDonald	Warren H. Folks	/	197
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	JAC	Jackson			0	0	Charles McDonald	Warren H. Folks	/	14
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	JEF	Jefferson			0	0	Charles McDonald	Warren H. Folks	/	3
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LAF	Lafayette			0	0	Charles McDonald	Warren H. Folks	/	1
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LAK	Lake			0	0	Charles McDonald	Warren H. Folks	/	189
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LEE	Lee			0	0	Charles McDonald	Warren H. Folks	/	339
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LEO	Leon			0	0	Charles McDonald	Warren H. Folks	/	130
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LEV	Levy			0	0	Charles McDonald	Warren H. Folks	/	8
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LIB	Liberty			0	0	Charles McDonald	Warren H. Folks	/	0
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	MAD	Madison			0	0	Charles McDonald	Warren H. Folks	/	1
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	MAN	Manatee			0	0	Charles McDonald	Warren H. Folks	/	196
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	MRN	Marion			0	0	Charles McDonald	Warren H. Folks	/	216
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	MRT	Martin			0	0	Charles McDonald	Warren H. Folks	/	221
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	DAD	Miami-Dade			0	0	Charles McDonald	Warren H. Folks	/	828
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	MON	Monroe			0	0	Charles McDonald	Warren H. Folks	/	152
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	NAS	Nassau			0	0	Charles McDonald	Warren H. Folks	/	16
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	OKA	Okaloosa			0	0	Charles McDonald	Warren H. Folks	/	200
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	OKE	Okeechobee			0	0	Charles McDonald	Warren H. Folks	/	15
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	ORA	Orange			0	0	Charles McDonald	Warren H. Folks	/	580
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	OSC	Osceola			0	0	Charles McDonald	Warren H. Folks	/	91
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	PAL	Palm Beach			0	0	Charles McDonald	Warren H. Folks	/	561
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	PAS	Pasco			0	0	Charles McDonald	Warren H. Folks	/	256
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	PIN	Pinellas			0	0	Charles McDonald	Warren H. Folks	/	1057
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	POL	Polk			0	0	Charles McDonald	Warren H. Folks	/	192
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	PUT	Putnam			0	0	Charles McDonald	Warren H. Folks	/	32
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	SAN	Santa Rosa			0	0	Charles McDonald	Warren H. Folks	/	81
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	SAR	Sarasota			0	0	Charles McDonald	Warren H. Folks	/	917
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	SEM	Seminole			0	0	Charles McDonald	Warren H. Folks	/	311
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	STJ	St. Johns			0	0	Charles McDonald	Warren H. Folks	/	70
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	STL	St. Lucie			0	0	Charles McDonald	Warren H. Folks	/	345
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	SUM	Sumter			0	0	Charles McDonald	Warren H. Folks	/	24
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	SUW	Suwannee			0	0	Charles McDonald	Warren H. Folks	/	9
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	TAY	Taylor			0	0	Charles McDonald	Warren H. Folks	/	6
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	UNI	Union			0	0	Charles McDonald	Warren H. Folks	/	1
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	VOL	Volusia			0	0	Charles McDonald	Warren H. Folks	/	360
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	WAK	Wakulla			0	0	Charles McDonald	Warren H. Folks	/	7
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	WAL	Walton			0	0	Charles McDonald	Warren H. Folks	/	29
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	WAS	Washington			0	0	Charles McDonald	Warren H. Folks	/	1
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	ALA	Alachua			0	0	Eric H. Wieler	Marlene Woodson Howard	/	970
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	BAK	Baker			0	0	Eric H. Wieler	Marlene Woodson Howard	/	3
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	BAY	Bay			0	0	Eric H. Wieler	Marlene Woodson Howard	/	348
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	BRA	Bradford			0	0	Eric H. Wieler	Marlene Woodson Howard	/	33
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	BRE	Brevard			0	0	Eric H. Wieler	Marlene Woodson Howard	/	4359
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	BRO	Broward			0	0	Eric H. Wieler	Marlene Woodson Howard	/	5850
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CAL	Calhoun			0	0	Eric H. Wieler	Marlene Woodson Howard	/	4
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CHA	Charlotte			0	0	Eric H. Wieler	Marlene Woodson Howard	/	2807
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CIT	Citrus			0	0	Eric H. Wieler	Marlene Woodson Howard	/	1212
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CLA	Clay			0	0	Eric H. Wieler	Marlene Woodson Howard	/	534
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CLL	Collier			0	0	Eric H. Wieler	Marlene Woodson Howard	/	1859
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CLM	Columbia			0	0	Eric H. Wieler	Marlene Woodson Howard	/	59
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	DES	Desoto			0	0	Eric H. Wieler	Marlene Woodson Howard	/	87
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	DIX	Dixie			0	0	Eric H. Wieler	Marlene Woodson Howard	/	3
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	DUV	Duval			0	0	Eric H. Wieler	Marlene Woodson Howard	/	1290
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	ESC	Escambia			0	0	Eric H. Wieler	Marlene Woodson Howard	/	1042
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	FLA	Flagler			0	0	Eric H. Wieler	Marlene Woodson Howard	/	434
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	FRA	Franklin			0	0	Eric H. Wieler	Marlene Woodson Howard	/	13
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	GAD	Gadsden			0	0	Eric H. Wieler	Marlene Woodson Howard	/	32
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	GIL	Gilchrist			0	0	Eric H. Wieler	Marlene Woodson Howard	/	13
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	GLA	Glades			0	0	Eric H. Wieler	Marlene Woodson Howard	/	14
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	GUL	Gulf			0	0	Eric H. Wieler	Marlene Woodson Howard	/	10
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HAM	Hamilton			0	0	Eric H. Wieler	Marlene Woodson Howard	/	6
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HAR	Hardee			0	0	Eric H. Wieler	Marlene Woodson Howard	/	46
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HEN	Hendry			0	0	Eric H. Wieler	Marlene Woodson Howard	/	55
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HER	Hernando			0	0	Eric H. Wieler	Marlene Woodson Howard	/	2736
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HIG	Highlands			0	0	Eric H. Wieler	Marlene Woodson Howard	/	870
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HIL	Hillsborough			0	0	Eric H. Wieler	Marlene Woodson Howard	/	9084
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HOL	Holmes			0	0	Eric H. Wieler	Marlene Woodson Howard	/	11
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	IND	Indian River			0	0	Eric H. Wieler	Marlene Woodson Howard	/	912
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	JAC	Jackson			0	0	Eric H. Wieler	Marlene Woodson Howard	/	35
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	JEF	Jefferson			0	0	Eric H. Wieler	Marlene Woodson Howard	/	33
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LAF	Lafayette			0	0	Eric H. Wieler	Marlene Woodson Howard	/	1
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LAK	Lake			0	0	Eric H. Wieler	Marlene Woodson Howard	/	1625
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LEE	Lee			0	0	Eric H. Wieler	Marlene Woodson Howard	/	4019
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LEO	Leon			0	0	Eric H. Wieler	Marlene Woodson Howard	/	1890
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LEV	Levy			0	0	Eric H. Wieler	Marlene Woodson Howard	/	55
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LIB	Liberty			0	0	Eric H. Wieler	Marlene Woodson Howard	/	5
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	MAD	Madison			0	0	Eric H. Wieler	Marlene Woodson Howard	/	19
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	MAN	Manatee			0	0	Eric H. Wieler	Marlene Woodson Howard	/	8131
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	MRN	Marion			0	0	Eric H. Wieler	Marlene Woodson Howard	/	1234
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	MRT	Martin			0	0	Eric H. Wieler	Marlene Woodson Howard	/	1158
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	DAD	Miami-Dade			0	0	Eric H. Wieler	Marlene Woodson Howard	/	5203
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	MON	Monroe			0	0	Eric H. Wieler	Marlene Woodson Howard	/	685
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	NAS	Nassau			0	0	Eric H. Wieler	Marlene Woodson Howard	/	32
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	OKA	Okaloosa			0	0	Eric H. Wieler	Marlene Woodson Howard	/	1444
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	OKE	Okeechobee			0	0	Eric H. Wieler	Marlene Woodson Howard	/	36
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	ORA	Orange			0	0	Eric H. Wieler	Marlene Woodson Howard	/	5981
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	OSC	Osceola			0	0	Eric H. Wieler	Marlene Woodson Howard	/	540
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	PAL	Palm Beach			0	0	Eric H. Wieler	Marlene Woodson Howard	/	4251
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	PAS	Pasco			0	0	Eric H. Wieler	Marlene Woodson Howard	/	4828
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	PIN	Pinellas			0	0	Eric H. Wieler	Marlene Woodson Howard	/	22354
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	POL	Polk			0	0	Eric H. Wieler	Marlene Woodson Howard	/	2874
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	PUT	Putnam			0	0	Eric H. Wieler	Marlene Woodson Howard	/	116
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	SAN	Santa Rosa			0	0	Eric H. Wieler	Marlene Woodson Howard	/	439
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	SAR	Sarasota			0	0	Eric H. Wieler	Marlene Woodson Howard	/	22459
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	SEM	Seminole			0	0	Eric H. Wieler	Marlene Woodson Howard	/	2970
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	STJ	St. Johns			0	0	Eric H. Wieler	Marlene Woodson Howard	/	352
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	STL	St. Lucie			0	0	Eric H. Wieler	Marlene Woodson Howard	/	920
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	SUM	Sumter			0	0	Eric H. Wieler	Marlene Woodson Howard	/	162
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	SUW	Suwannee			0	0	Eric H. Wieler	Marlene Woodson Howard	/	32
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	TAY	Taylor			0	0	Eric H. Wieler	Marlene Woodson Howard	/	20
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	UNI	Union			0	0	Eric H. Wieler	Marlene Woodson Howard	/	4
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	VOL	Volusia			0	0	Eric H. Wieler	Marlene Woodson Howard	/	3784
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	WAK	Wakulla			0	0	Eric H. Wieler	Marlene Woodson Howard	/	55
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	WAL	Walton			0	0	Eric H. Wieler	Marlene Woodson Howard	/	104
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	WAS	Washington			0	0	Eric H. Wieler	Marlene Woodson Howard	/	19
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	ALA	Alachua			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	357
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	BAK	Baker			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	2
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	BAY	Bay			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	221
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	BRA	Bradford			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	11
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	BRE	Brevard			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	1631
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	BRO	Broward			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	2403
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CAL	Calhoun			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	2
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CHA	Charlotte			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	541
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CIT	Citrus			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	243
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CLA	Clay			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	239
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CLL	Collier			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	893
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CLM	Columbia			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	30
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	DES	Desoto			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	22
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	DIX	Dixie			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	7
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	DUV	Duval			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	607
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	ESC	Escambia			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	543
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	FLA	Flagler			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	45
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	FRA	Franklin			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	4
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	GAD	Gadsden			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	23
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	GIL	Gilchrist			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	5
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	GLA	Glades			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	5
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	GUL	Gulf			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	8
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HAM	Hamilton			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	1
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HAR	Hardee			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	9
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HEN	Hendry			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	12
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HER	Hernando			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	376
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HIG	Highlands			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	135
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HIL	Hillsborough			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	1185
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HOL	Holmes			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	5
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	IND	Indian River			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	311
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	JAC	Jackson			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	18
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	JEF	Jefferson			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	10
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LAF	Lafayette			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	1
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LAK	Lake			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	460
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LEE	Lee			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	859
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LEO	Leon			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	280
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LEV	Levy			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	14
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LIB	Liberty			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	0
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	MAD	Madison			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	2
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	MAN	Manatee			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	448
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	MRN	Marion			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	285
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	MRT	Martin			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	535
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	DAD	Miami-Dade			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	2527
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	MON	Monroe			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	206
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	NAS	Nassau			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	16
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	OKA	Okaloosa			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	528
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	OKE	Okeechobee			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	19
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	ORA	Orange			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	1882
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	OSC	Osceola			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	293
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	PAL	Palm Beach			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	1180
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	PAS	Pasco			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	677
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	PIN	Pinellas			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	3005
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	POL	Polk			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	413
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	PUT	Putnam			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	59
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	SAN	Santa Rosa			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	132
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	SAR	Sarasota			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	2717
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	SEM	Seminole			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	724
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	STJ	St. Johns			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	159
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	STL	St. Lucie			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	459
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	SUM	Sumter			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	47
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	SUW	Suwannee			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	23
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	TAY	Taylor			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	16
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	UNI	Union			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	0
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	VOL	Volusia			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	628
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	WAK	Wakulla			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	21
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	WAL	Walton			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	58
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	WAS	Washington			0	0	Barbara A. Lindsey	Anthony R. 'Andy' Martin	/	14
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	ALA	Alachua			0	0	Allison Defoor	Bob Martinez	/	5908
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	BAK	Baker			0	0	Allison Defoor	Bob Martinez	/	41
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	BAY	Bay			0	0	Allison Defoor	Bob Martinez	/	3218
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	BRA	Bradford			0	0	Allison Defoor	Bob Martinez	/	285
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	BRE	Brevard			0	0	Allison Defoor	Bob Martinez	/	24052
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	BRO	Broward			0	0	Allison Defoor	Bob Martinez	/	40080
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CAL	Calhoun			0	0	Allison Defoor	Bob Martinez	/	47
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CHA	Charlotte			0	0	Allison Defoor	Bob Martinez	/	7589
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CIT	Citrus			0	0	Allison Defoor	Bob Martinez	/	5234
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CLA	Clay			0	0	Allison Defoor	Bob Martinez	/	5398
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CLL	Collier			0	0	Allison Defoor	Bob Martinez	/	14428
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	CLM	Columbia			0	0	Allison Defoor	Bob Martinez	/	602
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	DES	Desoto			0	0	Allison Defoor	Bob Martinez	/	268
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	DIX	Dixie			0	0	Allison Defoor	Bob Martinez	/	69
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	DUV	Duval			0	0	Allison Defoor	Bob Martinez	/	11300
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	ESC	Escambia			0	0	Allison Defoor	Bob Martinez	/	8727
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	FLA	Flagler			0	0	Allison Defoor	Bob Martinez	/	1701
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	FRA	Franklin			0	0	Allison Defoor	Bob Martinez	/	67
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	GAD	Gadsden			0	0	Allison Defoor	Bob Martinez	/	178
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	GIL	Gilchrist			0	0	Allison Defoor	Bob Martinez	/	63
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	GLA	Glades			0	0	Allison Defoor	Bob Martinez	/	111
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	GUL	Gulf			0	0	Allison Defoor	Bob Martinez	/	85
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HAM	Hamilton			0	0	Allison Defoor	Bob Martinez	/	45
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HAR	Hardee			0	0	Allison Defoor	Bob Martinez	/	163
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HEN	Hendry			0	0	Allison Defoor	Bob Martinez	/	307
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HER	Hernando			0	0	Allison Defoor	Bob Martinez	/	5609
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HIG	Highlands			0	0	Allison Defoor	Bob Martinez	/	3029
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HIL	Hillsborough			0	0	Allison Defoor	Bob Martinez	/	18740
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	HOL	Holmes			0	0	Allison Defoor	Bob Martinez	/	91
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	IND	Indian River			0	0	Allison Defoor	Bob Martinez	/	7583
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	JAC	Jackson			0	0	Allison Defoor	Bob Martinez	/	388
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	JEF	Jefferson			0	0	Allison Defoor	Bob Martinez	/	103
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LAF	Lafayette			0	0	Allison Defoor	Bob Martinez	/	28
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LAK	Lake			0	0	Allison Defoor	Bob Martinez	/	8976
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LEE	Lee			0	0	Allison Defoor	Bob Martinez	/	17848
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LEO	Leon			0	0	Allison Defoor	Bob Martinez	/	4553
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LEV	Levy			0	0	Allison Defoor	Bob Martinez	/	307
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	LIB	Liberty			0	0	Allison Defoor	Bob Martinez	/	30
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	MAD	Madison			0	0	Allison Defoor	Bob Martinez	/	143
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	MAN	Manatee			0	0	Allison Defoor	Bob Martinez	/	9975
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	MRN	Marion			0	0	Allison Defoor	Bob Martinez	/	8018
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	MRT	Martin			0	0	Allison Defoor	Bob Martinez	/	8536
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	DAD	Miami-Dade			0	0	Allison Defoor	Bob Martinez	/	44511
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	MON	Monroe			0	0	Allison Defoor	Bob Martinez	/	2922
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	NAS	Nassau			0	0	Allison Defoor	Bob Martinez	/	398
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	OKA	Okaloosa			0	0	Allison Defoor	Bob Martinez	/	6981
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	OKE	Okeechobee			0	0	Allison Defoor	Bob Martinez	/	365
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	ORA	Orange			0	0	Allison Defoor	Bob Martinez	/	25392
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	OSC	Osceola			0	0	Allison Defoor	Bob Martinez	/	3775
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	PAL	Palm Beach			0	0	Allison Defoor	Bob Martinez	/	24137
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	PAS	Pasco			0	0	Allison Defoor	Bob Martinez	/	8992
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	PIN	Pinellas			0	0	Allison Defoor	Bob Martinez	/	30943
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	POL	Polk			0	0	Allison Defoor	Bob Martinez	/	11858
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	PUT	Putnam			0	0	Allison Defoor	Bob Martinez	/	1222
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	SAN	Santa Rosa			0	0	Allison Defoor	Bob Martinez	/	2049
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	SAR	Sarasota			0	0	Allison Defoor	Bob Martinez	/	31380
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	SEM	Seminole			0	0	Allison Defoor	Bob Martinez	/	11738
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	STJ	St. Johns			0	0	Allison Defoor	Bob Martinez	/	4508
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	STL	St. Lucie			0	0	Allison Defoor	Bob Martinez	/	7501
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	SUM	Sumter			0	0	Allison Defoor	Bob Martinez	/	783
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	SUW	Suwannee			0	0	Allison Defoor	Bob Martinez	/	317
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	TAY	Taylor			0	0	Allison Defoor	Bob Martinez	/	156
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	UNI	Union			0	0	Allison Defoor	Bob Martinez	/	30
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	VOL	Volusia			0	0	Allison Defoor	Bob Martinez	/	15748
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	WAK	Wakulla			0	0	Allison Defoor	Bob Martinez	/	220
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	WAL	Walton			0	0	Allison Defoor	Bob Martinez	/	722
+9/4/1990	REP	Republican	GOV	Governor and Lieutenant Governor	WAS	Washington			0	0	Allison Defoor	Bob Martinez	/	147
+9/4/1990	REP	Republican	EDU	Commissioner of Education	ALA	Alachua			0	0	Geuka	Amefika	D.	432
+9/4/1990	REP	Republican	EDU	Commissioner of Education	BAK	Baker			0	0	Geuka	Amefika	D.	8
+9/4/1990	REP	Republican	EDU	Commissioner of Education	BAY	Bay			0	0	Geuka	Amefika	D.	319
+9/4/1990	REP	Republican	EDU	Commissioner of Education	BRA	Bradford			0	0	Geuka	Amefika	D.	19
+9/4/1990	REP	Republican	EDU	Commissioner of Education	BRE	Brevard			0	0	Geuka	Amefika	D.	2130
+9/4/1990	REP	Republican	EDU	Commissioner of Education	BRO	Broward			0	0	Geuka	Amefika	D.	5467
+9/4/1990	REP	Republican	EDU	Commissioner of Education	CAL	Calhoun			0	0	Geuka	Amefika	D.	6
+9/4/1990	REP	Republican	EDU	Commissioner of Education	CHA	Charlotte			0	0	Geuka	Amefika	D.	904
+9/4/1990	REP	Republican	EDU	Commissioner of Education	CIT	Citrus			0	0	Geuka	Amefika	D.	444
+9/4/1990	REP	Republican	EDU	Commissioner of Education	CLA	Clay			0	0	Geuka	Amefika	D.	470
+9/4/1990	REP	Republican	EDU	Commissioner of Education	CLL	Collier			0	0	Geuka	Amefika	D.	1059
+9/4/1990	REP	Republican	EDU	Commissioner of Education	CLM	Columbia			0	0	Geuka	Amefika	D.	89
+9/4/1990	REP	Republican	EDU	Commissioner of Education	DES	Desoto			0	0	Geuka	Amefika	D.	34
+9/4/1990	REP	Republican	EDU	Commissioner of Education	DIX	Dixie			0	0	Geuka	Amefika	D.	9
+9/4/1990	REP	Republican	EDU	Commissioner of Education	DUV	Duval			0	0	Geuka	Amefika	D.	1000
+9/4/1990	REP	Republican	EDU	Commissioner of Education	ESC	Escambia			0	0	Geuka	Amefika	D.	908
+9/4/1990	REP	Republican	EDU	Commissioner of Education	FLA	Flagler			0	0	Geuka	Amefika	D.	204
+9/4/1990	REP	Republican	EDU	Commissioner of Education	FRA	Franklin			0	0	Geuka	Amefika	D.	7
+9/4/1990	REP	Republican	EDU	Commissioner of Education	GAD	Gadsden			0	0	Geuka	Amefika	D.	22
+9/4/1990	REP	Republican	EDU	Commissioner of Education	GIL	Gilchrist			0	0	Geuka	Amefika	D.	7
+9/4/1990	REP	Republican	EDU	Commissioner of Education	GLA	Glades			0	0	Geuka	Amefika	D.	9
+9/4/1990	REP	Republican	EDU	Commissioner of Education	GUL	Gulf			0	0	Geuka	Amefika	D.	13
+9/4/1990	REP	Republican	EDU	Commissioner of Education	HAM	Hamilton			0	0	Geuka	Amefika	D.	5
+9/4/1990	REP	Republican	EDU	Commissioner of Education	HAR	Hardee			0	0	Geuka	Amefika	D.	17
+9/4/1990	REP	Republican	EDU	Commissioner of Education	HEN	Hendry			0	0	Geuka	Amefika	D.	20
+9/4/1990	REP	Republican	EDU	Commissioner of Education	HER	Hernando			0	0	Geuka	Amefika	D.	884
+9/4/1990	REP	Republican	EDU	Commissioner of Education	HIG	Highlands			0	0	Geuka	Amefika	D.	282
+9/4/1990	REP	Republican	EDU	Commissioner of Education	HIL	Hillsborough			0	0	Geuka	Amefika	D.	1807
+9/4/1990	REP	Republican	EDU	Commissioner of Education	HOL	Holmes			0	0	Geuka	Amefika	D.	6
+9/4/1990	REP	Republican	EDU	Commissioner of Education	IND	Indian River			0	0	Geuka	Amefika	D.	597
+9/4/1990	REP	Republican	EDU	Commissioner of Education	JAC	Jackson			0	0	Geuka	Amefika	D.	35
+9/4/1990	REP	Republican	EDU	Commissioner of Education	JEF	Jefferson			0	0	Geuka	Amefika	D.	9
+9/4/1990	REP	Republican	EDU	Commissioner of Education	LAF	Lafayette			0	0	Geuka	Amefika	D.	3
+9/4/1990	REP	Republican	EDU	Commissioner of Education	LAK	Lake			0	0	Geuka	Amefika	D.	744
+9/4/1990	REP	Republican	EDU	Commissioner of Education	LEE	Lee			0	0	Geuka	Amefika	D.	1425
+9/4/1990	REP	Republican	EDU	Commissioner of Education	LEO	Leon			0	0	Geuka	Amefika	D.	312
+9/4/1990	REP	Republican	EDU	Commissioner of Education	LEV	Levy			0	0	Geuka	Amefika	D.	43
+9/4/1990	REP	Republican	EDU	Commissioner of Education	LIB	Liberty			0	0	Geuka	Amefika	D.	0
+9/4/1990	REP	Republican	EDU	Commissioner of Education	MAD	Madison			0	0	Geuka	Amefika	D.	20
+9/4/1990	REP	Republican	EDU	Commissioner of Education	MAN	Manatee			0	0	Geuka	Amefika	D.	1660
+9/4/1990	REP	Republican	EDU	Commissioner of Education	MRN	Marion			0	0	Geuka	Amefika	D.	926
+9/4/1990	REP	Republican	EDU	Commissioner of Education	MRT	Martin			0	0	Geuka	Amefika	D.	829
+9/4/1990	REP	Republican	EDU	Commissioner of Education	DAD	Miami-Dade			0	0	Geuka	Amefika	D.	6229
+9/4/1990	REP	Republican	EDU	Commissioner of Education	MON	Monroe			0	0	Geuka	Amefika	D.	262
+9/4/1990	REP	Republican	EDU	Commissioner of Education	NAS	Nassau			0	0	Geuka	Amefika	D.	34
+9/4/1990	REP	Republican	EDU	Commissioner of Education	OKA	Okaloosa			0	0	Geuka	Amefika	D.	581
+9/4/1990	REP	Republican	EDU	Commissioner of Education	OKE	Okeechobee			0	0	Geuka	Amefika	D.	34
+9/4/1990	REP	Republican	EDU	Commissioner of Education	ORA	Orange			0	0	Geuka	Amefika	D.	2888
+9/4/1990	REP	Republican	EDU	Commissioner of Education	OSC	Osceola			0	0	Geuka	Amefika	D.	295
+9/4/1990	REP	Republican	EDU	Commissioner of Education	PAL	Palm Beach			0	0	Geuka	Amefika	D.	2872
+9/4/1990	REP	Republican	EDU	Commissioner of Education	PAS	Pasco			0	0	Geuka	Amefika	D.	1539
+9/4/1990	REP	Republican	EDU	Commissioner of Education	PIN	Pinellas			0	0	Geuka	Amefika	D.	4557
+9/4/1990	REP	Republican	EDU	Commissioner of Education	POL	Polk			0	0	Geuka	Amefika	D.	1061
+9/4/1990	REP	Republican	EDU	Commissioner of Education	PUT	Putnam			0	0	Geuka	Amefika	D.	101
+9/4/1990	REP	Republican	EDU	Commissioner of Education	SAN	Santa Rosa			0	0	Geuka	Amefika	D.	240
+9/4/1990	REP	Republican	EDU	Commissioner of Education	SAR	Sarasota			0	0	Geuka	Amefika	D.	4443
+9/4/1990	REP	Republican	EDU	Commissioner of Education	SEM	Seminole			0	0	Geuka	Amefika	D.	1016
+9/4/1990	REP	Republican	EDU	Commissioner of Education	STJ	St. Johns			0	0	Geuka	Amefika	D.	377
+9/4/1990	REP	Republican	EDU	Commissioner of Education	STL	St. Lucie			0	0	Geuka	Amefika	D.	714
+9/4/1990	REP	Republican	EDU	Commissioner of Education	SUM	Sumter			0	0	Geuka	Amefika	D.	71
+9/4/1990	REP	Republican	EDU	Commissioner of Education	SUW	Suwannee			0	0	Geuka	Amefika	D.	82
+9/4/1990	REP	Republican	EDU	Commissioner of Education	TAY	Taylor			0	0	Geuka	Amefika	D.	15
+9/4/1990	REP	Republican	EDU	Commissioner of Education	UNI	Union			0	0	Geuka	Amefika	D.	1
+9/4/1990	REP	Republican	EDU	Commissioner of Education	VOL	Volusia			0	0	Geuka	Amefika	D.	1753
+9/4/1990	REP	Republican	EDU	Commissioner of Education	WAK	Wakulla			0	0	Geuka	Amefika	D.	25
+9/4/1990	REP	Republican	EDU	Commissioner of Education	WAL	Walton			0	0	Geuka	Amefika	D.	86
+9/4/1990	REP	Republican	EDU	Commissioner of Education	WAS	Washington			0	0	Geuka	Amefika	D.	24
+9/4/1990	REP	Republican	EDU	Commissioner of Education	ALA	Alachua			0	0	Kirk	Claude	R.	3812
+9/4/1990	REP	Republican	EDU	Commissioner of Education	BAK	Baker			0	0	Kirk	Claude	R.	30
+9/4/1990	REP	Republican	EDU	Commissioner of Education	BAY	Bay			0	0	Kirk	Claude	R.	1940
+9/4/1990	REP	Republican	EDU	Commissioner of Education	BRA	Bradford			0	0	Kirk	Claude	R.	185
+9/4/1990	REP	Republican	EDU	Commissioner of Education	BRE	Brevard			0	0	Kirk	Claude	R.	14208
+9/4/1990	REP	Republican	EDU	Commissioner of Education	BRO	Broward			0	0	Kirk	Claude	R.	27474
+9/4/1990	REP	Republican	EDU	Commissioner of Education	CAL	Calhoun			0	0	Kirk	Claude	R.	22
+9/4/1990	REP	Republican	EDU	Commissioner of Education	CHA	Charlotte			0	0	Kirk	Claude	R.	6255
+9/4/1990	REP	Republican	EDU	Commissioner of Education	CIT	Citrus			0	0	Kirk	Claude	R.	2685
+9/4/1990	REP	Republican	EDU	Commissioner of Education	CLA	Clay			0	0	Kirk	Claude	R.	3566
+9/4/1990	REP	Republican	EDU	Commissioner of Education	CLL	Collier			0	0	Kirk	Claude	R.	9504
+9/4/1990	REP	Republican	EDU	Commissioner of Education	CLM	Columbia			0	0	Kirk	Claude	R.	415
+9/4/1990	REP	Republican	EDU	Commissioner of Education	DES	Desoto			0	0	Kirk	Claude	R.	233
+9/4/1990	REP	Republican	EDU	Commissioner of Education	DIX	Dixie			0	0	Kirk	Claude	R.	53
+9/4/1990	REP	Republican	EDU	Commissioner of Education	DUV	Duval			0	0	Kirk	Claude	R.	8524
+9/4/1990	REP	Republican	EDU	Commissioner of Education	ESC	Escambia			0	0	Kirk	Claude	R.	4567
+9/4/1990	REP	Republican	EDU	Commissioner of Education	FLA	Flagler			0	0	Kirk	Claude	R.	1161
+9/4/1990	REP	Republican	EDU	Commissioner of Education	FRA	Franklin			0	0	Kirk	Claude	R.	61
+9/4/1990	REP	Republican	EDU	Commissioner of Education	GAD	Gadsden			0	0	Kirk	Claude	R.	117
+9/4/1990	REP	Republican	EDU	Commissioner of Education	GIL	Gilchrist			0	0	Kirk	Claude	R.	60
+9/4/1990	REP	Republican	EDU	Commissioner of Education	GLA	Glades			0	0	Kirk	Claude	R.	79
+9/4/1990	REP	Republican	EDU	Commissioner of Education	GUL	Gulf			0	0	Kirk	Claude	R.	45
+9/4/1990	REP	Republican	EDU	Commissioner of Education	HAM	Hamilton			0	0	Kirk	Claude	R.	27
+9/4/1990	REP	Republican	EDU	Commissioner of Education	HAR	Hardee			0	0	Kirk	Claude	R.	121
+9/4/1990	REP	Republican	EDU	Commissioner of Education	HEN	Hendry			0	0	Kirk	Claude	R.	221
+9/4/1990	REP	Republican	EDU	Commissioner of Education	HER	Hernando			0	0	Kirk	Claude	R.	4208
+9/4/1990	REP	Republican	EDU	Commissioner of Education	HIG	Highlands			0	0	Kirk	Claude	R.	2327
+9/4/1990	REP	Republican	EDU	Commissioner of Education	HIL	Hillsborough			0	0	Kirk	Claude	R.	16088
+9/4/1990	REP	Republican	EDU	Commissioner of Education	HOL	Holmes			0	0	Kirk	Claude	R.	60
+9/4/1990	REP	Republican	EDU	Commissioner of Education	IND	Indian River			0	0	Kirk	Claude	R.	4092
+9/4/1990	REP	Republican	EDU	Commissioner of Education	JAC	Jackson			0	0	Kirk	Claude	R.	231
+9/4/1990	REP	Republican	EDU	Commissioner of Education	JEF	Jefferson			0	0	Kirk	Claude	R.	81
+9/4/1990	REP	Republican	EDU	Commissioner of Education	LAF	Lafayette			0	0	Kirk	Claude	R.	15
+9/4/1990	REP	Republican	EDU	Commissioner of Education	LAK	Lake			0	0	Kirk	Claude	R.	5472
+9/4/1990	REP	Republican	EDU	Commissioner of Education	LEE	Lee			0	0	Kirk	Claude	R.	10508
+9/4/1990	REP	Republican	EDU	Commissioner of Education	LEO	Leon			0	0	Kirk	Claude	R.	3475
+9/4/1990	REP	Republican	EDU	Commissioner of Education	LEV	Levy			0	0	Kirk	Claude	R.	221
+9/4/1990	REP	Republican	EDU	Commissioner of Education	LIB	Liberty			0	0	Kirk	Claude	R.	22
+9/4/1990	REP	Republican	EDU	Commissioner of Education	MAD	Madison			0	0	Kirk	Claude	R.	96
+9/4/1990	REP	Republican	EDU	Commissioner of Education	MAN	Manatee			0	0	Kirk	Claude	R.	9295
+9/4/1990	REP	Republican	EDU	Commissioner of Education	MRN	Marion			0	0	Kirk	Claude	R.	5463
+9/4/1990	REP	Republican	EDU	Commissioner of Education	MRT	Martin			0	0	Kirk	Claude	R.	4948
+9/4/1990	REP	Republican	EDU	Commissioner of Education	DAD	Miami-Dade			0	0	Kirk	Claude	R.	26336
+9/4/1990	REP	Republican	EDU	Commissioner of Education	MON	Monroe			0	0	Kirk	Claude	R.	2431
+9/4/1990	REP	Republican	EDU	Commissioner of Education	NAS	Nassau			0	0	Kirk	Claude	R.	284
+9/4/1990	REP	Republican	EDU	Commissioner of Education	OKA	Okaloosa			0	0	Kirk	Claude	R.	3599
+9/4/1990	REP	Republican	EDU	Commissioner of Education	OKE	Okeechobee			0	0	Kirk	Claude	R.	252
+9/4/1990	REP	Republican	EDU	Commissioner of Education	ORA	Orange			0	0	Kirk	Claude	R.	13484
+9/4/1990	REP	Republican	EDU	Commissioner of Education	OSC	Osceola			0	0	Kirk	Claude	R.	2356
+9/4/1990	REP	Republican	EDU	Commissioner of Education	PAL	Palm Beach			0	0	Kirk	Claude	R.	16806
+9/4/1990	REP	Republican	EDU	Commissioner of Education	PAS	Pasco			0	0	Kirk	Claude	R.	7878
+9/4/1990	REP	Republican	EDU	Commissioner of Education	PIN	Pinellas			0	0	Kirk	Claude	R.	28561
+9/4/1990	REP	Republican	EDU	Commissioner of Education	POL	Polk			0	0	Kirk	Claude	R.	7334
+9/4/1990	REP	Republican	EDU	Commissioner of Education	PUT	Putnam			0	0	Kirk	Claude	R.	876
+9/4/1990	REP	Republican	EDU	Commissioner of Education	SAN	Santa Rosa			0	0	Kirk	Claude	R.	1385
+9/4/1990	REP	Republican	EDU	Commissioner of Education	SAR	Sarasota			0	0	Kirk	Claude	R.	28927
+9/4/1990	REP	Republican	EDU	Commissioner of Education	SEM	Seminole			0	0	Kirk	Claude	R.	6288
+9/4/1990	REP	Republican	EDU	Commissioner of Education	STJ	St. Johns			0	0	Kirk	Claude	R.	2971
+9/4/1990	REP	Republican	EDU	Commissioner of Education	STL	St. Lucie			0	0	Kirk	Claude	R.	4437
+9/4/1990	REP	Republican	EDU	Commissioner of Education	SUM	Sumter			0	0	Kirk	Claude	R.	573
+9/4/1990	REP	Republican	EDU	Commissioner of Education	SUW	Suwannee			0	0	Kirk	Claude	R.	182
+9/4/1990	REP	Republican	EDU	Commissioner of Education	TAY	Taylor			0	0	Kirk	Claude	R.	119
+9/4/1990	REP	Republican	EDU	Commissioner of Education	UNI	Union			0	0	Kirk	Claude	R.	20
+9/4/1990	REP	Republican	EDU	Commissioner of Education	VOL	Volusia			0	0	Kirk	Claude	R.	9774
+9/4/1990	REP	Republican	EDU	Commissioner of Education	WAK	Wakulla			0	0	Kirk	Claude	R.	185
+9/4/1990	REP	Republican	EDU	Commissioner of Education	WAL	Walton			0	0	Kirk	Claude	R.	378
+9/4/1990	REP	Republican	EDU	Commissioner of Education	WAS	Washington			0	0	Kirk	Claude	R.	82
+9/4/1990	REP	Republican	EDU	Commissioner of Education	ALA	Alachua			0	0	Stepp	Ken		2558
+9/4/1990	REP	Republican	EDU	Commissioner of Education	BAK	Baker			0	0	Stepp	Ken		11
+9/4/1990	REP	Republican	EDU	Commissioner of Education	BAY	Bay			0	0	Stepp	Ken		1213
+9/4/1990	REP	Republican	EDU	Commissioner of Education	BRA	Bradford			0	0	Stepp	Ken		113
+9/4/1990	REP	Republican	EDU	Commissioner of Education	BRE	Brevard			0	0	Stepp	Ken		14099
+9/4/1990	REP	Republican	EDU	Commissioner of Education	BRO	Broward			0	0	Stepp	Ken		14393
+9/4/1990	REP	Republican	EDU	Commissioner of Education	CAL	Calhoun			0	0	Stepp	Ken		22
+9/4/1990	REP	Republican	EDU	Commissioner of Education	CHA	Charlotte			0	0	Stepp	Ken		2798
+9/4/1990	REP	Republican	EDU	Commissioner of Education	CIT	Citrus			0	0	Stepp	Ken		3783
+9/4/1990	REP	Republican	EDU	Commissioner of Education	CLA	Clay			0	0	Stepp	Ken		1989
+9/4/1990	REP	Republican	EDU	Commissioner of Education	CLL	Collier			0	0	Stepp	Ken		5358
+9/4/1990	REP	Republican	EDU	Commissioner of Education	CLM	Columbia			0	0	Stepp	Ken		186
+9/4/1990	REP	Republican	EDU	Commissioner of Education	DES	Desoto			0	0	Stepp	Ken		122
+9/4/1990	REP	Republican	EDU	Commissioner of Education	DIX	Dixie			0	0	Stepp	Ken		36
+9/4/1990	REP	Republican	EDU	Commissioner of Education	DUV	Duval			0	0	Stepp	Ken		3400
+9/4/1990	REP	Republican	EDU	Commissioner of Education	ESC	Escambia			0	0	Stepp	Ken		3482
+9/4/1990	REP	Republican	EDU	Commissioner of Education	FLA	Flagler			0	0	Stepp	Ken		639
+9/4/1990	REP	Republican	EDU	Commissioner of Education	FRA	Franklin			0	0	Stepp	Ken		32
+9/4/1990	REP	Republican	EDU	Commissioner of Education	GAD	Gadsden			0	0	Stepp	Ken		71
+9/4/1990	REP	Republican	EDU	Commissioner of Education	GIL	Gilchrist			0	0	Stepp	Ken		32
+9/4/1990	REP	Republican	EDU	Commissioner of Education	GLA	Glades			0	0	Stepp	Ken		52
+9/4/1990	REP	Republican	EDU	Commissioner of Education	GUL	Gulf			0	0	Stepp	Ken		47
+9/4/1990	REP	Republican	EDU	Commissioner of Education	HAM	Hamilton			0	0	Stepp	Ken		17
+9/4/1990	REP	Republican	EDU	Commissioner of Education	HAR	Hardee			0	0	Stepp	Ken		57
+9/4/1990	REP	Republican	EDU	Commissioner of Education	HEN	Hendry			0	0	Stepp	Ken		113
+9/4/1990	REP	Republican	EDU	Commissioner of Education	HER	Hernando			0	0	Stepp	Ken		4084
+9/4/1990	REP	Republican	EDU	Commissioner of Education	HIG	Highlands			0	0	Stepp	Ken		1436
+9/4/1990	REP	Republican	EDU	Commissioner of Education	HIL	Hillsborough			0	0	Stepp	Ken		9665
+9/4/1990	REP	Republican	EDU	Commissioner of Education	HOL	Holmes			0	0	Stepp	Ken		38
+9/4/1990	REP	Republican	EDU	Commissioner of Education	IND	Indian River			0	0	Stepp	Ken		3178
+9/4/1990	REP	Republican	EDU	Commissioner of Education	JAC	Jackson			0	0	Stepp	Ken		124
+9/4/1990	REP	Republican	EDU	Commissioner of Education	JEF	Jefferson			0	0	Stepp	Ken		57
+9/4/1990	REP	Republican	EDU	Commissioner of Education	LAF	Lafayette			0	0	Stepp	Ken		12
+9/4/1990	REP	Republican	EDU	Commissioner of Education	LAK	Lake			0	0	Stepp	Ken		4681
+9/4/1990	REP	Republican	EDU	Commissioner of Education	LEE	Lee			0	0	Stepp	Ken		7951
+9/4/1990	REP	Republican	EDU	Commissioner of Education	LEO	Leon			0	0	Stepp	Ken		2393
+9/4/1990	REP	Republican	EDU	Commissioner of Education	LEV	Levy			0	0	Stepp	Ken		128
+9/4/1990	REP	Republican	EDU	Commissioner of Education	LIB	Liberty			0	0	Stepp	Ken		9
+9/4/1990	REP	Republican	EDU	Commissioner of Education	MAD	Madison			0	0	Stepp	Ken		43
+9/4/1990	REP	Republican	EDU	Commissioner of Education	MAN	Manatee			0	0	Stepp	Ken		6798
+9/4/1990	REP	Republican	EDU	Commissioner of Education	MRN	Marion			0	0	Stepp	Ken		3338
+9/4/1990	REP	Republican	EDU	Commissioner of Education	MRT	Martin			0	0	Stepp	Ken		3643
+9/4/1990	REP	Republican	EDU	Commissioner of Education	DAD	Miami-Dade			0	0	Stepp	Ken		12399
+9/4/1990	REP	Republican	EDU	Commissioner of Education	MON	Monroe			0	0	Stepp	Ken		1244
+9/4/1990	REP	Republican	EDU	Commissioner of Education	NAS	Nassau			0	0	Stepp	Ken		132
+9/4/1990	REP	Republican	EDU	Commissioner of Education	OKA	Okaloosa			0	0	Stepp	Ken		4240
+9/4/1990	REP	Republican	EDU	Commissioner of Education	OKE	Okeechobee			0	0	Stepp	Ken		164
+9/4/1990	REP	Republican	EDU	Commissioner of Education	ORA	Orange			0	0	Stepp	Ken		15928
+9/4/1990	REP	Republican	EDU	Commissioner of Education	OSC	Osceola			0	0	Stepp	Ken		1795
+9/4/1990	REP	Republican	EDU	Commissioner of Education	PAL	Palm Beach			0	0	Stepp	Ken		9893
+9/4/1990	REP	Republican	EDU	Commissioner of Education	PAS	Pasco			0	0	Stepp	Ken		5703
+9/4/1990	REP	Republican	EDU	Commissioner of Education	PIN	Pinellas			0	0	Stepp	Ken		22411
+9/4/1990	REP	Republican	EDU	Commissioner of Education	POL	Polk			0	0	Stepp	Ken		5566
+9/4/1990	REP	Republican	EDU	Commissioner of Education	PUT	Putnam			0	0	Stepp	Ken		450
+9/4/1990	REP	Republican	EDU	Commissioner of Education	SAN	Santa Rosa			0	0	Stepp	Ken		1074
+9/4/1990	REP	Republican	EDU	Commissioner of Education	SAR	Sarasota			0	0	Stepp	Ken		15170
+9/4/1990	REP	Republican	EDU	Commissioner of Education	SEM	Seminole			0	0	Stepp	Ken		7805
+9/4/1990	REP	Republican	EDU	Commissioner of Education	STJ	St. Johns			0	0	Stepp	Ken		1245
+9/4/1990	REP	Republican	EDU	Commissioner of Education	STL	St. Lucie			0	0	Stepp	Ken		3835
+9/4/1990	REP	Republican	EDU	Commissioner of Education	SUM	Sumter			0	0	Stepp	Ken		368
+9/4/1990	REP	Republican	EDU	Commissioner of Education	SUW	Suwannee			0	0	Stepp	Ken		100
+9/4/1990	REP	Republican	EDU	Commissioner of Education	TAY	Taylor			0	0	Stepp	Ken		56
+9/4/1990	REP	Republican	EDU	Commissioner of Education	UNI	Union			0	0	Stepp	Ken		9
+9/4/1990	REP	Republican	EDU	Commissioner of Education	VOL	Volusia			0	0	Stepp	Ken		7600
+9/4/1990	REP	Republican	EDU	Commissioner of Education	WAK	Wakulla			0	0	Stepp	Ken		100
+9/4/1990	REP	Republican	EDU	Commissioner of Education	WAL	Walton			0	0	Stepp	Ken		331
+9/4/1990	REP	Republican	EDU	Commissioner of Education	WAS	Washington			0	0	Stepp	Ken		51
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	ALA	Alachua			0	0	Bronson	Charles		2421
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	BAK	Baker			0	0	Bronson	Charles		18
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	BAY	Bay			0	0	Bronson	Charles		1011
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	BRA	Bradford			0	0	Bronson	Charles		119
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	BRE	Brevard			0	0	Bronson	Charles		19636
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	BRO	Broward			0	0	Bronson	Charles		24488
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	CAL	Calhoun			0	0	Bronson	Charles		24
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	CHA	Charlotte			0	0	Bronson	Charles		4990
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	CIT	Citrus			0	0	Bronson	Charles		2691
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	CLA	Clay			0	0	Bronson	Charles		2398
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	CLL	Collier			0	0	Bronson	Charles		7006
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	CLM	Columbia			0	0	Bronson	Charles		267
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	DES	Desoto			0	0	Bronson	Charles		147
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	DIX	Dixie			0	0	Bronson	Charles		35
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	DUV	Duval			0	0	Bronson	Charles		5972
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	ESC	Escambia			0	0	Bronson	Charles		3366
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	FLA	Flagler			0	0	Bronson	Charles		936
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	FRA	Franklin			0	0	Bronson	Charles		23
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	GAD	Gadsden			0	0	Bronson	Charles		90
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	GIL	Gilchrist			0	0	Bronson	Charles		37
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	GLA	Glades			0	0	Bronson	Charles		80
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	GUL	Gulf			0	0	Bronson	Charles		36
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	HAM	Hamilton			0	0	Bronson	Charles		18
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	HAR	Hardee			0	0	Bronson	Charles		94
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	HEN	Hendry			0	0	Bronson	Charles		152
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	HER	Hernando			0	0	Bronson	Charles		3471
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	HIG	Highlands			0	0	Bronson	Charles		1663
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	HIL	Hillsborough			0	0	Bronson	Charles		12898
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	HOL	Holmes			0	0	Bronson	Charles		43
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	IND	Indian River			0	0	Bronson	Charles		3322
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	JAC	Jackson			0	0	Bronson	Charles		169
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	JEF	Jefferson			0	0	Bronson	Charles		54
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	LAF	Lafayette			0	0	Bronson	Charles		13
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	LAK	Lake			0	0	Bronson	Charles		6018
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	LEE	Lee			0	0	Bronson	Charles		11304
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	LEO	Leon			0	0	Bronson	Charles		1974
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	LEV	Levy			0	0	Bronson	Charles		236
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	LIB	Liberty			0	0	Bronson	Charles		13
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	MAD	Madison			0	0	Bronson	Charles		64
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	MAN	Manatee			0	0	Bronson	Charles		9513
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	MRN	Marion			0	0	Bronson	Charles		4518
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	MRT	Martin			0	0	Bronson	Charles		4331
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	DAD	Miami-Dade			0	0	Bronson	Charles		25006
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	MON	Monroe			0	0	Bronson	Charles		1540
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	NAS	Nassau			0	0	Bronson	Charles		196
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	OKA	Okaloosa			0	0	Bronson	Charles		3224
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	OKE	Okeechobee			0	0	Bronson	Charles		307
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	ORA	Orange			0	0	Bronson	Charles		20626
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	OSC	Osceola			0	0	Bronson	Charles		3516
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	PAL	Palm Beach			0	0	Bronson	Charles		15979
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	PAS	Pasco			0	0	Bronson	Charles		6253
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	PIN	Pinellas			0	0	Bronson	Charles		23774
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	POL	Polk			0	0	Bronson	Charles		7651
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	PUT	Putnam			0	0	Bronson	Charles		533
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	SAN	Santa Rosa			0	0	Bronson	Charles		920
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	SAR	Sarasota			0	0	Bronson	Charles		22200
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	SEM	Seminole			0	0	Bronson	Charles		8590
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	STJ	St. Johns			0	0	Bronson	Charles		1696
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	STL	St. Lucie			0	0	Bronson	Charles		3329
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	SUM	Sumter			0	0	Bronson	Charles		456
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	SUW	Suwannee			0	0	Bronson	Charles		148
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	TAY	Taylor			0	0	Bronson	Charles		72
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	UNI	Union			0	0	Bronson	Charles		15
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	VOL	Volusia			0	0	Bronson	Charles		10767
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	WAK	Wakulla			0	0	Bronson	Charles		99
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	WAL	Walton			0	0	Bronson	Charles		293
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	WAS	Washington			0	0	Bronson	Charles		72
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	ALA	Alachua			0	0	Dodd	Jack	P.	1402
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	BAK	Baker			0	0	Dodd	Jack	P.	13
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	BAY	Bay			0	0	Dodd	Jack	P.	778
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	BRA	Bradford			0	0	Dodd	Jack	P.	74
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	BRE	Brevard			0	0	Dodd	Jack	P.	5169
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	BRO	Broward			0	0	Dodd	Jack	P.	7959
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	CAL	Calhoun			0	0	Dodd	Jack	P.	7
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	CHA	Charlotte			0	0	Dodd	Jack	P.	1700
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	CIT	Citrus			0	0	Dodd	Jack	P.	1039
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	CLA	Clay			0	0	Dodd	Jack	P.	1341
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	CLL	Collier			0	0	Dodd	Jack	P.	2698
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	CLM	Columbia			0	0	Dodd	Jack	P.	146
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	DES	Desoto			0	0	Dodd	Jack	P.	80
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	DIX	Dixie			0	0	Dodd	Jack	P.	25
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	DUV	Duval			0	0	Dodd	Jack	P.	2394
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	ESC	Escambia			0	0	Dodd	Jack	P.	1662
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	FLA	Flagler			0	0	Dodd	Jack	P.	369
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	FRA	Franklin			0	0	Dodd	Jack	P.	43
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	GAD	Gadsden			0	0	Dodd	Jack	P.	70
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	GIL	Gilchrist			0	0	Dodd	Jack	P.	23
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	GLA	Glades			0	0	Dodd	Jack	P.	22
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	GUL	Gulf			0	0	Dodd	Jack	P.	30
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	HAM	Hamilton			0	0	Dodd	Jack	P.	11
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	HAR	Hardee			0	0	Dodd	Jack	P.	39
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	HEN	Hendry			0	0	Dodd	Jack	P.	71
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	HER	Hernando			0	0	Dodd	Jack	P.	1559
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	HIG	Highlands			0	0	Dodd	Jack	P.	607
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	HIL	Hillsborough			0	0	Dodd	Jack	P.	4896
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	HOL	Holmes			0	0	Dodd	Jack	P.	21
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	IND	Indian River			0	0	Dodd	Jack	P.	1288
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	JAC	Jackson			0	0	Dodd	Jack	P.	94
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	JEF	Jefferson			0	0	Dodd	Jack	P.	48
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	LAF	Lafayette			0	0	Dodd	Jack	P.	7
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	LAK	Lake			0	0	Dodd	Jack	P.	1736
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	LEE	Lee			0	0	Dodd	Jack	P.	2719
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	LEO	Leon			0	0	Dodd	Jack	P.	3299
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	LEV	Levy			0	0	Dodd	Jack	P.	71
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	LIB	Liberty			0	0	Dodd	Jack	P.	12
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	MAD	Madison			0	0	Dodd	Jack	P.	50
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	MAN	Manatee			0	0	Dodd	Jack	P.	2621
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	MRN	Marion			0	0	Dodd	Jack	P.	1761
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	MRT	Martin			0	0	Dodd	Jack	P.	1692
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	DAD	Miami-Dade			0	0	Dodd	Jack	P.	7933
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	MON	Monroe			0	0	Dodd	Jack	P.	860
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	NAS	Nassau			0	0	Dodd	Jack	P.	97
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	OKA	Okaloosa			0	0	Dodd	Jack	P.	1825
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	OKE	Okeechobee			0	0	Dodd	Jack	P.	50
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	ORA	Orange			0	0	Dodd	Jack	P.	5444
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	OSC	Osceola			0	0	Dodd	Jack	P.	396
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	PAL	Palm Beach			0	0	Dodd	Jack	P.	4711
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	PAS	Pasco			0	0	Dodd	Jack	P.	2199
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	PIN	Pinellas			0	0	Dodd	Jack	P.	8314
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	POL	Polk			0	0	Dodd	Jack	P.	2292
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	PUT	Putnam			0	0	Dodd	Jack	P.	273
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	SAN	Santa Rosa			0	0	Dodd	Jack	P.	592
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	SAR	Sarasota			0	0	Dodd	Jack	P.	9369
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	SEM	Seminole			0	0	Dodd	Jack	P.	3073
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	STJ	St. Johns			0	0	Dodd	Jack	P.	963
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	STL	St. Lucie			0	0	Dodd	Jack	P.	1837
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	SUM	Sumter			0	0	Dodd	Jack	P.	182
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	SUW	Suwannee			0	0	Dodd	Jack	P.	92
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	TAY	Taylor			0	0	Dodd	Jack	P.	72
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	UNI	Union			0	0	Dodd	Jack	P.	6
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	VOL	Volusia			0	0	Dodd	Jack	P.	3497
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	WAK	Wakulla			0	0	Dodd	Jack	P.	105
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	WAL	Walton			0	0	Dodd	Jack	P.	142
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	WAS	Washington			0	0	Dodd	Jack	P.	33
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	ALA	Alachua			0	0	Howard	Ron		2975
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	BAK	Baker			0	0	Howard	Ron		15
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	BAY	Bay			0	0	Howard	Ron		1569
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	BRA	Bradford			0	0	Howard	Ron		122
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	BRE	Brevard			0	0	Howard	Ron		6872
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	BRO	Broward			0	0	Howard	Ron		14720
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	CAL	Calhoun			0	0	Howard	Ron		20
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	CHA	Charlotte			0	0	Howard	Ron		3752
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	CIT	Citrus			0	0	Howard	Ron		3045
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	CLA	Clay			0	0	Howard	Ron		2040
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	CLL	Collier			0	0	Howard	Ron		6567
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	CLM	Columbia			0	0	Howard	Ron		256
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	DES	Desoto			0	0	Howard	Ron		166
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	DIX	Dixie			0	0	Howard	Ron		39
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	DUV	Duval			0	0	Howard	Ron		4051
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	ESC	Escambia			0	0	Howard	Ron		4234
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	FLA	Flagler			0	0	Howard	Ron		748
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	FRA	Franklin			0	0	Howard	Ron		34
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	GAD	Gadsden			0	0	Howard	Ron		67
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	GIL	Gilchrist			0	0	Howard	Ron		37
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	GLA	Glades			0	0	Howard	Ron		41
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	GUL	Gulf			0	0	Howard	Ron		43
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	HAM	Hamilton			0	0	Howard	Ron		17
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	HAR	Hardee			0	0	Howard	Ron		73
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	HEN	Hendry			0	0	Howard	Ron		135
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	HER	Hernando			0	0	Howard	Ron		4287
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	HIG	Highlands			0	0	Howard	Ron		1798
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	HIL	Hillsborough			0	0	Howard	Ron		9722
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	HOL	Holmes			0	0	Howard	Ron		42
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	IND	Indian River			0	0	Howard	Ron		3752
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	JAC	Jackson			0	0	Howard	Ron		141
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	JEF	Jefferson			0	0	Howard	Ron		51
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	LAF	Lafayette			0	0	Howard	Ron		12
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	LAK	Lake			0	0	Howard	Ron		3303
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	LEE	Lee			0	0	Howard	Ron		8567
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	LEO	Leon			0	0	Howard	Ron		1335
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	LEV	Levy			0	0	Howard	Ron		93
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	LIB	Liberty			0	0	Howard	Ron		7
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	MAD	Madison			0	0	Howard	Ron		42
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	MAN	Manatee			0	0	Howard	Ron		6708
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	MRN	Marion			0	0	Howard	Ron		3242
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	MRT	Martin			0	0	Howard	Ron		3610
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	DAD	Miami-Dade			0	0	Howard	Ron		12177
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	MON	Monroe			0	0	Howard	Ron		1533
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	NAS	Nassau			0	0	Howard	Ron		144
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	OKA	Okaloosa			0	0	Howard	Ron		3484
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	OKE	Okeechobee			0	0	Howard	Ron		109
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	ORA	Orange			0	0	Howard	Ron		7376
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	OSC	Osceola			0	0	Howard	Ron		1027
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	PAL	Palm Beach			0	0	Howard	Ron		9914
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	PAS	Pasco			0	0	Howard	Ron		7110
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	PIN	Pinellas			0	0	Howard	Ron		24511
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	POL	Polk			0	0	Howard	Ron		4441
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	PUT	Putnam			0	0	Howard	Ron		572
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	SAN	Santa Rosa			0	0	Howard	Ron		1198
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	SAR	Sarasota			0	0	Howard	Ron		20604
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	SEM	Seminole			0	0	Howard	Ron		3733
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	STJ	St. Johns			0	0	Howard	Ron		1701
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	STL	St. Lucie			0	0	Howard	Ron		3650
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	SUM	Sumter			0	0	Howard	Ron		374
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	SUW	Suwannee			0	0	Howard	Ron		126
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	TAY	Taylor			0	0	Howard	Ron		54
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	UNI	Union			0	0	Howard	Ron		9
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	VOL	Volusia			0	0	Howard	Ron		5280
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	WAK	Wakulla			0	0	Howard	Ron		102
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	WAL	Walton			0	0	Howard	Ron		394
+9/4/1990	REP	Republican	AGR	Commissioner of Agriculture	WAS	Washington			0	0	Howard	Ron		51
+9/4/1990	REP	Republican	STS	State Senator	CIT	Citrus	004		0	0	Conine	Merl		1795
+9/4/1990	REP	Republican	STS	State Senator	HER	Hernando	004		0	0	Conine	Merl		1731
+9/4/1990	REP	Republican	STS	State Senator	MRN	Marion	004		0	0	Conine	Merl		1240
+9/4/1990	REP	Republican	STS	State Senator	PAS	Pasco	004		0	0	Conine	Merl		2328
+9/4/1990	REP	Republican	STS	State Senator	CIT	Citrus	004		0	0	Hogan	Tom		5287
+9/4/1990	REP	Republican	STS	State Senator	HER	Hernando	004		0	0	Hogan	Tom		5695
+9/4/1990	REP	Republican	STS	State Senator	MRN	Marion	004		0	0	Hogan	Tom		4881
+9/4/1990	REP	Republican	STS	State Senator	PAS	Pasco	004		0	0	Hogan	Tom		4667
+9/4/1990	REP	Republican	STS	State Senator	VOL	Volusia	010		0	0	Burt	Locke		11126
+9/4/1990	REP	Republican	STS	State Senator	VOL	Volusia	010		0	0	Scovell	Bill		7275
+9/4/1990	REP	Republican	STS	State Senator	ORA	Orange	014		0	0	Crotty	Richard		10941
+9/4/1990	REP	Republican	STS	State Senator	ORA	Orange	014		0	0	Guetzloe	Doug		5719
+9/4/1990	REP	Republican	STS	State Senator	PIN	Pinellas	018		0	0	Baker	Patricia	L. 'Pat'	5952
+9/4/1990	REP	Republican	STS	State Senator	PIN	Pinellas	018		0	0	Melby	Bob		5227
+9/4/1990	REP	Republican	STS	State Senator	PIN	Pinellas	018		0	0	Sullivan	Don		6863
+9/4/1990	REP	Republican	STS	State Senator	CHA	Charlotte	024		0	0	McKay	John		2326
+9/4/1990	REP	Republican	STS	State Senator	DES	Desoto	024		0	0	McKay	John		164
+9/4/1990	REP	Republican	STS	State Senator	HAR	Hardee	024		0	0	McKay	John		135
+9/4/1990	REP	Republican	STS	State Senator	LEE	Lee	024		0	0	McKay	John		3620
+9/4/1990	REP	Republican	STS	State Senator	MAN	Manatee	024		0	0	McKay	John		12732
+9/4/1990	REP	Republican	STS	State Senator	CHA	Charlotte	024		0	0	W. Spivey, III	Thomas	'Tom'	571
+9/4/1990	REP	Republican	STS	State Senator	DES	Desoto	024		0	0	W. Spivey, III	Thomas	'Tom'	66
+9/4/1990	REP	Republican	STS	State Senator	HAR	Hardee	024		0	0	W. Spivey, III	Thomas	'Tom'	76
+9/4/1990	REP	Republican	STS	State Senator	LEE	Lee	024		0	0	W. Spivey, III	Thomas	'Tom'	1015
+9/4/1990	REP	Republican	STS	State Senator	MAN	Manatee	024		0	0	W. Spivey, III	Thomas	'Tom'	6906
+9/4/1990	REP	Republican	STS	State Senator	BRO	Broward	030		0	0	Brumberg	Benji		3221
+9/4/1990	REP	Republican	STS	State Senator	BRO	Broward	030		0	0	Rodstrom	John	E.	9004
+9/4/1990	REP	Republican	STR	State Representative	ESC	Escambia	003		0	0	Banjanin	Tom		3104
+9/4/1990	REP	Republican	STR	State Representative	SAN	Santa Rosa	003		0	0	Banjanin	Tom		593
+9/4/1990	REP	Republican	STR	State Representative	ESC	Escambia	003		0	0	Reynes	Joseph	'Joe'	1421
+9/4/1990	REP	Republican	STR	State Representative	SAN	Santa Rosa	003		0	0	Reynes	Joseph	'Joe'	639
+9/4/1990	REP	Republican	STR	State Representative	OKA	Okaloosa	005		0	0	Harden	Robert		4449
+9/4/1990	REP	Republican	STR	State Representative	WAL	Walton	005		0	0	Harden	Robert		297
+9/4/1990	REP	Republican	STR	State Representative	OKA	Okaloosa	005		0	0	Moore	Barbara		3122
+9/4/1990	REP	Republican	STR	State Representative	WAL	Walton	005		0	0	Moore	Barbara		173
+9/4/1990	REP	Republican	STR	State Representative	BRA	Bradford	021		0	0	Irvine	Chance		126
+9/4/1990	REP	Republican	STR	State Representative	CLA	Clay	021		0	0	Irvine	Chance		4038
+9/4/1990	REP	Republican	STR	State Representative	STJ	St. Johns	021		0	0	Irvine	Chance		207
+9/4/1990	REP	Republican	STR	State Representative	BRA	Bradford	021		0	0	Thrasher	John	E.	54
+9/4/1990	REP	Republican	STR	State Representative	CLA	Clay	021		0	0	Thrasher	John	E.	2967
+9/4/1990	REP	Republican	STR	State Representative	STJ	St. Johns	021		0	0	Thrasher	John	E.	183
+9/4/1990	REP	Republican	STR	State Representative	ALA	Alachua	023		0	0	Days	Johnny	D.	386
+9/4/1990	REP	Republican	STR	State Representative	PUT	Putnam	023		0	0	Days	Johnny	D.	56
+9/4/1990	REP	Republican	STR	State Representative	ALA	Alachua	023		0	0	Eaton	Sinclair		1332
+9/4/1990	REP	Republican	STR	State Representative	PUT	Putnam	023		0	0	Eaton	Sinclair		388
+9/4/1990	REP	Republican	STR	State Representative	VOL	Volusia	028		0	0	Graham	Dick		4837
+9/4/1990	REP	Republican	STR	State Representative	VOL	Volusia	028		0	0	Westbrook	Pat		1723
+9/4/1990	REP	Republican	STR	State Representative	BRE	Brevard	031		0	0	DeAngelo	Stephen		5215
+9/4/1990	REP	Republican	STR	State Representative	BRE	Brevard	031		0	0	Schmidt	Joanne	Harper	3076
+9/4/1990	REP	Republican	STR	State Representative	BRE	Brevard	033		0	0	Ellis	Scott		3979
+9/4/1990	REP	Republican	STR	State Representative	BRE	Brevard	033		0	0	McKeown	Kevin		5025
+9/4/1990	REP	Republican	STR	State Representative	BRE	Brevard	034		0	0	Ally	Arthur	D.	925
+9/4/1990	REP	Republican	STR	State Representative	ORA	Orange	034		0	0	Ally	Arthur	D.	27
+9/4/1990	REP	Republican	STR	State Representative	SEM	Seminole	034		0	0	Ally	Arthur	D.	3575
+9/4/1990	REP	Republican	STR	State Representative	BRE	Brevard	034		0	0	Stone	Frank		1156
+9/4/1990	REP	Republican	STR	State Representative	ORA	Orange	034		0	0	Stone	Frank		59
+9/4/1990	REP	Republican	STR	State Representative	SEM	Seminole	034		0	0	Stone	Frank		3318
+9/4/1990	REP	Republican	STR	State Representative	ORA	Orange	036		0	0	Nants	Bruce		907
+9/4/1990	REP	Republican	STR	State Representative	SEM	Seminole	036		0	0	Nants	Bruce		406
+9/4/1990	REP	Republican	STR	State Representative	ORA	Orange	036		0	0	Reeves	Stockton		1268
+9/4/1990	REP	Republican	STR	State Representative	SEM	Seminole	036		0	0	Reeves	Stockton		233
+9/4/1990	REP	Republican	STR	State Representative	ORA	Orange	036		0	0	Starks	Bob		3464
+9/4/1990	REP	Republican	STR	State Representative	SEM	Seminole	036		0	0	Starks	Bob		1159
+9/4/1990	REP	Republican	STR	State Representative	ORA	Orange	036		0	0	Treadway	Lou		875
+9/4/1990	REP	Republican	STR	State Representative	SEM	Seminole	036		0	0	Treadway	Lou		240
+9/4/1990	REP	Republican	STR	State Representative	ORA	Orange	037		0	0	Coney	James	R.	1069
+9/4/1990	REP	Republican	STR	State Representative	ORA	Orange	037		0	0	Feeney	Tom		2714
+9/4/1990	REP	Republican	STR	State Representative	ORA	Orange	037		0	0	Sowinski	John		2557
+9/4/1990	REP	Republican	STR	State Representative	ORA	Orange	038		0	0	McEwan	Bruce		4011
+9/4/1990	REP	Republican	STR	State Representative	ORA	Orange	038		0	0	Minter	Kipp		3625
+9/4/1990	REP	Republican	STR	State Representative	POL	Polk	043		0	0	Laurent	John		2406
+9/4/1990	REP	Republican	STR	State Representative	POL	Polk	043		0	0	Siegel	Bill		1555
+9/4/1990	REP	Republican	STR	State Representative	POL	Polk	044		0	0	Anderson	George	C.	2378
+9/4/1990	REP	Republican	STR	State Representative	POL	Polk	044		0	0	Thomas	Todd	W.	2523
+9/4/1990	REP	Republican	STR	State Representative	PIN	Pinellas	051		0	0	Muscarella	Patricia	A. 'Trish'	4867
+9/4/1990	REP	Republican	STR	State Representative	PIN	Pinellas	051		0	0	Rehm	Gerald	S. (Jerry)	2926
+9/4/1990	REP	Republican	STR	State Representative	PIN	Pinellas	054		0	0	Cavanaugh	Craig		3315
+9/4/1990	REP	Republican	STR	State Representative	PIN	Pinellas	054		0	0	Sample	Dorothy	Eaton	4002
+9/4/1990	REP	Republican	STR	State Representative	PIN	Pinellas	057		0	0	Frishe	James	C. 'Jim'	4125
+9/4/1990	REP	Republican	STR	State Representative	PIN	Pinellas	057		0	0	Heine	Lindsay		1461
+9/4/1990	REP	Republican	STR	State Representative	HAR	Hardee	067		0	0	Holland	J.	J. 'Toby'	178
+9/4/1990	REP	Republican	STR	State Representative	MAN	Manatee	067		0	0	Holland	J.	J. 'Toby'	6801
+9/4/1990	REP	Republican	STR	State Representative	HAR	Hardee	067		0	0	Richards	Ethan	'Bo'	48
+9/4/1990	REP	Republican	STR	State Representative	MAN	Manatee	067		0	0	Richards	Ethan	'Bo'	1876
+9/4/1990	REP	Republican	STR	State Representative	CLL	Collier	075		0	0	Hawkins	Mary	Ellen	13260
+9/4/1990	REP	Republican	STR	State Representative	LEE	Lee	075		0	0	Hawkins	Mary	Ellen	232
+9/4/1990	REP	Republican	STR	State Representative	CLL	Collier	075		0	0	Huddleston	David		6212
+9/4/1990	REP	Republican	STR	State Representative	LEE	Lee	075		0	0	Huddleston	David		105
+9/4/1990	REP	Republican	STR	State Representative	BRE	Brevard	078		0	0	Beard	Molly		8
+9/4/1990	REP	Republican	STR	State Representative	IND	Indian River	078		0	0	Beard	Molly		1474
+9/4/1990	REP	Republican	STR	State Representative	STL	St. Lucie	078		0	0	Beard	Molly		253
+9/4/1990	REP	Republican	STR	State Representative	BRE	Brevard	078		0	0	Fulmer	Zack		5
+9/4/1990	REP	Republican	STR	State Representative	IND	Indian River	078		0	0	Fulmer	Zack		835
+9/4/1990	REP	Republican	STR	State Representative	STL	St. Lucie	078		0	0	Fulmer	Zack		104
+9/4/1990	REP	Republican	STR	State Representative	BRE	Brevard	078		0	0	Ginn	Caroline	D.	14
+9/4/1990	REP	Republican	STR	State Representative	IND	Indian River	078		0	0	Ginn	Caroline	D.	2370
+9/4/1990	REP	Republican	STR	State Representative	STL	St. Lucie	078		0	0	Ginn	Caroline	D.	171
+9/4/1990	REP	Republican	STR	State Representative	BRE	Brevard	078		0	0	Keegan	Tim		8
+9/4/1990	REP	Republican	STR	State Representative	IND	Indian River	078		0	0	Keegan	Tim		646
+9/4/1990	REP	Republican	STR	State Representative	STL	St. Lucie	078		0	0	Keegan	Tim		89
+9/4/1990	REP	Republican	STR	State Representative	BRE	Brevard	078		0	0	Miler	Allen		5
+9/4/1990	REP	Republican	STR	State Representative	IND	Indian River	078		0	0	Miler	Allen		202
+9/4/1990	REP	Republican	STR	State Representative	STL	St. Lucie	078		0	0	Miler	Allen		97
+9/4/1990	REP	Republican	STR	State Representative	BRE	Brevard	078		0	0	Sembler III	Charles	W.	49
+9/4/1990	REP	Republican	STR	State Representative	IND	Indian River	078		0	0	Sembler III	Charles	W.	2988
+9/4/1990	REP	Republican	STR	State Representative	STL	St. Lucie	078		0	0	Sembler III	Charles	W.	153
+9/4/1990	REP	Republican	STR	State Representative	BRE	Brevard	078		0	0	Wilson	Charles	R. 'Charli	13
+9/4/1990	REP	Republican	STR	State Representative	IND	Indian River	078		0	0	Wilson	Charles	R. 'Charli	975
+9/4/1990	REP	Republican	STR	State Representative	STL	St. Lucie	078		0	0	Wilson	Charles	R. 'Charli	389
+9/4/1990	REP	Republican	STR	State Representative	MRT	Martin	079		0	0	Nergard	Charles	(Chuck)	1788
+9/4/1990	REP	Republican	STR	State Representative	STL	St. Lucie	079		0	0	Nergard	Charles	(Chuck)	3393
+9/4/1990	REP	Republican	STR	State Representative	MRT	Martin	079		0	0	Pruitt	Ken		2497
+9/4/1990	REP	Republican	STR	State Representative	STL	St. Lucie	079		0	0	Pruitt	Ken		5013
+9/4/1990	REP	Republican	STR	State Representative	MRT	Martin	080		0	0	Hill, Jr.	James	C.	4093
+9/4/1990	REP	Republican	STR	State Representative	PAL	Palm Beach	080		0	0	Hill, Jr.	James	C.	2478
+9/4/1990	REP	Republican	STR	State Representative	MRT	Martin	080		0	0	McCartney	B.	Mac	1793
+9/4/1990	REP	Republican	STR	State Representative	PAL	Palm Beach	080		0	0	McCartney	B.	Mac	778
+9/4/1990	REP	Republican	STR	State Representative	MRT	Martin	080		0	0	Metz	Herbert		559
+9/4/1990	REP	Republican	STR	State Representative	PAL	Palm Beach	080		0	0	Metz	Herbert		364
+9/4/1990	REP	Republican	STR	State Representative	PAL	Palm Beach	085		0	0	Foley	Mark		2377
+9/4/1990	REP	Republican	STR	State Representative	PAL	Palm Beach	085		0	0	Olenik, Jr.	Bob		1369
+9/4/1990	REP	Republican	STR	State Representative	PAL	Palm Beach	085		0	0	Shepherd	Ed		446
+9/4/1990	REP	Republican	STR	State Representative	PAL	Palm Beach	085		0	0	Shudlick	Jon	Larsen	656
+9/4/1990	REP	Republican	STR	State Representative	DAD	Miami-Dade	110		0	0	Alvarez	Jorge	Angel	1344
+9/4/1990	REP	Republican	STR	State Representative	DAD	Miami-Dade	110		0	0	Grandy	Miguel	A. De	5420
+9/4/1990	REP	Republican	STR	State Representative	DAD	Miami-Dade	111		0	0	Garcia, Jr.	Rudolfo	'Rudy'	2957
+9/4/1990	REP	Republican	STR	State Representative	DAD	Miami-Dade	111		0	0	Ventura	Nicholas		1159
+9/4/1990	REP	Republican	STR	State Representative	DAD	Miami-Dade	113		0	0	Carballo	Estanislao	R.	608
+9/4/1990	REP	Republican	STR	State Representative	DAD	Miami-Dade	113		0	0	Chavez, Jr.	Willy		902
+9/4/1990	REP	Republican	STR	State Representative	DAD	Miami-Dade	113		0	0	Morse	Luis		3477
+9/4/1990	REP	Republican	STR	State Representative	DAD	Miami-Dade	114		0	0	Borell	Thomas	'Tom'	1020
+9/4/1990	REP	Republican	STR	State Representative	DAD	Miami-Dade	114		0	0	Diaz	Alejandro		1000
+9/4/1990	REP	Republican	STR	State Representative	DAD	Miami-Dade	114		0	0	Hoffman	Bruce		2270
+9/4/1990	DEM	Democrat	USR	United States Representative	BAY	Bay	001		0	0	Hudson	Steve		4098
+9/4/1990	DEM	Democrat	USR	United States Representative	ESC	Escambia	001		0	0	Hudson	Steve		7957
+9/4/1990	DEM	Democrat	USR	United States Representative	OKA	Okaloosa	001		0	0	Hudson	Steve		3931
+9/4/1990	DEM	Democrat	USR	United States Representative	SAN	Santa Rosa	001		0	0	Hudson	Steve		2357
+9/4/1990	DEM	Democrat	USR	United States Representative	WAL	Walton	001		0	0	Hudson	Steve		1436
+9/4/1990	DEM	Democrat	USR	United States Representative	BAY	Bay	001		0	0	Hutto	Earl		9329
+9/4/1990	DEM	Democrat	USR	United States Representative	ESC	Escambia	001		0	0	Hutto	Earl		24845
+9/4/1990	DEM	Democrat	USR	United States Representative	OKA	Okaloosa	001		0	0	Hutto	Earl		8081
+9/4/1990	DEM	Democrat	USR	United States Representative	SAN	Santa Rosa	001		0	0	Hutto	Earl		7158
+9/4/1990	DEM	Democrat	USR	United States Representative	WAL	Walton	001		0	0	Hutto	Earl		4235
+9/4/1990	DEM	Democrat	USR	United States Representative	BAK	Baker	002		0	0	Boyd	Bob		1316
+9/4/1990	DEM	Democrat	USR	United States Representative	BAY	Bay	002		0	0	Boyd	Bob		247
+9/4/1990	DEM	Democrat	USR	United States Representative	BRA	Bradford	002		0	0	Boyd	Bob		1378
+9/4/1990	DEM	Democrat	USR	United States Representative	CAL	Calhoun	002		0	0	Boyd	Bob		553
+9/4/1990	DEM	Democrat	USR	United States Representative	CLA	Clay	002		0	0	Boyd	Bob		845
+9/4/1990	DEM	Democrat	USR	United States Representative	CLM	Columbia	002		0	0	Boyd	Bob		1664
+9/4/1990	DEM	Democrat	USR	United States Representative	DIX	Dixie	002		0	0	Boyd	Bob		1742
+9/4/1990	DEM	Democrat	USR	United States Representative	FRA	Franklin	002		0	0	Boyd	Bob		398
+9/4/1990	DEM	Democrat	USR	United States Representative	GAD	Gadsden	002		0	0	Boyd	Bob		2485
+9/4/1990	DEM	Democrat	USR	United States Representative	GIL	Gilchrist	002		0	0	Boyd	Bob		1108
+9/4/1990	DEM	Democrat	USR	United States Representative	GUL	Gulf	002		0	0	Boyd	Bob		862
+9/4/1990	DEM	Democrat	USR	United States Representative	HAM	Hamilton	002		0	0	Boyd	Bob		749
+9/4/1990	DEM	Democrat	USR	United States Representative	HOL	Holmes	002		0	0	Boyd	Bob		975
+9/4/1990	DEM	Democrat	USR	United States Representative	JAC	Jackson	002		0	0	Boyd	Bob		1238
+9/4/1990	DEM	Democrat	USR	United States Representative	JEF	Jefferson	002		0	0	Boyd	Bob		1315
+9/4/1990	DEM	Democrat	USR	United States Representative	LAF	Lafayette	002		0	0	Boyd	Bob		1052
+9/4/1990	DEM	Democrat	USR	United States Representative	LEO	Leon	002		0	0	Boyd	Bob		10101
+9/4/1990	DEM	Democrat	USR	United States Representative	LEV	Levy	002		0	0	Boyd	Bob		1927
+9/4/1990	DEM	Democrat	USR	United States Representative	LIB	Liberty	002		0	0	Boyd	Bob		608
+9/4/1990	DEM	Democrat	USR	United States Representative	MAD	Madison	002		0	0	Boyd	Bob		1166
+9/4/1990	DEM	Democrat	USR	United States Representative	SUW	Suwannee	002		0	0	Boyd	Bob		1105
+9/4/1990	DEM	Democrat	USR	United States Representative	TAY	Taylor	002		0	0	Boyd	Bob		1682
+9/4/1990	DEM	Democrat	USR	United States Representative	UNI	Union	002		0	0	Boyd	Bob		826
+9/4/1990	DEM	Democrat	USR	United States Representative	WAK	Wakulla	002		0	0	Boyd	Bob		1784
+9/4/1990	DEM	Democrat	USR	United States Representative	WAS	Washington	002		0	0	Boyd	Bob		777
+9/4/1990	DEM	Democrat	USR	United States Representative	BAK	Baker	002		0	0	Peterson	Pete		1610
+9/4/1990	DEM	Democrat	USR	United States Representative	BAY	Bay	002		0	0	Peterson	Pete		403
+9/4/1990	DEM	Democrat	USR	United States Representative	BRA	Bradford	002		0	0	Peterson	Pete		1665
+9/4/1990	DEM	Democrat	USR	United States Representative	CAL	Calhoun	002		0	0	Peterson	Pete		1567
+9/4/1990	DEM	Democrat	USR	United States Representative	CLA	Clay	002		0	0	Peterson	Pete		868
+9/4/1990	DEM	Democrat	USR	United States Representative	CLM	Columbia	002		0	0	Peterson	Pete		3920
+9/4/1990	DEM	Democrat	USR	United States Representative	DIX	Dixie	002		0	0	Peterson	Pete		1865
+9/4/1990	DEM	Democrat	USR	United States Representative	FRA	Franklin	002		0	0	Peterson	Pete		836
+9/4/1990	DEM	Democrat	USR	United States Representative	GAD	Gadsden	002		0	0	Peterson	Pete		3362
+9/4/1990	DEM	Democrat	USR	United States Representative	GIL	Gilchrist	002		0	0	Peterson	Pete		1022
+9/4/1990	DEM	Democrat	USR	United States Representative	GUL	Gulf	002		0	0	Peterson	Pete		1704
+9/4/1990	DEM	Democrat	USR	United States Representative	HAM	Hamilton	002		0	0	Peterson	Pete		1683
+9/4/1990	DEM	Democrat	USR	United States Representative	HOL	Holmes	002		0	0	Peterson	Pete		2201
+9/4/1990	DEM	Democrat	USR	United States Representative	JAC	Jackson	002		0	0	Peterson	Pete		5281
+9/4/1990	DEM	Democrat	USR	United States Representative	JEF	Jefferson	002		0	0	Peterson	Pete		1255
+9/4/1990	DEM	Democrat	USR	United States Representative	LAF	Lafayette	002		0	0	Peterson	Pete		669
+9/4/1990	DEM	Democrat	USR	United States Representative	LEO	Leon	002		0	0	Peterson	Pete		14666
+9/4/1990	DEM	Democrat	USR	United States Representative	LEV	Levy	002		0	0	Peterson	Pete		1354
+9/4/1990	DEM	Democrat	USR	United States Representative	LIB	Liberty	002		0	0	Peterson	Pete		967
+9/4/1990	DEM	Democrat	USR	United States Representative	MAD	Madison	002		0	0	Peterson	Pete		1481
+9/4/1990	DEM	Democrat	USR	United States Representative	SUW	Suwannee	002		0	0	Peterson	Pete		2770
+9/4/1990	DEM	Democrat	USR	United States Representative	TAY	Taylor	002		0	0	Peterson	Pete		1269
+9/4/1990	DEM	Democrat	USR	United States Representative	UNI	Union	002		0	0	Peterson	Pete		797
+9/4/1990	DEM	Democrat	USR	United States Representative	WAK	Wakulla	002		0	0	Peterson	Pete		1858
+9/4/1990	DEM	Democrat	USR	United States Representative	WAS	Washington	002		0	0	Peterson	Pete		1762
+9/4/1990	DEM	Democrat	USR	United States Representative	CLA	Clay	004		0	0	Davis	David	Lee	626
+9/4/1990	DEM	Democrat	USR	United States Representative	DUV	Duval	004		0	0	Davis	David	Lee	1089
+9/4/1990	DEM	Democrat	USR	United States Representative	FLA	Flagler	004		0	0	Davis	David	Lee	809
+9/4/1990	DEM	Democrat	USR	United States Representative	PUT	Putnam	004		0	0	Davis	David	Lee	2738
+9/4/1990	DEM	Democrat	USR	United States Representative	STJ	St. Johns	004		0	0	Davis	David	Lee	1898
+9/4/1990	DEM	Democrat	USR	United States Representative	VOL	Volusia	004		0	0	Davis	David	Lee	9388
+9/4/1990	DEM	Democrat	USR	United States Representative	CLA	Clay	004		0	0	Gray	Bob		1221
+9/4/1990	DEM	Democrat	USR	United States Representative	DUV	Duval	004		0	0	Gray	Bob		2329
+9/4/1990	DEM	Democrat	USR	United States Representative	FLA	Flagler	004		0	0	Gray	Bob		278
+9/4/1990	DEM	Democrat	USR	United States Representative	PUT	Putnam	004		0	0	Gray	Bob		1494
+9/4/1990	DEM	Democrat	USR	United States Representative	STJ	St. Johns	004		0	0	Gray	Bob		1864
+9/4/1990	DEM	Democrat	USR	United States Representative	VOL	Volusia	004		0	0	Gray	Bob		3713
+9/4/1990	DEM	Democrat	USR	United States Representative	CLA	Clay	004		0	0	Hughes	Reid		2525
+9/4/1990	DEM	Democrat	USR	United States Representative	DUV	Duval	004		0	0	Hughes	Reid		6038
+9/4/1990	DEM	Democrat	USR	United States Representative	FLA	Flagler	004		0	0	Hughes	Reid		1700
+9/4/1990	DEM	Democrat	USR	United States Representative	PUT	Putnam	004		0	0	Hughes	Reid		4247
+9/4/1990	DEM	Democrat	USR	United States Representative	STJ	St. Johns	004		0	0	Hughes	Reid		4287
+9/4/1990	DEM	Democrat	USR	United States Representative	VOL	Volusia	004		0	0	Hughes	Reid		20127
+9/4/1990	DEM	Democrat	USR	United States Representative	ALA	Alachua	006		0	0	Johnson	Art		10992
+9/4/1990	DEM	Democrat	USR	United States Representative	CIT	Citrus	006		0	0	Johnson	Art		6115
+9/4/1990	DEM	Democrat	USR	United States Representative	HER	Hernando	006		0	0	Johnson	Art		4695
+9/4/1990	DEM	Democrat	USR	United States Representative	LAK	Lake	006		0	0	Johnson	Art		3159
+9/4/1990	DEM	Democrat	USR	United States Representative	MRN	Marion	006		0	0	Johnson	Art		7429
+9/4/1990	DEM	Democrat	USR	United States Representative	PAS	Pasco	006		0	0	Johnson	Art		1317
+9/4/1990	DEM	Democrat	USR	United States Representative	PUT	Putnam	006		0	0	Johnson	Art		206
+9/4/1990	DEM	Democrat	USR	United States Representative	SUM	Sumter	006		0	0	Johnson	Art		1436
+9/4/1990	DEM	Democrat	USR	United States Representative	ALA	Alachua	006		0	0	Wollin	Joan	L.	8495
+9/4/1990	DEM	Democrat	USR	United States Representative	CIT	Citrus	006		0	0	Wollin	Joan	L.	5375
+9/4/1990	DEM	Democrat	USR	United States Representative	HER	Hernando	006		0	0	Wollin	Joan	L.	5001
+9/4/1990	DEM	Democrat	USR	United States Representative	LAK	Lake	006		0	0	Wollin	Joan	L.	4125
+9/4/1990	DEM	Democrat	USR	United States Representative	MRN	Marion	006		0	0	Wollin	Joan	L.	7112
+9/4/1990	DEM	Democrat	USR	United States Representative	PAS	Pasco	006		0	0	Wollin	Joan	L.	1130
+9/4/1990	DEM	Democrat	USR	United States Representative	PUT	Putnam	006		0	0	Wollin	Joan	L.	148
+9/4/1990	DEM	Democrat	USR	United States Representative	SUM	Sumter	006		0	0	Wollin	Joan	L.	1368
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	ALA	Alachua			0	0	Buddy McKay	Lawton Chiles	/	20603
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	BAK	Baker			0	0	Buddy McKay	Lawton Chiles	/	2575
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	BAY	Bay			0	0	Buddy McKay	Lawton Chiles	/	8633
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRA	Bradford			0	0	Buddy McKay	Lawton Chiles	/	2501
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRE	Brevard			0	0	Buddy McKay	Lawton Chiles	/	14210
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRO	Broward			0	0	Buddy McKay	Lawton Chiles	/	72704
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	CAL	Calhoun			0	0	Buddy McKay	Lawton Chiles	/	1907
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	CHA	Charlotte			0	0	Buddy McKay	Lawton Chiles	/	5376
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	CIT	Citrus			0	0	Buddy McKay	Lawton Chiles	/	9387
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLA	Clay			0	0	Buddy McKay	Lawton Chiles	/	4203
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLL	Collier			0	0	Buddy McKay	Lawton Chiles	/	4639
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLM	Columbia			0	0	Buddy McKay	Lawton Chiles	/	4219
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	DES	Desoto			0	0	Buddy McKay	Lawton Chiles	/	2410
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	DIX	Dixie			0	0	Buddy McKay	Lawton Chiles	/	2887
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	DUV	Duval			0	0	Buddy McKay	Lawton Chiles	/	32354
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	ESC	Escambia			0	0	Buddy McKay	Lawton Chiles	/	19695
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	FLA	Flagler			0	0	Buddy McKay	Lawton Chiles	/	1614
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	FRA	Franklin			0	0	Buddy McKay	Lawton Chiles	/	1687
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	GAD	Gadsden			0	0	Buddy McKay	Lawton Chiles	/	5848
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	GIL	Gilchrist			0	0	Buddy McKay	Lawton Chiles	/	1737
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	GLA	Glades			0	0	Buddy McKay	Lawton Chiles	/	931
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	GUL	Gulf			0	0	Buddy McKay	Lawton Chiles	/	1913
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	HAM	Hamilton			0	0	Buddy McKay	Lawton Chiles	/	1853
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	HAR	Hardee			0	0	Buddy McKay	Lawton Chiles	/	1845
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	HEN	Hendry			0	0	Buddy McKay	Lawton Chiles	/	1605
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	HER	Hernando			0	0	Buddy McKay	Lawton Chiles	/	7496
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	HIG	Highlands			0	0	Buddy McKay	Lawton Chiles	/	5161
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	HIL	Hillsborough			0	0	Buddy McKay	Lawton Chiles	/	58842
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	HOL	Holmes			0	0	Buddy McKay	Lawton Chiles	/	2276
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	IND	Indian River			0	0	Buddy McKay	Lawton Chiles	/	3117
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	JAC	Jackson			0	0	Buddy McKay	Lawton Chiles	/	4620
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	JEF	Jefferson			0	0	Buddy McKay	Lawton Chiles	/	2149
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	LAF	Lafayette			0	0	Buddy McKay	Lawton Chiles	/	1223
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	LAK	Lake			0	0	Buddy McKay	Lawton Chiles	/	6409
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEE	Lee			0	0	Buddy McKay	Lawton Chiles	/	11232
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEO	Leon			0	0	Buddy McKay	Lawton Chiles	/	26521
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEV	Levy			0	0	Buddy McKay	Lawton Chiles	/	2638
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	LIB	Liberty			0	0	Buddy McKay	Lawton Chiles	/	1362
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	MAD	Madison			0	0	Buddy McKay	Lawton Chiles	/	1877
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	MAN	Manatee			0	0	Buddy McKay	Lawton Chiles	/	10731
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	MRN	Marion			0	0	Buddy McKay	Lawton Chiles	/	11871
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	MRT	Martin			0	0	Buddy McKay	Lawton Chiles	/	3330
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	DAD	Miami-Dade			0	0	Buddy McKay	Lawton Chiles	/	86198
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	MON	Monroe			0	0	Buddy McKay	Lawton Chiles	/	4421
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	NAS	Nassau			0	0	Buddy McKay	Lawton Chiles	/	3018
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	OKA	Okaloosa			0	0	Buddy McKay	Lawton Chiles	/	7010
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	OKE	Okeechobee			0	0	Buddy McKay	Lawton Chiles	/	2081
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	ORA	Orange			0	0	Buddy McKay	Lawton Chiles	/	24871
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	OSC	Osceola			0	0	Buddy McKay	Lawton Chiles	/	3214
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	PAL	Palm Beach			0	0	Buddy McKay	Lawton Chiles	/	43916
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	PAS	Pasco			0	0	Buddy McKay	Lawton Chiles	/	16582
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	PIN	Pinellas			0	0	Buddy McKay	Lawton Chiles	/	46609
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	POL	Polk			0	0	Buddy McKay	Lawton Chiles	/	28946
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	PUT	Putnam			0	0	Buddy McKay	Lawton Chiles	/	6203
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	SAN	Santa Rosa			0	0	Buddy McKay	Lawton Chiles	/	5596
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	SAR	Sarasota			0	0	Buddy McKay	Lawton Chiles	/	21243
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	SEM	Seminole			0	0	Buddy McKay	Lawton Chiles	/	8842
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	STJ	St. Johns			0	0	Buddy McKay	Lawton Chiles	/	5423
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	STL	St. Lucie			0	0	Buddy McKay	Lawton Chiles	/	5949
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	SUM	Sumter			0	0	Buddy McKay	Lawton Chiles	/	2657
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	SUW	Suwannee			0	0	Buddy McKay	Lawton Chiles	/	2848
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	TAY	Taylor			0	0	Buddy McKay	Lawton Chiles	/	2397
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	UNI	Union			0	0	Buddy McKay	Lawton Chiles	/	1454
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	VOL	Volusia			0	0	Buddy McKay	Lawton Chiles	/	20895
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAK	Wakulla			0	0	Buddy McKay	Lawton Chiles	/	2962
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAL	Walton			0	0	Buddy McKay	Lawton Chiles	/	3316
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAS	Washington			0	0	Buddy McKay	Lawton Chiles	/	1483
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	ALA	Alachua			0	0	Tom Gustafson	Bill Nelson	/	4678
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	BAK	Baker			0	0	Tom Gustafson	Bill Nelson	/	982
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	BAY	Bay			0	0	Tom Gustafson	Bill Nelson	/	6327
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRA	Bradford			0	0	Tom Gustafson	Bill Nelson	/	1125
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRE	Brevard			0	0	Tom Gustafson	Bill Nelson	/	17624
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRO	Broward			0	0	Tom Gustafson	Bill Nelson	/	35648
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	CAL	Calhoun			0	0	Tom Gustafson	Bill Nelson	/	768
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	CHA	Charlotte			0	0	Tom Gustafson	Bill Nelson	/	2341
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	CIT	Citrus			0	0	Tom Gustafson	Bill Nelson	/	3410
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLA	Clay			0	0	Tom Gustafson	Bill Nelson	/	2538
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLL	Collier			0	0	Tom Gustafson	Bill Nelson	/	1874
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLM	Columbia			0	0	Tom Gustafson	Bill Nelson	/	2062
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	DES	Desoto			0	0	Tom Gustafson	Bill Nelson	/	896
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	DIX	Dixie			0	0	Tom Gustafson	Bill Nelson	/	778
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	DUV	Duval			0	0	Tom Gustafson	Bill Nelson	/	20378
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	ESC	Escambia			0	0	Tom Gustafson	Bill Nelson	/	12564
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	FLA	Flagler			0	0	Tom Gustafson	Bill Nelson	/	1142
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	FRA	Franklin			0	0	Tom Gustafson	Bill Nelson	/	508
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	GAD	Gadsden			0	0	Tom Gustafson	Bill Nelson	/	1634
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	GIL	Gilchrist			0	0	Tom Gustafson	Bill Nelson	/	590
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	GLA	Glades			0	0	Tom Gustafson	Bill Nelson	/	353
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	GUL	Gulf			0	0	Tom Gustafson	Bill Nelson	/	1114
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	HAM	Hamilton			0	0	Tom Gustafson	Bill Nelson	/	1030
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	HAR	Hardee			0	0	Tom Gustafson	Bill Nelson	/	899
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	HEN	Hendry			0	0	Tom Gustafson	Bill Nelson	/	601
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	HER	Hernando			0	0	Tom Gustafson	Bill Nelson	/	2940
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	HIG	Highlands			0	0	Tom Gustafson	Bill Nelson	/	1957
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	HIL	Hillsborough			0	0	Tom Gustafson	Bill Nelson	/	15848
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	HOL	Holmes			0	0	Tom Gustafson	Bill Nelson	/	1783
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	IND	Indian River			0	0	Tom Gustafson	Bill Nelson	/	2142
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	JAC	Jackson			0	0	Tom Gustafson	Bill Nelson	/	2806
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	JEF	Jefferson			0	0	Tom Gustafson	Bill Nelson	/	709
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	LAF	Lafayette			0	0	Tom Gustafson	Bill Nelson	/	681
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	LAK	Lake			0	0	Tom Gustafson	Bill Nelson	/	2975
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEE	Lee			0	0	Tom Gustafson	Bill Nelson	/	5998
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEO	Leon			0	0	Tom Gustafson	Bill Nelson	/	7529
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEV	Levy			0	0	Tom Gustafson	Bill Nelson	/	911
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	LIB	Liberty			0	0	Tom Gustafson	Bill Nelson	/	453
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	MAD	Madison			0	0	Tom Gustafson	Bill Nelson	/	985
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	MAN	Manatee			0	0	Tom Gustafson	Bill Nelson	/	3762
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	MRN	Marion			0	0	Tom Gustafson	Bill Nelson	/	5547
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	MRT	Martin			0	0	Tom Gustafson	Bill Nelson	/	1464
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	DAD	Miami-Dade			0	0	Tom Gustafson	Bill Nelson	/	30505
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	MON	Monroe			0	0	Tom Gustafson	Bill Nelson	/	1677
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	NAS	Nassau			0	0	Tom Gustafson	Bill Nelson	/	1790
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	OKA	Okaloosa			0	0	Tom Gustafson	Bill Nelson	/	4841
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	OKE	Okeechobee			0	0	Tom Gustafson	Bill Nelson	/	893
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	ORA	Orange			0	0	Tom Gustafson	Bill Nelson	/	12848
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	OSC	Osceola			0	0	Tom Gustafson	Bill Nelson	/	2853
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	PAL	Palm Beach			0	0	Tom Gustafson	Bill Nelson	/	17630
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	PAS	Pasco			0	0	Tom Gustafson	Bill Nelson	/	6291
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	PIN	Pinellas			0	0	Tom Gustafson	Bill Nelson	/	12677
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	POL	Polk			0	0	Tom Gustafson	Bill Nelson	/	6499
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	PUT	Putnam			0	0	Tom Gustafson	Bill Nelson	/	3185
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	SAN	Santa Rosa			0	0	Tom Gustafson	Bill Nelson	/	3422
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	SAR	Sarasota			0	0	Tom Gustafson	Bill Nelson	/	9506
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	SEM	Seminole			0	0	Tom Gustafson	Bill Nelson	/	3867
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	STJ	St. Johns			0	0	Tom Gustafson	Bill Nelson	/	3240
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	STL	St. Lucie			0	0	Tom Gustafson	Bill Nelson	/	3916
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	SUM	Sumter			0	0	Tom Gustafson	Bill Nelson	/	977
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	SUW	Suwannee			0	0	Tom Gustafson	Bill Nelson	/	1450
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	TAY	Taylor			0	0	Tom Gustafson	Bill Nelson	/	951
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	UNI	Union			0	0	Tom Gustafson	Bill Nelson	/	582
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	VOL	Volusia			0	0	Tom Gustafson	Bill Nelson	/	12509
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAK	Wakulla			0	0	Tom Gustafson	Bill Nelson	/	997
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAL	Walton			0	0	Tom Gustafson	Bill Nelson	/	2277
+9/4/1990	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAS	Washington			0	0	Tom Gustafson	Bill Nelson	/	1994
+9/4/1990	DEM	Democrat	SEC	Secretary of State	ALA	Alachua			0	0	Hastings	Alcee	L.	5762
+9/4/1990	DEM	Democrat	SEC	Secretary of State	BAK	Baker			0	0	Hastings	Alcee	L.	938
+9/4/1990	DEM	Democrat	SEC	Secretary of State	BAY	Bay			0	0	Hastings	Alcee	L.	3076
+9/4/1990	DEM	Democrat	SEC	Secretary of State	BRA	Bradford			0	0	Hastings	Alcee	L.	1076
+9/4/1990	DEM	Democrat	SEC	Secretary of State	BRE	Brevard			0	0	Hastings	Alcee	L.	8168
+9/4/1990	DEM	Democrat	SEC	Secretary of State	BRO	Broward			0	0	Hastings	Alcee	L.	33110
+9/4/1990	DEM	Democrat	SEC	Secretary of State	CAL	Calhoun			0	0	Hastings	Alcee	L.	486
+9/4/1990	DEM	Democrat	SEC	Secretary of State	CHA	Charlotte			0	0	Hastings	Alcee	L.	2175
+9/4/1990	DEM	Democrat	SEC	Secretary of State	CIT	Citrus			0	0	Hastings	Alcee	L.	3153
+9/4/1990	DEM	Democrat	SEC	Secretary of State	CLA	Clay			0	0	Hastings	Alcee	L.	2031
+9/4/1990	DEM	Democrat	SEC	Secretary of State	CLL	Collier			0	0	Hastings	Alcee	L.	1946
+9/4/1990	DEM	Democrat	SEC	Secretary of State	CLM	Columbia			0	0	Hastings	Alcee	L.	1898
+9/4/1990	DEM	Democrat	SEC	Secretary of State	DES	Desoto			0	0	Hastings	Alcee	L.	1059
+9/4/1990	DEM	Democrat	SEC	Secretary of State	DIX	Dixie			0	0	Hastings	Alcee	L.	1077
+9/4/1990	DEM	Democrat	SEC	Secretary of State	DUV	Duval			0	0	Hastings	Alcee	L.	16481
+9/4/1990	DEM	Democrat	SEC	Secretary of State	ESC	Escambia			0	0	Hastings	Alcee	L.	8325
+9/4/1990	DEM	Democrat	SEC	Secretary of State	FLA	Flagler			0	0	Hastings	Alcee	L.	807
+9/4/1990	DEM	Democrat	SEC	Secretary of State	FRA	Franklin			0	0	Hastings	Alcee	L.	436
+9/4/1990	DEM	Democrat	SEC	Secretary of State	GAD	Gadsden			0	0	Hastings	Alcee	L.	2714
+9/4/1990	DEM	Democrat	SEC	Secretary of State	GIL	Gilchrist			0	0	Hastings	Alcee	L.	565
+9/4/1990	DEM	Democrat	SEC	Secretary of State	GLA	Glades			0	0	Hastings	Alcee	L.	389
+9/4/1990	DEM	Democrat	SEC	Secretary of State	GUL	Gulf			0	0	Hastings	Alcee	L.	763
+9/4/1990	DEM	Democrat	SEC	Secretary of State	HAM	Hamilton			0	0	Hastings	Alcee	L.	959
+9/4/1990	DEM	Democrat	SEC	Secretary of State	HAR	Hardee			0	0	Hastings	Alcee	L.	553
+9/4/1990	DEM	Democrat	SEC	Secretary of State	HEN	Hendry			0	0	Hastings	Alcee	L.	579
+9/4/1990	DEM	Democrat	SEC	Secretary of State	HER	Hernando			0	0	Hastings	Alcee	L.	2927
+9/4/1990	DEM	Democrat	SEC	Secretary of State	HIG	Highlands			0	0	Hastings	Alcee	L.	1735
+9/4/1990	DEM	Democrat	SEC	Secretary of State	HIL	Hillsborough			0	0	Hastings	Alcee	L.	22753
+9/4/1990	DEM	Democrat	SEC	Secretary of State	HOL	Holmes			0	0	Hastings	Alcee	L.	935
+9/4/1990	DEM	Democrat	SEC	Secretary of State	IND	Indian River			0	0	Hastings	Alcee	L.	1327
+9/4/1990	DEM	Democrat	SEC	Secretary of State	JAC	Jackson			0	0	Hastings	Alcee	L.	1815
+9/4/1990	DEM	Democrat	SEC	Secretary of State	JEF	Jefferson			0	0	Hastings	Alcee	L.	978
+9/4/1990	DEM	Democrat	SEC	Secretary of State	LAF	Lafayette			0	0	Hastings	Alcee	L.	433
+9/4/1990	DEM	Democrat	SEC	Secretary of State	LAK	Lake			0	0	Hastings	Alcee	L.	2532
+9/4/1990	DEM	Democrat	SEC	Secretary of State	LEE	Lee			0	0	Hastings	Alcee	L.	4781
+9/4/1990	DEM	Democrat	SEC	Secretary of State	LEO	Leon			0	0	Hastings	Alcee	L.	7414
+9/4/1990	DEM	Democrat	SEC	Secretary of State	LEV	Levy			0	0	Hastings	Alcee	L.	911
+9/4/1990	DEM	Democrat	SEC	Secretary of State	LIB	Liberty			0	0	Hastings	Alcee	L.	466
+9/4/1990	DEM	Democrat	SEC	Secretary of State	MAD	Madison			0	0	Hastings	Alcee	L.	884
+9/4/1990	DEM	Democrat	SEC	Secretary of State	MAN	Manatee			0	0	Hastings	Alcee	L.	4562
+9/4/1990	DEM	Democrat	SEC	Secretary of State	MRN	Marion			0	0	Hastings	Alcee	L.	5507
+9/4/1990	DEM	Democrat	SEC	Secretary of State	MRT	Martin			0	0	Hastings	Alcee	L.	1263
+9/4/1990	DEM	Democrat	SEC	Secretary of State	DAD	Miami-Dade			0	0	Hastings	Alcee	L.	50290
+9/4/1990	DEM	Democrat	SEC	Secretary of State	MON	Monroe			0	0	Hastings	Alcee	L.	1769
+9/4/1990	DEM	Democrat	SEC	Secretary of State	NAS	Nassau			0	0	Hastings	Alcee	L.	1216
+9/4/1990	DEM	Democrat	SEC	Secretary of State	OKA	Okaloosa			0	0	Hastings	Alcee	L.	2870
+9/4/1990	DEM	Democrat	SEC	Secretary of State	OKE	Okeechobee			0	0	Hastings	Alcee	L.	792
+9/4/1990	DEM	Democrat	SEC	Secretary of State	ORA	Orange			0	0	Hastings	Alcee	L.	11537
+9/4/1990	DEM	Democrat	SEC	Secretary of State	OSC	Osceola			0	0	Hastings	Alcee	L.	1645
+9/4/1990	DEM	Democrat	SEC	Secretary of State	PAL	Palm Beach			0	0	Hastings	Alcee	L.	15469
+9/4/1990	DEM	Democrat	SEC	Secretary of State	PAS	Pasco			0	0	Hastings	Alcee	L.	6203
+9/4/1990	DEM	Democrat	SEC	Secretary of State	PIN	Pinellas			0	0	Hastings	Alcee	L.	16634
+9/4/1990	DEM	Democrat	SEC	Secretary of State	POL	Polk			0	0	Hastings	Alcee	L.	8379
+9/4/1990	DEM	Democrat	SEC	Secretary of State	PUT	Putnam			0	0	Hastings	Alcee	L.	2212
+9/4/1990	DEM	Democrat	SEC	Secretary of State	SAN	Santa Rosa			0	0	Hastings	Alcee	L.	2279
+9/4/1990	DEM	Democrat	SEC	Secretary of State	SAR	Sarasota			0	0	Hastings	Alcee	L.	9646
+9/4/1990	DEM	Democrat	SEC	Secretary of State	SEM	Seminole			0	0	Hastings	Alcee	L.	3106
+9/4/1990	DEM	Democrat	SEC	Secretary of State	STJ	St. Johns			0	0	Hastings	Alcee	L.	2251
+9/4/1990	DEM	Democrat	SEC	Secretary of State	STL	St. Lucie			0	0	Hastings	Alcee	L.	2598
+9/4/1990	DEM	Democrat	SEC	Secretary of State	SUM	Sumter			0	0	Hastings	Alcee	L.	850
+9/4/1990	DEM	Democrat	SEC	Secretary of State	SUW	Suwannee			0	0	Hastings	Alcee	L.	1041
+9/4/1990	DEM	Democrat	SEC	Secretary of State	TAY	Taylor			0	0	Hastings	Alcee	L.	705
+9/4/1990	DEM	Democrat	SEC	Secretary of State	UNI	Union			0	0	Hastings	Alcee	L.	543
+9/4/1990	DEM	Democrat	SEC	Secretary of State	VOL	Volusia			0	0	Hastings	Alcee	L.	8720
+9/4/1990	DEM	Democrat	SEC	Secretary of State	WAK	Wakulla			0	0	Hastings	Alcee	L.	1239
+9/4/1990	DEM	Democrat	SEC	Secretary of State	WAL	Walton			0	0	Hastings	Alcee	L.	1277
+9/4/1990	DEM	Democrat	SEC	Secretary of State	WAS	Washington			0	0	Hastings	Alcee	L.	738
+9/4/1990	DEM	Democrat	SEC	Secretary of State	ALA	Alachua			0	0	Minter	Jim		8732
+9/4/1990	DEM	Democrat	SEC	Secretary of State	BAK	Baker			0	0	Minter	Jim		823
+9/4/1990	DEM	Democrat	SEC	Secretary of State	BAY	Bay			0	0	Minter	Jim		2804
+9/4/1990	DEM	Democrat	SEC	Secretary of State	BRA	Bradford			0	0	Minter	Jim		818
+9/4/1990	DEM	Democrat	SEC	Secretary of State	BRE	Brevard			0	0	Minter	Jim		12433
+9/4/1990	DEM	Democrat	SEC	Secretary of State	BRO	Broward			0	0	Minter	Jim		41012
+9/4/1990	DEM	Democrat	SEC	Secretary of State	CAL	Calhoun			0	0	Minter	Jim		549
+9/4/1990	DEM	Democrat	SEC	Secretary of State	CHA	Charlotte			0	0	Minter	Jim		2816
+9/4/1990	DEM	Democrat	SEC	Secretary of State	CIT	Citrus			0	0	Minter	Jim		4049
+9/4/1990	DEM	Democrat	SEC	Secretary of State	CLA	Clay			0	0	Minter	Jim		1793
+9/4/1990	DEM	Democrat	SEC	Secretary of State	CLL	Collier			0	0	Minter	Jim		1587
+9/4/1990	DEM	Democrat	SEC	Secretary of State	CLM	Columbia			0	0	Minter	Jim		1601
+9/4/1990	DEM	Democrat	SEC	Secretary of State	DES	Desoto			0	0	Minter	Jim		797
+9/4/1990	DEM	Democrat	SEC	Secretary of State	DIX	Dixie			0	0	Minter	Jim		866
+9/4/1990	DEM	Democrat	SEC	Secretary of State	DUV	Duval			0	0	Minter	Jim		14960
+9/4/1990	DEM	Democrat	SEC	Secretary of State	ESC	Escambia			0	0	Minter	Jim		8475
+9/4/1990	DEM	Democrat	SEC	Secretary of State	FLA	Flagler			0	0	Minter	Jim		895
+9/4/1990	DEM	Democrat	SEC	Secretary of State	FRA	Franklin			0	0	Minter	Jim		530
+9/4/1990	DEM	Democrat	SEC	Secretary of State	GAD	Gadsden			0	0	Minter	Jim		1771
+9/4/1990	DEM	Democrat	SEC	Secretary of State	GIL	Gilchrist			0	0	Minter	Jim		565
+9/4/1990	DEM	Democrat	SEC	Secretary of State	GLA	Glades			0	0	Minter	Jim		322
+9/4/1990	DEM	Democrat	SEC	Secretary of State	GUL	Gulf			0	0	Minter	Jim		739
+9/4/1990	DEM	Democrat	SEC	Secretary of State	HAM	Hamilton			0	0	Minter	Jim		566
+9/4/1990	DEM	Democrat	SEC	Secretary of State	HAR	Hardee			0	0	Minter	Jim		726
+9/4/1990	DEM	Democrat	SEC	Secretary of State	HEN	Hendry			0	0	Minter	Jim		585
+9/4/1990	DEM	Democrat	SEC	Secretary of State	HER	Hernando			0	0	Minter	Jim		3829
+9/4/1990	DEM	Democrat	SEC	Secretary of State	HIG	Highlands			0	0	Minter	Jim		2092
+9/4/1990	DEM	Democrat	SEC	Secretary of State	HIL	Hillsborough			0	0	Minter	Jim		23404
+9/4/1990	DEM	Democrat	SEC	Secretary of State	HOL	Holmes			0	0	Minter	Jim		789
+9/4/1990	DEM	Democrat	SEC	Secretary of State	IND	Indian River			0	0	Minter	Jim		1622
+9/4/1990	DEM	Democrat	SEC	Secretary of State	JAC	Jackson			0	0	Minter	Jim		1365
+9/4/1990	DEM	Democrat	SEC	Secretary of State	JEF	Jefferson			0	0	Minter	Jim		841
+9/4/1990	DEM	Democrat	SEC	Secretary of State	LAF	Lafayette			0	0	Minter	Jim		498
+9/4/1990	DEM	Democrat	SEC	Secretary of State	LAK	Lake			0	0	Minter	Jim		2781
+9/4/1990	DEM	Democrat	SEC	Secretary of State	LEE	Lee			0	0	Minter	Jim		6235
+9/4/1990	DEM	Democrat	SEC	Secretary of State	LEO	Leon			0	0	Minter	Jim		13712
+9/4/1990	DEM	Democrat	SEC	Secretary of State	LEV	Levy			0	0	Minter	Jim		929
+9/4/1990	DEM	Democrat	SEC	Secretary of State	LIB	Liberty			0	0	Minter	Jim		433
+9/4/1990	DEM	Democrat	SEC	Secretary of State	MAD	Madison			0	0	Minter	Jim		780
+9/4/1990	DEM	Democrat	SEC	Secretary of State	MAN	Manatee			0	0	Minter	Jim		6219
+9/4/1990	DEM	Democrat	SEC	Secretary of State	MRN	Marion			0	0	Minter	Jim		4513
+9/4/1990	DEM	Democrat	SEC	Secretary of State	MRT	Martin			0	0	Minter	Jim		1540
+9/4/1990	DEM	Democrat	SEC	Secretary of State	DAD	Miami-Dade			0	0	Minter	Jim		35771
+9/4/1990	DEM	Democrat	SEC	Secretary of State	MON	Monroe			0	0	Minter	Jim		1708
+9/4/1990	DEM	Democrat	SEC	Secretary of State	NAS	Nassau			0	0	Minter	Jim		1259
+9/4/1990	DEM	Democrat	SEC	Secretary of State	OKA	Okaloosa			0	0	Minter	Jim		4403
+9/4/1990	DEM	Democrat	SEC	Secretary of State	OKE	Okeechobee			0	0	Minter	Jim		836
+9/4/1990	DEM	Democrat	SEC	Secretary of State	ORA	Orange			0	0	Minter	Jim		13073
+9/4/1990	DEM	Democrat	SEC	Secretary of State	OSC	Osceola			0	0	Minter	Jim		1529
+9/4/1990	DEM	Democrat	SEC	Secretary of State	PAL	Palm Beach			0	0	Minter	Jim		24398
+9/4/1990	DEM	Democrat	SEC	Secretary of State	PAS	Pasco			0	0	Minter	Jim		8218
+9/4/1990	DEM	Democrat	SEC	Secretary of State	PIN	Pinellas			0	0	Minter	Jim		25413
+9/4/1990	DEM	Democrat	SEC	Secretary of State	POL	Polk			0	0	Minter	Jim		14133
+9/4/1990	DEM	Democrat	SEC	Secretary of State	PUT	Putnam			0	0	Minter	Jim		2429
+9/4/1990	DEM	Democrat	SEC	Secretary of State	SAN	Santa Rosa			0	0	Minter	Jim		2299
+9/4/1990	DEM	Democrat	SEC	Secretary of State	SAR	Sarasota			0	0	Minter	Jim		10649
+9/4/1990	DEM	Democrat	SEC	Secretary of State	SEM	Seminole			0	0	Minter	Jim		3973
+9/4/1990	DEM	Democrat	SEC	Secretary of State	STJ	St. Johns			0	0	Minter	Jim		2321
+9/4/1990	DEM	Democrat	SEC	Secretary of State	STL	St. Lucie			0	0	Minter	Jim		3691
+9/4/1990	DEM	Democrat	SEC	Secretary of State	SUM	Sumter			0	0	Minter	Jim		977
+9/4/1990	DEM	Democrat	SEC	Secretary of State	SUW	Suwannee			0	0	Minter	Jim		1324
+9/4/1990	DEM	Democrat	SEC	Secretary of State	TAY	Taylor			0	0	Minter	Jim		973
+9/4/1990	DEM	Democrat	SEC	Secretary of State	UNI	Union			0	0	Minter	Jim		482
+9/4/1990	DEM	Democrat	SEC	Secretary of State	VOL	Volusia			0	0	Minter	Jim		11947
+9/4/1990	DEM	Democrat	SEC	Secretary of State	WAK	Wakulla			0	0	Minter	Jim		1224
+9/4/1990	DEM	Democrat	SEC	Secretary of State	WAL	Walton			0	0	Minter	Jim		1269
+9/4/1990	DEM	Democrat	SEC	Secretary of State	WAS	Washington			0	0	Minter	Jim		645
+9/4/1990	DEM	Democrat	SEC	Secretary of State	ALA	Alachua			0	0	Rogers	John	P.	5319
+9/4/1990	DEM	Democrat	SEC	Secretary of State	BAK	Baker			0	0	Rogers	John	P.	1089
+9/4/1990	DEM	Democrat	SEC	Secretary of State	BAY	Bay			0	0	Rogers	John	P.	4160
+9/4/1990	DEM	Democrat	SEC	Secretary of State	BRA	Bradford			0	0	Rogers	John	P.	1155
+9/4/1990	DEM	Democrat	SEC	Secretary of State	BRE	Brevard			0	0	Rogers	John	P.	11897
+9/4/1990	DEM	Democrat	SEC	Secretary of State	BRO	Broward			0	0	Rogers	John	P.	24703
+9/4/1990	DEM	Democrat	SEC	Secretary of State	CAL	Calhoun			0	0	Rogers	John	P.	874
+9/4/1990	DEM	Democrat	SEC	Secretary of State	CHA	Charlotte			0	0	Rogers	John	P.	1834
+9/4/1990	DEM	Democrat	SEC	Secretary of State	CIT	Citrus			0	0	Rogers	John	P.	4366
+9/4/1990	DEM	Democrat	SEC	Secretary of State	CLA	Clay			0	0	Rogers	John	P.	2079
+9/4/1990	DEM	Democrat	SEC	Secretary of State	CLL	Collier			0	0	Rogers	John	P.	2249
+9/4/1990	DEM	Democrat	SEC	Secretary of State	CLM	Columbia			0	0	Rogers	John	P.	2131
+9/4/1990	DEM	Democrat	SEC	Secretary of State	DES	Desoto			0	0	Rogers	John	P.	1016
+9/4/1990	DEM	Democrat	SEC	Secretary of State	DIX	Dixie			0	0	Rogers	John	P.	1239
+9/4/1990	DEM	Democrat	SEC	Secretary of State	DUV	Duval			0	0	Rogers	John	P.	13045
+9/4/1990	DEM	Democrat	SEC	Secretary of State	ESC	Escambia			0	0	Rogers	John	P.	8613
+9/4/1990	DEM	Democrat	SEC	Secretary of State	FLA	Flagler			0	0	Rogers	John	P.	780
+9/4/1990	DEM	Democrat	SEC	Secretary of State	FRA	Franklin			0	0	Rogers	John	P.	515
+9/4/1990	DEM	Democrat	SEC	Secretary of State	GAD	Gadsden			0	0	Rogers	John	P.	1512
+9/4/1990	DEM	Democrat	SEC	Secretary of State	GIL	Gilchrist			0	0	Rogers	John	P.	835
+9/4/1990	DEM	Democrat	SEC	Secretary of State	GLA	Glades			0	0	Rogers	John	P.	437
+9/4/1990	DEM	Democrat	SEC	Secretary of State	GUL	Gulf			0	0	Rogers	John	P.	998
+9/4/1990	DEM	Democrat	SEC	Secretary of State	HAM	Hamilton			0	0	Rogers	John	P.	801
+9/4/1990	DEM	Democrat	SEC	Secretary of State	HAR	Hardee			0	0	Rogers	John	P.	761
+9/4/1990	DEM	Democrat	SEC	Secretary of State	HEN	Hendry			0	0	Rogers	John	P.	782
+9/4/1990	DEM	Democrat	SEC	Secretary of State	HER	Hernando			0	0	Rogers	John	P.	3181
+9/4/1990	DEM	Democrat	SEC	Secretary of State	HIG	Highlands			0	0	Rogers	John	P.	2541
+9/4/1990	DEM	Democrat	SEC	Secretary of State	HIL	Hillsborough			0	0	Rogers	John	P.	19776
+9/4/1990	DEM	Democrat	SEC	Secretary of State	HOL	Holmes			0	0	Rogers	John	P.	1383
+9/4/1990	DEM	Democrat	SEC	Secretary of State	IND	Indian River			0	0	Rogers	John	P.	1806
+9/4/1990	DEM	Democrat	SEC	Secretary of State	JAC	Jackson			0	0	Rogers	John	P.	2164
+9/4/1990	DEM	Democrat	SEC	Secretary of State	JEF	Jefferson			0	0	Rogers	John	P.	594
+9/4/1990	DEM	Democrat	SEC	Secretary of State	LAF	Lafayette			0	0	Rogers	John	P.	574
+9/4/1990	DEM	Democrat	SEC	Secretary of State	LAK	Lake			0	0	Rogers	John	P.	3130
+9/4/1990	DEM	Democrat	SEC	Secretary of State	LEE	Lee			0	0	Rogers	John	P.	5043
+9/4/1990	DEM	Democrat	SEC	Secretary of State	LEO	Leon			0	0	Rogers	John	P.	5177
+9/4/1990	DEM	Democrat	SEC	Secretary of State	LEV	Levy			0	0	Rogers	John	P.	1175
+9/4/1990	DEM	Democrat	SEC	Secretary of State	LIB	Liberty			0	0	Rogers	John	P.	505
+9/4/1990	DEM	Democrat	SEC	Secretary of State	MAD	Madison			0	0	Rogers	John	P.	781
+9/4/1990	DEM	Democrat	SEC	Secretary of State	MAN	Manatee			0	0	Rogers	John	P.	3553
+9/4/1990	DEM	Democrat	SEC	Secretary of State	MRN	Marion			0	0	Rogers	John	P.	5952
+9/4/1990	DEM	Democrat	SEC	Secretary of State	MRT	Martin			0	0	Rogers	John	P.	1397
+9/4/1990	DEM	Democrat	SEC	Secretary of State	DAD	Miami-Dade			0	0	Rogers	John	P.	22012
+9/4/1990	DEM	Democrat	SEC	Secretary of State	MON	Monroe			0	0	Rogers	John	P.	1957
+9/4/1990	DEM	Democrat	SEC	Secretary of State	NAS	Nassau			0	0	Rogers	John	P.	1428
+9/4/1990	DEM	Democrat	SEC	Secretary of State	OKA	Okaloosa			0	0	Rogers	John	P.	3005
+9/4/1990	DEM	Democrat	SEC	Secretary of State	OKE	Okeechobee			0	0	Rogers	John	P.	953
+9/4/1990	DEM	Democrat	SEC	Secretary of State	ORA	Orange			0	0	Rogers	John	P.	9291
+9/4/1990	DEM	Democrat	SEC	Secretary of State	OSC	Osceola			0	0	Rogers	John	P.	2244
+9/4/1990	DEM	Democrat	SEC	Secretary of State	PAL	Palm Beach			0	0	Rogers	John	P.	15563
+9/4/1990	DEM	Democrat	SEC	Secretary of State	PAS	Pasco			0	0	Rogers	John	P.	6663
+9/4/1990	DEM	Democrat	SEC	Secretary of State	PIN	Pinellas			0	0	Rogers	John	P.	12683
+9/4/1990	DEM	Democrat	SEC	Secretary of State	POL	Polk			0	0	Rogers	John	P.	9060
+9/4/1990	DEM	Democrat	SEC	Secretary of State	PUT	Putnam			0	0	Rogers	John	P.	3213
+9/4/1990	DEM	Democrat	SEC	Secretary of State	SAN	Santa Rosa			0	0	Rogers	John	P.	3319
+9/4/1990	DEM	Democrat	SEC	Secretary of State	SAR	Sarasota			0	0	Rogers	John	P.	6340
+9/4/1990	DEM	Democrat	SEC	Secretary of State	SEM	Seminole			0	0	Rogers	John	P.	4052
+9/4/1990	DEM	Democrat	SEC	Secretary of State	STJ	St. Johns			0	0	Rogers	John	P.	2704
+9/4/1990	DEM	Democrat	SEC	Secretary of State	STL	St. Lucie			0	0	Rogers	John	P.	2857
+9/4/1990	DEM	Democrat	SEC	Secretary of State	SUM	Sumter			0	0	Rogers	John	P.	1155
+9/4/1990	DEM	Democrat	SEC	Secretary of State	SUW	Suwannee			0	0	Rogers	John	P.	1177
+9/4/1990	DEM	Democrat	SEC	Secretary of State	TAY	Taylor			0	0	Rogers	John	P.	841
+9/4/1990	DEM	Democrat	SEC	Secretary of State	UNI	Union			0	0	Rogers	John	P.	560
+9/4/1990	DEM	Democrat	SEC	Secretary of State	VOL	Volusia			0	0	Rogers	John	P.	8681
+9/4/1990	DEM	Democrat	SEC	Secretary of State	WAK	Wakulla			0	0	Rogers	John	P.	964
+9/4/1990	DEM	Democrat	SEC	Secretary of State	WAL	Walton			0	0	Rogers	John	P.	1606
+9/4/1990	DEM	Democrat	SEC	Secretary of State	WAS	Washington			0	0	Rogers	John	P.	1120
+9/4/1990	DEM	Democrat	TRE	Treasurer	ALA	Alachua			0	0	Crouch	Jake		3755
+9/4/1990	DEM	Democrat	TRE	Treasurer	BAK	Baker			0	0	Crouch	Jake		645
+9/4/1990	DEM	Democrat	TRE	Treasurer	BAY	Bay			0	0	Crouch	Jake		1610
+9/4/1990	DEM	Democrat	TRE	Treasurer	BRA	Bradford			0	0	Crouch	Jake		810
+9/4/1990	DEM	Democrat	TRE	Treasurer	BRE	Brevard			0	0	Crouch	Jake		7270
+9/4/1990	DEM	Democrat	TRE	Treasurer	BRO	Broward			0	0	Crouch	Jake		25155
+9/4/1990	DEM	Democrat	TRE	Treasurer	CAL	Calhoun			0	0	Crouch	Jake		461
+9/4/1990	DEM	Democrat	TRE	Treasurer	CHA	Charlotte			0	0	Crouch	Jake		1880
+9/4/1990	DEM	Democrat	TRE	Treasurer	CIT	Citrus			0	0	Crouch	Jake		2409
+9/4/1990	DEM	Democrat	TRE	Treasurer	CLA	Clay			0	0	Crouch	Jake		1454
+9/4/1990	DEM	Democrat	TRE	Treasurer	CLL	Collier			0	0	Crouch	Jake		1566
+9/4/1990	DEM	Democrat	TRE	Treasurer	CLM	Columbia			0	0	Crouch	Jake		992
+9/4/1990	DEM	Democrat	TRE	Treasurer	DES	Desoto			0	0	Crouch	Jake		664
+9/4/1990	DEM	Democrat	TRE	Treasurer	DIX	Dixie			0	0	Crouch	Jake		758
+9/4/1990	DEM	Democrat	TRE	Treasurer	DUV	Duval			0	0	Crouch	Jake		10867
+9/4/1990	DEM	Democrat	TRE	Treasurer	ESC	Escambia			0	0	Crouch	Jake		5744
+9/4/1990	DEM	Democrat	TRE	Treasurer	FLA	Flagler			0	0	Crouch	Jake		560
+9/4/1990	DEM	Democrat	TRE	Treasurer	FRA	Franklin			0	0	Crouch	Jake		256
+9/4/1990	DEM	Democrat	TRE	Treasurer	GAD	Gadsden			0	0	Crouch	Jake		1724
+9/4/1990	DEM	Democrat	TRE	Treasurer	GIL	Gilchrist			0	0	Crouch	Jake		407
+9/4/1990	DEM	Democrat	TRE	Treasurer	GLA	Glades			0	0	Crouch	Jake		304
+9/4/1990	DEM	Democrat	TRE	Treasurer	GUL	Gulf			0	0	Crouch	Jake		529
+9/4/1990	DEM	Democrat	TRE	Treasurer	HAM	Hamilton			0	0	Crouch	Jake		564
+9/4/1990	DEM	Democrat	TRE	Treasurer	HAR	Hardee			0	0	Crouch	Jake		406
+9/4/1990	DEM	Democrat	TRE	Treasurer	HEN	Hendry			0	0	Crouch	Jake		498
+9/4/1990	DEM	Democrat	TRE	Treasurer	HER	Hernando			0	0	Crouch	Jake		2155
+9/4/1990	DEM	Democrat	TRE	Treasurer	HIG	Highlands			0	0	Crouch	Jake		1430
+9/4/1990	DEM	Democrat	TRE	Treasurer	HIL	Hillsborough			0	0	Crouch	Jake		11947
+9/4/1990	DEM	Democrat	TRE	Treasurer	HOL	Holmes			0	0	Crouch	Jake		757
+9/4/1990	DEM	Democrat	TRE	Treasurer	IND	Indian River			0	0	Crouch	Jake		1100
+9/4/1990	DEM	Democrat	TRE	Treasurer	JAC	Jackson			0	0	Crouch	Jake		1471
+9/4/1990	DEM	Democrat	TRE	Treasurer	JEF	Jefferson			0	0	Crouch	Jake		608
+9/4/1990	DEM	Democrat	TRE	Treasurer	LAF	Lafayette			0	0	Crouch	Jake		395
+9/4/1990	DEM	Democrat	TRE	Treasurer	LAK	Lake			0	0	Crouch	Jake		1953
+9/4/1990	DEM	Democrat	TRE	Treasurer	LEE	Lee			0	0	Crouch	Jake		3853
+9/4/1990	DEM	Democrat	TRE	Treasurer	LEO	Leon			0	0	Crouch	Jake		3863
+9/4/1990	DEM	Democrat	TRE	Treasurer	LEV	Levy			0	0	Crouch	Jake		628
+9/4/1990	DEM	Democrat	TRE	Treasurer	LIB	Liberty			0	0	Crouch	Jake		412
+9/4/1990	DEM	Democrat	TRE	Treasurer	MAD	Madison			0	0	Crouch	Jake		592
+9/4/1990	DEM	Democrat	TRE	Treasurer	MAN	Manatee			0	0	Crouch	Jake		3742
+9/4/1990	DEM	Democrat	TRE	Treasurer	MRN	Marion			0	0	Crouch	Jake		3527
+9/4/1990	DEM	Democrat	TRE	Treasurer	MRT	Martin			0	0	Crouch	Jake		895
+9/4/1990	DEM	Democrat	TRE	Treasurer	DAD	Miami-Dade			0	0	Crouch	Jake		18892
+9/4/1990	DEM	Democrat	TRE	Treasurer	MON	Monroe			0	0	Crouch	Jake		1080
+9/4/1990	DEM	Democrat	TRE	Treasurer	NAS	Nassau			0	0	Crouch	Jake		848
+9/4/1990	DEM	Democrat	TRE	Treasurer	OKA	Okaloosa			0	0	Crouch	Jake		2551
+9/4/1990	DEM	Democrat	TRE	Treasurer	OKE	Okeechobee			0	0	Crouch	Jake		612
+9/4/1990	DEM	Democrat	TRE	Treasurer	ORA	Orange			0	0	Crouch	Jake		8869
+9/4/1990	DEM	Democrat	TRE	Treasurer	OSC	Osceola			0	0	Crouch	Jake		1420
+9/4/1990	DEM	Democrat	TRE	Treasurer	PAL	Palm Beach			0	0	Crouch	Jake		12612
+9/4/1990	DEM	Democrat	TRE	Treasurer	PAS	Pasco			0	0	Crouch	Jake		5643
+9/4/1990	DEM	Democrat	TRE	Treasurer	PIN	Pinellas			0	0	Crouch	Jake		12691
+9/4/1990	DEM	Democrat	TRE	Treasurer	POL	Polk			0	0	Crouch	Jake		4357
+9/4/1990	DEM	Democrat	TRE	Treasurer	PUT	Putnam			0	0	Crouch	Jake		1971
+9/4/1990	DEM	Democrat	TRE	Treasurer	SAN	Santa Rosa			0	0	Crouch	Jake		1897
+9/4/1990	DEM	Democrat	TRE	Treasurer	SAR	Sarasota			0	0	Crouch	Jake		7042
+9/4/1990	DEM	Democrat	TRE	Treasurer	SEM	Seminole			0	0	Crouch	Jake		2779
+9/4/1990	DEM	Democrat	TRE	Treasurer	STJ	St. Johns			0	0	Crouch	Jake		1635
+9/4/1990	DEM	Democrat	TRE	Treasurer	STL	St. Lucie			0	0	Crouch	Jake		2584
+9/4/1990	DEM	Democrat	TRE	Treasurer	SUM	Sumter			0	0	Crouch	Jake		726
+9/4/1990	DEM	Democrat	TRE	Treasurer	SUW	Suwannee			0	0	Crouch	Jake		842
+9/4/1990	DEM	Democrat	TRE	Treasurer	TAY	Taylor			0	0	Crouch	Jake		705
+9/4/1990	DEM	Democrat	TRE	Treasurer	UNI	Union			0	0	Crouch	Jake		377
+9/4/1990	DEM	Democrat	TRE	Treasurer	VOL	Volusia			0	0	Crouch	Jake		8253
+9/4/1990	DEM	Democrat	TRE	Treasurer	WAK	Wakulla			0	0	Crouch	Jake		877
+9/4/1990	DEM	Democrat	TRE	Treasurer	WAL	Walton			0	0	Crouch	Jake		1005
+9/4/1990	DEM	Democrat	TRE	Treasurer	WAS	Washington			0	0	Crouch	Jake		580
+9/4/1990	DEM	Democrat	TRE	Treasurer	ALA	Alachua			0	0	Stuart	George		14803
+9/4/1990	DEM	Democrat	TRE	Treasurer	BAK	Baker			0	0	Stuart	George		2099
+9/4/1990	DEM	Democrat	TRE	Treasurer	BAY	Bay			0	0	Stuart	George		6485
+9/4/1990	DEM	Democrat	TRE	Treasurer	BRA	Bradford			0	0	Stuart	George		2153
+9/4/1990	DEM	Democrat	TRE	Treasurer	BRE	Brevard			0	0	Stuart	George		24738
+9/4/1990	DEM	Democrat	TRE	Treasurer	BRO	Broward			0	0	Stuart	George		68281
+9/4/1990	DEM	Democrat	TRE	Treasurer	CAL	Calhoun			0	0	Stuart	George		1562
+9/4/1990	DEM	Democrat	TRE	Treasurer	CHA	Charlotte			0	0	Stuart	George		4796
+9/4/1990	DEM	Democrat	TRE	Treasurer	CIT	Citrus			0	0	Stuart	George		8652
+9/4/1990	DEM	Democrat	TRE	Treasurer	CLA	Clay			0	0	Stuart	George		4202
+9/4/1990	DEM	Democrat	TRE	Treasurer	CLL	Collier			0	0	Stuart	George		4214
+9/4/1990	DEM	Democrat	TRE	Treasurer	CLM	Columbia			0	0	Stuart	George		4392
+9/4/1990	DEM	Democrat	TRE	Treasurer	DES	Desoto			0	0	Stuart	George		2020
+9/4/1990	DEM	Democrat	TRE	Treasurer	DIX	Dixie			0	0	Stuart	George		2232
+9/4/1990	DEM	Democrat	TRE	Treasurer	DUV	Duval			0	0	Stuart	George		30802
+9/4/1990	DEM	Democrat	TRE	Treasurer	ESC	Escambia			0	0	Stuart	George		19000
+9/4/1990	DEM	Democrat	TRE	Treasurer	FLA	Flagler			0	0	Stuart	George		1783
+9/4/1990	DEM	Democrat	TRE	Treasurer	FRA	Franklin			0	0	Stuart	George		969
+9/4/1990	DEM	Democrat	TRE	Treasurer	GAD	Gadsden			0	0	Stuart	George		3950
+9/4/1990	DEM	Democrat	TRE	Treasurer	GIL	Gilchrist			0	0	Stuart	George		1460
+9/4/1990	DEM	Democrat	TRE	Treasurer	GLA	Glades			0	0	Stuart	George		714
+9/4/1990	DEM	Democrat	TRE	Treasurer	GUL	Gulf			0	0	Stuart	George		1938
+9/4/1990	DEM	Democrat	TRE	Treasurer	HAM	Hamilton			0	0	Stuart	George		1612
+9/4/1990	DEM	Democrat	TRE	Treasurer	HAR	Hardee			0	0	Stuart	George		1660
+9/4/1990	DEM	Democrat	TRE	Treasurer	HEN	Hendry			0	0	Stuart	George		1387
+9/4/1990	DEM	Democrat	TRE	Treasurer	HER	Hernando			0	0	Stuart	George		7214
+9/4/1990	DEM	Democrat	TRE	Treasurer	HIG	Highlands			0	0	Stuart	George		4715
+9/4/1990	DEM	Democrat	TRE	Treasurer	HIL	Hillsborough			0	0	Stuart	George		52069
+9/4/1990	DEM	Democrat	TRE	Treasurer	HOL	Holmes			0	0	Stuart	George		2392
+9/4/1990	DEM	Democrat	TRE	Treasurer	IND	Indian River			0	0	Stuart	George		3426
+9/4/1990	DEM	Democrat	TRE	Treasurer	JAC	Jackson			0	0	Stuart	George		3871
+9/4/1990	DEM	Democrat	TRE	Treasurer	JEF	Jefferson			0	0	Stuart	George		1682
+9/4/1990	DEM	Democrat	TRE	Treasurer	LAF	Lafayette			0	0	Stuart	George		1106
+9/4/1990	DEM	Democrat	TRE	Treasurer	LAK	Lake			0	0	Stuart	George		6917
+9/4/1990	DEM	Democrat	TRE	Treasurer	LEE	Lee			0	0	Stuart	George		11962
+9/4/1990	DEM	Democrat	TRE	Treasurer	LEO	Leon			0	0	Stuart	George		20536
+9/4/1990	DEM	Democrat	TRE	Treasurer	LEV	Levy			0	0	Stuart	George		2378
+9/4/1990	DEM	Democrat	TRE	Treasurer	LIB	Liberty			0	0	Stuart	George		969
+9/4/1990	DEM	Democrat	TRE	Treasurer	MAD	Madison			0	0	Stuart	George		1842
+9/4/1990	DEM	Democrat	TRE	Treasurer	MAN	Manatee			0	0	Stuart	George		10135
+9/4/1990	DEM	Democrat	TRE	Treasurer	MRN	Marion			0	0	Stuart	George		12707
+9/4/1990	DEM	Democrat	TRE	Treasurer	MRT	Martin			0	0	Stuart	George		3117
+9/4/1990	DEM	Democrat	TRE	Treasurer	DAD	Miami-Dade			0	0	Stuart	George		72915
+9/4/1990	DEM	Democrat	TRE	Treasurer	MON	Monroe			0	0	Stuart	George		3533
+9/4/1990	DEM	Democrat	TRE	Treasurer	NAS	Nassau			0	0	Stuart	George		2698
+9/4/1990	DEM	Democrat	TRE	Treasurer	OKA	Okaloosa			0	0	Stuart	George		7533
+9/4/1990	DEM	Democrat	TRE	Treasurer	OKE	Okeechobee			0	0	Stuart	George		1871
+9/4/1990	DEM	Democrat	TRE	Treasurer	ORA	Orange			0	0	Stuart	George		27135
+9/4/1990	DEM	Democrat	TRE	Treasurer	OSC	Osceola			0	0	Stuart	George		4249
+9/4/1990	DEM	Democrat	TRE	Treasurer	PAL	Palm Beach			0	0	Stuart	George		39835
+9/4/1990	DEM	Democrat	TRE	Treasurer	PAS	Pasco			0	0	Stuart	George		15087
+9/4/1990	DEM	Democrat	TRE	Treasurer	PIN	Pinellas			0	0	Stuart	George		40601
+9/4/1990	DEM	Democrat	TRE	Treasurer	POL	Polk			0	0	Stuart	George		25733
+9/4/1990	DEM	Democrat	TRE	Treasurer	PUT	Putnam			0	0	Stuart	George		5217
+9/4/1990	DEM	Democrat	TRE	Treasurer	SAN	Santa Rosa			0	0	Stuart	George		5692
+9/4/1990	DEM	Democrat	TRE	Treasurer	SAR	Sarasota			0	0	Stuart	George		18536
+9/4/1990	DEM	Democrat	TRE	Treasurer	SEM	Seminole			0	0	Stuart	George		9059
+9/4/1990	DEM	Democrat	TRE	Treasurer	STJ	St. Johns			0	0	Stuart	George		5376
+9/4/1990	DEM	Democrat	TRE	Treasurer	STL	St. Lucie			0	0	Stuart	George		5977
+9/4/1990	DEM	Democrat	TRE	Treasurer	SUM	Sumter			0	0	Stuart	George		2375
+9/4/1990	DEM	Democrat	TRE	Treasurer	SUW	Suwannee			0	0	Stuart	George		2628
+9/4/1990	DEM	Democrat	TRE	Treasurer	TAY	Taylor			0	0	Stuart	George		1795
+9/4/1990	DEM	Democrat	TRE	Treasurer	UNI	Union			0	0	Stuart	George		1183
+9/4/1990	DEM	Democrat	TRE	Treasurer	VOL	Volusia			0	0	Stuart	George		21227
+9/4/1990	DEM	Democrat	TRE	Treasurer	WAK	Wakulla			0	0	Stuart	George		2398
+9/4/1990	DEM	Democrat	TRE	Treasurer	WAL	Walton			0	0	Stuart	George		3011
+9/4/1990	DEM	Democrat	TRE	Treasurer	WAS	Washington			0	0	Stuart	George		1892
+9/4/1990	DEM	Democrat	PUB	Public Defender	FRA	Franklin	002		0	0	Daniels	Nancy		743
+9/4/1990	DEM	Democrat	PUB	Public Defender	GAD	Gadsden	002		0	0	Daniels	Nancy		3671
+9/4/1990	DEM	Democrat	PUB	Public Defender	JEF	Jefferson	002		0	0	Daniels	Nancy		1440
+9/4/1990	DEM	Democrat	PUB	Public Defender	LEO	Leon	002		0	0	Daniels	Nancy		17708
+9/4/1990	DEM	Democrat	PUB	Public Defender	LIB	Liberty	002		0	0	Daniels	Nancy		873
+9/4/1990	DEM	Democrat	PUB	Public Defender	WAK	Wakulla	002		0	0	Daniels	Nancy		1700
+9/4/1990	DEM	Democrat	PUB	Public Defender	FRA	Franklin	002		0	0	Webster	William	H. (Bill)	1143
+9/4/1990	DEM	Democrat	PUB	Public Defender	GAD	Gadsden	002		0	0	Webster	William	H. (Bill)	3008
+9/4/1990	DEM	Democrat	PUB	Public Defender	JEF	Jefferson	002		0	0	Webster	William	H. (Bill)	1199
+9/4/1990	DEM	Democrat	PUB	Public Defender	LEO	Leon	002		0	0	Webster	William	H. (Bill)	10482
+9/4/1990	DEM	Democrat	PUB	Public Defender	LIB	Liberty	002		0	0	Webster	William	H. (Bill)	817
+9/4/1990	DEM	Democrat	PUB	Public Defender	WAK	Wakulla	002		0	0	Webster	William	H. (Bill)	2325
+9/4/1990	DEM	Democrat	STS	State Senator	CHA	Charlotte	024		0	0	Chiles	Ed		1267
+9/4/1990	DEM	Democrat	STS	State Senator	DES	Desoto	024		0	0	Chiles	Ed		1061
+9/4/1990	DEM	Democrat	STS	State Senator	HAR	Hardee	024		0	0	Chiles	Ed		1776
+9/4/1990	DEM	Democrat	STS	State Senator	LEE	Lee	024		0	0	Chiles	Ed		2833
+9/4/1990	DEM	Democrat	STS	State Senator	MAN	Manatee	024		0	0	Chiles	Ed		11232
+9/4/1990	DEM	Democrat	STS	State Senator	CHA	Charlotte	024		0	0	Victory	Bill		385
+9/4/1990	DEM	Democrat	STS	State Senator	DES	Desoto	024		0	0	Victory	Bill		438
+9/4/1990	DEM	Democrat	STS	State Senator	HAR	Hardee	024		0	0	Victory	Bill		575
+9/4/1990	DEM	Democrat	STS	State Senator	LEE	Lee	024		0	0	Victory	Bill		1268
+9/4/1990	DEM	Democrat	STS	State Senator	MAN	Manatee	024		0	0	Victory	Bill		3915
+9/4/1990	DEM	Democrat	STS	State Senator	BRO	Broward	026		0	0	Spillias	Ken		732
+9/4/1990	DEM	Democrat	STS	State Senator	PAL	Palm Beach	026		0	0	Spillias	Ken		6665
+9/4/1990	DEM	Democrat	STS	State Senator	BRO	Broward	026		0	0	Weinstock	Eleanor		4163
+9/4/1990	DEM	Democrat	STS	State Senator	PAL	Palm Beach	026		0	0	Weinstock	Eleanor		11802
+9/4/1990	DEM	Democrat	STS	State Senator	HEN	Hendry	028		0	0	Childers	Don	C.	1449
+9/4/1990	DEM	Democrat	STS	State Senator	PAL	Palm Beach	028		0	0	Childers	Don	C.	9440
+9/4/1990	DEM	Democrat	STS	State Senator	HEN	Hendry	028		0	0	Silver	Barry		160
+9/4/1990	DEM	Democrat	STS	State Senator	PAL	Palm Beach	028		0	0	Silver	Barry		8295
+9/4/1990	DEM	Democrat	STS	State Senator	HEN	Hendry	028		0	0	Wexler	Robert		555
+9/4/1990	DEM	Democrat	STS	State Senator	PAL	Palm Beach	028		0	0	Wexler	Robert		13024
+9/4/1990	DEM	Democrat	STS	State Senator	BRO	Broward	030		0	0	Jenne	Ken		11441
+9/4/1990	DEM	Democrat	STS	State Senator	BRO	Broward	030		0	0	McPherson	Tom		9528
+9/4/1990	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	040		0	0	Easterly	Tom		8885
+9/4/1990	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	040		0	0	Southerland	Steve		6938
+9/4/1990	DEM	Democrat	STR	State Representative	ESC	Escambia	002		0	0	Kolmetz	Victor		1931
+9/4/1990	DEM	Democrat	STR	State Representative	ESC	Escambia	002		0	0	Ritchie	Buzz		7111
+9/4/1990	DEM	Democrat	STR	State Representative	FRA	Franklin	009		0	0	Carrin, Jr.	W.P.	'Bill'	525
+9/4/1990	DEM	Democrat	STR	State Representative	LEO	Leon	009		0	0	Carrin, Jr.	W.P.	'Bill'	1225
+9/4/1990	DEM	Democrat	STR	State Representative	LIB	Liberty	009		0	0	Carrin, Jr.	W.P.	'Bill'	515
+9/4/1990	DEM	Democrat	STR	State Representative	WAK	Wakulla	009		0	0	Carrin, Jr.	W.P.	'Bill'	206
+9/4/1990	DEM	Democrat	STR	State Representative	FRA	Franklin	009		0	0	Lawson	Alfred	(Al)	957
+9/4/1990	DEM	Democrat	STR	State Representative	LEO	Leon	009		0	0	Lawson	Alfred	(Al)	6886
+9/4/1990	DEM	Democrat	STR	State Representative	LIB	Liberty	009		0	0	Lawson	Alfred	(Al)	1301
+9/4/1990	DEM	Democrat	STR	State Representative	WAK	Wakulla	009		0	0	Lawson	Alfred	(Al)	758
+9/4/1990	DEM	Democrat	STR	State Representative	LEO	Leon	010		0	0	Maddox	Scott		8246
+9/4/1990	DEM	Democrat	STR	State Representative	LEO	Leon	010		0	0	Rudd	Hurley	W.	16016
+9/4/1990	DEM	Democrat	STR	State Representative	ALA	Alachua	023		0	0	Chestnut	Cynthia	Moore	4178
+9/4/1990	DEM	Democrat	STR	State Representative	PUT	Putnam	023		0	0	Chestnut	Cynthia	Moore	553
+9/4/1990	DEM	Democrat	STR	State Representative	ALA	Alachua	023		0	0	Harvey	Larry		545
+9/4/1990	DEM	Democrat	STR	State Representative	PUT	Putnam	023		0	0	Harvey	Larry		683
+9/4/1990	DEM	Democrat	STR	State Representative	ALA	Alachua	023		0	0	Phillips	Clay		3285
+9/4/1990	DEM	Democrat	STR	State Representative	PUT	Putnam	023		0	0	Phillips	Clay		868
+9/4/1990	DEM	Democrat	STR	State Representative	VOL	Volusia	029		0	0	Gamble	Marguerite	Dupont	1729
+9/4/1990	DEM	Democrat	STR	State Representative	VOL	Volusia	029		0	0	Wetherell	T.K.		6053
+9/4/1990	DEM	Democrat	STR	State Representative	POL	Polk	044		0	0	Riscoe	Bob		457
+9/4/1990	DEM	Democrat	STR	State Representative	POL	Polk	044		0	0	Roberts	Eugene	L.	2300
+9/4/1990	DEM	Democrat	STR	State Representative	POL	Polk	044		0	0	Tanner	Jim		2651
+9/4/1990	DEM	Democrat	STR	State Representative	POL	Polk	044		0	0	Viscusi	Joe		4315
+9/4/1990	DEM	Democrat	STR	State Representative	PIN	Pinellas	057		0	0	Brennan	Mary		4321
+9/4/1990	DEM	Democrat	STR	State Representative	PIN	Pinellas	057		0	0	Harding	Frank		1645
+9/4/1990	DEM	Democrat	STR	State Representative	HIL	Hillsborough	063		0	0	Gore	Don		1006
+9/4/1990	DEM	Democrat	STR	State Representative	HIL	Hillsborough	063		0	0	Hargrett, Jr.	James	T.  (Jim)	7249
+9/4/1990	DEM	Democrat	STR	State Representative	CLL	Collier	076		0	0	Coffey	John	B.	49
+9/4/1990	DEM	Democrat	STR	State Representative	DES	Desoto	076		0	0	Coffey	John	B.	80
+9/4/1990	DEM	Democrat	STR	State Representative	GLA	Glades	076		0	0	Coffey	John	B.	670
+9/4/1990	DEM	Democrat	STR	State Representative	HEN	Hendry	076		0	0	Coffey	John	B.	688
+9/4/1990	DEM	Democrat	STR	State Representative	HIG	Highlands	076		0	0	Coffey	John	B.	2954
+9/4/1990	DEM	Democrat	STR	State Representative	OKE	Okeechobee	076		0	0	Coffey	John	B.	54
+9/4/1990	DEM	Democrat	STR	State Representative	CLL	Collier	076		0	0	Harris, Jr.	Bert	J.	111
+9/4/1990	DEM	Democrat	STR	State Representative	DES	Desoto	076		0	0	Harris, Jr.	Bert	J.	105
+9/4/1990	DEM	Democrat	STR	State Representative	GLA	Glades	076		0	0	Harris, Jr.	Bert	J.	724
+9/4/1990	DEM	Democrat	STR	State Representative	HEN	Hendry	076		0	0	Harris, Jr.	Bert	J.	1462
+9/4/1990	DEM	Democrat	STR	State Representative	HIG	Highlands	076		0	0	Harris, Jr.	Bert	J.	4189
+9/4/1990	DEM	Democrat	STR	State Representative	OKE	Okeechobee	076		0	0	Harris, Jr.	Bert	J.	114
+9/4/1990	DEM	Democrat	STR	State Representative	BRE	Brevard	078		0	0	Fromang	V.	Brian	35
+9/4/1990	DEM	Democrat	STR	State Representative	IND	Indian River	078		0	0	Fromang	V.	Brian	1816
+9/4/1990	DEM	Democrat	STR	State Representative	STL	St. Lucie	078		0	0	Fromang	V.	Brian	807
+9/4/1990	DEM	Democrat	STR	State Representative	BRE	Brevard	078		0	0	Graves	Richard		71
+9/4/1990	DEM	Democrat	STR	State Representative	IND	Indian River	078		0	0	Graves	Richard		3244
+9/4/1990	DEM	Democrat	STR	State Representative	STL	St. Lucie	078		0	0	Graves	Richard		916
+9/4/1990	DEM	Democrat	STR	State Representative	MRT	Martin	080		0	0	Dailer	Patricia	'Pat'	1745
+9/4/1990	DEM	Democrat	STR	State Representative	PAL	Palm Beach	080		0	0	Dailer	Patricia	'Pat'	2243
+9/4/1990	DEM	Democrat	STR	State Representative	MRT	Martin	080		0	0	Negron	Joe		1133
+9/4/1990	DEM	Democrat	STR	State Representative	PAL	Palm Beach	080		0	0	Negron	Joe		979
+9/4/1990	DEM	Democrat	STR	State Representative	PAL	Palm Beach	085		0	0	Cassandra	Nick		1493
+9/4/1990	DEM	Democrat	STR	State Representative	PAL	Palm Beach	085		0	0	Hinsa	David		1698
+9/4/1990	DEM	Democrat	STR	State Representative	PAL	Palm Beach	085		0	0	Jones	Edwin		392
+9/4/1990	DEM	Democrat	STR	State Representative	PAL	Palm Beach	085		0	0	Oyer	Harvey		1125
+9/4/1990	DEM	Democrat	STR	State Representative	PAL	Palm Beach	085		0	0	Walshak	Bob		1765
+9/4/1990	DEM	Democrat	STR	State Representative	BRO	Broward	095		0	0	MacKenzie	Anne		4994
+9/4/1990	DEM	Democrat	STR	State Representative	BRO	Broward	095		0	0	Silvernale	James	'Jim'	1163
+9/4/1990	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	102		0	0	Gordon	Elaine		4822
+9/4/1990	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	102		0	0	O'Connor	Kevin		2895
+9/4/1990	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	104		0	0	Bloom	Elaine		4673
+9/4/1990	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	104		0	0	Herman	Rapael		781
+9/4/1990	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	106		0	0	Bestman	Evalina		1110
+9/4/1990	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	106		0	0	Bush III	James		1875
+9/4/1990	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	106		0	0	Crawford, Jr.	Lucius		669
+9/4/1990	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	106		0	0	Frazier	Eufaula	S.	546
+9/4/1990	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	106		0	0	Reaves	Darryl		2641
+9/4/1990	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	108		0	0	Logan	Willie		6637
+9/4/1990	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	108		0	0	Williams, Jr.	David		1708
+9/4/1990	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	114		0	0	Bohnsack	Fran		3874
+9/4/1990	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	114		0	0	Wolff	Mark	J.	2440
+9/4/1990	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	117		0	0	Guber	Susan		6529
+9/4/1990	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	117		0	0	Nuell	Steve		3246
+9/4/1990	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		0	0	Benjamin	Emmett		226
+9/4/1990	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		0	0	Bullard	Larcenia	J.	1608
+9/4/1990	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		0	0	Case	Jerry		1065
+9/4/1990	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		0	0	Gillman	Jeff		1370
+9/4/1990	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		0	0	Jones	Daryl	L.	2387
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	ESC	Escambia	001	011	0	0	Rasmussen	Paul	A.	22367
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	OKA	Okaloosa	001	011	0	0	Rasmussen	Paul	A.	8788
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	SAN	Santa Rosa	001	011	0	0	Rasmussen	Paul	A.	5167
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	WAL	Walton	001	011	0	0	Rasmussen	Paul	A.	1748
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	ESC	Escambia	001	011	0	0	Spencer	John	C.	15356
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	OKA	Okaloosa	001	011	0	0	Spencer	John	C.	8531
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	SAN	Santa Rosa	001	011	0	0	Spencer	John	C.	6626
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	WAL	Walton	001	011	0	0	Spencer	John	C.	2943
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	ESC	Escambia	001	016	0	0	Jennings	Bill		14550
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	OKA	Okaloosa	001	016	0	0	Jennings	Bill		7815
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	SAN	Santa Rosa	001	016	0	0	Jennings	Bill		3503
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	WAL	Walton	001	016	0	0	Jennings	Bill		2973
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	ESC	Escambia	001	016	0	0	Melvin	Laura		23639
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	OKA	Okaloosa	001	016	0	0	Melvin	Laura		10825
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	SAN	Santa Rosa	001	016	0	0	Melvin	Laura		8630
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	WAL	Walton	001	016	0	0	Melvin	Laura		3380
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	ESC	Escambia	001	018	0	0	Etheredge	James	G.	15808
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	OKA	Okaloosa	001	018	0	0	Etheredge	James	G.	10756
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	SAN	Santa Rosa	001	018	0	0	Etheredge	James	G.	5212
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	WAL	Walton	001	018	0	0	Etheredge	James	G.	2164
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	ESC	Escambia	001	018	0	0	Williams	Ken		22197
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	OKA	Okaloosa	001	018	0	0	Williams	Ken		7178
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	SAN	Santa Rosa	001	018	0	0	Williams	Ken		6052
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	WAL	Walton	001	018	0	0	Williams	Ken		2579
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	ESC	Escambia	001	019	0	0	Bell	Ken		22878
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	OKA	Okaloosa	001	019	0	0	Bell	Ken		11000
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	SAN	Santa Rosa	001	019	0	0	Bell	Ken		6948
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	WAL	Walton	001	019	0	0	Bell	Ken		3273
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	ESC	Escambia	001	019	0	0	Kahn, Jr.	Charles	J. 'Chuck'	18248
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	OKA	Okaloosa	001	019	0	0	Kahn, Jr.	Charles	J. 'Chuck'	6282
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	SAN	Santa Rosa	001	019	0	0	Kahn, Jr.	Charles	J. 'Chuck'	4964
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	WAL	Walton	001	019	0	0	Kahn, Jr.	Charles	J. 'Chuck'	1595
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	006	0	0	Hayes	Brian	T.	678
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	006	0	0	Hayes	Brian	T.	2571
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	006	0	0	Hayes	Brian	T.	1757
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	006	0	0	Hayes	Brian	T.	14543
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	006	0	0	Hayes	Brian	T.	577
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	006	0	0	Hayes	Brian	T.	1831
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	006	0	0	Sauls	N.	Sanders (S	895
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	006	0	0	Sauls	N.	Sanders (S	3581
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	006	0	0	Sauls	N.	Sanders (S	1411
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	006	0	0	Sauls	N.	Sanders (S	16022
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	006	0	0	Sauls	N.	Sanders (S	739
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	006	0	0	Sauls	N.	Sanders (S	2225
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	CLM	Columbia	003	001	0	0	Agner	Royce		2828
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DIX	Dixie	003	001	0	0	Agner	Royce		2058
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HAM	Hamilton	003	001	0	0	Agner	Royce		1462
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	LAF	Lafayette	003	001	0	0	Agner	Royce		1185
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	MAD	Madison	003	001	0	0	Agner	Royce		2099
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	SUW	Suwannee	003	001	0	0	Agner	Royce		2355
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	TAY	Taylor	003	001	0	0	Agner	Royce		2412
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	CLM	Columbia	003	001	0	0	Bryan	Paul		4492
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DIX	Dixie	003	001	0	0	Bryan	Paul		1844
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HAM	Hamilton	003	001	0	0	Bryan	Paul		1404
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	LAF	Lafayette	003	001	0	0	Bryan	Paul		727
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	MAD	Madison	003	001	0	0	Bryan	Paul		1044
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	SUW	Suwannee	003	001	0	0	Bryan	Paul		2276
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	TAY	Taylor	003	001	0	0	Bryan	Paul		1041
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	027	0	0	Naughton	Mike		3179
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	027	0	0	Naughton	Mike		13878
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	027	0	0	Naughton	Mike		1016
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	027	0	0	Shore	Brent		3525
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	027	0	0	Shore	Brent		18833
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	027	0	0	Shore	Brent		1275
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	027	0	0	Stetson	Brad		5532
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	027	0	0	Stetson	Brad		26935
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	027	0	0	Stetson	Brad		2386
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	009	0	0	Singbush	Jack		11473
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	009	0	0	Singbush	Jack		11319
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	009	0	0	Singbush	Jack		9318
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	009	0	0	Singbush	Jack		16930
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	009	0	0	Singbush	Jack		2176
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	009	0	0	Sturgis	Wallace		8466
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	009	0	0	Sturgis	Wallace		8400
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	009	0	0	Sturgis	Wallace		9727
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	009	0	0	Sturgis	Wallace		11760
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	009	0	0	Sturgis	Wallace		2073
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	017	0	0	Andrews	Horace		17456
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	017	0	0	Andrews	Horace		65348
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	017	0	0	Logan	Walt		17506
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	017	0	0	Logan	Walt		41059
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	034	0	0	Barker	Bob		17614
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	034	0	0	Barker	Bob		59438
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	034	0	0	Villanti	Craig	C.	20256
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	034	0	0	Villanti	Craig	C.	50667
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	035	0	0	Boyer	Bruce		12836
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	035	0	0	Boyer	Bruce		39972
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	035	0	0	Cope	Charles	W.	10556
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	035	0	0	Cope	Charles	W.	36913
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	035	0	0	Lenderman	John	C.	12125
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	035	0	0	Lenderman	John	C.	27743
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	002	0	0	Boyles	Stephen	Lewis	3190
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	002	0	0	Boyles	Stephen	Lewis	5097
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	002	0	0	Boyles	Stephen	Lewis	6922
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	002	0	0	Boyles	Stephen	Lewis	31233
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	002	0	0	Nichols	Art		1686
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	002	0	0	Nichols	Art		5992
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	002	0	0	Nichols	Art		5337
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	002	0	0	Nichols	Art		20022
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	009	0	0	Doyle	John	V.	3011
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	009	0	0	Doyle	John	V.	6334
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	009	0	0	Doyle	John	V.	7895
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	009	0	0	Doyle	John	V.	32292
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	009	0	0	Will	Joseph	G.	1673
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	009	0	0	Will	Joseph	G.	2622
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	009	0	0	Will	Joseph	G.	3375
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	009	0	0	Will	Joseph	G.	17367
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	019	0	0	Fuller, Jr.	David	D.	1735
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	019	0	0	Fuller, Jr.	David	D.	3019
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	019	0	0	Fuller, Jr.	David	D.	2595
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	019	0	0	Fuller, Jr.	David	D.	16095
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	019	0	0	Mathis	Robert	K.	2974
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	019	0	0	Mathis	Robert	K.	6485
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	019	0	0	Mathis	Robert	K.	10510
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	019	0	0	Mathis	Robert	K.	30651
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	024	0	0	Dawson	Daniel		27530
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	024	0	0	Dawson	Daniel		4002
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	024	0	0	Gold	H.	Scott	12463
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	024	0	0	Gold	H.	Scott	2462
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	024	0	0	Phillips	Patrick		25200
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	024	0	0	Phillips	Patrick		3598
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	025	0	0	Gloeckner	Linda		32740
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	025	0	0	Gloeckner	Linda		6453
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	025	0	0	Johnson	Tony		32271
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	025	0	0	Johnson	Tony		3911
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	001	0	0	Dean	Amy		110499
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	001	0	0	Scott	Thomas	B.	39509
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	004	0	0	Pesetsky	Walter	S. (Wally)	53984
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	004	0	0	Postman	Alan		80504
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	007	0	0	Benjamin	Ivan		68198
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	007	0	0	Ramirez, Jr.	Juan		72287
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	011	0	0	Fierro	Gene		82071
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	011	0	0	Gale	John		61843
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	016	0	0	Gold	Randy		50031
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	016	0	0	Spencer	Tom		82566
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	023	0	0	Jones	Rosemary	Usher	74602
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	023	0	0	Sorondo	Rudy		65591
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	034	0	0	Barr	Robbie		80466
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	034	0	0	Mackenzie	Mary	Ann	62812
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	046	0	0	Robinson	Steven	D.	82470
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	046	0	0	Williams	William	'Bill'	61515
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	054	0	0	Forman	Samuel	'Sam'	62393
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	054	0	0	Wilson, Jr.	Thomas	S. (Tam)	66665
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	064	0	0	Schockett	Eleanor		77071
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	064	0	0	Schwartz	Gregg	R.	54846
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	005	0	0	Hinson	Ed		53582
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	005	0	0	Kavouklis	Mike		44330
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	009	0	0	Gallagher	Dan	E.	61295
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	009	0	0	Hanson	Michael	E.	29091
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	018	0	0	Isom-Rickert	Claudia		44114
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	018	0	0	Tharpe	Chet	A.	46164
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	021	0	0	Kickliter	George	P.	38318
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	021	0	0	Padgett	J.	Rogers	56938
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	027	0	0	'Stan' Musial, Jr.	A.	J.	30697
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	027	0	0	Taylor	Peter	J. T.	61746
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	029	0	0	Duclos	Michael	E.	34965
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	029	0	0	Ficarrotta	Gasper	J.	54124
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	030	0	0	Cunningham	Thomas		31955
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	030	0	0	Foster	Florence		30357
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	030	0	0	Toole	Kem		25100
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	031	0	0	Allen	Diana	M.	50498
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	031	0	0	Glisson	Damon	C.	22666
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	031	0	0	Honig	Sy		16186
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BAY	Bay	014	004	0	0	Neilson	Thomas	L. (Tom)	6136
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	CAL	Calhoun	014	004	0	0	Neilson	Thomas	L. (Tom)	835
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	GUL	Gulf	014	004	0	0	Neilson	Thomas	L. (Tom)	1532
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HOL	Holmes	014	004	0	0	Neilson	Thomas	L. (Tom)	1695
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	JAC	Jackson	014	004	0	0	Neilson	Thomas	L. (Tom)	2409
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	WAS	Washington	014	004	0	0	Neilson	Thomas	L. (Tom)	1385
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BAY	Bay	014	004	0	0	Roberts	John		6811
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	CAL	Calhoun	014	004	0	0	Roberts	John		1283
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	GUL	Gulf	014	004	0	0	Roberts	John		1362
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HOL	Holmes	014	004	0	0	Roberts	John		2207
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	JAC	Jackson	014	004	0	0	Roberts	John		5293
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	WAS	Washington	014	004	0	0	Roberts	John		1651
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BAY	Bay	014	006	0	0	Albritton	Richard		3709
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	CAL	Calhoun	014	006	0	0	Albritton	Richard		423
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	GUL	Gulf	014	006	0	0	Albritton	Richard		764
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HOL	Holmes	014	006	0	0	Albritton	Richard		1417
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	JAC	Jackson	014	006	0	0	Albritton	Richard		1425
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	WAS	Washington	014	006	0	0	Albritton	Richard		1073
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BAY	Bay	014	006	0	0	Hess	Glenn		4908
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	CAL	Calhoun	014	006	0	0	Hess	Glenn		480
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	GUL	Gulf	014	006	0	0	Hess	Glenn		888
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HOL	Holmes	014	006	0	0	Hess	Glenn		920
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	JAC	Jackson	014	006	0	0	Hess	Glenn		1500
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	WAS	Washington	014	006	0	0	Hess	Glenn		769
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BAY	Bay	014	006	0	0	Pittman	Judy		8532
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	CAL	Calhoun	014	006	0	0	Pittman	Judy		1521
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	GUL	Gulf	014	006	0	0	Pittman	Judy		1476
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HOL	Holmes	014	006	0	0	Pittman	Judy		1891
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	JAC	Jackson	014	006	0	0	Pittman	Judy		4470
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	WAS	Washington	014	006	0	0	Pittman	Judy		1554
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BAY	Bay	014	007	0	0	Cole, Jr.	Russell	A.	7370
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	CAL	Calhoun	014	007	0	0	Cole, Jr.	Russell	A.	1262
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	GUL	Gulf	014	007	0	0	Cole, Jr.	Russell	A.	1656
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HOL	Holmes	014	007	0	0	Cole, Jr.	Russell	A.	2804
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	JAC	Jackson	014	007	0	0	Cole, Jr.	Russell	A.	4089
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	WAS	Washington	014	007	0	0	Cole, Jr.	Russell	A.	2375
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BAY	Bay	014	007	0	0	Husbands	Jim		6122
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	CAL	Calhoun	014	007	0	0	Husbands	Jim		862
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	GUL	Gulf	014	007	0	0	Husbands	Jim		1320
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HOL	Holmes	014	007	0	0	Husbands	Jim		1475
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	JAC	Jackson	014	007	0	0	Husbands	Jim		2691
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	WAS	Washington	014	007	0	0	Husbands	Jim		935
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	016	0	0	Hoy	John		43897
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	016	0	0	Weinstein	Barry	A.	41992
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	030	0	0	Brown	Lucy		52681
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	030	0	0	MacMillan, Jr.	Hugh		31008
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	031	0	0	Broome	Virginia	Gay	36932
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	031	0	0	Ruffolo	Henry		25725
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	031	0	0	Sims	Bryant		17755
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	004	0	0	Booher	Stephen		97101
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	004	0	0	Finkelstein	Marc		56751
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	005	0	0	Blackman	Daniel	J.	44012
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	005	0	0	Cowart	Gary	Robert	41436
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	005	0	0	Frusciante	John	A.	61976
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	014	0	0	Goldstein	Barry	E.	64226
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	014	0	0	Jacobson	James	Cary 'Jim'	30965
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	014	0	0	Stone	Shari	Reiter	51879
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	020	0	0	Johnson	W.	Clayton	89864
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	020	0	0	Wellens	David	R.	50757
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	033	0	0	Greene	Charles	'Charlie'	96756
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	033	0	0	Rodriguez	Carlos	A.	49019
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	037	0	0	Cohen	Lew		54313
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	037	0	0	Stafford	Leonard	L.	94351
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	010	0	0	Brock	Newman	D.	18722
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	010	0	0	Brock	Newman	D.	9781
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	010	0	0	Julian	Ned		15642
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	010	0	0	Julian	Ned		7252
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	010	0	0	Kelley	George	C.	12025
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	010	0	0	Kelley	George	C.	5079
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	010	0	0	Miller	Robert	E.	15818
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	010	0	0	Miller	Robert	E.	4576
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	011	0	0	Deen	Jeff		24754
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	011	0	0	Deen	Jeff		10963
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	011	0	0	McGregor	Robert	B.	37356
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	011	0	0	McGregor	Robert	B.	15232
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	018	0	0	Craig	Glenn		28929
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	018	0	0	Craig	Glenn		12514
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	018	0	0	Holcomb	Charles	M.	32700
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	018	0	0	Holcomb	Charles	M.	10987
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	011	0	0	Chandler	John	T.	2696
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	011	0	0	Chandler	John	T.	1256
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	011	0	0	Chandler	John	T.	829
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	011	0	0	Chandler	John	T.	3954
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	011	0	0	McDonald	C.	R. 'Pete'	3176
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	011	0	0	McDonald	C.	R. 'Pete'	1698
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	011	0	0	McDonald	C.	R. 'Pete'	263
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	011	0	0	McDonald	C.	R. 'Pete'	4503
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	011	0	0	Reisman	Donald	S.	758
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	011	0	0	Reisman	Donald	S.	1496
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	011	0	0	Reisman	Donald	S.	110
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	011	0	0	Reisman	Donald	S.	1221
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	011	0	0	Schack	Larry		2986
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	011	0	0	Schack	Larry		4321
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	011	0	0	Schack	Larry		542
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	011	0	0	Schack	Larry		5099
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	011	0	0	Stone	Robert	E.	4991
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	011	0	0	Stone	Robert	E.	2954
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	011	0	0	Stone	Robert	E.	1494
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	011	0	0	Stone	Robert	E.	5817
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	CHA	Charlotte	020	005	0	0	Casanueva	Darryl	C.	8369
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	CLL	Collier	020	005	0	0	Casanueva	Darryl	C.	7222
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	GLA	Glades	020	005	0	0	Casanueva	Darryl	C.	307
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HEN	Hendry	020	005	0	0	Casanueva	Darryl	C.	470
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	LEE	Lee	020	005	0	0	Casanueva	Darryl	C.	12918
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	CHA	Charlotte	020	005	0	0	Hussey	J.	Michael	2659
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	CLL	Collier	020	005	0	0	Hussey	J.	Michael	9539
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	GLA	Glades	020	005	0	0	Hussey	J.	Michael	576
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HEN	Hendry	020	005	0	0	Hussey	J.	Michael	1005
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	LEE	Lee	020	005	0	0	Hussey	J.	Michael	19049
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	CHA	Charlotte	020	005	0	0	Widmeyer	Stephan	B.	3975
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	CLL	Collier	020	005	0	0	Widmeyer	Stephan	B.	5652
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	GLA	Glades	020	005	0	0	Widmeyer	Stephan	B.	431
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HEN	Hendry	020	005	0	0	Widmeyer	Stephan	B.	698
+9/4/1990	NOP	Non-Partisan	CTJ	Circuit Judge	LEE	Lee	020	005	0	0	Widmeyer	Stephan	B.	7698

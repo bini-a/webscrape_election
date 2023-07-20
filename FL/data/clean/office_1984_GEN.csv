@@ -1,0 +1,12 @@
+"election_id","office_id","district","office_local","office","seat","n_winners","selection_method","retention_method","open_seat","contested","runoff","special"
+"FL_1984-11-06_GEN","SA_4_000",4,"State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1984-11-06_GEN","SA_5_000",5,"State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1984-11-06_GEN","SA_10_000",10,"State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1984-11-06_GEN","SA_11_000",11,"State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1984-11-06_GEN","SA_13_000",13,"State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1984-11-06_GEN","SA_18_000",18,"State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1984-11-06_GEN","PD_18_000",18,"Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_1984-11-06_GEN","TC2_4_7",4,"Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_1984-11-06_GEN","TC2_7_2",7,"Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_1984-11-06_GEN","TC2_11_6",11,"Circuit Judge","TC2","6",1,"NPE",NA,NA,1,0,0
+"FL_1984-11-06_GEN","TC2_11_7",11,"Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0

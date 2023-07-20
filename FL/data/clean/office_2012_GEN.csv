@@ -1,0 +1,33 @@
+"election_id","office_id","district","office_local","office","seat","n_winners","selection_method","retention_method","open_seat","contested","runoff","special"
+"FL_2012-11-06_GEN","SA_2_000","2","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","SA_3_000","3","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","SA_11_000","11","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","SA_12_000","12","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","SA_15_000","15","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","SA_16_000","16","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","SA_17_000","17","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","SA_18_000","18","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","TC2_2_2","2","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","TC2_3_5","3","Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","TC2_4_1","4","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","TC2_9_7","9","Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","TC2_10_7","10","Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","TC2_17_45","17","Circuit Judge","TC2","45",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","SC_3_000","3",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","SC_1_000","1",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","SC_2_000","2",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_1_4","1",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_1_2","1",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_1_3","1",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_1_1","1",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_2_2","2",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_2_3","2",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_2_4","2",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_2_1","2",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_3_5","3",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_3_3","3",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_3_4","3",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_3_1","3",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_3_2","3",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_4_1","4",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_4_2","4",NA,"TC1","2",1,"RE",NA,NA,0,0,0

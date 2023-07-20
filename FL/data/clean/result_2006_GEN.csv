@@ -1,0 +1,51 @@
+"election_id","office_id","candidate_id","candidate","party","votes","vote_share","winner"
+"FL_2006-11-07_GEN","AG_FL_000",NA,"Bill McCollum","REP",2448008,0.527,1
+"FL_2006-11-07_GEN","AG_FL_000",NA,"Walter  'Skip' Campbell","DEM",2197959,0.473,0
+"FL_2006-11-07_GEN","TC2_1_15",NA,"Dixie Powell","NON",82144,0.443,0
+"FL_2006-11-07_GEN","TC2_1_15",NA,"Terry Ketchel","NON",103377,0.557,1
+"FL_2006-11-07_GEN","TC2_10_27",NA,"David Carmichael","NON",73495,0.497,0
+"FL_2006-11-07_GEN","TC2_10_27",NA,"Ernest Jones","NON",74280,0.503,1
+"FL_2006-11-07_GEN","TC2_11_78",NA,"Jose Sanchez-Gronlier","NON",107847,0.344,0
+"FL_2006-11-07_GEN","TC2_11_78",NA,"Valerie Manno Schurr","NON",205751,0.656,1
+"FL_2006-11-07_GEN","TC2_11_80",NA,"Catherine 'Cathy' Parks","NON",153551,0.485,0
+"FL_2006-11-07_GEN","TC2_11_80",NA,"Marisa Mendez","NON",162918,0.515,1
+"FL_2006-11-07_GEN","TC2_12_21",NA,"Preston DeVilbiss Jr.","NON",94494,0.449,0
+"FL_2006-11-07_GEN","TC2_12_21",NA,"Rochelle Curley","NON",115979,0.551,1
+"FL_2006-11-07_GEN","TC2_13_32",NA,"Bernard 'Bernie' Silver","NON",126501,0.525,1
+"FL_2006-11-07_GEN","TC2_13_32",NA,"Elizabeth Hapner","NON",114442,0.475,0
+"FL_2006-11-07_GEN","TC2_13_43",NA,"Kimberly Fernandez","NON",127621,0.525,1
+"FL_2006-11-07_GEN","TC2_13_43",NA,"Paul Jeske","NON",115598,0.475,0
+"FL_2006-11-07_GEN","TC2_13_44",NA,"Emily Peacock","NON",119323,0.516,1
+"FL_2006-11-07_GEN","TC2_13_44",NA,"Samantha Ward","NON",112094,0.484,0
+"FL_2006-11-07_GEN","TC2_13_45",NA,"Ashley Moody","NON",143258,0.603,1
+"FL_2006-11-07_GEN","TC2_13_45",NA,"Gary Dolgin","NON",94157,0.397,0
+"FL_2006-11-07_GEN","TC2_15_13",NA,"David French","NON",149504,0.513,1
+"FL_2006-11-07_GEN","TC2_15_13",NA,"Jerald Beer","NON",142057,0.487,0
+"FL_2006-11-07_GEN","TC2_17_57",NA,"John Rayson","NON",127858,0.392,0
+"FL_2006-11-07_GEN","TC2_17_57",NA,"Michele Towbin Singer","NON",198196,0.608,1
+"FL_2006-11-07_GEN","TC2_17_58",NA,"Mardi Cohen","NON",129818,0.401,0
+"FL_2006-11-07_GEN","TC2_17_58",NA,"Marina Wood","NON",194089,0.599,1
+"FL_2006-11-07_GEN","TC2_18_20",NA,"Charlie Crawford","NON",129352,0.531,1
+"FL_2006-11-07_GEN","TC2_18_20",NA,"Patrice Pilate","NON",114380,0.469,0
+"FL_2006-11-07_GEN","TC2_19_19",NA,"Bob Pegg","NON",82891,0.54,1
+"FL_2006-11-07_GEN","TC2_19_19",NA,"Laurie Ehler","NON",70630,0.46,0
+"FL_2006-11-07_GEN","TC2_20_29",NA,"Lynne Dailey","NON",146469,0.581,1
+"FL_2006-11-07_GEN","TC2_20_29",NA,"Miguel Fernandez III","NON",105514,0.419,0
+"FL_2006-11-07_GEN","TC2_20_30",NA,"Franklin Mann Jr.","NON",108233,0.436,0
+"FL_2006-11-07_GEN","TC2_20_30",NA,"Liz Adams","NON",140240,0.564,1
+"FL_2006-11-07_GEN","TC2_4_34",NA,"David Thompson","NON",99945,0.421,0
+"FL_2006-11-07_GEN","TC2_4_34",NA,"John Merrett","NON",137338,0.579,1
+"FL_2006-11-07_GEN","TC2_5_29",NA,"Edward Scott","NON",140155,0.51,1
+"FL_2006-11-07_GEN","TC2_5_29",NA,"Sandy Hawkins","NON",134503,0.49,0
+"FL_2006-11-07_GEN","TC2_5_31",NA,"Daniel Merritt Jr.","NON",152369,0.572,1
+"FL_2006-11-07_GEN","TC2_5_31",NA,"Jeff Kirk","NON",113817,0.428,0
+"FL_2006-11-07_GEN","TC2_6_32",NA,"LeAnne Lake","NON",158551,0.471,0
+"FL_2006-11-07_GEN","TC2_6_32",NA,"Pat Siracusa","NON",178226,0.529,1
+"FL_2006-11-07_GEN","TC2_6_9",NA,"Christine 'Chris' Helinger","NON",202883,0.599,1
+"FL_2006-11-07_GEN","TC2_6_9",NA,"Glenn Martin","NON",135601,0.401,0
+"FL_2006-11-07_GEN","TC2_7_27",NA,"Clyde Wolfe","NON",132613,0.616,1
+"FL_2006-11-07_GEN","TC2_7_27",NA,"Luis Bustamante","NON",82524,0.384,0
+"FL_2006-11-07_GEN","TC2_8_4",NA,"Stan Griffis","NON",47397,0.503,1
+"FL_2006-11-07_GEN","TC2_8_4",NA,"Stephen Pennypacker","NON",46746,0.497,0
+"FL_2006-11-07_GEN","TC2_9_5",NA,"Jenifer Davis","NON",117884,0.539,1
+"FL_2006-11-07_GEN","TC2_9_5",NA,"Mary Etzler","NON",100936,0.461,0

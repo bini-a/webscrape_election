@@ -1,0 +1,53 @@
+"election_id","office_id","candidate_id","candidate","party","votes","vote_share","winner"
+"FL_1980-09-09_PRI","TC2_10_3",NA,"Randall McDonald","NON",26931,0.603,1
+"FL_1980-09-09_PRI","TC2_10_3",NA,"William Seacrest","NON",17740,0.397,0
+"FL_1980-09-09_PRI","TC2_11_3",NA,"Eugene Steele","NON",40184,0.342,0
+"FL_1980-09-09_PRI","TC2_11_3",NA,"Gerald Kogan","NON",77344,0.658,1
+"FL_1980-09-09_PRI","TC2_11_7",NA,"D. Levy","NON",68769,0.59,1
+"FL_1980-09-09_PRI","TC2_11_7",NA,"James Earnest","NON",47767,0.41,0
+"FL_1980-09-09_PRI","TC2_11_8",NA,"John Ferguson","NON",56983,0.476,0
+"FL_1980-09-09_PRI","TC2_11_8",NA,"Joseph Nadler","NON",62682,0.524,1
+"FL_1980-09-09_PRI","TC2_13_7",NA,"John Griffin","NON",42974,0.575,1
+"FL_1980-09-09_PRI","TC2_13_7",NA,"Tom Whitaker","NON",31724,0.425,0
+"FL_1980-09-09_PRI","TC2_15_3",NA,"J. Findley","NON",27531,0.403,0
+"FL_1980-09-09_PRI","TC2_15_3",NA,"John Wessel","NON",40712,0.597,1
+"FL_1980-09-09_PRI","TC2_17_4",NA,"Mark Polen","NON",61642,0.655,1
+"FL_1980-09-09_PRI","TC2_17_4",NA,"Roger Stanway","NON",32523,0.345,0
+"FL_1980-09-09_PRI","TC2_17_8",NA,"Linda Vitale","NON",42199,0.411,1
+"FL_1980-09-09_PRI","TC2_17_8",NA,"Sheldon Golding","NON",31056,0.303,1
+"FL_1980-09-09_PRI","TC2_17_8",NA,"Thomas Kern, Jr.","NON",29331,0.286,0
+"FL_1980-09-09_PRI","TC2_18_1",NA,"Gil Goshorn","NON",32271,0.574,1
+"FL_1980-09-09_PRI","TC2_18_1",NA,"Perry West","NON",23924,0.426,0
+"FL_1980-09-09_PRI","TC2_4_5",NA,"A. Soud, Jr.","NON",39193,0.513,1
+"FL_1980-09-09_PRI","TC2_4_5",NA,"John Sulik","NON",20370,0.267,0
+"FL_1980-09-09_PRI","TC2_4_5",NA,"Randy Fallin","NON",16804,0.22,0
+"FL_1980-09-09_PRI","TC2_6_2",NA,"Charles Burke","NON",62648,0.464,0
+"FL_1980-09-09_PRI","TC2_6_2",NA,"Gerard O'Brien, Jr.","NON",72437,0.536,1
+"FL_1980-09-09_PRI","TC2_7_5",NA,"Frederick Rice","NON",6342,0.191,0
+"FL_1980-09-09_PRI","TC2_7_5",NA,"John Hankel","NON",6745,0.204,0
+"FL_1980-09-09_PRI","TC2_7_5",NA,"Robert Perry","NON",20041,0.605,1
+"FL_1980-09-09_PRI","TC2_9_2",NA,"John King","NON",24100,0.445,0
+"FL_1980-09-09_PRI","TC2_9_2",NA,"Lawrence Kirkwood","NON",30036,0.555,1
+"FL_1980-09-09_PRI-D","PD_10_000",NA,"Jerry Hill","DEM",31006,0.587,1
+"FL_1980-09-09_PRI-D","PD_10_000",NA,"Rick Replogle","DEM",21840,0.413,0
+"FL_1980-09-09_PRI-D","PD_2_000",NA,"Michael Allen","DEM",24700,0.502,1
+"FL_1980-09-09_PRI-D","PD_2_000",NA,"Michael Minerva","DEM",24531,0.498,0
+"FL_1980-09-09_PRI-D","PD_3_000",NA,"Michael Murphy","DEM",14400,0.459,0
+"FL_1980-09-09_PRI-D","PD_3_000",NA,"Milo Thomas","DEM",16970,0.541,1
+"FL_1980-09-09_PRI-D","PD_5_000",NA,"Howard Babb","DEM",21368,0.519,1
+"FL_1980-09-09_PRI-D","PD_5_000",NA,"Robert Pierce","DEM",19789,0.481,0
+"FL_1980-09-09_PRI-D","PD_7_000",NA,"James Gibson","DEM",20129,0.568,1
+"FL_1980-09-09_PRI-D","PD_7_000",NA,"Tom Cushman","DEM",15279,0.432,0
+"FL_1980-09-09_PRI-D","PD_9_000",NA,"Harry Carls, III","DEM",15555,0.391,0
+"FL_1980-09-09_PRI-D","PD_9_000",NA,"Joseph DuRocher","DEM",24244,0.609,1
+"FL_1980-09-09_PRI-D","SA_14_000",NA,"Jim Appleman","DEM",29401,0.558,1
+"FL_1980-09-09_PRI-D","SA_14_000",NA,"Leo Jones","DEM",23286,0.442,0
+"FL_1980-09-09_PRI-D","SA_16_000",NA,"J. Warton","DEM",3236,0.318,0
+"FL_1980-09-09_PRI-D","SA_16_000",NA,"Kirk Juelch","DEM",6945,0.682,1
+"FL_1980-09-09_PRI-D","SA_2_000",NA,"Bill Camper","DEM",13394,0.239,0
+"FL_1980-09-09_PRI-D","SA_2_000",NA,"Don Modesitt","DEM",25488,0.454,1
+"FL_1980-09-09_PRI-D","SA_2_000",NA,"Harry Morrison","DEM",17268,0.308,1
+"FL_1980-09-09_PRI-D","SA_5_000",NA,"Gordon Oldham, Jr.","DEM",29948,0.618,1
+"FL_1980-09-09_PRI-D","SA_5_000",NA,"Hale Stancil","DEM",18508,0.382,0
+"FL_1980-09-09_PRI-D","SA_7_000",NA,"Ronald Dykes","DEM",9326,0.239,0
+"FL_1980-09-09_PRI-D","SA_7_000",NA,"Stephen Boyles","DEM",29756,0.761,1

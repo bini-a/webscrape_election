@@ -1,0 +1,49 @@
+"","District_orig","County","election_id","office_id","candidate_id","candidate_name","first_name","last_name","prefix","suffix","gender","race","ethinicity","age","incumbent"
+"1","Allen (38th District)","Allen","IN_2008-05-06_PRI","TC2_Allen_38_1",NA,"Thomas J. Felts","Thomas","Felts",NA,NA,NA,NA,NA,NA,NA
+"2","Benton (76th Circuit) ","Benton","IN_2008-05-06_PRI","TC2_Benton_76_1",NA,"Rex W. Kepner","Rex","Kepner",NA,NA,NA,NA,NA,NA,NA
+"3","Adams County ","Adams","IN_2008-05-06_PRI","TC1_Adams_1_1",NA,"Thomas Wade Sheets","Thomas","Sheets",NA,NA,NA,NA,NA,NA,NA
+"4","Adams County ","Adams","IN_2008-05-06_PRI","TC1_Adams_1_1",NA,"Patrick R. Miller","Patrick","Miller",NA,NA,NA,NA,NA,NA,NA
+"5","Bartholomew County, No. 2","Bartholomew","IN_2008-05-06_PRI","TC1_Bartholomew_1_2",NA,"James A. Shoaf","James","Shoaf",NA,NA,NA,NA,NA,NA,NA
+"6","Bartholomew County, No. 2","Bartholomew","IN_2008-05-06_PRI","TC1_Bartholomew_1_2",NA,"Roderick D. McGillivray","Roderick","McGillivray",NA,NA,NA,NA,NA,NA,NA
+"7","Daviess (49th Circuit)","Daviess","IN_2008-05-06_PRI","TC2_Daviess_49_1",NA,"Jeffrey R. (Jeff) Norris","Jeffrey","Norris",NA,NA,NA,NA,NA,NA,NA
+"8","Daviess (49th Circuit)","Daviess","IN_2008-05-06_PRI","TC2_Daviess_49_1",NA,"Gregory A. Smith","Gregory","Smith",NA,NA,NA,NA,NA,NA,NA
+"9","Boone County, No. 1","Boone","IN_2008-05-06_PRI","TC1_Boone_1_1",NA,"Matt Kincaid","Matt","Kincaid",NA,NA,NA,NA,NA,NA,NA
+"10","Boone County, No. 2","Boone","IN_2008-05-06_PRI","TC1_Boone_1_2",NA,"Rebecca S. McClure","Rebecca","McClure",NA,NA,NA,NA,NA,NA,NA
+"11","Delaware Ct. 3(46th Cir.)","Delaware","IN_2008-05-06_PRI","TC2_Delaware_46_3",NA,"Joe E. Orick","Joe","Orick",NA,NA,NA,NA,NA,NA,NA
+"12","Delaware Ct. 3(46th Cir.)","Delaware","IN_2008-05-06_PRI","TC2_Delaware_46_3",NA,"Linda Ralu Wolf","Linda","Wolf",NA,NA,NA,NA,NA,NA,NA
+"13","Delaware Ct. 3(46th Cir.)","Delaware","IN_2008-05-06_PRI","TC2_Delaware_46_3",NA,"Judi L. Calhoun","Judi","Calhoun",NA,NA,NA,NA,NA,NA,NA
+"14","Delaware Ct. 3(46th Cir.)","Delaware","IN_2008-05-06_PRI","TC2_Delaware_46_3",NA,"Mark A. Delgado","Mark","Delgado",NA,NA,NA,NA,NA,NA,NA
+"15","Delaware Ct. 4(46th Cir.)","Delaware","IN_2008-05-06_PRI","TC2_Delaware_46_4",NA,"Diane M. Frye","Diane","Frye",NA,NA,NA,NA,NA,NA,NA
+"16","Delaware Ct. 4(46th Cir.)","Delaware","IN_2008-05-06_PRI","TC2_Delaware_46_4",NA,"John M. Feick","John","Feick",NA,NA,NA,NA,NA,NA,NA
+"17","Delaware Ct. 5(46th Cir.)","Delaware","IN_2008-05-06_PRI","TC2_Delaware_46_5",NA,"Kimberly S. Dowling","Kimberly","Dowling",NA,NA,NA,NA,NA,NA,NA
+"18","Delaware Ct. 5(46th Cir.)","Delaware","IN_2008-05-06_PRI","TC2_Delaware_46_5",NA,"Ronald L. Henderson","Ronald","Henderson",NA,NA,NA,NA,NA,NA,NA
+"19","Delaware Ct. 5(46th Cir.)","Delaware","IN_2008-05-06_PRI","TC2_Delaware_46_5",NA,"Thomas A. Cannon, Jr.","Thomas","Cannon",NA,NA,NA,NA,NA,NA,NA
+"20","Delaware Ct. 5(46th Cir.)","Delaware","IN_2008-05-06_PRI","TC2_Delaware_46_5",NA,"Chris M. Teagle","Chris","Teagle",NA,NA,NA,NA,NA,NA,NA
+"21","Carroll County","Carroll","IN_2008-05-06_PRI","TC1_Carroll_1_1",NA,"Jeffrey R. Smith","Jeffrey","Smith",NA,NA,NA,NA,NA,NA,NA
+"22","Dubois (57th Circuit)","Dubois","IN_2008-05-06_PRI","TC2_Dubois_57_1",NA,"William E. Weikert","William","Weikert",NA,NA,NA,NA,NA,NA,NA
+"23","Clark County, No. 2","Clark","IN_2008-05-06_PRI","TC1_Clark_1_2",NA,"Andrew (Drew) Adams","Andrew","Adams",NA,NA,NA,NA,NA,NA,NA
+"24","Clark County, No. 2","Clark","IN_2008-05-06_PRI","TC1_Clark_1_2",NA,"Daniel E. Moore","Daniel","Moore",NA,NA,NA,NA,NA,NA,NA
+"25","Clark County, No. 2","Clark","IN_2008-05-06_PRI","TC1_Clark_1_2",NA,"Jerome F. (Jerry) Jacobi","Jerome","Jacobi",NA,NA,NA,NA,NA,NA,NA
+"26","Clark County, No. 2","Clark","IN_2008-05-06_PRI","TC1_Clark_1_2",NA,"Shelley J. Marble","Shelley","Marble",NA,NA,NA,NA,NA,NA,NA
+"27","Clark County, No. 3","Clark","IN_2008-05-06_PRI","TC1_Clark_1_3",NA,"Joseph Joe P.  Weber","Joseph","Weber",NA,NA,NA,NA,NA,NA,NA
+"28","Clinton County","Clinton","IN_2008-05-06_PRI","TC1_Clinton_1_1",NA,"Louis D. Evans","Louis","Evans",NA,NA,NA,NA,NA,NA,NA
+"29","Clinton County","Clinton","IN_2008-05-06_PRI","TC1_Clinton_1_1",NA,"Bradley K. Mohler","Bradley","Mohler",NA,NA,NA,NA,NA,NA,NA
+"30","Clinton County","Clinton","IN_2008-05-06_PRI","TC1_Clinton_1_1",NA,"Justin Hunter","Justin","Hunter",NA,NA,NA,NA,NA,NA,NA
+"31","Clinton County","Clinton","IN_2008-05-06_PRI","TC1_Clinton_1_1",NA,"Michael E. Douglas","Michael","Douglas",NA,NA,NA,NA,NA,NA,NA
+"32","Clinton County","Clinton","IN_2008-05-06_PRI","TC1_Clinton_1_1",NA,"Robert M. Shaffer","Robert","Shaffer",NA,NA,NA,NA,NA,NA,NA
+"33","Daviess County","Daviess","IN_2008-05-06_PRI","TC1_Daviess_1_1",NA,"Dean A. Sobecki","Dean","Sobecki",NA,NA,NA,NA,NA,NA,NA
+"34","Dearborn County No. 1","Dearborn","IN_2008-05-06_PRI","TC1_Dearborn_1_1",NA,"Barbara A. Wyly","Barbara","Wyly",NA,NA,NA,NA,NA,NA,NA
+"35","Dearborn County No. 1","Dearborn","IN_2008-05-06_PRI","TC1_Dearborn_1_1",NA,"Thomas R. Blondell","Thomas","Blondell",NA,NA,NA,NA,NA,NA,NA
+"36","Dearborn County No. 1","Dearborn","IN_2008-05-06_PRI","TC1_Dearborn_1_1",NA,"G. Michael Witte","G.","Witte",NA,NA,NA,NA,NA,NA,NA
+"37","Dearborn County No. 1","Dearborn","IN_2008-05-06_PRI","TC1_Dearborn_1_1",NA,"Jonathan N. Cleary","Jonathan","Cleary",NA,NA,NA,NA,NA,NA,NA
+"38","Decatur County","Decatur","IN_2008-05-06_PRI","TC1_Decatur_1_1",NA,"Lora Reed Williams","Lora","Williams",NA,NA,NA,NA,NA,NA,NA
+"39","Decatur County","Decatur","IN_2008-05-06_PRI","TC1_Decatur_1_1",NA,"Matthew D. Bailey","Matthew","Bailey",NA,NA,NA,NA,NA,NA,NA
+"40","DeKalb County, Court 1","DeKalb","IN_2008-05-06_PRI","TC1_DeKalb_1_1",NA,"Kevin P. Wallace","Kevin","Wallace",NA,NA,NA,NA,NA,NA,NA
+"41","Elkhart County, No. 1","Elkhart","IN_2008-05-06_PRI","TC1_Elkhart_1_1",NA,"Evan S. Roberts","Evan","Roberts",NA,NA,NA,NA,NA,NA,NA
+"42","Elkhart County, No. 3","Elkhart","IN_2008-05-06_PRI","TC1_Elkhart_1_3",NA,"George W. Biddlecome","George","Biddlecome",NA,NA,NA,NA,NA,NA,NA
+"43","Elkhart County, No. 4","Elkhart","IN_2008-05-06_PRI","TC1_Elkhart_1_4",NA,"Olga H. Stickel","Olga","Stickel",NA,NA,NA,NA,NA,NA,NA
+"44","Elkhart County, No. 5","Elkhart","IN_2008-05-06_PRI","TC1_Elkhart_1_5",NA,"Bruce A. Wells","Bruce","Wells",NA,NA,NA,NA,NA,NA,NA
+"45","Elkhart County, No. 5","Elkhart","IN_2008-05-06_PRI","TC1_Elkhart_1_5",NA,"Charles C. Wicks","Charles","Wicks",NA,NA,NA,NA,NA,NA,NA
+"46","Elkhart County, No. 5","Elkhart","IN_2008-05-06_PRI","TC1_Elkhart_1_5",NA,"Martin A. McCloskey","Martin","McCloskey",NA,NA,NA,NA,NA,NA,NA
+"47","Elkhart County, No. 5","Elkhart","IN_2008-05-06_PRI","TC1_Elkhart_1_5",NA,"Peter (Pete) D. Todd","Peter","Todd",NA,NA,NA,NA,NA,NA,NA
+"48","Elkhart County, No. 5","Elkhart","IN_2008-05-06_PRI","TC1_Elkhart_1_5",NA,"Thomas A. Murto","Thomas","Murto",NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,2 @@
+"election_id","office_id","district","office_local","office","seat","n_winners","selection_method","retention_method","open_seat","contested","runoff","special"
+"FL_1996-10-01_PRI","TC2_2_2",2,"Circuit Judge","TC2",2,2,"NPE",NA,NA,1,1,0

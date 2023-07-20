@@ -1,0 +1,173 @@
+ElectionDate	PartyCode	PartyName	RaceCode	OfficeDesc	CountyCode	CountyName	Juris1num	Juris2num	Precincts	PrecinctsReporting	CanNameLast	CanNameFirst	CanNameMiddle	CanVotes
+10/1/1996	DEM	Democrat	USR	United States Representative	BAY	Bay	002		36	36	Boyd	Allen		6584
+10/1/1996	DEM	Democrat	USR	United States Representative	CAL	Calhoun	002		13	13	Boyd	Allen		1587
+10/1/1996	DEM	Democrat	USR	United States Representative	CLM	Columbia	002		16	16	Boyd	Allen		1226
+10/1/1996	DEM	Democrat	USR	United States Representative	DIX	Dixie	002		11	11	Boyd	Allen		3376
+10/1/1996	DEM	Democrat	USR	United States Representative	FRA	Franklin	002		8	8	Boyd	Allen		2631
+10/1/1996	DEM	Democrat	USR	United States Representative	GAD	Gadsden	002		16	16	Boyd	Allen		4041
+10/1/1996	DEM	Democrat	USR	United States Representative	GIL	Gilchrist	002		10	10	Boyd	Allen		2393
+10/1/1996	DEM	Democrat	USR	United States Representative	GUL	Gulf	002		14	14	Boyd	Allen		3572
+10/1/1996	DEM	Democrat	USR	United States Representative	HAM	Hamilton	002		8	8	Boyd	Allen		1867
+10/1/1996	DEM	Democrat	USR	United States Representative	JAC	Jackson	002		26	26	Boyd	Allen		7079
+10/1/1996	DEM	Democrat	USR	United States Representative	JEF	Jefferson	002		13	13	Boyd	Allen		1992
+10/1/1996	DEM	Democrat	USR	United States Representative	LAF	Lafayette	002		5	5	Boyd	Allen		1056
+10/1/1996	DEM	Democrat	USR	United States Representative	LEO	Leon	002		94	94	Boyd	Allen		16368
+10/1/1996	DEM	Democrat	USR	United States Representative	LIB	Liberty	002		8	8	Boyd	Allen		1863
+10/1/1996	DEM	Democrat	USR	United States Representative	MAD	Madison	002		11	11	Boyd	Allen		2849
+10/1/1996	DEM	Democrat	USR	United States Representative	SUW	Suwannee	002		16	16	Boyd	Allen		5133
+10/1/1996	DEM	Democrat	USR	United States Representative	TAY	Taylor	002		14	14	Boyd	Allen		4556
+10/1/1996	DEM	Democrat	USR	United States Representative	WAK	Wakulla	002		12	12	Boyd	Allen		3572
+10/1/1996	DEM	Democrat	USR	United States Representative	WAS	Washington	002		15	15	Boyd	Allen		3842
+10/1/1996	DEM	Democrat	USR	United States Representative	BAY	Bay	002		36	36	Davis	Anita	L.	3368
+10/1/1996	DEM	Democrat	USR	United States Representative	CAL	Calhoun	002		13	13	Davis	Anita	L.	607
+10/1/1996	DEM	Democrat	USR	United States Representative	CLM	Columbia	002		16	16	Davis	Anita	L.	903
+10/1/1996	DEM	Democrat	USR	United States Representative	DIX	Dixie	002		11	11	Davis	Anita	L.	1056
+10/1/1996	DEM	Democrat	USR	United States Representative	FRA	Franklin	002		8	8	Davis	Anita	L.	884
+10/1/1996	DEM	Democrat	USR	United States Representative	GAD	Gadsden	002		16	16	Davis	Anita	L.	5371
+10/1/1996	DEM	Democrat	USR	United States Representative	GIL	Gilchrist	002		10	10	Davis	Anita	L.	610
+10/1/1996	DEM	Democrat	USR	United States Representative	GUL	Gulf	002		14	14	Davis	Anita	L.	1282
+10/1/1996	DEM	Democrat	USR	United States Representative	HAM	Hamilton	002		8	8	Davis	Anita	L.	958
+10/1/1996	DEM	Democrat	USR	United States Representative	JAC	Jackson	002		26	26	Davis	Anita	L.	3080
+10/1/1996	DEM	Democrat	USR	United States Representative	JEF	Jefferson	002		13	13	Davis	Anita	L.	1216
+10/1/1996	DEM	Democrat	USR	United States Representative	LAF	Lafayette	002		5	5	Davis	Anita	L.	175
+10/1/1996	DEM	Democrat	USR	United States Representative	LEO	Leon	002		94	94	Davis	Anita	L.	14839
+10/1/1996	DEM	Democrat	USR	United States Representative	LIB	Liberty	002		8	8	Davis	Anita	L.	622
+10/1/1996	DEM	Democrat	USR	United States Representative	MAD	Madison	002		11	11	Davis	Anita	L.	1315
+10/1/1996	DEM	Democrat	USR	United States Representative	SUW	Suwannee	002		16	16	Davis	Anita	L.	1651
+10/1/1996	DEM	Democrat	USR	United States Representative	TAY	Taylor	002		14	14	Davis	Anita	L.	1454
+10/1/1996	DEM	Democrat	USR	United States Representative	WAK	Wakulla	002		12	12	Davis	Anita	L.	1068
+10/1/1996	DEM	Democrat	USR	United States Representative	WAS	Washington	002		15	15	Davis	Anita	L.	1218
+10/1/1996	DEM	Democrat	USR	United States Representative	HIL	Hillsborough	011		201	201	Davis	Jim		23633
+10/1/1996	DEM	Democrat	USR	United States Representative	HIL	Hillsborough	011		201	201	Freedman	Sandy	Warshaw	18434
+10/1/1996	DEM	Democrat	USR	United States Representative	BRO	Broward	019		127	127	Weinstein	Peter		9043
+10/1/1996	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	019		153	153	Weinstein	Peter		3537
+10/1/1996	DEM	Democrat	USR	United States Representative	BRO	Broward	019		127	127	Wexler	Robert		6242
+10/1/1996	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	019		153	153	Wexler	Robert		17197
+10/1/1996	DEM	Democrat	STR	State Representative	BAY	Bay	007		12	12	Warriner	David		1320
+10/1/1996	DEM	Democrat	STR	State Representative	CAL	Calhoun	007		13	13	Warriner	David		899
+10/1/1996	DEM	Democrat	STR	State Representative	GAD	Gadsden	007		5	5	Warriner	David		139
+10/1/1996	DEM	Democrat	STR	State Representative	GUL	Gulf	007		14	14	Warriner	David		3513
+10/1/1996	DEM	Democrat	STR	State Representative	JAC	Jackson	007		26	26	Warriner	David		4312
+10/1/1996	DEM	Democrat	STR	State Representative	LEO	Leon	007		6	6	Warriner	David		543
+10/1/1996	DEM	Democrat	STR	State Representative	LIB	Liberty	007		8	8	Warriner	David		861
+10/1/1996	DEM	Democrat	STR	State Representative	WAL	Walton	007		4	4	Warriner	David		343
+10/1/1996	DEM	Democrat	STR	State Representative	BAY	Bay	007		12	12	Westbrook	Jamey		768
+10/1/1996	DEM	Democrat	STR	State Representative	CAL	Calhoun	007		13	13	Westbrook	Jamey		1312
+10/1/1996	DEM	Democrat	STR	State Representative	GAD	Gadsden	007		5	5	Westbrook	Jamey		449
+10/1/1996	DEM	Democrat	STR	State Representative	GUL	Gulf	007		14	14	Westbrook	Jamey		1440
+10/1/1996	DEM	Democrat	STR	State Representative	JAC	Jackson	007		26	26	Westbrook	Jamey		5927
+10/1/1996	DEM	Democrat	STR	State Representative	LEO	Leon	007		6	6	Westbrook	Jamey		750
+10/1/1996	DEM	Democrat	STR	State Representative	LIB	Liberty	007		8	8	Westbrook	Jamey		1596
+10/1/1996	DEM	Democrat	STR	State Representative	WAL	Walton	007		4	4	Westbrook	Jamey		337
+10/1/1996	DEM	Democrat	STR	State Representative	POL	Polk	063		49	49	Roberts	Gene		983
+10/1/1996	DEM	Democrat	STR	State Representative	POL	Polk	063		49	49	Stein	Bob		2042
+10/1/1996	DEM	Democrat	STR	State Representative	PAL	Palm Beach	089		50	50	Silver	Barry		6340
+10/1/1996	DEM	Democrat	STR	State Representative	PAL	Palm Beach	089		50	50	Wichinsky	Glenn	E.	4508
+10/1/1996	REP	Republican	USR	United States Representative	BAY	Bay	002		36	36	Griffin	Carole		1374
+10/1/1996	REP	Republican	USR	United States Representative	CAL	Calhoun	002		13	13	Griffin	Carole		27
+10/1/1996	REP	Republican	USR	United States Representative	CLM	Columbia	002		16	16	Griffin	Carole		116
+10/1/1996	REP	Republican	USR	United States Representative	DIX	Dixie	002		11	11	Griffin	Carole		23
+10/1/1996	REP	Republican	USR	United States Representative	FRA	Franklin	002		8	8	Griffin	Carole		53
+10/1/1996	REP	Republican	USR	United States Representative	GAD	Gadsden	002		16	16	Griffin	Carole		214
+10/1/1996	REP	Republican	USR	United States Representative	GIL	Gilchrist	002		10	10	Griffin	Carole		102
+10/1/1996	REP	Republican	USR	United States Representative	GUL	Gulf	002		14	14	Griffin	Carole		128
+10/1/1996	REP	Republican	USR	United States Representative	HAM	Hamilton	002		8	8	Griffin	Carole		19
+10/1/1996	REP	Republican	USR	United States Representative	JAC	Jackson	002		26	26	Griffin	Carole		310
+10/1/1996	REP	Republican	USR	United States Representative	JEF	Jefferson	002		13	13	Griffin	Carole		107
+10/1/1996	REP	Republican	USR	United States Representative	LAF	Lafayette	002		5	5	Griffin	Carole		20
+10/1/1996	REP	Republican	USR	United States Representative	LEO	Leon	002		94	94	Griffin	Carole		4155
+10/1/1996	REP	Republican	USR	United States Representative	LIB	Liberty	002		8	8	Griffin	Carole		18
+10/1/1996	REP	Republican	USR	United States Representative	MAD	Madison	002		11	11	Griffin	Carole		114
+10/1/1996	REP	Republican	USR	United States Representative	SUW	Suwannee	002		16	16	Griffin	Carole		393
+10/1/1996	REP	Republican	USR	United States Representative	TAY	Taylor	002		14	14	Griffin	Carole		102
+10/1/1996	REP	Republican	USR	United States Representative	WAK	Wakulla	002		12	12	Griffin	Carole		144
+10/1/1996	REP	Republican	USR	United States Representative	WAS	Washington	002		15	15	Griffin	Carole		140
+10/1/1996	REP	Republican	USR	United States Representative	BAY	Bay	002		36	36	Sutton	Bill		1158
+10/1/1996	REP	Republican	USR	United States Representative	CAL	Calhoun	002		13	13	Sutton	Bill		15
+10/1/1996	REP	Republican	USR	United States Representative	CLM	Columbia	002		16	16	Sutton	Bill		102
+10/1/1996	REP	Republican	USR	United States Representative	DIX	Dixie	002		11	11	Sutton	Bill		21
+10/1/1996	REP	Republican	USR	United States Representative	FRA	Franklin	002		8	8	Sutton	Bill		51
+10/1/1996	REP	Republican	USR	United States Representative	GAD	Gadsden	002		16	16	Sutton	Bill		147
+10/1/1996	REP	Republican	USR	United States Representative	GIL	Gilchrist	002		10	10	Sutton	Bill		63
+10/1/1996	REP	Republican	USR	United States Representative	GUL	Gulf	002		14	14	Sutton	Bill		99
+10/1/1996	REP	Republican	USR	United States Representative	HAM	Hamilton	002		8	8	Sutton	Bill		9
+10/1/1996	REP	Republican	USR	United States Representative	JAC	Jackson	002		26	26	Sutton	Bill		235
+10/1/1996	REP	Republican	USR	United States Representative	JEF	Jefferson	002		13	13	Sutton	Bill		106
+10/1/1996	REP	Republican	USR	United States Representative	LAF	Lafayette	002		5	5	Sutton	Bill		6
+10/1/1996	REP	Republican	USR	United States Representative	LEO	Leon	002		94	94	Sutton	Bill		5245
+10/1/1996	REP	Republican	USR	United States Representative	LIB	Liberty	002		8	8	Sutton	Bill		16
+10/1/1996	REP	Republican	USR	United States Representative	MAD	Madison	002		11	11	Sutton	Bill		58
+10/1/1996	REP	Republican	USR	United States Representative	SUW	Suwannee	002		16	16	Sutton	Bill		195
+10/1/1996	REP	Republican	USR	United States Representative	TAY	Taylor	002		14	14	Sutton	Bill		99
+10/1/1996	REP	Republican	USR	United States Representative	WAK	Wakulla	002		12	12	Sutton	Bill		101
+10/1/1996	REP	Republican	USR	United States Representative	WAS	Washington	002		15	15	Sutton	Bill		77
+10/1/1996	REP	Republican	STS	State Senator	BAY	Bay	007		19	19	Benson	Lois		848
+10/1/1996	REP	Republican	STS	State Senator	ESC	Escambia	007		39	39	Benson	Lois		4722
+10/1/1996	REP	Republican	STS	State Senator	OKA	Okaloosa	007		34	34	Benson	Lois		7943
+10/1/1996	REP	Republican	STS	State Senator	SAN	Santa Rosa	007		13	13	Benson	Lois		1935
+10/1/1996	REP	Republican	STS	State Senator	WAL	Walton	007		3	3	Benson	Lois		287
+10/1/1996	REP	Republican	STS	State Senator	BAY	Bay	007		19	19	Clary	Charlie		1310
+10/1/1996	REP	Republican	STS	State Senator	ESC	Escambia	007		39	39	Clary	Charlie		3322
+10/1/1996	REP	Republican	STS	State Senator	OKA	Okaloosa	007		34	34	Clary	Charlie		9782
+10/1/1996	REP	Republican	STS	State Senator	SAN	Santa Rosa	007		13	13	Clary	Charlie		1749
+10/1/1996	REP	Republican	STS	State Senator	WAL	Walton	007		3	3	Clary	Charlie		235
+10/1/1996	REP	Republican	STS	State Senator	CIT	Citrus	011		15	15	Cowin	Anna		2277
+10/1/1996	REP	Republican	STS	State Senator	LAK	Lake	011		77	77	Cowin	Anna		10012
+10/1/1996	REP	Republican	STS	State Senator	MRN	Marion	011		44	44	Cowin	Anna		2132
+10/1/1996	REP	Republican	STS	State Senator	SEM	Seminole	011		12	12	Cowin	Anna		419
+10/1/1996	REP	Republican	STS	State Senator	SUM	Sumter	011		7	7	Cowin	Anna		263
+10/1/1996	REP	Republican	STS	State Senator	CIT	Citrus	011		15	15	Lamb	Hope		1999
+10/1/1996	REP	Republican	STS	State Senator	LAK	Lake	011		77	77	Lamb	Hope		6120
+10/1/1996	REP	Republican	STS	State Senator	MRN	Marion	011		44	44	Lamb	Hope		2066
+10/1/1996	REP	Republican	STS	State Senator	SEM	Seminole	011		12	12	Lamb	Hope		474
+10/1/1996	REP	Republican	STS	State Senator	SUM	Sumter	011		7	7	Lamb	Hope		365
+10/1/1996	REP	Republican	STS	State Senator	HIL	Hillsborough	023		106	106	Lee	Tom		6767
+10/1/1996	REP	Republican	STS	State Senator	POL	Polk	023		20	20	Lee	Tom		1355
+10/1/1996	REP	Republican	STS	State Senator	HIL	Hillsborough	023		106	106	Proctor	Mark		4099
+10/1/1996	REP	Republican	STS	State Senator	POL	Polk	023		20	20	Proctor	Mark		626
+10/1/1996	REP	Republican	STR	State Representative	ESC	Escambia	004		2	2	Melvin	Jerry		215
+10/1/1996	REP	Republican	STR	State Representative	OKA	Okaloosa	004		27	27	Melvin	Jerry		9831
+10/1/1996	REP	Republican	STR	State Representative	SAN	Santa Rosa	004		8	8	Melvin	Jerry		1887
+10/1/1996	REP	Republican	STR	State Representative	ESC	Escambia	004		2	2	Weimorts	Mike		124
+10/1/1996	REP	Republican	STR	State Representative	OKA	Okaloosa	004		27	27	Weimorts	Mike		4733
+10/1/1996	REP	Republican	STR	State Representative	SAN	Santa Rosa	004		8	8	Weimorts	Mike		1007
+10/1/1996	REP	Republican	STR	State Representative	HOL	Holmes	005		16	16	Brown	Donald	D.	55
+10/1/1996	REP	Republican	STR	State Representative	OKA	Okaloosa	005		17	17	Brown	Donald	D.	2985
+10/1/1996	REP	Republican	STR	State Representative	WAL	Walton	005		29	29	Brown	Donald	D.	488
+10/1/1996	REP	Republican	STR	State Representative	WAS	Washington	005		15	15	Brown	Donald	D.	127
+10/1/1996	REP	Republican	STR	State Representative	HOL	Holmes	005		16	16	Wade	Leonard	'Lennie'	22
+10/1/1996	REP	Republican	STR	State Representative	OKA	Okaloosa	005		17	17	Wade	Leonard	'Lennie'	2863
+10/1/1996	REP	Republican	STR	State Representative	WAL	Walton	005		29	29	Wade	Leonard	'Lennie'	153
+10/1/1996	REP	Republican	STR	State Representative	WAS	Washington	005		15	15	Wade	Leonard	'Lennie'	81
+10/1/1996	REP	Republican	STR	State Representative	HIL	Hillsborough	062		32	32	Byrd, Jr.	Johnnie	B.	2472
+10/1/1996	REP	Republican	STR	State Representative	HIL	Hillsborough	062		32	32	Storms	Ronda	R.	2366
+10/1/1996	REP	Republican	STR	State Representative	CLL	Collier	077		4	4	Platt	Frank		129
+10/1/1996	REP	Republican	STR	State Representative	GLA	Glades	077		13	13	Platt	Frank		129
+10/1/1996	REP	Republican	STR	State Representative	HEN	Hendry	077		22	22	Platt	Frank		232
+10/1/1996	REP	Republican	STR	State Representative	HIG	Highlands	077		18	18	Platt	Frank		2614
+10/1/1996	REP	Republican	STR	State Representative	CLL	Collier	077		4	4	Pollard	Pete		76
+10/1/1996	REP	Republican	STR	State Representative	GLA	Glades	077		13	13	Pollard	Pete		53
+10/1/1996	REP	Republican	STR	State Representative	HEN	Hendry	077		22	22	Pollard	Pete		100
+10/1/1996	REP	Republican	STR	State Representative	HIG	Highlands	077		18	18	Pollard	Pete		2527
+10/1/1996	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	002	8	8	Davis	Marva	A.	864
+10/1/1996	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	002	16	16	Davis	Marva	A.	5377
+10/1/1996	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	002	13	13	Davis	Marva	A.	1038
+10/1/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	002	94	94	Davis	Marva	A.	7629
+10/1/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	002	8	8	Davis	Marva	A.	694
+10/1/1996	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	002	12	12	Davis	Marva	A.	658
+10/1/1996	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	002	8	8	Dekker	Kathleen		1314
+10/1/1996	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	002	16	16	Dekker	Kathleen		2029
+10/1/1996	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	002	13	13	Dekker	Kathleen		1474
+10/1/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	002	94	94	Dekker	Kathleen		21628
+10/1/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	002	8	8	Dekker	Kathleen		850
+10/1/1996	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	002	12	12	Dekker	Kathleen		2772
+10/1/1996	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	002	8	8	Rude	Ed		1183
+10/1/1996	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	002	16	16	Rude	Ed		2326
+10/1/1996	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	002	13	13	Rude	Ed		745
+10/1/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	002	94	94	Rude	Ed		10558
+10/1/1996	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	002	8	8	Rude	Ed		737
+10/1/1996	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	002	12	12	Rude	Ed		1263
+10/1/1996	NOP	Non-Partisan	EWF	Englewood Area Fire Control District	CHA	Charlotte		005	10	10	Bell Jr.	Allen	E.	1340
+10/1/1996	NOP	Non-Partisan	EWF	Englewood Area Fire Control District	SAR	Sarasota		005	6	6	Bell Jr.	Allen	E.	381
+10/1/1996	NOP	Non-Partisan	EWF	Englewood Area Fire Control District	CHA	Charlotte		005	10	10	Leeman	Jack		623
+10/1/1996	NOP	Non-Partisan	EWF	Englewood Area Fire Control District	SAR	Sarasota		005	6	6	Leeman	Jack		245

@@ -1,0 +1,6 @@
+"election_id","office_id","district","office_local","office","seat","n_winners","selection_method","retention_method","open_seat","contested","runoff","special"
+"FL_1986-11-04_GEN","AG_FL_000","FL","Attorney General","AG","000",1,"NPE",NA,NA,1,0,0
+"FL_1986-11-04_GEN","TC2_2_1","2","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1986-11-04_GEN","TC2_11_13","11","Circuit Judge","TC2","13",1,"NPE",NA,NA,1,0,0
+"FL_1986-11-04_GEN","TC2_13_7","13","Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_1986-11-04_GEN","TC2_18_4","18","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0

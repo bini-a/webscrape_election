@@ -1,0 +1,5 @@
+"election_id","office_id","district","office_local","office","seat","n_winners","selection_method","retention_method","open_seat","contested","runoff","special"
+"FL_1982-11-02_GEN","TC2_9_2",9,"Circuit Judge","TC2",2,1,"NPE",NA,NA,1,0,0
+"FL_1982-11-02_GEN","TC2_9_3",9,"Circuit Judge","TC2",3,1,"NPE",NA,NA,1,0,0
+"FL_1982-11-02_GEN","TC2_9_5",9,"Circuit Judge","TC2",5,1,"NPE",NA,NA,1,0,0
+"FL_1982-11-02_GEN","TC2_18_3",18,"Circuit Judge","TC2",3,1,"NPE",NA,NA,1,0,0

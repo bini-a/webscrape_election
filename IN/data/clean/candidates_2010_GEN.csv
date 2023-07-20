@@ -1,0 +1,44 @@
+"","District_orig","County","election_id","office_id","candidate_id","candidate_name","first_name","last_name","prefix","suffix","gender","race","ethinicity","age","incumbent"
+"1","Bartholomew (9th Circuit)","Bartholomew","IN_2010-11-02_GEN","TC2_Bartholomew_9_1",NA,"Stephen R. (Steve) Heimann","Stephen","Heimann",NA,NA,NA,NA,NA,NA,NA
+"2","Allen Civil No. 1","Allen","IN_2010-11-02_GEN","TC1_Allen_1_1",NA,"David J. Avery","David","Avery",NA,NA,NA,NA,NA,NA,NA
+"3","Allen Civil No. 9","Allen","IN_2010-11-02_GEN","TC1_Allen_1_9",NA,"Nancy Eshcoff Boyer","Nancy","Boyer",NA,NA,NA,NA,NA,NA,NA
+"4","Allen Criminal No. 4","Allen","IN_2010-11-02_GEN","TC1_Allen_1_4",NA,"Charles F. Pratt","Charles","Pratt",NA,NA,NA,NA,NA,NA,NA
+"5","Allen/Scheibenberger","Allen","IN_2010-11-02_GEN","TC1_Allen_1_1",NA,"Kenneth R. Scheibenberger","Kenneth","Scheibenberger",NA,NA,NA,NA,NA,NA,NA
+"6","Allen/Scheibenberger","Allen","IN_2010-11-02_GEN","TC1_Allen_1_1",NA,"Lewis Griffin","Lewis","Griffin",NA,NA,NA,NA,NA,NA,NA
+"7","Allen/Scheibenberger","Allen","IN_2010-11-02_GEN","TC1_Allen_1_1",NA,"Wendy Davis","Wendy","Davis",NA,NA,NA,NA,NA,NA,NA
+"8","Crawford (77th Circuit)","Crawford","IN_2010-11-02_GEN","TC2_Crawford_77_1",NA,"Kenneth Lynn Lopp","Kenneth","Lopp",NA,NA,NA,NA,NA,NA,NA
+"9","Blackford County","Blackford","IN_2010-11-02_GEN","TC1_Blackford_1_1",NA,"David M. Payne","David","Payne",NA,NA,NA,NA,NA,NA,NA
+"10","Dearborn/Ohio (7th Cir.)","Dearborn","IN_2010-11-02_GEN","TC2_Dearborn_7_1",NA,"James D. Humphrey","James","Humphrey",NA,NA,NA,NA,NA,NA,NA
+"11","Blackford County","Blackford","IN_2010-11-02_GEN","TC1_Blackford_1_1",NA,"Nick Barry","Nick","Barry",NA,NA,NA,NA,NA,NA,NA
+"12","DeKalb (75th Circuit)","DeKalb","IN_2010-11-02_GEN","TC2_DeKalb_75_1",NA,"Kirk D. Carpenter","Kirk","Carpenter",NA,NA,NA,NA,NA,NA,NA
+"13","Delaware Ct. 1(46th Cir.)","Delaware","IN_2010-11-02_GEN","TC2_Delaware_46_1",NA,"Marianne Lafferty Vorhees","Marianne","Vorhees",NA,NA,NA,NA,NA,NA,NA
+"14","Cass County, Court 1","Cass","IN_2010-11-02_GEN","TC1_Cass_1_1",NA,"Thomas C. Perrone","Thomas","Perrone",NA,NA,NA,NA,NA,NA,NA
+"15","Elkhart (34th Circuit)","Elkhart","IN_2010-11-02_GEN","TC2_Elkhart_34_1",NA,"Terry C. Shewmaker","Terry","Shewmaker",NA,NA,NA,NA,NA,NA,NA
+"16","Dubois County","Dubois","IN_2010-11-02_GEN","TC1_Dubois_1_1",NA,"Michael A. Fritch","Michael","Fritch",NA,NA,NA,NA,NA,NA,NA
+"17","Dubois County","Dubois","IN_2010-11-02_GEN","TC1_Dubois_1_1",NA,"Mark R. McConnell","Mark","McConnell",NA,NA,NA,NA,NA,NA,NA
+"18","Adams (26th Circuit)","Adams","IN_2010-11-02_GEN","DA_Adams_26_1",NA,"Christopher E. Harvey","Christopher","Harvey",NA,NA,NA,NA,NA,NA,NA
+"19","Allen (38th Circuit)","Allen","IN_2010-11-02_GEN","DA_Allen_38_1",NA,"Karen E. Richards","Karen","Richards",NA,NA,NA,NA,NA,NA,NA
+"20","Bartholomew (9th Circuit)","Bartholomew","IN_2010-11-02_GEN","DA_Bartholomew_9_1",NA,"William M. (Bill) Nash","William","Nash",NA,NA,NA,NA,NA,NA,NA
+"21","Benton (76th Circuit)","Benton","IN_2010-11-02_GEN","DA_Benton_76_1",NA,"John C. Wright","John","Wright",NA,NA,NA,NA,NA,NA,NA
+"22","Blackford (71st Circuit)","Blackford","IN_2010-11-02_GEN","DA_Blackford_71_1",NA,"Kevin N. Basey","Kevin","Basey",NA,NA,NA,NA,NA,NA,NA
+"23","Boone (20th Circuit)","Boone","IN_2010-11-02_GEN","DA_Boone_20_1",NA,"Todd J. Meyer","Todd","Meyer",NA,NA,NA,NA,NA,NA,NA
+"24","Brown (88th Circuit)","Brown","IN_2010-11-02_GEN","DA_Brown_88_1",NA,"James R. Oliver","James","Oliver",NA,NA,NA,NA,NA,NA,NA
+"25","Brown (88th Circuit)","Brown","IN_2010-11-02_GEN","DA_Brown_88_1",NA,"James T. Roberts","James","Roberts",NA,NA,NA,NA,NA,NA,NA
+"26","Carroll (74th Circuit)","Carroll","IN_2010-11-02_GEN","DA_Carroll_74_1",NA,"Abigail A. Huffer","Abigail","Huffer",NA,NA,NA,NA,NA,NA,NA
+"27","Carroll (74th Circuit)","Carroll","IN_2010-11-02_GEN","DA_Carroll_74_1",NA,"Robert T. (Rob) Ives","Robert","Ives",NA,NA,NA,NA,NA,NA,NA
+"28","Cass (29th Circuit)","Cass","IN_2010-11-02_GEN","DA_Cass_29_1",NA,"Kevin S. Enyeart","Kevin","Enyeart",NA,NA,NA,NA,NA,NA,NA
+"29","Clark (4th Circuit)","Clark","IN_2010-11-02_GEN","DA_Clark_4_1",NA,"Steven D. Stewart","Steven","Stewart",NA,NA,NA,NA,NA,NA,NA
+"30","Clay (13th Circuit)","Clay","IN_2010-11-02_GEN","DA_Clay_13_1",NA,"Charles Hear","Charles","Hear",NA,NA,NA,NA,NA,NA,NA
+"31","Clay (13th Circuit)","Clay","IN_2010-11-02_GEN","DA_Clay_13_1",NA,"B. Lee Reberger, Jr.","B.","Reberger",NA,NA,NA,NA,NA,NA,NA
+"32","Clinton (45th Circuit)","Clinton","IN_2010-11-02_GEN","DA_Clinton_45_1",NA,"Anthony J. Sommer","Anthony","Sommer",NA,NA,NA,NA,NA,NA,NA
+"33","Crawford (77th Circuit)","Crawford","IN_2010-11-02_GEN","DA_Crawford_77_1",NA,"Cheryl J. Hillenburg","Cheryl","Hillenburg",NA,NA,NA,NA,NA,NA,NA
+"34","Crawford (77th Circuit)","Crawford","IN_2010-11-02_GEN","DA_Crawford_77_1",NA,"Lester V. Shelton","Lester","Shelton",NA,NA,NA,NA,NA,NA,NA
+"35","Daviess (49th Circuit)","Daviess","IN_2010-11-02_GEN","DA_Daviess_49_1",NA,"Dan Murrie","Dan","Murrie",NA,NA,NA,NA,NA,NA,NA
+"36","Dearborn & Ohio(7th Cir.)","Dearborn","IN_2010-11-02_GEN","DA_Dearborn_7_1",NA,"Aaron Negangard","Aaron","Negangard",NA,NA,NA,NA,NA,NA,NA
+"37","Decatur (69th Circuit)","Decatur","IN_2010-11-02_GEN","DA_Decatur_69_1",NA,"James B. Rosenberry","James","Rosenberry",NA,NA,NA,NA,NA,NA,NA
+"38","DeKalb (75th Circuit)","DeKalb","IN_2010-11-02_GEN","DA_DeKalb_75_1",NA,"ClaraMary Winebrenner","ClaraMary","Winebrenner",NA,NA,NA,NA,NA,NA,NA
+"39","Delaware (46th Circuit)","Delaware","IN_2010-11-02_GEN","DA_Delaware_46_1",NA,"J. A. Cummins","J.","Cummins",NA,NA,NA,NA,NA,NA,NA
+"40","Delaware (46th Circuit)","Delaware","IN_2010-11-02_GEN","DA_Delaware_46_1",NA,"Jeffrey L. Arnold","Jeffrey","Arnold",NA,NA,NA,NA,NA,NA,NA
+"41","Dubois (57th Circuit)","Dubois","IN_2010-11-02_GEN","DA_Dubois_57_1",NA,"Kurt Leinenbach","Kurt","Leinenbach",NA,NA,NA,NA,NA,NA,NA
+"42","Dubois (57th Circuit)","Dubois","IN_2010-11-02_GEN","DA_Dubois_57_1",NA,"Kevin D. Crouse","Kevin","Crouse",NA,NA,NA,NA,NA,NA,NA
+"43","Elkhart (34th Circuit)","Elkhart","IN_2010-11-02_GEN","DA_Elkhart_34_1",NA,"Curtis T. Hill, Jr.","Curtis","Hill",NA,NA,NA,NA,NA,NA,NA

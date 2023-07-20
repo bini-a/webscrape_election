@@ -1,0 +1,42 @@
+"election_id","office_id","candidate_id","candidate","party","votes","vote_share","winner"
+"FL_1982-09-07_PRI","TC2_11_12",NA,"Jeffrey Waxman","NON",49104,0.337,0
+"FL_1982-09-07_PRI","TC2_11_12",NA,"Robert Kaye","NON",96494,0.663,1
+"FL_1982-09-07_PRI","TC2_11_18",NA,"Harold Solomon","NON",86287,0.556,1
+"FL_1982-09-07_PRI","TC2_11_18",NA,"Milton Starkman","NON",68923,0.444,0
+"FL_1982-09-07_PRI","TC2_11_5",NA,"N. Durant, Jr.","NON",75479,0.447,0
+"FL_1982-09-07_PRI","TC2_11_5",NA,"Sidney Shapiro","NON",93228,0.553,1
+"FL_1982-09-07_PRI","TC2_11_6",NA,"Adele Faske","NON",90912,0.593,1
+"FL_1982-09-07_PRI","TC2_11_6",NA,"E. Shapiro","NON",62433,0.407,0
+"FL_1982-09-07_PRI","TC2_12_2",NA,"Claflin Garst, Jr.","NON",28136,0.412,0
+"FL_1982-09-07_PRI","TC2_12_2",NA,"Paul Logan","NON",40133,0.588,1
+"FL_1982-09-07_PRI","TC2_16_1",NA,"Helio Gomez","NON",4062,0.554,1
+"FL_1982-09-07_PRI","TC2_16_1",NA,"Joseph Galletti","NON",1538,0.21,0
+"FL_1982-09-07_PRI","TC2_16_1",NA,"Max Fischer","NON",1735,0.237,0
+"FL_1982-09-07_PRI","TC2_17_9",NA,"George Naze","NON",17795,0.163,0
+"FL_1982-09-07_PRI","TC2_17_9",NA,"Mark Speiser","NON",62316,0.57,1
+"FL_1982-09-07_PRI","TC2_17_9",NA,"Richard Blank","NON",29140,0.267,0
+"FL_1982-09-07_PRI","TC2_18_1",NA,"Irving Gossow","NON",11603,0.229,0
+"FL_1982-09-07_PRI","TC2_18_1",NA,"Kenneth Leffler","NON",39095,0.771,1
+"FL_1982-09-07_PRI","TC2_18_3",NA,"Edward Jackson","NON",15201,0.294,1
+"FL_1982-09-07_PRI","TC2_18_3",NA,"Eugene Collier","NON",11561,0.224,0
+"FL_1982-09-07_PRI","TC2_18_3",NA,"Franklin Kelley","NON",8291,0.161,0
+"FL_1982-09-07_PRI","TC2_18_3",NA,"Jere Lober","NON",16594,0.321,1
+"FL_1982-09-07_PRI","TC2_2_1",NA,"Robert Dean","NON",13268,0.367,0
+"FL_1982-09-07_PRI","TC2_2_1",NA,"Victor Cawthon","NON",22868,0.633,1
+"FL_1982-09-07_PRI","TC2_4_1",NA,"J. Bruce","NON",37461,0.412,0
+"FL_1982-09-07_PRI","TC2_4_1",NA,"James Harrison","NON",53457,0.588,1
+"FL_1982-09-07_PRI","TC2_5_3",NA,"Albert Simmons","NON",15749,0.298,0
+"FL_1982-09-07_PRI","TC2_5_3",NA,"Ray McNeal","NON",37149,0.702,1
+"FL_1982-09-07_PRI","TC2_6_7",NA,"Helen Hansel","NON",74957,0.544,1
+"FL_1982-09-07_PRI","TC2_6_7",NA,"R. Stoutamire","NON",62728,0.456,0
+"FL_1982-09-07_PRI","TC2_9_2",NA,"Brian Sanders","NON",11774,0.272,1
+"FL_1982-09-07_PRI","TC2_9_2",NA,"Richard Parkinson","NON",6553,0.152,0
+"FL_1982-09-07_PRI","TC2_9_2",NA,"Tanya Plaut","NON",8488,0.196,0
+"FL_1982-09-07_PRI","TC2_9_2",NA,"Ted Coleman","NON",11045,0.256,1
+"FL_1982-09-07_PRI","TC2_9_2",NA,"William Murrell, Jr.","NON",5366,0.124,0
+"FL_1982-09-07_PRI","TC2_9_3",NA,"C. Barco","NON",3675,0.089,0
+"FL_1982-09-07_PRI","TC2_9_3",NA,"Don Scarlett","NON",11342,0.274,0
+"FL_1982-09-07_PRI","TC2_9_3",NA,"James Byrd","NON",14208,0.344,1
+"FL_1982-09-07_PRI","TC2_9_3",NA,"James Corbett","NON",12107,0.293,1
+"FL_1982-09-07_PRI-D","AG_FL_000",NA,"Fred Goldstein","DEM",244024,0.261,0
+"FL_1982-09-07_PRI-D","AG_FL_000",NA,"Jim Smith","DEM",692629,0.739,1

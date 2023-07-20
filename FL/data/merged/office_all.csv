@@ -1,0 +1,1309 @@
+"election_id","office_id","district","office_local","office","seat","n_winners","selection_method","retention_method","open_seat","contested","runoff","special"
+"FL_1978-11-07_GEN","SA_20_000","20","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1978-11-07_GEN","PD_20_000","20","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_1978-11-07_GEN","TC2_4_17","4","Circuit Judge","TC2","17",1,"NPE",NA,NA,1,0,0
+"FL_1978-11-07_GEN","TC2_5_1","5","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1978-11-07_GEN","TC2_9_1","9","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1978-11-07_GEN","TC2_11_30","11","Circuit Judge","TC2","30",1,"NPE",NA,NA,1,0,0
+"FL_1978-11-07_GEN","TC2_17_4","17","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_1978-11-07_GEN","TC2_19_1","19","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1978-11-07_GEN","TC2_20_2","20","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_1978-09-12_PRI-D","AG_FL_000","FL","Attorney General","AG","000",1,"PE",NA,NA,1,0,0
+"FL_1978-09-12_PRI-D","SA_3_000","3","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1978-09-12_PRI-D","SA_11_000","11","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1978-09-12_PRI","TC2_3_3","3","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1978-09-12_PRI","TC2_4_1","4","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1978-09-12_PRI","TC2_4_16","4","Circuit Judge","TC2","16",2,"NPE",NA,NA,1,1,0
+"FL_1978-09-12_PRI","TC2_5_1","5","Circuit Judge","TC2","1",2,"NPE",NA,NA,1,1,0
+"FL_1978-09-12_PRI","TC2_6_13","6","Circuit Judge","TC2","13",1,"NPE",NA,NA,1,0,0
+"FL_1978-09-12_PRI","TC2_7_7","7","Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_1978-09-12_PRI","TC2_9_1","9","Circuit Judge","TC2","1",2,"NPE",NA,NA,1,1,0
+"FL_1978-09-12_PRI","TC2_9_11","9","Circuit Judge","TC2","11",1,"NPE",NA,NA,1,0,0
+"FL_1978-09-12_PRI","TC2_9_12","9","Circuit Judge","TC2","12",1,"NPE",NA,NA,1,0,0
+"FL_1978-09-12_PRI","TC2_11_9","11","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_1978-09-12_PRI","TC2_11_15","11","Circuit Judge","TC2","15",1,"NPE",NA,NA,1,0,0
+"FL_1978-09-12_PRI","TC2_11_28","11","Circuit Judge","TC2","28",1,"NPE",NA,NA,1,0,0
+"FL_1978-09-12_PRI","TC2_11_30","11","Circuit Judge","TC2","30",2,"NPE",NA,NA,1,1,0
+"FL_1978-09-12_PRI","TC2_13_4","13","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_1978-09-12_PRI","TC2_13_11","13","Circuit Judge","TC2","11",1,"NPE",NA,NA,1,0,0
+"FL_1978-09-12_PRI","TC2_17_1","17","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1978-09-12_PRI","TC2_17_2","17","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_1978-09-12_PRI","TC2_17_4","17","Circuit Judge","TC2","4",2,"NPE",NA,NA,1,1,0
+"FL_1978-09-12_PRI","TC2_17_18","17","Circuit Judge","TC2","18",1,"NPE",NA,NA,1,0,0
+"FL_1978-09-12_PRI","TC2_18_5","18","Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_1978-09-12_PRI","TC2_18_10","18","Circuit Judge","TC2","10",1,"NPE",NA,NA,1,0,0
+"FL_1978-09-12_PRI","TC2_19_1","19","Circuit Judge","TC2","1",2,"NPE",NA,NA,1,1,0
+"FL_1978-09-12_PRI","TC2_20_2","20","Circuit Judge","TC2","2",2,"NPE",NA,NA,1,1,0
+"FL_1978-10-05_PRI-D","AG_FL_000","FL","Attorney General","AG","000",1,"PE",NA,NA,1,1,0
+"FL_1980-11-04_GEN","SA_15_000","15","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1980-11-04_GEN","PD_15_000","15","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_1980-11-04_GEN","PD_18_000","18","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_1980-11-04_GEN","TC2_2_000","2","Circuit Judge","TC2","000",1,"NPE",NA,NA,1,0,0
+"FL_1980-11-04_GEN","TC2_17_8","17","Circuit Judge","TC2","8",1,"NPE",NA,NA,1,0,0
+"FL_1980-09-09_PRI-D","SA_2_000","2","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1980-09-09_PRI-D","SA_5_000","5","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1980-09-09_PRI-D","SA_7_000","7","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1980-09-09_PRI-D","SA_14_000","14","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1980-09-09_PRI-D","SA_16_000","16","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1980-09-09_PRI-D","PD_2_000","2","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_1980-09-09_PRI-D","PD_3_000","3","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_1980-09-09_PRI-D","PD_5_000","5","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_1980-09-09_PRI-D","PD_7_000","7","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_1980-09-09_PRI-D","PD_9_000","9","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_1980-09-09_PRI-D","PD_10_000","10","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_1980-09-09_PRI","TC2_4_5","4","Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_1980-09-09_PRI","TC2_6_2","6","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_1980-09-09_PRI","TC2_7_5","7","Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_1980-09-09_PRI","TC2_9_2","9","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_1980-09-09_PRI","TC2_10_3","10","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1980-09-09_PRI","TC2_11_3","11","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1980-09-09_PRI","TC2_11_7","11","Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_1980-09-09_PRI","TC2_11_8","11","Circuit Judge","TC2","8",1,"NPE",NA,NA,1,0,0
+"FL_1980-09-09_PRI","TC2_13_7","13","Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_1980-09-09_PRI","TC2_15_3","15","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1980-09-09_PRI","TC2_17_4","17","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_1980-09-09_PRI","TC2_17_8","17","Circuit Judge","TC2","8",2,"NPE",NA,NA,1,1,0
+"FL_1980-09-09_PRI","TC2_18_1","18","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1980-10-07_PRI-D","SA_2_000","2","State Attorney","SA","000",1,"PE",NA,NA,1,1,0
+"FL_1980-10-07_PRI","TC2_2_000","2","Circuit Judge","TC2","000",2,"NPE",NA,NA,1,1,0
+"FL_1982-11-02_GEN","TC2_9_2","9","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_1982-11-02_GEN","TC2_9_3","9","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1982-11-02_GEN","TC2_9_5","9","Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_1982-11-02_GEN","TC2_18_3","18","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1982-09-07_PRI-D","AG_FL_000","FL","Attorney General","AG","000",1,"PE",NA,NA,1,0,0
+"FL_1982-09-07_PRI","TC2_2_1","2","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1982-09-07_PRI","TC2_4_1","4","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1982-09-07_PRI","TC2_5_3","5","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1982-09-07_PRI","TC2_6_7","6","Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_1982-09-07_PRI","TC2_9_2","9","Circuit Judge","TC2","2",2,"NPE",NA,NA,1,1,0
+"FL_1982-09-07_PRI","TC2_9_3","9","Circuit Judge","TC2","3",2,"NPE",NA,NA,1,1,0
+"FL_1982-09-07_PRI","TC2_11_5","11","Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_1982-09-07_PRI","TC2_11_6","11","Circuit Judge","TC2","6",1,"NPE",NA,NA,1,0,0
+"FL_1982-09-07_PRI","TC2_11_12","11","Circuit Judge","TC2","12",1,"NPE",NA,NA,1,0,0
+"FL_1982-09-07_PRI","TC2_11_18","11","Circuit Judge","TC2","18",1,"NPE",NA,NA,1,0,0
+"FL_1982-09-07_PRI","TC2_12_2","12","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_1982-09-07_PRI","TC2_16_1","16","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1982-09-07_PRI","TC2_17_9","17","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_1982-09-07_PRI","TC2_18_1","18","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1982-09-07_PRI","TC2_18_3","18","Circuit Judge","TC2","3",2,"NPE",NA,NA,1,1,0
+"FL_1982-10-05_PRI","TC2_9_5","9","Circuit Judge","TC2","5",2,"NPE",NA,NA,1,1,0
+"FL_1984-11-06_GEN","SA_4_000","4","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1984-11-06_GEN","SA_5_000","5","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1984-11-06_GEN","SA_10_000","10","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1984-11-06_GEN","SA_11_000","11","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1984-11-06_GEN","SA_13_000","13","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1984-11-06_GEN","SA_18_000","18","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1984-11-06_GEN","PD_18_000","18","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_1984-11-06_GEN","TC2_4_7","4","Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_1984-11-06_GEN","TC2_7_2","7","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_1984-11-06_GEN","TC2_11_6","11","Circuit Judge","TC2","6",1,"NPE",NA,NA,1,0,0
+"FL_1984-11-06_GEN","TC2_11_7","11","Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI-D","SA_2_000","2","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1984-09-04_PRI-D","SA_10_000","10","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1984-09-04_PRI-D","SA_11_000","11","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1984-09-04_PRI-D","SA_14_000","14","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1984-09-04_PRI-D","PD_2_000","2","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_1984-09-04_PRI-D","PD_5_000","5","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_1984-09-04_PRI-D","PD_10_000","10","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_1984-09-04_PRI-D","PD_16_000","16","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_1_6","1","Circuit Judge","TC2","6",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_2_1","2","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_2_3","2","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_2_4","2","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_4_6","4","Circuit Judge","TC2","6",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_4_7","4","Circuit Judge","TC2","7",2,"NPE",NA,NA,1,1,0
+"FL_1984-09-04_PRI","TC2_5_6","5","Circuit Judge","TC2","6",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_6_1","6","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_6_2","6","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_6_3","6","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_6_6","6","Circuit Judge","TC2","6",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_6_15","6","Circuit Judge","TC2","15",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_7_2","7","Circuit Judge","TC2","2",2,"NPE",NA,NA,1,1,0
+"FL_1984-09-04_PRI","TC2_10_1","10","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_11_1","11","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_11_5","11","Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_11_6","11","Circuit Judge","TC2","6",2,"NPE",NA,NA,1,1,0
+"FL_1984-09-04_PRI","TC2_11_7","11","Circuit Judge","TC2","7",2,"NPE",NA,NA,1,1,0
+"FL_1984-09-04_PRI","TC2_11_9","11","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_11_23","11","Circuit Judge","TC2","23",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_11_24","11","Circuit Judge","TC2","24",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_11_25","11","Circuit Judge","TC2","25",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_11_27","11","Circuit Judge","TC2","27",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_12_6","12","Circuit Judge","TC2","6",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_14_4","14","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_15_1","15","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_15_4","15","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_15_13","15","Circuit Judge","TC2","13",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_16_2","16","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_17_4","17","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_18_1","18","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_18_2","18","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_20_4","20","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_1984-09-04_PRI","TC2_20_8","20","Circuit Judge","TC2","8",1,"NPE",NA,NA,1,0,0
+"FL_1986-11-04_GEN","AG_FL_000","FL","Attorney General","AG","000",1,"NPE",NA,NA,1,0,0
+"FL_1986-11-04_GEN","TC2_2_1","2","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1986-11-04_GEN","TC2_11_13","11","Circuit Judge","TC2","13",1,"NPE",NA,NA,1,0,0
+"FL_1986-11-04_GEN","TC2_13_7","13","Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_1986-11-04_GEN","TC2_18_4","18","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_1986-09-02_PRI-D","AG_FL_000","FL","Attorney General","AG","000",1,"PE",NA,NA,1,0,0
+"FL_1986-09-02_PRI-R","AG_FL_000","FL","Attorney General","AG","000",1,"PE",NA,NA,1,0,0
+"FL_1986-09-02_PRI","TC2_2_1","2","Circuit Judge","TC2","1",2,"NPE",NA,NA,1,1,0
+"FL_1986-09-02_PRI","TC2_6_8","6","Circuit Judge","TC2","8",1,"NPE",NA,NA,1,0,0
+"FL_1986-09-02_PRI","TC2_7_1","7","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1986-09-02_PRI","TC2_7_3","7","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1986-09-02_PRI","TC2_8_1","8","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1986-09-02_PRI","TC2_11_6","11","Circuit Judge","TC2","6",1,"NPE",NA,NA,1,0,0
+"FL_1986-09-02_PRI","TC2_11_13","11","Circuit Judge","TC2","13",2,"NPE",NA,NA,1,1,0
+"FL_1986-09-02_PRI","TC2_12_3","12","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1986-09-02_PRI","TC2_13_2","13","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_1986-09-02_PRI","TC2_13_4","13","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_1986-09-02_PRI","TC2_13_7","13","Circuit Judge","TC2","7",2,"NPE",NA,NA,1,1,0
+"FL_1986-09-02_PRI","TC2_17_1","17","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1986-09-02_PRI","TC2_18_3","18","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1986-09-02_PRI","TC2_18_4","18","Circuit Judge","TC2","4",2,"NPE",NA,NA,1,1,0
+"FL_1986-09-02_PRI","TC2_19_5","19","Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_1986-09-30_PRI-D","AG_FL_000","FL","Attorney General","AG","000",1,"PE",NA,NA,1,1,0
+"FL_1988-11-08_GEN","SA_5_000","5","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1988-11-08_GEN","SA_7_000","7","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1988-11-08_GEN","SA_11_000","11","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1988-11-08_GEN","SA_13_000","13","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1988-11-08_GEN","SA_15_000","15","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1988-11-08_GEN","TC2_2_2","2","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_1988-11-08_GEN","TC2_11_61","11","Circuit Judge","TC2","61",1,"NPE",NA,NA,1,0,0
+"FL_1988-11-08_GEN","TC2_11_62","11","Circuit Judge","TC2","62",1,"NPE",NA,NA,1,0,0
+"FL_1988-11-08_GEN","TC2_15_20","15","Circuit Judge","TC2","20",1,"NPE",NA,NA,1,0,0
+"FL_1988-09-06_PRI-R","SA_7_000","7","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1988-09-06_PRI-R","SA_12_000","12","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1988-09-06_PRI-D","SA_7_000","7","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1988-09-06_PRI-D","SA_15_000","15","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1988-09-06_PRI-R","PD_19_000","19","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_1988-09-06_PRI-D","PD_3_000","3","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_1988-09-06_PRI","TC2_1_13","1","Circuit Judge","TC2","13",2,"NPE",NA,NA,1,1,0
+"FL_1988-09-06_PRI","TC2_2_2","2","Circuit Judge","TC2","2",2,"NPE",NA,NA,1,1,0
+"FL_1988-09-06_PRI","TC2_4_3","4","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1988-09-06_PRI","TC2_6_12","6","Circuit Judge","TC2","12",1,"NPE",NA,NA,1,0,0
+"FL_1988-09-06_PRI","TC2_7_16","7","Circuit Judge","TC2","16",1,"NPE",NA,NA,1,0,0
+"FL_1988-09-06_PRI","TC2_9_3","9","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1988-09-06_PRI","TC2_10_1","10","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1988-09-06_PRI","TC2_10_4","10","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_1988-09-06_PRI","TC2_11_24","11","Circuit Judge","TC2","24",1,"NPE",NA,NA,1,0,0
+"FL_1988-09-06_PRI","TC2_11_36","11","Circuit Judge","TC2","36",1,"NPE",NA,NA,1,0,0
+"FL_1988-09-06_PRI","TC2_11_59","11","Circuit Judge","TC2","59",1,"NPE",NA,NA,1,0,0
+"FL_1988-09-06_PRI","TC2_11_61","11","Circuit Judge","TC2","61",2,"NPE",NA,NA,1,1,0
+"FL_1988-09-06_PRI","TC2_11_62","11","Circuit Judge","TC2","62",2,"NPE",NA,NA,1,1,0
+"FL_1988-09-06_PRI","TC2_12_13","12","Circuit Judge","TC2","13",1,"NPE",NA,NA,1,0,0
+"FL_1988-09-06_PRI","TC2_15_20","15","Circuit Judge","TC2","20",2,"NPE",NA,NA,1,1,0
+"FL_1988-09-06_PRI","TC2_15_25","15","Circuit Judge","TC2","25",1,"NPE",NA,NA,1,0,0
+"FL_1988-09-06_PRI","TC2_16_2","16","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_1988-09-06_PRI","TC2_16_3","16","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1988-09-06_PRI","TC2_17_3","17","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1988-09-06_PRI","TC2_17_31","17","Circuit Judge","TC2","31",1,"NPE",NA,NA,1,0,0
+"FL_1988-09-06_PRI","TC2_18_16","18","Circuit Judge","TC2","16",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","PD_2_000","2","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","TC2_4_27","4","Circuit Judge","TC2","27",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","TC2_6_35","6","Circuit Judge","TC2","35",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","TC2_9_24","9","Circuit Judge","TC2","24",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","TC2_11_38","11","Circuit Judge","TC2","38",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","TC2_13_14","13","Circuit Judge","TC2","14",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","TC2_13_15","13","Circuit Judge","TC2","15",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","TC2_13_30","13","Circuit Judge","TC2","30",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","TC2_15_31","15","Circuit Judge","TC2","31",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","TC2_17_5","17","Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","TC2_17_14","17","Circuit Judge","TC2","14",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","TC2_18_10","18","Circuit Judge","TC2","10",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","TC2_19_11","19","Circuit Judge","TC2","11",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","TC2_20_5","20","Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI-D","PD_2_000","2","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_1_11","1","Circuit Judge","TC2","11",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_1_16","1","Circuit Judge","TC2","16",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_1_18","1","Circuit Judge","TC2","18",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_1_19","1","Circuit Judge","TC2","19",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_2_6","2","Circuit Judge","TC2","6",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_3_1","3","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_4_27","4","Circuit Judge","TC2","27",2,"NPE",NA,NA,1,1,0
+"FL_1990-09-04_PRI","TC2_5_9","5","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_6_17","6","Circuit Judge","TC2","17",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_6_34","6","Circuit Judge","TC2","34",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_6_35","6","Circuit Judge","TC2","35",2,"NPE",NA,NA,1,1,0
+"FL_1990-09-04_PRI","TC2_7_2","7","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_7_9","7","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_7_19","7","Circuit Judge","TC2","19",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_9_24","9","Circuit Judge","TC2","24",2,"NPE",NA,NA,1,1,0
+"FL_1990-09-04_PRI","TC2_9_25","9","Circuit Judge","TC2","25",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_11_1","11","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_11_4","11","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_11_7","11","Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_11_11","11","Circuit Judge","TC2","11",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_11_16","11","Circuit Judge","TC2","16",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_11_23","11","Circuit Judge","TC2","23",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_11_34","11","Circuit Judge","TC2","34",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_11_46","11","Circuit Judge","TC2","46",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_11_54","11","Circuit Judge","TC2","54",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_11_64","11","Circuit Judge","TC2","64",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_13_5","13","Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_13_9","13","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_13_18","13","Circuit Judge","TC2","18",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_13_21","13","Circuit Judge","TC2","21",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_13_27","13","Circuit Judge","TC2","27",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_13_29","13","Circuit Judge","TC2","29",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_13_30","13","Circuit Judge","TC2","30",2,"NPE",NA,NA,1,1,0
+"FL_1990-09-04_PRI","TC2_13_31","13","Circuit Judge","TC2","31",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_14_4","14","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_14_6","14","Circuit Judge","TC2","6",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_14_7","14","Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_15_16","15","Circuit Judge","TC2","16",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_15_30","15","Circuit Judge","TC2","30",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_15_31","15","Circuit Judge","TC2","31",2,"NPE",NA,NA,1,1,0
+"FL_1990-09-04_PRI","TC2_17_4","17","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_17_5","17","Circuit Judge","TC2","5",2,"NPE",NA,NA,1,1,0
+"FL_1990-09-04_PRI","TC2_17_14","17","Circuit Judge","TC2","14",2,"NPE",NA,NA,1,1,0
+"FL_1990-09-04_PRI","TC2_17_20","17","Circuit Judge","TC2","20",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_17_33","17","Circuit Judge","TC2","33",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_17_37","17","Circuit Judge","TC2","37",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_18_10","18","Circuit Judge","TC2","10",2,"NPE",NA,NA,1,1,0
+"FL_1990-09-04_PRI","TC2_18_11","18","Circuit Judge","TC2","11",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_18_18","18","Circuit Judge","TC2","18",1,"NPE",NA,NA,1,0,0
+"FL_1990-09-04_PRI","TC2_19_11","19","Circuit Judge","TC2","11",2,"NPE",NA,NA,1,1,0
+"FL_1990-09-04_PRI","TC2_20_5","20","Circuit Judge","TC2","5",2,"NPE",NA,NA,1,1,0
+"FL_1990-10-02_PRI","TC2_11_38","11","Circuit Judge","TC2","38",2,"NPE",NA,NA,1,1,0
+"FL_1990-10-02_PRI","TC2_13_14","13","Circuit Judge","TC2","14",2,"NPE",NA,NA,1,1,0
+"FL_1990-10-02_PRI","TC2_13_15","13","Circuit Judge","TC2","15",2,"NPE",NA,NA,1,1,0
+"FL_1992-11-03_GEN","SA_5_000","5","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1992-11-03_GEN","SA_7_000","7","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1992-11-03_GEN","SA_8_000","8","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1992-11-03_GEN","SA_13_000","13","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1992-11-03_GEN","SA_15_000","15","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1992-11-03_GEN","SA_19_000","19","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1992-11-03_GEN","PD_17_000","17","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_1992-11-03_GEN","TC2_3_1","3","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1992-11-03_GEN","TC2_6_3","6","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1992-11-03_GEN","TC2_6_20","6","Circuit Judge","TC2","20",1,"NPE",NA,NA,1,0,0
+"FL_1992-11-03_GEN","TC2_6_23","6","Circuit Judge","TC2","23",1,"NPE",NA,NA,1,0,0
+"FL_1992-11-03_GEN","TC2_6_29","6","Circuit Judge","TC2","29",1,"NPE",NA,NA,1,0,0
+"FL_1992-11-03_GEN","TC2_11_28","11","Circuit Judge","TC2","28",1,"NPE",NA,NA,1,0,0
+"FL_1992-11-03_GEN","SC_1_000","1",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_1992-11-03_GEN","SC_2_000","2",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_1992-11-03_GEN","SC_3_000","3",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_1992-11-03_GEN","SC_4_000","4",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_1992-11-03_GEN","TC1_1_6","1",NA,"TC1","6",1,"RE",NA,NA,0,0,0
+"FL_1992-11-03_GEN","TC1_1_4","1",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_1992-11-03_GEN","TC1_1_5","1",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_1992-11-03_GEN","TC1_1_1","1",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_1992-11-03_GEN","TC1_1_2","1",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_1992-11-03_GEN","TC1_1_3","1",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_1992-11-03_GEN","TC1_2_1","2",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_1992-11-03_GEN","TC1_2_2","2",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_1992-11-03_GEN","TC1_3_3","3",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_1992-11-03_GEN","TC1_3_1","3",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_1992-11-03_GEN","TC1_3_2","3",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_1992-11-03_GEN","TC1_4_3","4",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_1992-11-03_GEN","TC1_4_1","4",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_1992-11-03_GEN","TC1_4_2","4",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_1992-11-03_GEN","TC1_5_1","5",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_1992-11-03_GEN","TC1_5_2","5",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_1992-11-03_GEN","TC1_5_3","5",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_1992-11-03_GEN","TC1_5_4","5",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_1992-11-03_GEN","TC1_5_5","5",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_1992-09-01_PRI-D","SA_7_000","7","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1992-09-01_PRI-D","SA_8_000","8","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1992-09-01_PRI-R","SA_6_000","6","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1992-09-01_PRI-R","SA_7_000","7","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1992-09-01_PRI-R","SA_15_000","15","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1992-09-01_PRI-R","SA_18_000","18","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1992-09-01_PRI-D","PD_13_000","13","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_1992-09-01_PRI-R","PD_19_000","19","Public Defender","PD","000",2,"PE",NA,NA,1,1,0
+"FL_1992-09-01_PRI","TC2_3_1","3","Circuit Judge","TC2","1",2,"NPE",NA,NA,1,1,0
+"FL_1992-09-01_PRI","TC2_4_26","4","Circuit Judge","TC2","26",1,"NPE",NA,NA,1,0,0
+"FL_1992-09-01_PRI","TC2_6_3","6","Circuit Judge","TC2","3",2,"NPE",NA,NA,1,1,0
+"FL_1992-09-01_PRI","TC2_6_20","6","Circuit Judge","TC2","20",2,"NPE",NA,NA,1,1,0
+"FL_1992-09-01_PRI","TC2_6_23","6","Circuit Judge","TC2","23",2,"NPE",NA,NA,1,1,0
+"FL_1992-09-01_PRI","TC2_6_29","6","Circuit Judge","TC2","29",2,"NPE",NA,NA,1,1,0
+"FL_1992-09-01_PRI","TC2_11_10","11","Circuit Judge","TC2","10",1,"NPE",NA,NA,1,0,0
+"FL_1992-09-01_PRI","TC2_11_21","11","Circuit Judge","TC2","21",1,"NPE",NA,NA,1,0,0
+"FL_1992-09-01_PRI","TC2_11_28","11","Circuit Judge","TC2","28",2,"NPE",NA,NA,1,1,0
+"FL_1992-09-01_PRI","TC2_11_40","11","Circuit Judge","TC2","40",1,"NPE",NA,NA,1,0,0
+"FL_1992-09-01_PRI","TC2_11_41","11","Circuit Judge","TC2","41",1,"NPE",NA,NA,1,0,0
+"FL_1992-09-01_PRI","TC2_11_43","11","Circuit Judge","TC2","43",1,"NPE",NA,NA,1,0,0
+"FL_1992-09-01_PRI","TC2_11_52","11","Circuit Judge","TC2","52",1,"NPE",NA,NA,1,0,0
+"FL_1992-09-01_PRI","TC2_11_62","11","Circuit Judge","TC2","62",1,"NPE",NA,NA,1,0,0
+"FL_1992-09-01_PRI","TC2_12_2","12","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_1992-09-01_PRI","TC2_15_7","15","Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_1992-09-01_PRI","TC2_15_24","15","Circuit Judge","TC2","24",1,"NPE",NA,NA,1,0,0
+"FL_1992-09-01_PRI","TC2_20_12","20","Circuit Judge","TC2","12",1,"NPE",NA,NA,1,0,0
+"FL_1992-10-01_PRI-R","PD_19_000","19","Public Defender","PD","000",1,"PE",NA,NA,1,1,0
+"FL_1994-11-08_GEN","AG_FL_000","FL","Attorney General","AG","000",1,"NPE",NA,NA,1,0,0
+"FL_1994-11-08_GEN","TC2_5_17","5","Circuit Judge","TC2","17",1,"NPE",NA,NA,1,0,0
+"FL_1994-11-08_GEN","TC2_6_10","6","Circuit Judge","TC2","10",1,"NPE",NA,NA,1,0,0
+"FL_1994-11-08_GEN","TC2_6_12","6","Circuit Judge","TC2","12",1,"NPE",NA,NA,1,0,0
+"FL_1994-11-08_GEN","TC2_9_28","9","Circuit Judge","TC2","28",1,"NPE",NA,NA,1,0,0
+"FL_1994-11-08_GEN","TC2_11_59","11","Circuit Judge","TC2","59",1,"NPE",NA,NA,1,0,0
+"FL_1994-11-08_GEN","TC2_11_60","11","Circuit Judge","TC2","60",1,"NPE",NA,NA,1,0,0
+"FL_1994-11-08_GEN","TC2_12_16","12","Circuit Judge","TC2","16",1,"NPE",NA,NA,1,0,0
+"FL_1994-11-08_GEN","TC2_13_12","13","Circuit Judge","TC2","12",1,"NPE",NA,NA,1,0,0
+"FL_1994-11-08_GEN","TC2_15_25","15","Circuit Judge","TC2","25",1,"NPE",NA,NA,1,0,0
+"FL_1994-11-08_GEN","TC2_18_12","18","Circuit Judge","TC2","12",1,"NPE",NA,NA,1,0,0
+"FL_1994-11-08_GEN","TC2_18_20","18","Circuit Judge","TC2","20",1,"NPE",NA,NA,1,0,0
+"FL_1994-11-08_GEN","SC_1_000","1",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","SC_2_000","2",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_1_2","1",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_1_3","1",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_1_4","1",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_1_5","1",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_1_1","1",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_2_3","2",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_2_4","2",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_2_2","2",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_2_1","2",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_3_3","3",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_3_1","3",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_3_2","3",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_4_5","4",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_4_3","4",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_4_4","4",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_4_2","4",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_4_1","4",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_5_1","5",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_5_2","5",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_1994-09-08_PRI-D","SA_11_000","11","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1994-09-08_PRI","TC2_4_24","4","Circuit Judge","TC2","24",1,"NPE",NA,NA,1,0,0
+"FL_1994-09-08_PRI","TC2_5_4","5","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_1994-09-08_PRI","TC2_5_17","5","Circuit Judge","TC2","17",2,"NPE",NA,NA,1,1,0
+"FL_1994-09-08_PRI","TC2_6_10","6","Circuit Judge","TC2","10",2,"NPE",NA,NA,1,1,0
+"FL_1994-09-08_PRI","TC2_6_12","6","Circuit Judge","TC2","12",2,"NPE",NA,NA,1,1,0
+"FL_1994-09-08_PRI","TC2_6_14","6","Circuit Judge","TC2","14",1,"NPE",NA,NA,1,0,0
+"FL_1994-09-08_PRI","TC2_7_15","7","Circuit Judge","TC2","15",1,"NPE",NA,NA,1,0,0
+"FL_1994-09-08_PRI","TC2_9_4","9","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_1994-09-08_PRI","TC2_9_28","9","Circuit Judge","TC2","28",2,"NPE",NA,NA,1,1,0
+"FL_1994-09-08_PRI","TC2_9_29","9","Circuit Judge","TC2","29",1,"NPE",NA,NA,1,0,0
+"FL_1994-09-08_PRI","TC2_10_14","10","Circuit Judge","TC2","14",1,"NPE",NA,NA,1,0,0
+"FL_1994-09-08_PRI","TC2_11_24","11","Circuit Judge","TC2","24",1,"NPE",NA,NA,1,0,0
+"FL_1994-09-08_PRI","TC2_11_25","11","Circuit Judge","TC2","25",1,"NPE",NA,NA,1,0,0
+"FL_1994-09-08_PRI","TC2_11_35","11","Circuit Judge","TC2","35",1,"NPE",NA,NA,1,0,0
+"FL_1994-09-08_PRI","TC2_11_44","11","Circuit Judge","TC2","44",1,"NPE",NA,NA,1,0,0
+"FL_1994-09-08_PRI","TC2_11_45","11","Circuit Judge","TC2","45",1,"NPE",NA,NA,1,0,0
+"FL_1994-09-08_PRI","TC2_11_48","11","Circuit Judge","TC2","48",1,"NPE",NA,NA,1,0,0
+"FL_1994-09-08_PRI","TC2_11_56","11","Circuit Judge","TC2","56",1,"NPE",NA,NA,1,0,0
+"FL_1994-09-08_PRI","TC2_11_59","11","Circuit Judge","TC2","59",2,"NPE",NA,NA,1,1,0
+"FL_1994-09-08_PRI","TC2_11_60","11","Circuit Judge","TC2","60",2,"NPE",NA,NA,1,1,0
+"FL_1994-09-08_PRI","TC2_11_67","11","Circuit Judge","TC2","67",1,"NPE",NA,NA,1,0,0
+"FL_1994-09-08_PRI","TC2_11_68","11","Circuit Judge","TC2","68",1,"NPE",NA,NA,1,0,0
+"FL_1994-09-08_PRI","TC2_12_16","12","Circuit Judge","TC2","16",2,"NPE",NA,NA,1,1,0
+"FL_1994-09-08_PRI","TC2_13_12","13","Circuit Judge","TC2","12",2,"NPE",NA,NA,1,1,0
+"FL_1994-09-08_PRI","TC2_14_8","14","Circuit Judge","TC2","8",1,"NPE",NA,NA,1,0,0
+"FL_1994-09-08_PRI","TC2_15_25","15","Circuit Judge","TC2","25",2,"NPE",NA,NA,1,1,0
+"FL_1994-09-08_PRI","TC2_16_3","16","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1994-09-08_PRI","TC2_17_3","17","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1994-09-08_PRI","TC2_18_12","18","Circuit Judge","TC2","12",2,"NPE",NA,NA,1,1,0
+"FL_1994-09-08_PRI","TC2_18_20","18","Circuit Judge","TC2","20",2,"NPE",NA,NA,1,1,0
+"FL_1994-09-08_PRI","TC2_19_5","19","Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_1994-09-08_PRI","TC2_19_8","19","Circuit Judge","TC2","8",1,"NPE",NA,NA,1,0,0
+"FL_1994-09-08_PRI","TC2_20_18","20","Circuit Judge","TC2","18",1,"NPE",NA,NA,1,0,0
+"FL_1996-11-05_GEN","SA_4_000","4","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1996-11-05_GEN","SA_7_000","7","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1996-11-05_GEN","SA_13_000","13","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1996-11-05_GEN","SA_15_000","15","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_1996-11-05_GEN","PD_7_000","7","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_1996-11-05_GEN","PD_11_000","11","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_1996-11-05_GEN","PD_13_000","13","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_1996-11-05_GEN","PD_16_000","16","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_1996-11-05_GEN","TC2_5_3","5","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1996-11-05_GEN","TC2_6_1","6","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1996-11-05_GEN","TC2_6_6","6","Circuit Judge","TC2","6",1,"NPE",NA,NA,1,0,0
+"FL_1996-11-05_GEN","TC2_12_17","12","Circuit Judge","TC2","17",1,"NPE",NA,NA,1,0,0
+"FL_1996-11-05_GEN","TC2_13_27","13","Circuit Judge","TC2","27",1,"NPE",NA,NA,1,0,0
+"FL_1996-11-05_GEN","TC2_15_21","15","Circuit Judge","TC2","21",1,"NPE",NA,NA,1,0,0
+"FL_1996-11-05_GEN","TC2_16_1","16","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1996-11-05_GEN","TC2_19_13","19","Circuit Judge","TC2","13",1,"NPE",NA,NA,1,0,0
+"FL_1996-11-05_GEN","SC_1_000","1",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_1996-11-05_GEN","SC_2_000","2",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_1996-11-05_GEN","SC_3_000","3",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_1996-11-05_GEN","TC1_1_3","1",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_1996-11-05_GEN","TC1_1_4","1",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_1996-11-05_GEN","TC1_1_1","1",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_1996-11-05_GEN","TC1_1_2","1",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_1996-11-05_GEN","TC1_2_1","2",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_1996-11-05_GEN","TC1_2_2","2",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_1996-11-05_GEN","TC1_2_7","2",NA,"TC1","7",1,"RE",NA,NA,0,0,0
+"FL_1996-11-05_GEN","TC1_2_8","2",NA,"TC1","8",1,"RE",NA,NA,0,0,0
+"FL_1996-11-05_GEN","TC1_2_3","2",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_1996-11-05_GEN","TC1_2_4","2",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_1996-11-05_GEN","TC1_2_5","2",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_1996-11-05_GEN","TC1_2_6","2",NA,"TC1","6",1,"RE",NA,NA,0,0,0
+"FL_1996-11-05_GEN","TC1_3_3","3",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_1996-11-05_GEN","TC1_3_4","3",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_1996-11-05_GEN","TC1_3_1","3",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_1996-11-05_GEN","TC1_3_2","3",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_1996-11-05_GEN","TC1_4_3","4",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_1996-11-05_GEN","TC1_4_4","4",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_1996-11-05_GEN","TC1_4_1","4",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_1996-11-05_GEN","TC1_4_2","4",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_1996-11-05_GEN","TC1_5_3","5",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_1996-11-05_GEN","TC1_5_1","5",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_1996-11-05_GEN","TC1_5_2","5",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_1996-09-03_PRI-D","SA_2_000","2","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1996-09-03_PRI-D","SA_14_000","14","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1996-09-03_PRI-R","SA_7_000","7","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1996-09-03_PRI-R","SA_13_000","13","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1996-09-03_PRI-D","PD_16_000","16","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_1996-09-03_PRI-R","PD_6_000","6","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_2_6","2","Circuit Judge","TC2","6",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_4_2","4","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_4_10","4","Circuit Judge","TC2","10",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_5_3","5","Circuit Judge","TC2","3",2,"NPE",NA,NA,1,1,0
+"FL_1996-09-03_PRI","TC2_5_9","5","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_5_11","5","Circuit Judge","TC2","11",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_6_1","6","Circuit Judge","TC2","1",2,"NPE",NA,NA,1,1,0
+"FL_1996-09-03_PRI","TC2_6_6","6","Circuit Judge","TC2","6",2,"NPE",NA,NA,1,1,0
+"FL_1996-09-03_PRI","TC2_6_16","6","Circuit Judge","TC2","16",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_6_17","6","Circuit Judge","TC2","17",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_7_7","7","Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_7_14","7","Circuit Judge","TC2","14",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_8_10","8","Circuit Judge","TC2","10",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_9_18","9","Circuit Judge","TC2","18",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_9_21","9","Circuit Judge","TC2","21",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_9_25","9","Circuit Judge","TC2","25",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_10_2","10","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_10_12","10","Circuit Judge","TC2","12",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_11_16","11","Circuit Judge","TC2","16",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_11_19","11","Circuit Judge","TC2","19",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_11_23","11","Circuit Judge","TC2","23",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_11_44","11","Circuit Judge","TC2","44",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_11_64","11","Circuit Judge","TC2","64",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_12_17","12","Circuit Judge","TC2","17",2,"NPE",NA,NA,1,1,0
+"FL_1996-09-03_PRI","TC2_13_10","13","Circuit Judge","TC2","10",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_13_11","13","Circuit Judge","TC2","11",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_13_13","13","Circuit Judge","TC2","13",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_13_27","13","Circuit Judge","TC2","27",2,"NPE",NA,NA,1,1,0
+"FL_1996-09-03_PRI","TC2_13_33","13","Circuit Judge","TC2","33",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_14_4","14","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_15_21","15","Circuit Judge","TC2","21",2,"NPE",NA,NA,1,1,0
+"FL_1996-09-03_PRI","TC2_15_23","15","Circuit Judge","TC2","23",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_15_31","15","Circuit Judge","TC2","31",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_16_1","16","Circuit Judge","TC2","1",2,"NPE",NA,NA,1,1,0
+"FL_1996-09-03_PRI","TC2_17_41","17","Circuit Judge","TC2","41",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_17_44","17","Circuit Judge","TC2","44",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_18_2","18","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_18_14","18","Circuit Judge","TC2","14",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_18_15","18","Circuit Judge","TC2","15",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_18_21","18","Circuit Judge","TC2","21",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_19_13","19","Circuit Judge","TC2","13",2,"NPE",NA,NA,1,1,0
+"FL_1996-09-03_PRI","TC2_20_4","20","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_20_7","20","Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_20_9","20","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_1996-09-03_PRI","TC2_20_19","20","Circuit Judge","TC2","19",1,"NPE",NA,NA,1,0,0
+"FL_1996-10-01_PRI","TC2_2_2","2","Circuit Judge","TC2","2",2,"NPE",NA,NA,1,1,0
+"FL_1998-11-03_GEN","AG_FL_000","FL","Attorney General","AG","000",1,"NPE",NA,NA,1,0,0
+"FL_1998-11-03_GEN","TC2_6_20","6","Circuit Judge","TC2","20",1,"NPE",NA,NA,1,0,0
+"FL_1998-11-03_GEN","TC2_18_6","18","Circuit Judge","TC2","6",1,"NPE",NA,NA,1,0,0
+"FL_1998-11-03_GEN","TC2_18_9","18","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_1998-09-01_PRI-D","AG_FL_000","FL","Attorney General","AG","000",1,"PE",NA,NA,1,0,0
+"FL_1998-09-01_PRI-R","AG_FL_000","FL","Attorney General","AG","000",1,"PE",NA,NA,1,0,0
+"FL_1998-09-01_PRI-R","SA_20_000","20","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1998-09-01_PRI","TC2_1_5","1","Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_1998-09-01_PRI","TC2_2_5","2","Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_1998-09-01_PRI","TC2_6_20","6","Circuit Judge","TC2","20",2,"NPE",NA,NA,1,1,0
+"FL_1998-09-01_PRI","TC2_11_10","11","Circuit Judge","TC2","10",1,"NPE",NA,NA,1,0,0
+"FL_1998-09-01_PRI","TC2_11_30","11","Circuit Judge","TC2","30",1,"NPE",NA,NA,1,0,0
+"FL_1998-09-01_PRI","TC2_11_32","11","Circuit Judge","TC2","32",1,"NPE",NA,NA,1,0,0
+"FL_1998-09-01_PRI","TC2_11_40","11","Circuit Judge","TC2","40",1,"NPE",NA,NA,1,0,0
+"FL_1998-09-01_PRI","TC2_11_41","11","Circuit Judge","TC2","41",1,"NPE",NA,NA,1,0,0
+"FL_1998-09-01_PRI","TC2_11_45","11","Circuit Judge","TC2","45",1,"NPE",NA,NA,1,0,0
+"FL_1998-09-01_PRI","TC2_11_62","11","Circuit Judge","TC2","62",1,"NPE",NA,NA,1,0,0
+"FL_1998-09-01_PRI","TC2_18_6","18","Circuit Judge","TC2","6",2,"NPE",NA,NA,1,1,0
+"FL_1998-09-01_PRI","TC2_18_9","18","Circuit Judge","TC2","9",2,"NPE",NA,NA,1,1,0
+"FL_1998-09-01_PRI","TC2_19_6","19","Circuit Judge","TC2","6",1,"NPE",NA,NA,1,0,0
+"FL_1998-09-01_PRI","TC2_19_9","19","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_2000-11-07_GEN","SA_008_000","008","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2000-11-07_GEN","SA_011_000","011","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2000-11-07_GEN","SA_013_000","013","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2000-11-07_GEN","SA_014_000","014","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2000-11-07_GEN","SA_016_000","016","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2000-11-07_GEN","PD_009_000","009","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_2000-11-07_GEN","PD_013_000","013","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_2000-11-07_GEN","PD_015_000","015","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_2000-11-07_GEN","TC2_011_8","011","Circuit Judge","TC2","8",1,"NPE",NA,NA,1,0,0
+"FL_2000-11-07_GEN","TC2_011_25","011","Circuit Judge","TC2","25",1,"NPE",NA,NA,1,0,0
+"FL_2000-11-07_GEN","TC2_013_25","013","Circuit Judge","TC2","25",1,"NPE",NA,NA,1,0,0
+"FL_2000-11-07_GEN","TC2_017_31","017","Circuit Judge","TC2","31",1,"NPE",NA,NA,1,0,0
+"FL_2000-09-05_PRI-R","SA_5_000","5","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2000-09-05_PRI-R","SA_13_000","13","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2000-09-05_PRI-R","SA_16_000","16","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2000-09-05_PRI-D","SA_13_000","13","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2000-09-05_PRI-D","SA_17_000","17","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2000-09-05_PRI-R","PD_6_000","6","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_2000-09-05_PRI-R","PD_7_000","7","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_2000-09-05_PRI","TC2_1_14","1","Circuit Judge","TC2","14",1,"NPE",NA,NA,1,0,0
+"FL_2000-09-05_PRI","TC2_6_14","6","Circuit Judge","TC2","14",1,"NPE",NA,NA,1,0,0
+"FL_2000-09-05_PRI","TC2_8_5","8","Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_2000-09-05_PRI","TC2_9_3","9","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_2000-09-05_PRI","TC2_9_11","9","Circuit Judge","TC2","11",1,"NPE",NA,NA,1,0,0
+"FL_2000-09-05_PRI","TC2_9_15","9","Circuit Judge","TC2","15",1,"NPE",NA,NA,1,0,0
+"FL_2000-09-05_PRI","TC2_9_19","9","Circuit Judge","TC2","19",1,"NPE",NA,NA,1,0,0
+"FL_2000-09-05_PRI","TC2_11_8","11","Circuit Judge","TC2","8",2,"NPE",NA,NA,1,1,0
+"FL_2000-09-05_PRI","TC2_11_24","11","Circuit Judge","TC2","24",1,"NPE",NA,NA,1,0,0
+"FL_2000-09-05_PRI","TC2_11_25","11","Circuit Judge","TC2","25",2,"NPE",NA,NA,1,1,0
+"FL_2000-09-05_PRI","TC2_11_56","11","Circuit Judge","TC2","56",1,"NPE",NA,NA,1,0,0
+"FL_2000-09-05_PRI","TC2_13_25","13","Circuit Judge","TC2","25",2,"NPE",NA,NA,1,1,0
+"FL_2000-09-05_PRI","TC2_14_3","14","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_2000-09-05_PRI","TC2_17_31","17","Circuit Judge","TC2","31",2,"NPE",NA,NA,1,1,0
+"FL_2000-09-05_PRI","TC2_18_10","18","Circuit Judge","TC2","10",1,"NPE",NA,NA,1,0,0
+"FL_2000-09-05_PRI","TC2_18_11","18","Circuit Judge","TC2","11",1,"NPE",NA,NA,1,0,0
+"FL_2000-09-05_PRI","TC2_19_8","19","Circuit Judge","TC2","8",1,"NPE",NA,NA,1,0,0
+"FL_2002-11-05_GEN","AG_FL_000","FL","Attorney General","AG","000",1,"NPE",NA,NA,1,0,0
+"FL_2002-11-05_GEN","TC2_6_26","6","Circuit Judge","TC2","26",1,"NPE",NA,NA,1,0,0
+"FL_2002-11-05_GEN","TC2_7_24","7","Circuit Judge","TC2","24",1,"NPE",NA,NA,1,0,0
+"FL_2002-11-05_GEN","TC2_8_12","8","Circuit Judge","TC2","12",1,"NPE",NA,NA,1,0,0
+"FL_2002-11-05_GEN","TC2_9_21","9","Circuit Judge","TC2","21",1,"NPE",NA,NA,1,0,0
+"FL_2002-11-05_GEN","TC2_9_37","9","Circuit Judge","TC2","37",1,"NPE",NA,NA,1,0,0
+"FL_2002-11-05_GEN","TC2_11_46","11","Circuit Judge","TC2","46",1,"NPE",NA,NA,1,0,0
+"FL_2002-11-05_GEN","TC2_12_5","12","Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_2002-11-05_GEN","TC2_12_19","12","Circuit Judge","TC2","19",1,"NPE",NA,NA,1,0,0
+"FL_2002-11-05_GEN","TC2_13_30","13","Circuit Judge","TC2","30",1,"NPE",NA,NA,1,0,0
+"FL_2002-11-05_GEN","TC2_13_37","13","Circuit Judge","TC2","37",1,"NPE",NA,NA,1,0,0
+"FL_2002-11-05_GEN","TC2_15_34","15","Circuit Judge","TC2","34",1,"NPE",NA,NA,1,0,0
+"FL_2002-11-05_GEN","TC2_17_26","17","Circuit Judge","TC2","26",1,"NPE",NA,NA,1,0,0
+"FL_2002-11-05_GEN","TC2_17_41","17","Circuit Judge","TC2","41",1,"NPE",NA,NA,1,0,0
+"FL_2002-11-05_GEN","TC2_17_52","17","Circuit Judge","TC2","52",1,"NPE",NA,NA,1,0,0
+"FL_2002-09-10_PRI-R","AG_FL_000","FL","Attorney General","AG","000",1,"PE",NA,NA,1,0,0
+"FL_2002-09-10_PRI-D","AG_FL_000","FL","Attorney General","AG","000",1,"PE",NA,NA,1,0,0
+"FL_2002-09-10_PRI-R","SA_20_000","20","State Attorney","SA","000",2,"PE",NA,NA,1,1,0
+"FL_2002-09-10_PRI","TC2_4_5","4","Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_2002-09-10_PRI","TC2_4_13","4","Circuit Judge","TC2","13",1,"NPE",NA,NA,1,0,0
+"FL_2002-09-10_PRI","TC2_5_1","5","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_2002-09-10_PRI","TC2_6_8","6","Circuit Judge","TC2","8",1,"NPE",NA,NA,1,0,0
+"FL_2002-09-10_PRI","TC2_6_25","6","Circuit Judge","TC2","25",1,"NPE",NA,NA,1,0,0
+"FL_2002-09-10_PRI","TC2_6_26","6","Circuit Judge","TC2","26",2,"NPE",NA,NA,1,1,0
+"FL_2002-09-10_PRI","TC2_6_28","6","Circuit Judge","TC2","28",1,"NPE",NA,NA,1,0,0
+"FL_2002-09-10_PRI","TC2_6_41","6","Circuit Judge","TC2","41",1,"NPE",NA,NA,1,0,0
+"FL_2002-09-10_PRI","TC2_7_24","7","Circuit Judge","TC2","24",2,"NPE",NA,NA,1,1,0
+"FL_2002-09-10_PRI","TC2_8_12","8","Circuit Judge","TC2","12",2,"NPE",NA,NA,1,1,0
+"FL_2002-09-10_PRI","TC2_9_21","9","Circuit Judge","TC2","21",2,"NPE",NA,NA,1,1,0
+"FL_2002-09-10_PRI","TC2_9_37","9","Circuit Judge","TC2","37",2,"NPE",NA,NA,1,1,0
+"FL_2002-09-10_PRI","TC2_11_1","11","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_2002-09-10_PRI","TC2_11_4","11","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_2002-09-10_PRI","TC2_11_46","11","Circuit Judge","TC2","46",2,"NPE",NA,NA,1,1,0
+"FL_2002-09-10_PRI","TC2_12_5","12","Circuit Judge","TC2","5",2,"NPE",NA,NA,1,1,0
+"FL_2002-09-10_PRI","TC2_12_19","12","Circuit Judge","TC2","19",2,"NPE",NA,NA,1,1,0
+"FL_2002-09-10_PRI","TC2_13_7","13","Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_2002-09-10_PRI","TC2_13_30","13","Circuit Judge","TC2","30",2,"NPE",NA,NA,1,1,0
+"FL_2002-09-10_PRI","TC2_13_37","13","Circuit Judge","TC2","37",2,"NPE",NA,NA,1,1,0
+"FL_2002-09-10_PRI","TC2_15_3","15","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_2002-09-10_PRI","TC2_15_14","15","Circuit Judge","TC2","14",1,"NPE",NA,NA,1,0,0
+"FL_2002-09-10_PRI","TC2_15_34","15","Circuit Judge","TC2","34",2,"NPE",NA,NA,1,1,0
+"FL_2002-09-10_PRI","TC2_17_11","17","Circuit Judge","TC2","11",1,"NPE",NA,NA,1,0,0
+"FL_2002-09-10_PRI","TC2_17_26","17","Circuit Judge","TC2","26",2,"NPE",NA,NA,1,1,0
+"FL_2002-09-10_PRI","TC2_17_29","17","Circuit Judge","TC2","29",1,"NPE",NA,NA,1,0,0
+"FL_2002-09-10_PRI","TC2_17_37","17","Circuit Judge","TC2","37",1,"NPE",NA,NA,1,0,0
+"FL_2002-09-10_PRI","TC2_17_41","17","Circuit Judge","TC2","41",2,"NPE",NA,NA,1,1,0
+"FL_2002-09-10_PRI","TC2_17_52","17","Circuit Judge","TC2","52",2,"NPE",NA,NA,1,1,0
+"FL_2002-09-10_PRI","TC2_19_11","19","Circuit Judge","TC2","11",1,"NPE",NA,NA,1,0,0
+"FL_2004-11-02_GEN","SA_2_000","2","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2004-11-02_GEN","SA_8_000","8","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2004-11-02_GEN","SA_11_000","11","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2004-11-02_GEN","SA_14_000","14","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2004-11-02_GEN","PD_7_000","7","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_2004-11-02_GEN","PD_9_000","9","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_2004-11-02_GEN","PD_11_000","11","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_2004-11-02_GEN","PD_13_000","13","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_2004-11-02_GEN","TC2_5_10","5","Circuit Judge","TC2","10",1,"NPE",NA,NA,1,0,0
+"FL_2004-11-02_GEN","TC2_6_22","6","Circuit Judge","TC2","22",1,"NPE",NA,NA,1,0,0
+"FL_2004-11-02_GEN","TC2_8_9","8","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_2004-11-02_GEN","TC2_11_40","11","Circuit Judge","TC2","40",1,"NPE",NA,NA,1,0,0
+"FL_2004-11-02_GEN","TC2_12_2","12","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_2004-11-02_GEN","TC2_19_2","19","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_2004-08-31_PRI-R","SA_11_000","11","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2004-08-31_PRI-R","SA_13_000","13","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2004-08-31_PRI-R","SA_16_000","16","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2004-08-31_PRI-R","PD_7_000","7","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_2004-08-31_PRI-D","PD_8_000","8","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_2004-08-31_PRI","TC2_5_10","5","Circuit Judge","TC2","10",2,"NPE",NA,NA,1,1,0
+"FL_2004-08-31_PRI","TC2_5_24","5","Circuit Judge","TC2","24",1,"NPE",NA,NA,1,0,0
+"FL_2004-08-31_PRI","TC2_6_18","6","Circuit Judge","TC2","18",1,"NPE",NA,NA,1,0,0
+"FL_2004-08-31_PRI","TC2_6_22","6","Circuit Judge","TC2","22",2,"NPE",NA,NA,1,1,0
+"FL_2004-08-31_PRI","TC2_8_9","8","Circuit Judge","TC2","9",2,"NPE",NA,NA,1,1,0
+"FL_2004-08-31_PRI","TC2_11_3","11","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_2004-08-31_PRI","TC2_11_32","11","Circuit Judge","TC2","32",1,"NPE",NA,NA,1,0,0
+"FL_2004-08-31_PRI","TC2_11_40","11","Circuit Judge","TC2","40",2,"NPE",NA,NA,1,1,0
+"FL_2004-08-31_PRI","TC2_11_45","11","Circuit Judge","TC2","45",1,"NPE",NA,NA,1,0,0
+"FL_2004-08-31_PRI","TC2_12_2","12","Circuit Judge","TC2","2",2,"NPE",NA,NA,1,1,0
+"FL_2004-08-31_PRI","TC2_13_17","13","Circuit Judge","TC2","17",1,"NPE",NA,NA,1,0,0
+"FL_2004-08-31_PRI","TC2_15_4","15","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_2004-08-31_PRI","TC2_17_13","17","Circuit Judge","TC2","13",1,"NPE",NA,NA,1,0,0
+"FL_2004-08-31_PRI","TC2_17_51","17","Circuit Judge","TC2","51",1,"NPE",NA,NA,1,0,0
+"FL_2004-08-31_PRI","TC2_19_1","19","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_2004-08-31_PRI","TC2_19_2","19","Circuit Judge","TC2","2",2,"NPE",NA,NA,1,1,0
+"FL_2006-11-07_GEN","AG_FL_000","FL","Attorney General","AG","000",1,"NPE",NA,NA,1,0,0
+"FL_2006-11-07_GEN","TC2_1_15","1","Circuit Judge","TC2","15",1,"NPE",NA,NA,1,0,0
+"FL_2006-11-07_GEN","TC2_4_34","4","Circuit Judge","TC2","34",1,"NPE",NA,NA,1,0,0
+"FL_2006-11-07_GEN","TC2_5_29","5","Circuit Judge","TC2","29",1,"NPE",NA,NA,1,0,0
+"FL_2006-11-07_GEN","TC2_5_31","5","Circuit Judge","TC2","31",1,"NPE",NA,NA,1,0,0
+"FL_2006-11-07_GEN","TC2_6_9","6","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_2006-11-07_GEN","TC2_6_32","6","Circuit Judge","TC2","32",1,"NPE",NA,NA,1,0,0
+"FL_2006-11-07_GEN","TC2_7_27","7","Circuit Judge","TC2","27",1,"NPE",NA,NA,1,0,0
+"FL_2006-11-07_GEN","TC2_8_4","8","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_2006-11-07_GEN","TC2_9_5","9","Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_2006-11-07_GEN","TC2_10_27","10","Circuit Judge","TC2","27",1,"NPE",NA,NA,1,0,0
+"FL_2006-11-07_GEN","TC2_11_78","11","Circuit Judge","TC2","78",1,"NPE",NA,NA,1,0,0
+"FL_2006-11-07_GEN","TC2_11_80","11","Circuit Judge","TC2","80",1,"NPE",NA,NA,1,0,0
+"FL_2006-11-07_GEN","TC2_12_21","12","Circuit Judge","TC2","21",1,"NPE",NA,NA,1,0,0
+"FL_2006-11-07_GEN","TC2_13_32","13","Circuit Judge","TC2","32",1,"NPE",NA,NA,1,0,0
+"FL_2006-11-07_GEN","TC2_13_43","13","Circuit Judge","TC2","43",1,"NPE",NA,NA,1,0,0
+"FL_2006-11-07_GEN","TC2_13_44","13","Circuit Judge","TC2","44",1,"NPE",NA,NA,1,0,0
+"FL_2006-11-07_GEN","TC2_13_45","13","Circuit Judge","TC2","45",1,"NPE",NA,NA,1,0,0
+"FL_2006-11-07_GEN","TC2_15_13","15","Circuit Judge","TC2","13",1,"NPE",NA,NA,1,0,0
+"FL_2006-11-07_GEN","TC2_17_57","17","Circuit Judge","TC2","57",1,"NPE",NA,NA,1,0,0
+"FL_2006-11-07_GEN","TC2_17_58","17","Circuit Judge","TC2","58",1,"NPE",NA,NA,1,0,0
+"FL_2006-11-07_GEN","TC2_18_20","18","Circuit Judge","TC2","20",1,"NPE",NA,NA,1,0,0
+"FL_2006-11-07_GEN","TC2_19_19","19","Circuit Judge","TC2","19",1,"NPE",NA,NA,1,0,0
+"FL_2006-11-07_GEN","TC2_20_29","20","Circuit Judge","TC2","29",1,"NPE",NA,NA,1,0,0
+"FL_2006-11-07_GEN","TC2_20_30","20","Circuit Judge","TC2","30",1,"NPE",NA,NA,1,0,0
+"FL_2006-09-05_PRI-D","AG_FL_000","FL","Attorney General","AG","000",1,"PE",NA,NA,1,0,0
+"FL_2006-09-05_PRI","TC2_1_15","1","Circuit Judge","TC2","15",2,"NPE",NA,NA,1,1,0
+"FL_2006-09-05_PRI","TC2_1_23","1","Circuit Judge","TC2","23",1,"NPE",NA,NA,1,0,0
+"FL_2006-09-05_PRI","TC2_1_24","1","Circuit Judge","TC2","24",1,"NPE",NA,NA,1,0,0
+"FL_2006-09-05_PRI","TC2_4_33","4","Circuit Judge","TC2","33",1,"NPE",NA,NA,1,0,0
+"FL_2006-09-05_PRI","TC2_4_34","4","Circuit Judge","TC2","34",2,"NPE",NA,NA,1,1,0
+"FL_2006-09-05_PRI","TC2_4_35","4","Circuit Judge","TC2","35",1,"NPE",NA,NA,1,0,0
+"FL_2006-09-05_PRI","TC2_5_7","5","Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_2006-09-05_PRI","TC2_5_29","5","Circuit Judge","TC2","29",2,"NPE",NA,NA,1,1,0
+"FL_2006-09-05_PRI","TC2_5_30","5","Circuit Judge","TC2","30",1,"NPE",NA,NA,1,0,0
+"FL_2006-09-05_PRI","TC2_5_31","5","Circuit Judge","TC2","31",2,"NPE",NA,NA,1,1,0
+"FL_2006-09-05_PRI","TC2_6_9","6","Circuit Judge","TC2","9",2,"NPE",NA,NA,1,1,0
+"FL_2006-09-05_PRI","TC2_6_32","6","Circuit Judge","TC2","32",2,"NPE",NA,NA,1,1,0
+"FL_2006-09-05_PRI","TC2_6_45","6","Circuit Judge","TC2","45",1,"NPE",NA,NA,1,0,0
+"FL_2006-09-05_PRI","TC2_7_27","7","Circuit Judge","TC2","27",2,"NPE",NA,NA,1,1,0
+"FL_2006-09-05_PRI","TC2_8_4","8","Circuit Judge","TC2","4",2,"NPE",NA,NA,1,1,0
+"FL_2006-09-05_PRI","TC2_9_5","9","Circuit Judge","TC2","5",2,"NPE",NA,NA,1,1,0
+"FL_2006-09-05_PRI","TC2_9_42","9","Circuit Judge","TC2","42",1,"NPE",NA,NA,1,0,0
+"FL_2006-09-05_PRI","TC2_9_43","9","Circuit Judge","TC2","43",1,"NPE",NA,NA,1,0,0
+"FL_2006-09-05_PRI","TC2_10_27","10","Circuit Judge","TC2","27",2,"NPE",NA,NA,1,1,0
+"FL_2006-09-05_PRI","TC2_10_28","10","Circuit Judge","TC2","28",1,"NPE",NA,NA,1,0,0
+"FL_2006-09-05_PRI","TC2_11_25","11","Circuit Judge","TC2","25",1,"NPE",NA,NA,1,0,0
+"FL_2006-09-05_PRI","TC2_11_42","11","Circuit Judge","TC2","42",1,"NPE",NA,NA,1,0,0
+"FL_2006-09-05_PRI","TC2_11_78","11","Circuit Judge","TC2","78",2,"NPE",NA,NA,1,1,0
+"FL_2006-09-05_PRI","TC2_11_79","11","Circuit Judge","TC2","79",1,"NPE",NA,NA,1,0,0
+"FL_2006-09-05_PRI","TC2_11_80","11","Circuit Judge","TC2","80",2,"NPE",NA,NA,1,1,0
+"FL_2006-09-05_PRI","TC2_12_13","12","Circuit Judge","TC2","13",1,"NPE",NA,NA,1,0,0
+"FL_2006-09-05_PRI","TC2_12_16","12","Circuit Judge","TC2","16",1,"NPE",NA,NA,1,0,0
+"FL_2006-09-05_PRI","TC2_12_21","12","Circuit Judge","TC2","21",2,"NPE",NA,NA,1,1,0
+"FL_2006-09-05_PRI","TC2_13_25","13","Circuit Judge","TC2","25",1,"NPE",NA,NA,1,0,0
+"FL_2006-09-05_PRI","TC2_13_32","13","Circuit Judge","TC2","32",2,"NPE",NA,NA,1,1,0
+"FL_2006-09-05_PRI","TC2_13_43","13","Circuit Judge","TC2","43",2,"NPE",NA,NA,1,1,0
+"FL_2006-09-05_PRI","TC2_13_44","13","Circuit Judge","TC2","44",2,"NPE",NA,NA,1,1,0
+"FL_2006-09-05_PRI","TC2_13_45","13","Circuit Judge","TC2","45",2,"NPE",NA,NA,1,1,0
+"FL_2006-09-05_PRI","TC2_14_11","14","Circuit Judge","TC2","11",1,"NPE",NA,NA,1,0,0
+"FL_2006-09-05_PRI","TC2_15_13","15","Circuit Judge","TC2","13",2,"NPE",NA,NA,1,1,0
+"FL_2006-09-05_PRI","TC2_17_6","17","Circuit Judge","TC2","6",1,"NPE",NA,NA,1,0,0
+"FL_2006-09-05_PRI","TC2_17_57","17","Circuit Judge","TC2","57",2,"NPE",NA,NA,1,1,0
+"FL_2006-09-05_PRI","TC2_17_58","17","Circuit Judge","TC2","58",2,"NPE",NA,NA,1,1,0
+"FL_2006-09-05_PRI","TC2_18_20","18","Circuit Judge","TC2","20",2,"NPE",NA,NA,1,1,0
+"FL_2006-09-05_PRI","TC2_19_19","19","Circuit Judge","TC2","19",2,"NPE",NA,NA,1,1,0
+"FL_2006-09-05_PRI","TC2_20_9","20","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_2006-09-05_PRI","TC2_20_14","20","Circuit Judge","TC2","14",1,"NPE",NA,NA,1,0,0
+"FL_2006-09-05_PRI","TC2_20_26","20","Circuit Judge","TC2","26",1,"NPE",NA,NA,1,0,0
+"FL_2006-09-05_PRI","TC2_20_28","20","Circuit Judge","TC2","28",1,"NPE",NA,NA,1,0,0
+"FL_2006-09-05_PRI","TC2_20_29","20","Circuit Judge","TC2","29",2,"NPE",NA,NA,1,1,0
+"FL_2006-09-05_PRI","TC2_20_30","20","Circuit Judge","TC2","30",2,"NPE",NA,NA,1,1,0
+"FL_2006-09-05_PRI","TC2_20_31","20","Circuit Judge","TC2","31",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","SA_9_000","9","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","SA_14_000","14","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","SA_15_000","15","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","SA_16_000","16","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","PD_1_000","1","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","PD_4_000","4","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","PD_12_000","12","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","PD_19_000","19","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","TC2_2_7","2","Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","TC2_5_3","5","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","TC2_6_8","6","Circuit Judge","TC2","8",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","TC2_9_22","9","Circuit Judge","TC2","22",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","TC2_11_19","11","Circuit Judge","TC2","19",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","TC2_16_4","16","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","TC2_17_3","17","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","TC2_17_21","17","Circuit Judge","TC2","21",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","TC2_17_27","17","Circuit Judge","TC2","27",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","TC2_19_4","19","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","SC_1_000","1",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_1_6","1",NA,"TC1","6",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_1_3","1",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_1_5","1",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_1_1","1",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_1_2","1",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_2_1","2",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_2_2","2",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_2_3","2",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_2_4","2",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_3_2","3",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_3_3","3",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_3_4","3",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_3_5","3",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_3_1","3",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_4_1","4",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_4_2","4",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_4_3","4",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_5_4","5",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_5_5","5",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_5_1","5",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_5_2","5",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_5_3","5",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2008-08-26_PRI-R","SA_4_000","4","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2008-08-26_PRI-R","SA_7_000","7","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2008-08-26_PRI-D","SA_3_000","3","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2008-08-26_PRI-D","SA_15_000","15","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2008-08-26_PRI-R","PD_1_000","1","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_2008-08-26_PRI-R","PD_12_000","12","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_2008-08-26_PRI-R","PD_20_000","20","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_2008-08-26_PRI-D","PD_17_000","17","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_2_3","2","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_2_4","2","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_2_7","2","Circuit Judge","TC2","7",2,"NPE",NA,NA,1,1,0
+"FL_2008-08-26_PRI","TC2_2_16","2","Circuit Judge","TC2","16",1,"NPE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_3_4","3","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_4_11","4","Circuit Judge","TC2","11",1,"NPE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_4_28","4","Circuit Judge","TC2","28",1,"NPE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_5_3","5","Circuit Judge","TC2","3",2,"NPE",NA,NA,1,1,0
+"FL_2008-08-26_PRI","TC2_5_11","5","Circuit Judge","TC2","11",1,"NPE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_6_6","6","Circuit Judge","TC2","6",1,"NPE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_6_8","6","Circuit Judge","TC2","8",2,"NPE",NA,NA,1,1,0
+"FL_2008-08-26_PRI","TC2_9_22","9","Circuit Judge","TC2","22",2,"NPE",NA,NA,1,1,0
+"FL_2008-08-26_PRI","TC2_10_19","10","Circuit Judge","TC2","19",1,"NPE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_11_11","11","Circuit Judge","TC2","11",1,"NPE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_11_18","11","Circuit Judge","TC2","18",1,"NPE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_11_19","11","Circuit Judge","TC2","19",2,"NPE",NA,NA,1,1,0
+"FL_2008-08-26_PRI","TC2_11_38","11","Circuit Judge","TC2","38",1,"NPE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_11_50","11","Circuit Judge","TC2","50",1,"NPE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_11_51","11","Circuit Judge","TC2","51",1,"NPE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_11_55","11","Circuit Judge","TC2","55",1,"NPE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_11_57","11","Circuit Judge","TC2","57",1,"NPE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_12_1","12","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_13_1","13","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_13_2","13","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_13_7","13","Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_13_21","13","Circuit Judge","TC2","21",1,"NPE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_13_30","13","Circuit Judge","TC2","30",1,"NPE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_15_14","15","Circuit Judge","TC2","14",1,"NPE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_15_23","15","Circuit Judge","TC2","23",1,"NPE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_16_4","16","Circuit Judge","TC2","4",2,"NPE",NA,NA,1,1,0
+"FL_2008-08-26_PRI","TC2_17_3","17","Circuit Judge","TC2","3",2,"NPE",NA,NA,1,1,0
+"FL_2008-08-26_PRI","TC2_17_21","17","Circuit Judge","TC2","21",2,"NPE",NA,NA,1,1,0
+"FL_2008-08-26_PRI","TC2_17_27","17","Circuit Judge","TC2","27",2,"NPE",NA,NA,1,1,0
+"FL_2008-08-26_PRI","TC2_17_34","17","Circuit Judge","TC2","34",1,"NPE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_18_17","18","Circuit Judge","TC2","17",1,"NPE",NA,NA,1,0,0
+"FL_2008-08-26_PRI","TC2_19_4","19","Circuit Judge","TC2","4",2,"NPE",NA,NA,1,1,0
+"FL_2010-11-02_GEN","AG_FL_000","FL","Attorney General","AG","000",1,"NPE",NA,NA,1,0,0
+"FL_2010-11-02_GEN","TC2_1_3","1","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_2010-11-02_GEN","TC2_2_9","2","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_2010-11-02_GEN","TC2_6_18","6","Circuit Judge","TC2","18",1,"NPE",NA,NA,1,0,0
+"FL_2010-11-02_GEN","TC2_6_27","6","Circuit Judge","TC2","27",1,"NPE",NA,NA,1,0,0
+"FL_2010-11-02_GEN","TC2_7_5","7","Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_2010-11-02_GEN","TC2_7_10","7","Circuit Judge","TC2","10",1,"NPE",NA,NA,1,0,0
+"FL_2010-11-02_GEN","TC2_18_3","18","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_2010-11-02_GEN","SC_3_000","3",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","SC_4_000","4",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","SC_1_000","1",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","SC_2_000","2",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_1_7","1",NA,"TC1","7",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_1_5","1",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_1_6","1",NA,"TC1","6",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_1_1","1",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_1_2","1",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_1_3","1",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_1_4","1",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_2_1","2",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_2_2","2",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_2_3","2",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_2_4","2",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_2_5","2",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_2_6","2",NA,"TC1","6",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_2_7","2",NA,"TC1","7",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_3_1","3",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_3_2","3",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_4_1","4",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_4_2","4",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_4_3","4",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_4_4","4",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_4_5","4",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_4_6","4",NA,"TC1","6",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_5_1","5",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_5_2","5",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_5_5","5",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_5_3","5",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2010-11-02_GEN","TC1_5_4","5",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2010-08-24_PRI-R","AG_FL_000","FL","Attorney General","AG","000",2,"PE",NA,NA,1,1,0
+"FL_2010-08-24_PRI-D","AG_FL_000","FL","Attorney General","AG","000",1,"PE",NA,NA,1,0,0
+"FL_2010-08-24_PRI","TC2_1_3","1","Circuit Judge","TC2","3",2,"NPE",NA,NA,1,1,0
+"FL_2010-08-24_PRI","TC2_2_9","2","Circuit Judge","TC2","9",2,"NPE",NA,NA,1,1,0
+"FL_2010-08-24_PRI","TC2_4_25","4","Circuit Judge","TC2","25",1,"NPE",NA,NA,1,0,0
+"FL_2010-08-24_PRI","TC2_5_1","5","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_2010-08-24_PRI","TC2_6_18","6","Circuit Judge","TC2","18",2,"NPE",NA,NA,1,1,0
+"FL_2010-08-24_PRI","TC2_6_20","6","Circuit Judge","TC2","20",1,"NPE",NA,NA,1,0,0
+"FL_2010-08-24_PRI","TC2_6_27","6","Circuit Judge","TC2","27",2,"NPE",NA,NA,1,1,0
+"FL_2010-08-24_PRI","TC2_6_29","6","Circuit Judge","TC2","29",1,"NPE",NA,NA,1,0,0
+"FL_2010-08-24_PRI","TC2_6_30","6","Circuit Judge","TC2","30",1,"NPE",NA,NA,1,0,0
+"FL_2010-08-24_PRI","TC2_7_3","7","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_2010-08-24_PRI","TC2_7_5","7","Circuit Judge","TC2","5",2,"NPE",NA,NA,1,1,0
+"FL_2010-08-24_PRI","TC2_7_10","7","Circuit Judge","TC2","10",2,"NPE",NA,NA,1,1,0
+"FL_2010-08-24_PRI","TC2_9_6","9","Circuit Judge","TC2","6",1,"NPE",NA,NA,1,0,0
+"FL_2010-08-24_PRI","TC2_11_45","11","Circuit Judge","TC2","45",1,"NPE",NA,NA,1,0,0
+"FL_2010-08-24_PRI","TC2_11_62","11","Circuit Judge","TC2","62",1,"NPE",NA,NA,1,0,0
+"FL_2010-08-24_PRI","TC2_13_4","13","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_2010-08-24_PRI","TC2_14_2","14","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_2010-08-24_PRI","TC2_15_33","15","Circuit Judge","TC2","33",1,"NPE",NA,NA,1,0,0
+"FL_2010-08-24_PRI","TC2_17_2","17","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_2010-08-24_PRI","TC2_17_4","17","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_2010-08-24_PRI","TC2_17_6","17","Circuit Judge","TC2","6",1,"NPE",NA,NA,1,0,0
+"FL_2010-08-24_PRI","TC2_17_9","17","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_2010-08-24_PRI","TC2_17_15","17","Circuit Judge","TC2","15",1,"NPE",NA,NA,1,0,0
+"FL_2010-08-24_PRI","TC2_17_22","17","Circuit Judge","TC2","22",1,"NPE",NA,NA,1,0,0
+"FL_2010-08-24_PRI","TC2_17_23","17","Circuit Judge","TC2","23",1,"NPE",NA,NA,1,0,0
+"FL_2010-08-24_PRI","TC2_17_24","17","Circuit Judge","TC2","24",1,"NPE",NA,NA,1,0,0
+"FL_2010-08-24_PRI","TC2_17_47","17","Circuit Judge","TC2","47",1,"NPE",NA,NA,1,0,0
+"FL_2010-08-24_PRI","TC2_17_51","17","Circuit Judge","TC2","51",1,"NPE",NA,NA,1,0,0
+"FL_2010-08-24_PRI","TC2_17_53","17","Circuit Judge","TC2","53",1,"NPE",NA,NA,1,0,0
+"FL_2010-08-24_PRI","TC2_18_3","18","Circuit Judge","TC2","3",2,"NPE",NA,NA,1,1,0
+"FL_2010-08-24_PRI","TC2_18_16","18","Circuit Judge","TC2","16",1,"NPE",NA,NA,1,0,0
+"FL_2010-08-24_PRI","TC2_18_24","18","Circuit Judge","TC2","24",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","SA_2_000","2","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","SA_3_000","3","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","SA_11_000","11","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","SA_12_000","12","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","SA_15_000","15","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","SA_16_000","16","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","SA_17_000","17","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","SA_18_000","18","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","TC2_2_2","2","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","TC2_3_5","3","Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","TC2_4_1","4","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","TC2_9_7","9","Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","TC2_10_7","10","Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","TC2_17_45","17","Circuit Judge","TC2","45",1,"NPE",NA,NA,1,0,0
+"FL_2012-11-06_GEN","SC_3_000","3",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","SC_1_000","1",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","SC_2_000","2",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_1_4","1",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_1_2","1",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_1_3","1",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_1_1","1",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_2_2","2",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_2_3","2",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_2_4","2",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_2_1","2",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_3_5","3",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_3_3","3",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_3_4","3",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_3_1","3",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_3_2","3",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_4_1","4",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2012-11-06_GEN","TC1_4_2","4",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2012-08-14_PRI-R","SA_7_000","7","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2012-08-14_PRI-R","SA_12_000","12","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2012-08-14_PRI-R","SA_14_000","14","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2012-08-14_PRI-D","SA_9_000","9","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2012-08-14_PRI-D","SA_11_000","11","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2012-08-14_PRI-D","SA_16_000","16","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2012-08-14_PRI-D","SA_17_000","17","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2012-08-14_PRI-R","PD_1_000","1","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_2012-08-14_PRI-R","PD_4_000","4","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_2012-08-14_PRI-R","PD_5_000","5","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_2012-08-14_PRI-R","PD_18_000","18","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_1_15","1","Circuit Judge","TC2","15",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_2_2","2","Circuit Judge","TC2","2",2,"NPE",NA,NA,1,1,0
+"FL_2012-08-14_PRI","TC2_3_2","3","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_3_5","3","Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_4_1","4","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_4_29","4","Circuit Judge","TC2","29",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_4_34","4","Circuit Judge","TC2","34",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_6_15","6","Circuit Judge","TC2","15",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_6_31","6","Circuit Judge","TC2","31",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_6_45","6","Circuit Judge","TC2","45",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_9_3","9","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_9_7","9","Circuit Judge","TC2","7",2,"NPE",NA,NA,1,1,0
+"FL_2012-08-14_PRI","TC2_9_27","9","Circuit Judge","TC2","27",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_9_42","9","Circuit Judge","TC2","42",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_10_7","10","Circuit Judge","TC2","7",2,"NPE",NA,NA,1,1,0
+"FL_2012-08-14_PRI","TC2_10_27","10","Circuit Judge","TC2","27",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_11_8","11","Circuit Judge","TC2","8",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_11_15","11","Circuit Judge","TC2","15",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_11_47","11","Circuit Judge","TC2","47",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_11_49","11","Circuit Judge","TC2","49",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_13_14","13","Circuit Judge","TC2","14",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_15_2","15","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_15_9","15","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_15_26","15","Circuit Judge","TC2","26",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_17_19","17","Circuit Judge","TC2","19",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_17_35","17","Circuit Judge","TC2","35",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_17_45","17","Circuit Judge","TC2","45",2,"NPE",NA,NA,1,1,0
+"FL_2012-08-14_PRI","TC2_18_26","18","Circuit Judge","TC2","26",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_20_9","20","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_20_18","20","Circuit Judge","TC2","18",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_20_26","20","Circuit Judge","TC2","26",1,"NPE",NA,NA,1,0,0
+"FL_2012-08-14_PRI","TC2_20_29","20","Circuit Judge","TC2","29",1,"NPE",NA,NA,1,0,0
+"FL_2014-11-04_GEN","AG_FL_000","FL","Attorney General","AG","000",1,"NPE",NA,NA,1,0,0
+"FL_2014-11-04_GEN","TC2_5_3","5","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_2014-11-04_GEN","TC2_7_20","7","Circuit Judge","TC2","20",1,"NPE",NA,NA,1,0,0
+"FL_2014-11-04_GEN","TC2_13_8","13","Circuit Judge","TC2","8",1,"NPE",NA,NA,1,0,0
+"FL_2014-11-04_GEN","TC2_13_34","13","Circuit Judge","TC2","34",1,"NPE",NA,NA,1,0,0
+"FL_2014-11-04_GEN","TC2_16_4","16","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_2014-11-04_GEN","TC2_17_16","17","Circuit Judge","TC2","16",1,"NPE",NA,NA,1,0,0
+"FL_2014-11-04_GEN","TC2_18_13","18","Circuit Judge","TC2","13",1,"NPE",NA,NA,1,0,0
+"FL_2014-11-04_GEN","TC2_18_19","18","Circuit Judge","TC2","19",1,"NPE",NA,NA,1,0,0
+"FL_2014-11-04_GEN","TC2_18_23","18","Circuit Judge","TC2","23",1,"NPE",NA,NA,1,0,0
+"FL_2014-11-04_GEN","TC1_1_5","1",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_2014-11-04_GEN","TC1_1_3","1",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2014-11-04_GEN","TC1_1_4","1",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2014-11-04_GEN","TC1_1_1","1",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2014-11-04_GEN","TC1_1_2","1",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2014-11-04_GEN","TC1_2_1","2",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2014-11-04_GEN","TC1_2_2","2",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2014-11-04_GEN","TC1_2_3","2",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2014-11-04_GEN","TC1_3_3","3",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2014-11-04_GEN","TC1_3_1","3",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2014-11-04_GEN","TC1_3_2","3",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2014-11-04_GEN","TC1_4_1","4",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2014-11-04_GEN","TC1_4_2","4",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2014-11-04_GEN","TC1_4_3","4",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2014-11-04_GEN","TC1_4_4","4",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2014-11-04_GEN","TC1_5_4","5",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2014-11-04_GEN","TC1_5_5","5",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_2014-11-04_GEN","TC1_5_6","5",NA,"TC1","6",1,"RE",NA,NA,0,0,0
+"FL_2014-11-04_GEN","TC1_5_7","5",NA,"TC1","7",1,"RE",NA,NA,0,0,0
+"FL_2014-11-04_GEN","TC1_5_1","5",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2014-11-04_GEN","TC1_5_2","5",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2014-11-04_GEN","TC1_5_3","5",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2014-08-26_PRI-D","AG_FL_000","FL","Attorney General","AG","000",1,"PE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_1_22","1","Circuit Judge","TC2","22",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_4_27","4","Circuit Judge","TC2","27",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_5_3","5","Circuit Judge","TC2","3",2,"NPE",NA,NA,1,1,0
+"FL_2014-08-26_PRI","TC2_6_1","6","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_6_2","6","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_6_16","6","Circuit Judge","TC2","16",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_6_21","6","Circuit Judge","TC2","21",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_6_35","6","Circuit Judge","TC2","35",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_7_18","7","Circuit Judge","TC2","18",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_7_20","7","Circuit Judge","TC2","20",2,"NPE",NA,NA,1,1,0
+"FL_2014-08-26_PRI","TC2_7_23","7","Circuit Judge","TC2","23",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_8_11","8","Circuit Judge","TC2","11",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_9_10","9","Circuit Judge","TC2","10",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_9_12","9","Circuit Judge","TC2","12",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_9_18","9","Circuit Judge","TC2","18",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_9_30","9","Circuit Judge","TC2","30",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_9_32","9","Circuit Judge","TC2","32",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_9_33","9","Circuit Judge","TC2","33",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_9_35","9","Circuit Judge","TC2","35",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_9_37","9","Circuit Judge","TC2","37",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_10_16","10","Circuit Judge","TC2","16",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_11_16","11","Circuit Judge","TC2","16",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_11_26","11","Circuit Judge","TC2","26",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_11_27","11","Circuit Judge","TC2","27",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_11_58","11","Circuit Judge","TC2","58",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_11_67","11","Circuit Judge","TC2","67",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_11_70","11","Circuit Judge","TC2","70",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_12_17","12","Circuit Judge","TC2","17",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_13_8","13","Circuit Judge","TC2","8",2,"NPE",NA,NA,1,1,0
+"FL_2014-08-26_PRI","TC2_13_19","13","Circuit Judge","TC2","19",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_13_20","13","Circuit Judge","TC2","20",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_13_34","13","Circuit Judge","TC2","34",2,"NPE",NA,NA,1,1,0
+"FL_2014-08-26_PRI","TC2_14_10","14","Circuit Judge","TC2","10",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_15_14","15","Circuit Judge","TC2","14",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_15_30","15","Circuit Judge","TC2","30",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_16_1","16","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_16_4","16","Circuit Judge","TC2","4",2,"NPE",NA,NA,1,1,0
+"FL_2014-08-26_PRI","TC2_17_8","17","Circuit Judge","TC2","8",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_17_16","17","Circuit Judge","TC2","16",2,"NPE",NA,NA,1,1,0
+"FL_2014-08-26_PRI","TC2_17_17","17","Circuit Judge","TC2","17",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_17_27","17","Circuit Judge","TC2","27",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_18_13","18","Circuit Judge","TC2","13",2,"NPE",NA,NA,1,1,0
+"FL_2014-08-26_PRI","TC2_18_14","18","Circuit Judge","TC2","14",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_18_19","18","Circuit Judge","TC2","19",2,"NPE",NA,NA,1,1,0
+"FL_2014-08-26_PRI","TC2_18_23","18","Circuit Judge","TC2","23",2,"NPE",NA,NA,1,1,0
+"FL_2014-08-26_PRI","TC2_19_4","19","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_20_3","20","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_2014-08-26_PRI","TC2_20_16","20","Circuit Judge","TC2","16",1,"NPE",NA,NA,1,0,0
+"FL_2016-11-08_GEN","SA_2_000","2","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2016-11-08_GEN","SA_9_000","9","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2016-11-08_GEN","SA_13_000","13","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2016-11-08_GEN","SA_16_000","16","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2016-11-08_GEN","PD_4_000","4","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_2016-11-08_GEN","PD_10_000","10","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_2016-11-08_GEN","PD_16_000","16","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_2016-11-08_GEN","TC2_9_4","9","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_2016-11-08_GEN","TC2_11_34","11","Circuit Judge","TC2","34",1,"NPE",NA,NA,1,0,0
+"FL_2016-11-08_GEN","TC2_11_52","11","Circuit Judge","TC2","52",1,"NPE",NA,NA,1,0,0
+"FL_2016-11-08_GEN","TC2_13_24","13","Circuit Judge","TC2","24",1,"NPE",NA,NA,1,0,0
+"FL_2016-11-08_GEN","TC2_15_4","15","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_2016-11-08_GEN","TC2_17_9","17","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_2016-11-08_GEN","TC2_17_15","17","Circuit Judge","TC2","15",1,"NPE",NA,NA,1,0,0
+"FL_2016-11-08_GEN","TC2_18_9","18","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_2016-11-08_GEN","TC2_19_6","19","Circuit Judge","TC2","6",1,"NPE",NA,NA,1,0,0
+"FL_2016-11-08_GEN","SC_2_000","2",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","SC_3_000","3",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","SC_1_000","1",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_1_5","1",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_1_6","1",NA,"TC1","6",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_1_1","1",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_1_2","1",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_1_3","1",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_1_4","1",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_2_6","2",NA,"TC1","6",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_2_7","2",NA,"TC1","7",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_2_8","2",NA,"TC1","8",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_2_9","2",NA,"TC1","9",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_2_000","2",NA,"TC1","000",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_2_1","2",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_2_2","2",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_2_3","2",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_2_4","2",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_2_5","2",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_3_2","3",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_3_1","3",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_4_5","4",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_4_6","4",NA,"TC1","6",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_4_1","4",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_4_2","4",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_4_3","4",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_4_4","4",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_5_4","5",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_5_1","5",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_5_2","5",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2016-11-08_GEN","TC1_5_3","5",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2016-08-30_PRI-R","SA_4_000","4","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2016-08-30_PRI-R","SA_14_000","14","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2016-08-30_PRI-D","SA_2_000","2","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2016-08-30_PRI-D","SA_9_000","9","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2016-08-30_PRI-D","SA_17_000","17","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2016-08-30_PRI-R","PD_4_000","4","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_2016-08-30_PRI-R","PD_19_000","19","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_2016-08-30_PRI-D","PD_15_000","15","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_2016-08-30_PRI","TC2_3_1","3","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_2016-08-30_PRI","TC2_4_9","4","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_2016-08-30_PRI","TC2_4_25","4","Circuit Judge","TC2","25",1,"NPE",NA,NA,1,0,0
+"FL_2016-08-30_PRI","TC2_7_4","7","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_2016-08-30_PRI","TC2_7_10","7","Circuit Judge","TC2","10",1,"NPE",NA,NA,1,0,0
+"FL_2016-08-30_PRI","TC2_7_13","7","Circuit Judge","TC2","13",1,"NPE",NA,NA,1,0,0
+"FL_2016-08-30_PRI","TC2_7_17","7","Circuit Judge","TC2","17",1,"NPE",NA,NA,1,0,0
+"FL_2016-08-30_PRI","TC2_9_4","9","Circuit Judge","TC2","4",2,"NPE",NA,NA,1,1,0
+"FL_2016-08-30_PRI","TC2_9_14","9","Circuit Judge","TC2","14",1,"NPE",NA,NA,1,0,0
+"FL_2016-08-30_PRI","TC2_11_9","11","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_2016-08-30_PRI","TC2_11_34","11","Circuit Judge","TC2","34",2,"NPE",NA,NA,1,1,0
+"FL_2016-08-30_PRI","TC2_11_52","11","Circuit Judge","TC2","52",2,"NPE",NA,NA,1,1,0
+"FL_2016-08-30_PRI","TC2_11_66","11","Circuit Judge","TC2","66",1,"NPE",NA,NA,1,0,0
+"FL_2016-08-30_PRI","TC2_11_74","11","Circuit Judge","TC2","74",1,"NPE",NA,NA,1,0,0
+"FL_2016-08-30_PRI","TC2_13_3","13","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_2016-08-30_PRI","TC2_13_24","13","Circuit Judge","TC2","24",2,"NPE",NA,NA,1,1,0
+"FL_2016-08-30_PRI","TC2_15_1","15","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_2016-08-30_PRI","TC2_15_4","15","Circuit Judge","TC2","4",2,"NPE",NA,NA,1,1,0
+"FL_2016-08-30_PRI","TC2_17_9","17","Circuit Judge","TC2","9",2,"NPE",NA,NA,1,1,0
+"FL_2016-08-30_PRI","TC2_17_15","17","Circuit Judge","TC2","15",2,"NPE",NA,NA,1,1,0
+"FL_2016-08-30_PRI","TC2_17_23","17","Circuit Judge","TC2","23",1,"NPE",NA,NA,1,0,0
+"FL_2016-08-30_PRI","TC2_17_24","17","Circuit Judge","TC2","24",1,"NPE",NA,NA,1,0,0
+"FL_2016-08-30_PRI","TC2_18_9","18","Circuit Judge","TC2","9",2,"NPE",NA,NA,1,1,0
+"FL_2016-08-30_PRI","TC2_19_1","19","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_2016-08-30_PRI","TC2_19_6","19","Circuit Judge","TC2","6",2,"NPE",NA,NA,1,1,0
+"FL_2018-11-06_GEN","AG_FL_000","FL","Attorney General","AG","000",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","SA_20_000","20","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_2_12","2","Circuit Judge","TC2","12",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_6_4","6","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_7_15","7","Circuit Judge","TC2","15",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_8_8","8","Circuit Judge","TC2","8",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_9_41","9","Circuit Judge","TC2","41",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_10_10","10","Circuit Judge","TC2","10",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_11_14","11","Circuit Judge","TC2","14",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_13_25","13","Circuit Judge","TC2","25",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_15_13","15","Circuit Judge","TC2","13",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_15_18","15","Circuit Judge","TC2","18",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_15_25","15","Circuit Judge","TC2","25",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_17_38","17","Circuit Judge","TC2","38",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_17_46","17","Circuit Judge","TC2","46",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","TC2_19_19","19","Circuit Judge","TC2","19",1,"NPE",NA,NA,1,0,0
+"FL_2018-11-06_GEN","SC_1_000","1",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_1_1","1",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_1_2","1",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_1_3","1",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_1_4","1",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_1_5","1",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_2_1","2",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_2_4","2",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_2_2","2",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_2_3","2",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_3_1","3",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_3_4","3",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_3_2","3",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_3_3","3",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_4_1","4",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_4_2","4",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_4_3","4",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2018-11-06_GEN","TC1_5_1","5",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2018-08-28_PRI-R","AG_FL_000","FL","Attorney General","AG","000",1,"PE",NA,NA,1,0,0
+"FL_2018-08-28_PRI-D","AG_FL_000","FL","Attorney General","AG","000",1,"PE",NA,NA,1,0,0
+"FL_2018-08-28_PRI-R","SA_20_000","20","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2018-08-28_PRI","TC2_2_12","2","Circuit Judge","TC2","12",2,"NPE",NA,NA,1,1,0
+"FL_2018-08-28_PRI","TC2_4_18","4","Circuit Judge","TC2","18",1,"NPE",NA,NA,1,0,0
+"FL_2018-08-28_PRI","TC2_5_4","5","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_2018-08-28_PRI","TC2_6_4","6","Circuit Judge","TC2","4",2,"NPE",NA,NA,1,1,0
+"FL_2018-08-28_PRI","TC2_6_9","6","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_2018-08-28_PRI","TC2_6_36","6","Circuit Judge","TC2","36",1,"NPE",NA,NA,1,0,0
+"FL_2018-08-28_PRI","TC2_6_40","6","Circuit Judge","TC2","40",1,"NPE",NA,NA,1,0,0
+"FL_2018-08-28_PRI","TC2_6_45","6","Circuit Judge","TC2","45",1,"NPE",NA,NA,1,0,0
+"FL_2018-08-28_PRI","TC2_7_15","7","Circuit Judge","TC2","15",2,"NPE",NA,NA,1,1,0
+"FL_2018-08-28_PRI","TC2_8_8","8","Circuit Judge","TC2","8",2,"NPE",NA,NA,1,1,0
+"FL_2018-08-28_PRI","TC2_9_15","9","Circuit Judge","TC2","15",1,"NPE",NA,NA,1,0,0
+"FL_2018-08-28_PRI","TC2_9_26","9","Circuit Judge","TC2","26",1,"NPE",NA,NA,1,0,0
+"FL_2018-08-28_PRI","TC2_9_41","9","Circuit Judge","TC2","41",2,"NPE",NA,NA,1,1,0
+"FL_2018-08-28_PRI","TC2_10_10","10","Circuit Judge","TC2","10",2,"NPE",NA,NA,1,1,0
+"FL_2018-08-28_PRI","TC2_10_11","10","Circuit Judge","TC2","11",1,"NPE",NA,NA,1,0,0
+"FL_2018-08-28_PRI","TC2_11_8","11","Circuit Judge","TC2","8",1,"NPE",NA,NA,1,0,0
+"FL_2018-08-28_PRI","TC2_11_14","11","Circuit Judge","TC2","14",2,"NPE",NA,NA,1,1,0
+"FL_2018-08-28_PRI","TC2_11_25","11","Circuit Judge","TC2","25",1,"NPE",NA,NA,1,0,0
+"FL_2018-08-28_PRI","TC2_12_12","12","Circuit Judge","TC2","12",1,"NPE",NA,NA,1,0,0
+"FL_2018-08-28_PRI","TC2_13_25","13","Circuit Judge","TC2","25",2,"NPE",NA,NA,1,1,0
+"FL_2018-08-28_PRI","TC2_15_13","15","Circuit Judge","TC2","13",2,"NPE",NA,NA,1,1,0
+"FL_2018-08-28_PRI","TC2_15_18","15","Circuit Judge","TC2","18",2,"NPE",NA,NA,1,1,0
+"FL_2018-08-28_PRI","TC2_15_25","15","Circuit Judge","TC2","25",2,"NPE",NA,NA,1,1,0
+"FL_2018-08-28_PRI","TC2_17_8","17","Circuit Judge","TC2","8",1,"NPE",NA,NA,1,0,0
+"FL_2018-08-28_PRI","TC2_17_36","17","Circuit Judge","TC2","36",1,"NPE",NA,NA,1,0,0
+"FL_2018-08-28_PRI","TC2_17_38","17","Circuit Judge","TC2","38",2,"NPE",NA,NA,1,1,0
+"FL_2018-08-28_PRI","TC2_17_39","17","Circuit Judge","TC2","39",1,"NPE",NA,NA,1,0,0
+"FL_2018-08-28_PRI","TC2_17_42","17","Circuit Judge","TC2","42",1,"NPE",NA,NA,1,0,0
+"FL_2018-08-28_PRI","TC2_17_43","17","Circuit Judge","TC2","43",1,"NPE",NA,NA,1,0,0
+"FL_2018-08-28_PRI","TC2_17_46","17","Circuit Judge","TC2","46",2,"NPE",NA,NA,1,1,0
+"FL_2018-08-28_PRI","TC2_18_24","18","Circuit Judge","TC2","24",1,"NPE",NA,NA,1,0,0
+"FL_2018-08-28_PRI","TC2_19_19","19","Circuit Judge","TC2","19",2,"NPE",NA,NA,1,1,0
+"FL_2018-08-28_PRI","TC2_20_8","20","Circuit Judge","TC2","8",1,"NPE",NA,NA,1,0,0
+"FL_2020-11-03_GEN","SA_7_000","7","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2020-11-03_GEN","SA_9_000","9","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2020-11-03_GEN","SA_12_000","12","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2020-11-03_GEN","SA_13_000","13","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2020-11-03_GEN","SA_16_000","16","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2020-11-03_GEN","SA_17_000","17","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2020-11-03_GEN","PD_17_000","17","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_2020-11-03_GEN","TC2_2_4","2","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_2020-11-03_GEN","TC2_7_14","7","Circuit Judge","TC2","14",1,"NPE",NA,NA,1,0,0
+"FL_2020-11-03_GEN","TC2_15_30","15","Circuit Judge","TC2","30",1,"NPE",NA,NA,1,0,0
+"FL_2020-11-03_GEN","TC2_17_16","17","Circuit Judge","TC2","16",1,"NPE",NA,NA,1,0,0
+"FL_2020-11-03_GEN","SC_1_000","1",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_2020-11-03_GEN","TC1_1_3","1",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2020-11-03_GEN","TC1_1_4","1",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2020-11-03_GEN","TC1_1_5","1",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_2020-11-03_GEN","TC1_1_6","1",NA,"TC1","6",1,"RE",NA,NA,0,0,0
+"FL_2020-11-03_GEN","TC1_1_1","1",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2020-11-03_GEN","TC1_1_2","1",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2020-11-03_GEN","TC1_2_1","2",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2020-11-03_GEN","TC1_2_2","2",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2020-11-03_GEN","TC1_2_3","2",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2020-11-03_GEN","TC1_2_4","2",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2020-11-03_GEN","TC1_3_5","3",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_2020-11-03_GEN","TC1_3_3","3",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2020-11-03_GEN","TC1_3_4","3",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2020-11-03_GEN","TC1_3_1","3",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2020-11-03_GEN","TC1_3_2","3",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2020-11-03_GEN","TC1_4_1","4",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2020-11-03_GEN","TC1_4_2","4",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2020-11-03_GEN","TC1_4_3","4",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2020-11-03_GEN","TC1_5_5","5",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_2020-11-03_GEN","TC1_5_6","5",NA,"TC1","6",1,"RE",NA,NA,0,0,0
+"FL_2020-11-03_GEN","TC1_5_1","5",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2020-11-03_GEN","TC1_5_3","5",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2020-11-03_GEN","TC1_5_4","5",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2020-08-18_PRI-R","SA_3_000","3","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2020-08-18_PRI-R","SA_12_000","12","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2020-08-18_PRI-R","SA_14_000","14","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2020-08-18_PRI-R","SA_16_000","16","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2020-08-18_PRI-D","SA_9_000","9","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2020-08-18_PRI-D","SA_11_000","11","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2020-08-18_PRI-D","SA_17_000","17","State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2020-08-18_PRI-R","PD_7_000","7","Public Defender","PD","000",2,"PE",NA,NA,1,1,0
+"FL_2020-08-18_PRI-D","PD_2_000","2","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_2020-08-18_PRI-D","PD_17_000","17","Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_2_4","2","Circuit Judge","TC2","4",2,"NPE",NA,NA,1,1,0
+"FL_2020-08-18_PRI","TC2_2_16","2","Circuit Judge","TC2","16",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_5_22","5","Circuit Judge","TC2","22",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_6_28","6","Circuit Judge","TC2","28",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_6_44","6","Circuit Judge","TC2","44",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_7_6","7","Circuit Judge","TC2","6",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_7_14","7","Circuit Judge","TC2","14",2,"NPE",NA,NA,1,1,0
+"FL_2020-08-18_PRI","TC2_7_27","7","Circuit Judge","TC2","27",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_9_1","9","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_9_21","9","Circuit Judge","TC2","21",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_9_34","9","Circuit Judge","TC2","34",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_9_39","9","Circuit Judge","TC2","39",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_11_55","11","Circuit Judge","TC2","55",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_11_57","11","Circuit Judge","TC2","57",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_11_65","11","Circuit Judge","TC2","65",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_11_67","11","Circuit Judge","TC2","67",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_11_75","11","Circuit Judge","TC2","75",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_13_9","13","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_13_19","13","Circuit Judge","TC2","19",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_13_30","13","Circuit Judge","TC2","30",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_13_31","13","Circuit Judge","TC2","31",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_13_39","13","Circuit Judge","TC2","39",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_15_16","15","Circuit Judge","TC2","16",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_15_30","15","Circuit Judge","TC2","30",2,"NPE",NA,NA,1,1,0
+"FL_2020-08-18_PRI","TC2_17_16","17","Circuit Judge","TC2","16",2,"NPE",NA,NA,1,1,0
+"FL_2020-08-18_PRI","TC2_17_18","17","Circuit Judge","TC2","18",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_17_27","17","Circuit Judge","TC2","27",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_17_30","17","Circuit Judge","TC2","30",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_17_50","17","Circuit Judge","TC2","50",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_18_15","18","Circuit Judge","TC2","15",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_18_18","18","Circuit Judge","TC2","18",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_18_21","18","Circuit Judge","TC2","21",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_18_25","18","Circuit Judge","TC2","25",1,"NPE",NA,NA,1,0,0
+"FL_2020-08-18_PRI","TC2_19_11","19","Circuit Judge","TC2","11",1,"NPE",NA,NA,1,0,0
+"FL_2022-11-08_GEN","AG_FL_000","FL","Attorney General","AG","000",1,"NPE",NA,NA,1,0,0
+"FL_2022-11-08_GEN","SA_6_000","6","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2022-11-08_GEN","TC2_8_12","8","Circuit Judge","TC2","12",1,"NPE",NA,NA,1,0,0
+"FL_2022-11-08_GEN","TC2_17_23","17","Circuit Judge","TC2","23",1,"NPE",NA,NA,1,0,0
+"FL_2022-11-08_GEN","TC2_17_51","17","Circuit Judge","TC2","51",1,"NPE",NA,NA,1,0,0
+"FL_2022-11-08_GEN","SC_5_000","5",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","SC_1_000","1",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","SC_2_000","2",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","SC_3_000","3",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","SC_4_000","4",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_1_5","1",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_1_3","1",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_1_4","1",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_1_1","1",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_1_2","1",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_2_1","2",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_2_2","2",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_2_3","2",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_2_4","2",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_2_5","2",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_2_6","2",NA,"TC1","6",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_2_7","2",NA,"TC1","7",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_2_8","2",NA,"TC1","8",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_3_2","3",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_3_1","3",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_4_7","4",NA,"TC1","7",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_4_5","4",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_4_6","4",NA,"TC1","6",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_4_1","4",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_4_2","4",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_4_3","4",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_4_4","4",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_5_5","5",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_5_6","5",NA,"TC1","6",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_5_1","5",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_5_2","5",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_5_3","5",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2022-11-08_GEN","TC1_5_4","5",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2022-08-23_PRI-D","AG_FL_000","FL","Attorney General","AG","000",1,"PE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_6_22","6","Circuit Judge","TC2","22",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_6_27","6","Circuit Judge","TC2","27",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_8_12","8","Circuit Judge","TC2","12",2,"NPE",NA,NA,1,1,0
+"FL_2022-08-23_PRI","TC2_9_9","9","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_9_14","9","Circuit Judge","TC2","14",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_9_44","9","Circuit Judge","TC2","44",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_11_3","11","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_11_20","11","Circuit Judge","TC2","20",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_11_34","11","Circuit Judge","TC2","34",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_11_52","11","Circuit Judge","TC2","52",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_13_6","13","Circuit Judge","TC2","6",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_13_37","13","Circuit Judge","TC2","37",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_15_23","15","Circuit Judge","TC2","23",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_17_9","17","Circuit Judge","TC2","9",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_17_14","17","Circuit Judge","TC2","14",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_17_23","17","Circuit Judge","TC2","23",2,"NPE",NA,NA,1,1,0
+"FL_2022-08-23_PRI","TC2_17_51","17","Circuit Judge","TC2","51",2,"NPE",NA,NA,1,1,0
+"FL_2022-08-23_PRI","TC2_18_3","18","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_19_1","19","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_2022-08-23_PRI","TC2_19_2","19","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0

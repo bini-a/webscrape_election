@@ -1,0 +1,62 @@
+"","election_id","office_id","district","office_local","office","seat","contested","n_winners","selection_method","retention_method","open_seat"
+"1","IN_2014-05-06_PRI","TC2_Allen_38_1","Allen_38","Judge of the Circuit Court","TC2","1",0,NA,NA,NA,NA
+"2","IN_2014-05-06_PRI","TC2_Benton_76_1","Benton_76","Judge of the Circuit Court","TC2","1",0,NA,NA,NA,NA
+"3","IN_2014-05-06_PRI","TC2_Clark_4_1","Clark_4","Judge of the Circuit Court","TC2","1",1,NA,NA,NA,NA
+"4","IN_2014-05-06_PRI","TC2_Clark_4_1","Clark_4","Judge of the Circuit Court","TC2","1",1,NA,NA,NA,NA
+"5","IN_2014-05-06_PRI","TC2_Clark_4_2","Clark_4","Judge of the Circuit Court","TC2","2",1,NA,NA,NA,NA
+"6","IN_2014-05-06_PRI","TC2_Clark_4_2","Clark_4","Judge of the Circuit Court","TC2","2",1,NA,NA,NA,NA
+"7","IN_2014-05-06_PRI","TC1_Adams_1_1","Adams_1","Judge of the Superior Court","TC1","1",0,NA,NA,NA,NA
+"8","IN_2014-05-06_PRI","TC2_Clark_4_3","Clark_4","Judge of the Circuit Court","TC2","3",0,NA,NA,NA,NA
+"9","IN_2014-05-06_PRI","TC1_Bartholomew_1_2","Bartholomew_1","Judge of the Superior Court","TC1","2",1,NA,NA,NA,NA
+"10","IN_2014-05-06_PRI","TC1_Bartholomew_1_2","Bartholomew_1","Judge of the Superior Court","TC1","2",1,NA,NA,NA,NA
+"11","IN_2014-05-06_PRI","TC1_Bartholomew_1_2","Bartholomew_1","Judge of the Superior Court","TC1","2",1,NA,NA,NA,NA
+"12","IN_2014-05-06_PRI","TC2_Daviess_49_1","Daviess_49","Judge of the Circuit Court","TC2","1",0,NA,NA,NA,NA
+"13","IN_2014-05-06_PRI","TC1_Boone_1_1","Boone_1","Judge of the Superior Court","TC1","1",0,NA,NA,NA,NA
+"14","IN_2014-05-06_PRI","TC1_Boone_1_2","Boone_1","Judge of the Superior Court","TC1","2",1,NA,NA,NA,NA
+"15","IN_2014-05-06_PRI","TC1_Boone_1_2","Boone_1","Judge of the Superior Court","TC1","2",1,NA,NA,NA,NA
+"16","IN_2014-05-06_PRI","TC2_Delaware_46_3","Delaware_46","Judge of the Circuit Court","TC2","3",0,NA,NA,NA,NA
+"17","IN_2014-05-06_PRI","TC2_Delaware_46_4","Delaware_46","Judge of the Circuit Court","TC2","4",0,NA,NA,NA,NA
+"18","IN_2014-05-06_PRI","TC2_Delaware_46_5","Delaware_46","Judge of the Circuit Court","TC2","5",0,NA,NA,NA,NA
+"19","IN_2014-05-06_PRI","TC1_Carroll_1_1","Carroll_1","Judge of the Superior Court","TC1","1",0,NA,NA,NA,NA
+"20","IN_2014-05-06_PRI","TC2_Dubois_57_1","Dubois_57","Judge of the Circuit Court","TC2","1",1,NA,NA,NA,NA
+"21","IN_2014-05-06_PRI","TC2_Dubois_57_1","Dubois_57","Judge of the Circuit Court","TC2","1",1,NA,NA,NA,NA
+"22","IN_2014-05-06_PRI","TC1_Clinton_1_1","Clinton_1","Judge of the Superior Court","TC1","1",0,NA,NA,NA,NA
+"23","IN_2014-05-06_PRI","TC1_Daviess_1_1","Daviess_1","Judge of the Superior Court","TC1","1",0,NA,NA,NA,NA
+"24","IN_2014-05-06_PRI","TC1_Dearborn_1_1","Dearborn_1","Judge of the Superior Court","TC1","1",0,NA,NA,NA,NA
+"25","IN_2014-05-06_PRI","TC1_Decatur_1_1","Decatur_1","Judge of the Superior Court","TC1","1",0,NA,NA,NA,NA
+"26","IN_2014-05-06_PRI","TC1_DeKalb_1_1","DeKalb_1","Judge of the Superior Court","TC1","1",0,NA,NA,NA,NA
+"27","IN_2014-05-06_PRI","TC1_Elkhart_1_1","Elkhart_1","Judge of the Superior Court","TC1","1",0,NA,NA,NA,NA
+"28","IN_2014-05-06_PRI","DA_Adams_26_1","Adams_26","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"29","IN_2014-05-06_PRI","DA_Adams_26_1","Adams_26","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"30","IN_2014-05-06_PRI","TC1_Elkhart_1_3","Elkhart_1","Judge of the Superior Court","TC1","3",1,NA,NA,NA,NA
+"31","IN_2014-05-06_PRI","TC1_Elkhart_1_3","Elkhart_1","Judge of the Superior Court","TC1","3",1,NA,NA,NA,NA
+"32","IN_2014-05-06_PRI","TC1_Elkhart_1_3","Elkhart_1","Judge of the Superior Court","TC1","3",1,NA,NA,NA,NA
+"33","IN_2014-05-06_PRI","DA_Allen_38_1","Allen_38","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"34","IN_2014-05-06_PRI","DA_Allen_38_1","Allen_38","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"35","IN_2014-05-06_PRI","TC1_Elkhart_1_3","Elkhart_1","Judge of the Superior Court","TC1","3",1,NA,NA,NA,NA
+"36","IN_2014-05-06_PRI","TC1_Elkhart_1_4","Elkhart_1","Judge of the Superior Court","TC1","4",0,NA,NA,NA,NA
+"37","IN_2014-05-06_PRI","DA_Bartholomew_9_1","Bartholomew_9","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA
+"38","IN_2014-05-06_PRI","TC1_Elkhart_1_5","Elkhart_1","Judge of the Superior Court","TC1","5",0,NA,NA,NA,NA
+"39","IN_2014-05-06_PRI","DA_Benton_76_1","Benton_76","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA
+"40","IN_2014-05-06_PRI","DA_Blackford_71_1","Blackford_71","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA
+"41","IN_2014-05-06_PRI","DA_Boone_20_1","Boone_20","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA
+"42","IN_2014-05-06_PRI","DA_Brown_88_1","Brown_88","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA
+"43","IN_2014-05-06_PRI","DA_Carroll_74_1","Carroll_74","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA
+"44","IN_2014-05-06_PRI","DA_Cass_29_1","Cass_29","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"45","IN_2014-05-06_PRI","DA_Cass_29_1","Cass_29","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"46","IN_2014-05-06_PRI","DA_Clark_4_1","Clark_4","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"47","IN_2014-05-06_PRI","DA_Clark_4_1","Clark_4","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"48","IN_2014-05-06_PRI","DA_Clay_13_1","Clay_13","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"49","IN_2014-05-06_PRI","DA_Clay_13_1","Clay_13","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"50","IN_2014-05-06_PRI","DA_Clinton_45_1","Clinton_45","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA
+"51","IN_2014-05-06_PRI","DA_Crawford_77_1","Crawford_77","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"52","IN_2014-05-06_PRI","DA_Crawford_77_1","Crawford_77","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"53","IN_2014-05-06_PRI","DA_Crawford_77_1","Crawford_77","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"54","IN_2014-05-06_PRI","DA_Daviess_49_1","Daviess_49","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA
+"55","IN_2014-05-06_PRI","DA_Dearborn_7_1","Dearborn_7","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA
+"56","IN_2014-05-06_PRI","DA_Decatur_69_1","Decatur_69","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"57","IN_2014-05-06_PRI","DA_Decatur_69_1","Decatur_69","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"58","IN_2014-05-06_PRI","DA_DeKalb_75_1","DeKalb_75","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA
+"59","IN_2014-05-06_PRI","DA_Delaware_46_1","Delaware_46","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA
+"60","IN_2014-05-06_PRI","DA_Dubois_57_1","Dubois_57","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA
+"61","IN_2014-05-06_PRI","DA_Elkhart_34_1","Elkhart_34","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA

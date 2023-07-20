@@ -1,0 +1,9 @@
+"election_id","office_id","candidate_id","candidate","party","votes","vote_share","winner"
+"FL_1982-11-02_GEN","TC2_18_3",NA,"Edward Jackson","NON",60025,0.567,1
+"FL_1982-11-02_GEN","TC2_18_3",NA,"Jere Lober","NON",45896,0.433,0
+"FL_1982-11-02_GEN","TC2_9_2",NA,"Brian Sanders","NON",43161,0.459,0
+"FL_1982-11-02_GEN","TC2_9_2",NA,"Ted Coleman","NON",50781,0.541,1
+"FL_1982-11-02_GEN","TC2_9_3",NA,"James Byrd","NON",47729,0.509,1
+"FL_1982-11-02_GEN","TC2_9_3",NA,"James Corbett","NON",46106,0.491,0
+"FL_1982-11-02_GEN","TC2_9_5",NA,"Richard Conrad","NON",41417,0.453,0
+"FL_1982-11-02_GEN","TC2_9_5",NA,"Thomas Kirk","NON",50075,0.547,1

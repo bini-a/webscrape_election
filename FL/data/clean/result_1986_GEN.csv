@@ -1,0 +1,11 @@
+"election_id","office_id","candidate_id","candidate","party","votes","vote_share","winner"
+"FL_1986-11-04_GEN","AG_FL_000",NA,"Jim Watt","REP",1341090,0.414,0
+"FL_1986-11-04_GEN","AG_FL_000",NA,"Robert Butterworth","DEM",1900890,0.586,1
+"FL_1986-11-04_GEN","TC2_11_13",NA,"Joseph Nadler","NON",167051,0.51,1
+"FL_1986-11-04_GEN","TC2_11_13",NA,"Leah Simms","NON",160210,0.49,0
+"FL_1986-11-04_GEN","TC2_13_7",NA,"Bob Mitcham","NON",79919,0.484,0
+"FL_1986-11-04_GEN","TC2_13_7",NA,"Edward Ward","NON",85222,0.516,1
+"FL_1986-11-04_GEN","TC2_18_4",NA,"Ned Julian, Jr.","NON",72337,0.494,0
+"FL_1986-11-04_GEN","TC2_18_4",NA,"O. Eaton","NON",74187,0.506,1
+"FL_1986-11-04_GEN","TC2_2_1",NA,"L. Smith","NON",32506,0.529,1
+"FL_1986-11-04_GEN","TC2_2_1",NA,"Phil Padovano","NON",28952,0.471,0

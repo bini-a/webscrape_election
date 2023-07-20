@@ -1,0 +1,4 @@
+"election_id","office_id","candidate_id","candidate","party","votes","vote_share","winner"
+"FL_1996-10-01_PRI","TC2_2_2",NA,"Ed Rude","NON",16812,0.266,1
+"FL_1996-10-01_PRI","TC2_2_2",NA,"Kathleen Dekker","NON",30067,0.476,1
+"FL_1996-10-01_PRI","TC2_2_2",NA,"Marva Davis","NON",16260,0.258,0

@@ -1,0 +1,42 @@
+"election_id","office_id","district","office_local","office","seat","n_winners","selection_method","retention_method","open_seat","contested","runoff","special"
+"FL_2008-11-04_GEN","SA_9_000","9","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","SA_14_000","14","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","SA_15_000","15","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","SA_16_000","16","State Attorney","SA","000",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","PD_1_000","1","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","PD_4_000","4","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","PD_12_000","12","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","PD_19_000","19","Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","TC2_2_7","2","Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","TC2_5_3","5","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","TC2_6_8","6","Circuit Judge","TC2","8",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","TC2_9_22","9","Circuit Judge","TC2","22",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","TC2_11_19","11","Circuit Judge","TC2","19",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","TC2_16_4","16","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","TC2_17_3","17","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","TC2_17_21","17","Circuit Judge","TC2","21",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","TC2_17_27","17","Circuit Judge","TC2","27",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","TC2_19_4","19","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_2008-11-04_GEN","SC_1_000","1",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_1_6","1",NA,"TC1","6",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_1_3","1",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_1_5","1",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_1_1","1",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_1_2","1",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_2_1","2",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_2_2","2",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_2_3","2",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_2_4","2",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_3_2","3",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_3_3","3",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_3_4","3",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_3_5","3",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_3_1","3",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_4_1","4",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_4_2","4",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_4_3","4",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_5_4","5",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_5_5","5",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_5_1","5",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_5_2","5",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_2008-11-04_GEN","TC1_5_3","5",NA,"TC1","3",1,"RE",NA,NA,0,0,0

@@ -1,0 +1,25 @@
+"election_id","office_id","district","office_local","office","seat","n_winners","selection_method","retention_method","open_seat","contested","runoff","special"
+"FL_1980-09-09_PRI-D","SA_2_000",2,"State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1980-09-09_PRI-D","SA_5_000",5,"State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1980-09-09_PRI-D","SA_7_000",7,"State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1980-09-09_PRI-D","SA_14_000",14,"State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1980-09-09_PRI-D","SA_16_000",16,"State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1980-09-09_PRI-D","PD_2_000",2,"Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_1980-09-09_PRI-D","PD_3_000",3,"Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_1980-09-09_PRI-D","PD_5_000",5,"Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_1980-09-09_PRI-D","PD_7_000",7,"Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_1980-09-09_PRI-D","PD_9_000",9,"Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_1980-09-09_PRI-D","PD_10_000",10,"Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_1980-09-09_PRI","TC2_4_5",4,"Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_1980-09-09_PRI","TC2_6_2",6,"Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_1980-09-09_PRI","TC2_7_5",7,"Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_1980-09-09_PRI","TC2_9_2",9,"Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_1980-09-09_PRI","TC2_10_3",10,"Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1980-09-09_PRI","TC2_11_3",11,"Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1980-09-09_PRI","TC2_11_7",11,"Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_1980-09-09_PRI","TC2_11_8",11,"Circuit Judge","TC2","8",1,"NPE",NA,NA,1,0,0
+"FL_1980-09-09_PRI","TC2_13_7",13,"Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_1980-09-09_PRI","TC2_15_3",15,"Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1980-09-09_PRI","TC2_17_4",17,"Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_1980-09-09_PRI","TC2_17_8",17,"Circuit Judge","TC2","8",2,"NPE",NA,NA,1,1,0
+"FL_1980-09-09_PRI","TC2_18_1",18,"Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0

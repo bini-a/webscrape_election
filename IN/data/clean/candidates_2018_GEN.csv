@@ -1,0 +1,99 @@
+"","District_orig","County","election_id","office_id","candidate_id","candidate_name","first_name","last_name","prefix","suffix","gender","race","ethinicity","age","incumbent"
+"1","Clay","Clay","IN_2018-11-06_GEN","TC2_Clay_1_1",NA,"Joseph Dom Trout","Joseph","Trout",NA,NA,NA,NA,NA,NA,NA
+"2","Delaware","Delaware","IN_2018-11-06_GEN","TC2_Delaware_1_1",NA,"Kimberly S. Dowling","Kimberly","Dowling",NA,NA,NA,NA,NA,NA,NA
+"3","Brown","Brown","IN_2018-11-06_GEN","TC2_Brown_1_1",NA,"Kristopher Kritzer","Kristopher","Kritzer",NA,NA,NA,NA,NA,NA,NA
+"4","Clark","Clark","IN_2018-11-06_GEN","TC2_Clark_1_1",NA,"Vicki Carmichael","Vicki","Carmichael",NA,NA,NA,NA,NA,NA,NA
+"5","Boone","Boone","IN_2018-11-06_GEN","TC2_Boone_1_1",NA,"Pam Buchanan","Pam","Buchanan",NA,NA,NA,NA,NA,NA,NA
+"6","Carroll","Carroll","IN_2018-11-06_GEN","TC2_Carroll_1_1",NA,"Benjamin A. Diener","Benjamin","Diener",NA,NA,NA,NA,NA,NA,NA
+"7","Clinton","Clinton","IN_2018-11-06_GEN","TC2_Clinton_1_1",NA,"Bradley K. Mohler","Bradley","Mohler",NA,NA,NA,NA,NA,NA,NA
+"8","Blackford","Blackford","IN_2018-11-06_GEN","TC2_Blackford_1_1",NA,"Brian Bade","Brian","Bade",NA,NA,NA,NA,NA,NA,NA
+"9","Adams","Adams","IN_2018-11-06_GEN","TC2_Adams_1_1",NA,"Chad E. Kukelhan","Chad","Kukelhan",NA,NA,NA,NA,NA,NA,NA
+"10","Clark","Clark","IN_2018-11-06_GEN","TC2_Clark_1_1",NA,"Dan Moore","Dan","Moore",NA,NA,NA,NA,NA,NA,NA
+"11","Boone","Boone","IN_2018-11-06_GEN","TC2_Boone_1_1",NA,"Lori Schein","Lori","Schein",NA,NA,NA,NA,NA,NA,NA
+"12","Brown","Brown","IN_2018-11-06_GEN","TC2_Brown_1_1",NA,"Mary Wertz","Mary","Wertz",NA,NA,NA,NA,NA,NA,NA
+"13","Cass","Cass","IN_2018-11-06_GEN","TC2_Cass_1_1",NA,"Stephen Roger Kitts II","Stephen","II",NA,NA,NA,NA,NA,NA,NA
+"14","Decatur","Decatur","IN_2018-11-06_GEN","TC2_Decatur_1_1",NA,"Timothy B. Day","Timothy","Day",NA,NA,NA,NA,NA,NA,NA
+"15","Clay","Clay","IN_2018-11-06_GEN","TC1_Clay_1_1",NA,"Jason D. Brown","Jason","Brown",NA,NA,NA,NA,NA,NA,NA
+"16","Elkhart","Elkhart","IN_2018-11-06_GEN","TC1_Elkhart_1_1",NA,"David C. Bonfiglio","David","Bonfiglio",NA,NA,NA,NA,NA,NA,NA
+"17","Bartholomew","Bartholomew","IN_2018-11-06_GEN","TC1_Bartholomew_1_1",NA,"James Jim Worton","James","Worton",NA,NA,NA,NA,NA,NA,NA
+"18","DeKalb","DeKalb","IN_2018-11-06_GEN","TC1_DeKalb_1_1",NA,"Monte L. Brown","Monte","Brown",NA,NA,NA,NA,NA,NA,NA
+"19","Cass","Cass","IN_2018-11-06_GEN","TC1_Cass_1_1",NA,"Rick Maughmer","Rick","Maughmer",NA,NA,NA,NA,NA,NA,NA
+"20","Clay","Clay","IN_2018-11-06_GEN","TC1_Clay_1_1",NA,"Robert Alex Pell","Robert","Pell",NA,NA,NA,NA,NA,NA,NA
+"21","Dearborn","Dearborn","IN_2018-11-06_GEN","TC1_Dearborn_1_1",NA,"Sally A. McLaughlin","Sally","McLaughlin",NA,NA,NA,NA,NA,NA,NA
+"22","Elkhart","Elkhart","IN_2018-11-06_GEN","TC1_Elkhart_1_1",NA,"Stephen R. Bowers","Stephen","Bowers",NA,NA,NA,NA,NA,NA,NA
+"23","Blackford","Blackford","IN_2018-11-06_GEN","DA_Blackford_1_1",NA,"Aaron M. Henderson","Aaron","Henderson",NA,NA,NA,NA,NA,NA,NA
+"24","Dubois","Dubois","IN_2018-11-06_GEN","DA_Dubois_1_1",NA,"Anthony D. Quinn","Anthony","Quinn",NA,NA,NA,NA,NA,NA,NA
+"25","Crawford","Crawford","IN_2018-11-06_GEN","DA_Crawford_1_1",NA,"Cheryl J. Hillenburg","Cheryl","Hillenburg",NA,NA,NA,NA,NA,NA,NA
+"26","Delaware","Delaware","IN_2018-11-06_GEN","DA_Delaware_1_1",NA,"Eric M. Hoffman","Eric","Hoffman",NA,NA,NA,NA,NA,NA,NA
+"27","Brown","Brown","IN_2018-11-06_GEN","DA_Brown_1_1",NA,"Greg Bowes","Greg","Bowes",NA,NA,NA,NA,NA,NA,NA
+"28","Clinton","Clinton","IN_2018-11-06_GEN","DA_Clinton_1_1",NA,"Anthony J. Sommer","Anthony","Sommer",NA,NA,NA,NA,NA,NA,NA
+"29","DeKalb","DeKalb","IN_2018-11-06_GEN","DA_DeKalb_1_1",NA,"ClaraMary Winebrenner","ClaraMary","Winebrenner",NA,NA,NA,NA,NA,NA,NA
+"30","Daviess","Daviess","IN_2018-11-06_GEN","DA_Daviess_1_1",NA,"Daniel S. Murrie","Daniel","Murrie",NA,NA,NA,NA,NA,NA,NA
+"31","Clay","Clay","IN_2018-11-06_GEN","DA_Clay_1_1",NA,"Emily Clarke","Emily","Clarke",NA,NA,NA,NA,NA,NA,NA
+"32","Clark","Clark","IN_2018-11-06_GEN","DA_Clark_1_1",NA,"Jeremy Mull","Jeremy","Mull",NA,NA,NA,NA,NA,NA,NA
+"33","Adams","Adams","IN_2018-11-06_GEN","DA_Adams_1_1",NA,"Jeremy W. Brown","Jeremy","Brown",NA,NA,NA,NA,NA,NA,NA
+"34","Benton","Benton","IN_2018-11-06_GEN","DA_Benton_1_1",NA,"John C. Wright","John","Wright",NA,NA,NA,NA,NA,NA,NA
+"35","Allen","Allen","IN_2018-11-06_GEN","DA_Allen_1_1",NA,"Karen Richards","Karen","Richards",NA,NA,NA,NA,NA,NA,NA
+"36","Boone","Boone","IN_2018-11-06_GEN","DA_Boone_1_1",NA,"Kent T. Eastwood","Kent","Eastwood",NA,NA,NA,NA,NA,NA,NA
+"37","Blackford","Blackford","IN_2018-11-06_GEN","DA_Blackford_1_1",NA,"Kevin N. Basey","Kevin","Basey",NA,NA,NA,NA,NA,NA,NA
+"38","Cass","Cass","IN_2018-11-06_GEN","DA_Cass_1_1",NA,"Lisa L. Swaim","Lisa","Swaim",NA,NA,NA,NA,NA,NA,NA
+"39","Dearborn,Ohio","Dearborn","IN_2018-11-06_GEN","DA_Dearborn_1_1",NA,"Lynn Deddens","Lynn","Deddens",NA,NA,NA,NA,NA,NA,NA
+"40","Decatur","Decatur","IN_2018-11-06_GEN","DA_Decatur_1_1",NA,"Nathan W. Harter IV","Nathan","IV",NA,NA,NA,NA,NA,NA,NA
+"41","Carroll","Carroll","IN_2018-11-06_GEN","DA_Carroll_1_1",NA,"Nicholas C. McLeland","Nicholas","McLeland",NA,NA,NA,NA,NA,NA,NA
+"42","Crawford","Crawford","IN_2018-11-06_GEN","DA_Crawford_1_1",NA,"Nicholas W. Haverstock","Nicholas","Haverstock",NA,NA,NA,NA,NA,NA,NA
+"43","Brown","Brown","IN_2018-11-06_GEN","DA_Brown_1_1",NA,"Ted Adams","Ted","Adams",NA,NA,NA,NA,NA,NA,NA
+"44","Elkhart","Elkhart","IN_2018-11-06_GEN","DA_Elkhart_1_1",NA,"Vicki Elaine Becker","Vicki","Becker",NA,NA,NA,NA,NA,NA,NA
+"45","Bartholomew","Bartholomew","IN_2018-11-06_GEN","DA_Bartholomew_1_1",NA,"William M. (Bill) Nash","William","Nash",NA,NA,NA,NA,NA,NA,NA
+"46","Brown","Brown","IN_2018-11-06_GEN","CK2_Brown_1_1",NA,"Brenda Woods","Brenda","Woods",NA,NA,NA,NA,NA,NA,NA
+"47","Allen","Allen","IN_2018-11-06_GEN","CK2_Allen_1_1",NA,"Danielle N Andersen","Danielle","Andersen",NA,NA,NA,NA,NA,NA,NA
+"48","Decatur","Decatur","IN_2018-11-06_GEN","CK2_Decatur_1_1",NA,"KAREN S HIGGINBOTHAM","KAREN","HIGGINBOTHAM",NA,NA,NA,NA,NA,NA,NA
+"49","Dubois","Dubois","IN_2018-11-06_GEN","CK2_Dubois_1_1",NA,"Kiersten L. Knies","Kiersten","Knies",NA,NA,NA,NA,NA,NA,NA
+"50","Crawford","Crawford","IN_2018-11-06_GEN","CK2_Crawford_1_1",NA,"Lisa Stephenson-Holzbog (Busick)","Lisa","(Busick)",NA,NA,NA,NA,NA,NA,NA
+"51","Delaware","Delaware","IN_2018-11-06_GEN","CK2_Delaware_1_1",NA,"MIKE KING","MIKE","KING",NA,NA,NA,NA,NA,NA,NA
+"52","Clark","Clark","IN_2018-11-06_GEN","CK2_Clark_1_1",NA,"Susan Popp","Susan","Popp",NA,NA,NA,NA,NA,NA,NA
+"53","Decatur","Decatur","IN_2018-11-06_GEN","CK2_Decatur_1_1",NA,"ADINA A ROBERTS","ADINA","ROBERTS",NA,NA,NA,NA,NA,NA,NA
+"54","Dubois","Dubois","IN_2018-11-06_GEN","CK2_Dubois_1_1",NA,"Amy L Kippenbrock","Amy","Kippenbrock",NA,NA,NA,NA,NA,NA,NA
+"55","Allen","Allen","IN_2018-11-06_GEN","CK2_Allen_1_1",NA,"Christopher (Chris) Nancarrow","Christopher","Nancarrow",NA,NA,NA,NA,NA,NA,NA
+"56","Elkhart","Elkhart","IN_2018-11-06_GEN","CK2_Elkhart_1_1",NA,"CHRISTOPHER ANDERSON","CHRISTOPHER","ANDERSON",NA,NA,NA,NA,NA,NA,NA
+"57","Clark","Clark","IN_2018-11-06_GEN","CK2_Clark_1_1",NA,"Darci  Schiller","Darci","Schiller",NA,NA,NA,NA,NA,NA,NA
+"58","Adams","Adams","IN_2018-11-06_GEN","CK2_Adams_1_1",NA,"JAMES (Jim) J VOGLEWEDE Jr.","JAMES","VOGLEWEDE",NA,NA,NA,NA,NA,NA,NA
+"59","Daviess","Daviess","IN_2018-11-06_GEN","CK2_Daviess_1_1",NA,"Janice M. Williams","Janice","Williams",NA,NA,NA,NA,NA,NA,NA
+"60","Bartholomew","Bartholomew","IN_2018-11-06_GEN","CK2_Bartholomew_1_1",NA,"Jay Phelps","Jay","Phelps",NA,NA,NA,NA,NA,NA,NA
+"61","Boone","Boone","IN_2018-11-06_GEN","CK2_Boone_1_1",NA,"JESSICA J FOUTS","JESSICA","FOUTS",NA,NA,NA,NA,NA,NA,NA
+"62","Brown","Brown","IN_2018-11-06_GEN","CK2_Brown_1_1",NA,"Kathy (Grimes) Smith","Kathy","Smith",NA,NA,NA,NA,NA,NA,NA
+"63","Benton","Benton","IN_2018-11-06_GEN","CK2_Benton_1_1",NA,"NATALIE J. KIDD","NATALIE","KIDD",NA,NA,NA,NA,NA,NA,NA
+"64","Clinton","Clinton","IN_2018-11-06_GEN","CK2_Clinton_1_1",NA,"RHEA A COPAS","RHEA","COPAS",NA,NA,NA,NA,NA,NA,NA
+"65","Delaware","Delaware","IN_2018-11-06_GEN","CK2_Delaware_1_1",NA,"RICK SPANGLER","RICK","SPANGLER",NA,NA,NA,NA,NA,NA,NA
+"66","Crawford","Crawford","IN_2018-11-06_GEN","CK2_Crawford_1_1",NA,"WENDY MARPLES","WENDY","MARPLES",NA,NA,NA,NA,NA,NA,NA
+"67","Cass","Cass","IN_2018-11-06_GEN","SF_Cass_1_1",NA,"Dale Campbell","Dale","Campbell",NA,NA,NA,NA,NA,NA,NA
+"68","Decatur","Decatur","IN_2018-11-06_GEN","SF_Decatur_1_1",NA,"DAVE DURANT","DAVE","DURANT",NA,NA,NA,NA,NA,NA,NA
+"69","Clark","Clark","IN_2018-11-06_GEN","SF_Clark_1_1",NA,"Dwight T Ingle","Dwight","Ingle",NA,NA,NA,NA,NA,NA,NA
+"70","Adams","Adams","IN_2018-11-06_GEN","SF_Adams_1_1",NA,"JAMES P FRANZE","JAMES","FRANZE",NA,NA,NA,NA,NA,NA,NA
+"71","Blackford","Blackford","IN_2018-11-06_GEN","SF_Blackford_1_1",NA,"John M Rains","John","Rains",NA,NA,NA,NA,NA,NA,NA
+"72","Allen","Allen","IN_2018-11-06_GEN","SF_Allen_1_1",NA,"Philip R Davis","Philip","Davis",NA,NA,NA,NA,NA,NA,NA
+"73","Delaware","Delaware","IN_2018-11-06_GEN","SF_Delaware_1_1",NA,"RAY DUDLEY","RAY","DUDLEY",NA,NA,NA,NA,NA,NA,NA
+"74","Crawford","Crawford","IN_2018-11-06_GEN","SF_Crawford_1_1",NA,"SHAWN SCOTT","SHAWN","SCOTT",NA,NA,NA,NA,NA,NA,NA
+"75","Dubois","Dubois","IN_2018-11-06_GEN","SF_Dubois_1_1",NA,"Tim D Lampert","Tim","Lampert",NA,NA,NA,NA,NA,NA,NA
+"76","Crawford","Crawford","IN_2018-11-06_GEN","SF_Crawford_1_1",NA,"GLEN H LAWS","GLEN","LAWS",NA,NA,NA,NA,NA,NA,NA
+"77","Clark","Clark","IN_2018-11-06_GEN","SF_Clark_1_1",NA,"Christopher (Chris) Kaelin","Christopher","Kaelin",NA,NA,NA,NA,NA,NA,NA
+"78","Adams","Adams","IN_2018-11-06_GEN","SF_Adams_1_1",NA,"DAN MAWHORR","DAN","MAWHORR",NA,NA,NA,NA,NA,NA,NA
+"79","DeKalb","DeKalb","IN_2018-11-06_GEN","SF_DeKalb_1_1",NA,"David (Dave) Cserep","David","Cserep",NA,NA,NA,NA,NA,NA,NA
+"80","Allen","Allen","IN_2018-11-06_GEN","SF_Allen_1_1",NA,"David J Gladieux","David","Gladieux",NA,NA,NA,NA,NA,NA,NA
+"81","Benton","Benton","IN_2018-11-06_GEN","SF_Benton_1_1",NA,"DON MUNSON","DON","MUNSON",NA,NA,NA,NA,NA,NA,NA
+"82","Cass","Cass","IN_2018-11-06_GEN","SF_Cass_1_1",NA,"Edward (Ed) C. Schroder","Edward","Schroder",NA,NA,NA,NA,NA,NA,NA
+"83","Daviess","Daviess","IN_2018-11-06_GEN","SF_Daviess_1_1",NA,"Gary W. Allison","Gary","Allison",NA,NA,NA,NA,NA,NA,NA
+"84","Clark","Clark","IN_2018-11-06_GEN","SF_Clark_1_1",NA,"Jamey J Noel","Jamey","Noel",NA,NA,NA,NA,NA,NA,NA
+"85","Elkhart","Elkhart","IN_2018-11-06_GEN","SF_Elkhart_1_1",NA,"JEFF A SIEGEL","JEFF","SIEGEL",NA,NA,NA,NA,NA,NA,NA
+"86","Crawford","Crawford","IN_2018-11-06_GEN","SF_Crawford_1_1",NA,"Jeff Howell","Jeff","Howell",NA,NA,NA,NA,NA,NA,NA
+"87","Blackford","Blackford","IN_2018-11-06_GEN","SF_Blackford_1_1",NA,"Jeffrey C Sones","Jeffrey","Sones",NA,NA,NA,NA,NA,NA,NA
+"88","Bartholomew","Bartholomew","IN_2018-11-06_GEN","SF_Bartholomew_1_1",NA,"Matthew A. Myers","Matthew","Myers",NA,NA,NA,NA,NA,NA,NA
+"89","Boone","Boone","IN_2018-11-06_GEN","SF_Boone_1_1",NA,"MICHAEL T. (Mike)  NIELSEN","MICHAEL","NIELSEN",NA,NA,NA,NA,NA,NA,NA
+"90","Clay","Clay","IN_2018-11-06_GEN","SF_Clay_1_1",NA,"Paul B Harden","Paul","Harden",NA,NA,NA,NA,NA,NA,NA
+"91","Clinton","Clinton","IN_2018-11-06_GEN","SF_Clinton_1_1",NA,"Richard Rich Kelly","Richard","Kelly",NA,NA,NA,NA,NA,NA,NA
+"92","Brown","Brown","IN_2018-11-06_GEN","SF_Brown_1_1",NA,"Scott Southerland","Scott","Southerland",NA,NA,NA,NA,NA,NA,NA
+"93","Dearborn","Dearborn","IN_2018-11-06_GEN","SF_Dearborn_1_1",NA,"Shane McHenry","Shane","McHenry",NA,NA,NA,NA,NA,NA,NA
+"94","Dubois","Dubois","IN_2018-11-06_GEN","SF_Dubois_1_1",NA,"Thomas J Kleinhelter","Thomas","Kleinhelter",NA,NA,NA,NA,NA,NA,NA
+"95","Carroll","Carroll","IN_2018-11-06_GEN","SF_Carroll_1_1",NA,"Tobe Leazenby","Tobe","Leazenby",NA,NA,NA,NA,NA,NA,NA
+"96","Delaware","Delaware","IN_2018-11-06_GEN","SF_Delaware_1_1",NA,"TONY SKINNER","TONY","SKINNER",NA,NA,NA,NA,NA,NA,NA
+"97","Decatur","Decatur","IN_2018-11-06_GEN","SF_Decatur_1_1",NA,"WILLIAM B MEYERROSE","WILLIAM","MEYERROSE",NA,NA,NA,NA,NA,NA,NA
+"98","Thorntown","Boone","IN_2018-11-06_GEN","LC2_Boone_1_1",NA,"DONALD G VAUGHN","DONALD","VAUGHN",NA,NA,NA,NA,NA,NA,NA

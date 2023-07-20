@@ -1,0 +1,27 @@
+"election_id","office_id","district","office_local","office","seat","n_winners","selection_method","retention_method","open_seat","contested","runoff","special"
+"FL_1992-09-01_PRI-D","SA_7_000",7,"State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1992-09-01_PRI-D","SA_8_000",8,"State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1992-09-01_PRI-R","SA_6_000",6,"State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1992-09-01_PRI-R","SA_7_000",7,"State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1992-09-01_PRI-R","SA_15_000",15,"State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1992-09-01_PRI-R","SA_18_000",18,"State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_1992-09-01_PRI-D","PD_13_000",13,"Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_1992-09-01_PRI-R","PD_19_000",19,"Public Defender","PD","000",2,"PE",NA,NA,1,1,0
+"FL_1992-09-01_PRI","TC2_3_1",3,"Circuit Judge","TC2","1",2,"NPE",NA,NA,1,1,0
+"FL_1992-09-01_PRI","TC2_4_26",4,"Circuit Judge","TC2","26",1,"NPE",NA,NA,1,0,0
+"FL_1992-09-01_PRI","TC2_6_3",6,"Circuit Judge","TC2","3",2,"NPE",NA,NA,1,1,0
+"FL_1992-09-01_PRI","TC2_6_20",6,"Circuit Judge","TC2","20",2,"NPE",NA,NA,1,1,0
+"FL_1992-09-01_PRI","TC2_6_23",6,"Circuit Judge","TC2","23",2,"NPE",NA,NA,1,1,0
+"FL_1992-09-01_PRI","TC2_6_29",6,"Circuit Judge","TC2","29",2,"NPE",NA,NA,1,1,0
+"FL_1992-09-01_PRI","TC2_11_10",11,"Circuit Judge","TC2","10",1,"NPE",NA,NA,1,0,0
+"FL_1992-09-01_PRI","TC2_11_21",11,"Circuit Judge","TC2","21",1,"NPE",NA,NA,1,0,0
+"FL_1992-09-01_PRI","TC2_11_28",11,"Circuit Judge","TC2","28",2,"NPE",NA,NA,1,1,0
+"FL_1992-09-01_PRI","TC2_11_40",11,"Circuit Judge","TC2","40",1,"NPE",NA,NA,1,0,0
+"FL_1992-09-01_PRI","TC2_11_41",11,"Circuit Judge","TC2","41",1,"NPE",NA,NA,1,0,0
+"FL_1992-09-01_PRI","TC2_11_43",11,"Circuit Judge","TC2","43",1,"NPE",NA,NA,1,0,0
+"FL_1992-09-01_PRI","TC2_11_52",11,"Circuit Judge","TC2","52",1,"NPE",NA,NA,1,0,0
+"FL_1992-09-01_PRI","TC2_11_62",11,"Circuit Judge","TC2","62",1,"NPE",NA,NA,1,0,0
+"FL_1992-09-01_PRI","TC2_12_2",12,"Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_1992-09-01_PRI","TC2_15_7",15,"Circuit Judge","TC2","7",1,"NPE",NA,NA,1,0,0
+"FL_1992-09-01_PRI","TC2_15_24",15,"Circuit Judge","TC2","24",1,"NPE",NA,NA,1,0,0
+"FL_1992-09-01_PRI","TC2_20_12",20,"Circuit Judge","TC2","12",1,"NPE",NA,NA,1,0,0

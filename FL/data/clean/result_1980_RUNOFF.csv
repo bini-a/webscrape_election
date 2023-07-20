@@ -1,0 +1,9 @@
+"election_id","office_id","candidate_id","candidate","party","votes","vote_share","winner"
+"FL_1980-10-07_PRI","TC2_2_000",NA,"Bill Phillips","NON",2239,0.047,0
+"FL_1980-10-07_PRI","TC2_2_000",NA,"J. Hall","NON",15155,0.32,1
+"FL_1980-10-07_PRI","TC2_2_000",NA,"Mallory Horne","NON",18215,0.384,1
+"FL_1980-10-07_PRI","TC2_2_000",NA,"Reynolds Sampson","NON",769,0.016,0
+"FL_1980-10-07_PRI","TC2_2_000",NA,"Robert Travis, Jr.","NON",7473,0.158,0
+"FL_1980-10-07_PRI","TC2_2_000",NA,"Robert Vossler","NON",3575,0.075,0
+"FL_1980-10-07_PRI-D","SA_2_000",NA,"Don Modesitt","DEM",31697,0.626,1
+"FL_1980-10-07_PRI-D","SA_2_000",NA,"Harry Morrison","DEM",18970,0.374,0

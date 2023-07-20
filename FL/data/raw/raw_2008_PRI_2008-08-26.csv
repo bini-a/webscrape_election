@@ -1,0 +1,747 @@
+ElectionDate	PartyCode	PartyName	RaceCode	OfficeDesc	CountyCode	CountyName	Juris1num	Juris2num	Precincts	PrecinctsReporting	CanNameLast	CanNameFirst	CanNameMiddle	CanVotes
+8/26/2008	REP	Republican	USR	United States Representative	BAY	Bay	002		54	54	Hendry	Eddie		5063
+8/26/2008	REP	Republican	USR	United States Representative	CAL	Calhoun	002		14	14	Hendry	Eddie		74
+8/26/2008	REP	Republican	USR	United States Representative	DIX	Dixie	002		10	10	Hendry	Eddie		218
+8/26/2008	REP	Republican	USR	United States Representative	FRA	Franklin	002		8	8	Hendry	Eddie		142
+8/26/2008	REP	Republican	USR	United States Representative	GAD	Gadsden	002		27	27	Hendry	Eddie		250
+8/26/2008	REP	Republican	USR	United States Representative	GUL	Gulf	002		8	8	Hendry	Eddie		300
+8/26/2008	REP	Republican	USR	United States Representative	JAC	Jackson	002		25	25	Hendry	Eddie		543
+8/26/2008	REP	Republican	USR	United States Representative	JEF	Jefferson	002		12	12	Hendry	Eddie		172
+8/26/2008	REP	Republican	USR	United States Representative	LAF	Lafayette	002		5	5	Hendry	Eddie		166
+8/26/2008	REP	Republican	USR	United States Representative	LEO	Leon	002		156	156	Hendry	Eddie		3660
+8/26/2008	REP	Republican	USR	United States Representative	LIB	Liberty	002		8	8	Hendry	Eddie		33
+8/26/2008	REP	Republican	USR	United States Representative	OKA	Okaloosa	002		6	6	Hendry	Eddie		684
+8/26/2008	REP	Republican	USR	United States Representative	SUW	Suwannee	002		16	16	Hendry	Eddie		703
+8/26/2008	REP	Republican	USR	United States Representative	TAY	Taylor	002		14	14	Hendry	Eddie		594
+8/26/2008	REP	Republican	USR	United States Representative	WAK	Wakulla	002		12	12	Hendry	Eddie		303
+8/26/2008	REP	Republican	USR	United States Representative	WAL	Walton	002		4	4	Hendry	Eddie		600
+8/26/2008	REP	Republican	USR	United States Representative	BAY	Bay	002		54	54	Mulligan	Mark		12212
+8/26/2008	REP	Republican	USR	United States Representative	CAL	Calhoun	002		14	14	Mulligan	Mark		228
+8/26/2008	REP	Republican	USR	United States Representative	DIX	Dixie	002		10	10	Mulligan	Mark		327
+8/26/2008	REP	Republican	USR	United States Representative	FRA	Franklin	002		8	8	Mulligan	Mark		354
+8/26/2008	REP	Republican	USR	United States Representative	GAD	Gadsden	002		27	27	Mulligan	Mark		640
+8/26/2008	REP	Republican	USR	United States Representative	GUL	Gulf	002		8	8	Mulligan	Mark		751
+8/26/2008	REP	Republican	USR	United States Representative	JAC	Jackson	002		25	25	Mulligan	Mark		1527
+8/26/2008	REP	Republican	USR	United States Representative	JEF	Jefferson	002		12	12	Mulligan	Mark		345
+8/26/2008	REP	Republican	USR	United States Representative	LAF	Lafayette	002		5	5	Mulligan	Mark		228
+8/26/2008	REP	Republican	USR	United States Representative	LEO	Leon	002		156	156	Mulligan	Mark		7468
+8/26/2008	REP	Republican	USR	United States Representative	LIB	Liberty	002		8	8	Mulligan	Mark		77
+8/26/2008	REP	Republican	USR	United States Representative	OKA	Okaloosa	002		6	6	Mulligan	Mark		1029
+8/26/2008	REP	Republican	USR	United States Representative	SUW	Suwannee	002		16	16	Mulligan	Mark		1240
+8/26/2008	REP	Republican	USR	United States Representative	TAY	Taylor	002		14	14	Mulligan	Mark		497
+8/26/2008	REP	Republican	USR	United States Representative	WAK	Wakulla	002		12	12	Mulligan	Mark		617
+8/26/2008	REP	Republican	USR	United States Representative	WAL	Walton	002		4	4	Mulligan	Mark		1194
+8/26/2008	REP	Republican	USR	United States Representative	CIT	Citrus	005		41	41	Brown-Waite	Virginia 'Ginny'		11298
+8/26/2008	REP	Republican	USR	United States Representative	HER	Hernando	005		56	56	Brown-Waite	Virginia 'Ginny'		8549
+8/26/2008	REP	Republican	USR	United States Representative	LAK	Lake	005		36	36	Brown-Waite	Virginia 'Ginny'		7390
+8/26/2008	REP	Republican	USR	United States Representative	LEV	Levy	005		16	16	Brown-Waite	Virginia 'Ginny'		1361
+8/26/2008	REP	Republican	USR	United States Representative	MRN	Marion	005		10	10	Brown-Waite	Virginia 'Ginny'		752
+8/26/2008	REP	Republican	USR	United States Representative	PAS	Pasco	005		84	84	Brown-Waite	Virginia 'Ginny'		8973
+8/26/2008	REP	Republican	USR	United States Representative	POL	Polk	005		15	15	Brown-Waite	Virginia 'Ginny'		3164
+8/26/2008	REP	Republican	USR	United States Representative	SUM	Sumter	005		44	44	Brown-Waite	Virginia 'Ginny'		7647
+8/26/2008	REP	Republican	USR	United States Representative	CIT	Citrus	005		41	41	King	Jim		3176
+8/26/2008	REP	Republican	USR	United States Representative	HER	Hernando	005		56	56	King	Jim		1540
+8/26/2008	REP	Republican	USR	United States Representative	LAK	Lake	005		36	36	King	Jim		2519
+8/26/2008	REP	Republican	USR	United States Representative	LEV	Levy	005		16	16	King	Jim		539
+8/26/2008	REP	Republican	USR	United States Representative	MRN	Marion	005		10	10	King	Jim		154
+8/26/2008	REP	Republican	USR	United States Representative	PAS	Pasco	005		84	84	King	Jim		2275
+8/26/2008	REP	Republican	USR	United States Representative	POL	Polk	005		15	15	King	Jim		603
+8/26/2008	REP	Republican	USR	United States Representative	SUM	Sumter	005		44	44	King	Jim		1426
+8/26/2008	REP	Republican	USR	United States Representative	LAK	Lake	008		37	37	Keller	Ric		4517
+8/26/2008	REP	Republican	USR	United States Representative	MRN	Marion	008		35	35	Keller	Ric		2569
+8/26/2008	REP	Republican	USR	United States Representative	ORA	Orange	008		164	164	Keller	Ric		14994
+8/26/2008	REP	Republican	USR	United States Representative	OSC	Osceola	008		2	2	Keller	Ric		118
+8/26/2008	REP	Republican	USR	United States Representative	LAK	Lake	008		37	37	Long	Todd		4333
+8/26/2008	REP	Republican	USR	United States Representative	MRN	Marion	008		35	35	Long	Todd		1677
+8/26/2008	REP	Republican	USR	United States Representative	ORA	Orange	008		164	164	Long	Todd		13500
+8/26/2008	REP	Republican	USR	United States Representative	OSC	Osceola	008		2	2	Long	Todd		130
+8/26/2008	REP	Republican	USR	United States Representative	BRE	Brevard	015		167	167	Bergman	Alan		4163
+8/26/2008	REP	Republican	USR	United States Representative	IND	Indian River	015		54	54	Bergman	Alan		1761
+8/26/2008	REP	Republican	USR	United States Representative	OSC	Osceola	015		94	94	Bergman	Alan		1746
+8/26/2008	REP	Republican	USR	United States Representative	POL	Polk	015		7	7	Bergman	Alan		139
+8/26/2008	REP	Republican	USR	United States Representative	BRE	Brevard	015		167	167	Lehoullier	Kevin		2226
+8/26/2008	REP	Republican	USR	United States Representative	IND	Indian River	015		54	54	Lehoullier	Kevin		1612
+8/26/2008	REP	Republican	USR	United States Representative	OSC	Osceola	015		94	94	Lehoullier	Kevin		601
+8/26/2008	REP	Republican	USR	United States Representative	POL	Polk	015		7	7	Lehoullier	Kevin		80
+8/26/2008	REP	Republican	USR	United States Representative	BRE	Brevard	015		167	167	Posey	Bill		23678
+8/26/2008	REP	Republican	USR	United States Representative	IND	Indian River	015		54	54	Posey	Bill		13388
+8/26/2008	REP	Republican	USR	United States Representative	OSC	Osceola	015		94	94	Posey	Bill		3486
+8/26/2008	REP	Republican	USR	United States Representative	POL	Polk	015		7	7	Posey	Bill		340
+8/26/2008	REP	Republican	USR	United States Representative	CHA	Charlotte	016		60	60	Harrell	Gayle		3641
+8/26/2008	REP	Republican	USR	United States Representative	GLA	Glades	016		13	13	Harrell	Gayle		105
+8/26/2008	REP	Republican	USR	United States Representative	HEN	Hendry	016		17	17	Harrell	Gayle		481
+8/26/2008	REP	Republican	USR	United States Representative	HIG	Highlands	016		25	25	Harrell	Gayle		2025
+8/26/2008	REP	Republican	USR	United States Representative	MRT	Martin	016		51	51	Harrell	Gayle		7677
+8/26/2008	REP	Republican	USR	United States Representative	OKE	Okeechobee	016		18	18	Harrell	Gayle		403
+8/26/2008	REP	Republican	USR	United States Representative	PAL	Palm Beach	016		87	87	Harrell	Gayle		661
+8/26/2008	REP	Republican	USR	United States Representative	STL	St. Lucie	016		67	67	Harrell	Gayle		4633
+8/26/2008	REP	Republican	USR	United States Representative	CHA	Charlotte	016		60	60	Rooney	Tom		5428
+8/26/2008	REP	Republican	USR	United States Representative	GLA	Glades	016		13	13	Rooney	Tom		194
+8/26/2008	REP	Republican	USR	United States Representative	HEN	Hendry	016		17	17	Rooney	Tom		915
+8/26/2008	REP	Republican	USR	United States Representative	HIG	Highlands	016		25	25	Rooney	Tom		2102
+8/26/2008	REP	Republican	USR	United States Representative	MRT	Martin	016		51	51	Rooney	Tom		5878
+8/26/2008	REP	Republican	USR	United States Representative	OKE	Okeechobee	016		18	18	Rooney	Tom		626
+8/26/2008	REP	Republican	USR	United States Representative	PAL	Palm Beach	016		87	87	Rooney	Tom		2072
+8/26/2008	REP	Republican	USR	United States Representative	STL	St. Lucie	016		67	67	Rooney	Tom		3422
+8/26/2008	REP	Republican	USR	United States Representative	CHA	Charlotte	016		60	60	Valeche	Hal		3939
+8/26/2008	REP	Republican	USR	United States Representative	GLA	Glades	016		13	13	Valeche	Hal		105
+8/26/2008	REP	Republican	USR	United States Representative	HEN	Hendry	016		17	17	Valeche	Hal		289
+8/26/2008	REP	Republican	USR	United States Representative	HIG	Highlands	016		25	25	Valeche	Hal		1504
+8/26/2008	REP	Republican	USR	United States Representative	MRT	Martin	016		51	51	Valeche	Hal		4081
+8/26/2008	REP	Republican	USR	United States Representative	OKE	Okeechobee	016		18	18	Valeche	Hal		610
+8/26/2008	REP	Republican	USR	United States Representative	PAL	Palm Beach	016		87	87	Valeche	Hal		1823
+8/26/2008	REP	Republican	USR	United States Representative	STL	St. Lucie	016		67	67	Valeche	Hal		3565
+8/26/2008	REP	Republican	USR	United States Representative	BRE	Brevard	024		60	60	Davis	Jason	Paul	2147
+8/26/2008	REP	Republican	USR	United States Representative	ORA	Orange	024		61	61	Davis	Jason	Paul	1989
+8/26/2008	REP	Republican	USR	United States Representative	SEM	Seminole	024		57	57	Davis	Jason	Paul	1969
+8/26/2008	REP	Republican	USR	United States Representative	VOL	Volusia	024		72	72	Davis	Jason	Paul	2172
+8/26/2008	REP	Republican	USR	United States Representative	BRE	Brevard	024		60	60	Feeney	Tom		7976
+8/26/2008	REP	Republican	USR	United States Representative	ORA	Orange	024		61	61	Feeney	Tom		7337
+8/26/2008	REP	Republican	USR	United States Representative	SEM	Seminole	024		57	57	Feeney	Tom		6419
+8/26/2008	REP	Republican	USR	United States Representative	VOL	Volusia	024		72	72	Feeney	Tom		5316
+8/26/2008	REP	Republican	STA	State Attorney	CLA	Clay	004		65	65	Corey	Angela		20206
+8/26/2008	REP	Republican	STA	State Attorney	DUV	Duval	004		284	284	Corey	Angela		63107
+8/26/2008	REP	Republican	STA	State Attorney	NAS	Nassau	004		20	20	Corey	Angela		8296
+8/26/2008	REP	Republican	STA	State Attorney	CLA	Clay	004		65	65	Plotkin	Jay		10532
+8/26/2008	REP	Republican	STA	State Attorney	DUV	Duval	004		284	284	Plotkin	Jay		34916
+8/26/2008	REP	Republican	STA	State Attorney	NAS	Nassau	004		20	20	Plotkin	Jay		3933
+8/26/2008	REP	Republican	STA	State Attorney	FLA	Flagler	007		6	6	Larizza	RJ		7156
+8/26/2008	REP	Republican	STA	State Attorney	PUT	Putnam	007		55	55	Larizza	RJ		4992
+8/26/2008	REP	Republican	STA	State Attorney	STJ	St. Johns	007		47	47	Larizza	RJ		14522
+8/26/2008	REP	Republican	STA	State Attorney	VOL	Volusia	007		179	179	Larizza	RJ		18273
+8/26/2008	REP	Republican	STA	State Attorney	FLA	Flagler	007		6	6	Tanner	John		5755
+8/26/2008	REP	Republican	STA	State Attorney	PUT	Putnam	007		55	55	Tanner	John		8335
+8/26/2008	REP	Republican	STA	State Attorney	STJ	St. Johns	007		47	47	Tanner	John		9165
+8/26/2008	REP	Republican	STA	State Attorney	VOL	Volusia	007		179	179	Tanner	John		18515
+8/26/2008	REP	Republican	PUB	Public Defender	ESC	Escambia	001		90	90	Owens	James		11803
+8/26/2008	REP	Republican	PUB	Public Defender	OKA	Okaloosa	001		52	52	Owens	James		10158
+8/26/2008	REP	Republican	PUB	Public Defender	SAN	Santa Rosa	001		41	41	Owens	James		10181
+8/26/2008	REP	Republican	PUB	Public Defender	WAL	Walton	001		33	33	Owens	James		3526
+8/26/2008	REP	Republican	PUB	Public Defender	ESC	Escambia	001		90	90	Richards	Kelly	Merritt	10516
+8/26/2008	REP	Republican	PUB	Public Defender	OKA	Okaloosa	001		52	52	Richards	Kelly	Merritt	6606
+8/26/2008	REP	Republican	PUB	Public Defender	SAN	Santa Rosa	001		41	41	Richards	Kelly	Merritt	5518
+8/26/2008	REP	Republican	PUB	Public Defender	WAL	Walton	001		33	33	Richards	Kelly	Merritt	2128
+8/26/2008	REP	Republican	PUB	Public Defender	DES	DeSoto	012		15	15	Eger	Larry		341
+8/26/2008	REP	Republican	PUB	Public Defender	MAN	Manatee	012		136	136	Eger	Larry		9297
+8/26/2008	REP	Republican	PUB	Public Defender	SAR	Sarasota	012		156	156	Eger	Larry		14089
+8/26/2008	REP	Republican	PUB	Public Defender	DES	DeSoto	012		15	15	Filipkowski	Ron		342
+8/26/2008	REP	Republican	PUB	Public Defender	MAN	Manatee	012		136	136	Filipkowski	Ron		8596
+8/26/2008	REP	Republican	PUB	Public Defender	SAR	Sarasota	012		156	156	Filipkowski	Ron		14373
+8/26/2008	REP	Republican	PUB	Public Defender	CHA	Charlotte	020		80	80	Boyle	Brian	M.	6595
+8/26/2008	REP	Republican	PUB	Public Defender	CLL	Collier	020		94	94	Boyle	Brian	M.	7353
+8/26/2008	REP	Republican	PUB	Public Defender	GLA	Glades	020		13	13	Boyle	Brian	M.	113
+8/26/2008	REP	Republican	PUB	Public Defender	HEN	Hendry	020		23	23	Boyle	Brian	M.	634
+8/26/2008	REP	Republican	PUB	Public Defender	LEE	Lee	020		171	171	Boyle	Brian	M.	14219
+8/26/2008	REP	Republican	PUB	Public Defender	CHA	Charlotte	020		80	80	Darrow	Rex		2019
+8/26/2008	REP	Republican	PUB	Public Defender	CLL	Collier	020		94	94	Darrow	Rex		4634
+8/26/2008	REP	Republican	PUB	Public Defender	GLA	Glades	020		13	13	Darrow	Rex		38
+8/26/2008	REP	Republican	PUB	Public Defender	HEN	Hendry	020		23	23	Darrow	Rex		111
+8/26/2008	REP	Republican	PUB	Public Defender	LEE	Lee	020		171	171	Darrow	Rex		2654
+8/26/2008	REP	Republican	PUB	Public Defender	CHA	Charlotte	020		80	80	Smith	Kathy		9593
+8/26/2008	REP	Republican	PUB	Public Defender	CLL	Collier	020		94	94	Smith	Kathy		10156
+8/26/2008	REP	Republican	PUB	Public Defender	GLA	Glades	020		13	13	Smith	Kathy		220
+8/26/2008	REP	Republican	PUB	Public Defender	HEN	Hendry	020		23	23	Smith	Kathy		995
+8/26/2008	REP	Republican	PUB	Public Defender	LEE	Lee	020		171	171	Smith	Kathy		23453
+8/26/2008	REP	Republican	STS	State Senator	CHA	Charlotte	023		63	63	Detert	Nancy	C.	5511
+8/26/2008	REP	Republican	STS	State Senator	MAN	Manatee	023		1	1	Detert	Nancy	C.	113
+8/26/2008	REP	Republican	STS	State Senator	SAR	Sarasota	023		135	135	Detert	Nancy	C.	16524
+8/26/2008	REP	Republican	STS	State Senator	CHA	Charlotte	023		63	63	Grant	Michael	J.	10206
+8/26/2008	REP	Republican	STS	State Senator	MAN	Manatee	023		1	1	Grant	Michael	J.	90
+8/26/2008	REP	Republican	STS	State Senator	SAR	Sarasota	023		135	135	Grant	Michael	J.	10007
+8/26/2008	REP	Republican	STR	State Representative	ESC	Escambia	001		13	13	Evers	Greg		2942
+8/26/2008	REP	Republican	STR	State Representative	OKA	Okaloosa	001		7	7	Evers	Greg		1141
+8/26/2008	REP	Republican	STR	State Representative	SAN	Santa Rosa	001		32	32	Evers	Greg		9923
+8/26/2008	REP	Republican	STR	State Representative	ESC	Escambia	001		13	13	Gilbert	Ryan	L.	632
+8/26/2008	REP	Republican	STR	State Representative	OKA	Okaloosa	001		7	7	Gilbert	Ryan	L.	708
+8/26/2008	REP	Republican	STR	State Representative	SAN	Santa Rosa	001		32	32	Gilbert	Ryan	L.	3093
+8/26/2008	REP	Republican	STR	State Representative	ESC	Escambia	002		34	34	Fink	Gregory		1285
+8/26/2008	REP	Republican	STR	State Representative	ESC	Escambia	002		34	34	Murzin	Dave		8140
+8/26/2008	REP	Republican	STR	State Representative	ESC	Escambia	002		34	34	Roberts	Joe		2378
+8/26/2008	REP	Republican	STR	State Representative	HOL	Holmes	005		10	10	Campbell	Sherry		275
+8/26/2008	REP	Republican	STR	State Representative	JAC	Jackson	005		12	12	Campbell	Sherry		317
+8/26/2008	REP	Republican	STR	State Representative	OKA	Okaloosa	005		18	18	Campbell	Sherry		1896
+8/26/2008	REP	Republican	STR	State Representative	WAL	Walton	005		29	29	Campbell	Sherry		856
+8/26/2008	REP	Republican	STR	State Representative	WAS	Washington	005		20	20	Campbell	Sherry		517
+8/26/2008	REP	Republican	STR	State Representative	HOL	Holmes	005		10	10	Drake	Brad		880
+8/26/2008	REP	Republican	STR	State Representative	JAC	Jackson	005		12	12	Drake	Brad		578
+8/26/2008	REP	Republican	STR	State Representative	OKA	Okaloosa	005		18	18	Drake	Brad		2775
+8/26/2008	REP	Republican	STR	State Representative	WAL	Walton	005		29	29	Drake	Brad		3500
+8/26/2008	REP	Republican	STR	State Representative	WAS	Washington	005		20	20	Drake	Brad		1144
+8/26/2008	REP	Republican	STR	State Representative	JEF	Jefferson	009		3	3	Boulware	Peter		90
+8/26/2008	REP	Republican	STR	State Representative	LEO	Leon	009		96	96	Boulware	Peter		9207
+8/26/2008	REP	Republican	STR	State Representative	JEF	Jefferson	009		3	3	Sutphin	Jerry	W.	45
+8/26/2008	REP	Republican	STR	State Representative	LEO	Leon	009		96	96	Sutphin	Jerry	W.	1703
+8/26/2008	REP	Republican	STR	State Representative	ALA	Alachua	010		1	1	Curtis	Don		39
+8/26/2008	REP	Republican	STR	State Representative	CLM	Columbia	010		9	9	Curtis	Don		238
+8/26/2008	REP	Republican	STR	State Representative	DIX	Dixie	010		10	10	Curtis	Don		296
+8/26/2008	REP	Republican	STR	State Representative	FRA	Franklin	010		5	5	Curtis	Don		216
+8/26/2008	REP	Republican	STR	State Representative	HAM	Hamilton	010		8	8	Curtis	Don		239
+8/26/2008	REP	Republican	STR	State Representative	JEF	Jefferson	010		15	15	Curtis	Don		374
+8/26/2008	REP	Republican	STR	State Representative	LEV	Levy	010		18	18	Curtis	Don		929
+8/26/2008	REP	Republican	STR	State Representative	MAD	Madison	010		11	11	Curtis	Don		194
+8/26/2008	REP	Republican	STR	State Representative	TAY	Taylor	010		14	14	Curtis	Don		884
+8/26/2008	REP	Republican	STR	State Representative	WAK	Wakulla	010		7	7	Curtis	Don		112
+8/26/2008	REP	Republican	STR	State Representative	ALA	Alachua	010		1	1	Williams	Mike		19
+8/26/2008	REP	Republican	STR	State Representative	CLM	Columbia	010		9	9	Williams	Mike		353
+8/26/2008	REP	Republican	STR	State Representative	DIX	Dixie	010		10	10	Williams	Mike		288
+8/26/2008	REP	Republican	STR	State Representative	FRA	Franklin	010		5	5	Williams	Mike		246
+8/26/2008	REP	Republican	STR	State Representative	HAM	Hamilton	010		8	8	Williams	Mike		203
+8/26/2008	REP	Republican	STR	State Representative	JEF	Jefferson	010		15	15	Williams	Mike		404
+8/26/2008	REP	Republican	STR	State Representative	LEV	Levy	010		18	18	Williams	Mike		881
+8/26/2008	REP	Republican	STR	State Representative	MAD	Madison	010		11	11	Williams	Mike		491
+8/26/2008	REP	Republican	STR	State Representative	TAY	Taylor	010		14	14	Williams	Mike		374
+8/26/2008	REP	Republican	STR	State Representative	WAK	Wakulla	010		7	7	Williams	Mike		94
+8/26/2008	REP	Republican	STR	State Representative	BAK	Baker	012		9	9	Adkins	Janet	H.	534
+8/26/2008	REP	Republican	STR	State Representative	BRA	Bradford	012		18	18	Adkins	Janet	H.	1097
+8/26/2008	REP	Republican	STR	State Representative	CLA	Clay	012		5	5	Adkins	Janet	H.	1025
+8/26/2008	REP	Republican	STR	State Representative	DUV	Duval	012		1	1	Adkins	Janet	H.	28
+8/26/2008	REP	Republican	STR	State Representative	NAS	Nassau	012		20	20	Adkins	Janet	H.	5216
+8/26/2008	REP	Republican	STR	State Representative	UNI	Union	012		11	11	Adkins	Janet	H.	411
+8/26/2008	REP	Republican	STR	State Representative	BAK	Baker	012		9	9	Hart	Bobby		1037
+8/26/2008	REP	Republican	STR	State Representative	BRA	Bradford	012		18	18	Hart	Bobby		592
+8/26/2008	REP	Republican	STR	State Representative	CLA	Clay	012		5	5	Hart	Bobby		453
+8/26/2008	REP	Republican	STR	State Representative	DUV	Duval	012		1	1	Hart	Bobby		21
+8/26/2008	REP	Republican	STR	State Representative	NAS	Nassau	012		20	20	Hart	Bobby		3340
+8/26/2008	REP	Republican	STR	State Representative	UNI	Union	012		11	11	Hart	Bobby		405
+8/26/2008	REP	Republican	STR	State Representative	DUV	Duval	017		54	54	Morgan	Gordon	W.	2111
+8/26/2008	REP	Republican	STR	State Representative	DUV	Duval	017		54	54	Ray	Lake		5333
+8/26/2008	REP	Republican	STR	State Representative	DUV	Duval	017		54	54	Rubio	Mario		2748
+8/26/2008	REP	Republican	STR	State Representative	DUV	Duval	018		39	39	Brown	Elaine		2721
+8/26/2008	REP	Republican	STR	State Representative	STJ	St. Johns	018		13	13	Brown	Elaine		969
+8/26/2008	REP	Republican	STR	State Representative	DUV	Duval	018		39	39	Capra	John	R. 'Jack'	989
+8/26/2008	REP	Republican	STR	State Representative	STJ	St. Johns	018		13	13	Capra	John	R. 'Jack'	509
+8/26/2008	REP	Republican	STR	State Representative	DUV	Duval	018		39	39	Renuart	Ronald	'Doc'	4201
+8/26/2008	REP	Republican	STR	State Representative	STJ	St. Johns	018		13	13	Renuart	Ronald	'Doc'	2871
+8/26/2008	REP	Republican	STR	State Representative	BRA	Bradford	021		1	1	France	Chris		55
+8/26/2008	REP	Republican	STR	State Representative	CLA	Clay	021		10	10	France	Chris		612
+8/26/2008	REP	Republican	STR	State Representative	LAK	Lake	021		5	5	France	Chris		115
+8/26/2008	REP	Republican	STR	State Representative	MRN	Marion	021		23	23	France	Chris		632
+8/26/2008	REP	Republican	STR	State Representative	PUT	Putnam	021		55	55	France	Chris		1802
+8/26/2008	REP	Republican	STR	State Representative	VOL	Volusia	021		4	4	France	Chris		61
+8/26/2008	REP	Republican	STR	State Representative	BRA	Bradford	021		1	1	Freeman	Patricia	('Pat')	33
+8/26/2008	REP	Republican	STR	State Representative	CLA	Clay	021		10	10	Freeman	Patricia	('Pat')	385
+8/26/2008	REP	Republican	STR	State Representative	LAK	Lake	021		5	5	Freeman	Patricia	('Pat')	85
+8/26/2008	REP	Republican	STR	State Representative	MRN	Marion	021		23	23	Freeman	Patricia	('Pat')	596
+8/26/2008	REP	Republican	STR	State Representative	PUT	Putnam	021		55	55	Freeman	Patricia	('Pat')	946
+8/26/2008	REP	Republican	STR	State Representative	VOL	Volusia	021		4	4	Freeman	Patricia	('Pat')	50
+8/26/2008	REP	Republican	STR	State Representative	BRA	Bradford	021		1	1	Van Zant	Charles		177
+8/26/2008	REP	Republican	STR	State Representative	CLA	Clay	021		10	10	Van Zant	Charles		1584
+8/26/2008	REP	Republican	STR	State Representative	LAK	Lake	021		5	5	Van Zant	Charles		108
+8/26/2008	REP	Republican	STR	State Representative	MRN	Marion	021		23	23	Van Zant	Charles		679
+8/26/2008	REP	Republican	STR	State Representative	PUT	Putnam	021		55	55	Van Zant	Charles		1222
+8/26/2008	REP	Republican	STR	State Representative	VOL	Volusia	021		4	4	Van Zant	Charles		84
+8/26/2008	REP	Republican	STR	State Representative	BRE	Brevard	030		65	65	Holton	Tres		4490
+8/26/2008	REP	Republican	STR	State Representative	BRE	Brevard	030		65	65	Workman	Ritch		7374
+8/26/2008	REP	Republican	STR	State Representative	BRE	Brevard	031		52	52	Babington	Ken		1699
+8/26/2008	REP	Republican	STR	State Representative	BRE	Brevard	031		52	52	Steele	Jason		3580
+8/26/2008	REP	Republican	STR	State Representative	BRE	Brevard	031		52	52	Stump	Ron		2472
+8/26/2008	REP	Republican	STR	State Representative	BRE	Brevard	031		52	52	Tobia	John		3666
+8/26/2008	REP	Republican	STR	State Representative	ORA	Orange	034		1	1	Denis	Frank		66
+8/26/2008	REP	Republican	STR	State Representative	SEM	Seminole	034		45	45	Denis	Frank		2877
+8/26/2008	REP	Republican	STR	State Representative	ORA	Orange	034		1	1	Dorworth	Chris		87
+8/26/2008	REP	Republican	STR	State Representative	SEM	Seminole	034		45	45	Dorworth	Chris		5880
+8/26/2008	REP	Republican	STR	State Representative	ORA	Orange	037		5	5	Moriarty	Tim		464
+8/26/2008	REP	Republican	STR	State Representative	SEM	Seminole	037		38	38	Moriarty	Tim		2418
+8/26/2008	REP	Republican	STR	State Representative	ORA	Orange	037		5	5	Plakon	Scott		850
+8/26/2008	REP	Republican	STR	State Representative	SEM	Seminole	037		38	38	Plakon	Scott		5582
+8/26/2008	REP	Republican	STR	State Representative	ORA	Orange	040		47	47	Eisnaugle	Eric	'E'	6371
+8/26/2008	REP	Republican	STR	State Representative	ORA	Orange	040		47	47	Mantilla	Joe		3005
+8/26/2008	REP	Republican	STR	State Representative	LAK	Lake	042		41	41	O'Toole	H. Marlene		5084
+8/26/2008	REP	Republican	STR	State Representative	MRN	Marion	042		6	6	O'Toole	H. Marlene		906
+8/26/2008	REP	Republican	STR	State Representative	SUM	Sumter	042		38	38	O'Toole	H. Marlene		5800
+8/26/2008	REP	Republican	STR	State Representative	LAK	Lake	042		41	41	Pruitt	Will		5102
+8/26/2008	REP	Republican	STR	State Representative	MRN	Marion	042		6	6	Pruitt	Will		535
+8/26/2008	REP	Republican	STR	State Representative	SUM	Sumter	042		38	38	Pruitt	Will		2621
+8/26/2008	REP	Republican	STR	State Representative	POL	Polk	064		41	41	English,, III	C. J.	'Jack'	2061
+8/26/2008	REP	Republican	STR	State Representative	POL	Polk	064		41	41	Stargel	Kelli		3954
+8/26/2008	REP	Republican	STR	State Representative	POL	Polk	064		41	41	Walker	Phillip		1648
+8/26/2008	REP	Republican	STR	State Representative	HIL	Hillsborough	067		20	20	Faryniasz	Kirk	E.	588
+8/26/2008	REP	Republican	STR	State Representative	MAN	Manatee	067		55	55	Faryniasz	Kirk	E.	1256
+8/26/2008	REP	Republican	STR	State Representative	SAR	Sarasota	067		11	11	Faryniasz	Kirk	E.	271
+8/26/2008	REP	Republican	STR	State Representative	HIL	Hillsborough	067		20	20	Reagan	Ron		1379
+8/26/2008	REP	Republican	STR	State Representative	MAN	Manatee	067		55	55	Reagan	Ron		6932
+8/26/2008	REP	Republican	STR	State Representative	SAR	Sarasota	067		11	11	Reagan	Ron		1883
+8/26/2008	REP	Republican	STR	State Representative	CHA	Charlotte	071		45	45	Constance	Chris		3915
+8/26/2008	REP	Republican	STR	State Representative	LEE	Lee	071		5	5	Constance	Chris		434
+8/26/2008	REP	Republican	STR	State Representative	SAR	Sarasota	071		20	20	Constance	Chris		1195
+8/26/2008	REP	Republican	STR	State Representative	CHA	Charlotte	071		45	45	Roberson	Ken		6003
+8/26/2008	REP	Republican	STR	State Representative	LEE	Lee	071		5	5	Roberson	Ken		927
+8/26/2008	REP	Republican	STR	State Representative	SAR	Sarasota	071		20	20	Roberson	Ken		1672
+8/26/2008	REP	Republican	STR	State Representative	CHA	Charlotte	071		45	45	Santos	Richard	J	1508
+8/26/2008	REP	Republican	STR	State Representative	LEE	Lee	071		5	5	Santos	Richard	J	87
+8/26/2008	REP	Republican	STR	State Representative	SAR	Sarasota	071		20	20	Santos	Richard	J	449
+8/26/2008	REP	Republican	STR	State Representative	CHA	Charlotte	072		34	34	Kreegel	Paige		5579
+8/26/2008	REP	Republican	STR	State Representative	DES	DeSoto	072		15	15	Kreegel	Paige		535
+8/26/2008	REP	Republican	STR	State Representative	LEE	Lee	072		18	18	Kreegel	Paige		2581
+8/26/2008	REP	Republican	STR	State Representative	CHA	Charlotte	072		34	34	Richter	Keith	S.	2032
+8/26/2008	REP	Republican	STR	State Representative	DES	DeSoto	072		15	15	Richter	Keith	S.	174
+8/26/2008	REP	Republican	STR	State Representative	LEE	Lee	072		18	18	Richter	Keith	S.	1509
+8/26/2008	REP	Republican	STR	State Representative	MRT	Martin	081		19	19	DiTerlizzi	Michael		2995
+8/26/2008	REP	Republican	STR	State Representative	STL	St. Lucie	081		39	39	DiTerlizzi	Michael		2345
+8/26/2008	REP	Republican	STR	State Representative	MRT	Martin	081		19	19	Gorman	Jeff		1773
+8/26/2008	REP	Republican	STR	State Representative	STL	St. Lucie	081		39	39	Gorman	Jeff		2582
+8/26/2008	REP	Republican	STR	State Representative	MRT	Martin	081		19	19	Jazarevic	Danny	'Dr. J'	1593
+8/26/2008	REP	Republican	STR	State Representative	STL	St. Lucie	081		39	39	Jazarevic	Danny	'Dr. J'	2114
+8/26/2008	REP	Republican	STR	State Representative	BRO	Broward	097		67	67	Goberville	Todd		1645
+8/26/2008	REP	Republican	STR	State Representative	BRO	Broward	097		67	67	Pazmino	Rene		778
+8/26/2008	REP	Republican	STR	State Representative	DAD	Miami-Dade	111		47	47	Fresen	Erik		4258
+8/26/2008	REP	Republican	STR	State Representative	DAD	Miami-Dade	111		47	47	Perez	Rafael		3774
+8/26/2008	DEM	Democrat	USR	United States Representative	CIT	Citrus	005		41	41	Castagnero	Carol		2694
+8/26/2008	DEM	Democrat	USR	United States Representative	HER	Hernando	005		56	56	Castagnero	Carol		2254
+8/26/2008	DEM	Democrat	USR	United States Representative	LAK	Lake	005		36	36	Castagnero	Carol		1443
+8/26/2008	DEM	Democrat	USR	United States Representative	LEV	Levy	005		16	16	Castagnero	Carol		1431
+8/26/2008	DEM	Democrat	USR	United States Representative	MRN	Marion	005		10	10	Castagnero	Carol		236
+8/26/2008	DEM	Democrat	USR	United States Representative	PAS	Pasco	005		84	84	Castagnero	Carol		2231
+8/26/2008	DEM	Democrat	USR	United States Representative	POL	Polk	005		15	15	Castagnero	Carol		814
+8/26/2008	DEM	Democrat	USR	United States Representative	SUM	Sumter	005		44	44	Castagnero	Carol		1751
+8/26/2008	DEM	Democrat	USR	United States Representative	CIT	Citrus	005		41	41	Russell	John		3623
+8/26/2008	DEM	Democrat	USR	United States Representative	HER	Hernando	005		56	56	Russell	John		3506
+8/26/2008	DEM	Democrat	USR	United States Representative	LAK	Lake	005		36	36	Russell	John		1728
+8/26/2008	DEM	Democrat	USR	United States Representative	LEV	Levy	005		16	16	Russell	John		1595
+8/26/2008	DEM	Democrat	USR	United States Representative	MRN	Marion	005		10	10	Russell	John		264
+8/26/2008	DEM	Democrat	USR	United States Representative	PAS	Pasco	005		84	84	Russell	John		3032
+8/26/2008	DEM	Democrat	USR	United States Representative	POL	Polk	005		15	15	Russell	John		1253
+8/26/2008	DEM	Democrat	USR	United States Representative	SUM	Sumter	005		44	44	Russell	John		1899
+8/26/2008	DEM	Democrat	USR	United States Representative	CIT	Citrus	005		41	41	Werder	H. David		791
+8/26/2008	DEM	Democrat	USR	United States Representative	HER	Hernando	005		56	56	Werder	H. David		651
+8/26/2008	DEM	Democrat	USR	United States Representative	LAK	Lake	005		36	36	Werder	H. David		384
+8/26/2008	DEM	Democrat	USR	United States Representative	LEV	Levy	005		16	16	Werder	H. David		499
+8/26/2008	DEM	Democrat	USR	United States Representative	MRN	Marion	005		10	10	Werder	H. David		53
+8/26/2008	DEM	Democrat	USR	United States Representative	PAS	Pasco	005		84	84	Werder	H. David		546
+8/26/2008	DEM	Democrat	USR	United States Representative	POL	Polk	005		15	15	Werder	H. David		209
+8/26/2008	DEM	Democrat	USR	United States Representative	SUM	Sumter	005		44	44	Werder	H. David		399
+8/26/2008	DEM	Democrat	USR	United States Representative	FLA	Flagler	007		6	6	Armitage	Faye		3389
+8/26/2008	DEM	Democrat	USR	United States Representative	ORA	Orange	007		4	4	Armitage	Faye		301
+8/26/2008	DEM	Democrat	USR	United States Representative	PUT	Putnam	007		22	22	Armitage	Faye		2172
+8/26/2008	DEM	Democrat	USR	United States Representative	SEM	Seminole	007		57	57	Armitage	Faye		2054
+8/26/2008	DEM	Democrat	USR	United States Representative	STJ	St. Johns	007		47	47	Armitage	Faye		4490
+8/26/2008	DEM	Democrat	USR	United States Representative	VOL	Volusia	007		111	111	Armitage	Faye		5612
+8/26/2008	DEM	Democrat	USR	United States Representative	FLA	Flagler	007		6	6	Malloy	Clyde		1784
+8/26/2008	DEM	Democrat	USR	United States Representative	ORA	Orange	007		4	4	Malloy	Clyde		138
+8/26/2008	DEM	Democrat	USR	United States Representative	PUT	Putnam	007		22	22	Malloy	Clyde		1993
+8/26/2008	DEM	Democrat	USR	United States Representative	SEM	Seminole	007		57	57	Malloy	Clyde		1136
+8/26/2008	DEM	Democrat	USR	United States Representative	STJ	St. Johns	007		47	47	Malloy	Clyde		1812
+8/26/2008	DEM	Democrat	USR	United States Representative	VOL	Volusia	007		111	111	Malloy	Clyde		3296
+8/26/2008	DEM	Democrat	USR	United States Representative	LAK	Lake	008		37	37	Fry	Alexander		120
+8/26/2008	DEM	Democrat	USR	United States Representative	MRN	Marion	008		35	35	Fry	Alexander		104
+8/26/2008	DEM	Democrat	USR	United States Representative	ORA	Orange	008		164	164	Fry	Alexander		803
+8/26/2008	DEM	Democrat	USR	United States Representative	OSC	Osceola	008		2	2	Fry	Alexander		3
+8/26/2008	DEM	Democrat	USR	United States Representative	LAK	Lake	008		37	37	Grayson	Alan		2107
+8/26/2008	DEM	Democrat	USR	United States Representative	MRN	Marion	008		35	35	Grayson	Alan		1619
+8/26/2008	DEM	Democrat	USR	United States Representative	ORA	Orange	008		164	164	Grayson	Alan		12294
+8/26/2008	DEM	Democrat	USR	United States Representative	OSC	Osceola	008		2	2	Grayson	Alan		84
+8/26/2008	DEM	Democrat	USR	United States Representative	LAK	Lake	008		37	37	Smith	Mike		647
+8/26/2008	DEM	Democrat	USR	United States Representative	MRN	Marion	008		35	35	Smith	Mike		1062
+8/26/2008	DEM	Democrat	USR	United States Representative	ORA	Orange	008		164	164	Smith	Mike		3991
+8/26/2008	DEM	Democrat	USR	United States Representative	OSC	Osceola	008		2	2	Smith	Mike		27
+8/26/2008	DEM	Democrat	USR	United States Representative	LAK	Lake	008		37	37	Stuart	Charlie		1140
+8/26/2008	DEM	Democrat	USR	United States Representative	MRN	Marion	008		35	35	Stuart	Charlie		687
+8/26/2008	DEM	Democrat	USR	United States Representative	ORA	Orange	008		164	164	Stuart	Charlie		7275
+8/26/2008	DEM	Democrat	USR	United States Representative	OSC	Osceola	008		2	2	Stuart	Charlie		44
+8/26/2008	DEM	Democrat	USR	United States Representative	LAK	Lake	008		37	37	Van	Quoc	Ba	57
+8/26/2008	DEM	Democrat	USR	United States Representative	MRN	Marion	008		35	35	Van	Quoc	Ba	70
+8/26/2008	DEM	Democrat	USR	United States Representative	ORA	Orange	008		164	164	Van	Quoc	Ba	1089
+8/26/2008	DEM	Democrat	USR	United States Representative	OSC	Osceola	008		2	2	Van	Quoc	Ba	3
+8/26/2008	DEM	Democrat	USR	United States Representative	HIL	Hillsborough	009		101	101	de Palma	Anita		1885
+8/26/2008	DEM	Democrat	USR	United States Representative	PAS	Pasco	009		70	70	de Palma	Anita		1768
+8/26/2008	DEM	Democrat	USR	United States Representative	PIN	Pinellas	009		83	83	de Palma	Anita		2249
+8/26/2008	DEM	Democrat	USR	United States Representative	HIL	Hillsborough	009		101	101	Dicks	John		3091
+8/26/2008	DEM	Democrat	USR	United States Representative	PAS	Pasco	009		70	70	Dicks	John		1650
+8/26/2008	DEM	Democrat	USR	United States Representative	PIN	Pinellas	009		83	83	Dicks	John		2298
+8/26/2008	DEM	Democrat	USR	United States Representative	HIL	Hillsborough	009		101	101	Mitchell	Bill		2655
+8/26/2008	DEM	Democrat	USR	United States Representative	PAS	Pasco	009		70	70	Mitchell	Bill		2796
+8/26/2008	DEM	Democrat	USR	United States Representative	PIN	Pinellas	009		83	83	Mitchell	Bill		2275
+8/26/2008	DEM	Democrat	USR	United States Representative	PIN	Pinellas	010		258	258	Hackworth	Bob		10420
+8/26/2008	DEM	Democrat	USR	United States Representative	PIN	Pinellas	010		258	258	Linn	Max		5424
+8/26/2008	DEM	Democrat	USR	United States Representative	PIN	Pinellas	010		258	258	Simpson	Samm	(Denise)	6445
+8/26/2008	DEM	Democrat	USR	United States Representative	BRE	Brevard	015		167	167	Blythe	Stephen		12433
+8/26/2008	DEM	Democrat	USR	United States Representative	IND	Indian River	015		54	54	Blythe	Stephen		3633
+8/26/2008	DEM	Democrat	USR	United States Representative	OSC	Osceola	015		94	94	Blythe	Stephen		2919
+8/26/2008	DEM	Democrat	USR	United States Representative	POL	Polk	015		7	7	Blythe	Stephen		296
+8/26/2008	DEM	Democrat	USR	United States Representative	BRE	Brevard	015		167	167	Rancatore	Paul		5631
+8/26/2008	DEM	Democrat	USR	United States Representative	IND	Indian River	015		54	54	Rancatore	Paul		2119
+8/26/2008	DEM	Democrat	USR	United States Representative	OSC	Osceola	015		94	94	Rancatore	Paul		2172
+8/26/2008	DEM	Democrat	USR	United States Representative	POL	Polk	015		7	7	Rancatore	Paul		167
+8/26/2008	DEM	Democrat	USR	United States Representative	BRO	Broward	022		149	149	Klein	Ron		7303
+8/26/2008	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	022		276	276	Klein	Ron		13204
+8/26/2008	DEM	Democrat	USR	United States Representative	BRO	Broward	022		149	149	Renneisen	Paul	Francis	1645
+8/26/2008	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	022		276	276	Renneisen	Paul	Francis	1958
+8/26/2008	DEM	Democrat	USR	United States Representative	BRO	Broward	023		163	163	Hastings	Alcee	L.	18773
+8/26/2008	DEM	Democrat	USR	United States Representative	HEN	Hendry	023		7	7	Hastings	Alcee	L.	825
+8/26/2008	DEM	Democrat	USR	United States Representative	MRT	Martin	023		3	3	Hastings	Alcee	L.	94
+8/26/2008	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	023		158	158	Hastings	Alcee	L.	9073
+8/26/2008	DEM	Democrat	USR	United States Representative	STL	St. Lucie	023		13	13	Hastings	Alcee	L.	2417
+8/26/2008	DEM	Democrat	USR	United States Representative	BRO	Broward	023		163	163	Sanchez	Ray	Torres	2331
+8/26/2008	DEM	Democrat	USR	United States Representative	HEN	Hendry	023		7	7	Sanchez	Ray	Torres	153
+8/26/2008	DEM	Democrat	USR	United States Representative	MRT	Martin	023		3	3	Sanchez	Ray	Torres	13
+8/26/2008	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	023		158	158	Sanchez	Ray	Torres	1336
+8/26/2008	DEM	Democrat	USR	United States Representative	STL	St. Lucie	023		13	13	Sanchez	Ray	Torres	402
+8/26/2008	DEM	Democrat	USR	United States Representative	BRE	Brevard	024		60	60	Curtis	Clint		2711
+8/26/2008	DEM	Democrat	USR	United States Representative	ORA	Orange	024		61	61	Curtis	Clint		1954
+8/26/2008	DEM	Democrat	USR	United States Representative	SEM	Seminole	024		57	57	Curtis	Clint		1113
+8/26/2008	DEM	Democrat	USR	United States Representative	VOL	Volusia	024		72	72	Curtis	Clint		1359
+8/26/2008	DEM	Democrat	USR	United States Representative	BRE	Brevard	024		60	60	Kosmas	Suzanne	M	4408
+8/26/2008	DEM	Democrat	USR	United States Representative	ORA	Orange	024		61	61	Kosmas	Suzanne	M	4543
+8/26/2008	DEM	Democrat	USR	United States Representative	SEM	Seminole	024		57	57	Kosmas	Suzanne	M	3384
+8/26/2008	DEM	Democrat	USR	United States Representative	VOL	Volusia	024		72	72	Kosmas	Suzanne	M	6337
+8/26/2008	DEM	Democrat	STA	State Attorney	CLM	Columbia	003		25	25	Hingson	M. Todd		5599
+8/26/2008	DEM	Democrat	STA	State Attorney	DIX	Dixie	003		10	10	Hingson	M. Todd		1128
+8/26/2008	DEM	Democrat	STA	State Attorney	HAM	Hamilton	003		8	8	Hingson	M. Todd		817
+8/26/2008	DEM	Democrat	STA	State Attorney	LAF	Lafayette	003		5	5	Hingson	M. Todd		975
+8/26/2008	DEM	Democrat	STA	State Attorney	MAD	Madison	003		11	11	Hingson	M. Todd		921
+8/26/2008	DEM	Democrat	STA	State Attorney	SUW	Suwannee	003		16	16	Hingson	M. Todd		3185
+8/26/2008	DEM	Democrat	STA	State Attorney	TAY	Taylor	003		14	14	Hingson	M. Todd		2117
+8/26/2008	DEM	Democrat	STA	State Attorney	CLM	Columbia	003		25	25	Jarvis,, Jr.	Robert	L. 'Skip'	5516
+8/26/2008	DEM	Democrat	STA	State Attorney	DIX	Dixie	003		10	10	Jarvis,, Jr.	Robert	L. 'Skip'	1718
+8/26/2008	DEM	Democrat	STA	State Attorney	HAM	Hamilton	003		8	8	Jarvis,, Jr.	Robert	L. 'Skip'	1590
+8/26/2008	DEM	Democrat	STA	State Attorney	LAF	Lafayette	003		5	5	Jarvis,, Jr.	Robert	L. 'Skip'	1079
+8/26/2008	DEM	Democrat	STA	State Attorney	MAD	Madison	003		11	11	Jarvis,, Jr.	Robert	L. 'Skip'	2132
+8/26/2008	DEM	Democrat	STA	State Attorney	SUW	Suwannee	003		16	16	Jarvis,, Jr.	Robert	L. 'Skip'	3014
+8/26/2008	DEM	Democrat	STA	State Attorney	TAY	Taylor	003		14	14	Jarvis,, Jr.	Robert	L. 'Skip'	2573
+8/26/2008	DEM	Democrat	STA	State Attorney	CLM	Columbia	003		25	25	Prins	Alex		2314
+8/26/2008	DEM	Democrat	STA	State Attorney	DIX	Dixie	003		10	10	Prins	Alex		1001
+8/26/2008	DEM	Democrat	STA	State Attorney	HAM	Hamilton	003		8	8	Prins	Alex		741
+8/26/2008	DEM	Democrat	STA	State Attorney	LAF	Lafayette	003		5	5	Prins	Alex		637
+8/26/2008	DEM	Democrat	STA	State Attorney	MAD	Madison	003		11	11	Prins	Alex		1359
+8/26/2008	DEM	Democrat	STA	State Attorney	SUW	Suwannee	003		16	16	Prins	Alex		2063
+8/26/2008	DEM	Democrat	STA	State Attorney	TAY	Taylor	003		14	14	Prins	Alex		1001
+8/26/2008	DEM	Democrat	STA	State Attorney	PAL	Palm Beach	015		783	783	McAuliffe	Michael		38811
+8/26/2008	DEM	Democrat	STA	State Attorney	PAL	Palm Beach	015		783	783	Russell	Paula		17971
+8/26/2008	DEM	Democrat	PUB	Public Defender	BRO	Broward	017		779	779	Arreaza	Alex		13109
+8/26/2008	DEM	Democrat	PUB	Public Defender	BRO	Broward	017		779	779	Finkelstein	Howard		58784
+8/26/2008	DEM	Democrat	STS	State Senator	CIT	Citrus	011		6	6	Skandera	Richard		162
+8/26/2008	DEM	Democrat	STS	State Senator	HER	Hernando	011		25	25	Skandera	Richard		905
+8/26/2008	DEM	Democrat	STS	State Senator	PAS	Pasco	011		74	74	Skandera	Richard		2024
+8/26/2008	DEM	Democrat	STS	State Senator	PIN	Pinellas	011		57	57	Skandera	Richard		1340
+8/26/2008	DEM	Democrat	STS	State Senator	CIT	Citrus	011		6	6	Taylor	Fred		363
+8/26/2008	DEM	Democrat	STS	State Senator	HER	Hernando	011		25	25	Taylor	Fred		1830
+8/26/2008	DEM	Democrat	STS	State Senator	PAS	Pasco	011		74	74	Taylor	Fred		4310
+8/26/2008	DEM	Democrat	STS	State Senator	PIN	Pinellas	011		57	57	Taylor	Fred		3375
+8/26/2008	DEM	Democrat	STS	State Senator	ORA	Orange	019		97	97	Siplin	Gary		10340
+8/26/2008	DEM	Democrat	STS	State Senator	OSC	Osceola	019		20	20	Siplin	Gary		965
+8/26/2008	DEM	Democrat	STS	State Senator	ORA	Orange	019		97	97	Woodard	Maurice	'Doc'	8036
+8/26/2008	DEM	Democrat	STS	State Senator	OSC	Osceola	019		20	20	Woodard	Maurice	'Doc'	642
+8/26/2008	DEM	Democrat	STS	State Senator	BRO	Broward	029		109	109	Carn	Michael	E.	1283
+8/26/2008	DEM	Democrat	STS	State Senator	PAL	Palm Beach	029		88	88	Carn	Michael	E.	1489
+8/26/2008	DEM	Democrat	STS	State Senator	BRO	Broward	029		109	109	Smiley	Earlean	C.	2506
+8/26/2008	DEM	Democrat	STS	State Senator	PAL	Palm Beach	029		88	88	Smiley	Earlean	C.	641
+8/26/2008	DEM	Democrat	STS	State Senator	BRO	Broward	029		109	109	Smith	Christopher 'Chris'		11369
+8/26/2008	DEM	Democrat	STS	State Senator	PAL	Palm Beach	029		88	88	Smith	Christopher 'Chris'		4481
+8/26/2008	DEM	Democrat	STS	State Senator	BRO	Broward	029		109	109	Williams Edden	Terry	A.	728
+8/26/2008	DEM	Democrat	STS	State Senator	PAL	Palm Beach	029		88	88	Williams Edden	Terry	A.	346
+8/26/2008	DEM	Democrat	STS	State Senator	BRO	Broward	031		206	206	Gottlieb	Kenneth	'Ken'	6501
+8/26/2008	DEM	Democrat	STS	State Senator	BRO	Broward	031		206	206	Ryan	Timothy	'Tim'	6277
+8/26/2008	DEM	Democrat	STS	State Senator	BRO	Broward	031		206	206	Sobel	Eleanor		7113
+8/26/2008	DEM	Democrat	STR	State Representative	GAD	Gadsden	008		26	26	Brown	Hubert	R.	552
+8/26/2008	DEM	Democrat	STR	State Representative	LEO	Leon	008		56	56	Brown	Hubert	R.	1183
+8/26/2008	DEM	Democrat	STR	State Representative	GAD	Gadsden	008		26	26	Maloy	Rudy		735
+8/26/2008	DEM	Democrat	STR	State Representative	LEO	Leon	008		56	56	Maloy	Rudy		1243
+8/26/2008	DEM	Democrat	STR	State Representative	GAD	Gadsden	008		26	26	Moore	Rodney		1563
+8/26/2008	DEM	Democrat	STR	State Representative	LEO	Leon	008		56	56	Moore	Rodney		130
+8/26/2008	DEM	Democrat	STR	State Representative	GAD	Gadsden	008		26	26	Roberson	Carolyn	J.	1539
+8/26/2008	DEM	Democrat	STR	State Representative	LEO	Leon	008		56	56	Roberson	Carolyn	J.	657
+8/26/2008	DEM	Democrat	STR	State Representative	GAD	Gadsden	008		26	26	Shaw	Sean		919
+8/26/2008	DEM	Democrat	STR	State Representative	LEO	Leon	008		56	56	Shaw	Sean		1041
+8/26/2008	DEM	Democrat	STR	State Representative	GAD	Gadsden	008		26	26	Viegbesie	Anthony	'Dr. V'	675
+8/26/2008	DEM	Democrat	STR	State Representative	LEO	Leon	008		56	56	Viegbesie	Anthony	'Dr. V'	1208
+8/26/2008	DEM	Democrat	STR	State Representative	GAD	Gadsden	008		26	26	Williams	Alan		3291
+8/26/2008	DEM	Democrat	STR	State Representative	LEO	Leon	008		56	56	Williams	Alan		4685
+8/26/2008	DEM	Democrat	STR	State Representative	ALA	Alachua	010		1	1	Bembry	Leonard	L.	77
+8/26/2008	DEM	Democrat	STR	State Representative	CLM	Columbia	010		9	9	Bembry	Leonard	L.	1049
+8/26/2008	DEM	Democrat	STR	State Representative	DIX	Dixie	010		10	10	Bembry	Leonard	L.	2096
+8/26/2008	DEM	Democrat	STR	State Representative	FRA	Franklin	010		5	5	Bembry	Leonard	L.	931
+8/26/2008	DEM	Democrat	STR	State Representative	HAM	Hamilton	010		8	8	Bembry	Leonard	L.	1996
+8/26/2008	DEM	Democrat	STR	State Representative	JEF	Jefferson	010		15	15	Bembry	Leonard	L.	1676
+8/26/2008	DEM	Democrat	STR	State Representative	LEV	Levy	010		18	18	Bembry	Leonard	L.	2334
+8/26/2008	DEM	Democrat	STR	State Representative	MAD	Madison	010		11	11	Bembry	Leonard	L.	2640
+8/26/2008	DEM	Democrat	STR	State Representative	TAY	Taylor	010		14	14	Bembry	Leonard	L.	2789
+8/26/2008	DEM	Democrat	STR	State Representative	WAK	Wakulla	010		7	7	Bembry	Leonard	L.	515
+8/26/2008	DEM	Democrat	STR	State Representative	ALA	Alachua	010		1	1	Conley	Julie		97
+8/26/2008	DEM	Democrat	STR	State Representative	CLM	Columbia	010		9	9	Conley	Julie		1201
+8/26/2008	DEM	Democrat	STR	State Representative	DIX	Dixie	010		10	10	Conley	Julie		1194
+8/26/2008	DEM	Democrat	STR	State Representative	FRA	Franklin	010		5	5	Conley	Julie		1056
+8/26/2008	DEM	Democrat	STR	State Representative	HAM	Hamilton	010		8	8	Conley	Julie		716
+8/26/2008	DEM	Democrat	STR	State Representative	JEF	Jefferson	010		15	15	Conley	Julie		2131
+8/26/2008	DEM	Democrat	STR	State Representative	LEV	Levy	010		18	18	Conley	Julie		2109
+8/26/2008	DEM	Democrat	STR	State Representative	MAD	Madison	010		11	11	Conley	Julie		1203
+8/26/2008	DEM	Democrat	STR	State Representative	TAY	Taylor	010		14	14	Conley	Julie		1716
+8/26/2008	DEM	Democrat	STR	State Representative	WAK	Wakulla	010		7	7	Conley	Julie		396
+8/26/2008	DEM	Democrat	STR	State Representative	DUV	Duval	014		68	68	Jones	Mia		6211
+8/26/2008	DEM	Democrat	STR	State Representative	DUV	Duval	014		68	68	Lockett-Felder	Pat		5245
+8/26/2008	DEM	Democrat	STR	State Representative	VOL	Volusia	027		58	58	Dilligard,, Sr.	Terry	E.	1761
+8/26/2008	DEM	Democrat	STR	State Representative	VOL	Volusia	027		58	58	Ross	Jake	C.	1439
+8/26/2008	DEM	Democrat	STR	State Representative	VOL	Volusia	027		58	58	Taylor	Dwayne	L.	2087
+8/26/2008	DEM	Democrat	STR	State Representative	HIL	Hillsborough	055		2	2	McKenzie, Jr.	Charles	S.	0
+8/26/2008	DEM	Democrat	STR	State Representative	MAN	Manatee	055		27	27	McKenzie, Jr.	Charles	S.	667
+8/26/2008	DEM	Democrat	STR	State Representative	PIN	Pinellas	055		36	36	McKenzie, Jr.	Charles	S.	1966
+8/26/2008	DEM	Democrat	STR	State Representative	SAR	Sarasota	055		9	9	McKenzie, Jr.	Charles	S.	466
+8/26/2008	DEM	Democrat	STR	State Representative	HIL	Hillsborough	055		2	2	Rouson	Darryl	Ervin	3
+8/26/2008	DEM	Democrat	STR	State Representative	MAN	Manatee	055		27	27	Rouson	Darryl	Ervin	688
+8/26/2008	DEM	Democrat	STR	State Representative	PIN	Pinellas	055		36	36	Rouson	Darryl	Ervin	3656
+8/26/2008	DEM	Democrat	STR	State Representative	SAR	Sarasota	055		9	9	Rouson	Darryl	Ervin	268
+8/26/2008	DEM	Democrat	STR	State Representative	HIL	Hillsborough	059		40	40	Dawson	Warren	Hope	2103
+8/26/2008	DEM	Democrat	STR	State Representative	HIL	Hillsborough	059		40	40	Reed	Betty		4969
+8/26/2008	DEM	Democrat	STR	State Representative	MRT	Martin	078		2	2	Greenstein Rader	Kevin		38
+8/26/2008	DEM	Democrat	STR	State Representative	OKE	Okeechobee	078		5	5	Greenstein Rader	Kevin		210
+8/26/2008	DEM	Democrat	STR	State Representative	PAL	Palm Beach	078		50	50	Greenstein Rader	Kevin		4131
+8/26/2008	DEM	Democrat	STR	State Representative	STL	St. Lucie	078		11	11	Greenstein Rader	Kevin		672
+8/26/2008	DEM	Democrat	STR	State Representative	MRT	Martin	078		2	2	Nichol	Steve		52
+8/26/2008	DEM	Democrat	STR	State Representative	OKE	Okeechobee	078		5	5	Nichol	Steve		339
+8/26/2008	DEM	Democrat	STR	State Representative	PAL	Palm Beach	078		50	50	Nichol	Steve		1950
+8/26/2008	DEM	Democrat	STR	State Representative	STL	St. Lucie	078		11	11	Nichol	Steve		1171
+8/26/2008	DEM	Democrat	STR	State Representative	MRT	Martin	078		2	2	Perman	Steve		41
+8/26/2008	DEM	Democrat	STR	State Representative	OKE	Okeechobee	078		5	5	Perman	Steve		222
+8/26/2008	DEM	Democrat	STR	State Representative	PAL	Palm Beach	078		50	50	Perman	Steve		3422
+8/26/2008	DEM	Democrat	STR	State Representative	STL	St. Lucie	078		11	11	Perman	Steve		1168
+8/26/2008	DEM	Democrat	STR	State Representative	MRT	Martin	081		19	19	Fetterman	Adam		901
+8/26/2008	DEM	Democrat	STR	State Representative	STL	St. Lucie	081		39	39	Fetterman	Adam		3687
+8/26/2008	DEM	Democrat	STR	State Representative	MRT	Martin	081		19	19	Ramos	Bill		883
+8/26/2008	DEM	Democrat	STR	State Representative	STL	St. Lucie	081		39	39	Ramos	Bill		2187
+8/26/2008	DEM	Democrat	STR	State Representative	PAL	Palm Beach	083		130	130	Ford	Frederick	W. 'Rick'	2114
+8/26/2008	DEM	Democrat	STR	State Representative	PAL	Palm Beach	083		130	130	Miller	Bryan		4314
+8/26/2008	DEM	Democrat	STR	State Representative	BRO	Broward	087		8	8	Maki	Todd		143
+8/26/2008	DEM	Democrat	STR	State Representative	PAL	Palm Beach	087		85	85	Maki	Todd		1535
+8/26/2008	DEM	Democrat	STR	State Representative	BRO	Broward	087		8	8	Ostrov	Robert 'Rob'		159
+8/26/2008	DEM	Democrat	STR	State Representative	PAL	Palm Beach	087		85	85	Ostrov	Robert 'Rob'		1856
+8/26/2008	DEM	Democrat	STR	State Representative	BRO	Broward	092		68	68	Clarke-Reed	Gwyndolen 'Gwyn'		3374
+8/26/2008	DEM	Democrat	STR	State Representative	BRO	Broward	092		68	68	LaFontaine	Mark		2277
+8/26/2008	DEM	Democrat	STR	State Representative	BRO	Broward	092		68	68	Newton	Scott		2595
+8/26/2008	DEM	Democrat	STR	State Representative	BRO	Broward	094		52	52	Banks	Roshawn		448
+8/26/2008	DEM	Democrat	STR	State Representative	BRO	Broward	094		52	52	Hammond	Eric		2607
+8/26/2008	DEM	Democrat	STR	State Representative	BRO	Broward	094		52	52	Lynch	Robert	L.	455
+8/26/2008	DEM	Democrat	STR	State Representative	BRO	Broward	094		52	52	Rogers	Hazelle		3751
+8/26/2008	DEM	Democrat	STR	State Representative	BRO	Broward	094		52	52	Thurston	Ken		2125
+8/26/2008	DEM	Democrat	STR	State Representative	BRO	Broward	094		52	52	Young	Rubin		248
+8/26/2008	DEM	Democrat	STR	State Representative	BRO	Broward	100		60	60	Jenne	Evan		4153
+8/26/2008	DEM	Democrat	STR	State Representative	BRO	Broward	100		60	60	Kellner	Robert	E.	2413
+8/26/2008	DEM	Democrat	STR	State Representative	BRO	Broward	100		60	60	Stevens	Freda	Sherman	1673
+8/26/2008	DEM	Democrat	STR	State Representative	BRO	Broward	101		28	28	Jimenez	Maria		990
+8/26/2008	DEM	Democrat	STR	State Representative	CLL	Collier	101		22	22	Jimenez	Maria		2149
+8/26/2008	DEM	Democrat	STR	State Representative	BRO	Broward	101		28	28	Lopez	Samuel	D.	810
+8/26/2008	DEM	Democrat	STR	State Representative	CLL	Collier	101		22	22	Lopez	Samuel	D.	489
+8/26/2008	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	106		49	49	Geller	Joe		1947
+8/26/2008	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	106		49	49	Steinberg	Richard	L.	4269
+8/26/2008	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		57	57	Bush III	James		3027
+8/26/2008	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		57	57	Cooper,, Jr.	Johnnie	Edward	288
+8/26/2008	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		57	57	Hardemon	Roy		876
+8/26/2008	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		57	57	Malone, Jr.	Robert		582
+8/26/2008	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		57	57	McElroy	Bess		1198
+8/26/2008	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		57	57	Montero	Barbara	Bibas	951
+8/26/2008	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		57	57	Norwood	Christopher		410
+8/26/2008	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		57	57	Quezaire	Leslie	'Les'	568
+8/26/2008	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		57	57	Stafford	Cynthia	A.	2885
+8/26/2008	DEM	Democrat	STR	State Representative	BRO	Broward	112		8	8	Espinosa	Juan		158
+8/26/2008	DEM	Democrat	STR	State Representative	CLL	Collier	112		9	9	Espinosa	Juan		96
+8/26/2008	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	112		32	32	Espinosa	Juan		689
+8/26/2008	DEM	Democrat	STR	State Representative	BRO	Broward	112		8	8	Gaffney	Betty		637
+8/26/2008	DEM	Democrat	STR	State Representative	CLL	Collier	112		9	9	Gaffney	Betty		373
+8/26/2008	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	112		32	32	Gaffney	Betty		689
+8/26/2008	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		51	51	Bullard	Dwight		3857
+8/26/2008	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		51	51	Crapp, Jr.	Tony	E.	2661
+8/26/2008	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		51	51	Grace	George		1877
+8/26/2008	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		51	51	Johnson	Tan		1088
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	003	8	8	Davey	P. Kevin		1982
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	003	27	27	Davey	P. Kevin		5599
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	003	15	15	Davey	P. Kevin		2037
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	003	164	164	Davey	P. Kevin		22769
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	003	8	8	Davey	P. Kevin		1352
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	003	12	12	Davey	P. Kevin		1975
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	003	8	8	Frank	David		1632
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	003	27	27	Frank	David		5262
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	003	15	15	Frank	David		2770
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	003	164	164	Frank	David		20909
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	003	8	8	Frank	David		1162
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	003	12	12	Frank	David		2811
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	004	8	8	Caloca-Johnson	Dawn		1440
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	004	27	27	Caloca-Johnson	Dawn		4216
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	004	15	15	Caloca-Johnson	Dawn		2047
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	004	164	164	Caloca-Johnson	Dawn		19684
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	004	8	8	Caloca-Johnson	Dawn		848
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	004	12	12	Caloca-Johnson	Dawn		2058
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	004	8	8	Dodson	Charles		2202
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	004	27	27	Dodson	Charles		6454
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	004	15	15	Dodson	Charles		2830
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	004	164	164	Dodson	Charles		24098
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	004	8	8	Dodson	Charles		1738
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	004	12	12	Dodson	Charles		2814
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	007	8	8	Powell	Errol		544
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	007	27	27	Powell	Errol		4244
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	007	15	15	Powell	Errol		875
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	007	164	164	Powell	Errol		11589
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	007	8	8	Powell	Errol		187
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	007	12	12	Powell	Errol		667
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	007	8	8	Raleigh	Lisa		1362
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	007	27	27	Raleigh	Lisa		2490
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	007	15	15	Raleigh	Lisa		1408
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	007	164	164	Raleigh	Lisa		13708
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	007	8	8	Raleigh	Lisa		919
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	007	12	12	Raleigh	Lisa		1451
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	007	8	8	Sheffield	Frank	E.	1714
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	007	27	27	Sheffield	Frank	E.	3957
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	007	15	15	Sheffield	Frank	E.	2478
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	007	164	164	Sheffield	Frank	E.	17828
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	007	8	8	Sheffield	Frank	E.	1392
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	007	12	12	Sheffield	Frank	E.	2684
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	016	8	8	Dempsey	Angela	C.	2199
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	016	27	27	Dempsey	Angela	C.	6610
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	016	15	15	Dempsey	Angela	C.	2997
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	016	164	164	Dempsey	Angela	C.	25152
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	016	8	8	Dempsey	Angela	C.	1364
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	016	12	12	Dempsey	Angela	C.	2868
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	016	8	8	Miller,, Jr.	William	J. 'Bill'	1525
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	016	27	27	Miller,, Jr.	William	J. 'Bill'	4142
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	016	15	15	Miller,, Jr.	William	J. 'Bill'	1908
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	016	164	164	Miller,, Jr.	William	J. 'Bill'	18701
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	016	8	8	Miller,, Jr.	William	J. 'Bill'	1150
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	016	12	12	Miller,, Jr.	William	J. 'Bill'	2047
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	CLM	Columbia	003	004	25	25	Craun	Chris		5134
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	DIX	Dixie	003	004	10	10	Craun	Chris		658
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	HAM	Hamilton	003	004	8	8	Craun	Chris		685
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	LAF	Lafayette	003	004	5	5	Craun	Chris		415
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	MAD	Madison	003	004	11	11	Craun	Chris		451
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	SUW	Suwannee	003	004	16	16	Craun	Chris		1340
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	TAY	Taylor	003	004	14	14	Craun	Chris		213
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	CLM	Columbia	003	004	25	25	Parker	Greg		5321
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	DIX	Dixie	003	004	10	10	Parker	Greg		2017
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	HAM	Hamilton	003	004	8	8	Parker	Greg		1091
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	LAF	Lafayette	003	004	5	5	Parker	Greg		1408
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	MAD	Madison	003	004	11	11	Parker	Greg		1704
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	SUW	Suwannee	003	004	16	16	Parker	Greg		3598
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	TAY	Taylor	003	004	14	14	Parker	Greg		5111
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	CLM	Columbia	003	004	25	25	Stone	Thomas		2645
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	DIX	Dixie	003	004	10	10	Stone	Thomas		1006
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	HAM	Hamilton	003	004	8	8	Stone	Thomas		1275
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	LAF	Lafayette	003	004	5	5	Stone	Thomas		684
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	MAD	Madison	003	004	11	11	Stone	Thomas		2391
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	SUW	Suwannee	003	004	16	16	Stone	Thomas		2585
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	TAY	Taylor	003	004	14	14	Stone	Thomas		714
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	011	65	65	Hulsey	Mark		13890
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	011	284	284	Hulsey	Mark		44886
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	011	20	20	Hulsey	Mark		5484
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	011	65	65	Soud	Adrian	G.	15032
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	011	284	284	Soud	Adrian	G.	49743
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	011	20	20	Soud	Adrian	G.	5898
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	028	65	65	Buttner	Rick		13500
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	028	284	284	Buttner	Rick		34985
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	028	20	20	Buttner	Rick		4411
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	028	65	65	Norton	Virginia		16173
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	028	284	284	Norton	Virginia		61176
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	028	20	20	Norton	Virginia		7092
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	003	41	41	Hawkins	Sandy		6903
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	003	56	56	Hawkins	Sandy		6996
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	003	102	102	Hawkins	Sandy		14661
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	003	151	151	Hawkins	Sandy		14029
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	003	44	44	Hawkins	Sandy		5886
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	003	41	41	Lamberti	Michael		5338
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	003	56	56	Lamberti	Michael		5027
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	003	102	102	Lamberti	Michael		7514
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	003	151	151	Lamberti	Michael		6950
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	003	44	44	Lamberti	Michael		3268
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	003	41	41	Lyn	Denise		9965
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	003	56	56	Lyn	Denise		4334
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	003	102	102	Lyn	Denise		10335
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	003	151	151	Lyn	Denise		7727
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	003	44	44	Lyn	Denise		3722
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	011	41	41	Howard	Richard	A.	14081
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	011	56	56	Howard	Richard	A.	9048
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	011	102	102	Howard	Richard	A.	18953
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	011	151	151	Howard	Richard	A.	16147
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	011	44	44	Howard	Richard	A.	7379
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	011	41	41	Portwood	Rhonda		8978
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	011	56	56	Portwood	Rhonda		7249
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	011	102	102	Portwood	Rhonda		12457
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	011	151	151	Portwood	Rhonda		11867
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	011	44	44	Portwood	Rhonda		5042
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	006	154	154	Assaid	Violet	M.	3608
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	006	376	376	Assaid	Violet	M.	7959
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	006	154	154	Handsel	Mary		16492
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	006	376	376	Handsel	Mary		35580
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	006	154	154	Howie	Bruce	G.	12138
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	006	376	376	Howie	Bruce	G.	27816
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	008	154	154	Foote	Kenneth		7990
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	008	376	376	Foote	Kenneth		17107
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	008	154	154	Gardner	Susan	L.	13495
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	008	376	376	Gardner	Susan	L.	30262
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	008	154	154	Williams	Robert	Angus	10956
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	008	376	376	Williams	Robert	Angus	23409
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	022	262	262	Crotty	John		23685
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	022	102	102	Crotty	John		3908
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	022	262	262	Schott	Fred		28878
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	022	102	102	Schott	Fred		4016
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	022	262	262	Turner	Jim		28864
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	022	102	102	Turner	Jim		4777
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	HAR	Hardee	010	019	12	12	Radabaugh	John		862
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	HIG	Highlands	010	019	25	25	Radabaugh	John		4953
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	POL	Polk	010	019	166	166	Radabaugh	John		26482
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	HAR	Hardee	010	019	12	12	White	Nathaniel		1747
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	HIG	Highlands	010	019	25	25	White	Nathaniel		4008
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	POL	Polk	010	019	166	166	White	Nathaniel		21406
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	011	807	807	Cueto	Jorge	E.	80509
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	011	807	807	Velis	Josie	Perez	69844
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	018	807	807	Sanchez-Llorens	Migna		88385
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	018	807	807	Segarra	Manny		60172
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	019	807	807	Colodny	Yvonne		49859
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	019	807	807	Kopco	Patricia	A.	41846
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	019	807	807	Millan	Stephen	T.	62591
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	038	807	807	Garcia	Mario		75628
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	038	807	807	Glick	Stacy	Daryl	81546
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	050	807	807	Corona	Ricardo	'Rick'	72240
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	050	807	807	Cynamon	Abby		81626
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	051	807	807	Caballero	Marcia	B.	86998
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	051	807	807	Chumbley	Douglas	J.	66191
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	055	807	807	Cohen	Jeri	Beth	90323
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	055	807	807	Cuellar	Abbie	Barbara	68816
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	057	807	807	Martinez-Scanziani	Denise		63557
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	057	807	807	Shapiro	Bernard	S.	90788
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	DES	DeSoto	012	001	15	15	Mederos-Jacobs	Connie		1632
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	MAN	Manatee	012	001	136	136	Mederos-Jacobs	Connie		14664
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	SAR	Sarasota	012	001	156	156	Mederos-Jacobs	Connie		20949
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	DES	DeSoto	012	001	15	15	Smith, Jr.	Gilbert	A.	2053
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	MAN	Manatee	012	001	136	136	Smith, Jr.	Gilbert	A.	16272
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	SAR	Sarasota	012	001	156	156	Smith, Jr.	Gilbert	A.	21467
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	001	383	383	Montes	Jason	D.	19513
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	001	383	383	Tesche	Caroline		41405
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	002	383	383	Velez	Miriam		18070
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	002	383	383	Ward	Samantha		43229
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	007	383	383	Carey	Kevin		30692
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	007	383	383	Catlin	Catherine	M.	30912
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	021	383	383	Campbell	Lisa		40242
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	021	383	383	Clark	Linda	Courtney	20993
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	030	383	383	Cook	Martha		41314
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	030	383	383	Daniels	Constance		19170
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	014	783	783	Lewis	Diana		47405
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	014	783	783	Small	Lisa		44274
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	023	783	783	Abramson	William	S. 'Bill'	45531
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	023	783	783	Wennet	Richard	I.	45470
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	MON	Monroe	016	004	34	34	Behr	Richard	M.	1190
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	MON	Monroe	016	004	34	34	Madruga	Manny		2357
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	MON	Monroe	016	004	34	34	Margalli	Jiulio		463
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	MON	Monroe	016	004	34	34	Slaton	Tegan		4447
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	MON	Monroe	016	004	34	34	Vanden Brook	Mary		3998
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	003	779	779	Bober	Bernard	Isaac 'Bernie'	36729
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	003	779	779	Dijols	Pedro	E	29527
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	003	779	779	Levey	Mardi	Anne	29599
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	021	779	779	Ehrlich	Merrilee		37894
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	021	779	779	Eichner	Paul	D.	31755
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	021	779	779	Howes	John	Robert	25715
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	027	779	779	Feren	Steven	Brian	39528
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	027	779	779	Rickard	Mark	W.	28197
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	027	779	779	Sugar	Ed		25481
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	034	779	779	Goldenberg	Renee		60140
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	034	779	779	Mollica	Kim	T.	35298
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	017	227	227	Allawas	Meryl	L.	34494
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	017	126	126	Allawas	Meryl	L.	11063
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	017	227	227	Burger	Robert	T.	33944
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	017	126	126	Burger	Robert	T.	14025
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	004	54	54	Geiger	Dwight	L.	10016
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	004	52	52	Geiger	Dwight	L.	12929
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	004	18	18	Geiger	Dwight	L.	2835
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	004	80	80	Geiger	Dwight	L.	10377
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	004	54	54	Litvack	Faith		5530
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	004	52	52	Litvack	Faith		6532
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	004	18	18	Litvack	Faith		880
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	004	80	80	Litvack	Faith		6427
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	004	54	54	Ross	Fran	O.	7725
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	004	52	52	Ross	Fran	O.	3996
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	004	18	18	Ross	Fran	O.	738
+8/26/2008	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	004	80	80	Ross	Fran	O.	8593

@@ -1,0 +1,19 @@
+"election_id","office_id","candidate_id","candidate","party","votes","vote_share","winner"
+"FL_1978-11-07_GEN","PD_20_000",NA,"Douglas Midgely","DEM",55356,0.534,1
+"FL_1978-11-07_GEN","PD_20_000",NA,"Xavier Fernandez","REP",48327,0.466,0
+"FL_1978-11-07_GEN","SA_20_000",NA,"Frank Alderman","DEM",43515,0.404,0
+"FL_1978-11-07_GEN","SA_20_000",NA,"Joseph D'Alessandro","REP",64128,0.596,1
+"FL_1978-11-07_GEN","TC2_11_30",NA,"Carol Guralnick","NON",145988,0.468,0
+"FL_1978-11-07_GEN","TC2_11_30",NA,"Frederick Barad","NON",165762,0.532,1
+"FL_1978-11-07_GEN","TC2_17_4",NA,"Joseph Price","NON",122465,0.577,1
+"FL_1978-11-07_GEN","TC2_17_4",NA,"Sheldon Golding","NON",89932,0.423,0
+"FL_1978-11-07_GEN","TC2_19_1",NA,"Dean Tooker","NON",20536,0.447,0
+"FL_1978-11-07_GEN","TC2_19_1",NA,"Ken Sharp","NON",25381,0.553,1
+"FL_1978-11-07_GEN","TC2_20_2",NA,"Ted Brousseau","NON",49196,0.525,1
+"FL_1978-11-07_GEN","TC2_20_2",NA,"Thomas Brown","NON",44433,0.475,0
+"FL_1978-11-07_GEN","TC2_4_17",NA,"John Palmer","NON",53616,0.455,0
+"FL_1978-11-07_GEN","TC2_4_17",NA,"Lawrence Fay","NON",64145,0.545,1
+"FL_1978-11-07_GEN","TC2_5_1",NA,"C. Coniglio","NON",31588,0.423,0
+"FL_1978-11-07_GEN","TC2_5_1",NA,"Carven Angel","NON",43086,0.577,1
+"FL_1978-11-07_GEN","TC2_9_1",NA,"Rom Powell","NON",46223,0.516,1
+"FL_1978-11-07_GEN","TC2_9_1",NA,"Ted Coleman","NON",43380,0.484,0

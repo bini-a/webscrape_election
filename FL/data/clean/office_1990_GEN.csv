@@ -1,0 +1,15 @@
+"election_id","office_id","district","office_local","office","seat","n_winners","selection_method","retention_method","open_seat","contested","runoff","special"
+"FL_1990-11-06_GEN","PD_2_000",2,"Public Defender","PD","000",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","TC2_4_27",4,"Circuit Judge","TC2","27",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","TC2_6_35",6,"Circuit Judge","TC2","35",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","TC2_9_24",9,"Circuit Judge","TC2","24",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","TC2_11_38",11,"Circuit Judge","TC2","38",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","TC2_13_14",13,"Circuit Judge","TC2","14",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","TC2_13_15",13,"Circuit Judge","TC2","15",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","TC2_13_30",13,"Circuit Judge","TC2","30",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","TC2_15_31",15,"Circuit Judge","TC2","31",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","TC2_17_5",17,"Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","TC2_17_14",17,"Circuit Judge","TC2","14",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","TC2_18_10",18,"Circuit Judge","TC2","10",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","TC2_19_11",19,"Circuit Judge","TC2","11",1,"NPE",NA,NA,1,0,0
+"FL_1990-11-06_GEN","TC2_20_5",20,"Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0

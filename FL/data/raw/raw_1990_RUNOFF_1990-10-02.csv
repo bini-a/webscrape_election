@@ -1,0 +1,187 @@
+ElectionDate	PartyCode	PartyName	RaceCode	OfficeDesc	CountyCode	CountyName	Juris1num	Juris2num	Precincts	PrecinctsReporting	CanNameLast	CanNameFirst	CanNameMiddle	CanVotes
+10/2/1990	REP	Republican	USR	United States Representative	BRE	Brevard	011		0	0	Tolley	Bill		12212
+10/2/1990	REP	Republican	USR	United States Representative	IND	Indian River	011		0	0	Tolley	Bill		2992
+10/2/1990	REP	Republican	USR	United States Representative	ORA	Orange	011		0	0	Tolley	Bill		4323
+10/2/1990	REP	Republican	USR	United States Representative	OSC	Osceola	011		0	0	Tolley	Bill		984
+10/2/1990	REP	Republican	USR	United States Representative	BRE	Brevard	011		0	0	Vogt	John		9775
+10/2/1990	REP	Republican	USR	United States Representative	IND	Indian River	011		0	0	Vogt	John		1854
+10/2/1990	REP	Republican	USR	United States Representative	ORA	Orange	011		0	0	Vogt	John		3579
+10/2/1990	REP	Republican	USR	United States Representative	OSC	Osceola	011		0	0	Vogt	John		466
+10/2/1990	REP	Republican	STS	State Senator	PIN	Pinellas	018		0	0	Baker	Patricia	L. 'Pat'	3841
+10/2/1990	REP	Republican	STS	State Senator	PIN	Pinellas	018		0	0	Sullivan	Don		7006
+10/2/1990	REP	Republican	STR	State Representative	ORA	Orange	037		0	0	Feeney	Tom		2291
+10/2/1990	REP	Republican	STR	State Representative	ORA	Orange	037		0	0	Sowinski	John		2020
+10/2/1990	REP	Republican	STR	State Representative	BRE	Brevard	078		0	0	Ginn	Caroline	D.	29
+10/2/1990	REP	Republican	STR	State Representative	IND	Indian River	078		0	0	Ginn	Caroline	D.	3404
+10/2/1990	REP	Republican	STR	State Representative	STL	St. Lucie	078		0	0	Ginn	Caroline	D.	345
+10/2/1990	REP	Republican	STR	State Representative	BRE	Brevard	078		0	0	Sembler, III	Charles	W.	82
+10/2/1990	REP	Republican	STR	State Representative	IND	Indian River	078		0	0	Sembler, III	Charles	W.	3805
+10/2/1990	REP	Republican	STR	State Representative	STL	St. Lucie	078		0	0	Sembler, III	Charles	W.	306
+10/2/1990	REP	Republican	STR	State Representative	PAL	Palm Beach	085		0	0	Foley	Mark		1959
+10/2/1990	REP	Republican	STR	State Representative	PAL	Palm Beach	085		0	0	Olenik, Jr.	Bob		843
+10/2/1990	DEM	Democrat	SEC	Secretary of State	ALA	Alachua			0	0	Hastings	Alcee	L.	3370
+10/2/1990	DEM	Democrat	SEC	Secretary of State	BAK	Baker			0	0	Hastings	Alcee	L.	743
+10/2/1990	DEM	Democrat	SEC	Secretary of State	BAY	Bay			0	0	Hastings	Alcee	L.	573
+10/2/1990	DEM	Democrat	SEC	Secretary of State	BRA	Bradford			0	0	Hastings	Alcee	L.	672
+10/2/1990	DEM	Democrat	SEC	Secretary of State	BRE	Brevard			0	0	Hastings	Alcee	L.	2550
+10/2/1990	DEM	Democrat	SEC	Secretary of State	BRO	Broward			0	0	Hastings	Alcee	L.	9929
+10/2/1990	DEM	Democrat	SEC	Secretary of State	CAL	Calhoun			0	0	Hastings	Alcee	L.	275
+10/2/1990	DEM	Democrat	SEC	Secretary of State	CHA	Charlotte			0	0	Hastings	Alcee	L.	399
+10/2/1990	DEM	Democrat	SEC	Secretary of State	CIT	Citrus			0	0	Hastings	Alcee	L.	2034
+10/2/1990	DEM	Democrat	SEC	Secretary of State	CLA	Clay			0	0	Hastings	Alcee	L.	475
+10/2/1990	DEM	Democrat	SEC	Secretary of State	CLL	Collier			0	0	Hastings	Alcee	L.	638
+10/2/1990	DEM	Democrat	SEC	Secretary of State	CLM	Columbia			0	0	Hastings	Alcee	L.	1099
+10/2/1990	DEM	Democrat	SEC	Secretary of State	DES	Desoto			0	0	Hastings	Alcee	L.	237
+10/2/1990	DEM	Democrat	SEC	Secretary of State	DIX	Dixie			0	0	Hastings	Alcee	L.	1054
+10/2/1990	DEM	Democrat	SEC	Secretary of State	DUV	Duval			0	0	Hastings	Alcee	L.	6848
+10/2/1990	DEM	Democrat	SEC	Secretary of State	ESC	Escambia			0	0	Hastings	Alcee	L.	2201
+10/2/1990	DEM	Democrat	SEC	Secretary of State	FLA	Flagler			0	0	Hastings	Alcee	L.	132
+10/2/1990	DEM	Democrat	SEC	Secretary of State	FRA	Franklin			0	0	Hastings	Alcee	L.	105
+10/2/1990	DEM	Democrat	SEC	Secretary of State	GAD	Gadsden			0	0	Hastings	Alcee	L.	2237
+10/2/1990	DEM	Democrat	SEC	Secretary of State	GIL	Gilchrist			0	0	Hastings	Alcee	L.	77
+10/2/1990	DEM	Democrat	SEC	Secretary of State	GLA	Glades			0	0	Hastings	Alcee	L.	328
+10/2/1990	DEM	Democrat	SEC	Secretary of State	GUL	Gulf			0	0	Hastings	Alcee	L.	393
+10/2/1990	DEM	Democrat	SEC	Secretary of State	HAM	Hamilton			0	0	Hastings	Alcee	L.	675
+10/2/1990	DEM	Democrat	SEC	Secretary of State	HAR	Hardee			0	0	Hastings	Alcee	L.	403
+10/2/1990	DEM	Democrat	SEC	Secretary of State	HEN	Hendry			0	0	Hastings	Alcee	L.	785
+10/2/1990	DEM	Democrat	SEC	Secretary of State	HER	Hernando			0	0	Hastings	Alcee	L.	653
+10/2/1990	DEM	Democrat	SEC	Secretary of State	HIG	Highlands			0	0	Hastings	Alcee	L.	286
+10/2/1990	DEM	Democrat	SEC	Secretary of State	HIL	Hillsborough			0	0	Hastings	Alcee	L.	10285
+10/2/1990	DEM	Democrat	SEC	Secretary of State	HOL	Holmes			0	0	Hastings	Alcee	L.	121
+10/2/1990	DEM	Democrat	SEC	Secretary of State	IND	Indian River			0	0	Hastings	Alcee	L.	498
+10/2/1990	DEM	Democrat	SEC	Secretary of State	JAC	Jackson			0	0	Hastings	Alcee	L.	932
+10/2/1990	DEM	Democrat	SEC	Secretary of State	JEF	Jefferson			0	0	Hastings	Alcee	L.	335
+10/2/1990	DEM	Democrat	SEC	Secretary of State	LAF	Lafayette			0	0	Hastings	Alcee	L.	107
+10/2/1990	DEM	Democrat	SEC	Secretary of State	LAK	Lake			0	0	Hastings	Alcee	L.	773
+10/2/1990	DEM	Democrat	SEC	Secretary of State	LEE	Lee			0	0	Hastings	Alcee	L.	2181
+10/2/1990	DEM	Democrat	SEC	Secretary of State	LEO	Leon			0	0	Hastings	Alcee	L.	4201
+10/2/1990	DEM	Democrat	SEC	Secretary of State	LEV	Levy			0	0	Hastings	Alcee	L.	839
+10/2/1990	DEM	Democrat	SEC	Secretary of State	LIB	Liberty			0	0	Hastings	Alcee	L.	383
+10/2/1990	DEM	Democrat	SEC	Secretary of State	MAD	Madison			0	0	Hastings	Alcee	L.	472
+10/2/1990	DEM	Democrat	SEC	Secretary of State	MAN	Manatee			0	0	Hastings	Alcee	L.	1353
+10/2/1990	DEM	Democrat	SEC	Secretary of State	MRN	Marion			0	0	Hastings	Alcee	L.	3176
+10/2/1990	DEM	Democrat	SEC	Secretary of State	MRT	Martin			0	0	Hastings	Alcee	L.	296
+10/2/1990	DEM	Democrat	SEC	Secretary of State	DAD	Miami-Dade			0	0	Hastings	Alcee	L.	40974
+10/2/1990	DEM	Democrat	SEC	Secretary of State	MON	Monroe			0	0	Hastings	Alcee	L.	742
+10/2/1990	DEM	Democrat	SEC	Secretary of State	NAS	Nassau			0	0	Hastings	Alcee	L.	1059
+10/2/1990	DEM	Democrat	SEC	Secretary of State	OKA	Okaloosa			0	0	Hastings	Alcee	L.	987
+10/2/1990	DEM	Democrat	SEC	Secretary of State	OKE	Okeechobee			0	0	Hastings	Alcee	L.	85
+10/2/1990	DEM	Democrat	SEC	Secretary of State	ORA	Orange			0	0	Hastings	Alcee	L.	3950
+10/2/1990	DEM	Democrat	SEC	Secretary of State	OSC	Osceola			0	0	Hastings	Alcee	L.	426
+10/2/1990	DEM	Democrat	SEC	Secretary of State	PAL	Palm Beach			0	0	Hastings	Alcee	L.	9316
+10/2/1990	DEM	Democrat	SEC	Secretary of State	PAS	Pasco			0	0	Hastings	Alcee	L.	802
+10/2/1990	DEM	Democrat	SEC	Secretary of State	PIN	Pinellas			0	0	Hastings	Alcee	L.	3629
+10/2/1990	DEM	Democrat	SEC	Secretary of State	POL	Polk			0	0	Hastings	Alcee	L.	2777
+10/2/1990	DEM	Democrat	SEC	Secretary of State	PUT	Putnam			0	0	Hastings	Alcee	L.	2400
+10/2/1990	DEM	Democrat	SEC	Secretary of State	SAN	Santa Rosa			0	0	Hastings	Alcee	L.	1548
+10/2/1990	DEM	Democrat	SEC	Secretary of State	SAR	Sarasota			0	0	Hastings	Alcee	L.	1315
+10/2/1990	DEM	Democrat	SEC	Secretary of State	SEM	Seminole			0	0	Hastings	Alcee	L.	1547
+10/2/1990	DEM	Democrat	SEC	Secretary of State	STJ	St. Johns			0	0	Hastings	Alcee	L.	476
+10/2/1990	DEM	Democrat	SEC	Secretary of State	STL	St. Lucie			0	0	Hastings	Alcee	L.	2045
+10/2/1990	DEM	Democrat	SEC	Secretary of State	SUM	Sumter			0	0	Hastings	Alcee	L.	861
+10/2/1990	DEM	Democrat	SEC	Secretary of State	SUW	Suwannee			0	0	Hastings	Alcee	L.	397
+10/2/1990	DEM	Democrat	SEC	Secretary of State	TAY	Taylor			0	0	Hastings	Alcee	L.	565
+10/2/1990	DEM	Democrat	SEC	Secretary of State	UNI	Union			0	0	Hastings	Alcee	L.	335
+10/2/1990	DEM	Democrat	SEC	Secretary of State	VOL	Volusia			0	0	Hastings	Alcee	L.	2152
+10/2/1990	DEM	Democrat	SEC	Secretary of State	WAK	Wakulla			0	0	Hastings	Alcee	L.	1128
+10/2/1990	DEM	Democrat	SEC	Secretary of State	WAL	Walton			0	0	Hastings	Alcee	L.	1516
+10/2/1990	DEM	Democrat	SEC	Secretary of State	WAS	Washington			0	0	Hastings	Alcee	L.	220
+10/2/1990	DEM	Democrat	SEC	Secretary of State	ALA	Alachua			0	0	Minter	Jim		8329
+10/2/1990	DEM	Democrat	SEC	Secretary of State	BAK	Baker			0	0	Minter	Jim		1494
+10/2/1990	DEM	Democrat	SEC	Secretary of State	BAY	Bay			0	0	Minter	Jim		2503
+10/2/1990	DEM	Democrat	SEC	Secretary of State	BRA	Bradford			0	0	Minter	Jim		1484
+10/2/1990	DEM	Democrat	SEC	Secretary of State	BRE	Brevard			0	0	Minter	Jim		9026
+10/2/1990	DEM	Democrat	SEC	Secretary of State	BRO	Broward			0	0	Minter	Jim		21089
+10/2/1990	DEM	Democrat	SEC	Secretary of State	CAL	Calhoun			0	0	Minter	Jim		768
+10/2/1990	DEM	Democrat	SEC	Secretary of State	CHA	Charlotte			0	0	Minter	Jim		1377
+10/2/1990	DEM	Democrat	SEC	Secretary of State	CIT	Citrus			0	0	Minter	Jim		6004
+10/2/1990	DEM	Democrat	SEC	Secretary of State	CLA	Clay			0	0	Minter	Jim		1428
+10/2/1990	DEM	Democrat	SEC	Secretary of State	CLL	Collier			0	0	Minter	Jim		1277
+10/2/1990	DEM	Democrat	SEC	Secretary of State	CLM	Columbia			0	0	Minter	Jim		2881
+10/2/1990	DEM	Democrat	SEC	Secretary of State	DES	Desoto			0	0	Minter	Jim		407
+10/2/1990	DEM	Democrat	SEC	Secretary of State	DIX	Dixie			0	0	Minter	Jim		1813
+10/2/1990	DEM	Democrat	SEC	Secretary of State	DUV	Duval			0	0	Minter	Jim		12245
+10/2/1990	DEM	Democrat	SEC	Secretary of State	ESC	Escambia			0	0	Minter	Jim		7155
+10/2/1990	DEM	Democrat	SEC	Secretary of State	FLA	Flagler			0	0	Minter	Jim		730
+10/2/1990	DEM	Democrat	SEC	Secretary of State	FRA	Franklin			0	0	Minter	Jim		311
+10/2/1990	DEM	Democrat	SEC	Secretary of State	GAD	Gadsden			0	0	Minter	Jim		2436
+10/2/1990	DEM	Democrat	SEC	Secretary of State	GIL	Gilchrist			0	0	Minter	Jim		561
+10/2/1990	DEM	Democrat	SEC	Secretary of State	GLA	Glades			0	0	Minter	Jim		693
+10/2/1990	DEM	Democrat	SEC	Secretary of State	GUL	Gulf			0	0	Minter	Jim		854
+10/2/1990	DEM	Democrat	SEC	Secretary of State	HAM	Hamilton			0	0	Minter	Jim		864
+10/2/1990	DEM	Democrat	SEC	Secretary of State	HAR	Hardee			0	0	Minter	Jim		1184
+10/2/1990	DEM	Democrat	SEC	Secretary of State	HEN	Hendry			0	0	Minter	Jim		1261
+10/2/1990	DEM	Democrat	SEC	Secretary of State	HER	Hernando			0	0	Minter	Jim		2344
+10/2/1990	DEM	Democrat	SEC	Secretary of State	HIG	Highlands			0	0	Minter	Jim		1307
+10/2/1990	DEM	Democrat	SEC	Secretary of State	HIL	Hillsborough			0	0	Minter	Jim		26012
+10/2/1990	DEM	Democrat	SEC	Secretary of State	HOL	Holmes			0	0	Minter	Jim		610
+10/2/1990	DEM	Democrat	SEC	Secretary of State	IND	Indian River			0	0	Minter	Jim		1445
+10/2/1990	DEM	Democrat	SEC	Secretary of State	JAC	Jackson			0	0	Minter	Jim		1845
+10/2/1990	DEM	Democrat	SEC	Secretary of State	JEF	Jefferson			0	0	Minter	Jim		619
+10/2/1990	DEM	Democrat	SEC	Secretary of State	LAF	Lafayette			0	0	Minter	Jim		560
+10/2/1990	DEM	Democrat	SEC	Secretary of State	LAK	Lake			0	0	Minter	Jim		2008
+10/2/1990	DEM	Democrat	SEC	Secretary of State	LEE	Lee			0	0	Minter	Jim		5309
+10/2/1990	DEM	Democrat	SEC	Secretary of State	LEO	Leon			0	0	Minter	Jim		9696
+10/2/1990	DEM	Democrat	SEC	Secretary of State	LEV	Levy			0	0	Minter	Jim		2067
+10/2/1990	DEM	Democrat	SEC	Secretary of State	LIB	Liberty			0	0	Minter	Jim		747
+10/2/1990	DEM	Democrat	SEC	Secretary of State	MAD	Madison			0	0	Minter	Jim		943
+10/2/1990	DEM	Democrat	SEC	Secretary of State	MAN	Manatee			0	0	Minter	Jim		3598
+10/2/1990	DEM	Democrat	SEC	Secretary of State	MRN	Marion			0	0	Minter	Jim		8077
+10/2/1990	DEM	Democrat	SEC	Secretary of State	MRT	Martin			0	0	Minter	Jim		1182
+10/2/1990	DEM	Democrat	SEC	Secretary of State	DAD	Miami-Dade			0	0	Minter	Jim		32934
+10/2/1990	DEM	Democrat	SEC	Secretary of State	MON	Monroe			0	0	Minter	Jim		1926
+10/2/1990	DEM	Democrat	SEC	Secretary of State	NAS	Nassau			0	0	Minter	Jim		2134
+10/2/1990	DEM	Democrat	SEC	Secretary of State	OKA	Okaloosa			0	0	Minter	Jim		3162
+10/2/1990	DEM	Democrat	SEC	Secretary of State	OKE	Okeechobee			0	0	Minter	Jim		553
+10/2/1990	DEM	Democrat	SEC	Secretary of State	ORA	Orange			0	0	Minter	Jim		7196
+10/2/1990	DEM	Democrat	SEC	Secretary of State	OSC	Osceola			0	0	Minter	Jim		874
+10/2/1990	DEM	Democrat	SEC	Secretary of State	PAL	Palm Beach			0	0	Minter	Jim		25299
+10/2/1990	DEM	Democrat	SEC	Secretary of State	PAS	Pasco			0	0	Minter	Jim		5179
+10/2/1990	DEM	Democrat	SEC	Secretary of State	PIN	Pinellas			0	0	Minter	Jim		11385
+10/2/1990	DEM	Democrat	SEC	Secretary of State	POL	Polk			0	0	Minter	Jim		10694
+10/2/1990	DEM	Democrat	SEC	Secretary of State	PUT	Putnam			0	0	Minter	Jim		5330
+10/2/1990	DEM	Democrat	SEC	Secretary of State	SAN	Santa Rosa			0	0	Minter	Jim		4437
+10/2/1990	DEM	Democrat	SEC	Secretary of State	SAR	Sarasota			0	0	Minter	Jim		3166
+10/2/1990	DEM	Democrat	SEC	Secretary of State	SEM	Seminole			0	0	Minter	Jim		3318
+10/2/1990	DEM	Democrat	SEC	Secretary of State	STJ	St. Johns			0	0	Minter	Jim		1916
+10/2/1990	DEM	Democrat	SEC	Secretary of State	STL	St. Lucie			0	0	Minter	Jim		5074
+10/2/1990	DEM	Democrat	SEC	Secretary of State	SUM	Sumter			0	0	Minter	Jim		1964
+10/2/1990	DEM	Democrat	SEC	Secretary of State	SUW	Suwannee			0	0	Minter	Jim		1443
+10/2/1990	DEM	Democrat	SEC	Secretary of State	TAY	Taylor			0	0	Minter	Jim		1441
+10/2/1990	DEM	Democrat	SEC	Secretary of State	UNI	Union			0	0	Minter	Jim		708
+10/2/1990	DEM	Democrat	SEC	Secretary of State	VOL	Volusia			0	0	Minter	Jim		7834
+10/2/1990	DEM	Democrat	SEC	Secretary of State	WAK	Wakulla			0	0	Minter	Jim		2025
+10/2/1990	DEM	Democrat	SEC	Secretary of State	WAL	Walton			0	0	Minter	Jim		2888
+10/2/1990	DEM	Democrat	SEC	Secretary of State	WAS	Washington			0	0	Minter	Jim		599
+10/2/1990	DEM	Democrat	STS	State Senator	HEN	Hendry	028		0	0	Childers	Don	C.	1575
+10/2/1990	DEM	Democrat	STS	State Senator	PAL	Palm Beach	028		0	0	Childers	Don	C.	4650
+10/2/1990	DEM	Democrat	STS	State Senator	HEN	Hendry	028		0	0	Wexler	Robert		629
+10/2/1990	DEM	Democrat	STS	State Senator	PAL	Palm Beach	028		0	0	Wexler	Robert		16595
+10/2/1990	DEM	Democrat	STR	State Representative	ALA	Alachua	023		0	0	Chestnut	Cynthia	Moore	3666
+10/2/1990	DEM	Democrat	STR	State Representative	PUT	Putnam	023		0	0	Chestnut	Cynthia	Moore	686
+10/2/1990	DEM	Democrat	STR	State Representative	ALA	Alachua	023		0	0	Phillips	Clay		2092
+10/2/1990	DEM	Democrat	STR	State Representative	PUT	Putnam	023		0	0	Phillips	Clay		1143
+10/2/1990	DEM	Democrat	STR	State Representative	POL	Polk	044		0	0	Tanner	Jim		2087
+10/2/1990	DEM	Democrat	STR	State Representative	POL	Polk	044		0	0	Viscusi	Joe		2690
+10/2/1990	DEM	Democrat	STR	State Representative	PAL	Palm Beach	085		0	0	Hinsa	David		2019
+10/2/1990	DEM	Democrat	STR	State Representative	PAL	Palm Beach	085		0	0	Walshak	Bob		1894
+10/2/1990	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	106		0	0	III	James	Bush	3154
+10/2/1990	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	106		0	0	Reaves	Darryl		3168
+10/2/1990	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		0	0	Bullard	Larcenia	J.	1773
+10/2/1990	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		0	0	Jones	Daryl	L.	2905
+10/2/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	038	0	0	Albear	Frank	M.	14948
+10/2/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	038	0	0	Gener	Carlos	M.	20636
+10/2/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	038	0	0	Glick	Leonard		27188
+10/2/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	038	0	0	Hayes	Judith	H.	22741
+10/2/1990	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	038	0	0	Siegal	Paul		26753
+10/2/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	014	0	0	Benito	Michael	L.	19139
+10/2/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	014	0	0	Elliott	Paul		11450
+10/2/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	014	0	0	Sims	Robert	'Bob'	17864
+10/2/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	015	0	0	Epperson	Joel		3484
+10/2/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	015	0	0	Ferlita	Angelo		4213
+10/2/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	015	0	0	Isom-Rickert	Claudia		14294
+10/2/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	015	0	0	Kavouklis	Mike		10275
+10/2/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	015	0	0	Lima	Albert	P.	746
+10/2/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	015	0	0	Lopez	Manuel	A.	9138
+10/2/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	015	0	0	Rebowe	Darlene		4123
+10/2/1990	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	015	0	0	Vecchio	Alex	B.	3179

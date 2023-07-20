@@ -1,0 +1,39 @@
+"","election_id","office_id","district","office_local","office","seat","contested","n_winners","selection_method","retention_method","open_seat"
+"1","IN_2010-05-04_PRI","TC2_Bartholomew_9_1","Bartholomew_9","Judge of the Circuit Court","TC2","1",0,NA,NA,NA,NA
+"2","IN_2010-05-04_PRI","TC2_Crawford_77_1","Crawford_77","Judge of the Circuit Court","TC2","1",0,NA,NA,NA,NA
+"3","IN_2010-05-04_PRI","TC2_Dearborn_7_1","Dearborn_7","Judge of the Circuit Court","TC2","1",0,NA,NA,NA,NA
+"4","IN_2010-05-04_PRI","TC1_Blackford_1_1","Blackford_1","Judge of the Superior Court","TC1","1",0,NA,NA,NA,NA
+"5","IN_2010-05-04_PRI","TC2_DeKalb_75_1","DeKalb_75","Judge of the Circuit Court","TC2","1",0,NA,NA,NA,NA
+"6","IN_2010-05-04_PRI","TC2_Delaware_46_1","Delaware_46","Judge of the Circuit Court","TC2","1",0,NA,NA,NA,NA
+"7","IN_2010-05-04_PRI","TC1_Cass_1_1","Cass_1","Judge of the Superior Court","TC1","1",0,NA,NA,NA,NA
+"8","IN_2010-05-04_PRI","TC2_Elkhart_34_1","Elkhart_34","Judge of the Circuit Court","TC2","1",0,NA,NA,NA,NA
+"9","IN_2010-05-04_PRI","TC1_Dubois_1_1","Dubois_1","Judge of the Superior Court","TC1","1",1,NA,NA,NA,NA
+"10","IN_2010-05-04_PRI","TC1_Dubois_1_1","Dubois_1","Judge of the Superior Court","TC1","1",1,NA,NA,NA,NA
+"11","IN_2010-05-04_PRI","DA_Adams_26_1","Adams_26","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA
+"12","IN_2010-05-04_PRI","DA_Allen_38_1","Allen_38","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA
+"13","IN_2010-05-04_PRI","DA_Bartholomew_9_1","Bartholomew_9","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA
+"14","IN_2010-05-04_PRI","DA_Benton_76_1","Benton_76","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA
+"15","IN_2010-05-04_PRI","DA_Blackford_71_1","Blackford_71","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA
+"16","IN_2010-05-04_PRI","DA_Boone_20_1","Boone_20","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA
+"17","IN_2010-05-04_PRI","DA_Brown_88_1","Brown_88","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA
+"18","IN_2010-05-04_PRI","DA_Carroll_74_1","Carroll_74","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"19","IN_2010-05-04_PRI","DA_Carroll_74_1","Carroll_74","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"20","IN_2010-05-04_PRI","DA_Carroll_74_1","Carroll_74","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"21","IN_2010-05-04_PRI","DA_Cass_29_1","Cass_29","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA
+"22","IN_2010-05-04_PRI","DA_Clark_4_1","Clark_4","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA
+"23","IN_2010-05-04_PRI","DA_Clay_13_1","Clay_13","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"24","IN_2010-05-04_PRI","DA_Clay_13_1","Clay_13","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"25","IN_2010-05-04_PRI","DA_Clay_13_1","Clay_13","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"26","IN_2010-05-04_PRI","DA_Clinton_45_1","Clinton_45","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA
+"27","IN_2010-05-04_PRI","DA_Crawford_77_1","Crawford_77","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"28","IN_2010-05-04_PRI","DA_Crawford_77_1","Crawford_77","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"29","IN_2010-05-04_PRI","DA_Daviess_49_1","Daviess_49","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA
+"30","IN_2010-05-04_PRI","DA_Dearborn_7_1","Dearborn_7","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA
+"31","IN_2010-05-04_PRI","DA_Decatur_69_1","Decatur_69","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA
+"32","IN_2010-05-04_PRI","DA_DeKalb_75_1","DeKalb_75","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA
+"33","IN_2010-05-04_PRI","DA_Delaware_46_1","Delaware_46","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"34","IN_2010-05-04_PRI","DA_Delaware_46_1","Delaware_46","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"35","IN_2010-05-04_PRI","DA_Dubois_57_1","Dubois_57","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"36","IN_2010-05-04_PRI","DA_Dubois_57_1","Dubois_57","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"37","IN_2010-05-04_PRI","DA_Dubois_57_1","Dubois_57","Prosecuting Attorney","DA","1",1,NA,NA,NA,NA
+"38","IN_2010-05-04_PRI","DA_Elkhart_34_1","Elkhart_34","Prosecuting Attorney","DA","1",0,NA,NA,NA,NA

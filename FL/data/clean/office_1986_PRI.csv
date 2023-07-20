@@ -1,0 +1,18 @@
+"election_id","office_id","district","office_local","office","seat","n_winners","selection_method","retention_method","open_seat","contested","runoff","special"
+"FL_1986-09-02_PRI-D","AG_FL_000","FL","Attorney General","AG","000",1,"PE",NA,NA,1,0,0
+"FL_1986-09-02_PRI-R","AG_FL_000","FL","Attorney General","AG","000",1,"PE",NA,NA,1,0,0
+"FL_1986-09-02_PRI","TC2_2_1","2","Circuit Judge","TC2","1",2,"NPE",NA,NA,1,1,0
+"FL_1986-09-02_PRI","TC2_6_8","6","Circuit Judge","TC2","8",1,"NPE",NA,NA,1,0,0
+"FL_1986-09-02_PRI","TC2_7_1","7","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1986-09-02_PRI","TC2_7_3","7","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1986-09-02_PRI","TC2_8_1","8","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1986-09-02_PRI","TC2_11_6","11","Circuit Judge","TC2","6",1,"NPE",NA,NA,1,0,0
+"FL_1986-09-02_PRI","TC2_11_13","11","Circuit Judge","TC2","13",2,"NPE",NA,NA,1,1,0
+"FL_1986-09-02_PRI","TC2_12_3","12","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1986-09-02_PRI","TC2_13_2","13","Circuit Judge","TC2","2",1,"NPE",NA,NA,1,0,0
+"FL_1986-09-02_PRI","TC2_13_4","13","Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_1986-09-02_PRI","TC2_13_7","13","Circuit Judge","TC2","7",2,"NPE",NA,NA,1,1,0
+"FL_1986-09-02_PRI","TC2_17_1","17","Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_1986-09-02_PRI","TC2_18_3","18","Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_1986-09-02_PRI","TC2_18_4","18","Circuit Judge","TC2","4",2,"NPE",NA,NA,1,1,0
+"FL_1986-09-02_PRI","TC2_19_5","19","Circuit Judge","TC2","5",1,"NPE",NA,NA,1,0,0

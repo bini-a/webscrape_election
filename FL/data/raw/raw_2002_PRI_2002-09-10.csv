@@ -1,0 +1,1503 @@
+ElectionDate	PartyCode	PartyName	RaceCode	OfficeDesc	CountyCode	CountyName	Juris1num	Juris2num	Precincts	PrecinctsReporting	CanNameLast	CanNameFirst	CanNameMiddle	CanVotes
+9/10/2002	REP	Republican	USR	United States Representative	ESC	Escambia	001		91	91	Francisco	Mike		8765
+9/10/2002	REP	Republican	USR	United States Representative	HOL	Holmes	001		17	17	Francisco	Mike		74
+9/10/2002	REP	Republican	USR	United States Representative	OKA	Okaloosa	001		57	57	Francisco	Mike		8832
+9/10/2002	REP	Republican	USR	United States Representative	SAN	Santa Rosa	001		38	38	Francisco	Mike		4578
+9/10/2002	REP	Republican	USR	United States Representative	WAL	Walton	001		30	30	Francisco	Mike		773
+9/10/2002	REP	Republican	USR	United States Representative	WAS	Washington	001		20	20	Francisco	Mike		142
+9/10/2002	REP	Republican	USR	United States Representative	ESC	Escambia	001		91	91	Miller	Jeff		15345
+9/10/2002	REP	Republican	USR	United States Representative	HOL	Holmes	001		17	17	Miller	Jeff		537
+9/10/2002	REP	Republican	USR	United States Representative	OKA	Okaloosa	001		57	57	Miller	Jeff		12499
+9/10/2002	REP	Republican	USR	United States Representative	SAN	Santa Rosa	001		38	38	Miller	Jeff		11275
+9/10/2002	REP	Republican	USR	United States Representative	WAL	Walton	001		30	30	Miller	Jeff		1720
+9/10/2002	REP	Republican	USR	United States Representative	WAS	Washington	001		20	20	Miller	Jeff		614
+9/10/2002	REP	Republican	USR	United States Representative	BAK	Baker	004		9	9	Crenshaw	Ander		587
+9/10/2002	REP	Republican	USR	United States Representative	CLM	Columbia	004		30	30	Crenshaw	Ander		1962
+9/10/2002	REP	Republican	USR	United States Representative	DUV	Duval	004		165	165	Crenshaw	Ander		30453
+9/10/2002	REP	Republican	USR	United States Representative	HAM	Hamilton	004		9	9	Crenshaw	Ander		163
+9/10/2002	REP	Republican	USR	United States Representative	JEF	Jefferson	004		10	10	Crenshaw	Ander		202
+9/10/2002	REP	Republican	USR	United States Representative	LEO	Leon	004		5	5	Crenshaw	Ander		485
+9/10/2002	REP	Republican	USR	United States Representative	MAD	Madison	004		11	11	Crenshaw	Ander		315
+9/10/2002	REP	Republican	USR	United States Representative	NAS	Nassau	004		23	23	Crenshaw	Ander		4905
+9/10/2002	REP	Republican	USR	United States Representative	UNI	Union	004		22	22	Crenshaw	Ander		231
+9/10/2002	REP	Republican	USR	United States Representative	BAK	Baker	004		9	9	Pueschel	Deborah	Katz	69
+9/10/2002	REP	Republican	USR	United States Representative	CLM	Columbia	004		30	30	Pueschel	Deborah	Katz	620
+9/10/2002	REP	Republican	USR	United States Representative	DUV	Duval	004		165	165	Pueschel	Deborah	Katz	2971
+9/10/2002	REP	Republican	USR	United States Representative	HAM	Hamilton	004		9	9	Pueschel	Deborah	Katz	38
+9/10/2002	REP	Republican	USR	United States Representative	JEF	Jefferson	004		10	10	Pueschel	Deborah	Katz	66
+9/10/2002	REP	Republican	USR	United States Representative	LEO	Leon	004		5	5	Pueschel	Deborah	Katz	134
+9/10/2002	REP	Republican	USR	United States Representative	MAD	Madison	004		11	11	Pueschel	Deborah	Katz	73
+9/10/2002	REP	Republican	USR	United States Representative	NAS	Nassau	004		23	23	Pueschel	Deborah	Katz	502
+9/10/2002	REP	Republican	USR	United States Representative	UNI	Union	004		22	22	Pueschel	Deborah	Katz	36
+9/10/2002	REP	Republican	USR	United States Representative	CIT	Citrus	005		41	41	Brown-Waite	Virginia 'Ginny'		6445
+9/10/2002	REP	Republican	USR	United States Representative	HER	Hernando	005		53	53	Brown-Waite	Virginia 'Ginny'		8517
+9/10/2002	REP	Republican	USR	United States Representative	LAK	Lake	005		35	35	Brown-Waite	Virginia 'Ginny'		4058
+9/10/2002	REP	Republican	USR	United States Representative	LEV	Levy	005		17	17	Brown-Waite	Virginia 'Ginny'		507
+9/10/2002	REP	Republican	USR	United States Representative	MRN	Marion	005		11	11	Brown-Waite	Virginia 'Ginny'		697
+9/10/2002	REP	Republican	USR	United States Representative	PAS	Pasco	005		87	87	Brown-Waite	Virginia 'Ginny'		6576
+9/10/2002	REP	Republican	USR	United States Representative	POL	Polk	005		15	15	Brown-Waite	Virginia 'Ginny'		2084
+9/10/2002	REP	Republican	USR	United States Representative	SUM	Sumter	005		38	38	Brown-Waite	Virginia 'Ginny'		2358
+9/10/2002	REP	Republican	USR	United States Representative	CIT	Citrus	005		41	41	Gessner	Don		5590
+9/10/2002	REP	Republican	USR	United States Representative	HER	Hernando	005		53	53	Gessner	Don		4006
+9/10/2002	REP	Republican	USR	United States Representative	LAK	Lake	005		35	35	Gessner	Don		3422
+9/10/2002	REP	Republican	USR	United States Representative	LEV	Levy	005		17	17	Gessner	Don		592
+9/10/2002	REP	Republican	USR	United States Representative	MRN	Marion	005		11	11	Gessner	Don		657
+9/10/2002	REP	Republican	USR	United States Representative	PAS	Pasco	005		87	87	Gessner	Don		4976
+9/10/2002	REP	Republican	USR	United States Representative	POL	Polk	005		15	15	Gessner	Don		1822
+9/10/2002	REP	Republican	USR	United States Representative	SUM	Sumter	005		38	38	Gessner	Don		1943
+9/10/2002	REP	Republican	USR	United States Representative	CHA	Charlotte	013		9	9	Harris	Katherine		1426
+9/10/2002	REP	Republican	USR	United States Representative	DES	Desoto	013		16	16	Harris	Katherine		671
+9/10/2002	REP	Republican	USR	United States Representative	HAR	Hardee	013		12	12	Harris	Katherine		673
+9/10/2002	REP	Republican	USR	United States Representative	MAN	Manatee	013		132	132	Harris	Katherine		20112
+9/10/2002	REP	Republican	USR	United States Representative	SAR	Sarasota	013		161	161	Harris	Katherine		24879
+9/10/2002	REP	Republican	USR	United States Representative	CHA	Charlotte	013		9	9	Hill	John	C.	524
+9/10/2002	REP	Republican	USR	United States Representative	DES	Desoto	013		16	16	Hill	John	C.	179
+9/10/2002	REP	Republican	USR	United States Representative	HAR	Hardee	013		12	12	Hill	John	C.	135
+9/10/2002	REP	Republican	USR	United States Representative	MAN	Manatee	013		132	132	Hill	John	C.	7891
+9/10/2002	REP	Republican	USR	United States Representative	SAR	Sarasota	013		161	161	Hill	John	C.	13415
+9/10/2002	REP	Republican	USR	United States Representative	BRE	Brevard	015		157	157	Newby	Gerry	L.	5462
+9/10/2002	REP	Republican	USR	United States Representative	IND	Indian River	015		54	54	Newby	Gerry	L.	2457
+9/10/2002	REP	Republican	USR	United States Representative	OSC	Osceola	015		89	89	Newby	Gerry	L.	1023
+9/10/2002	REP	Republican	USR	United States Representative	POL	Polk	015		5	5	Newby	Gerry	L.	184
+9/10/2002	REP	Republican	USR	United States Representative	BRE	Brevard	015		157	157	Weldon	Dave		28162
+9/10/2002	REP	Republican	USR	United States Representative	IND	Indian River	015		54	54	Weldon	Dave		11490
+9/10/2002	REP	Republican	USR	United States Representative	OSC	Osceola	015		89	89	Weldon	Dave		5946
+9/10/2002	REP	Republican	USR	United States Representative	POL	Polk	015		5	5	Weldon	Dave		488
+9/10/2002	REP	Republican	USR	United States Representative	DAD	Miami-Dade	018		271	271	Chote	May		3356
+9/10/2002	REP	Republican	USR	United States Representative	MON	Monroe	018		33	33	Chote	May		1971
+9/10/2002	REP	Republican	USR	United States Representative	DAD	Miami-Dade	018		271	271	Ros-Lehtinen	Ileana		35908
+9/10/2002	REP	Republican	USR	United States Representative	MON	Monroe	018		33	33	Ros-Lehtinen	Ileana		2977
+9/10/2002	REP	Republican	ATG	Attorney General	ALA	Alachua			71	71	Burt	Locke		2279
+9/10/2002	REP	Republican	ATG	Attorney General	BAK	Baker			9	9	Burt	Locke		62
+9/10/2002	REP	Republican	ATG	Attorney General	BAY	Bay			54	54	Burt	Locke		1769
+9/10/2002	REP	Republican	ATG	Attorney General	BRA	Bradford			21	21	Burt	Locke		200
+9/10/2002	REP	Republican	ATG	Attorney General	BRE	Brevard			216	216	Burt	Locke		8884
+9/10/2002	REP	Republican	ATG	Attorney General	BRO	Broward			774	774	Burt	Locke		10297
+9/10/2002	REP	Republican	ATG	Attorney General	CAL	Calhoun			13	13	Burt	Locke		47
+9/10/2002	REP	Republican	ATG	Attorney General	CHA	Charlotte			81	81	Burt	Locke		3237
+9/10/2002	REP	Republican	ATG	Attorney General	CIT	Citrus			41	41	Burt	Locke		1867
+9/10/2002	REP	Republican	ATG	Attorney General	CLA	Clay			58	58	Burt	Locke		2383
+9/10/2002	REP	Republican	ATG	Attorney General	CLL	Collier			95	95	Burt	Locke		9237
+9/10/2002	REP	Republican	ATG	Attorney General	CLM	Columbia			30	30	Burt	Locke		404
+9/10/2002	REP	Republican	ATG	Attorney General	DES	Desoto			15	15	Burt	Locke		171
+9/10/2002	REP	Republican	ATG	Attorney General	DIX	Dixie			11	11	Burt	Locke		40
+9/10/2002	REP	Republican	ATG	Attorney General	DUV	Duval			285	285	Burt	Locke		7579
+9/10/2002	REP	Republican	ATG	Attorney General	ESC	Escambia			91	91	Burt	Locke		4501
+9/10/2002	REP	Republican	ATG	Attorney General	FLA	Flagler			30	30	Burt	Locke		2035
+9/10/2002	REP	Republican	ATG	Attorney General	FRA	Franklin			8	8	Burt	Locke		72
+9/10/2002	REP	Republican	ATG	Attorney General	GAD	Gadsden			17	17	Burt	Locke		161
+9/10/2002	REP	Republican	ATG	Attorney General	GIL	Gilchrist			10	10	Burt	Locke		158
+9/10/2002	REP	Republican	ATG	Attorney General	GLA	Glades			13	13	Burt	Locke		71
+9/10/2002	REP	Republican	ATG	Attorney General	GUL	Gulf			16	16	Burt	Locke		130
+9/10/2002	REP	Republican	ATG	Attorney General	HAM	Hamilton			9	9	Burt	Locke		39
+9/10/2002	REP	Republican	ATG	Attorney General	HAR	Hardee			12	12	Burt	Locke		90
+9/10/2002	REP	Republican	ATG	Attorney General	HEN	Hendry			24	24	Burt	Locke		164
+9/10/2002	REP	Republican	ATG	Attorney General	HER	Hernando			53	53	Burt	Locke		2387
+9/10/2002	REP	Republican	ATG	Attorney General	HIG	Highlands			26	26	Burt	Locke		1309
+9/10/2002	REP	Republican	ATG	Attorney General	HIL	Hillsborough			353	353	Burt	Locke		8120
+9/10/2002	REP	Republican	ATG	Attorney General	HOL	Holmes			17	17	Burt	Locke		137
+9/10/2002	REP	Republican	ATG	Attorney General	IND	Indian River			55	55	Burt	Locke		3475
+9/10/2002	REP	Republican	ATG	Attorney General	JAC	Jackson			28	28	Burt	Locke		219
+9/10/2002	REP	Republican	ATG	Attorney General	JEF	Jefferson			15	15	Burt	Locke		114
+9/10/2002	REP	Republican	ATG	Attorney General	LAF	Lafayette			6	6	Burt	Locke		26
+9/10/2002	REP	Republican	ATG	Attorney General	LAK	Lake			97	97	Burt	Locke		5622
+9/10/2002	REP	Republican	ATG	Attorney General	LEE	Lee			182	182	Burt	Locke		10054
+9/10/2002	REP	Republican	ATG	Attorney General	LEO	Leon			123	123	Burt	Locke		2445
+9/10/2002	REP	Republican	ATG	Attorney General	LEV	Levy			21	21	Burt	Locke		339
+9/10/2002	REP	Republican	ATG	Attorney General	LIB	Liberty			9	9	Burt	Locke		8
+9/10/2002	REP	Republican	ATG	Attorney General	MAD	Madison			11	11	Burt	Locke		97
+9/10/2002	REP	Republican	ATG	Attorney General	MAN	Manatee			134	134	Burt	Locke		7358
+9/10/2002	REP	Republican	ATG	Attorney General	MRN	Marion			136	136	Burt	Locke		4973
+9/10/2002	REP	Republican	ATG	Attorney General	MRT	Martin			48	48	Burt	Locke		2500
+9/10/2002	REP	Republican	ATG	Attorney General	DAD	Miami-Dade			867	867	Burt	Locke		17127
+9/10/2002	REP	Republican	ATG	Attorney General	MON	Monroe			33	33	Burt	Locke		798
+9/10/2002	REP	Republican	ATG	Attorney General	NAS	Nassau			23	23	Burt	Locke		1006
+9/10/2002	REP	Republican	ATG	Attorney General	OKA	Okaloosa			52	52	Burt	Locke		5475
+9/10/2002	REP	Republican	ATG	Attorney General	OKE	Okeechobee			18	18	Burt	Locke		269
+9/10/2002	REP	Republican	ATG	Attorney General	ORA	Orange			251	251	Burt	Locke		16661
+9/10/2002	REP	Republican	ATG	Attorney General	OSC	Osceola			94	94	Burt	Locke		1907
+9/10/2002	REP	Republican	ATG	Attorney General	PAL	Palm Beach			645	645	Burt	Locke		9357
+9/10/2002	REP	Republican	ATG	Attorney General	PAS	Pasco			160	160	Burt	Locke		4635
+9/10/2002	REP	Republican	ATG	Attorney General	PIN	Pinellas			383	383	Burt	Locke		13849
+9/10/2002	REP	Republican	ATG	Attorney General	POL	Polk			169	169	Burt	Locke		6994
+9/10/2002	REP	Republican	ATG	Attorney General	PUT	Putnam			57	57	Burt	Locke		770
+9/10/2002	REP	Republican	ATG	Attorney General	SAN	Santa Rosa			38	38	Burt	Locke		2663
+9/10/2002	REP	Republican	ATG	Attorney General	SAR	Sarasota			162	162	Burt	Locke		11409
+9/10/2002	REP	Republican	ATG	Attorney General	SEM	Seminole			126	126	Burt	Locke		6217
+9/10/2002	REP	Republican	ATG	Attorney General	STJ	St. Johns			64	64	Burt	Locke		2878
+9/10/2002	REP	Republican	ATG	Attorney General	STL	St. Lucie			75	75	Burt	Locke		2133
+9/10/2002	REP	Republican	ATG	Attorney General	SUM	Sumter			38	38	Burt	Locke		826
+9/10/2002	REP	Republican	ATG	Attorney General	SUW	Suwannee			16	16	Burt	Locke		186
+9/10/2002	REP	Republican	ATG	Attorney General	TAY	Taylor			14	14	Burt	Locke		102
+9/10/2002	REP	Republican	ATG	Attorney General	UNI	Union			22	22	Burt	Locke		48
+9/10/2002	REP	Republican	ATG	Attorney General	VOL	Volusia			180	180	Burt	Locke		14003
+9/10/2002	REP	Republican	ATG	Attorney General	WAK	Wakulla			12	12	Burt	Locke		141
+9/10/2002	REP	Republican	ATG	Attorney General	WAL	Walton			32	32	Burt	Locke		770
+9/10/2002	REP	Republican	ATG	Attorney General	WAS	Washington			20	20	Burt	Locke		76
+9/10/2002	REP	Republican	ATG	Attorney General	ALA	Alachua			71	71	Crist	Charlie		3246
+9/10/2002	REP	Republican	ATG	Attorney General	BAK	Baker			9	9	Crist	Charlie		450
+9/10/2002	REP	Republican	ATG	Attorney General	BAY	Bay			54	54	Crist	Charlie		6907
+9/10/2002	REP	Republican	ATG	Attorney General	BRA	Bradford			21	21	Crist	Charlie		616
+9/10/2002	REP	Republican	ATG	Attorney General	BRE	Brevard			216	216	Crist	Charlie		22673
+9/10/2002	REP	Republican	ATG	Attorney General	BRO	Broward			774	774	Crist	Charlie		14947
+9/10/2002	REP	Republican	ATG	Attorney General	CAL	Calhoun			13	13	Crist	Charlie		142
+9/10/2002	REP	Republican	ATG	Attorney General	CHA	Charlotte			81	81	Crist	Charlie		7485
+9/10/2002	REP	Republican	ATG	Attorney General	CIT	Citrus			41	41	Crist	Charlie		6562
+9/10/2002	REP	Republican	ATG	Attorney General	CLA	Clay			58	58	Crist	Charlie		6022
+9/10/2002	REP	Republican	ATG	Attorney General	CLL	Collier			95	95	Crist	Charlie		10117
+9/10/2002	REP	Republican	ATG	Attorney General	CLM	Columbia			30	30	Crist	Charlie		1353
+9/10/2002	REP	Republican	ATG	Attorney General	DES	Desoto			15	15	Crist	Charlie		520
+9/10/2002	REP	Republican	ATG	Attorney General	DIX	Dixie			11	11	Crist	Charlie		84
+9/10/2002	REP	Republican	ATG	Attorney General	DUV	Duval			285	285	Crist	Charlie		27690
+9/10/2002	REP	Republican	ATG	Attorney General	ESC	Escambia			91	91	Crist	Charlie		11535
+9/10/2002	REP	Republican	ATG	Attorney General	FLA	Flagler			30	30	Crist	Charlie		2994
+9/10/2002	REP	Republican	ATG	Attorney General	FRA	Franklin			8	8	Crist	Charlie		144
+9/10/2002	REP	Republican	ATG	Attorney General	GAD	Gadsden			17	17	Crist	Charlie		343
+9/10/2002	REP	Republican	ATG	Attorney General	GIL	Gilchrist			10	10	Crist	Charlie		358
+9/10/2002	REP	Republican	ATG	Attorney General	GLA	Glades			13	13	Crist	Charlie		158
+9/10/2002	REP	Republican	ATG	Attorney General	GUL	Gulf			16	16	Crist	Charlie		551
+9/10/2002	REP	Republican	ATG	Attorney General	HAM	Hamilton			9	9	Crist	Charlie		107
+9/10/2002	REP	Republican	ATG	Attorney General	HAR	Hardee			12	12	Crist	Charlie		516
+9/10/2002	REP	Republican	ATG	Attorney General	HEN	Hendry			24	24	Crist	Charlie		585
+9/10/2002	REP	Republican	ATG	Attorney General	HER	Hernando			53	53	Crist	Charlie		7134
+9/10/2002	REP	Republican	ATG	Attorney General	HIG	Highlands			26	26	Crist	Charlie		2711
+9/10/2002	REP	Republican	ATG	Attorney General	HIL	Hillsborough			353	353	Crist	Charlie		33671
+9/10/2002	REP	Republican	ATG	Attorney General	HOL	Holmes			17	17	Crist	Charlie		275
+9/10/2002	REP	Republican	ATG	Attorney General	IND	Indian River			55	55	Crist	Charlie		5148
+9/10/2002	REP	Republican	ATG	Attorney General	JAC	Jackson			28	28	Crist	Charlie		535
+9/10/2002	REP	Republican	ATG	Attorney General	JEF	Jefferson			15	15	Crist	Charlie		358
+9/10/2002	REP	Republican	ATG	Attorney General	LAF	Lafayette			6	6	Crist	Charlie		85
+9/10/2002	REP	Republican	ATG	Attorney General	LAK	Lake			97	97	Crist	Charlie		8298
+9/10/2002	REP	Republican	ATG	Attorney General	LEE	Lee			182	182	Crist	Charlie		22798
+9/10/2002	REP	Republican	ATG	Attorney General	LEO	Leon			123	123	Crist	Charlie		5266
+9/10/2002	REP	Republican	ATG	Attorney General	LEV	Levy			21	21	Crist	Charlie		601
+9/10/2002	REP	Republican	ATG	Attorney General	LIB	Liberty			9	9	Crist	Charlie		43
+9/10/2002	REP	Republican	ATG	Attorney General	MAD	Madison			11	11	Crist	Charlie		216
+9/10/2002	REP	Republican	ATG	Attorney General	MAN	Manatee			134	134	Crist	Charlie		15651
+9/10/2002	REP	Republican	ATG	Attorney General	MRN	Marion			136	136	Crist	Charlie		12360
+9/10/2002	REP	Republican	ATG	Attorney General	MRT	Martin			48	48	Crist	Charlie		3907
+9/10/2002	REP	Republican	ATG	Attorney General	DAD	Miami-Dade			867	867	Crist	Charlie		35334
+9/10/2002	REP	Republican	ATG	Attorney General	MON	Monroe			33	33	Crist	Charlie		1750
+9/10/2002	REP	Republican	ATG	Attorney General	NAS	Nassau			23	23	Crist	Charlie		3245
+9/10/2002	REP	Republican	ATG	Attorney General	OKA	Okaloosa			52	52	Crist	Charlie		10986
+9/10/2002	REP	Republican	ATG	Attorney General	OKE	Okeechobee			18	18	Crist	Charlie		576
+9/10/2002	REP	Republican	ATG	Attorney General	ORA	Orange			251	251	Crist	Charlie		27958
+9/10/2002	REP	Republican	ATG	Attorney General	OSC	Osceola			94	94	Crist	Charlie		4001
+9/10/2002	REP	Republican	ATG	Attorney General	PAL	Palm Beach			645	645	Crist	Charlie		18937
+9/10/2002	REP	Republican	ATG	Attorney General	PAS	Pasco			160	160	Crist	Charlie		14357
+9/10/2002	REP	Republican	ATG	Attorney General	PIN	Pinellas			383	383	Crist	Charlie		40318
+9/10/2002	REP	Republican	ATG	Attorney General	POL	Polk			169	169	Crist	Charlie		16388
+9/10/2002	REP	Republican	ATG	Attorney General	PUT	Putnam			57	57	Crist	Charlie		2282
+9/10/2002	REP	Republican	ATG	Attorney General	SAN	Santa Rosa			38	38	Crist	Charlie		7837
+9/10/2002	REP	Republican	ATG	Attorney General	SAR	Sarasota			162	162	Crist	Charlie		18078
+9/10/2002	REP	Republican	ATG	Attorney General	SEM	Seminole			126	126	Crist	Charlie		8683
+9/10/2002	REP	Republican	ATG	Attorney General	STJ	St. Johns			64	64	Crist	Charlie		9662
+9/10/2002	REP	Republican	ATG	Attorney General	STL	St. Lucie			75	75	Crist	Charlie		4873
+9/10/2002	REP	Republican	ATG	Attorney General	SUM	Sumter			38	38	Crist	Charlie		2663
+9/10/2002	REP	Republican	ATG	Attorney General	SUW	Suwannee			16	16	Crist	Charlie		583
+9/10/2002	REP	Republican	ATG	Attorney General	TAY	Taylor			14	14	Crist	Charlie		317
+9/10/2002	REP	Republican	ATG	Attorney General	UNI	Union			22	22	Crist	Charlie		167
+9/10/2002	REP	Republican	ATG	Attorney General	VOL	Volusia			180	180	Crist	Charlie		7290
+9/10/2002	REP	Republican	ATG	Attorney General	WAK	Wakulla			12	12	Crist	Charlie		391
+9/10/2002	REP	Republican	ATG	Attorney General	WAL	Walton			32	32	Crist	Charlie		2178
+9/10/2002	REP	Republican	ATG	Attorney General	WAS	Washington			20	20	Crist	Charlie		450
+9/10/2002	REP	Republican	ATG	Attorney General	ALA	Alachua			71	71	Warner	Tom		2184
+9/10/2002	REP	Republican	ATG	Attorney General	BAK	Baker			9	9	Warner	Tom		112
+9/10/2002	REP	Republican	ATG	Attorney General	BAY	Bay			54	54	Warner	Tom		2513
+9/10/2002	REP	Republican	ATG	Attorney General	BRA	Bradford			21	21	Warner	Tom		145
+9/10/2002	REP	Republican	ATG	Attorney General	BRE	Brevard			216	216	Warner	Tom		11077
+9/10/2002	REP	Republican	ATG	Attorney General	BRO	Broward			774	774	Warner	Tom		13856
+9/10/2002	REP	Republican	ATG	Attorney General	CAL	Calhoun			13	13	Warner	Tom		65
+9/10/2002	REP	Republican	ATG	Attorney General	CHA	Charlotte			81	81	Warner	Tom		3452
+9/10/2002	REP	Republican	ATG	Attorney General	CIT	Citrus			41	41	Warner	Tom		3427
+9/10/2002	REP	Republican	ATG	Attorney General	CLA	Clay			58	58	Warner	Tom		2462
+9/10/2002	REP	Republican	ATG	Attorney General	CLL	Collier			95	95	Warner	Tom		5102
+9/10/2002	REP	Republican	ATG	Attorney General	CLM	Columbia			30	30	Warner	Tom		775
+9/10/2002	REP	Republican	ATG	Attorney General	DES	Desoto			15	15	Warner	Tom		124
+9/10/2002	REP	Republican	ATG	Attorney General	DIX	Dixie			11	11	Warner	Tom		50
+9/10/2002	REP	Republican	ATG	Attorney General	DUV	Duval			285	285	Warner	Tom		7257
+9/10/2002	REP	Republican	ATG	Attorney General	ESC	Escambia			91	91	Warner	Tom		6766
+9/10/2002	REP	Republican	ATG	Attorney General	FLA	Flagler			30	30	Warner	Tom		1725
+9/10/2002	REP	Republican	ATG	Attorney General	FRA	Franklin			8	8	Warner	Tom		96
+9/10/2002	REP	Republican	ATG	Attorney General	GAD	Gadsden			17	17	Warner	Tom		128
+9/10/2002	REP	Republican	ATG	Attorney General	GIL	Gilchrist			10	10	Warner	Tom		254
+9/10/2002	REP	Republican	ATG	Attorney General	GLA	Glades			13	13	Warner	Tom		112
+9/10/2002	REP	Republican	ATG	Attorney General	GUL	Gulf			16	16	Warner	Tom		345
+9/10/2002	REP	Republican	ATG	Attorney General	HAM	Hamilton			9	9	Warner	Tom		53
+9/10/2002	REP	Republican	ATG	Attorney General	HAR	Hardee			12	12	Warner	Tom		188
+9/10/2002	REP	Republican	ATG	Attorney General	HEN	Hendry			24	24	Warner	Tom		251
+9/10/2002	REP	Republican	ATG	Attorney General	HER	Hernando			53	53	Warner	Tom		2772
+9/10/2002	REP	Republican	ATG	Attorney General	HIG	Highlands			26	26	Warner	Tom		1157
+9/10/2002	REP	Republican	ATG	Attorney General	HIL	Hillsborough			353	353	Warner	Tom		12352
+9/10/2002	REP	Republican	ATG	Attorney General	HOL	Holmes			17	17	Warner	Tom		194
+9/10/2002	REP	Republican	ATG	Attorney General	IND	Indian River			55	55	Warner	Tom		4613
+9/10/2002	REP	Republican	ATG	Attorney General	JAC	Jackson			28	28	Warner	Tom		304
+9/10/2002	REP	Republican	ATG	Attorney General	JEF	Jefferson			15	15	Warner	Tom		131
+9/10/2002	REP	Republican	ATG	Attorney General	LAF	Lafayette			6	6	Warner	Tom		55
+9/10/2002	REP	Republican	ATG	Attorney General	LAK	Lake			97	97	Warner	Tom		3671
+9/10/2002	REP	Republican	ATG	Attorney General	LEE	Lee			182	182	Warner	Tom		9586
+9/10/2002	REP	Republican	ATG	Attorney General	LEO	Leon			123	123	Warner	Tom		3497
+9/10/2002	REP	Republican	ATG	Attorney General	LEV	Levy			21	21	Warner	Tom		344
+9/10/2002	REP	Republican	ATG	Attorney General	LIB	Liberty			9	9	Warner	Tom		16
+9/10/2002	REP	Republican	ATG	Attorney General	MAD	Madison			11	11	Warner	Tom		70
+9/10/2002	REP	Republican	ATG	Attorney General	MAN	Manatee			134	134	Warner	Tom		4397
+9/10/2002	REP	Republican	ATG	Attorney General	MRN	Marion			136	136	Warner	Tom		5556
+9/10/2002	REP	Republican	ATG	Attorney General	MRT	Martin			48	48	Warner	Tom		11652
+9/10/2002	REP	Republican	ATG	Attorney General	DAD	Miami-Dade			867	867	Warner	Tom		35834
+9/10/2002	REP	Republican	ATG	Attorney General	MON	Monroe			33	33	Warner	Tom		2084
+9/10/2002	REP	Republican	ATG	Attorney General	NAS	Nassau			23	23	Warner	Tom		970
+9/10/2002	REP	Republican	ATG	Attorney General	OKA	Okaloosa			52	52	Warner	Tom		5939
+9/10/2002	REP	Republican	ATG	Attorney General	OKE	Okeechobee			18	18	Warner	Tom		505
+9/10/2002	REP	Republican	ATG	Attorney General	ORA	Orange			251	251	Warner	Tom		12544
+9/10/2002	REP	Republican	ATG	Attorney General	OSC	Osceola			94	94	Warner	Tom		1661
+9/10/2002	REP	Republican	ATG	Attorney General	PAL	Palm Beach			645	645	Warner	Tom		18523
+9/10/2002	REP	Republican	ATG	Attorney General	PAS	Pasco			160	160	Warner	Tom		5033
+9/10/2002	REP	Republican	ATG	Attorney General	PIN	Pinellas			383	383	Warner	Tom		11362
+9/10/2002	REP	Republican	ATG	Attorney General	POL	Polk			169	169	Warner	Tom		6542
+9/10/2002	REP	Republican	ATG	Attorney General	PUT	Putnam			57	57	Warner	Tom		699
+9/10/2002	REP	Republican	ATG	Attorney General	SAN	Santa Rosa			38	38	Warner	Tom		4288
+9/10/2002	REP	Republican	ATG	Attorney General	SAR	Sarasota			162	162	Warner	Tom		7362
+9/10/2002	REP	Republican	ATG	Attorney General	SEM	Seminole			126	126	Warner	Tom		4703
+9/10/2002	REP	Republican	ATG	Attorney General	STJ	St. Johns			64	64	Warner	Tom		2910
+9/10/2002	REP	Republican	ATG	Attorney General	STL	St. Lucie			75	75	Warner	Tom		6147
+9/10/2002	REP	Republican	ATG	Attorney General	SUM	Sumter			38	38	Warner	Tom		847
+9/10/2002	REP	Republican	ATG	Attorney General	SUW	Suwannee			16	16	Warner	Tom		305
+9/10/2002	REP	Republican	ATG	Attorney General	TAY	Taylor			14	14	Warner	Tom		122
+9/10/2002	REP	Republican	ATG	Attorney General	UNI	Union			22	22	Warner	Tom		48
+9/10/2002	REP	Republican	ATG	Attorney General	VOL	Volusia			180	180	Warner	Tom		4240
+9/10/2002	REP	Republican	ATG	Attorney General	WAK	Wakulla			12	12	Warner	Tom		188
+9/10/2002	REP	Republican	ATG	Attorney General	WAL	Walton			32	32	Warner	Tom		1072
+9/10/2002	REP	Republican	ATG	Attorney General	WAS	Washington			20	20	Warner	Tom		235
+9/10/2002	REP	Republican	STA	State Attorney	CHA	Charlotte	020		81	81	Bower	Marshall	T.	5240
+9/10/2002	REP	Republican	STA	State Attorney	CLL	Collier	020		104	104	Bower	Marshall	T.	7367
+9/10/2002	REP	Republican	STA	State Attorney	GLA	Glades	020		13	13	Bower	Marshall	T.	243
+9/10/2002	REP	Republican	STA	State Attorney	HEN	Hendry	020		24	24	Bower	Marshall	T.	591
+9/10/2002	REP	Republican	STA	State Attorney	LEE	Lee	020		184	184	Bower	Marshall	T.	24217
+9/10/2002	REP	Republican	STA	State Attorney	CHA	Charlotte	020		81	81	Carr	Mike		5273
+9/10/2002	REP	Republican	STA	State Attorney	CLL	Collier	020		104	104	Carr	Mike		10680
+9/10/2002	REP	Republican	STA	State Attorney	GLA	Glades	020		13	13	Carr	Mike		292
+9/10/2002	REP	Republican	STA	State Attorney	HEN	Hendry	020		24	24	Carr	Mike		539
+9/10/2002	REP	Republican	STA	State Attorney	LEE	Lee	020		184	184	Carr	Mike		10759
+9/10/2002	REP	Republican	STA	State Attorney	CHA	Charlotte	020		81	81	Gray	Bob		3088
+9/10/2002	REP	Republican	STA	State Attorney	CLL	Collier	020		104	104	Gray	Bob		9152
+9/10/2002	REP	Republican	STA	State Attorney	GLA	Glades	020		13	13	Gray	Bob		364
+9/10/2002	REP	Republican	STA	State Attorney	HEN	Hendry	020		24	24	Gray	Bob		444
+9/10/2002	REP	Republican	STA	State Attorney	LEE	Lee	020		184	184	Gray	Bob		11131
+9/10/2002	REP	Republican	STA	State Attorney	CHA	Charlotte	020		81	81	Russell	Steve		9887
+9/10/2002	REP	Republican	STA	State Attorney	CLL	Collier	020		104	104	Russell	Steve		7999
+9/10/2002	REP	Republican	STA	State Attorney	GLA	Glades	020		13	13	Russell	Steve		833
+9/10/2002	REP	Republican	STA	State Attorney	HEN	Hendry	020		24	24	Russell	Steve		1455
+9/10/2002	REP	Republican	STA	State Attorney	LEE	Lee	020		184	184	Russell	Steve		21454
+9/10/2002	REP	Republican	STS	State Senator	BAY	Bay	004		45	45	Clary	Charlie		6221
+9/10/2002	REP	Republican	STS	State Senator	ESC	Escambia	004		32	32	Clary	Charlie		5716
+9/10/2002	REP	Republican	STS	State Senator	OKA	Okaloosa	004		39	39	Clary	Charlie		8440
+9/10/2002	REP	Republican	STS	State Senator	SAN	Santa Rosa	004		14	14	Clary	Charlie		3742
+9/10/2002	REP	Republican	STS	State Senator	WAL	Walton	004		3	3	Clary	Charlie		1016
+9/10/2002	REP	Republican	STS	State Senator	BAY	Bay	004		45	45	Melvin	Jerry		4099
+9/10/2002	REP	Republican	STS	State Senator	ESC	Escambia	004		32	32	Melvin	Jerry		4366
+9/10/2002	REP	Republican	STS	State Senator	OKA	Okaloosa	004		39	39	Melvin	Jerry		9150
+9/10/2002	REP	Republican	STS	State Senator	SAN	Santa Rosa	004		14	14	Melvin	Jerry		2630
+9/10/2002	REP	Republican	STS	State Senator	WAL	Walton	004		3	3	Melvin	Jerry		701
+9/10/2002	REP	Republican	STS	State Senator	CLA	Clay	007		14	14	Albright	George		845
+9/10/2002	REP	Republican	STS	State Senator	MRN	Marion	007		41	41	Albright	George		4690
+9/10/2002	REP	Republican	STS	State Senator	PUT	Putnam	007		34	34	Albright	George		905
+9/10/2002	REP	Republican	STS	State Senator	VOL	Volusia	007		114	114	Albright	George		2955
+9/10/2002	REP	Republican	STS	State Senator	CLA	Clay	007		14	14	Creighton	Jon	Marc	375
+9/10/2002	REP	Republican	STS	State Senator	MRN	Marion	007		41	41	Creighton	Jon	Marc	739
+9/10/2002	REP	Republican	STS	State Senator	PUT	Putnam	007		34	34	Creighton	Jon	Marc	390
+9/10/2002	REP	Republican	STS	State Senator	VOL	Volusia	007		114	114	Creighton	Jon	Marc	1835
+9/10/2002	REP	Republican	STS	State Senator	CLA	Clay	007		14	14	Lynn	Evelyn		711
+9/10/2002	REP	Republican	STS	State Senator	MRN	Marion	007		41	41	Lynn	Evelyn		2245
+9/10/2002	REP	Republican	STS	State Senator	PUT	Putnam	007		34	34	Lynn	Evelyn		967
+9/10/2002	REP	Republican	STS	State Senator	VOL	Volusia	007		114	114	Lynn	Evelyn		10067
+9/10/2002	REP	Republican	STS	State Senator	CHA	Charlotte	021		17	17	Bennett	Mike		1399
+9/10/2002	REP	Republican	STS	State Senator	DES	Desoto	021		3	3	Bennett	Mike		107
+9/10/2002	REP	Republican	STS	State Senator	LEE	Lee	021		45	45	Bennett	Mike		5347
+9/10/2002	REP	Republican	STS	State Senator	MAN	Manatee	021		124	124	Bennett	Mike		14256
+9/10/2002	REP	Republican	STS	State Senator	SAR	Sarasota	021		25	25	Bennett	Mike		3302
+9/10/2002	REP	Republican	STS	State Senator	CHA	Charlotte	021		17	17	Flanagan	Mark	G.	1060
+9/10/2002	REP	Republican	STS	State Senator	DES	Desoto	021		3	3	Flanagan	Mark	G.	89
+9/10/2002	REP	Republican	STS	State Senator	LEE	Lee	021		45	45	Flanagan	Mark	G.	3873
+9/10/2002	REP	Republican	STS	State Senator	MAN	Manatee	021		124	124	Flanagan	Mark	G.	12503
+9/10/2002	REP	Republican	STS	State Senator	SAR	Sarasota	021		25	25	Flanagan	Mark	G.	1922
+9/10/2002	REP	Republican	STS	State Senator	BRE	Brevard	024		144	144	Goode Jr	Harry		5672
+9/10/2002	REP	Republican	STS	State Senator	ORA	Orange	024		29	29	Goode Jr	Harry		1220
+9/10/2002	REP	Republican	STS	State Senator	SEM	Seminole	024		13	13	Goode Jr	Harry		665
+9/10/2002	REP	Republican	STS	State Senator	BRE	Brevard	024		144	144	Posey	Bill		18317
+9/10/2002	REP	Republican	STS	State Senator	ORA	Orange	024		29	29	Posey	Bill		4991
+9/10/2002	REP	Republican	STS	State Senator	SEM	Seminole	024		13	13	Posey	Bill		2294
+9/10/2002	REP	Republican	STS	State Senator	BRE	Brevard	026		72	72	Futch	Howard		13758
+9/10/2002	REP	Republican	STS	State Senator	IND	Indian River	026		46	46	Futch	Howard		6157
+9/10/2002	REP	Republican	STS	State Senator	OSC	Osceola	026		23	23	Futch	Howard		1237
+9/10/2002	REP	Republican	STS	State Senator	STL	St. Lucie	026		22	22	Futch	Howard		1316
+9/10/2002	REP	Republican	STS	State Senator	BRE	Brevard	026		72	72	Lane	Kathy		5790
+9/10/2002	REP	Republican	STS	State Senator	IND	Indian River	026		46	46	Lane	Kathy		4497
+9/10/2002	REP	Republican	STS	State Senator	OSC	Osceola	026		23	23	Lane	Kathy		760
+9/10/2002	REP	Republican	STS	State Senator	STL	St. Lucie	026		22	22	Lane	Kathy		980
+9/10/2002	REP	Republican	STS	State Senator	CHA	Charlotte	027		2	2	Goldberg	Eric	Jay	0
+9/10/2002	REP	Republican	STS	State Senator	GLA	Glades	027		13	13	Goldberg	Eric	Jay	12
+9/10/2002	REP	Republican	STS	State Senator	LEE	Lee	027		69	69	Goldberg	Eric	Jay	490
+9/10/2002	REP	Republican	STS	State Senator	PAL	Palm Beach	027		133	133	Goldberg	Eric	Jay	1220
+9/10/2002	REP	Republican	STS	State Senator	CHA	Charlotte	027		2	2	Lee	Joseph		2
+9/10/2002	REP	Republican	STS	State Senator	GLA	Glades	027		13	13	Lee	Joseph		6
+9/10/2002	REP	Republican	STS	State Senator	LEE	Lee	027		69	69	Lee	Joseph		666
+9/10/2002	REP	Republican	STS	State Senator	PAL	Palm Beach	027		133	133	Lee	Joseph		1069
+9/10/2002	REP	Republican	STS	State Senator	CHA	Charlotte	027		2	2	Livingston	Ralph	L	1
+9/10/2002	REP	Republican	STS	State Senator	GLA	Glades	027		13	13	Livingston	Ralph	L	11
+9/10/2002	REP	Republican	STS	State Senator	LEE	Lee	027		69	69	Livingston	Ralph	L	4760
+9/10/2002	REP	Republican	STS	State Senator	PAL	Palm Beach	027		133	133	Livingston	Ralph	L	939
+9/10/2002	REP	Republican	STS	State Senator	CHA	Charlotte	027		2	2	Mann	Frank		7
+9/10/2002	REP	Republican	STS	State Senator	GLA	Glades	027		13	13	Mann	Frank		94
+9/10/2002	REP	Republican	STS	State Senator	LEE	Lee	027		69	69	Mann	Frank		7162
+9/10/2002	REP	Republican	STS	State Senator	PAL	Palm Beach	027		133	133	Mann	Frank		1289
+9/10/2002	REP	Republican	STS	State Senator	CHA	Charlotte	027		2	2	Merchant	Sharon	J	4
+9/10/2002	REP	Republican	STS	State Senator	GLA	Glades	027		13	13	Merchant	Sharon	J	34
+9/10/2002	REP	Republican	STS	State Senator	LEE	Lee	027		69	69	Merchant	Sharon	J	3000
+9/10/2002	REP	Republican	STS	State Senator	PAL	Palm Beach	027		133	133	Merchant	Sharon	J	3207
+9/10/2002	REP	Republican	STS	State Senator	DAD	Miami-Dade	036		186	186	Diaz de la Portilla	Alex		15439
+9/10/2002	REP	Republican	STS	State Senator	DAD	Miami-Dade	036		186	186	Gorrie	Mike		2764
+9/10/2002	REP	Republican	STS	State Senator	DAD	Miami-Dade	036		186	186	Lacasa	Carlos		13186
+9/10/2002	REP	Republican	STR	State Representative	ESC	Escambia	001		13	13	Evers	Greg		1899
+9/10/2002	REP	Republican	STR	State Representative	OKA	Okaloosa	001		7	7	Evers	Greg		1500
+9/10/2002	REP	Republican	STR	State Representative	SAN	Santa Rosa	001		32	32	Evers	Greg		8181
+9/10/2002	REP	Republican	STR	State Representative	ESC	Escambia	001		13	13	Mapoles	Byrd		451
+9/10/2002	REP	Republican	STR	State Representative	OKA	Okaloosa	001		7	7	Mapoles	Byrd		149
+9/10/2002	REP	Republican	STR	State Representative	SAN	Santa Rosa	001		32	32	Mapoles	Byrd		3725
+9/10/2002	REP	Republican	STR	State Representative	ESC	Escambia	002		36	36	Murzin	Dave		6082
+9/10/2002	REP	Republican	STR	State Representative	ESC	Escambia	002		36	36	Reeves	Jim		6041
+9/10/2002	REP	Republican	STR	State Representative	DUV	Duval	017		45	45	Jordan	Stan		5257
+9/10/2002	REP	Republican	STR	State Representative	DUV	Duval	017		45	45	Tullis	Jim		4921
+9/10/2002	REP	Republican	STR	State Representative	FLA	Flagler	026		4	4	Dahlen	Bob		103
+9/10/2002	REP	Republican	STR	State Representative	VOL	Volusia	026		60	60	Dahlen	Bob		2867
+9/10/2002	REP	Republican	STR	State Representative	FLA	Flagler	026		4	4	Patterson	Pat		226
+9/10/2002	REP	Republican	STR	State Representative	VOL	Volusia	026		60	60	Patterson	Pat		7398
+9/10/2002	REP	Republican	STR	State Representative	BRE	Brevard	029		49	49	Harrison	Pat		2888
+9/10/2002	REP	Republican	STR	State Representative	IND	Indian River	029		14	14	Harrison	Pat		799
+9/10/2002	REP	Republican	STR	State Representative	BRE	Brevard	029		49	49	Nelson	Billy	B.	1843
+9/10/2002	REP	Republican	STR	State Representative	IND	Indian River	029		14	14	Nelson	Billy	B.	696
+9/10/2002	REP	Republican	STR	State Representative	BRE	Brevard	029		49	49	Poppell	L	Ralph	2859
+9/10/2002	REP	Republican	STR	State Representative	IND	Indian River	029		14	14	Poppell	L	Ralph	2297
+9/10/2002	REP	Republican	STR	State Representative	BRE	Brevard	030		62	62	Haridopolos	Mike		11251
+9/10/2002	REP	Republican	STR	State Representative	BRE	Brevard	030		62	62	Sherbin	Steve		2398
+9/10/2002	REP	Republican	STR	State Representative	ORA	Orange	033		10	10	Adams	Sandra	'Sandy'	953
+9/10/2002	REP	Republican	STR	State Representative	SEM	Seminole	033		34	34	Adams	Sandra	'Sandy'	2798
+9/10/2002	REP	Republican	STR	State Representative	VOL	Volusia	033		5	5	Adams	Sandra	'Sandy'	277
+9/10/2002	REP	Republican	STR	State Representative	ORA	Orange	033		10	10	Hampton	Phillip	E.	107
+9/10/2002	REP	Republican	STR	State Representative	SEM	Seminole	033		34	34	Hampton	Phillip	E.	638
+9/10/2002	REP	Republican	STR	State Representative	VOL	Volusia	033		5	5	Hampton	Phillip	E.	55
+9/10/2002	REP	Republican	STR	State Representative	ORA	Orange	033		10	10	Lagomarsino	Tom		568
+9/10/2002	REP	Republican	STR	State Representative	SEM	Seminole	033		34	34	Lagomarsino	Tom		1536
+9/10/2002	REP	Republican	STR	State Representative	VOL	Volusia	033		5	5	Lagomarsino	Tom		93
+9/10/2002	REP	Republican	STR	State Representative	ORA	Orange	033		10	10	Mosley	Dean		382
+9/10/2002	REP	Republican	STR	State Representative	SEM	Seminole	033		34	34	Mosley	Dean		388
+9/10/2002	REP	Republican	STR	State Representative	VOL	Volusia	033		5	5	Mosley	Dean		67
+9/10/2002	REP	Republican	STR	State Representative	ORA	Orange	033		10	10	Rathel	Michael	K.	196
+9/10/2002	REP	Republican	STR	State Representative	SEM	Seminole	033		34	34	Rathel	Michael	K.	1666
+9/10/2002	REP	Republican	STR	State Representative	VOL	Volusia	033		5	5	Rathel	Michael	K.	44
+9/10/2002	REP	Republican	STR	State Representative	ORA	Orange	034		2	2	Climer	Clyde	H.	39
+9/10/2002	REP	Republican	STR	State Representative	SEM	Seminole	034		45	45	Climer	Clyde	H.	1394
+9/10/2002	REP	Republican	STR	State Representative	ORA	Orange	034		2	2	Mealor	David	J.	109
+9/10/2002	REP	Republican	STR	State Representative	SEM	Seminole	034		45	45	Mealor	David	J.	4703
+9/10/2002	REP	Republican	STR	State Representative	CIT	Citrus	043		41	41	Dean	Charles	S.	7077
+9/10/2002	REP	Republican	STR	State Representative	HER	Hernando	043		8	8	Dean	Charles	S.	515
+9/10/2002	REP	Republican	STR	State Representative	LEV	Levy	043		1	1	Dean	Charles	S.	153
+9/10/2002	REP	Republican	STR	State Representative	CIT	Citrus	043		41	41	Dunwoodie	Nancy	A.	2393
+9/10/2002	REP	Republican	STR	State Representative	HER	Hernando	043		8	8	Dunwoodie	Nancy	A.	286
+9/10/2002	REP	Republican	STR	State Representative	LEV	Levy	043		1	1	Dunwoodie	Nancy	A.	41
+9/10/2002	REP	Republican	STR	State Representative	CIT	Citrus	043		41	41	White	Michael	'Joey'	2543
+9/10/2002	REP	Republican	STR	State Representative	HER	Hernando	043		8	8	White	Michael	'Joey'	231
+9/10/2002	REP	Republican	STR	State Representative	LEV	Levy	043		1	1	White	Michael	'Joey'	36
+9/10/2002	REP	Republican	STR	State Representative	PAS	Pasco	045		35	35	Anderson	Tom		2459
+9/10/2002	REP	Republican	STR	State Representative	PIN	Pinellas	045		23	23	Anderson	Tom		3734
+9/10/2002	REP	Republican	STR	State Representative	PAS	Pasco	045		35	35	Legg	John		3516
+9/10/2002	REP	Republican	STR	State Representative	PIN	Pinellas	045		23	23	Legg	John		1633
+9/10/2002	REP	Republican	STR	State Representative	HIL	Hillsborough	047		46	46	Ambler	Kevin Christopher		3259
+9/10/2002	REP	Republican	STR	State Representative	HIL	Hillsborough	047		46	46	Collins	Jill		3176
+9/10/2002	REP	Republican	STR	State Representative	HIL	Hillsborough	047		46	46	Mitchell	Bill		1935
+9/10/2002	REP	Republican	STR	State Representative	ORA	Orange	049		30	30	Mantilla	Joe		1890
+9/10/2002	REP	Republican	STR	State Representative	OSC	Osceola	049		17	17	Mantilla	Joe		289
+9/10/2002	REP	Republican	STR	State Representative	ORA	Orange	049		30	30	Quinones	John	'Q'	2135
+9/10/2002	REP	Republican	STR	State Representative	OSC	Osceola	049		17	17	Quinones	John	'Q'	686
+9/10/2002	REP	Republican	STR	State Representative	PIN	Pinellas	051		52	52	Krassner	Dan		2954
+9/10/2002	REP	Republican	STR	State Representative	PIN	Pinellas	051		52	52	Stieh	William	'Bill'	1400
+9/10/2002	REP	Republican	STR	State Representative	PIN	Pinellas	051		52	52	Waters	Leslie		6531
+9/10/2002	REP	Republican	STR	State Representative	PIN	Pinellas	052		55	55	Burns	Cary	D.	3450
+9/10/2002	REP	Republican	STR	State Representative	PIN	Pinellas	052		55	55	Farkas	Frank		6595
+9/10/2002	REP	Republican	STR	State Representative	HIL	Hillsborough	057		42	42	Culp	Faye		4121
+9/10/2002	REP	Republican	STR	State Representative	HIL	Hillsborough	057		42	42	Johnson	Jim		1962
+9/10/2002	REP	Republican	STR	State Representative	HIL	Hillsborough	057		42	42	Lorenzo	Marcos	F.	3265
+9/10/2002	REP	Republican	STR	State Representative	POL	Polk	064		40	40	Stargel	John		4774
+9/10/2002	REP	Republican	STR	State Representative	POL	Polk	064		40	40	Wilson	Jerre		3615
+9/10/2002	REP	Republican	STR	State Representative	HAR	Hardee	066		12	12	Carter	Jerry	L.	174
+9/10/2002	REP	Republican	STR	State Representative	HIG	Highlands	066		3	3	Carter	Jerry	L.	143
+9/10/2002	REP	Republican	STR	State Representative	POL	Polk	066		43	43	Carter	Jerry	L.	1802
+9/10/2002	REP	Republican	STR	State Representative	HAR	Hardee	066		12	12	Newberry	Gary	W	241
+9/10/2002	REP	Republican	STR	State Representative	HIG	Highlands	066		3	3	Newberry	Gary	W	189
+9/10/2002	REP	Republican	STR	State Representative	POL	Polk	066		43	43	Newberry	Gary	W	2244
+9/10/2002	REP	Republican	STR	State Representative	HAR	Hardee	066		12	12	Troutman	Baxter		361
+9/10/2002	REP	Republican	STR	State Representative	HIG	Highlands	066		3	3	Troutman	Baxter		201
+9/10/2002	REP	Republican	STR	State Representative	POL	Polk	066		43	43	Troutman	Baxter		2420
+9/10/2002	REP	Republican	STR	State Representative	HIL	Hillsborough	067		17	17	Flake	Chester		272
+9/10/2002	REP	Republican	STR	State Representative	MAN	Manatee	067		51	51	Flake	Chester		540
+9/10/2002	REP	Republican	STR	State Representative	SAR	Sarasota	067		12	12	Flake	Chester		284
+9/10/2002	REP	Republican	STR	State Representative	HIL	Hillsborough	067		17	17	Reagan	Ron		1887
+9/10/2002	REP	Republican	STR	State Representative	MAN	Manatee	067		51	51	Reagan	Ron		7928
+9/10/2002	REP	Republican	STR	State Representative	SAR	Sarasota	067		12	12	Reagan	Ron		1608
+9/10/2002	REP	Republican	STR	State Representative	HIL	Hillsborough	067		17	17	Williams	Steele	T.	1204
+9/10/2002	REP	Republican	STR	State Representative	MAN	Manatee	067		51	51	Williams	Steele	T.	1963
+9/10/2002	REP	Republican	STR	State Representative	SAR	Sarasota	067		12	12	Williams	Steele	T.	804
+9/10/2002	REP	Republican	STR	State Representative	HIL	Hillsborough	068		1	1	Galvano	Bill		0
+9/10/2002	REP	Republican	STR	State Representative	MAN	Manatee	068		74	74	Galvano	Bill		7151
+9/10/2002	REP	Republican	STR	State Representative	HIL	Hillsborough	068		1	1	Milks	Benjamin		0
+9/10/2002	REP	Republican	STR	State Representative	MAN	Manatee	068		74	74	Milks	Benjamin		1960
+9/10/2002	REP	Republican	STR	State Representative	HIL	Hillsborough	068		1	1	Miner	Dave		0
+9/10/2002	REP	Republican	STR	State Representative	MAN	Manatee	068		74	74	Miner	Dave		1537
+9/10/2002	REP	Republican	STR	State Representative	HIL	Hillsborough	068		1	1	Murphy	Brian		0
+9/10/2002	REP	Republican	STR	State Representative	MAN	Manatee	068		74	74	Murphy	Brian		4728
+9/10/2002	REP	Republican	STR	State Representative	MAN	Manatee	069		7	7	Clarke	Donna		595
+9/10/2002	REP	Republican	STR	State Representative	SAR	Sarasota	069		56	56	Clarke	Donna		8251
+9/10/2002	REP	Republican	STR	State Representative	MAN	Manatee	069		7	7	Ennis	Cheryl	R.	291
+9/10/2002	REP	Republican	STR	State Representative	SAR	Sarasota	069		56	56	Ennis	Cheryl	R.	4551
+9/10/2002	REP	Republican	STR	State Representative	LEE	Lee	073		49	49	Kyle	Bruce		6383
+9/10/2002	REP	Republican	STR	State Representative	LEE	Lee	073		49	49	McQuagge	Mike		3863
+9/10/2002	REP	Republican	STR	State Representative	CHA	Charlotte	074		2	2	Gibbs	Arnold	A.	1
+9/10/2002	REP	Republican	STR	State Representative	LEE	Lee	074		59	59	Gibbs	Arnold	A.	6562
+9/10/2002	REP	Republican	STR	State Representative	CHA	Charlotte	074		2	2	Kottkamp	Jeff		0
+9/10/2002	REP	Republican	STR	State Representative	LEE	Lee	074		59	59	Kottkamp	Jeff		9046
+9/10/2002	REP	Republican	STR	State Representative	CHA	Charlotte	074		2	2	Mancare	Chris		0
+9/10/2002	REP	Republican	STR	State Representative	LEE	Lee	074		59	59	Mancare	Chris		587
+9/10/2002	REP	Republican	STR	State Representative	PAL	Palm Beach	083		89	89	Brosemer	Donna		4419
+9/10/2002	REP	Republican	STR	State Representative	PAL	Palm Beach	083		89	89	Cardone	Nancy		4569
+9/10/2002	REP	Republican	STR	State Representative	PAL	Palm Beach	083		89	89	Domino	Carl		6697
+9/10/2002	REP	Republican	STR	State Representative	PAL	Palm Beach	083		89	89	Vastola	Gail	H.	5853
+9/10/2002	REP	Republican	STR	State Representative	PAL	Palm Beach	085		82	82	Edwards	Andy		3687
+9/10/2002	REP	Republican	STR	State Representative	PAL	Palm Beach	085		82	82	Priore	Carmine		3519
+9/10/2002	REP	Republican	STR	State Representative	BRO	Broward	087		10	10	Feaman	Peter		161
+9/10/2002	REP	Republican	STR	State Representative	PAL	Palm Beach	087		82	82	Feaman	Peter		2370
+9/10/2002	REP	Republican	STR	State Representative	BRO	Broward	087		10	10	Fisher	Charlie		77
+9/10/2002	REP	Republican	STR	State Representative	PAL	Palm Beach	087		82	82	Fisher	Charlie		1113
+9/10/2002	REP	Republican	STR	State Representative	BRO	Broward	087		10	10	Hasner	Adam		245
+9/10/2002	REP	Republican	STR	State Representative	PAL	Palm Beach	087		82	82	Hasner	Adam		2458
+9/10/2002	REP	Republican	STR	State Representative	BRO	Broward	087		10	10	Thayer	Wanda		129
+9/10/2002	REP	Republican	STR	State Representative	PAL	Palm Beach	087		82	82	Thayer	Wanda		2464
+9/10/2002	REP	Republican	STR	State Representative	PAL	Palm Beach	089		74	74	Killian	Mann		1646
+9/10/2002	REP	Republican	STR	State Representative	PAL	Palm Beach	089		74	74	Shaw	Elliot		2230
+9/10/2002	REP	Republican	STR	State Representative	BRO	Broward	112		11	11	Gonzalez	Rainier	'Ray'	216
+9/10/2002	REP	Republican	STR	State Representative	CLL	Collier	112		9	9	Gonzalez	Rainier	'Ray'	299
+9/10/2002	REP	Republican	STR	State Representative	DAD	Miami-Dade	112		34	34	Gonzalez	Rainier	'Ray'	2877
+9/10/2002	REP	Republican	STR	State Representative	BRO	Broward	112		11	11	Rivera	David		325
+9/10/2002	REP	Republican	STR	State Representative	CLL	Collier	112		9	9	Rivera	David		418
+9/10/2002	REP	Republican	STR	State Representative	DAD	Miami-Dade	112		34	34	Rivera	David		2887
+9/10/2002	REP	Republican	STR	State Representative	DAD	Miami-Dade	115		57	57	Alfonso	Manuel 'Manny'		1416
+9/10/2002	REP	Republican	STR	State Representative	DAD	Miami-Dade	115		57	57	Diaz de la Portilla	Renier		5115
+9/10/2002	REP	Republican	STR	State Representative	DAD	Miami-Dade	115		57	57	Planas	Juan-Carlos	'J.C.'	5253
+9/10/2002	REP	Republican	STR	State Representative	DAD	Miami-Dade	116		29	29	Bagué	Irela		976
+9/10/2002	REP	Republican	STR	State Representative	DAD	Miami-Dade	116		29	29	Castillo	Jose	Luis	1509
+9/10/2002	REP	Republican	STR	State Representative	DAD	Miami-Dade	116		29	29	Llorente	Marcelo		2631
+9/10/2002	REP	Republican	STR	State Representative	DAD	Miami-Dade	116		29	29	Martinez-Malo	Mario		243
+9/10/2002	REP	Republican	STR	State Representative	DAD	Miami-Dade	116		29	29	Rodriguez	Jose	Luis	1687
+9/10/2002	REP	Republican	STR	State Representative	DAD	Miami-Dade	117		76	76	Lopez-Cantera	Carlos		5634
+9/10/2002	REP	Republican	STR	State Representative	DAD	Miami-Dade	117		76	76	Robaina	Julio		6375
+9/10/2002	REP	Republican	STR	State Representative	DAD	Miami-Dade	119		49	49	Artiles	Frank		2440
+9/10/2002	REP	Republican	STR	State Representative	DAD	Miami-Dade	119		49	49	Hyman	Tim		2252
+9/10/2002	REP	Republican	STR	State Representative	DAD	Miami-Dade	119		49	49	Pomar	Armando	V.	276
+9/10/2002	REP	Republican	STR	State Representative	DAD	Miami-Dade	119		49	49	Zapata	Juan	C.	2759
+9/10/2002	DEM	Democrat	USR	United States Representative	ALA	Alachua	006		59	59	Bruderly	David	E.	12262
+9/10/2002	DEM	Democrat	USR	United States Representative	BRA	Bradford	006		21	21	Bruderly	David	E.	1844
+9/10/2002	DEM	Democrat	USR	United States Representative	CLA	Clay	006		50	50	Bruderly	David	E.	2398
+9/10/2002	DEM	Democrat	USR	United States Representative	DUV	Duval	006		38	38	Bruderly	David	E.	2782
+9/10/2002	DEM	Democrat	USR	United States Representative	GIL	Gilchrist	006		10	10	Bruderly	David	E.	1323
+9/10/2002	DEM	Democrat	USR	United States Representative	LAK	Lake	006		20	20	Bruderly	David	E.	1549
+9/10/2002	DEM	Democrat	USR	United States Representative	LEV	Levy	006		4	4	Bruderly	David	E.	601
+9/10/2002	DEM	Democrat	USR	United States Representative	MRN	Marion	006		85	85	Bruderly	David	E.	6782
+9/10/2002	DEM	Democrat	USR	United States Representative	ALA	Alachua	006		59	59	O'Neill	James Francis	Jude	4225
+9/10/2002	DEM	Democrat	USR	United States Representative	BRA	Bradford	006		21	21	O'Neill	James Francis	Jude	1486
+9/10/2002	DEM	Democrat	USR	United States Representative	CLA	Clay	006		50	50	O'Neill	James Francis	Jude	2411
+9/10/2002	DEM	Democrat	USR	United States Representative	DUV	Duval	006		38	38	O'Neill	James Francis	Jude	2376
+9/10/2002	DEM	Democrat	USR	United States Representative	GIL	Gilchrist	006		10	10	O'Neill	James Francis	Jude	847
+9/10/2002	DEM	Democrat	USR	United States Representative	LAK	Lake	006		20	20	O'Neill	James Francis	Jude	1204
+9/10/2002	DEM	Democrat	USR	United States Representative	LEV	Levy	006		4	4	O'Neill	James Francis	Jude	348
+9/10/2002	DEM	Democrat	USR	United States Representative	MRN	Marion	006		85	85	O'Neill	James Francis	Jude	7257
+9/10/2002	DEM	Democrat	USR	United States Representative	CHA	Charlotte	013		9	9	Brown-McElyea	Candice		189
+9/10/2002	DEM	Democrat	USR	United States Representative	DES	Desoto	013		16	16	Brown-McElyea	Candice		547
+9/10/2002	DEM	Democrat	USR	United States Representative	HAR	Hardee	013		12	12	Brown-McElyea	Candice		322
+9/10/2002	DEM	Democrat	USR	United States Representative	MAN	Manatee	013		132	132	Brown-McElyea	Candice		4063
+9/10/2002	DEM	Democrat	USR	United States Representative	SAR	Sarasota	013		156	156	Brown-McElyea	Candice		4633
+9/10/2002	DEM	Democrat	USR	United States Representative	CHA	Charlotte	013		9	9	Feheley	Patrick	J.	136
+9/10/2002	DEM	Democrat	USR	United States Representative	DES	Desoto	013		16	16	Feheley	Patrick	J.	291
+9/10/2002	DEM	Democrat	USR	United States Representative	HAR	Hardee	013		12	12	Feheley	Patrick	J.	331
+9/10/2002	DEM	Democrat	USR	United States Representative	MAN	Manatee	013		132	132	Feheley	Patrick	J.	1698
+9/10/2002	DEM	Democrat	USR	United States Representative	SAR	Sarasota	013		156	156	Feheley	Patrick	J.	2315
+9/10/2002	DEM	Democrat	USR	United States Representative	CHA	Charlotte	013		9	9	McKenzie Jr.	Charles	S.	321
+9/10/2002	DEM	Democrat	USR	United States Representative	DES	Desoto	013		16	16	McKenzie Jr.	Charles	S.	1182
+9/10/2002	DEM	Democrat	USR	United States Representative	HAR	Hardee	013		12	12	McKenzie Jr.	Charles	S.	1092
+9/10/2002	DEM	Democrat	USR	United States Representative	MAN	Manatee	013		132	132	McKenzie Jr.	Charles	S.	3593
+9/10/2002	DEM	Democrat	USR	United States Representative	SAR	Sarasota	013		156	156	McKenzie Jr.	Charles	S.	4540
+9/10/2002	DEM	Democrat	USR	United States Representative	CHA	Charlotte	013		9	9	Schneider	Jan		616
+9/10/2002	DEM	Democrat	USR	United States Representative	DES	Desoto	013		16	16	Schneider	Jan		703
+9/10/2002	DEM	Democrat	USR	United States Representative	HAR	Hardee	013		12	12	Schneider	Jan		719
+9/10/2002	DEM	Democrat	USR	United States Representative	MAN	Manatee	013		132	132	Schneider	Jan		7077
+9/10/2002	DEM	Democrat	USR	United States Representative	SAR	Sarasota	013		156	156	Schneider	Jan		11090
+9/10/2002	DEM	Democrat	USR	United States Representative	CLL	Collier	025		21	21	Betancourt	Annie		1240
+9/10/2002	DEM	Democrat	USR	United States Representative	DAD	Miami-Dade	025		177	177	Betancourt	Annie		17183
+9/10/2002	DEM	Democrat	USR	United States Representative	MON	Monroe	025		1	1	Betancourt	Annie		4
+9/10/2002	DEM	Democrat	USR	United States Representative	CLL	Collier	025		21	21	Virgili	Lorna		416
+9/10/2002	DEM	Democrat	USR	United States Representative	DAD	Miami-Dade	025		177	177	Virgili	Lorna		7292
+9/10/2002	DEM	Democrat	USR	United States Representative	MON	Monroe	025		1	1	Virgili	Lorna		1
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	ALA	Alachua			71	71	Not Yet Designated	Daryl L. Jones	/	2119
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	BAK	Baker			9	9	Not Yet Designated	Daryl L. Jones	/	591
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	BAY	Bay			54	54	Not Yet Designated	Daryl L. Jones	/	2509
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRA	Bradford			21	21	Not Yet Designated	Daryl L. Jones	/	608
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRE	Brevard			216	216	Not Yet Designated	Daryl L. Jones	/	4420
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRO	Broward			774	774	Not Yet Designated	Daryl L. Jones	/	11598
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	CAL	Calhoun			13	13	Not Yet Designated	Daryl L. Jones	/	577
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	CHA	Charlotte			81	81	Not Yet Designated	Daryl L. Jones	/	688
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	CIT	Citrus			41	41	Not Yet Designated	Daryl L. Jones	/	978
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLA	Clay			58	58	Not Yet Designated	Daryl L. Jones	/	871
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLL	Collier			96	96	Not Yet Designated	Daryl L. Jones	/	1040
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLM	Columbia			30	30	Not Yet Designated	Daryl L. Jones	/	1274
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	DES	Desoto			15	15	Not Yet Designated	Daryl L. Jones	/	409
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	DIX	Dixie			11	11	Not Yet Designated	Daryl L. Jones	/	271
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	DUV	Duval			285	285	Not Yet Designated	Daryl L. Jones	/	16945
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	ESC	Escambia			91	91	Not Yet Designated	Daryl L. Jones	/	3611
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	FLA	Flagler			30	30	Not Yet Designated	Daryl L. Jones	/	856
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	FRA	Franklin			8	8	Not Yet Designated	Daryl L. Jones	/	221
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	GAD	Gadsden			17	17	Not Yet Designated	Daryl L. Jones	/	1617
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	GIL	Gilchrist			10	10	Not Yet Designated	Daryl L. Jones	/	329
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	GLA	Glades			13	13	Not Yet Designated	Daryl L. Jones	/	225
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	GUL	Gulf			16	16	Not Yet Designated	Daryl L. Jones	/	584
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	HAM	Hamilton			9	9	Not Yet Designated	Daryl L. Jones	/	319
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	HAR	Hardee			12	12	Not Yet Designated	Daryl L. Jones	/	564
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	HEN	Hendry			24	24	Not Yet Designated	Daryl L. Jones	/	357
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	HER	Hernando			53	53	Not Yet Designated	Daryl L. Jones	/	1132
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	HIG	Highlands			26	26	Not Yet Designated	Daryl L. Jones	/	1067
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	HIL	Hillsborough			353	353	Not Yet Designated	Daryl L. Jones	/	11839
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	HOL	Holmes			17	17	Not Yet Designated	Daryl L. Jones	/	505
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	IND	Indian River			55	55	Not Yet Designated	Daryl L. Jones	/	995
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	JAC	Jackson			28	28	Not Yet Designated	Daryl L. Jones	/	1786
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	JEF	Jefferson			15	15	Not Yet Designated	Daryl L. Jones	/	573
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	LAF	Lafayette			6	6	Not Yet Designated	Daryl L. Jones	/	211
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	LAK	Lake			97	97	Not Yet Designated	Daryl L. Jones	/	1314
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEE	Lee			175	175	Not Yet Designated	Daryl L. Jones	/	2055
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEO	Leon			123	123	Not Yet Designated	Daryl L. Jones	/	4662
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEV	Levy			21	21	Not Yet Designated	Daryl L. Jones	/	550
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	LIB	Liberty			9	9	Not Yet Designated	Daryl L. Jones	/	266
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	MAD	Madison			11	11	Not Yet Designated	Daryl L. Jones	/	558
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	MAN	Manatee			134	134	Not Yet Designated	Daryl L. Jones	/	1925
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	MRN	Marion			136	136	Not Yet Designated	Daryl L. Jones	/	2839
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	MRT	Martin			48	48	Not Yet Designated	Daryl L. Jones	/	723
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	DAD	Miami-Dade			851	851	Not Yet Designated	Daryl L. Jones	/	14293
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	MON	Monroe			33	33	Not Yet Designated	Daryl L. Jones	/	672
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	NAS	Nassau			23	23	Not Yet Designated	Daryl L. Jones	/	866
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	OKA	Okaloosa			52	52	Not Yet Designated	Daryl L. Jones	/	1062
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	OKE	Okeechobee			18	18	Not Yet Designated	Daryl L. Jones	/	617
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	ORA	Orange			251	251	Not Yet Designated	Daryl L. Jones	/	8399
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	OSC	Osceola			94	94	Not Yet Designated	Daryl L. Jones	/	1165
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	PAL	Palm Beach			645	645	Not Yet Designated	Daryl L. Jones	/	7931
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	PAS	Pasco			156	156	Not Yet Designated	Daryl L. Jones	/	2788
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	PIN	Pinellas			383	383	Not Yet Designated	Daryl L. Jones	/	6743
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	POL	Polk			169	169	Not Yet Designated	Daryl L. Jones	/	7497
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	PUT	Putnam			57	57	Not Yet Designated	Daryl L. Jones	/	1489
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	SAN	Santa Rosa			38	38	Not Yet Designated	Daryl L. Jones	/	799
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	SAR	Sarasota			157	157	Not Yet Designated	Daryl L. Jones	/	1937
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	SEM	Seminole			126	126	Not Yet Designated	Daryl L. Jones	/	2123
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	STJ	St. Johns			64	64	Not Yet Designated	Daryl L. Jones	/	1355
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	STL	St. Lucie			75	75	Not Yet Designated	Daryl L. Jones	/	2350
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	SUM	Sumter			38	38	Not Yet Designated	Daryl L. Jones	/	661
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	SUW	Suwannee			16	16	Not Yet Designated	Daryl L. Jones	/	698
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	TAY	Taylor			14	14	Not Yet Designated	Daryl L. Jones	/	464
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	UNI	Union			22	22	Not Yet Designated	Daryl L. Jones	/	215
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	VOL	Volusia			180	180	Not Yet Designated	Daryl L. Jones	/	4532
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAK	Wakulla			12	12	Not Yet Designated	Daryl L. Jones	/	468
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAL	Walton			32	32	Not Yet Designated	Daryl L. Jones	/	717
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAS	Washington			20	20	Not Yet Designated	Daryl L. Jones	/	685
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	ALA	Alachua			71	71	Not Yet Designated	Bill McBride	/	16453
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	BAK	Baker			9	9	Not Yet Designated	Bill McBride	/	2195
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	BAY	Bay			54	54	Not Yet Designated	Bill McBride	/	8725
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRA	Bradford			21	21	Not Yet Designated	Bill McBride	/	2191
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRE	Brevard			216	216	Not Yet Designated	Bill McBride	/	17290
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRO	Broward			774	774	Not Yet Designated	Bill McBride	/	42901
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	CAL	Calhoun			13	13	Not Yet Designated	Bill McBride	/	2032
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	CHA	Charlotte			81	81	Not Yet Designated	Bill McBride	/	5352
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	CIT	Citrus			41	41	Not Yet Designated	Bill McBride	/	6619
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLA	Clay			58	58	Not Yet Designated	Bill McBride	/	3072
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLL	Collier			96	96	Not Yet Designated	Bill McBride	/	4577
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLM	Columbia			30	30	Not Yet Designated	Bill McBride	/	5009
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	DES	Desoto			15	15	Not Yet Designated	Bill McBride	/	1714
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	DIX	Dixie			11	11	Not Yet Designated	Bill McBride	/	1869
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	DUV	Duval			285	285	Not Yet Designated	Bill McBride	/	28111
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	ESC	Escambia			91	91	Not Yet Designated	Bill McBride	/	13089
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	FLA	Flagler			30	30	Not Yet Designated	Bill McBride	/	3317
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	FRA	Franklin			8	8	Not Yet Designated	Bill McBride	/	1633
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	GAD	Gadsden			17	17	Not Yet Designated	Bill McBride	/	4852
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	GIL	Gilchrist			10	10	Not Yet Designated	Bill McBride	/	1742
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	GLA	Glades			13	13	Not Yet Designated	Bill McBride	/	794
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	GUL	Gulf			16	16	Not Yet Designated	Bill McBride	/	2236
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	HAM	Hamilton			9	9	Not Yet Designated	Bill McBride	/	1424
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	HAR	Hardee			12	12	Not Yet Designated	Bill McBride	/	1798
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	HEN	Hendry			24	24	Not Yet Designated	Bill McBride	/	1235
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	HER	Hernando			53	53	Not Yet Designated	Bill McBride	/	6340
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	HIG	Highlands			26	26	Not Yet Designated	Bill McBride	/	2786
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	HIL	Hillsborough			353	353	Not Yet Designated	Bill McBride	/	45971
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	HOL	Holmes			17	17	Not Yet Designated	Bill McBride	/	2729
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	IND	Indian River			55	55	Not Yet Designated	Bill McBride	/	2790
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	JAC	Jackson			28	28	Not Yet Designated	Bill McBride	/	4975
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	JEF	Jefferson			15	15	Not Yet Designated	Bill McBride	/	2400
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	LAF	Lafayette			6	6	Not Yet Designated	Bill McBride	/	1286
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	LAK	Lake			97	97	Not Yet Designated	Bill McBride	/	9023
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEE	Lee			175	175	Not Yet Designated	Bill McBride	/	11538
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEO	Leon			123	123	Not Yet Designated	Bill McBride	/	24729
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEV	Levy			21	21	Not Yet Designated	Bill McBride	/	3708
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	LIB	Liberty			9	9	Not Yet Designated	Bill McBride	/	1460
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	MAD	Madison			11	11	Not Yet Designated	Bill McBride	/	2038
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	MAN	Manatee			134	134	Not Yet Designated	Bill McBride	/	10281
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	MRN	Marion			136	136	Not Yet Designated	Bill McBride	/	10817
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	MRT	Martin			48	48	Not Yet Designated	Bill McBride	/	3045
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	DAD	Miami-Dade			851	851	Not Yet Designated	Bill McBride	/	32093
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	MON	Monroe			33	33	Not Yet Designated	Bill McBride	/	1989
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	NAS	Nassau			23	23	Not Yet Designated	Bill McBride	/	2686
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	OKA	Okaloosa			52	52	Not Yet Designated	Bill McBride	/	4910
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	OKE	Okeechobee			18	18	Not Yet Designated	Bill McBride	/	2399
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	ORA	Orange			251	251	Not Yet Designated	Bill McBride	/	33896
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	OSC	Osceola			94	94	Not Yet Designated	Bill McBride	/	4969
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	PAL	Palm Beach			645	645	Not Yet Designated	Bill McBride	/	35624
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	PAS	Pasco			156	156	Not Yet Designated	Bill McBride	/	15615
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	PIN	Pinellas			383	383	Not Yet Designated	Bill McBride	/	40214
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	POL	Polk			169	169	Not Yet Designated	Bill McBride	/	20615
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	PUT	Putnam			57	57	Not Yet Designated	Bill McBride	/	5198
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	SAN	Santa Rosa			38	38	Not Yet Designated	Bill McBride	/	4945
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	SAR	Sarasota			157	157	Not Yet Designated	Bill McBride	/	11269
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	SEM	Seminole			126	126	Not Yet Designated	Bill McBride	/	10537
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	STJ	St. Johns			64	64	Not Yet Designated	Bill McBride	/	5039
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	STL	St. Lucie			75	75	Not Yet Designated	Bill McBride	/	6575
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	SUM	Sumter			38	38	Not Yet Designated	Bill McBride	/	3123
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	SUW	Suwannee			16	16	Not Yet Designated	Bill McBride	/	2931
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	TAY	Taylor			14	14	Not Yet Designated	Bill McBride	/	2085
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	UNI	Union			22	22	Not Yet Designated	Bill McBride	/	1486
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	VOL	Volusia			180	180	Not Yet Designated	Bill McBride	/	19352
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAK	Wakulla			12	12	Not Yet Designated	Bill McBride	/	3121
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAL	Walton			32	32	Not Yet Designated	Bill McBride	/	3167
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAS	Washington			20	20	Not Yet Designated	Bill McBride	/	2368
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	ALA	Alachua			71	71	Not Yet Designated	Janet Reno	/	7789
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	BAK	Baker			9	9	Not Yet Designated	Janet Reno	/	776
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	BAY	Bay			54	54	Not Yet Designated	Janet Reno	/	3510
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRA	Bradford			21	21	Not Yet Designated	Janet Reno	/	1040
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRE	Brevard			216	216	Not Yet Designated	Janet Reno	/	14546
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRO	Broward			774	774	Not Yet Designated	Janet Reno	/	97017
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	CAL	Calhoun			13	13	Not Yet Designated	Janet Reno	/	488
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	CHA	Charlotte			81	81	Not Yet Designated	Janet Reno	/	3709
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	CIT	Citrus			41	41	Not Yet Designated	Janet Reno	/	4361
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLA	Clay			58	58	Not Yet Designated	Janet Reno	/	2319
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLL	Collier			96	96	Not Yet Designated	Janet Reno	/	3315
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLM	Columbia			30	30	Not Yet Designated	Janet Reno	/	1990
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	DES	Desoto			15	15	Not Yet Designated	Janet Reno	/	948
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	DIX	Dixie			11	11	Not Yet Designated	Janet Reno	/	486
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	DUV	Duval			285	285	Not Yet Designated	Janet Reno	/	29182
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	ESC	Escambia			91	91	Not Yet Designated	Janet Reno	/	6541
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	FLA	Flagler			30	30	Not Yet Designated	Janet Reno	/	3033
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	FRA	Franklin			8	8	Not Yet Designated	Janet Reno	/	567
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	GAD	Gadsden			17	17	Not Yet Designated	Janet Reno	/	3425
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	GIL	Gilchrist			10	10	Not Yet Designated	Janet Reno	/	517
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	GLA	Glades			13	13	Not Yet Designated	Janet Reno	/	555
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	GUL	Gulf			16	16	Not Yet Designated	Janet Reno	/	670
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	HAM	Hamilton			9	9	Not Yet Designated	Janet Reno	/	592
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	HAR	Hardee			12	12	Not Yet Designated	Janet Reno	/	576
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	HEN	Hendry			24	24	Not Yet Designated	Janet Reno	/	869
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	HER	Hernando			53	53	Not Yet Designated	Janet Reno	/	5077
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	HIG	Highlands			26	26	Not Yet Designated	Janet Reno	/	1941
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	HIL	Hillsborough			353	353	Not Yet Designated	Janet Reno	/	24799
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	HOL	Holmes			17	17	Not Yet Designated	Janet Reno	/	555
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	IND	Indian River			55	55	Not Yet Designated	Janet Reno	/	3415
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	JAC	Jackson			28	28	Not Yet Designated	Janet Reno	/	1471
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	JEF	Jefferson			15	15	Not Yet Designated	Janet Reno	/	871
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	LAF	Lafayette			6	6	Not Yet Designated	Janet Reno	/	317
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	LAK	Lake			97	97	Not Yet Designated	Janet Reno	/	4333
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEE	Lee			175	175	Not Yet Designated	Janet Reno	/	9507
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEO	Leon			123	123	Not Yet Designated	Janet Reno	/	10986
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEV	Levy			21	21	Not Yet Designated	Janet Reno	/	1173
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	LIB	Liberty			9	9	Not Yet Designated	Janet Reno	/	374
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	MAD	Madison			11	11	Not Yet Designated	Janet Reno	/	916
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	MAN	Manatee			134	134	Not Yet Designated	Janet Reno	/	7490
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	MRN	Marion			136	136	Not Yet Designated	Janet Reno	/	11067
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	MRT	Martin			48	48	Not Yet Designated	Janet Reno	/	4537
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	DAD	Miami-Dade			851	851	Not Yet Designated	Janet Reno	/	112649
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	MON	Monroe			33	33	Not Yet Designated	Janet Reno	/	4004
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	NAS	Nassau			23	23	Not Yet Designated	Janet Reno	/	1771
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	OKA	Okaloosa			52	52	Not Yet Designated	Janet Reno	/	2047
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	OKE	Okeechobee			18	18	Not Yet Designated	Janet Reno	/	1448
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	ORA	Orange			251	251	Not Yet Designated	Janet Reno	/	23018
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	OSC	Osceola			94	94	Not Yet Designated	Janet Reno	/	3385
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	PAL	Palm Beach			645	645	Not Yet Designated	Janet Reno	/	64445
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	PAS	Pasco			156	156	Not Yet Designated	Janet Reno	/	11069
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	PIN	Pinellas			383	383	Not Yet Designated	Janet Reno	/	30349
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	POL	Polk			169	169	Not Yet Designated	Janet Reno	/	11891
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	PUT	Putnam			57	57	Not Yet Designated	Janet Reno	/	3436
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	SAN	Santa Rosa			38	38	Not Yet Designated	Janet Reno	/	1510
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	SAR	Sarasota			157	157	Not Yet Designated	Janet Reno	/	9760
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	SEM	Seminole			126	126	Not Yet Designated	Janet Reno	/	5277
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	STJ	St. Johns			64	64	Not Yet Designated	Janet Reno	/	3703
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	STL	St. Lucie			75	75	Not Yet Designated	Janet Reno	/	8409
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	SUM	Sumter			38	38	Not Yet Designated	Janet Reno	/	1403
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	SUW	Suwannee			16	16	Not Yet Designated	Janet Reno	/	1336
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	TAY	Taylor			14	14	Not Yet Designated	Janet Reno	/	757
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	UNI	Union			22	22	Not Yet Designated	Janet Reno	/	453
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	VOL	Volusia			180	180	Not Yet Designated	Janet Reno	/	14858
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAK	Wakulla			12	12	Not Yet Designated	Janet Reno	/	1152
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAL	Walton			32	32	Not Yet Designated	Janet Reno	/	1197
+9/10/2002	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAS	Washington			20	20	Not Yet Designated	Janet Reno	/	581
+9/10/2002	DEM	Democrat	ATG	Attorney General	ALA	Alachua			71	71	Dartland	Walt		1299
+9/10/2002	DEM	Democrat	ATG	Attorney General	BAK	Baker			9	9	Dartland	Walt		120
+9/10/2002	DEM	Democrat	ATG	Attorney General	BAY	Bay			54	54	Dartland	Walt		413
+9/10/2002	DEM	Democrat	ATG	Attorney General	BRA	Bradford			21	21	Dartland	Walt		143
+9/10/2002	DEM	Democrat	ATG	Attorney General	BRE	Brevard			216	216	Dartland	Walt		1619
+9/10/2002	DEM	Democrat	ATG	Attorney General	BRO	Broward			774	774	Dartland	Walt		11548
+9/10/2002	DEM	Democrat	ATG	Attorney General	CAL	Calhoun			13	13	Dartland	Walt		61
+9/10/2002	DEM	Democrat	ATG	Attorney General	CHA	Charlotte			81	81	Dartland	Walt		507
+9/10/2002	DEM	Democrat	ATG	Attorney General	CIT	Citrus			41	41	Dartland	Walt		446
+9/10/2002	DEM	Democrat	ATG	Attorney General	CLA	Clay			58	58	Dartland	Walt		248
+9/10/2002	DEM	Democrat	ATG	Attorney General	CLL	Collier			96	96	Dartland	Walt		520
+9/10/2002	DEM	Democrat	ATG	Attorney General	CLM	Columbia			30	30	Dartland	Walt		299
+9/10/2002	DEM	Democrat	ATG	Attorney General	DES	Desoto			15	15	Dartland	Walt		110
+9/10/2002	DEM	Democrat	ATG	Attorney General	DIX	Dixie			11	11	Dartland	Walt		98
+9/10/2002	DEM	Democrat	ATG	Attorney General	DUV	Duval			285	285	Dartland	Walt		2906
+9/10/2002	DEM	Democrat	ATG	Attorney General	ESC	Escambia			91	91	Dartland	Walt		1336
+9/10/2002	DEM	Democrat	ATG	Attorney General	FLA	Flagler			30	30	Dartland	Walt		310
+9/10/2002	DEM	Democrat	ATG	Attorney General	FRA	Franklin			8	8	Dartland	Walt		65
+9/10/2002	DEM	Democrat	ATG	Attorney General	GAD	Gadsden			17	17	Dartland	Walt		310
+9/10/2002	DEM	Democrat	ATG	Attorney General	GIL	Gilchrist			10	10	Dartland	Walt		86
+9/10/2002	DEM	Democrat	ATG	Attorney General	GLA	Glades			13	13	Dartland	Walt		66
+9/10/2002	DEM	Democrat	ATG	Attorney General	GUL	Gulf			16	16	Dartland	Walt		148
+9/10/2002	DEM	Democrat	ATG	Attorney General	HAM	Hamilton			9	9	Dartland	Walt		99
+9/10/2002	DEM	Democrat	ATG	Attorney General	HAR	Hardee			12	12	Dartland	Walt		79
+9/10/2002	DEM	Democrat	ATG	Attorney General	HEN	Hendry			24	24	Dartland	Walt		101
+9/10/2002	DEM	Democrat	ATG	Attorney General	HER	Hernando			53	53	Dartland	Walt		416
+9/10/2002	DEM	Democrat	ATG	Attorney General	HIG	Highlands			26	26	Dartland	Walt		226
+9/10/2002	DEM	Democrat	ATG	Attorney General	HIL	Hillsborough			353	353	Dartland	Walt		3241
+9/10/2002	DEM	Democrat	ATG	Attorney General	HOL	Holmes			17	17	Dartland	Walt		96
+9/10/2002	DEM	Democrat	ATG	Attorney General	IND	Indian River			55	55	Dartland	Walt		381
+9/10/2002	DEM	Democrat	ATG	Attorney General	JAC	Jackson			28	28	Dartland	Walt		246
+9/10/2002	DEM	Democrat	ATG	Attorney General	JEF	Jefferson			15	15	Dartland	Walt		118
+9/10/2002	DEM	Democrat	ATG	Attorney General	LAF	Lafayette			6	6	Dartland	Walt		55
+9/10/2002	DEM	Democrat	ATG	Attorney General	LAK	Lake			97	97	Dartland	Walt		673
+9/10/2002	DEM	Democrat	ATG	Attorney General	LEE	Lee			175	175	Dartland	Walt		1336
+9/10/2002	DEM	Democrat	ATG	Attorney General	LEO	Leon			123	123	Dartland	Walt		1676
+9/10/2002	DEM	Democrat	ATG	Attorney General	LEV	Levy			21	21	Dartland	Walt		169
+9/10/2002	DEM	Democrat	ATG	Attorney General	LIB	Liberty			9	9	Dartland	Walt		59
+9/10/2002	DEM	Democrat	ATG	Attorney General	MAD	Madison			11	11	Dartland	Walt		122
+9/10/2002	DEM	Democrat	ATG	Attorney General	MAN	Manatee			134	134	Dartland	Walt		784
+9/10/2002	DEM	Democrat	ATG	Attorney General	MRN	Marion			136	136	Dartland	Walt		880
+9/10/2002	DEM	Democrat	ATG	Attorney General	MRT	Martin			48	48	Dartland	Walt		708
+9/10/2002	DEM	Democrat	ATG	Attorney General	DAD	Miami-Dade			851	851	Dartland	Walt		14297
+9/10/2002	DEM	Democrat	ATG	Attorney General	MON	Monroe			33	33	Dartland	Walt		319
+9/10/2002	DEM	Democrat	ATG	Attorney General	NAS	Nassau			23	23	Dartland	Walt		244
+9/10/2002	DEM	Democrat	ATG	Attorney General	OKA	Okaloosa			52	52	Dartland	Walt		441
+9/10/2002	DEM	Democrat	ATG	Attorney General	OKE	Okeechobee			18	18	Dartland	Walt		143
+9/10/2002	DEM	Democrat	ATG	Attorney General	ORA	Orange			251	251	Dartland	Walt		2172
+9/10/2002	DEM	Democrat	ATG	Attorney General	OSC	Osceola			94	94	Dartland	Walt		425
+9/10/2002	DEM	Democrat	ATG	Attorney General	PAL	Palm Beach			645	645	Dartland	Walt		6660
+9/10/2002	DEM	Democrat	ATG	Attorney General	PAS	Pasco			156	156	Dartland	Walt		1472
+9/10/2002	DEM	Democrat	ATG	Attorney General	PIN	Pinellas			383	383	Dartland	Walt		2997
+9/10/2002	DEM	Democrat	ATG	Attorney General	POL	Polk			169	169	Dartland	Walt		1263
+9/10/2002	DEM	Democrat	ATG	Attorney General	PUT	Putnam			57	57	Dartland	Walt		390
+9/10/2002	DEM	Democrat	ATG	Attorney General	SAN	Santa Rosa			38	38	Dartland	Walt		406
+9/10/2002	DEM	Democrat	ATG	Attorney General	SAR	Sarasota			157	157	Dartland	Walt		1617
+9/10/2002	DEM	Democrat	ATG	Attorney General	SEM	Seminole			126	126	Dartland	Walt		668
+9/10/2002	DEM	Democrat	ATG	Attorney General	STJ	St. Johns			64	64	Dartland	Walt		449
+9/10/2002	DEM	Democrat	ATG	Attorney General	STL	St. Lucie			75	75	Dartland	Walt		1188
+9/10/2002	DEM	Democrat	ATG	Attorney General	SUM	Sumter			38	38	Dartland	Walt		263
+9/10/2002	DEM	Democrat	ATG	Attorney General	SUW	Suwannee			16	16	Dartland	Walt		179
+9/10/2002	DEM	Democrat	ATG	Attorney General	TAY	Taylor			14	14	Dartland	Walt		60
+9/10/2002	DEM	Democrat	ATG	Attorney General	UNI	Union			22	22	Dartland	Walt		91
+9/10/2002	DEM	Democrat	ATG	Attorney General	VOL	Volusia			180	180	Dartland	Walt		1600
+9/10/2002	DEM	Democrat	ATG	Attorney General	WAK	Wakulla			12	12	Dartland	Walt		134
+9/10/2002	DEM	Democrat	ATG	Attorney General	WAL	Walton			32	32	Dartland	Walt		229
+9/10/2002	DEM	Democrat	ATG	Attorney General	WAS	Washington			20	20	Dartland	Walt		122
+9/10/2002	DEM	Democrat	ATG	Attorney General	ALA	Alachua			71	71	Dyer	Buddy		9157
+9/10/2002	DEM	Democrat	ATG	Attorney General	BAK	Baker			9	9	Dyer	Buddy		1183
+9/10/2002	DEM	Democrat	ATG	Attorney General	BAY	Bay			54	54	Dyer	Buddy		4677
+9/10/2002	DEM	Democrat	ATG	Attorney General	BRA	Bradford			21	21	Dyer	Buddy		1133
+9/10/2002	DEM	Democrat	ATG	Attorney General	BRE	Brevard			216	216	Dyer	Buddy		8923
+9/10/2002	DEM	Democrat	ATG	Attorney General	BRO	Broward			774	774	Dyer	Buddy		41977
+9/10/2002	DEM	Democrat	ATG	Attorney General	CAL	Calhoun			13	13	Dyer	Buddy		796
+9/10/2002	DEM	Democrat	ATG	Attorney General	CHA	Charlotte			81	81	Dyer	Buddy		2042
+9/10/2002	DEM	Democrat	ATG	Attorney General	CIT	Citrus			41	41	Dyer	Buddy		4401
+9/10/2002	DEM	Democrat	ATG	Attorney General	CLA	Clay			58	58	Dyer	Buddy		2128
+9/10/2002	DEM	Democrat	ATG	Attorney General	CLL	Collier			96	96	Dyer	Buddy		1843
+9/10/2002	DEM	Democrat	ATG	Attorney General	CLM	Columbia			30	30	Dyer	Buddy		2266
+9/10/2002	DEM	Democrat	ATG	Attorney General	DES	Desoto			15	15	Dyer	Buddy		790
+9/10/2002	DEM	Democrat	ATG	Attorney General	DIX	Dixie			11	11	Dyer	Buddy		812
+9/10/2002	DEM	Democrat	ATG	Attorney General	DUV	Duval			285	285	Dyer	Buddy		22310
+9/10/2002	DEM	Democrat	ATG	Attorney General	ESC	Escambia			91	91	Dyer	Buddy		5760
+9/10/2002	DEM	Democrat	ATG	Attorney General	FLA	Flagler			30	30	Dyer	Buddy		2841
+9/10/2002	DEM	Democrat	ATG	Attorney General	FRA	Franklin			8	8	Dyer	Buddy		563
+9/10/2002	DEM	Democrat	ATG	Attorney General	GAD	Gadsden			17	17	Dyer	Buddy		1980
+9/10/2002	DEM	Democrat	ATG	Attorney General	GIL	Gilchrist			10	10	Dyer	Buddy		840
+9/10/2002	DEM	Democrat	ATG	Attorney General	GLA	Glades			13	13	Dyer	Buddy		376
+9/10/2002	DEM	Democrat	ATG	Attorney General	GUL	Gulf			16	16	Dyer	Buddy		916
+9/10/2002	DEM	Democrat	ATG	Attorney General	HAM	Hamilton			9	9	Dyer	Buddy		740
+9/10/2002	DEM	Democrat	ATG	Attorney General	HAR	Hardee			12	12	Dyer	Buddy		1143
+9/10/2002	DEM	Democrat	ATG	Attorney General	HEN	Hendry			24	24	Dyer	Buddy		518
+9/10/2002	DEM	Democrat	ATG	Attorney General	HER	Hernando			53	53	Dyer	Buddy		5382
+9/10/2002	DEM	Democrat	ATG	Attorney General	HIG	Highlands			26	26	Dyer	Buddy		2272
+9/10/2002	DEM	Democrat	ATG	Attorney General	HIL	Hillsborough			353	353	Dyer	Buddy		33330
+9/10/2002	DEM	Democrat	ATG	Attorney General	HOL	Holmes			17	17	Dyer	Buddy		727
+9/10/2002	DEM	Democrat	ATG	Attorney General	IND	Indian River			55	55	Dyer	Buddy		2400
+9/10/2002	DEM	Democrat	ATG	Attorney General	JAC	Jackson			28	28	Dyer	Buddy		1801
+9/10/2002	DEM	Democrat	ATG	Attorney General	JEF	Jefferson			15	15	Dyer	Buddy		892
+9/10/2002	DEM	Democrat	ATG	Attorney General	LAF	Lafayette			6	6	Dyer	Buddy		469
+9/10/2002	DEM	Democrat	ATG	Attorney General	LAK	Lake			97	97	Dyer	Buddy		5205
+9/10/2002	DEM	Democrat	ATG	Attorney General	LEE	Lee			175	175	Dyer	Buddy		4074
+9/10/2002	DEM	Democrat	ATG	Attorney General	LEO	Leon			123	123	Dyer	Buddy		9136
+9/10/2002	DEM	Democrat	ATG	Attorney General	LEV	Levy			21	21	Dyer	Buddy		1986
+9/10/2002	DEM	Democrat	ATG	Attorney General	LIB	Liberty			9	9	Dyer	Buddy		375
+9/10/2002	DEM	Democrat	ATG	Attorney General	MAD	Madison			11	11	Dyer	Buddy		819
+9/10/2002	DEM	Democrat	ATG	Attorney General	MAN	Manatee			134	134	Dyer	Buddy		8531
+9/10/2002	DEM	Democrat	ATG	Attorney General	MRN	Marion			136	136	Dyer	Buddy		5220
+9/10/2002	DEM	Democrat	ATG	Attorney General	MRT	Martin			48	48	Dyer	Buddy		3331
+9/10/2002	DEM	Democrat	ATG	Attorney General	DAD	Miami-Dade			851	851	Dyer	Buddy		41041
+9/10/2002	DEM	Democrat	ATG	Attorney General	MON	Monroe			33	33	Dyer	Buddy		1350
+9/10/2002	DEM	Democrat	ATG	Attorney General	NAS	Nassau			23	23	Dyer	Buddy		1915
+9/10/2002	DEM	Democrat	ATG	Attorney General	OKA	Okaloosa			52	52	Dyer	Buddy		1742
+9/10/2002	DEM	Democrat	ATG	Attorney General	OKE	Okeechobee			18	18	Dyer	Buddy		1765
+9/10/2002	DEM	Democrat	ATG	Attorney General	ORA	Orange			251	251	Dyer	Buddy		36278
+9/10/2002	DEM	Democrat	ATG	Attorney General	OSC	Osceola			94	94	Dyer	Buddy		4734
+9/10/2002	DEM	Democrat	ATG	Attorney General	PAL	Palm Beach			645	645	Dyer	Buddy		43180
+9/10/2002	DEM	Democrat	ATG	Attorney General	PAS	Pasco			156	156	Dyer	Buddy		12807
+9/10/2002	DEM	Democrat	ATG	Attorney General	PIN	Pinellas			383	383	Dyer	Buddy		35177
+9/10/2002	DEM	Democrat	ATG	Attorney General	POL	Polk			169	169	Dyer	Buddy		15305
+9/10/2002	DEM	Democrat	ATG	Attorney General	PUT	Putnam			57	57	Dyer	Buddy		3244
+9/10/2002	DEM	Democrat	ATG	Attorney General	SAN	Santa Rosa			38	38	Dyer	Buddy		1598
+9/10/2002	DEM	Democrat	ATG	Attorney General	SAR	Sarasota			157	157	Dyer	Buddy		9831
+9/10/2002	DEM	Democrat	ATG	Attorney General	SEM	Seminole			126	126	Dyer	Buddy		9335
+9/10/2002	DEM	Democrat	ATG	Attorney General	STJ	St. Johns			64	64	Dyer	Buddy		3032
+9/10/2002	DEM	Democrat	ATG	Attorney General	STL	St. Lucie			75	75	Dyer	Buddy		6360
+9/10/2002	DEM	Democrat	ATG	Attorney General	SUM	Sumter			38	38	Dyer	Buddy		1585
+9/10/2002	DEM	Democrat	ATG	Attorney General	SUW	Suwannee			16	16	Dyer	Buddy		1420
+9/10/2002	DEM	Democrat	ATG	Attorney General	TAY	Taylor			14	14	Dyer	Buddy		747
+9/10/2002	DEM	Democrat	ATG	Attorney General	UNI	Union			22	22	Dyer	Buddy		651
+9/10/2002	DEM	Democrat	ATG	Attorney General	VOL	Volusia			180	180	Dyer	Buddy		15271
+9/10/2002	DEM	Democrat	ATG	Attorney General	WAK	Wakulla			12	12	Dyer	Buddy		1199
+9/10/2002	DEM	Democrat	ATG	Attorney General	WAL	Walton			32	32	Dyer	Buddy		1142
+9/10/2002	DEM	Democrat	ATG	Attorney General	WAS	Washington			20	20	Dyer	Buddy		930
+9/10/2002	DEM	Democrat	ATG	Attorney General	ALA	Alachua			71	71	Maddox	Scott		6033
+9/10/2002	DEM	Democrat	ATG	Attorney General	BAK	Baker			9	9	Maddox	Scott		1268
+9/10/2002	DEM	Democrat	ATG	Attorney General	BAY	Bay			54	54	Maddox	Scott		6812
+9/10/2002	DEM	Democrat	ATG	Attorney General	BRA	Bradford			21	21	Maddox	Scott		1393
+9/10/2002	DEM	Democrat	ATG	Attorney General	BRE	Brevard			216	216	Maddox	Scott		14223
+9/10/2002	DEM	Democrat	ATG	Attorney General	BRO	Broward			774	774	Maddox	Scott		51482
+9/10/2002	DEM	Democrat	ATG	Attorney General	CAL	Calhoun			13	13	Maddox	Scott		1445
+9/10/2002	DEM	Democrat	ATG	Attorney General	CHA	Charlotte			81	81	Maddox	Scott		4396
+9/10/2002	DEM	Democrat	ATG	Attorney General	CIT	Citrus			41	41	Maddox	Scott		3852
+9/10/2002	DEM	Democrat	ATG	Attorney General	CLA	Clay			58	58	Maddox	Scott		2456
+9/10/2002	DEM	Democrat	ATG	Attorney General	CLL	Collier			96	96	Maddox	Scott		4267
+9/10/2002	DEM	Democrat	ATG	Attorney General	CLM	Columbia			30	30	Maddox	Scott		2973
+9/10/2002	DEM	Democrat	ATG	Attorney General	DES	Desoto			15	15	Maddox	Scott		1126
+9/10/2002	DEM	Democrat	ATG	Attorney General	DIX	Dixie			11	11	Maddox	Scott		773
+9/10/2002	DEM	Democrat	ATG	Attorney General	DUV	Duval			285	285	Maddox	Scott		28333
+9/10/2002	DEM	Democrat	ATG	Attorney General	ESC	Escambia			91	91	Maddox	Scott		5795
+9/10/2002	DEM	Democrat	ATG	Attorney General	FLA	Flagler			30	30	Maddox	Scott		2332
+9/10/2002	DEM	Democrat	ATG	Attorney General	FRA	Franklin			8	8	Maddox	Scott		1230
+9/10/2002	DEM	Democrat	ATG	Attorney General	GAD	Gadsden			17	17	Maddox	Scott		6003
+9/10/2002	DEM	Democrat	ATG	Attorney General	GIL	Gilchrist			10	10	Maddox	Scott		697
+9/10/2002	DEM	Democrat	ATG	Attorney General	GLA	Glades			13	13	Maddox	Scott		718
+9/10/2002	DEM	Democrat	ATG	Attorney General	GUL	Gulf			16	16	Maddox	Scott		1484
+9/10/2002	DEM	Democrat	ATG	Attorney General	HAM	Hamilton			9	9	Maddox	Scott		822
+9/10/2002	DEM	Democrat	ATG	Attorney General	HAR	Hardee			12	12	Maddox	Scott		1015
+9/10/2002	DEM	Democrat	ATG	Attorney General	HEN	Hendry			24	24	Maddox	Scott		1220
+9/10/2002	DEM	Democrat	ATG	Attorney General	HER	Hernando			53	53	Maddox	Scott		3810
+9/10/2002	DEM	Democrat	ATG	Attorney General	HIG	Highlands			26	26	Maddox	Scott		1988
+9/10/2002	DEM	Democrat	ATG	Attorney General	HIL	Hillsborough			353	353	Maddox	Scott		18576
+9/10/2002	DEM	Democrat	ATG	Attorney General	HOL	Holmes			17	17	Maddox	Scott		1456
+9/10/2002	DEM	Democrat	ATG	Attorney General	IND	Indian River			55	55	Maddox	Scott		2222
+9/10/2002	DEM	Democrat	ATG	Attorney General	JAC	Jackson			28	28	Maddox	Scott		3841
+9/10/2002	DEM	Democrat	ATG	Attorney General	JEF	Jefferson			15	15	Maddox	Scott		2235
+9/10/2002	DEM	Democrat	ATG	Attorney General	LAF	Lafayette			6	6	Maddox	Scott		754
+9/10/2002	DEM	Democrat	ATG	Attorney General	LAK	Lake			97	97	Maddox	Scott		5459
+9/10/2002	DEM	Democrat	ATG	Attorney General	LEE	Lee			175	175	Maddox	Scott		11916
+9/10/2002	DEM	Democrat	ATG	Attorney General	LEO	Leon			123	123	Maddox	Scott		20573
+9/10/2002	DEM	Democrat	ATG	Attorney General	LEV	Levy			21	21	Maddox	Scott		1578
+9/10/2002	DEM	Democrat	ATG	Attorney General	LIB	Liberty			9	9	Maddox	Scott		1124
+9/10/2002	DEM	Democrat	ATG	Attorney General	MAD	Madison			11	11	Maddox	Scott		2042
+9/10/2002	DEM	Democrat	ATG	Attorney General	MAN	Manatee			134	134	Maddox	Scott		5736
+9/10/2002	DEM	Democrat	ATG	Attorney General	MRN	Marion			136	136	Maddox	Scott		9235
+9/10/2002	DEM	Democrat	ATG	Attorney General	MRT	Martin			48	48	Maddox	Scott		2315
+9/10/2002	DEM	Democrat	ATG	Attorney General	DAD	Miami-Dade			851	851	Maddox	Scott		34638
+9/10/2002	DEM	Democrat	ATG	Attorney General	MON	Monroe			33	33	Maddox	Scott		1801
+9/10/2002	DEM	Democrat	ATG	Attorney General	NAS	Nassau			23	23	Maddox	Scott		2027
+9/10/2002	DEM	Democrat	ATG	Attorney General	OKA	Okaloosa			52	52	Maddox	Scott		2419
+9/10/2002	DEM	Democrat	ATG	Attorney General	OKE	Okeechobee			18	18	Maddox	Scott		1308
+9/10/2002	DEM	Democrat	ATG	Attorney General	ORA	Orange			251	251	Maddox	Scott		13721
+9/10/2002	DEM	Democrat	ATG	Attorney General	OSC	Osceola			94	94	Maddox	Scott		2472
+9/10/2002	DEM	Democrat	ATG	Attorney General	PAL	Palm Beach			645	645	Maddox	Scott		33582
+9/10/2002	DEM	Democrat	ATG	Attorney General	PAS	Pasco			156	156	Maddox	Scott		8823
+9/10/2002	DEM	Democrat	ATG	Attorney General	PIN	Pinellas			383	383	Maddox	Scott		20364
+9/10/2002	DEM	Democrat	ATG	Attorney General	POL	Polk			169	169	Maddox	Scott		11330
+9/10/2002	DEM	Democrat	ATG	Attorney General	PUT	Putnam			57	57	Maddox	Scott		3694
+9/10/2002	DEM	Democrat	ATG	Attorney General	SAN	Santa Rosa			38	38	Maddox	Scott		2286
+9/10/2002	DEM	Democrat	ATG	Attorney General	SAR	Sarasota			157	157	Maddox	Scott		5805
+9/10/2002	DEM	Democrat	ATG	Attorney General	SEM	Seminole			126	126	Maddox	Scott		4521
+9/10/2002	DEM	Democrat	ATG	Attorney General	STJ	St. Johns			64	64	Maddox	Scott		3769
+9/10/2002	DEM	Democrat	ATG	Attorney General	STL	St. Lucie			75	75	Maddox	Scott		5335
+9/10/2002	DEM	Democrat	ATG	Attorney General	SUM	Sumter			38	38	Maddox	Scott		2089
+9/10/2002	DEM	Democrat	ATG	Attorney General	SUW	Suwannee			16	16	Maddox	Scott		1985
+9/10/2002	DEM	Democrat	ATG	Attorney General	TAY	Taylor			14	14	Maddox	Scott		1994
+9/10/2002	DEM	Democrat	ATG	Attorney General	UNI	Union			22	22	Maddox	Scott		719
+9/10/2002	DEM	Democrat	ATG	Attorney General	VOL	Volusia			180	180	Maddox	Scott		11864
+9/10/2002	DEM	Democrat	ATG	Attorney General	WAK	Wakulla			12	12	Maddox	Scott		2588
+9/10/2002	DEM	Democrat	ATG	Attorney General	WAL	Walton			32	32	Maddox	Scott		1871
+9/10/2002	DEM	Democrat	ATG	Attorney General	WAS	Washington			20	20	Maddox	Scott		1638
+9/10/2002	DEM	Democrat	ATG	Attorney General	ALA	Alachua			71	71	Sheldon	George		5753
+9/10/2002	DEM	Democrat	ATG	Attorney General	BAK	Baker			9	9	Sheldon	George		618
+9/10/2002	DEM	Democrat	ATG	Attorney General	BAY	Bay			54	54	Sheldon	George		2133
+9/10/2002	DEM	Democrat	ATG	Attorney General	BRA	Bradford			21	21	Sheldon	George		847
+9/10/2002	DEM	Democrat	ATG	Attorney General	BRE	Brevard			216	216	Sheldon	George		8762
+9/10/2002	DEM	Democrat	ATG	Attorney General	BRO	Broward			774	774	Sheldon	George		30864
+9/10/2002	DEM	Democrat	ATG	Attorney General	CAL	Calhoun			13	13	Sheldon	George		597
+9/10/2002	DEM	Democrat	ATG	Attorney General	CHA	Charlotte			81	81	Sheldon	George		2084
+9/10/2002	DEM	Democrat	ATG	Attorney General	CIT	Citrus			41	41	Sheldon	George		2715
+9/10/2002	DEM	Democrat	ATG	Attorney General	CLA	Clay			58	58	Sheldon	George		990
+9/10/2002	DEM	Democrat	ATG	Attorney General	CLL	Collier			96	96	Sheldon	George		1403
+9/10/2002	DEM	Democrat	ATG	Attorney General	CLM	Columbia			30	30	Sheldon	George		1970
+9/10/2002	DEM	Democrat	ATG	Attorney General	DES	Desoto			15	15	Sheldon	George		711
+9/10/2002	DEM	Democrat	ATG	Attorney General	DIX	Dixie			11	11	Sheldon	George		719
+9/10/2002	DEM	Democrat	ATG	Attorney General	DUV	Duval			285	285	Sheldon	George		11854
+9/10/2002	DEM	Democrat	ATG	Attorney General	ESC	Escambia			91	91	Sheldon	George		7522
+9/10/2002	DEM	Democrat	ATG	Attorney General	FLA	Flagler			30	30	Sheldon	George		1152
+9/10/2002	DEM	Democrat	ATG	Attorney General	FRA	Franklin			8	8	Sheldon	George		403
+9/10/2002	DEM	Democrat	ATG	Attorney General	GAD	Gadsden			17	17	Sheldon	George		1479
+9/10/2002	DEM	Democrat	ATG	Attorney General	GIL	Gilchrist			10	10	Sheldon	George		729
+9/10/2002	DEM	Democrat	ATG	Attorney General	GLA	Glades			13	13	Sheldon	George		243
+9/10/2002	DEM	Democrat	ATG	Attorney General	GUL	Gulf			16	16	Sheldon	George		710
+9/10/2002	DEM	Democrat	ATG	Attorney General	HAM	Hamilton			9	9	Sheldon	George		489
+9/10/2002	DEM	Democrat	ATG	Attorney General	HAR	Hardee			12	12	Sheldon	George		462
+9/10/2002	DEM	Democrat	ATG	Attorney General	HEN	Hendry			24	24	Sheldon	George		461
+9/10/2002	DEM	Democrat	ATG	Attorney General	HER	Hernando			53	53	Sheldon	George		2379
+9/10/2002	DEM	Democrat	ATG	Attorney General	HIG	Highlands			26	26	Sheldon	George		940
+9/10/2002	DEM	Democrat	ATG	Attorney General	HIL	Hillsborough			353	353	Sheldon	George		22287
+9/10/2002	DEM	Democrat	ATG	Attorney General	HOL	Holmes			17	17	Sheldon	George		1164
+9/10/2002	DEM	Democrat	ATG	Attorney General	IND	Indian River			55	55	Sheldon	George		1729
+9/10/2002	DEM	Democrat	ATG	Attorney General	JAC	Jackson			28	28	Sheldon	George		1991
+9/10/2002	DEM	Democrat	ATG	Attorney General	JEF	Jefferson			15	15	Sheldon	George		517
+9/10/2002	DEM	Democrat	ATG	Attorney General	LAF	Lafayette			6	6	Sheldon	George		406
+9/10/2002	DEM	Democrat	ATG	Attorney General	LAK	Lake			97	97	Sheldon	George		2392
+9/10/2002	DEM	Democrat	ATG	Attorney General	LEE	Lee			175	175	Sheldon	George		3973
+9/10/2002	DEM	Democrat	ATG	Attorney General	LEO	Leon			123	123	Sheldon	George		7973
+9/10/2002	DEM	Democrat	ATG	Attorney General	LEV	Levy			21	21	Sheldon	George		1177
+9/10/2002	DEM	Democrat	ATG	Attorney General	LIB	Liberty			9	9	Sheldon	George		449
+9/10/2002	DEM	Democrat	ATG	Attorney General	MAD	Madison			11	11	Sheldon	George		472
+9/10/2002	DEM	Democrat	ATG	Attorney General	MAN	Manatee			134	134	Sheldon	George		3447
+9/10/2002	DEM	Democrat	ATG	Attorney General	MRN	Marion			136	136	Sheldon	George		7460
+9/10/2002	DEM	Democrat	ATG	Attorney General	MRT	Martin			48	48	Sheldon	George		1108
+9/10/2002	DEM	Democrat	ATG	Attorney General	DAD	Miami-Dade			851	851	Sheldon	George		39695
+9/10/2002	DEM	Democrat	ATG	Attorney General	MON	Monroe			33	33	Sheldon	George		1848
+9/10/2002	DEM	Democrat	ATG	Attorney General	NAS	Nassau			23	23	Sheldon	George		726
+9/10/2002	DEM	Democrat	ATG	Attorney General	OKA	Okaloosa			52	52	Sheldon	George		2528
+9/10/2002	DEM	Democrat	ATG	Attorney General	OKE	Okeechobee			18	18	Sheldon	George		807
+9/10/2002	DEM	Democrat	ATG	Attorney General	ORA	Orange			251	251	Sheldon	George		8823
+9/10/2002	DEM	Democrat	ATG	Attorney General	OSC	Osceola			94	94	Sheldon	George		1421
+9/10/2002	DEM	Democrat	ATG	Attorney General	PAL	Palm Beach			645	645	Sheldon	George		16609
+9/10/2002	DEM	Democrat	ATG	Attorney General	PAS	Pasco			156	156	Sheldon	George		4939
+9/10/2002	DEM	Democrat	ATG	Attorney General	PIN	Pinellas			383	383	Sheldon	George		13431
+9/10/2002	DEM	Democrat	ATG	Attorney General	POL	Polk			169	169	Sheldon	George		9657
+9/10/2002	DEM	Democrat	ATG	Attorney General	PUT	Putnam			57	57	Sheldon	George		1871
+9/10/2002	DEM	Democrat	ATG	Attorney General	SAN	Santa Rosa			38	38	Sheldon	George		2219
+9/10/2002	DEM	Democrat	ATG	Attorney General	SAR	Sarasota			157	157	Sheldon	George		3495
+9/10/2002	DEM	Democrat	ATG	Attorney General	SEM	Seminole			126	126	Sheldon	George		2071
+9/10/2002	DEM	Democrat	ATG	Attorney General	STJ	St. Johns			64	64	Sheldon	George		1777
+9/10/2002	DEM	Democrat	ATG	Attorney General	STL	St. Lucie			75	75	Sheldon	George		3119
+9/10/2002	DEM	Democrat	ATG	Attorney General	SUM	Sumter			38	38	Sheldon	George		864
+9/10/2002	DEM	Democrat	ATG	Attorney General	SUW	Suwannee			16	16	Sheldon	George		1121
+9/10/2002	DEM	Democrat	ATG	Attorney General	TAY	Taylor			14	14	Sheldon	George		430
+9/10/2002	DEM	Democrat	ATG	Attorney General	UNI	Union			22	22	Sheldon	George		463
+9/10/2002	DEM	Democrat	ATG	Attorney General	VOL	Volusia			180	180	Sheldon	George		6261
+9/10/2002	DEM	Democrat	ATG	Attorney General	WAK	Wakulla			12	12	Sheldon	George		720
+9/10/2002	DEM	Democrat	ATG	Attorney General	WAL	Walton			32	32	Sheldon	George		1319
+9/10/2002	DEM	Democrat	ATG	Attorney General	WAS	Washington			20	20	Sheldon	George		769
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	ALA	Alachua			71	71	Barley	Mary	L.	10394
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	BAK	Baker			9	9	Barley	Mary	L.	737
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	BAY	Bay			54	54	Barley	Mary	L.	3076
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	BRA	Bradford			21	21	Barley	Mary	L.	1018
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	BRE	Brevard			216	216	Barley	Mary	L.	11758
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	BRO	Broward			774	774	Barley	Mary	L.	45318
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	CAL	Calhoun			13	13	Barley	Mary	L.	462
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	CHA	Charlotte			81	81	Barley	Mary	L.	3462
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	CIT	Citrus			41	41	Barley	Mary	L.	3396
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	CLA	Clay			58	58	Barley	Mary	L.	1989
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	CLL	Collier			96	96	Barley	Mary	L.	3498
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	CLM	Columbia			30	30	Barley	Mary	L.	2107
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	DES	Desoto			15	15	Barley	Mary	L.	789
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	DIX	Dixie			11	11	Barley	Mary	L.	583
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	DUV	Duval			285	285	Barley	Mary	L.	23487
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	ESC	Escambia			91	91	Barley	Mary	L.	7683
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	FLA	Flagler			30	30	Barley	Mary	L.	2573
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	FRA	Franklin			8	8	Barley	Mary	L.	513
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	GAD	Gadsden			17	17	Barley	Mary	L.	2247
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	GIL	Gilchrist			10	10	Barley	Mary	L.	632
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	GLA	Glades			13	13	Barley	Mary	L.	337
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	GUL	Gulf			16	16	Barley	Mary	L.	644
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	HAM	Hamilton			9	9	Barley	Mary	L.	541
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	HAR	Hardee			12	12	Barley	Mary	L.	581
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	HEN	Hendry			24	24	Barley	Mary	L.	566
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	HER	Hernando			53	53	Barley	Mary	L.	4030
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	HIG	Highlands			26	26	Barley	Mary	L.	1715
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	HIL	Hillsborough			353	353	Barley	Mary	L.	33226
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	HOL	Holmes			17	17	Barley	Mary	L.	543
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	IND	Indian River			55	55	Barley	Mary	L.	1808
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	JAC	Jackson			28	28	Barley	Mary	L.	1506
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	JEF	Jefferson			15	15	Barley	Mary	L.	725
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	LAF	Lafayette			6	6	Barley	Mary	L.	310
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	LAK	Lake			97	97	Barley	Mary	L.	4531
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	LEE	Lee			175	175	Barley	Mary	L.	6858
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	LEO	Leon			123	123	Barley	Mary	L.	13631
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	LEV	Levy			21	21	Barley	Mary	L.	1377
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	LIB	Liberty			9	9	Barley	Mary	L.	382
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	MAD	Madison			11	11	Barley	Mary	L.	714
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	MAN	Manatee			134	134	Barley	Mary	L.	7723
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	MRN	Marion			136	136	Barley	Mary	L.	7119
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	MRT	Martin			48	48	Barley	Mary	L.	2240
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	DAD	Miami-Dade			851	851	Barley	Mary	L.	53219
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	MON	Monroe			33	33	Barley	Mary	L.	2875
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	NAS	Nassau			23	23	Barley	Mary	L.	1471
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	OKA	Okaloosa			52	52	Barley	Mary	L.	2583
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	OKE	Okeechobee			18	18	Barley	Mary	L.	837
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	ORA	Orange			251	251	Barley	Mary	L.	23345
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	OSC	Osceola			94	94	Barley	Mary	L.	3129
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	PAL	Palm Beach			645	645	Barley	Mary	L.	27726
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	PAS	Pasco			156	156	Barley	Mary	L.	8934
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	PIN	Pinellas			383	383	Barley	Mary	L.	25983
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	POL	Polk			169	169	Barley	Mary	L.	12186
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	PUT	Putnam			57	57	Barley	Mary	L.	2764
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	SAN	Santa Rosa			38	38	Barley	Mary	L.	2188
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	SAR	Sarasota			157	157	Barley	Mary	L.	10066
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	SEM	Seminole			126	126	Barley	Mary	L.	6854
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	STJ	St. Johns			64	64	Barley	Mary	L.	3295
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	STL	St. Lucie			75	75	Barley	Mary	L.	4182
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	SUM	Sumter			38	38	Barley	Mary	L.	1465
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	SUW	Suwannee			16	16	Barley	Mary	L.	1107
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	TAY	Taylor			14	14	Barley	Mary	L.	664
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	UNI	Union			22	22	Barley	Mary	L.	434
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	VOL	Volusia			180	180	Barley	Mary	L.	15104
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	WAK	Wakulla			12	12	Barley	Mary	L.	1131
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	WAL	Walton			32	32	Barley	Mary	L.	1157
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	WAS	Washington			20	20	Barley	Mary	L.	562
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	ALA	Alachua			71	71	Michaud	'Dr. Andy'		2795
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	BAK	Baker			9	9	Michaud	'Dr. Andy'		587
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	BAY	Bay			54	54	Michaud	'Dr. Andy'		2154
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	BRA	Bradford			21	21	Michaud	'Dr. Andy'		487
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	BRE	Brevard			216	216	Michaud	'Dr. Andy'		6029
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	BRO	Broward			774	774	Michaud	'Dr. Andy'		30463
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	CAL	Calhoun			13	13	Michaud	'Dr. Andy'		379
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	CHA	Charlotte			81	81	Michaud	'Dr. Andy'		2032
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	CIT	Citrus			41	41	Michaud	'Dr. Andy'		2775
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	CLA	Clay			58	58	Michaud	'Dr. Andy'		1352
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	CLL	Collier			96	96	Michaud	'Dr. Andy'		1577
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	CLM	Columbia			30	30	Michaud	'Dr. Andy'		958
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	DES	Desoto			15	15	Michaud	'Dr. Andy'		452
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	DIX	Dixie			11	11	Michaud	'Dr. Andy'		398
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	DUV	Duval			285	285	Michaud	'Dr. Andy'		14032
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	ESC	Escambia			91	91	Michaud	'Dr. Andy'		4166
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	FLA	Flagler			30	30	Michaud	'Dr. Andy'		1325
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	FRA	Franklin			8	8	Michaud	'Dr. Andy'		254
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	GAD	Gadsden			17	17	Michaud	'Dr. Andy'		1058
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	GIL	Gilchrist			10	10	Michaud	'Dr. Andy'		335
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	GLA	Glades			13	13	Michaud	'Dr. Andy'		266
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	GUL	Gulf			16	16	Michaud	'Dr. Andy'		398
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	HAM	Hamilton			9	9	Michaud	'Dr. Andy'		259
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	HAR	Hardee			12	12	Michaud	'Dr. Andy'		293
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	HEN	Hendry			24	24	Michaud	'Dr. Andy'		419
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	HER	Hernando			53	53	Michaud	'Dr. Andy'		2615
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	HIG	Highlands			26	26	Michaud	'Dr. Andy'		720
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	HIL	Hillsborough			353	353	Michaud	'Dr. Andy'		11972
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	HOL	Holmes			17	17	Michaud	'Dr. Andy'		394
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	IND	Indian River			55	55	Michaud	'Dr. Andy'		1076
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	JAC	Jackson			28	28	Michaud	'Dr. Andy'		1150
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	JEF	Jefferson			15	15	Michaud	'Dr. Andy'		460
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	LAF	Lafayette			6	6	Michaud	'Dr. Andy'		220
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	LAK	Lake			97	97	Michaud	'Dr. Andy'		3178
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	LEE	Lee			175	175	Michaud	'Dr. Andy'		5141
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	LEO	Leon			123	123	Michaud	'Dr. Andy'		5245
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	LEV	Levy			21	21	Michaud	'Dr. Andy'		1167
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	LIB	Liberty			9	9	Michaud	'Dr. Andy'		161
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	MAD	Madison			11	11	Michaud	'Dr. Andy'		474
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	MAN	Manatee			134	134	Michaud	'Dr. Andy'		2851
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	MRN	Marion			136	136	Michaud	'Dr. Andy'		5612
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	MRT	Martin			48	48	Michaud	'Dr. Andy'		1776
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	DAD	Miami-Dade			851	851	Michaud	'Dr. Andy'		21310
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	MON	Monroe			33	33	Michaud	'Dr. Andy'		707
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	NAS	Nassau			23	23	Michaud	'Dr. Andy'		1115
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	OKA	Okaloosa			52	52	Michaud	'Dr. Andy'		1466
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	OKE	Okeechobee			18	18	Michaud	'Dr. Andy'		734
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	ORA	Orange			251	251	Michaud	'Dr. Andy'		12483
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	OSC	Osceola			94	94	Michaud	'Dr. Andy'		1689
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	PAL	Palm Beach			645	645	Michaud	'Dr. Andy'		26681
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	PAS	Pasco			156	156	Michaud	'Dr. Andy'		6676
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	PIN	Pinellas			383	383	Michaud	'Dr. Andy'		19899
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	POL	Polk			169	169	Michaud	'Dr. Andy'		9355
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	PUT	Putnam			57	57	Michaud	'Dr. Andy'		1529
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	SAN	Santa Rosa			38	38	Michaud	'Dr. Andy'		1389
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	SAR	Sarasota			157	157	Michaud	'Dr. Andy'		4016
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	SEM	Seminole			126	126	Michaud	'Dr. Andy'		3781
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	STJ	St. Johns			64	64	Michaud	'Dr. Andy'		1887
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	STL	St. Lucie			75	75	Michaud	'Dr. Andy'		3053
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	SUM	Sumter			38	38	Michaud	'Dr. Andy'		1045
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	SUW	Suwannee			16	16	Michaud	'Dr. Andy'		704
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	TAY	Taylor			14	14	Michaud	'Dr. Andy'		398
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	UNI	Union			22	22	Michaud	'Dr. Andy'		224
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	VOL	Volusia			180	180	Michaud	'Dr. Andy'		6260
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	WAK	Wakulla			12	12	Michaud	'Dr. Andy'		520
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	WAL	Walton			32	32	Michaud	'Dr. Andy'		692
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	WAS	Washington			20	20	Michaud	'Dr. Andy'		480
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	ALA	Alachua			71	71	Nelson	David		9003
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	BAK	Baker			9	9	Nelson	David		1863
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	BAY	Bay			54	54	Nelson	David		8628
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	BRA	Bradford			21	21	Nelson	David		2042
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	BRE	Brevard			216	216	Nelson	David		15715
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	BRO	Broward			774	774	Nelson	David		58877
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	CAL	Calhoun			13	13	Nelson	David		2007
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	CHA	Charlotte			81	81	Nelson	David		3400
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	CIT	Citrus			41	41	Nelson	David		5280
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	CLA	Clay			58	58	Nelson	David		2347
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	CLL	Collier			96	96	Nelson	David		2825
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	CLM	Columbia			30	30	Nelson	David		4590
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	DES	Desoto			15	15	Nelson	David		1571
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	DIX	Dixie			11	11	Nelson	David		1383
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	DUV	Duval			285	285	Nelson	David		26795
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	ESC	Escambia			91	91	Nelson	David		8938
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	FLA	Flagler			30	30	Nelson	David		2736
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	FRA	Franklin			8	8	Nelson	David		1419
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	GAD	Gadsden			17	17	Nelson	David		6147
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	GIL	Gilchrist			10	10	Nelson	David		1425
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	GLA	Glades			13	13	Nelson	David		848
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	GUL	Gulf			16	16	Nelson	David		2197
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	HAM	Hamilton			9	9	Nelson	David		1376
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	HAR	Hardee			12	12	Nelson	David		1842
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	HEN	Hendry			24	24	Nelson	David		1386
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	HER	Hernando			53	53	Nelson	David		5377
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	HIG	Highlands			26	26	Nelson	David		2977
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	HIL	Hillsborough			353	353	Nelson	David		30560
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	HOL	Holmes			17	17	Nelson	David		2572
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	IND	Indian River			55	55	Nelson	David		3859
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	JAC	Jackson			28	28	Nelson	David		5240
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	JEF	Jefferson			15	15	Nelson	David		2440
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	LAF	Lafayette			6	6	Nelson	David		1177
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	LAK	Lake			97	97	Nelson	David		5546
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	LEE	Lee			175	175	Nelson	David		9074
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	LEO	Leon			123	123	Nelson	David		17336
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	LEV	Levy			21	21	Nelson	David		2427
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	LIB	Liberty			9	9	Nelson	David		1399
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	MAD	Madison			11	11	Nelson	David		2197
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	MAN	Manatee			134	134	Nelson	David		7771
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	MRN	Marion			136	136	Nelson	David		9706
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	MRT	Martin			48	48	Nelson	David		3264
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	DAD	Miami-Dade			851	851	Nelson	David		59659
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	MON	Monroe			33	33	Nelson	David		2316
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	NAS	Nassau			23	23	Nelson	David		2208
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	OKA	Okaloosa			52	52	Nelson	David		3240
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	OKE	Okeechobee			18	18	Nelson	David		2619
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	ORA	Orange			251	251	Nelson	David		23265
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	OSC	Osceola			94	94	Nelson	David		4105
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	PAL	Palm Beach			645	645	Nelson	David		43596
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	PAS	Pasco			156	156	Nelson	David		12037
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	PIN	Pinellas			383	383	Nelson	David		25163
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	POL	Polk			169	169	Nelson	David		15735
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	PUT	Putnam			57	57	Nelson	David		4904
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	SAN	Santa Rosa			38	38	Nelson	David		3068
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	SAR	Sarasota			157	157	Nelson	David		7163
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	SEM	Seminole			126	126	Nelson	David		5675
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	STJ	St. Johns			64	64	Nelson	David		3556
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	STL	St. Lucie			75	75	Nelson	David		8983
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	SUM	Sumter			38	38	Nelson	David		2189
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	SUW	Suwannee			16	16	Nelson	David		2889
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	TAY	Taylor			14	14	Nelson	David		2040
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	UNI	Union			22	22	Nelson	David		1245
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	VOL	Volusia			180	180	Nelson	David		13719
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	WAK	Wakulla			12	12	Nelson	David		2685
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	WAL	Walton			32	32	Nelson	David		2782
+9/10/2002	DEM	Democrat	AGR	Commissioner of Agriculture	WAS	Washington			20	20	Nelson	David		2440
+9/10/2002	DEM	Democrat	STS	State Senator	DUV	Duval	001		135	135	Hill	Anthony	C Tony	25858
+9/10/2002	DEM	Democrat	STS	State Senator	FLA	Flagler	001		5	5	Hill	Anthony	C Tony	377
+9/10/2002	DEM	Democrat	STS	State Senator	PUT	Putnam	001		11	11	Hill	Anthony	C Tony	1326
+9/10/2002	DEM	Democrat	STS	State Senator	STJ	St. Johns	001		14	14	Hill	Anthony	C Tony	989
+9/10/2002	DEM	Democrat	STS	State Senator	VOL	Volusia	001		22	22	Hill	Anthony	C Tony	2177
+9/10/2002	DEM	Democrat	STS	State Senator	DUV	Duval	001		135	135	Lee	E.	Denise	16650
+9/10/2002	DEM	Democrat	STS	State Senator	FLA	Flagler	001		5	5	Lee	E.	Denise	282
+9/10/2002	DEM	Democrat	STS	State Senator	PUT	Putnam	001		11	11	Lee	E.	Denise	664
+9/10/2002	DEM	Democrat	STS	State Senator	STJ	St. Johns	001		14	14	Lee	E.	Denise	829
+9/10/2002	DEM	Democrat	STS	State Senator	VOL	Volusia	001		22	22	Lee	E.	Denise	935
+9/10/2002	DEM	Democrat	STS	State Senator	CIT	Citrus	011		6	6	Cannon	Lee		454
+9/10/2002	DEM	Democrat	STS	State Senator	HER	Hernando	011		24	24	Cannon	Lee		2580
+9/10/2002	DEM	Democrat	STS	State Senator	PAS	Pasco	011		75	75	Cannon	Lee		8507
+9/10/2002	DEM	Democrat	STS	State Senator	PIN	Pinellas	011		57	57	Cannon	Lee		4897
+9/10/2002	DEM	Democrat	STS	State Senator	CIT	Citrus	011		6	6	Mattingly	Steve		422
+9/10/2002	DEM	Democrat	STS	State Senator	HER	Hernando	011		24	24	Mattingly	Steve		2711
+9/10/2002	DEM	Democrat	STS	State Senator	PAS	Pasco	011		75	75	Mattingly	Steve		6273
+9/10/2002	DEM	Democrat	STS	State Senator	PIN	Pinellas	011		57	57	Mattingly	Steve		4130
+9/10/2002	DEM	Democrat	STS	State Senator	ORA	Orange	019		97	97	Girley	Jerry		5449
+9/10/2002	DEM	Democrat	STS	State Senator	OSC	Osceola	019		22	22	Girley	Jerry		545
+9/10/2002	DEM	Democrat	STS	State Senator	ORA	Orange	019		97	97	Lightsey	Alton		5515
+9/10/2002	DEM	Democrat	STS	State Senator	OSC	Osceola	019		22	22	Lightsey	Alton		670
+9/10/2002	DEM	Democrat	STS	State Senator	ORA	Orange	019		97	97	Siplin	Gary		14275
+9/10/2002	DEM	Democrat	STS	State Senator	OSC	Osceola	019		22	22	Siplin	Gary		1347
+9/10/2002	DEM	Democrat	STS	State Senator	CHA	Charlotte	027		2	2	Aronberg	Dave		4
+9/10/2002	DEM	Democrat	STS	State Senator	GLA	Glades	027		5	5	Aronberg	Dave		62
+9/10/2002	DEM	Democrat	STS	State Senator	LEE	Lee	027		67	67	Aronberg	Dave		3398
+9/10/2002	DEM	Democrat	STS	State Senator	PAL	Palm Beach	027		133	133	Aronberg	Dave		15583
+9/10/2002	DEM	Democrat	STS	State Senator	CHA	Charlotte	027		2	2	Edwards	Scott		6
+9/10/2002	DEM	Democrat	STS	State Senator	GLA	Glades	027		5	5	Edwards	Scott		370
+9/10/2002	DEM	Democrat	STS	State Senator	LEE	Lee	027		67	67	Edwards	Scott		3767
+9/10/2002	DEM	Democrat	STS	State Senator	PAL	Palm Beach	027		133	133	Edwards	Scott		6283
+9/10/2002	DEM	Democrat	STS	State Senator	BRO	Broward	029		109	109	Alston	Corey		7681
+9/10/2002	DEM	Democrat	STS	State Senator	PAL	Palm Beach	029		82	82	Alston	Corey		5199
+9/10/2002	DEM	Democrat	STS	State Senator	BRO	Broward	029		109	109	Dawson	M.	Mandy	15412
+9/10/2002	DEM	Democrat	STS	State Senator	PAL	Palm Beach	029		82	82	Dawson	M.	Mandy	7247
+9/10/2002	DEM	Democrat	STS	State Senator	BRO	Broward	029		109	109	Ocal	A.	Tarkan	1319
+9/10/2002	DEM	Democrat	STS	State Senator	PAL	Palm Beach	029		82	82	Ocal	A.	Tarkan	640
+9/10/2002	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	033		170	170	Dupree	M.	Tina	8044
+9/10/2002	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	033		170	170	Pace Jr.	John	D.	4599
+9/10/2002	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	033		170	170	Wilson	Frederica	S.	33000
+9/10/2002	DEM	Democrat	STS	State Senator	CLL	Collier	039		10	10	Bullard	Larcenia	J.	43
+9/10/2002	DEM	Democrat	STS	State Senator	HEN	Hendry	039		24	24	Bullard	Larcenia	J.	157
+9/10/2002	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	039		109	109	Bullard	Larcenia	J.	8431
+9/10/2002	DEM	Democrat	STS	State Senator	MON	Monroe	039		33	33	Bullard	Larcenia	J.	139
+9/10/2002	DEM	Democrat	STS	State Senator	PAL	Palm Beach	039		14	14	Bullard	Larcenia	J.	229
+9/10/2002	DEM	Democrat	STS	State Senator	CLL	Collier	039		10	10	Cosgrove	John	F.	206
+9/10/2002	DEM	Democrat	STS	State Senator	HEN	Hendry	039		24	24	Cosgrove	John	F.	662
+9/10/2002	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	039		109	109	Cosgrove	John	F.	4986
+9/10/2002	DEM	Democrat	STS	State Senator	MON	Monroe	039		33	33	Cosgrove	John	F.	709
+9/10/2002	DEM	Democrat	STS	State Senator	PAL	Palm Beach	039		14	14	Cosgrove	John	F.	413
+9/10/2002	DEM	Democrat	STS	State Senator	CLL	Collier	039		10	10	Jones	Donald		67
+9/10/2002	DEM	Democrat	STS	State Senator	HEN	Hendry	039		24	24	Jones	Donald		176
+9/10/2002	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	039		109	109	Jones	Donald		4716
+9/10/2002	DEM	Democrat	STS	State Senator	MON	Monroe	039		33	33	Jones	Donald		147
+9/10/2002	DEM	Democrat	STS	State Senator	PAL	Palm Beach	039		14	14	Jones	Donald		360
+9/10/2002	DEM	Democrat	STS	State Senator	CLL	Collier	039		10	10	Lerner	Cindy		112
+9/10/2002	DEM	Democrat	STS	State Senator	HEN	Hendry	039		24	24	Lerner	Cindy		434
+9/10/2002	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	039		109	109	Lerner	Cindy		3109
+9/10/2002	DEM	Democrat	STS	State Senator	MON	Monroe	039		33	33	Lerner	Cindy		847
+9/10/2002	DEM	Democrat	STS	State Senator	PAL	Palm Beach	039		14	14	Lerner	Cindy		425
+9/10/2002	DEM	Democrat	STS	State Senator	CLL	Collier	039		10	10	Saunders	Ron		165
+9/10/2002	DEM	Democrat	STS	State Senator	HEN	Hendry	039		24	24	Saunders	Ron		904
+9/10/2002	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	039		109	109	Saunders	Ron		2133
+9/10/2002	DEM	Democrat	STS	State Senator	MON	Monroe	039		33	33	Saunders	Ron		4705
+9/10/2002	DEM	Democrat	STS	State Senator	PAL	Palm Beach	039		14	14	Saunders	Ron		294
+9/10/2002	DEM	Democrat	STR	State Representative	DUV	Duval	015		68	68	Freeman	Mack		4726
+9/10/2002	DEM	Democrat	STR	State Representative	DUV	Duval	015		68	68	Gibson	Audrey		6449
+9/10/2002	DEM	Democrat	STR	State Representative	DUV	Duval	015		68	68	Johnson	Rahman		4346
+9/10/2002	DEM	Democrat	STR	State Representative	FLA	Flagler	026		4	4	Persis	Carl		181
+9/10/2002	DEM	Democrat	STR	State Representative	VOL	Volusia	026		61	61	Persis	Carl		6997
+9/10/2002	DEM	Democrat	STR	State Representative	FLA	Flagler	026		4	4	Spar	Andrew		127
+9/10/2002	DEM	Democrat	STR	State Representative	VOL	Volusia	026		61	61	Spar	Andrew		4991
+9/10/2002	DEM	Democrat	STR	State Representative	ORA	Orange	036		43	43	Kirk	Ali		2676
+9/10/2002	DEM	Democrat	STR	State Representative	ORA	Orange	036		43	43	McInvale	Sheri		4987
+9/10/2002	DEM	Democrat	STR	State Representative	ORA	Orange	039		31	31	Antone	Bruce		4163
+9/10/2002	DEM	Democrat	STR	State Representative	ORA	Orange	039		31	31	Eason	Jon		1086
+9/10/2002	DEM	Democrat	STR	State Representative	ORA	Orange	039		31	31	Moore	Tiffany		3752
+9/10/2002	DEM	Democrat	STR	State Representative	ORA	Orange	039		31	31	Thompson	Geraldine	F.	3212
+9/10/2002	DEM	Democrat	STR	State Representative	CIT	Citrus	043		41	41	Carr	Jimmy		7615
+9/10/2002	DEM	Democrat	STR	State Representative	HER	Hernando	043		8	8	Carr	Jimmy		877
+9/10/2002	DEM	Democrat	STR	State Representative	LEV	Levy	043		1	1	Carr	Jimmy		286
+9/10/2002	DEM	Democrat	STR	State Representative	CIT	Citrus	043		41	41	Ilnyckyj	Alexander 'Alex'		3724
+9/10/2002	DEM	Democrat	STR	State Representative	HER	Hernando	043		8	8	Ilnyckyj	Alexander 'Alex'		303
+9/10/2002	DEM	Democrat	STR	State Representative	LEV	Levy	043		1	1	Ilnyckyj	Alexander 'Alex'		90
+9/10/2002	DEM	Democrat	STR	State Representative	HER	Hernando	044		46	46	Donovan	Bruce	D	4078
+9/10/2002	DEM	Democrat	STR	State Representative	PAS	Pasco	044		6	6	Donovan	Bruce	D	131
+9/10/2002	DEM	Democrat	STR	State Representative	SUM	Sumter	044		8	8	Donovan	Bruce	D	400
+9/10/2002	DEM	Democrat	STR	State Representative	HER	Hernando	044		46	46	Williams	Gregory	L.	6535
+9/10/2002	DEM	Democrat	STR	State Representative	PAS	Pasco	044		6	6	Williams	Gregory	L.	118
+9/10/2002	DEM	Democrat	STR	State Representative	SUM	Sumter	044		8	8	Williams	Gregory	L.	410
+9/10/2002	DEM	Democrat	STR	State Representative	HIL	Hillsborough	047		46	46	McGarvey	Lynn		4250
+9/10/2002	DEM	Democrat	STR	State Representative	HIL	Hillsborough	047		46	46	Safarik	Charles Robert	(Bob)	1179
+9/10/2002	DEM	Democrat	STR	State Representative	HIL	Hillsborough	047		46	46	Steinberg	Michael	A.	4521
+9/10/2002	DEM	Democrat	STR	State Representative	ORA	Orange	049		30	30	Bruno	Juan	R.	1836
+9/10/2002	DEM	Democrat	STR	State Representative	OSC	Osceola	049		17	17	Bruno	Juan	R.	701
+9/10/2002	DEM	Democrat	STR	State Representative	ORA	Orange	049		30	30	Fernandez	Jose		3357
+9/10/2002	DEM	Democrat	STR	State Representative	OSC	Osceola	049		17	17	Fernandez	Jose		1326
+9/10/2002	DEM	Democrat	STR	State Representative	PAL	Palm Beach	085		82	82	Pafford	Mark		4402
+9/10/2002	DEM	Democrat	STR	State Representative	PAL	Palm Beach	085		82	82	Vana	Shelley		5153
+9/10/2002	DEM	Democrat	STR	State Representative	PAL	Palm Beach	086		76	76	Gannon	Anne	M.	10462
+9/10/2002	DEM	Democrat	STR	State Representative	PAL	Palm Beach	086		76	76	Silver	Barry		6220
+9/10/2002	DEM	Democrat	STR	State Representative	BRO	Broward	087		10	10	Lazar	Charna		347
+9/10/2002	DEM	Democrat	STR	State Representative	PAL	Palm Beach	087		82	82	Lazar	Charna		3383
+9/10/2002	DEM	Democrat	STR	State Representative	BRO	Broward	087		10	10	Robbe	David		487
+9/10/2002	DEM	Democrat	STR	State Representative	PAL	Palm Beach	087		82	82	Robbe	David		3644
+9/10/2002	DEM	Democrat	STR	State Representative	PAL	Palm Beach	089		74	74	Brandenburg	Mary		4543
+9/10/2002	DEM	Democrat	STR	State Representative	PAL	Palm Beach	089		74	74	Nault	Armand		3505
+9/10/2002	DEM	Democrat	STR	State Representative	BRO	Broward	094		62	62	Hammond	Eric		6077
+9/10/2002	DEM	Democrat	STR	State Representative	BRO	Broward	094		62	62	Jean	Alain	'Alan'	2992
+9/10/2002	DEM	Democrat	STR	State Representative	BRO	Broward	094		62	62	Meadows	Matthew	'Matt'	6551
+9/10/2002	DEM	Democrat	STR	State Representative	BRO	Broward	098		63	63	Sands	Franklin		5855
+9/10/2002	DEM	Democrat	STR	State Representative	BRO	Broward	098		63	63	Wishner	Roger	Brian	7168
+9/10/2002	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	104		57	57	Brisé	Ronald	A.	2227
+9/10/2002	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	104		57	57	Colyer	Jacqui		3617
+9/10/2002	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	104		57	57	Jennings	Bernard	W.H.	1994
+9/10/2002	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	104		57	57	Roberson	Yolly		4537
+9/10/2002	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	104		57	57	Williams	Anthony		2855
+9/10/2002	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	108		73	73	Brutus	Phillip	J.	9694
+9/10/2002	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	108		73	73	Burns	Kevin	A	4223
+9/10/2002	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		61	61	Bendross-Mindingall	Dorothy		8662
+9/10/2002	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		61	61	Hardemon	Roy		1655
+9/10/2002	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		61	61	Reaves	Darryl	Franklin	4702
+9/10/2002	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	116		30	30	Llerena	Fernando		1382
+9/10/2002	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	116		30	30	Vilar	Patrick		2215
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	005	58	58	Cascone	John	Joseph	5821
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	005	285	285	Cascone	John	Joseph	35692
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	005	23	23	Cascone	John	Joseph	4630
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	005	58	58	McCaulie	W.	Gregg	11103
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	005	285	285	McCaulie	W.	Gregg	77412
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	005	23	23	McCaulie	W.	Gregg	6078
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	013	58	58	Gooding	David	M.	10055
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	013	285	285	Gooding	David	M.	59637
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	013	23	23	Gooding	David	M.	5658
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	013	58	58	Wilensky	Dan		7295
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	013	285	285	Wilensky	Dan		57368
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	013	23	23	Wilensky	Dan		4884
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	001	41	41	Angel	Carven	D.	11409
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	001	53	53	Angel	Carven	D.	11718
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	001	97	97	Angel	Carven	D.	15687
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	001	136	136	Angel	Carven	D.	27859
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	001	38	38	Angel	Carven	D.	4591
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	001	41	41	Takac	Michael	G.	11832
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	001	53	53	Takac	Michael	G.	11637
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	001	97	97	Takac	Michael	G.	15079
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	001	136	136	Takac	Michael	G.	21777
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	001	38	38	Takac	Michael	G.	4452
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	008	163	163	Cobb	Wayne	L.	38386
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	008	383	383	Cobb	Wayne	L.	84569
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	008	163	163	Yeazell	Chris		14171
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	008	383	383	Yeazell	Chris		49388
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	025	163	163	Mansfield	Declan		26887
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	025	383	383	Mansfield	Declan		61468
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	025	163	163	Renke	John		26705
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	025	383	383	Renke	John		71321
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	026	163	163	Chaves	Sarah		13727
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	026	383	383	Chaves	Sarah		43523
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	026	163	163	Babb	Linda		23668
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	026	383	383	Babb	Linda		48927
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	026	163	163	Brown	George	H.	15978
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	026	383	383	Brown	George	H.	43080
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	028	163	163	St. Arnold	Jack	R.	26549
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	028	383	383	St. Arnold	Jack	R.	73031
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	028	163	163	Michael	Robert	'Bo'	24957
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	028	383	383	Michael	Robert	'Bo'	60113
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	041	163	163	Ottinger	Malinda		8791
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	041	383	383	Ottinger	Malinda		20243
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	041	163	163	Vinson	William	L. 'Bill'	15931
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	041	383	383	Vinson	William	L. 'Bill'	38370
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	041	163	163	Allan	Linda		26831
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	041	383	383	Allan	Linda		73328
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	024	30	30	LaRue	Terry		6013
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	024	57	57	LaRue	Terry		4645
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	024	64	64	LaRue	Terry		7367
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	024	180	180	LaRue	Terry		31167
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	024	30	30	Nixon	Larry		5186
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	024	57	57	Nixon	Larry		5805
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	024	64	64	Nixon	Larry		6296
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	024	180	180	Nixon	Larry		20042
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	024	30	30	Swann III	Henry	T.	3353
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	024	57	57	Swann III	Henry	T.	2832
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	024	64	64	Swann III	Henry	T.	10832
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	024	180	180	Swann III	Henry	T.	13470
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	ALA	Alachua	008	012	71	71	Kann	Terry		8715
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	BAK	Baker	008	012	9	9	Kann	Terry		1172
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	BRA	Bradford	008	012	21	21	Kann	Terry		1289
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	GIL	Gilchrist	008	012	10	10	Kann	Terry		563
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	LEV	Levy	008	012	21	21	Kann	Terry		1616
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	UNI	Union	008	012	22	22	Kann	Terry		468
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	ALA	Alachua	008	012	71	71	Schaffnit	Gil		10541
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	BAK	Baker	008	012	9	9	Schaffnit	Gil		937
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	BRA	Bradford	008	012	21	21	Schaffnit	Gil		1106
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	GIL	Gilchrist	008	012	10	10	Schaffnit	Gil		1008
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	LEV	Levy	008	012	21	21	Schaffnit	Gil		2246
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	UNI	Union	008	012	22	22	Schaffnit	Gil		522
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	ALA	Alachua	008	012	71	71	Glant	David	A.	12657
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	BAK	Baker	008	012	9	9	Glant	David	A.	1830
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	BRA	Bradford	008	012	21	21	Glant	David	A.	2124
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	GIL	Gilchrist	008	012	10	10	Glant	David	A.	1739
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	LEV	Levy	008	012	21	21	Glant	David	A.	2569
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	UNI	Union	008	012	22	22	Glant	David	A.	1269
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	021	251	251	Pitts	Neal	P.	38023
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	021	94	94	Pitts	Neal	P.	5203
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	021	251	251	Marrero	Ted		34339
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	021	94	94	Marrero	Ted		5064
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	021	251	251	Apte	Alan		57621
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	021	94	94	Apte	Alan		7838
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	037	251	251	Katz	Norberto		30284
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	037	94	94	Katz	Norberto		4024
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	037	251	251	Bender	Mark	C.	46696
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	037	94	94	Bender	Mark	C.	5613
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	037	251	251	Henson	Jim		48446
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	037	94	94	Henson	Jim		7676
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	001	979	979	Mishael	Alan	I.	118096
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	001	979	979	Fernandez	Ivan		127844
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	004	979	979	Ward	Diane		140560
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	004	979	979	Postman	Alan	L.	111086
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	046	979	979	Cortada	Xavier		46656
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	046	979	979	Zabel	Sarah		110581
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	046	979	979	Akpodiete	Alexander	O.	23589
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	046	979	979	Ordonez Jr.	Raul	G.	67533
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	DES	Desoto	012	005	15	15	Tebrugge	Adam		536
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	MAN	Manatee	012	005	134	134	Tebrugge	Adam		5335
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	SAR	Sarasota	012	005	165	165	Tebrugge	Adam		11487
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	DES	Desoto	012	005	15	15	Zimmerman	Laurie		920
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	MAN	Manatee	012	005	134	134	Zimmerman	Laurie		10663
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	SAR	Sarasota	012	005	165	165	Zimmerman	Laurie		11693
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	DES	Desoto	012	005	15	15	Chapman	Susan		948
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	MAN	Manatee	012	005	134	134	Chapman	Susan		11433
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	SAR	Sarasota	012	005	165	165	Chapman	Susan		13178
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	DES	Desoto	012	005	15	15	Roberts	Charlie		1233
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	MAN	Manatee	012	005	134	134	Roberts	Charlie		19372
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	SAR	Sarasota	012	005	165	165	Roberts	Charlie		24659
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	DES	Desoto	012	019	15	15	DeVilbiss Jr.	Preston		1068
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	MAN	Manatee	012	019	134	134	DeVilbiss Jr.	Preston		12734
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	SAR	Sarasota	012	019	165	165	DeVilbiss Jr.	Preston		22661
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	DES	Desoto	012	019	15	15	Moreland	Diana		756
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	MAN	Manatee	012	019	134	134	Moreland	Diana		12663
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	SAR	Sarasota	012	019	165	165	Moreland	Diana		13533
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	DES	Desoto	012	019	15	15	Evers	Cynthia		984
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	MAN	Manatee	012	019	134	134	Evers	Cynthia		8685
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	SAR	Sarasota	012	019	165	165	Evers	Cynthia		8010
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	DES	Desoto	012	019	15	15	Nicholas	Ed		879
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	MAN	Manatee	012	019	134	134	Nicholas	Ed		13316
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	SAR	Sarasota	012	019	165	165	Nicholas	Ed		15645
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	007	353	353	Foster	Walter		46873
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	007	353	353	Carey	Kevin		79873
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	030	353	353	Pazos	Carlos	A.	30511
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	030	353	353	Whalen	Ken		36251
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	030	353	353	Cook	Martha		62625
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	037	353	353	Sierra	Monica	L.	59811
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	037	353	353	Isom	Woody		34365
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	037	353	353	Brooks	Ray		20310
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	037	353	353	Souders	Brad		17507
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	003	644	644	Berger	Bill		94397
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	003	644	644	Cohn	Bennett	S.	55070
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	014	644	644	Lewis	Diana		92314
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	014	644	644	Colin	Martin	H.	55958
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	034	644	644	Miller	Karen	M.	70285
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	034	644	644	Shull	Darren	D.	17214
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	034	644	644	McAfee	William	J	40278
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	034	644	644	Marinelli	John	P.	21065
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	011	779	779	Schwartzreich	Mila	K.	90338
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	011	779	779	Orlando	Michael	J.	96705
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	026	779	779	Bowman	John		66920
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	026	779	779	de Guzman Cobb	Mariza		45310
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	026	779	779	Marks	Alan		69241
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	029	779	779	Krathen	David		103746
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	029	779	779	Lopane	Nicholas 'Nick'		73262
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	037	779	779	Siegel	Andrew 'Andy'		101205
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	037	779	779	Bristol	Hope	Tieman	79680
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	041	779	779	Murphy III	John	J.	44986
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	041	779	779	Maines-Julian	Joyce	Anne	61773
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	041	779	779	Gunzburger	Ronald M.	(Ron)	38596
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	041	779	779	Gilfarb	Michael	E.	38024
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	052	779	779	Kaplan	Michael	G.	84609
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	052	779	779	Thurston Jr.	Perry	Eugene	56363
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	052	779	779	Tuter	Jack		17102
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	052	779	779	Salvage	Andrew 'Andy'		25185
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	011	54	54	Mildner	Roy	T.	8400
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	011	48	48	Mildner	Roy	T.	8307
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	011	18	18	Mildner	Roy	T.	2402
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	011	75	75	Mildner	Roy	T.	15450
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	011	54	54	Schack	Larry		12308
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	011	48	48	Schack	Larry		19119
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	011	18	18	Schack	Larry		3133
+9/10/2002	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	011	75	75	Schack	Larry		16744

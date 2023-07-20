@@ -1,0 +1,816 @@
+ElectionDate	PartyCode	PartyName	RaceCode	OfficeDesc	CountyCode	CountyName	Juris1num	Juris2num	Precincts	PrecinctsReporting	CanNameLast	CanNameFirst	CanNameMiddle	CanVotes
+8/18/2020	REP	Republican	USR	United States Representative	ESC	Escambia	001		0	0	Gaetz	Matt		29272
+8/18/2020	REP	Republican	USR	United States Representative	HOL	Holmes	001		6	6	Gaetz	Matt		2131
+8/18/2020	REP	Republican	USR	United States Representative	OKA	Okaloosa	001		52	52	Gaetz	Matt		25861
+8/18/2020	REP	Republican	USR	United States Representative	SAN	Santa Rosa	001		41	41	Gaetz	Matt		21536
+8/18/2020	REP	Republican	USR	United States Representative	WAL	Walton	001		21	21	Gaetz	Matt		8657
+8/18/2020	REP	Republican	USR	United States Representative	ESC	Escambia	001		0	0	Merk	Greg		4240
+8/18/2020	REP	Republican	USR	United States Representative	HOL	Holmes	001		6	6	Merk	Greg		157
+8/18/2020	REP	Republican	USR	United States Representative	OKA	Okaloosa	001		52	52	Merk	Greg		2385
+8/18/2020	REP	Republican	USR	United States Representative	SAN	Santa Rosa	001		41	41	Merk	Greg		2696
+8/18/2020	REP	Republican	USR	United States Representative	WAL	Walton	001		21	21	Merk	Greg		749
+8/18/2020	REP	Republican	USR	United States Representative	ESC	Escambia	001		0	0	Mills	John		3477
+8/18/2020	REP	Republican	USR	United States Representative	HOL	Holmes	001		6	6	Mills	John		260
+8/18/2020	REP	Republican	USR	United States Representative	OKA	Okaloosa	001		52	52	Mills	John		3110
+8/18/2020	REP	Republican	USR	United States Representative	SAN	Santa Rosa	001		41	41	Mills	John		2454
+8/18/2020	REP	Republican	USR	United States Representative	WAL	Walton	001		21	21	Mills	John		1082
+8/18/2020	REP	Republican	USR	United States Representative	ALA	Alachua	003		63	63	Cammack	Kat		4519
+8/18/2020	REP	Republican	USR	United States Representative	BRA	Bradford	003		14	14	Cammack	Kat		1441
+8/18/2020	REP	Republican	USR	United States Representative	CLA	Clay	003		0	0	Cammack	Kat		8482
+8/18/2020	REP	Republican	USR	United States Representative	MRN	Marion	003		0	0	Cammack	Kat		3892
+8/18/2020	REP	Republican	USR	United States Representative	PUT	Putnam	003		35	35	Cammack	Kat		2564
+8/18/2020	REP	Republican	USR	United States Representative	UNI	Union	003		8	8	Cammack	Kat		781
+8/18/2020	REP	Republican	USR	United States Representative	ALA	Alachua	003		63	63	Chamberlin	Ryan	D.	538
+8/18/2020	REP	Republican	USR	United States Representative	BRA	Bradford	003		14	14	Chamberlin	Ryan	D.	95
+8/18/2020	REP	Republican	USR	United States Representative	CLA	Clay	003		0	0	Chamberlin	Ryan	D.	1399
+8/18/2020	REP	Republican	USR	United States Representative	MRN	Marion	003		0	0	Chamberlin	Ryan	D.	2724
+8/18/2020	REP	Republican	USR	United States Representative	PUT	Putnam	003		35	35	Chamberlin	Ryan	D.	278
+8/18/2020	REP	Republican	USR	United States Representative	UNI	Union	003		8	8	Chamberlin	Ryan	D.	33
+8/18/2020	REP	Republican	USR	United States Representative	ALA	Alachua	003		63	63	Chase	Todd		3559
+8/18/2020	REP	Republican	USR	United States Representative	BRA	Bradford	003		14	14	Chase	Todd		302
+8/18/2020	REP	Republican	USR	United States Representative	CLA	Clay	003		0	0	Chase	Todd		2396
+8/18/2020	REP	Republican	USR	United States Representative	MRN	Marion	003		0	0	Chase	Todd		1421
+8/18/2020	REP	Republican	USR	United States Representative	PUT	Putnam	003		35	35	Chase	Todd		418
+8/18/2020	REP	Republican	USR	United States Representative	UNI	Union	003		8	8	Chase	Todd		69
+8/18/2020	REP	Republican	USR	United States Representative	ALA	Alachua	003		63	63	Engelbrecht	Bill		144
+8/18/2020	REP	Republican	USR	United States Representative	BRA	Bradford	003		14	14	Engelbrecht	Bill		50
+8/18/2020	REP	Republican	USR	United States Representative	CLA	Clay	003		0	0	Engelbrecht	Bill		1381
+8/18/2020	REP	Republican	USR	United States Representative	MRN	Marion	003		0	0	Engelbrecht	Bill		241
+8/18/2020	REP	Republican	USR	United States Representative	PUT	Putnam	003		35	35	Engelbrecht	Bill		173
+8/18/2020	REP	Republican	USR	United States Representative	UNI	Union	003		8	8	Engelbrecht	Bill		12
+8/18/2020	REP	Republican	USR	United States Representative	ALA	Alachua	003		63	63	Millado	Joe	Dallas	289
+8/18/2020	REP	Republican	USR	United States Representative	BRA	Bradford	003		14	14	Millado	Joe	Dallas	23
+8/18/2020	REP	Republican	USR	United States Representative	CLA	Clay	003		0	0	Millado	Joe	Dallas	643
+8/18/2020	REP	Republican	USR	United States Representative	MRN	Marion	003		0	0	Millado	Joe	Dallas	162
+8/18/2020	REP	Republican	USR	United States Representative	PUT	Putnam	003		35	35	Millado	Joe	Dallas	47
+8/18/2020	REP	Republican	USR	United States Representative	UNI	Union	003		8	8	Millado	Joe	Dallas	4
+8/18/2020	REP	Republican	USR	United States Representative	ALA	Alachua	003		63	63	Rollins	Gavin		2865
+8/18/2020	REP	Republican	USR	United States Representative	BRA	Bradford	003		14	14	Rollins	Gavin		546
+8/18/2020	REP	Republican	USR	United States Representative	CLA	Clay	003		0	0	Rollins	Gavin		6577
+8/18/2020	REP	Republican	USR	United States Representative	MRN	Marion	003		0	0	Rollins	Gavin		1583
+8/18/2020	REP	Republican	USR	United States Representative	PUT	Putnam	003		35	35	Rollins	Gavin		1233
+8/18/2020	REP	Republican	USR	United States Representative	UNI	Union	003		8	8	Rollins	Gavin		314
+8/18/2020	REP	Republican	USR	United States Representative	ALA	Alachua	003		63	63	Sapp	Judson		2368
+8/18/2020	REP	Republican	USR	United States Representative	BRA	Bradford	003		14	14	Sapp	Judson		1323
+8/18/2020	REP	Republican	USR	United States Representative	CLA	Clay	003		0	0	Sapp	Judson		7517
+8/18/2020	REP	Republican	USR	United States Representative	MRN	Marion	003		0	0	Sapp	Judson		2731
+8/18/2020	REP	Republican	USR	United States Representative	PUT	Putnam	003		35	35	Sapp	Judson		2565
+8/18/2020	REP	Republican	USR	United States Representative	UNI	Union	003		8	8	Sapp	Judson		676
+8/18/2020	REP	Republican	USR	United States Representative	ALA	Alachua	003		63	63	St. George	James		1431
+8/18/2020	REP	Republican	USR	United States Representative	BRA	Bradford	003		14	14	St. George	James		679
+8/18/2020	REP	Republican	USR	United States Representative	CLA	Clay	003		0	0	St. George	James		6470
+8/18/2020	REP	Republican	USR	United States Representative	MRN	Marion	003		0	0	St. George	James		1711
+8/18/2020	REP	Republican	USR	United States Representative	PUT	Putnam	003		35	35	St. George	James		1520
+8/18/2020	REP	Republican	USR	United States Representative	UNI	Union	003		8	8	St. George	James		314
+8/18/2020	REP	Republican	USR	United States Representative	ALA	Alachua	003		63	63	Theus	David		171
+8/18/2020	REP	Republican	USR	United States Representative	BRA	Bradford	003		14	14	Theus	David		71
+8/18/2020	REP	Republican	USR	United States Representative	CLA	Clay	003		0	0	Theus	David		1426
+8/18/2020	REP	Republican	USR	United States Representative	MRN	Marion	003		0	0	Theus	David		116
+8/18/2020	REP	Republican	USR	United States Representative	PUT	Putnam	003		35	35	Theus	David		78
+8/18/2020	REP	Republican	USR	United States Representative	UNI	Union	003		8	8	Theus	David		12
+8/18/2020	REP	Republican	USR	United States Representative	ALA	Alachua	003		63	63	Wells	Amy	Pope	520
+8/18/2020	REP	Republican	USR	United States Representative	BRA	Bradford	003		14	14	Wells	Amy	Pope	108
+8/18/2020	REP	Republican	USR	United States Representative	CLA	Clay	003		0	0	Wells	Amy	Pope	2159
+8/18/2020	REP	Republican	USR	United States Representative	MRN	Marion	003		0	0	Wells	Amy	Pope	555
+8/18/2020	REP	Republican	USR	United States Representative	PUT	Putnam	003		35	35	Wells	Amy	Pope	190
+8/18/2020	REP	Republican	USR	United States Representative	UNI	Union	003		8	8	Wells	Amy	Pope	32
+8/18/2020	REP	Republican	USR	United States Representative	DUV	Duval	004		0	0	Aguilar	Erick	J.	8538
+8/18/2020	REP	Republican	USR	United States Representative	NAS	Nassau	004		0	0	Aguilar	Erick	J.	4113
+8/18/2020	REP	Republican	USR	United States Representative	STJ	St. Johns	004		44	44	Aguilar	Erick	J.	7147
+8/18/2020	REP	Republican	USR	United States Representative	DUV	Duval	004		0	0	Rutherford	John	H.	42030
+8/18/2020	REP	Republican	USR	United States Representative	NAS	Nassau	004		0	0	Rutherford	John	H.	13452
+8/18/2020	REP	Republican	USR	United States Representative	STJ	St. Johns	004		44	44	Rutherford	John	H.	24619
+8/18/2020	REP	Republican	USR	United States Representative	BAK	Baker	005		9	9	Adler	Gary		2117
+8/18/2020	REP	Republican	USR	United States Representative	CLM	Columbia	005		9	9	Adler	Gary		287
+8/18/2020	REP	Republican	USR	United States Representative	DUV	Duval	005		0	0	Adler	Gary		9041
+8/18/2020	REP	Republican	USR	United States Representative	GAD	Gadsden	005		25	25	Adler	Gary		849
+8/18/2020	REP	Republican	USR	United States Representative	HAM	Hamilton	005		8	8	Adler	Gary		345
+8/18/2020	REP	Republican	USR	United States Representative	JEF	Jefferson	005		16	16	Adler	Gary		546
+8/18/2020	REP	Republican	USR	United States Representative	LEO	Leon	005		87	87	Adler	Gary		3589
+8/18/2020	REP	Republican	USR	United States Representative	MAD	Madison	005		0	0	Adler	Gary		659
+8/18/2020	REP	Republican	USR	United States Representative	BAK	Baker	005		9	9	Wagoner	Roger		2501
+8/18/2020	REP	Republican	USR	United States Representative	CLM	Columbia	005		9	9	Wagoner	Roger		278
+8/18/2020	REP	Republican	USR	United States Representative	DUV	Duval	005		0	0	Wagoner	Roger		6842
+8/18/2020	REP	Republican	USR	United States Representative	GAD	Gadsden	005		25	25	Wagoner	Roger		797
+8/18/2020	REP	Republican	USR	United States Representative	HAM	Hamilton	005		8	8	Wagoner	Roger		1155
+8/18/2020	REP	Republican	USR	United States Representative	JEF	Jefferson	005		16	16	Wagoner	Roger		835
+8/18/2020	REP	Republican	USR	United States Representative	LEO	Leon	005		87	87	Wagoner	Roger		2692
+8/18/2020	REP	Republican	USR	United States Representative	MAD	Madison	005		0	0	Wagoner	Roger		912
+8/18/2020	REP	Republican	USR	United States Representative	ORA	Orange	007		0	0	Goble	Richard		6019
+8/18/2020	REP	Republican	USR	United States Representative	SEM	Seminole	007		90	90	Goble	Richard		13168
+8/18/2020	REP	Republican	USR	United States Representative	ORA	Orange	007		0	0	Valentin	Leo		6245
+8/18/2020	REP	Republican	USR	United States Representative	SEM	Seminole	007		90	90	Valentin	Leo		13596
+8/18/2020	REP	Republican	USR	United States Representative	ORA	Orange	007		0	0	Zhao	Yukong		3773
+8/18/2020	REP	Republican	USR	United States Representative	SEM	Seminole	007		90	90	Zhao	Yukong		8557
+8/18/2020	REP	Republican	USR	United States Representative	BRE	Brevard	008		171	171	Caine	Scott		23106
+8/18/2020	REP	Republican	USR	United States Representative	IND	Indian River	008		35	35	Caine	Scott		9268
+8/18/2020	REP	Republican	USR	United States Representative	ORA	Orange	008		0	0	Caine	Scott		578
+8/18/2020	REP	Republican	USR	United States Representative	BRE	Brevard	008		171	171	Posey	Bill		40100
+8/18/2020	REP	Republican	USR	United States Representative	IND	Indian River	008		35	35	Posey	Bill		14028
+8/18/2020	REP	Republican	USR	United States Representative	ORA	Orange	008		0	0	Posey	Bill		733
+8/18/2020	REP	Republican	USR	United States Representative	ORA	Orange	009		0	0	Castillo	Jose		1680
+8/18/2020	REP	Republican	USR	United States Representative	OSC	Osceola	009		95	95	Castillo	Jose		3004
+8/18/2020	REP	Republican	USR	United States Representative	POL	Polk	009		77	77	Castillo	Jose		3911
+8/18/2020	REP	Republican	USR	United States Representative	ORA	Orange	009		0	0	Olson	William	P. 'Bill'	3072
+8/18/2020	REP	Republican	USR	United States Representative	OSC	Osceola	009		95	95	Olson	William	P. 'Bill'	7566
+8/18/2020	REP	Republican	USR	United States Representative	POL	Polk	009		77	77	Olson	William	P. 'Bill'	10113
+8/18/2020	REP	Republican	USR	United States Representative	ORA	Orange	009		0	0	Ortiz	Sergio	E.	737
+8/18/2020	REP	Republican	USR	United States Representative	OSC	Osceola	009		95	95	Ortiz	Sergio	E.	1312
+8/18/2020	REP	Republican	USR	United States Representative	POL	Polk	009		77	77	Ortiz	Sergio	E.	1631
+8/18/2020	REP	Republican	USR	United States Representative	ORA	Orange	009		0	0	Wright	Christopher		1900
+8/18/2020	REP	Republican	USR	United States Representative	OSC	Osceola	009		95	95	Wright	Christopher		3587
+8/18/2020	REP	Republican	USR	United States Representative	POL	Polk	009		77	77	Wright	Christopher		4190
+8/18/2020	REP	Republican	USR	United States Representative	ORA	Orange	010		0	0	Francois	Vennia		21485
+8/18/2020	REP	Republican	USR	United States Representative	ORA	Orange	010		0	0	Montague	Willie	J.	11498
+8/18/2020	REP	Republican	USR	United States Representative	PIN	Pinellas	013		0	0	Buck	George		16371
+8/18/2020	REP	Republican	USR	United States Representative	PIN	Pinellas	013		0	0	Griffin	Sheila		4329
+8/18/2020	REP	Republican	USR	United States Representative	PIN	Pinellas	013		0	0	Luna	Anna	Paulina	22941
+8/18/2020	REP	Republican	USR	United States Representative	PIN	Pinellas	013		0	0	Makki	Amanda		17967
+8/18/2020	REP	Republican	USR	United States Representative	PIN	Pinellas	013		0	0	Newby	Sharon	Barry	1866
+8/18/2020	REP	Republican	USR	United States Representative	HIL	Hillsborough	014		209	209	Elliott	Paul	Sidney	13257
+8/18/2020	REP	Republican	USR	United States Representative	HIL	Hillsborough	014		209	209	Quinn	Christine	Y.	24077
+8/18/2020	REP	Republican	USR	United States Representative	HIL	Hillsborough	015		109	109	Franklin	Scott		12771
+8/18/2020	REP	Republican	USR	United States Representative	LAK	Lake	015		0	0	Franklin	Scott		3570
+8/18/2020	REP	Republican	USR	United States Representative	POL	Polk	015		65	65	Franklin	Scott		14395
+8/18/2020	REP	Republican	USR	United States Representative	HIL	Hillsborough	015		109	109	Spano	Ross		16765
+8/18/2020	REP	Republican	USR	United States Representative	LAK	Lake	015		0	0	Spano	Ross		3827
+8/18/2020	REP	Republican	USR	United States Representative	POL	Polk	015		65	65	Spano	Ross		8673
+8/18/2020	REP	Republican	USR	United States Representative	MRT	Martin	018		28	28	Mast	Brian		20461
+8/18/2020	REP	Republican	USR	United States Representative	PAL	Palm Beach	018		254	254	Mast	Brian		22571
+8/18/2020	REP	Republican	USR	United States Representative	STL	St. Lucie	018		64	64	Mast	Brian		19089
+8/18/2020	REP	Republican	USR	United States Representative	MRT	Martin	018		28	28	Vessio	Nick		2897
+8/18/2020	REP	Republican	USR	United States Representative	PAL	Palm Beach	018		254	254	Vessio	Nick		4154
+8/18/2020	REP	Republican	USR	United States Representative	STL	St. Lucie	018		64	64	Vessio	Nick		3030
+8/18/2020	REP	Republican	USR	United States Representative	CLL	Collier	019		0	0	Aquino	Darren		448
+8/18/2020	REP	Republican	USR	United States Representative	LEE	Lee	019		112	112	Aquino	Darren		1018
+8/18/2020	REP	Republican	USR	United States Representative	CLL	Collier	019		0	0	Askar	Casey		6657
+8/18/2020	REP	Republican	USR	United States Representative	LEE	Lee	019		112	112	Askar	Casey		14117
+8/18/2020	REP	Republican	USR	United States Representative	CLL	Collier	019		0	0	Donalds	Byron		8389
+8/18/2020	REP	Republican	USR	United States Representative	LEE	Lee	019		112	112	Donalds	Byron		15103
+8/18/2020	REP	Republican	USR	United States Representative	CLL	Collier	019		0	0	Eagle	Dane		3937
+8/18/2020	REP	Republican	USR	United States Representative	LEE	Lee	019		112	112	Eagle	Dane		18778
+8/18/2020	REP	Republican	USR	United States Representative	CLL	Collier	019		0	0	Figlesthaler	William	'Fig'	5811
+8/18/2020	REP	Republican	USR	United States Representative	LEE	Lee	019		112	112	Figlesthaler	William	'Fig'	13264
+8/18/2020	REP	Republican	USR	United States Representative	CLL	Collier	019		0	0	Henderson	Randy		950
+8/18/2020	REP	Republican	USR	United States Representative	LEE	Lee	019		112	112	Henderson	Randy		6908
+8/18/2020	REP	Republican	USR	United States Representative	CLL	Collier	019		0	0	Kowal	Daniel		448
+8/18/2020	REP	Republican	USR	United States Representative	LEE	Lee	019		112	112	Kowal	Daniel		687
+8/18/2020	REP	Republican	USR	United States Representative	CLL	Collier	019		0	0	McLaughlin	Christy		1515
+8/18/2020	REP	Republican	USR	United States Representative	LEE	Lee	019		112	112	McLaughlin	Christy		2730
+8/18/2020	REP	Republican	USR	United States Representative	CLL	Collier	019		0	0	Severson	Dan		986
+8/18/2020	REP	Republican	USR	United States Representative	LEE	Lee	019		112	112	Severson	Dan		2211
+8/18/2020	REP	Republican	USR	United States Representative	BRO	Broward	020		150	150	DeGrammont	Vic		2856
+8/18/2020	REP	Republican	USR	United States Representative	PAL	Palm Beach	020		148	148	DeGrammont	Vic		2119
+8/18/2020	REP	Republican	USR	United States Representative	BRO	Broward	020		150	150	Musselwhite	Greg		2923
+8/18/2020	REP	Republican	USR	United States Representative	PAL	Palm Beach	020		148	148	Musselwhite	Greg		2471
+8/18/2020	REP	Republican	USR	United States Representative	PAL	Palm Beach	021		411	411	Acosta	Christian		8724
+8/18/2020	REP	Republican	USR	United States Representative	PAL	Palm Beach	021		411	411	Felton	Elizabeth		2421
+8/18/2020	REP	Republican	USR	United States Representative	PAL	Palm Beach	021		411	411	Loomer	Laura		14526
+8/18/2020	REP	Republican	USR	United States Representative	PAL	Palm Beach	021		411	411	Scanlan	Aaron		3221
+8/18/2020	REP	Republican	USR	United States Representative	PAL	Palm Beach	021		411	411	Sherrill	Reba		1070
+8/18/2020	REP	Republican	USR	United States Representative	PAL	Palm Beach	021		411	411	Vilardi	Michael		4194
+8/18/2020	REP	Republican	USR	United States Representative	BRO	Broward	022		212	212	Flynn	Fran		6843
+8/18/2020	REP	Republican	USR	United States Representative	PAL	Palm Beach	022		59	59	Flynn	Fran		1824
+8/18/2020	REP	Republican	USR	United States Representative	BRO	Broward	022		212	212	Melton	Jessica	'Jessi'	7261
+8/18/2020	REP	Republican	USR	United States Representative	PAL	Palm Beach	022		59	59	Melton	Jessica	'Jessi'	2708
+8/18/2020	REP	Republican	USR	United States Representative	BRO	Broward	022		212	212	Pruden	James	'Jim'	8871
+8/18/2020	REP	Republican	USR	United States Representative	PAL	Palm Beach	022		59	59	Pruden	James	'Jim'	2969
+8/18/2020	REP	Republican	USR	United States Representative	BRO	Broward	022		212	212	Swaffar	Darlene		2084
+8/18/2020	REP	Republican	USR	United States Representative	PAL	Palm Beach	022		59	59	Swaffar	Darlene		679
+8/18/2020	REP	Republican	USR	United States Representative	BRO	Broward	023		211	211	Kroske	Michael		10927
+8/18/2020	REP	Republican	USR	United States Representative	DAD	Miami-Dade	023		22	22	Kroske	Michael		1189
+8/18/2020	REP	Republican	USR	United States Representative	BRO	Broward	023		211	211	Spalding	Carla		11624
+8/18/2020	REP	Republican	USR	United States Representative	DAD	Miami-Dade	023		22	22	Spalding	Carla		1127
+8/18/2020	REP	Republican	USR	United States Representative	DAD	Miami-Dade	026		215	215	Blanco	Omar		16583
+8/18/2020	REP	Republican	USR	United States Representative	MON	Monroe	026		0	0	Blanco	Omar		3138
+8/18/2020	REP	Republican	USR	United States Representative	DAD	Miami-Dade	026		215	215	Gimenez	Carlos		23896
+8/18/2020	REP	Republican	USR	United States Representative	MON	Monroe	026		0	0	Gimenez	Carlos		5584
+8/18/2020	REP	Republican	USR	United States Representative	DAD	Miami-Dade	027		248	248	Fiol	Juan		5018
+8/18/2020	REP	Republican	USR	United States Representative	DAD	Miami-Dade	027		248	248	Molina	Raymond		5497
+8/18/2020	REP	Republican	USR	United States Representative	DAD	Miami-Dade	027		248	248	Salazar	Maria	Elvira	39687
+8/18/2020	REP	Republican	STA	State Attorney	CLM	Columbia	003		22	22	Durrett	John	F.	7959
+8/18/2020	REP	Republican	STA	State Attorney	DIX	Dixie	003		10	10	Durrett	John	F.	2541
+8/18/2020	REP	Republican	STA	State Attorney	HAM	Hamilton	003		8	8	Durrett	John	F.	1781
+8/18/2020	REP	Republican	STA	State Attorney	LAF	Lafayette	003		5	5	Durrett	John	F.	1291
+8/18/2020	REP	Republican	STA	State Attorney	MAD	Madison	003		0	0	Durrett	John	F.	2033
+8/18/2020	REP	Republican	STA	State Attorney	SUW	Suwannee	003		16	16	Durrett	John	F.	5508
+8/18/2020	REP	Republican	STA	State Attorney	TAY	Taylor	003		0	0	Durrett	John	F.	3806
+8/18/2020	REP	Republican	STA	State Attorney	CLM	Columbia	003		22	22	Seifert	Tina		5343
+8/18/2020	REP	Republican	STA	State Attorney	DIX	Dixie	003		10	10	Seifert	Tina		1032
+8/18/2020	REP	Republican	STA	State Attorney	HAM	Hamilton	003		8	8	Seifert	Tina		1505
+8/18/2020	REP	Republican	STA	State Attorney	LAF	Lafayette	003		5	5	Seifert	Tina		1021
+8/18/2020	REP	Republican	STA	State Attorney	MAD	Madison	003		0	0	Seifert	Tina		1768
+8/18/2020	REP	Republican	STA	State Attorney	SUW	Suwannee	003		16	16	Seifert	Tina		4287
+8/18/2020	REP	Republican	STA	State Attorney	TAY	Taylor	003		0	0	Seifert	Tina		2217
+8/18/2020	REP	Republican	STA	State Attorney	DES	Desoto	012		15	15	Brodsky	Ed		1123
+8/18/2020	REP	Republican	STA	State Attorney	MAN	Manatee	012		70	70	Brodsky	Ed		24184
+8/18/2020	REP	Republican	STA	State Attorney	SAR	Sarasota	012		101	101	Brodsky	Ed		30909
+8/18/2020	REP	Republican	STA	State Attorney	DES	Desoto	012		15	15	Chittaro	Lisa		590
+8/18/2020	REP	Republican	STA	State Attorney	MAN	Manatee	012		70	70	Chittaro	Lisa		12475
+8/18/2020	REP	Republican	STA	State Attorney	SAR	Sarasota	012		101	101	Chittaro	Lisa		15086
+8/18/2020	REP	Republican	STA	State Attorney	BAY	Bay	014		44	44	Basford	Larry		25774
+8/18/2020	REP	Republican	STA	State Attorney	CAL	Calhoun	014		11	11	Basford	Larry		2036
+8/18/2020	REP	Republican	STA	State Attorney	GUL	Gulf	014		10	10	Basford	Larry		3065
+8/18/2020	REP	Republican	STA	State Attorney	HOL	Holmes	014		8	8	Basford	Larry		3429
+8/18/2020	REP	Republican	STA	State Attorney	JAC	Jackson	014		14	14	Basford	Larry		8681
+8/18/2020	REP	Republican	STA	State Attorney	WAS	Washington	014		12	12	Basford	Larry		4075
+8/18/2020	REP	Republican	STA	State Attorney	BAY	Bay	014		44	44	Hatcher	Wes		7415
+8/18/2020	REP	Republican	STA	State Attorney	CAL	Calhoun	014		11	11	Hatcher	Wes		686
+8/18/2020	REP	Republican	STA	State Attorney	GUL	Gulf	014		10	10	Hatcher	Wes		898
+8/18/2020	REP	Republican	STA	State Attorney	HOL	Holmes	014		8	8	Hatcher	Wes		1768
+8/18/2020	REP	Republican	STA	State Attorney	JAC	Jackson	014		14	14	Hatcher	Wes		3025
+8/18/2020	REP	Republican	STA	State Attorney	WAS	Washington	014		12	12	Hatcher	Wes		1447
+8/18/2020	REP	Republican	STA	State Attorney	MON	Monroe	016		0	0	Kohl	Mark	E.	2948
+8/18/2020	REP	Republican	STA	State Attorney	MON	Monroe	016		0	0	Ward	Dennis	W.	6020
+8/18/2020	REP	Republican	PUB	Public Defender	FLA	Flagler	007		0	0	Burden	George		6767
+8/18/2020	REP	Republican	PUB	Public Defender	PUT	Putnam	007		35	35	Burden	George		3826
+8/18/2020	REP	Republican	PUB	Public Defender	STJ	St. Johns	007		48	48	Burden	George		14199
+8/18/2020	REP	Republican	PUB	Public Defender	VOL	Volusia	007		125	125	Burden	George		29532
+8/18/2020	REP	Republican	PUB	Public Defender	FLA	Flagler	007		0	0	Gennusa	Anne Marie		8056
+8/18/2020	REP	Republican	PUB	Public Defender	PUT	Putnam	007		35	35	Gennusa	Anne Marie		3956
+8/18/2020	REP	Republican	PUB	Public Defender	STJ	St. Johns	007		48	48	Gennusa	Anne Marie		23004
+8/18/2020	REP	Republican	PUB	Public Defender	VOL	Volusia	007		125	125	Gennusa	Anne Marie		25834
+8/18/2020	REP	Republican	PUB	Public Defender	FLA	Flagler	007		0	0	Metz	Matt		8409
+8/18/2020	REP	Republican	PUB	Public Defender	PUT	Putnam	007		35	35	Metz	Matt		5267
+8/18/2020	REP	Republican	PUB	Public Defender	STJ	St. Johns	007		48	48	Metz	Matt		15922
+8/18/2020	REP	Republican	PUB	Public Defender	VOL	Volusia	007		125	125	Metz	Matt		42269
+8/18/2020	REP	Republican	STS	State Senator	CAL	Calhoun	003		11	11	Horbowy	Benjamin Alexander	Thaddeus John	355
+8/18/2020	REP	Republican	STS	State Senator	FRA	Franklin	003		8	8	Horbowy	Benjamin Alexander	Thaddeus John	337
+8/18/2020	REP	Republican	STS	State Senator	GAD	Gadsden	003		25	25	Horbowy	Benjamin Alexander	Thaddeus John	329
+8/18/2020	REP	Republican	STS	State Senator	GUL	Gulf	003		10	10	Horbowy	Benjamin Alexander	Thaddeus John	657
+8/18/2020	REP	Republican	STS	State Senator	HAM	Hamilton	003		8	8	Horbowy	Benjamin Alexander	Thaddeus John	403
+8/18/2020	REP	Republican	STS	State Senator	JEF	Jefferson	003		16	16	Horbowy	Benjamin Alexander	Thaddeus John	308
+8/18/2020	REP	Republican	STS	State Senator	LEO	Leon	003		152	152	Horbowy	Benjamin Alexander	Thaddeus John	3545
+8/18/2020	REP	Republican	STS	State Senator	LIB	Liberty	003		0	0	Horbowy	Benjamin Alexander	Thaddeus John	209
+8/18/2020	REP	Republican	STS	State Senator	MAD	Madison	003		0	0	Horbowy	Benjamin Alexander	Thaddeus John	398
+8/18/2020	REP	Republican	STS	State Senator	TAY	Taylor	003		0	0	Horbowy	Benjamin Alexander	Thaddeus John	1217
+8/18/2020	REP	Republican	STS	State Senator	WAK	Wakulla	003		12	12	Horbowy	Benjamin Alexander	Thaddeus John	797
+8/18/2020	REP	Republican	STS	State Senator	CAL	Calhoun	003		11	11	Preston	Marva	Harris	814
+8/18/2020	REP	Republican	STS	State Senator	FRA	Franklin	003		8	8	Preston	Marva	Harris	988
+8/18/2020	REP	Republican	STS	State Senator	GAD	Gadsden	003		25	25	Preston	Marva	Harris	1343
+8/18/2020	REP	Republican	STS	State Senator	GUL	Gulf	003		10	10	Preston	Marva	Harris	1975
+8/18/2020	REP	Republican	STS	State Senator	HAM	Hamilton	003		8	8	Preston	Marva	Harris	1053
+8/18/2020	REP	Republican	STS	State Senator	JEF	Jefferson	003		16	16	Preston	Marva	Harris	1273
+8/18/2020	REP	Republican	STS	State Senator	LEO	Leon	003		152	152	Preston	Marva	Harris	16096
+8/18/2020	REP	Republican	STS	State Senator	LIB	Liberty	003		0	0	Preston	Marva	Harris	598
+8/18/2020	REP	Republican	STS	State Senator	MAD	Madison	003		0	0	Preston	Marva	Harris	1191
+8/18/2020	REP	Republican	STS	State Senator	TAY	Taylor	003		0	0	Preston	Marva	Harris	2432
+8/18/2020	REP	Republican	STS	State Senator	WAK	Wakulla	003		12	12	Preston	Marva	Harris	3920
+8/18/2020	REP	Republican	STS	State Senator	BAK	Baker	005		9	9	Bradley	Jennifer		2534
+8/18/2020	REP	Republican	STS	State Senator	BRA	Bradford	005		14	14	Bradley	Jennifer		2508
+8/18/2020	REP	Republican	STS	State Senator	CLA	Clay	005		0	0	Bradley	Jennifer		24850
+8/18/2020	REP	Republican	STS	State Senator	CLM	Columbia	005		22	22	Bradley	Jennifer		5257
+8/18/2020	REP	Republican	STS	State Senator	DIX	Dixie	005		10	10	Bradley	Jennifer		705
+8/18/2020	REP	Republican	STS	State Senator	GIL	Gilchrist	005		10	10	Bradley	Jennifer		1774
+8/18/2020	REP	Republican	STS	State Senator	LAF	Lafayette	005		5	5	Bradley	Jennifer		684
+8/18/2020	REP	Republican	STS	State Senator	LEV	Levy	005		0	0	Bradley	Jennifer		3154
+8/18/2020	REP	Republican	STS	State Senator	MRN	Marion	005		0	0	Bradley	Jennifer		1369
+8/18/2020	REP	Republican	STS	State Senator	SUW	Suwannee	005		16	16	Bradley	Jennifer		3463
+8/18/2020	REP	Republican	STS	State Senator	UNI	Union	005		8	8	Bradley	Jennifer		1097
+8/18/2020	REP	Republican	STS	State Senator	BAK	Baker	005		9	9	Holifield	Jason	G.	2249
+8/18/2020	REP	Republican	STS	State Senator	BRA	Bradford	005		14	14	Holifield	Jason	G.	2105
+8/18/2020	REP	Republican	STS	State Senator	CLA	Clay	005		0	0	Holifield	Jason	G.	13067
+8/18/2020	REP	Republican	STS	State Senator	CLM	Columbia	005		22	22	Holifield	Jason	G.	2836
+8/18/2020	REP	Republican	STS	State Senator	DIX	Dixie	005		10	10	Holifield	Jason	G.	1724
+8/18/2020	REP	Republican	STS	State Senator	GIL	Gilchrist	005		10	10	Holifield	Jason	G.	1630
+8/18/2020	REP	Republican	STS	State Senator	LAF	Lafayette	005		5	5	Holifield	Jason	G.	1179
+8/18/2020	REP	Republican	STS	State Senator	LEV	Levy	005		0	0	Holifield	Jason	G.	3140
+8/18/2020	REP	Republican	STS	State Senator	MRN	Marion	005		0	0	Holifield	Jason	G.	940
+8/18/2020	REP	Republican	STS	State Senator	SUW	Suwannee	005		16	16	Holifield	Jason	G.	2953
+8/18/2020	REP	Republican	STS	State Senator	UNI	Union	005		8	8	Holifield	Jason	G.	1121
+8/18/2020	REP	Republican	STS	State Senator	HIL	Hillsborough	021		56	56	Boyd	Jim		16533
+8/18/2020	REP	Republican	STS	State Senator	MAN	Manatee	021		70	70	Boyd	Jim		33025
+8/18/2020	REP	Republican	STS	State Senator	HIL	Hillsborough	021		56	56	Houman	John	Manners	1853
+8/18/2020	REP	Republican	STS	State Senator	MAN	Manatee	021		70	70	Houman	John	Manners	3577
+8/18/2020	REP	Republican	STS	State Senator	LEE	Lee	027		103	103	Fitzenhagen	Heather		16118
+8/18/2020	REP	Republican	STS	State Senator	LEE	Lee	027		103	103	Rodrigues	Ray		47958
+8/18/2020	REP	Republican	STR	State Representative	ESC	Escambia	001		0	0	Hill	Mike		10032
+8/18/2020	REP	Republican	STR	State Representative	ESC	Escambia	001		0	0	Salzman	Michelle		11081
+8/18/2020	REP	Republican	STR	State Representative	ESC	Escambia	002		0	0	Andrade	Alex		9680
+8/18/2020	REP	Republican	STR	State Representative	SAN	Santa Rosa	002		3	3	Andrade	Alex		1500
+8/18/2020	REP	Republican	STR	State Representative	ESC	Escambia	002		0	0	Dosev	Cris		6124
+8/18/2020	REP	Republican	STR	State Representative	SAN	Santa Rosa	002		3	3	Dosev	Cris		1070
+8/18/2020	REP	Republican	STR	State Representative	OKA	Okaloosa	004		47	47	Atkinson	Sandra	L.	2730
+8/18/2020	REP	Republican	STR	State Representative	OKA	Okaloosa	004		47	47	Hinkle	Jeff		9001
+8/18/2020	REP	Republican	STR	State Representative	OKA	Okaloosa	004		47	47	Maney	Patt		9908
+8/18/2020	REP	Republican	STR	State Representative	OKA	Okaloosa	004		47	47	Tallman	Jonathan	Michael	4514
+8/18/2020	REP	Republican	STR	State Representative	BAY	Bay	006		41	41	Linne	Steven		4915
+8/18/2020	REP	Republican	STR	State Representative	BAY	Bay	006		41	41	Trumbull	Jay		15256
+8/18/2020	REP	Republican	STR	State Representative	DUV	Duval	012		0	0	McArthur	Colin	Ross	1748
+8/18/2020	REP	Republican	STR	State Representative	DUV	Duval	012		0	0	Yarborough	Clay		11547
+8/18/2020	REP	Republican	STR	State Representative	LEV	Levy	022		0	0	Harding	Joe		4777
+8/18/2020	REP	Republican	STR	State Representative	MRN	Marion	022		0	0	Harding	Joe		9821
+8/18/2020	REP	Republican	STR	State Representative	LEV	Levy	022		0	0	Randall	Russ		1484
+8/18/2020	REP	Republican	STR	State Representative	MRN	Marion	022		0	0	Randall	Russ		4767
+8/18/2020	REP	Republican	STR	State Representative	VOL	Volusia	027		39	39	Barnaby	Webster		5224
+8/18/2020	REP	Republican	STR	State Representative	VOL	Volusia	027		39	39	Benfield	Erika		4411
+8/18/2020	REP	Republican	STR	State Representative	VOL	Volusia	027		39	39	Denizac	Zenaida		2535
+8/18/2020	REP	Republican	STR	State Representative	SEM	Seminole	029		43	43	Dowe	Luther	'Luke'	2452
+8/18/2020	REP	Republican	STR	State Representative	SEM	Seminole	029		43	43	Plakon	Scott		11612
+8/18/2020	REP	Republican	STR	State Representative	LAK	Lake	031		0	0	Novakovic	Stevan		2927
+8/18/2020	REP	Republican	STR	State Representative	ORA	Orange	031		0	0	Novakovic	Stevan		1302
+8/18/2020	REP	Republican	STR	State Representative	LAK	Lake	031		0	0	Truenow	Keith		8689
+8/18/2020	REP	Republican	STR	State Representative	ORA	Orange	031		0	0	Truenow	Keith		3354
+8/18/2020	REP	Republican	STR	State Representative	OSC	Osceola	042		36	36	Hawkins	Fred		3728
+8/18/2020	REP	Republican	STR	State Representative	POL	Polk	042		18	18	Hawkins	Fred		2650
+8/18/2020	REP	Republican	STR	State Representative	OSC	Osceola	042		36	36	Liebnitzky	Dianna		3347
+8/18/2020	REP	Republican	STR	State Representative	POL	Polk	042		18	18	Liebnitzky	Dianna		725
+8/18/2020	REP	Republican	STR	State Representative	OSC	Osceola	042		36	36	Scott	Gary		1812
+8/18/2020	REP	Republican	STR	State Representative	POL	Polk	042		18	18	Scott	Gary		633
+8/18/2020	REP	Republican	STR	State Representative	OSC	Osceola	042		36	36	Valentin	Bienvenido	'Benny'	570
+8/18/2020	REP	Republican	STR	State Representative	POL	Polk	042		18	18	Valentin	Bienvenido	'Benny'	214
+8/18/2020	REP	Republican	STR	State Representative	ORA	Orange	044		0	0	Blanco	Frank	Edel	3562
+8/18/2020	REP	Republican	STR	State Representative	ORA	Orange	044		0	0	Portigliatti	Bruno		10124
+8/18/2020	REP	Republican	STR	State Representative	ORA	Orange	047		0	0	Morenski	Kevin		5029
+8/18/2020	REP	Republican	STR	State Representative	ORA	Orange	047		0	0	Sisson	Jeremy		7021
+8/18/2020	REP	Republican	STR	State Representative	BRE	Brevard	052		55	55	Altman	Thad		12818
+8/18/2020	REP	Republican	STR	State Representative	BRE	Brevard	052		55	55	Nye	Matt		9432
+8/18/2020	REP	Republican	STR	State Representative	BRE	Brevard	053		37	37	Adkins	Marcelle	'Marcie'	5841
+8/18/2020	REP	Republican	STR	State Representative	BRE	Brevard	053		37	37	Fine	Randy		10671
+8/18/2020	REP	Republican	STR	State Representative	GLA	Glades	055		0	0	Hancock	Ned		558
+8/18/2020	REP	Republican	STR	State Representative	HIG	Highlands	055		0	0	Hancock	Ned		6192
+8/18/2020	REP	Republican	STR	State Representative	OKE	Okeechobee	055		11	11	Hancock	Ned		1731
+8/18/2020	REP	Republican	STR	State Representative	STL	St. Lucie	055		4	4	Hancock	Ned		266
+8/18/2020	REP	Republican	STR	State Representative	GLA	Glades	055		0	0	Tuck	Kaylee		852
+8/18/2020	REP	Republican	STR	State Representative	HIG	Highlands	055		0	0	Tuck	Kaylee		7773
+8/18/2020	REP	Republican	STR	State Representative	OKE	Okeechobee	055		11	11	Tuck	Kaylee		2342
+8/18/2020	REP	Republican	STR	State Representative	STL	St. Lucie	055		4	4	Tuck	Kaylee		288
+8/18/2020	REP	Republican	STR	State Representative	HIL	Hillsborough	059		47	47	Kushmer	Danny		5680
+8/18/2020	REP	Republican	STR	State Representative	HIL	Hillsborough	059		47	47	Owen	Michael		6625
+8/18/2020	REP	Republican	STR	State Representative	SAR	Sarasota	072		34	34	Barcomb	Donna		7491
+8/18/2020	REP	Republican	STR	State Representative	SAR	Sarasota	072		34	34	McFarland	Fiona		7754
+8/18/2020	REP	Republican	STR	State Representative	SAR	Sarasota	072		34	34	Miller	Jason	M.	2689
+8/18/2020	REP	Republican	STR	State Representative	LEE	Lee	076		42	42	Botana	Adam		14166
+8/18/2020	REP	Republican	STR	State Representative	LEE	Lee	076		42	42	Maughan	Jason		9643
+8/18/2020	REP	Republican	STR	State Representative	LEE	Lee	077		32	32	Blackwell	Bryan		9668
+8/18/2020	REP	Republican	STR	State Representative	LEE	Lee	077		32	32	Giallombardo	Mike		11513
+8/18/2020	REP	Republican	STR	State Representative	LEE	Lee	078		35	35	Lolly	Roger		5122
+8/18/2020	REP	Republican	STR	State Representative	LEE	Lee	078		35	35	Lynch	Charlie		2835
+8/18/2020	REP	Republican	STR	State Representative	LEE	Lee	078		35	35	Persons	Jenna		11499
+8/18/2020	REP	Republican	STR	State Representative	LEE	Lee	079		28	28	Allen-Scott	Randy		3946
+8/18/2020	REP	Republican	STR	State Representative	LEE	Lee	079		28	28	Roach	Spencer		10807
+8/18/2020	REP	Republican	STR	State Representative	CLL	Collier	080		0	0	Clark	Drew-Montez		4255
+8/18/2020	REP	Republican	STR	State Representative	HEN	Hendry	080		10	10	Clark	Drew-Montez		1017
+8/18/2020	REP	Republican	STR	State Representative	CLL	Collier	080		0	0	Dotres	Victor		1672
+8/18/2020	REP	Republican	STR	State Representative	HEN	Hendry	080		10	10	Dotres	Victor		290
+8/18/2020	REP	Republican	STR	State Representative	CLL	Collier	080		0	0	Melo	Lauren	Uhlich	8596
+8/18/2020	REP	Republican	STR	State Representative	HEN	Hendry	080		10	10	Melo	Lauren	Uhlich	1488
+8/18/2020	REP	Republican	STR	State Representative	PAL	Palm Beach	081		71	71	Banionis	Saulis		4209
+8/18/2020	REP	Republican	STR	State Representative	PAL	Palm Beach	081		71	71	Moura	Silmo		2660
+8/18/2020	REP	Republican	STR	State Representative	MRT	Martin	082		19	19	Domino	Carl	J.	1134
+8/18/2020	REP	Republican	STR	State Representative	PAL	Palm Beach	082		60	60	Domino	Carl	J.	1550
+8/18/2020	REP	Republican	STR	State Representative	MRT	Martin	082		19	19	Kozell	Rick		3207
+8/18/2020	REP	Republican	STR	State Representative	PAL	Palm Beach	082		60	60	Kozell	Rick		3288
+8/18/2020	REP	Republican	STR	State Representative	MRT	Martin	082		19	19	Snyder	John		9286
+8/18/2020	REP	Republican	STR	State Representative	PAL	Palm Beach	082		60	60	Snyder	John		2731
+8/18/2020	REP	Republican	STR	State Representative	STL	St. Lucie	084		36	36	Trabulsy	Dana		9374
+8/18/2020	REP	Republican	STR	State Representative	STL	St. Lucie	084		36	36	Vargas	Eileen		2829
+8/18/2020	REP	Republican	STR	State Representative	BRO	Broward	103		7	7	Fabricio	Tom		559
+8/18/2020	REP	Republican	STR	State Representative	DAD	Miami-Dade	103		26	26	Fabricio	Tom		5056
+8/18/2020	REP	Republican	STR	State Representative	BRO	Broward	103		7	7	Rodriguez	Nelson		389
+8/18/2020	REP	Republican	STR	State Representative	DAD	Miami-Dade	103		26	26	Rodriguez	Nelson		3307
+8/18/2020	REP	Republican	STR	State Representative	BRO	Broward	105		3	3	Barrios	Pedro		147
+8/18/2020	REP	Republican	STR	State Representative	CLL	Collier	105		0	0	Barrios	Pedro		636
+8/18/2020	REP	Republican	STR	State Representative	DAD	Miami-Dade	105		33	33	Barrios	Pedro		1357
+8/18/2020	REP	Republican	STR	State Representative	BRO	Broward	105		3	3	Borrero	David		224
+8/18/2020	REP	Republican	STR	State Representative	CLL	Collier	105		0	0	Borrero	David		1791
+8/18/2020	REP	Republican	STR	State Representative	DAD	Miami-Dade	105		33	33	Borrero	David		2184
+8/18/2020	REP	Republican	STR	State Representative	BRO	Broward	105		3	3	Potestad	Bibiana		194
+8/18/2020	REP	Republican	STR	State Representative	CLL	Collier	105		0	0	Potestad	Bibiana		1307
+8/18/2020	REP	Republican	STR	State Representative	DAD	Miami-Dade	105		33	33	Potestad	Bibiana		2309
+8/18/2020	REP	Republican	STR	State Representative	DAD	Miami-Dade	112		48	48	Barreiro	Bruno	A.	6194
+8/18/2020	REP	Republican	STR	State Representative	DAD	Miami-Dade	112		48	48	Palomino	Rosa	Maria 'Rosy'	3519
+8/18/2020	REP	Republican	STR	State Representative	DAD	Miami-Dade	116		56	56	Garcia	Gabriel		6438
+8/18/2020	REP	Republican	STR	State Representative	DAD	Miami-Dade	116		56	56	Perez	Daniel	A.	9177
+8/18/2020	REP	Republican	STR	State Representative	DAD	Miami-Dade	120		43	43	Mooney	James 'Jim'	Vernon	781
+8/18/2020	REP	Republican	STR	State Representative	MON	Monroe	120		0	0	Mooney	James 'Jim'	Vernon	3966
+8/18/2020	REP	Republican	STR	State Representative	DAD	Miami-Dade	120		43	43	Rebman Lopez	Rhonda		1794
+8/18/2020	REP	Republican	STR	State Representative	MON	Monroe	120		0	0	Rebman Lopez	Rhonda		2805
+8/18/2020	REP	Republican	STR	State Representative	DAD	Miami-Dade	120		43	43	Suarez	Alexandria		1741
+8/18/2020	REP	Republican	STR	State Representative	MON	Monroe	120		0	0	Suarez	Alexandria		2321
+8/18/2020	DEM	Democrat	USR	United States Representative	ALA	Alachua	003		63	63	Christensen	Adam		12217
+8/18/2020	DEM	Democrat	USR	United States Representative	BRA	Bradford	003		14	14	Christensen	Adam		696
+8/18/2020	DEM	Democrat	USR	United States Representative	CLA	Clay	003		0	0	Christensen	Adam		3249
+8/18/2020	DEM	Democrat	USR	United States Representative	MRN	Marion	003		0	0	Christensen	Adam		3024
+8/18/2020	DEM	Democrat	USR	United States Representative	PUT	Putnam	003		35	35	Christensen	Adam		1594
+8/18/2020	DEM	Democrat	USR	United States Representative	UNI	Union	003		8	8	Christensen	Adam		293
+8/18/2020	DEM	Democrat	USR	United States Representative	ALA	Alachua	003		63	63	Dodds	Philip		13015
+8/18/2020	DEM	Democrat	USR	United States Representative	BRA	Bradford	003		14	14	Dodds	Philip		593
+8/18/2020	DEM	Democrat	USR	United States Representative	CLA	Clay	003		0	0	Dodds	Philip		2422
+8/18/2020	DEM	Democrat	USR	United States Representative	MRN	Marion	003		0	0	Dodds	Philip		2489
+8/18/2020	DEM	Democrat	USR	United States Representative	PUT	Putnam	003		35	35	Dodds	Philip		935
+8/18/2020	DEM	Democrat	USR	United States Representative	UNI	Union	003		8	8	Dodds	Philip		276
+8/18/2020	DEM	Democrat	USR	United States Representative	ALA	Alachua	003		63	63	Wells	Tom		11684
+8/18/2020	DEM	Democrat	USR	United States Representative	BRA	Bradford	003		14	14	Wells	Tom		730
+8/18/2020	DEM	Democrat	USR	United States Representative	CLA	Clay	003		0	0	Wells	Tom		2973
+8/18/2020	DEM	Democrat	USR	United States Representative	MRN	Marion	003		0	0	Wells	Tom		2858
+8/18/2020	DEM	Democrat	USR	United States Representative	PUT	Putnam	003		35	35	Wells	Tom		1736
+8/18/2020	DEM	Democrat	USR	United States Representative	UNI	Union	003		8	8	Wells	Tom		309
+8/18/2020	DEM	Democrat	USR	United States Representative	BAK	Baker	005		9	9	Chester	Albert		425
+8/18/2020	DEM	Democrat	USR	United States Representative	CLM	Columbia	005		9	9	Chester	Albert		371
+8/18/2020	DEM	Democrat	USR	United States Representative	DUV	Duval	005		0	0	Chester	Albert		16553
+8/18/2020	DEM	Democrat	USR	United States Representative	GAD	Gadsden	005		25	25	Chester	Albert		1370
+8/18/2020	DEM	Democrat	USR	United States Representative	HAM	Hamilton	005		8	8	Chester	Albert		536
+8/18/2020	DEM	Democrat	USR	United States Representative	JEF	Jefferson	005		16	16	Chester	Albert		314
+8/18/2020	DEM	Democrat	USR	United States Representative	LEO	Leon	005		87	87	Chester	Albert		4540
+8/18/2020	DEM	Democrat	USR	United States Representative	MAD	Madison	005		0	0	Chester	Albert		470
+8/18/2020	DEM	Democrat	USR	United States Representative	BAK	Baker	005		9	9	Holloway	LaShonda	'L.J.'	202
+8/18/2020	DEM	Democrat	USR	United States Representative	CLM	Columbia	005		9	9	Holloway	LaShonda	'L.J.'	118
+8/18/2020	DEM	Democrat	USR	United States Representative	DUV	Duval	005		0	0	Holloway	LaShonda	'L.J.'	12147
+8/18/2020	DEM	Democrat	USR	United States Representative	GAD	Gadsden	005		25	25	Holloway	LaShonda	'L.J.'	981
+8/18/2020	DEM	Democrat	USR	United States Representative	HAM	Hamilton	005		8	8	Holloway	LaShonda	'L.J.'	255
+8/18/2020	DEM	Democrat	USR	United States Representative	JEF	Jefferson	005		16	16	Holloway	LaShonda	'L.J.'	195
+8/18/2020	DEM	Democrat	USR	United States Representative	LEO	Leon	005		87	87	Holloway	LaShonda	'L.J.'	3282
+8/18/2020	DEM	Democrat	USR	United States Representative	MAD	Madison	005		0	0	Holloway	LaShonda	'L.J.'	198
+8/18/2020	DEM	Democrat	USR	United States Representative	BAK	Baker	005		9	9	Lawson	Al		883
+8/18/2020	DEM	Democrat	USR	United States Representative	CLM	Columbia	005		9	9	Lawson	Al		614
+8/18/2020	DEM	Democrat	USR	United States Representative	DUV	Duval	005		0	0	Lawson	Al		19040
+8/18/2020	DEM	Democrat	USR	United States Representative	GAD	Gadsden	005		25	25	Lawson	Al		8897
+8/18/2020	DEM	Democrat	USR	United States Representative	HAM	Hamilton	005		8	8	Lawson	Al		869
+8/18/2020	DEM	Democrat	USR	United States Representative	JEF	Jefferson	005		16	16	Lawson	Al		1841
+8/18/2020	DEM	Democrat	USR	United States Representative	LEO	Leon	005		87	87	Lawson	Al		18997
+8/18/2020	DEM	Democrat	USR	United States Representative	MAD	Madison	005		0	0	Lawson	Al		1682
+8/18/2020	DEM	Democrat	USR	United States Representative	FLA	Flagler	006		0	0	Curtis	Clint		5602
+8/18/2020	DEM	Democrat	USR	United States Representative	LAK	Lake	006		0	0	Curtis	Clint		2722
+8/18/2020	DEM	Democrat	USR	United States Representative	STJ	St. Johns	006		9	9	Curtis	Clint		1472
+8/18/2020	DEM	Democrat	USR	United States Representative	VOL	Volusia	006		125	125	Curtis	Clint		20653
+8/18/2020	DEM	Democrat	USR	United States Representative	FLA	Flagler	006		0	0	Thripp	Richard		4534
+8/18/2020	DEM	Democrat	USR	United States Representative	LAK	Lake	006		0	0	Thripp	Richard		2349
+8/18/2020	DEM	Democrat	USR	United States Representative	STJ	St. Johns	006		9	9	Thripp	Richard		1311
+8/18/2020	DEM	Democrat	USR	United States Representative	VOL	Volusia	006		125	125	Thripp	Richard		20467
+8/18/2020	DEM	Democrat	USR	United States Representative	HIL	Hillsborough	015		109	109	Cohn	Alan		9682
+8/18/2020	DEM	Democrat	USR	United States Representative	LAK	Lake	015		0	0	Cohn	Alan		3427
+8/18/2020	DEM	Democrat	USR	United States Representative	POL	Polk	015		65	65	Cohn	Alan		7970
+8/18/2020	DEM	Democrat	USR	United States Representative	HIL	Hillsborough	015		109	109	Hattersley	Adam		9339
+8/18/2020	DEM	Democrat	USR	United States Representative	LAK	Lake	015		0	0	Hattersley	Adam		2270
+8/18/2020	DEM	Democrat	USR	United States Representative	POL	Polk	015		65	65	Hattersley	Adam		5369
+8/18/2020	DEM	Democrat	USR	United States Representative	HIL	Hillsborough	015		109	109	Philippe	Jesse		7829
+8/18/2020	DEM	Democrat	USR	United States Representative	LAK	Lake	015		0	0	Philippe	Jesse		1976
+8/18/2020	DEM	Democrat	USR	United States Representative	POL	Polk	015		65	65	Philippe	Jesse		3579
+8/18/2020	DEM	Democrat	USR	United States Representative	MRT	Martin	018		28	28	Keith	Pam		9117
+8/18/2020	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	018		254	254	Keith	Pam		22599
+8/18/2020	DEM	Democrat	USR	United States Representative	STL	St. Lucie	018		64	64	Keith	Pam		21205
+8/18/2020	DEM	Democrat	USR	United States Representative	MRT	Martin	018		28	28	Vazquez	Oz		2413
+8/18/2020	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	018		254	254	Vazquez	Oz		5194
+8/18/2020	DEM	Democrat	USR	United States Representative	STL	St. Lucie	018		64	64	Vazquez	Oz		5778
+8/18/2020	DEM	Democrat	USR	United States Representative	CLL	Collier	019		0	0	Banyai	Cindy	Lyn	5605
+8/18/2020	DEM	Democrat	USR	United States Representative	LEE	Lee	019		112	112	Banyai	Cindy	Lyn	23160
+8/18/2020	DEM	Democrat	USR	United States Representative	CLL	Collier	019		0	0	Holden	David		5267
+8/18/2020	DEM	Democrat	USR	United States Representative	LEE	Lee	019		112	112	Holden	David		15945
+8/18/2020	DEM	Democrat	USR	United States Representative	BRO	Broward	020		150	150	Cherfilus-McCormick	Sheila		20418
+8/18/2020	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	020		148	148	Cherfilus-McCormick	Sheila		7413
+8/18/2020	DEM	Democrat	USR	United States Representative	BRO	Broward	020		150	150	Hastings	Alcee	L.	48401
+8/18/2020	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	020		148	148	Hastings	Alcee	L.	14358
+8/18/2020	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	021		411	411	Frankel	Lois		75504
+8/18/2020	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	021		411	411	Weiss	Guido		12308
+8/18/2020	DEM	Democrat	USR	United States Representative	BRO	Broward	023		211	211	Perelman	Jennifer	'Jen'	19920
+8/18/2020	DEM	Democrat	USR	United States Representative	DAD	Miami-Dade	023		22	22	Perelman	Jennifer	'Jen'	1711
+8/18/2020	DEM	Democrat	USR	United States Representative	BRO	Broward	023		211	211	Wasserman Schultz	Debbie		51989
+8/18/2020	DEM	Democrat	USR	United States Representative	DAD	Miami-Dade	023		22	22	Wasserman Schultz	Debbie		3740
+8/18/2020	DEM	Democrat	USR	United States Representative	BRO	Broward	024		33	33	De La Fuente	Ricardo		991
+8/18/2020	DEM	Democrat	USR	United States Representative	DAD	Miami-Dade	024		239	239	De La Fuente	Ricardo		5143
+8/18/2020	DEM	Democrat	USR	United States Representative	BRO	Broward	024		33	33	Lehtola	Sakinah	Lee	750
+8/18/2020	DEM	Democrat	USR	United States Representative	DAD	Miami-Dade	024		239	239	Lehtola	Sakinah	Lee	5517
+8/18/2020	DEM	Democrat	USR	United States Representative	BRO	Broward	024		33	33	Wilson	Frederica		6943
+8/18/2020	DEM	Democrat	USR	United States Representative	DAD	Miami-Dade	024		239	239	Wilson	Frederica		61562
+8/18/2020	DEM	Democrat	STA	State Attorney	ORA	Orange	009		0	0	Barra	Deborah	Lynne	21794
+8/18/2020	DEM	Democrat	STA	State Attorney	OSC	Osceola	009		95	95	Barra	Deborah	Lynne	6757
+8/18/2020	DEM	Democrat	STA	State Attorney	ORA	Orange	009		0	0	Perry	Belvin		37050
+8/18/2020	DEM	Democrat	STA	State Attorney	OSC	Osceola	009		95	95	Perry	Belvin		8682
+8/18/2020	DEM	Democrat	STA	State Attorney	ORA	Orange	009		0	0	Williams	Ryan		6555
+8/18/2020	DEM	Democrat	STA	State Attorney	OSC	Osceola	009		95	95	Williams	Ryan		2602
+8/18/2020	DEM	Democrat	STA	State Attorney	ORA	Orange	009		0	0	Worrell	Monique		53078
+8/18/2020	DEM	Democrat	STA	State Attorney	OSC	Osceola	009		95	95	Worrell	Monique		10785
+8/18/2020	DEM	Democrat	STA	State Attorney	DAD	Miami-Dade	011		860	860	Fernandez Rundle	Katherine		242340
+8/18/2020	DEM	Democrat	STA	State Attorney	DAD	Miami-Dade	011		860	860	Pearson	Melba	V.	153929
+8/18/2020	DEM	Democrat	STA	State Attorney	BRO	Broward	017		577	577	Cannady	David		13404
+8/18/2020	DEM	Democrat	STA	State Attorney	BRO	Broward	017		577	577	Fanning-Williams	Teresa		28463
+8/18/2020	DEM	Democrat	STA	State Attorney	BRO	Broward	017		577	577	Kimok	Joe		41153
+8/18/2020	DEM	Democrat	STA	State Attorney	BRO	Broward	017		577	577	Lewis	James	'Jimmy' Stewart	9885
+8/18/2020	DEM	Democrat	STA	State Attorney	BRO	Broward	017		577	577	McCormack	Justin		8602
+8/18/2020	DEM	Democrat	STA	State Attorney	BRO	Broward	017		577	577	Murphy	Sarahnell		35695
+8/18/2020	DEM	Democrat	STA	State Attorney	BRO	Broward	017		577	577	Pryor	Harold	Fernandez	43730
+8/18/2020	DEM	Democrat	STA	State Attorney	BRO	Broward	017		577	577	Rydell	Joshua	David	25401
+8/18/2020	DEM	Democrat	PUB	Public Defender	FRA	Franklin	002		8	8	Thomas	Andy		1063
+8/18/2020	DEM	Democrat	PUB	Public Defender	GAD	Gadsden	002		25	25	Thomas	Andy		4509
+8/18/2020	DEM	Democrat	PUB	Public Defender	JEF	Jefferson	002		16	16	Thomas	Andy		1346
+8/18/2020	DEM	Democrat	PUB	Public Defender	LEO	Leon	002		152	152	Thomas	Andy		24718
+8/18/2020	DEM	Democrat	PUB	Public Defender	LIB	Liberty	002		0	0	Thomas	Andy		913
+8/18/2020	DEM	Democrat	PUB	Public Defender	WAK	Wakulla	002		12	12	Thomas	Andy		3274
+8/18/2020	DEM	Democrat	PUB	Public Defender	FRA	Franklin	002		8	8	Yeary	Jessica		1647
+8/18/2020	DEM	Democrat	PUB	Public Defender	GAD	Gadsden	002		25	25	Yeary	Jessica		8375
+8/18/2020	DEM	Democrat	PUB	Public Defender	JEF	Jefferson	002		16	16	Yeary	Jessica		2570
+8/18/2020	DEM	Democrat	PUB	Public Defender	LEO	Leon	002		152	152	Yeary	Jessica		46129
+8/18/2020	DEM	Democrat	PUB	Public Defender	LIB	Liberty	002		0	0	Yeary	Jessica		971
+8/18/2020	DEM	Democrat	PUB	Public Defender	WAK	Wakulla	002		12	12	Yeary	Jessica		4732
+8/18/2020	DEM	Democrat	PUB	Public Defender	BRO	Broward	017		577	577	Green	Ruby	Lenora	65894
+8/18/2020	DEM	Democrat	PUB	Public Defender	BRO	Broward	017		577	577	Lynch	Tom		41009
+8/18/2020	DEM	Democrat	PUB	Public Defender	BRO	Broward	017		577	577	Weekes	Gordon		98497
+8/18/2020	DEM	Democrat	STS	State Senator	SEM	Seminole	009		90	90	Ashby	Rick		4313
+8/18/2020	DEM	Democrat	STS	State Senator	VOL	Volusia	009		11	11	Ashby	Rick		555
+8/18/2020	DEM	Democrat	STS	State Senator	SEM	Seminole	009		90	90	Carter	Alexis		5789
+8/18/2020	DEM	Democrat	STS	State Senator	VOL	Volusia	009		11	11	Carter	Alexis		501
+8/18/2020	DEM	Democrat	STS	State Senator	SEM	Seminole	009		90	90	Duncan	H.	Alexander	2159
+8/18/2020	DEM	Democrat	STS	State Senator	VOL	Volusia	009		11	11	Duncan	H.	Alexander	155
+8/18/2020	DEM	Democrat	STS	State Senator	SEM	Seminole	009		90	90	Remy	Guerdy		4315
+8/18/2020	DEM	Democrat	STS	State Senator	VOL	Volusia	009		11	11	Remy	Guerdy		209
+8/18/2020	DEM	Democrat	STS	State Senator	SEM	Seminole	009		90	90	Sigman	Patricia		16447
+8/18/2020	DEM	Democrat	STS	State Senator	VOL	Volusia	009		11	11	Sigman	Patricia		1744
+8/18/2020	DEM	Democrat	STS	State Senator	MRT	Martin	025		28	28	Balderramos Robinson	Corinna		7949
+8/18/2020	DEM	Democrat	STS	State Senator	PAL	Palm Beach	025		40	40	Balderramos Robinson	Corinna		2155
+8/18/2020	DEM	Democrat	STS	State Senator	STL	St. Lucie	025		64	64	Balderramos Robinson	Corinna		19057
+8/18/2020	DEM	Democrat	STS	State Senator	MRT	Martin	025		28	28	Diaz	Reinaldo	Daniel	3255
+8/18/2020	DEM	Democrat	STS	State Senator	PAL	Palm Beach	025		40	40	Diaz	Reinaldo	Daniel	905
+8/18/2020	DEM	Democrat	STS	State Senator	STL	St. Lucie	025		64	64	Diaz	Reinaldo	Daniel	7130
+8/18/2020	DEM	Democrat	STS	State Senator	BRO	Broward	029		42	42	Polsky	Tina		11193
+8/18/2020	DEM	Democrat	STS	State Senator	PAL	Palm Beach	029		166	166	Polsky	Tina		28329
+8/18/2020	DEM	Democrat	STS	State Senator	BRO	Broward	029		42	42	Slosberg	Irving	'Irv'	3445
+8/18/2020	DEM	Democrat	STS	State Senator	PAL	Palm Beach	029		166	166	Slosberg	Irving	'Irv'	14031
+8/18/2020	DEM	Democrat	STS	State Senator	BRO	Broward	033		165	165	Edden	Terry	Ann Williams	18855
+8/18/2020	DEM	Democrat	STS	State Senator	BRO	Broward	033		165	165	Meza	Steven		10007
+8/18/2020	DEM	Democrat	STS	State Senator	BRO	Broward	033		165	165	Pooler	Shelton	A.	5091
+8/18/2020	DEM	Democrat	STS	State Senator	BRO	Broward	033		165	165	Thurston	Perry	E.	44999
+8/18/2020	DEM	Democrat	STS	State Senator	BRO	Broward	035		58	58	Campbell	Daphne		4678
+8/18/2020	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	035		77	77	Campbell	Daphne		5236
+8/18/2020	DEM	Democrat	STS	State Senator	BRO	Broward	035		58	58	Harbin	Wilbur		646
+8/18/2020	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	035		77	77	Harbin	Wilbur		564
+8/18/2020	DEM	Democrat	STS	State Senator	BRO	Broward	035		58	58	Ighodaro	Erhabor		3400
+8/18/2020	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	035		77	77	Ighodaro	Erhabor		6019
+8/18/2020	DEM	Democrat	STS	State Senator	BRO	Broward	035		58	58	Jones	Shevrin	'Shev'	14365
+8/18/2020	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	035		77	77	Jones	Shevrin	'Shev'	13186
+8/18/2020	DEM	Democrat	STS	State Senator	BRO	Broward	035		58	58	Stafford	Cynthia	Ann	2655
+8/18/2020	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	035		77	77	Stafford	Cynthia	Ann	3442
+8/18/2020	DEM	Democrat	STS	State Senator	BRO	Broward	035		58	58	Watson	Barbara		3772
+8/18/2020	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	035		77	77	Watson	Barbara		5695
+8/18/2020	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	039		160	160	Fernandez	Javier	E.	13698
+8/18/2020	DEM	Democrat	STS	State Senator	MON	Monroe	039		0	0	Fernandez	Javier	E.	3893
+8/18/2020	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	039		160	160	Horton-Diaz	Daniel	'Dan'	7488
+8/18/2020	DEM	Democrat	STS	State Senator	MON	Monroe	039		0	0	Horton-Diaz	Daniel	'Dan'	4686
+8/18/2020	DEM	Democrat	STR	State Representative	ESC	Escambia	001		0	0	Mathis	Franscine	C.	8120
+8/18/2020	DEM	Democrat	STR	State Representative	ESC	Escambia	001		0	0	Scott-Shouse	Barbara		3787
+8/18/2020	DEM	Democrat	STR	State Representative	LEO	Leon	009		95	95	Grice-Walker	Arnitta	Jane	6635
+8/18/2020	DEM	Democrat	STR	State Representative	LEO	Leon	009		95	95	Tant	Allison		23088
+8/18/2020	DEM	Democrat	STR	State Representative	DUV	Duval	012		0	0	Blimie	Emmanuel		5647
+8/18/2020	DEM	Democrat	STR	State Representative	DUV	Duval	012		0	0	Chialtas	Spyros	'Speed'	3832
+8/18/2020	DEM	Democrat	STR	State Representative	DUV	Duval	013		0	0	Davis	Tracie		14967
+8/18/2020	DEM	Democrat	STR	State Representative	DUV	Duval	013		0	0	Smith	Cynthia		8040
+8/18/2020	DEM	Democrat	STR	State Representative	DUV	Duval	014		0	0	Daniels	Kimberly		9473
+8/18/2020	DEM	Democrat	STR	State Representative	DUV	Duval	014		0	0	Nixon	Angie		14076
+8/18/2020	DEM	Democrat	STR	State Representative	DUV	Duval	015		0	0	McGovern	Jay		5383
+8/18/2020	DEM	Democrat	STR	State Representative	DUV	Duval	015		0	0	Thomas	Tammyette		8014
+8/18/2020	DEM	Democrat	STR	State Representative	ALA	Alachua	020		31	31	Hayes Hinson	Yvonne		14017
+8/18/2020	DEM	Democrat	STR	State Representative	MRN	Marion	020		0	0	Hayes Hinson	Yvonne		2191
+8/18/2020	DEM	Democrat	STR	State Representative	ALA	Alachua	020		31	31	Long	Rodney		8671
+8/18/2020	DEM	Democrat	STR	State Representative	MRN	Marion	020		0	0	Long	Rodney		2052
+8/18/2020	DEM	Democrat	STR	State Representative	MRN	Marion	023		0	0	Dela Rosa	Cynthia		6866
+8/18/2020	DEM	Democrat	STR	State Representative	MRN	Marion	023		0	0	Rowe	Richard	Allen	2202
+8/18/2020	DEM	Democrat	STR	State Representative	VOL	Volusia	026		44	44	Henry	Patrick		9060
+8/18/2020	DEM	Democrat	STR	State Representative	VOL	Volusia	026		44	44	Smith	Evans	L.	4990
+8/18/2020	DEM	Democrat	STR	State Representative	SEM	Seminole	028		43	43	Baker	Pasha		6533
+8/18/2020	DEM	Democrat	STR	State Representative	SEM	Seminole	028		43	43	Mangold	Lee		6425
+8/18/2020	DEM	Democrat	STR	State Representative	LAK	Lake	031		0	0	Kaplan	Debra	A.	2819
+8/18/2020	DEM	Democrat	STR	State Representative	ORA	Orange	031		0	0	Kaplan	Debra	A.	2642
+8/18/2020	DEM	Democrat	STR	State Representative	LAK	Lake	031		0	0	Stile	Crissy		4130
+8/18/2020	DEM	Democrat	STR	State Representative	ORA	Orange	031		0	0	Stile	Crissy		2493
+8/18/2020	DEM	Democrat	STR	State Representative	LAK	Lake	032		0	0	Dukes	Stephanie	L.	4803
+8/18/2020	DEM	Democrat	STR	State Representative	LAK	Lake	032		0	0	Kero	Linda		3960
+8/18/2020	DEM	Democrat	STR	State Representative	LAK	Lake	032		0	0	Morales	Ryan		4364
+8/18/2020	DEM	Democrat	STR	State Representative	OSC	Osceola	043		41	41	Arrington	Kristen		7367
+8/18/2020	DEM	Democrat	STR	State Representative	OSC	Osceola	043		41	41	Barrio	Alex		5006
+8/18/2020	DEM	Democrat	STR	State Representative	OSC	Osceola	043		41	41	Irizarry	Carlos	L.	2666
+8/18/2020	DEM	Democrat	STR	State Representative	OSC	Osceola	043		41	41	Jeng	Horng	'Andrew'	2643
+8/18/2020	DEM	Democrat	STR	State Representative	OSC	Osceola	043		41	41	Lyles	Tamika		3838
+8/18/2020	DEM	Democrat	STR	State Representative	OSC	Osceola	043		41	41	Rangel	Ricardo		1880
+8/18/2020	DEM	Democrat	STR	State Representative	ORA	Orange	044		0	0	Farrell	Andy		3407
+8/18/2020	DEM	Democrat	STR	State Representative	ORA	Orange	044		0	0	Thompson	Geraldine	F.	14421
+8/18/2020	DEM	Democrat	STR	State Representative	ORA	Orange	048		0	0	Morales	Daisy		4897
+8/18/2020	DEM	Democrat	STR	State Representative	ORA	Orange	048		0	0	Pena	Nelson		1250
+8/18/2020	DEM	Democrat	STR	State Representative	ORA	Orange	048		0	0	Rocha	Julio	L.	1309
+8/18/2020	DEM	Democrat	STR	State Representative	ORA	Orange	048		0	0	Tsonis	Tony		1145
+8/18/2020	DEM	Democrat	STR	State Representative	ORA	Orange	048		0	0	Vilchez Santiago	Samuel		3676
+8/18/2020	DEM	Democrat	STR	State Representative	DES	Desoto	056		15	15	Bautista	Eric		727
+8/18/2020	DEM	Democrat	STR	State Representative	HAR	Hardee	056		0	0	Bautista	Eric		385
+8/18/2020	DEM	Democrat	STR	State Representative	POL	Polk	056		30	30	Bautista	Eric		2184
+8/18/2020	DEM	Democrat	STR	State Representative	DES	Desoto	056		15	15	Davis	James		733
+8/18/2020	DEM	Democrat	STR	State Representative	HAR	Hardee	056		0	0	Davis	James		506
+8/18/2020	DEM	Democrat	STR	State Representative	POL	Polk	056		30	30	Davis	James		3114
+8/18/2020	DEM	Democrat	STR	State Representative	PIN	Pinellas	067		0	0	Douglas	Dawn		7766
+8/18/2020	DEM	Democrat	STR	State Representative	PIN	Pinellas	067		0	0	Henkel	Michael	R. 'Mike'	4729
+8/18/2020	DEM	Democrat	STR	State Representative	HIL	Hillsborough	070		5	5	Bell	Keisha		370
+8/18/2020	DEM	Democrat	STR	State Representative	MAN	Manatee	070		11	11	Bell	Keisha		757
+8/18/2020	DEM	Democrat	STR	State Representative	PIN	Pinellas	070		0	0	Bell	Keisha		5196
+8/18/2020	DEM	Democrat	STR	State Representative	SAR	Sarasota	070		6	6	Bell	Keisha		535
+8/18/2020	DEM	Democrat	STR	State Representative	HIL	Hillsborough	070		5	5	Grimsley	Michelle		375
+8/18/2020	DEM	Democrat	STR	State Representative	MAN	Manatee	070		11	11	Grimsley	Michelle		2248
+8/18/2020	DEM	Democrat	STR	State Representative	PIN	Pinellas	070		0	0	Grimsley	Michelle		2582
+8/18/2020	DEM	Democrat	STR	State Representative	SAR	Sarasota	070		6	6	Grimsley	Michelle		793
+8/18/2020	DEM	Democrat	STR	State Representative	HIL	Hillsborough	070		5	5	Oliver	Mark		422
+8/18/2020	DEM	Democrat	STR	State Representative	MAN	Manatee	070		11	11	Oliver	Mark		754
+8/18/2020	DEM	Democrat	STR	State Representative	PIN	Pinellas	070		0	0	Oliver	Mark		3235
+8/18/2020	DEM	Democrat	STR	State Representative	SAR	Sarasota	070		6	6	Oliver	Mark		322
+8/18/2020	DEM	Democrat	STR	State Representative	HIL	Hillsborough	070		5	5	Rayner	Michele	K.	520
+8/18/2020	DEM	Democrat	STR	State Representative	MAN	Manatee	070		11	11	Rayner	Michele	K.	847
+8/18/2020	DEM	Democrat	STR	State Representative	PIN	Pinellas	070		0	0	Rayner	Michele	K.	6007
+8/18/2020	DEM	Democrat	STR	State Representative	SAR	Sarasota	070		6	6	Rayner	Michele	K.	624
+8/18/2020	DEM	Democrat	STR	State Representative	PAL	Palm Beach	081		71	71	Skidmore	Kelly		10246
+8/18/2020	DEM	Democrat	STR	State Representative	PAL	Palm Beach	081		71	71	Weinstein	Michael	D.	9437
+8/18/2020	DEM	Democrat	STR	State Representative	PAL	Palm Beach	088		86	86	Hardy	Omari		8561
+8/18/2020	DEM	Democrat	STR	State Representative	PAL	Palm Beach	088		86	86	Jacquet	Al		5166
+8/18/2020	DEM	Democrat	STR	State Representative	PAL	Palm Beach	088		86	86	Louis Jeune	Philippe	'Bob'	621
+8/18/2020	DEM	Democrat	STR	State Representative	PAL	Palm Beach	088		86	86	Osta	Sienna		1598
+8/18/2020	DEM	Democrat	STR	State Representative	PAL	Palm Beach	088		86	86	Thomas	Cedrick	A.	3861
+8/18/2020	DEM	Democrat	STR	State Representative	BRO	Broward	094		63	63	DuBose	Bobby		20486
+8/18/2020	DEM	Democrat	STR	State Representative	BRO	Broward	094		63	63	Manley	Elijah		8830
+8/18/2020	DEM	Democrat	STR	State Representative	BRO	Broward	095		50	50	Omphroy	Anika		13010
+8/18/2020	DEM	Democrat	STR	State Representative	BRO	Broward	095		50	50	Rogers-Shaw	Jasmen		12566
+8/18/2020	DEM	Democrat	STR	State Representative	BRO	Broward	096		47	47	Farooqui	Saima		5088
+8/18/2020	DEM	Democrat	STR	State Representative	BRO	Broward	096		47	47	Hunschofsky	Christine		13052
+8/18/2020	DEM	Democrat	STR	State Representative	BRO	Broward	101		56	56	Johnson	Brian	C.	5694
+8/18/2020	DEM	Democrat	STR	State Representative	BRO	Broward	101		56	56	Mohammed	Ashira	A.	5269
+8/18/2020	DEM	Democrat	STR	State Representative	BRO	Broward	101		56	56	Woodson	Marie		6482
+8/18/2020	DEM	Democrat	STR	State Representative	BRO	Broward	102		17	17	Hinds	Dennis		1765
+8/18/2020	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	102		23	23	Hinds	Dennis		963
+8/18/2020	DEM	Democrat	STR	State Representative	BRO	Broward	102		17	17	Robinson	Felicia	Simone	5215
+8/18/2020	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	102		23	23	Robinson	Felicia	Simone	7843
+8/18/2020	DEM	Democrat	STR	State Representative	BRO	Broward	102		17	17	Tisdol	Matthew		2155
+8/18/2020	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	102		23	23	Tisdol	Matthew		3646
+8/18/2020	DEM	Democrat	STR	State Representative	BRO	Broward	102		17	17	Williams	David		2528
+8/18/2020	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	102		23	23	Williams	David		3666
+8/18/2020	DEM	Democrat	STR	State Representative	BRO	Broward	104		41	41	Bartleman	Robin		11248
+8/18/2020	DEM	Democrat	STR	State Representative	BRO	Broward	104		41	41	Wright	Morey		4781
+8/18/2020	DEM	Democrat	STR	State Representative	BRO	Broward	105		3	3	Estevez	Javier		507
+8/18/2020	DEM	Democrat	STR	State Representative	CLL	Collier	105		0	0	Estevez	Javier		835
+8/18/2020	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	105		33	33	Estevez	Javier		1544
+8/18/2020	DEM	Democrat	STR	State Representative	BRO	Broward	105		3	3	Porras	Maureen		1317
+8/18/2020	DEM	Democrat	STR	State Representative	CLL	Collier	105		0	0	Porras	Maureen		1453
+8/18/2020	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	105		33	33	Porras	Maureen		2369
+8/18/2020	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	107		50	50	Benjamin	Christopher		13376
+8/18/2020	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	107		50	50	Harvard	Ulysses	'Buck'	8700
+8/18/2020	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	108		68	68	Bossous	Georges		2717
+8/18/2020	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	108		68	68	Hardemon	Roy		7243
+8/18/2020	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	108		68	68	Joseph	Dotie		13450
+8/18/2020	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	114		73	73	Bado	Jean-Pierre		6617
+8/18/2020	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	114		73	73	Loyzelle	Sue	'Susi'	6319
+8/18/2020	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	117		55	55	Chambliss	Kevin		7391
+8/18/2020	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	117		55	55	Ford	Harold		5089
+8/18/2020	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	117		55	55	Laguerre Hylton	Jessica		7170
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	004	8	8	Baker	Tiffany		706
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	004	25	25	Baker	Tiffany		6416
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	004	16	16	Baker	Tiffany		1222
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	004	152	152	Baker	Tiffany		26425
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	004	0	0	Baker	Tiffany		350
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	004	12	12	Baker	Tiffany		1652
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	004	8	8	Moody	Nina		782
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	004	25	25	Moody	Nina		3120
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	004	16	16	Moody	Nina		1234
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	004	152	152	Moody	Nina		14165
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	004	0	0	Moody	Nina		655
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	004	12	12	Moody	Nina		1865
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	004	8	8	Wall	Amanda	P.	803
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	004	25	25	Wall	Amanda	P.	1372
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	004	16	16	Wall	Amanda	P.	776
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	004	152	152	Wall	Amanda	P.	17807
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	004	0	0	Wall	Amanda	P.	433
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	004	12	12	Wall	Amanda	P.	2763
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	004	8	8	Williams	Pete		625
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	004	25	25	Williams	Pete		2044
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	004	16	16	Williams	Pete		815
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	004	152	152	Williams	Pete		12527
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	004	0	0	Williams	Pete		537
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	004	12	12	Williams	Pete		2171
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	016	8	8	Alvarez	Kevin		865
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	016	25	25	Alvarez	Kevin		3875
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	016	16	16	Alvarez	Kevin		1106
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	016	152	152	Alvarez	Kevin		19874
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	016	0	0	Alvarez	Kevin		662
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	016	12	12	Alvarez	Kevin		2718
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	016	8	8	Dempsey	Angela		2109
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	016	25	25	Dempsey	Angela		9024
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	016	16	16	Dempsey	Angela		2905
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	016	152	152	Dempsey	Angela		51194
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	016	0	0	Dempsey	Angela		1310
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	016	12	12	Dempsey	Angela		5783
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	022	0	0	Angeliadis	George	G.	19184
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	022	0	0	Angeliadis	George	G.	18162
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	022	0	0	Angeliadis	George	G.	28253
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	022	0	0	Angeliadis	George	G.	31439
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	022	0	0	Angeliadis	George	G.	19599
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	022	0	0	Vergara	Pam		19673
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	022	0	0	Vergara	Pam		19727
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	022	0	0	Vergara	Pam		29511
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	022	0	0	Vergara	Pam		32852
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	022	0	0	Vergara	Pam		21044
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	028	111	111	Frayman	Evan		35809
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	028	0	0	Frayman	Evan		112093
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	028	111	111	Vergos	Eva		40233
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	028	0	0	Vergos	Eva		92809
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	044	111	111	Jack	Elizabeth	'Liz'	41084
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	044	0	0	Jack	Elizabeth	'Liz'	108971
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	044	111	111	Ward-Singleton	Ashley		34573
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	044	0	0	Ward-Singleton	Ashley		96054
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	006	0	0	Handy	Anna		11965
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	006	35	35	Handy	Anna		6241
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	006	48	48	Handy	Anna		23534
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	006	125	125	Handy	Anna		43385
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	006	0	0	Orfinger	Mike		12009
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	006	35	35	Orfinger	Mike		6843
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	006	48	48	Orfinger	Mike		30436
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	006	125	125	Orfinger	Mike		56917
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	014	0	0	Anthony	Joan		9035
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	014	35	35	Anthony	Joan		3437
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	014	48	48	Anthony	Joan		15601
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	014	125	125	Anthony	Joan		35959
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	014	0	0	Hilbert	Dan		8267
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	014	35	35	Hilbert	Dan		5977
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	014	48	48	Hilbert	Dan		24657
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	014	125	125	Hilbert	Dan		31299
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	014	0	0	Osterndorf	MaryEllen		6813
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	014	35	35	Osterndorf	MaryEllen		3634
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	014	48	48	Osterndorf	MaryEllen		13540
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	014	125	125	Osterndorf	MaryEllen		31997
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	027	0	0	Rendzio	Bryan	Robert	10381
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	027	35	35	Rendzio	Bryan	Robert	7034
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	027	48	48	Rendzio	Bryan	Robert	29976
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	027	125	125	Rendzio	Bryan	Robert	42389
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	027	0	0	Washington	Alicia		13353
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	027	35	35	Washington	Alicia		6024
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	027	48	48	Washington	Alicia		23639
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	027	125	125	Washington	Alicia		54998
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	001	0	0	Arnold	Rhiannon		88141
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	001	95	95	Arnold	Rhiannon		24615
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	001	0	0	Nix	Mikaela		108122
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	001	95	95	Nix	Mikaela		25477
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	021	0	0	Apte	Alan		99130
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	021	95	95	Apte	Alan		21573
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	021	0	0	Collins	Christy	C.	97942
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	021	95	95	Collins	Christy	C.	29204
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	034	0	0	Kraynick	Mike		116435
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	034	95	95	Kraynick	Mike		29551
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	034	0	0	Singh	Amrita		80748
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	034	95	95	Singh	Amrita		21081
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	039	0	0	Falcone	Vincent		121159
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	039	95	95	Falcone	Vincent		30970
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	039	0	0	Van Valkenburgh	Mark		72997
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	039	95	95	Van Valkenburgh	Mark		19180
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	055	860	860	Adebayo	Olanike	'Nike'	183249
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	055	860	860	Perkins	Joe		190367
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	057	860	860	Cabarga	Carmen		219664
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	057	860	860	Vereen	Roderick	'Rod'	153999
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	065	860	860	Martinez-Scanziani	Denise		193019
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	065	860	860	Rebull	Thomas	J.	183584
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	067	860	860	Hansen	Marcia	Giordano	167255
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	067	860	860	Ruiz	Mavel		204571
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	075	860	860	Aponte	Rosy	Anette	210165
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	075	860	860	Tunis	Dava	J.	160348
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	009	390	390	Ayers	Kelly		108474
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	009	390	390	Schifino	John		106967
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	019	390	390	Ivanov	Ashley		79666
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	019	390	390	Scionti	Michael	J.	134722
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	030	390	390	Alvarez	Danny		97414
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	030	390	390	Daniel	Helene		116790
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	031	390	390	Bonavita	Scott		46520
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	031	390	390	Dolgin	Gary		50992
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	031	390	390	Green	Greg		113618
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	039	390	390	DePaul	Wendy	Joy	109996
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	039	390	390	Stephens	Steven	Scott	101287
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	016	872	872	Gillen	Jeffrey		150716
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	016	872	872	Johnson	Henry	Quinn	93150
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	030	872	872	Goodman	Jaimie		89385
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	030	872	872	Myron	Adam		77861
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	030	872	872	Siperstein	Caryn		77434
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	016	577	577	Bailey	Dennis	Daniel	106389
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	016	577	577	Logan	Abbe	Sheila Rifkin	68280
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	016	577	577	Odom	George		117436
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	018	577	577	Englander Henning	Patti		191621
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	018	577	577	Padowitz	Kristin	Weisberg	98837
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	027	577	577	Chaiken-Weiss	Meredith		92216
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	027	577	577	Destry	Matthew	Isaac	44307
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	027	577	577	Ledee	Frank	David	152751
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	030	577	577	Cohen	Dale	C.	149145
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	030	577	577	Richards	Ian		142028
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	050	577	577	Alley	Linda	A.	159737
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	050	577	577	Hawkins	Vegina	'Gina'	126175
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	015	171	171	Ballou	Tesha	Scolaro	68260
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	015	90	90	Ballou	Tesha	Scolaro	51411
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	015	171	171	Bross	A.	Michael	46085
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	015	90	90	Bross	A.	Michael	23211
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	018	171	171	Henderson	Steve		82901
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	018	90	90	Henderson	Steve		54628
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	018	171	171	Peacock	Michael		30057
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	018	90	90	Peacock	Michael		18851
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	021	171	171	Goerner	Donna	M.	66908
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	021	90	90	Goerner	Donna	M.	44732
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	021	171	171	Jones	Marc		45555
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	021	90	90	Jones	Marc		30257
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	025	171	171	Bookhardt	Sam		80318
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	025	90	90	Bookhardt	Sam		51444
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	025	171	171	Hotusing	Oscar	A.	32339
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	025	90	90	Hotusing	Oscar	A.	21999
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	011	35	35	Griffin	Victoria	L.	24732
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	011	28	28	Griffin	Victoria	L.	22741
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	011	11	11	Griffin	Victoria	L.	3195
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	011	64	64	Griffin	Victoria	L.	35217
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	011	35	35	Larsen	Louis	'Lou'	11283
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	011	28	28	Larsen	Louis	'Lou'	13001
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	011	11	11	Larsen	Louis	'Lou'	2472
+8/18/2020	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	011	64	64	Larsen	Louis	'Lou'	16564

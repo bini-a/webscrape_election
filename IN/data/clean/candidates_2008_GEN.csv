@@ -1,0 +1,80 @@
+"","District_orig","County","election_id","office_id","candidate_id","candidate_name","first_name","last_name","prefix","suffix","gender","race","ethinicity","age","incumbent"
+"1","Statewide","Bartholomew","IN_2008-11-04_GEN","AG_Bartholomew_1_1",NA,"Linda Pence","Linda","Pence",NA,NA,NA,NA,NA,NA,NA
+"2","Statewide","Blackford","IN_2008-11-04_GEN","AG_Blackford_1_1",NA,"Linda Pence","Linda","Pence",NA,NA,NA,NA,NA,NA,NA
+"3","Statewide","Cass","IN_2008-11-04_GEN","AG_Cass_1_1",NA,"Linda Pence","Linda","Pence",NA,NA,NA,NA,NA,NA,NA
+"4","Statewide","Clark","IN_2008-11-04_GEN","AG_Clark_1_1",NA,"Linda Pence","Linda","Pence",NA,NA,NA,NA,NA,NA,NA
+"5","Statewide","Delaware","IN_2008-11-04_GEN","AG_Delaware_1_1",NA,"Linda Pence","Linda","Pence",NA,NA,NA,NA,NA,NA,NA
+"6","Statewide","Adams","IN_2008-11-04_GEN","AG_Adams_1_1",NA,"Linda Pence","Linda","Pence",NA,NA,NA,NA,NA,NA,NA
+"7","Statewide","Clay","IN_2008-11-04_GEN","AG_Clay_1_1",NA,"Linda Pence","Linda","Pence",NA,NA,NA,NA,NA,NA,NA
+"8","Statewide","Clinton","IN_2008-11-04_GEN","AG_Clinton_1_1",NA,"Linda Pence","Linda","Pence",NA,NA,NA,NA,NA,NA,NA
+"9","Statewide","Dearborn","IN_2008-11-04_GEN","AG_Dearborn_1_1",NA,"Linda Pence","Linda","Pence",NA,NA,NA,NA,NA,NA,NA
+"10","Statewide","DeKalb","IN_2008-11-04_GEN","AG_DeKalb_1_1",NA,"Linda Pence","Linda","Pence",NA,NA,NA,NA,NA,NA,NA
+"11","Statewide","Elkhart","IN_2008-11-04_GEN","AG_Elkhart_1_1",NA,"Linda Pence","Linda","Pence",NA,NA,NA,NA,NA,NA,NA
+"12","Statewide","Allen","IN_2008-11-04_GEN","AG_Allen_1_1",NA,"Linda Pence","Linda","Pence",NA,NA,NA,NA,NA,NA,NA
+"13","Statewide","Boone","IN_2008-11-04_GEN","AG_Boone_1_1",NA,"Linda Pence","Linda","Pence",NA,NA,NA,NA,NA,NA,NA
+"14","Statewide","Crawford","IN_2008-11-04_GEN","AG_Crawford_1_1",NA,"Linda Pence","Linda","Pence",NA,NA,NA,NA,NA,NA,NA
+"15","Statewide","Benton","IN_2008-11-04_GEN","AG_Benton_1_1",NA,"Linda Pence","Linda","Pence",NA,NA,NA,NA,NA,NA,NA
+"16","Statewide","Brown","IN_2008-11-04_GEN","AG_Brown_1_1",NA,"Linda Pence","Linda","Pence",NA,NA,NA,NA,NA,NA,NA
+"17","Statewide","Carroll","IN_2008-11-04_GEN","AG_Carroll_1_1",NA,"Linda Pence","Linda","Pence",NA,NA,NA,NA,NA,NA,NA
+"18","Statewide","Daviess","IN_2008-11-04_GEN","AG_Daviess_1_1",NA,"Linda Pence","Linda","Pence",NA,NA,NA,NA,NA,NA,NA
+"19","Statewide","Decatur","IN_2008-11-04_GEN","AG_Decatur_1_1",NA,"Linda Pence","Linda","Pence",NA,NA,NA,NA,NA,NA,NA
+"20","Statewide","Dubois","IN_2008-11-04_GEN","AG_Dubois_1_1",NA,"Linda Pence","Linda","Pence",NA,NA,NA,NA,NA,NA,NA
+"21","Statewide","Adams","IN_2008-11-04_GEN","AG_Adams_1_1",NA,"Greg Zoeller","Greg","Zoeller",NA,NA,NA,NA,NA,NA,NA
+"22","Statewide","Clinton","IN_2008-11-04_GEN","AG_Clinton_1_1",NA,"Greg Zoeller","Greg","Zoeller",NA,NA,NA,NA,NA,NA,NA
+"23","Statewide","Crawford","IN_2008-11-04_GEN","AG_Crawford_1_1",NA,"Greg Zoeller","Greg","Zoeller",NA,NA,NA,NA,NA,NA,NA
+"24","Statewide","Boone","IN_2008-11-04_GEN","AG_Boone_1_1",NA,"Greg Zoeller","Greg","Zoeller",NA,NA,NA,NA,NA,NA,NA
+"25","Statewide","Clay","IN_2008-11-04_GEN","AG_Clay_1_1",NA,"Greg Zoeller","Greg","Zoeller",NA,NA,NA,NA,NA,NA,NA
+"26","Statewide","Dearborn","IN_2008-11-04_GEN","AG_Dearborn_1_1",NA,"Greg Zoeller","Greg","Zoeller",NA,NA,NA,NA,NA,NA,NA
+"27","Statewide","Decatur","IN_2008-11-04_GEN","AG_Decatur_1_1",NA,"Greg Zoeller","Greg","Zoeller",NA,NA,NA,NA,NA,NA,NA
+"28","Statewide","DeKalb","IN_2008-11-04_GEN","AG_DeKalb_1_1",NA,"Greg Zoeller","Greg","Zoeller",NA,NA,NA,NA,NA,NA,NA
+"29","Statewide","Elkhart","IN_2008-11-04_GEN","AG_Elkhart_1_1",NA,"Greg Zoeller","Greg","Zoeller",NA,NA,NA,NA,NA,NA,NA
+"30","Statewide","Allen","IN_2008-11-04_GEN","AG_Allen_1_1",NA,"Greg Zoeller","Greg","Zoeller",NA,NA,NA,NA,NA,NA,NA
+"31","Statewide","Bartholomew","IN_2008-11-04_GEN","AG_Bartholomew_1_1",NA,"Greg Zoeller","Greg","Zoeller",NA,NA,NA,NA,NA,NA,NA
+"32","Statewide","Benton","IN_2008-11-04_GEN","AG_Benton_1_1",NA,"Greg Zoeller","Greg","Zoeller",NA,NA,NA,NA,NA,NA,NA
+"33","Statewide","Clark","IN_2008-11-04_GEN","AG_Clark_1_1",NA,"Greg Zoeller","Greg","Zoeller",NA,NA,NA,NA,NA,NA,NA
+"34","Statewide","Blackford","IN_2008-11-04_GEN","AG_Blackford_1_1",NA,"Greg Zoeller","Greg","Zoeller",NA,NA,NA,NA,NA,NA,NA
+"35","Statewide","Brown","IN_2008-11-04_GEN","AG_Brown_1_1",NA,"Greg Zoeller","Greg","Zoeller",NA,NA,NA,NA,NA,NA,NA
+"36","Statewide","Carroll","IN_2008-11-04_GEN","AG_Carroll_1_1",NA,"Greg Zoeller","Greg","Zoeller",NA,NA,NA,NA,NA,NA,NA
+"37","Statewide","Cass","IN_2008-11-04_GEN","AG_Cass_1_1",NA,"Greg Zoeller","Greg","Zoeller",NA,NA,NA,NA,NA,NA,NA
+"38","Statewide","Daviess","IN_2008-11-04_GEN","AG_Daviess_1_1",NA,"Greg Zoeller","Greg","Zoeller",NA,NA,NA,NA,NA,NA,NA
+"39","Statewide","Delaware","IN_2008-11-04_GEN","AG_Delaware_1_1",NA,"Greg Zoeller","Greg","Zoeller",NA,NA,NA,NA,NA,NA,NA
+"40","Statewide","Dubois","IN_2008-11-04_GEN","AG_Dubois_1_1",NA,"Greg Zoeller","Greg","Zoeller",NA,NA,NA,NA,NA,NA,NA
+"41","Allen (38th District)","Allen","IN_2008-11-04_GEN","TC2_Allen_38_1",NA,"Thomas J. Felts","Thomas","Felts",NA,NA,NA,NA,NA,NA,NA
+"42","Benton (76th Circuit) ","Benton","IN_2008-11-04_GEN","TC2_Benton_76_1",NA,"Rex W. Kepner","Rex","Kepner",NA,NA,NA,NA,NA,NA,NA
+"43","Clark (4th Circt), No. 1","Clark","IN_2008-11-04_GEN","TC2_Clark_4_1",NA,"Dan Moore","Dan","Moore",NA,NA,NA,NA,NA,NA,NA
+"44","Clark (4th Circt), No. 1","Clark","IN_2008-11-04_GEN","TC2_Clark_4_1",NA,"Abraham (Abe) Navarro","Abraham","Navarro",NA,NA,NA,NA,NA,NA,NA
+"45","Adams County ","Adams","IN_2008-11-04_GEN","TC1_Adams_1_1",NA,"Thomas Wade Sheets","Thomas","Sheets",NA,NA,NA,NA,NA,NA,NA
+"46","Adams County ","Adams","IN_2008-11-04_GEN","TC1_Adams_1_1",NA,"Patrick R. Miller","Patrick","Miller",NA,NA,NA,NA,NA,NA,NA
+"47","Allen Fam.Rel. (Heath)","Allen","IN_2008-11-04_GEN","TC1_Allen_1_1",NA,"Dan Heath","Dan","Heath",NA,NA,NA,NA,NA,NA,NA
+"48","Allen Civil (Levine)","Allen","IN_2008-11-04_GEN","TC1_Allen_1_1",NA,"Stanley A. Levine","Stanley","Levine",NA,NA,NA,NA,NA,NA,NA
+"49","Allen Criminal (Gull)","Allen","IN_2008-11-04_GEN","TC1_Allen_1_1",NA,"Fran C. Gull","Fran","Gull",NA,NA,NA,NA,NA,NA,NA
+"50","Allen Criminal (Surbeck)","Allen","IN_2008-11-04_GEN","TC1_Allen_1_1",NA,"John F. Surbeck, Jr.","John","Surbeck",NA,NA,NA,NA,NA,NA,NA
+"51","Allen Family/Sims","Allen","IN_2008-11-04_GEN","TC1_Allen_1_1",NA,"Stephen M. Sims","Stephen","Sims",NA,NA,NA,NA,NA,NA,NA
+"52","Bartholomew County, No. 2","Bartholomew","IN_2008-11-04_GEN","TC1_Bartholomew_1_2",NA,"Kathleen (Kitty) Tighe Coriden","Kathleen","Coriden",NA,NA,NA,NA,NA,NA,NA
+"53","Bartholomew County, No. 2","Bartholomew","IN_2008-11-04_GEN","TC1_Bartholomew_1_2",NA,"Roderick D. McGillivray","Roderick","McGillivray",NA,NA,NA,NA,NA,NA,NA
+"54","Daviess (49th Circuit)","Daviess","IN_2008-11-04_GEN","TC2_Daviess_49_1",NA,"Jeffrey R. (Jeff) Norris","Jeffrey","Norris",NA,NA,NA,NA,NA,NA,NA
+"55","Daviess (49th Circuit)","Daviess","IN_2008-11-04_GEN","TC2_Daviess_49_1",NA,"Gregory A. Smith","Gregory","Smith",NA,NA,NA,NA,NA,NA,NA
+"56","Boone County, No. 1","Boone","IN_2008-11-04_GEN","TC1_Boone_1_1",NA,"Matt Kincaid","Matt","Kincaid",NA,NA,NA,NA,NA,NA,NA
+"57","Boone County, No. 2","Boone","IN_2008-11-04_GEN","TC1_Boone_1_2",NA,"Rebecca S. McClure","Rebecca","McClure",NA,NA,NA,NA,NA,NA,NA
+"58","Delaware Ct. 3(46th Cir.)","Delaware","IN_2008-11-04_GEN","TC2_Delaware_46_3",NA,"Linda Ralu Wolf","Linda","Wolf",NA,NA,NA,NA,NA,NA,NA
+"59","Delaware Ct. 3(46th Cir.)","Delaware","IN_2008-11-04_GEN","TC2_Delaware_46_3",NA,"Mark A. Delgado","Mark","Delgado",NA,NA,NA,NA,NA,NA,NA
+"60","Delaware Ct. 4(46th Cir.)","Delaware","IN_2008-11-04_GEN","TC2_Delaware_46_4",NA,"Diane M. Frye","Diane","Frye",NA,NA,NA,NA,NA,NA,NA
+"61","Delaware Ct. 4(46th Cir.)","Delaware","IN_2008-11-04_GEN","TC2_Delaware_46_4",NA,"John M. Feick","John","Feick",NA,NA,NA,NA,NA,NA,NA
+"62","Delaware Ct. 5(46th Cir.)","Delaware","IN_2008-11-04_GEN","TC2_Delaware_46_5",NA,"Thomas A. Cannon, Jr.","Thomas","Cannon",NA,NA,NA,NA,NA,NA,NA
+"63","Delaware Ct. 5(46th Cir.)","Delaware","IN_2008-11-04_GEN","TC2_Delaware_46_5",NA,"Chris M. Teagle","Chris","Teagle",NA,NA,NA,NA,NA,NA,NA
+"64","Carroll County","Carroll","IN_2008-11-04_GEN","TC1_Carroll_1_1",NA,"Jeffrey R. Smith","Jeffrey","Smith",NA,NA,NA,NA,NA,NA,NA
+"65","Dubois (57th Circuit)","Dubois","IN_2008-11-04_GEN","TC2_Dubois_57_1",NA,"William E. Weikert","William","Weikert",NA,NA,NA,NA,NA,NA,NA
+"66","Clark County, No. 2","Clark","IN_2008-11-04_GEN","TC1_Clark_1_2",NA,"Jerome F. (Jerry) Jacobi","Jerome","Jacobi",NA,NA,NA,NA,NA,NA,NA
+"67","Clark County, No. 3","Clark","IN_2008-11-04_GEN","TC1_Clark_1_3",NA,"Joseph Joe P.  Weber","Joseph","Weber",NA,NA,NA,NA,NA,NA,NA
+"68","Clinton County","Clinton","IN_2008-11-04_GEN","TC1_Clinton_1_1",NA,"Louis D. Evans","Louis","Evans",NA,NA,NA,NA,NA,NA,NA
+"69","Clinton County","Clinton","IN_2008-11-04_GEN","TC1_Clinton_1_1",NA,"Justin Hunter","Justin","Hunter",NA,NA,NA,NA,NA,NA,NA
+"70","Daviess County","Daviess","IN_2008-11-04_GEN","TC1_Daviess_1_1",NA,"Dean A. Sobecki","Dean","Sobecki",NA,NA,NA,NA,NA,NA,NA
+"71","Dearborn County No. 1","Dearborn","IN_2008-11-04_GEN","TC1_Dearborn_1_1",NA,"Barbara A. Wyly","Barbara","Wyly",NA,NA,NA,NA,NA,NA,NA
+"72","Dearborn County No. 1","Dearborn","IN_2008-11-04_GEN","TC1_Dearborn_1_1",NA,"Jonathan N. Cleary","Jonathan","Cleary",NA,NA,NA,NA,NA,NA,NA
+"73","Decatur County","Decatur","IN_2008-11-04_GEN","TC1_Decatur_1_1",NA,"Matthew D. Bailey","Matthew","Bailey",NA,NA,NA,NA,NA,NA,NA
+"74","DeKalb County, Court 1","DeKalb","IN_2008-11-04_GEN","TC1_DeKalb_1_1",NA,"Kevin P. Wallace","Kevin","Wallace",NA,NA,NA,NA,NA,NA,NA
+"75","Elkhart County, No. 1","Elkhart","IN_2008-11-04_GEN","TC1_Elkhart_1_1",NA,"Evan S. Roberts","Evan","Roberts",NA,NA,NA,NA,NA,NA,NA
+"76","Elkhart County, No. 3","Elkhart","IN_2008-11-04_GEN","TC1_Elkhart_1_3",NA,"George W. Biddlecome","George","Biddlecome",NA,NA,NA,NA,NA,NA,NA
+"77","Elkhart County, No. 4","Elkhart","IN_2008-11-04_GEN","TC1_Elkhart_1_4",NA,"Olga H. Stickel","Olga","Stickel",NA,NA,NA,NA,NA,NA,NA
+"78","Elkhart County, No. 5","Elkhart","IN_2008-11-04_GEN","TC1_Elkhart_1_5",NA,"Fay Schwartz","Fay","Schwartz",NA,NA,NA,NA,NA,NA,NA
+"79","Elkhart County, No. 5","Elkhart","IN_2008-11-04_GEN","TC1_Elkhart_1_5",NA,"Charles C. Wicks","Charles","Wicks",NA,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,1680 @@
+ElectionDate	PartyCode	PartyName	RaceCode	OfficeDesc	CountyCode	CountyName	Juris1num	Juris2num	Precincts	PrecinctsReporting	CanNameLast	CanNameFirst	CanNameMiddle	CanVotes
+9/7/1982	DEM	Democrat	USR	United States Representative	BAK	Baker	002		0	0	Cox	Allen		149
+9/7/1982	DEM	Democrat	USR	United States Representative	BAY	Bay	002		0	0	Cox	Allen		117
+9/7/1982	DEM	Democrat	USR	United States Representative	BRA	Bradford	002		0	0	Cox	Allen		332
+9/7/1982	DEM	Democrat	USR	United States Representative	CAL	Calhoun	002		0	0	Cox	Allen		439
+9/7/1982	DEM	Democrat	USR	United States Representative	CLA	Clay	002		0	0	Cox	Allen		252
+9/7/1982	DEM	Democrat	USR	United States Representative	CLM	Columbia	002		0	0	Cox	Allen		643
+9/7/1982	DEM	Democrat	USR	United States Representative	DIX	Dixie	002		0	0	Cox	Allen		286
+9/7/1982	DEM	Democrat	USR	United States Representative	FRA	Franklin	002		0	0	Cox	Allen		362
+9/7/1982	DEM	Democrat	USR	United States Representative	GAD	Gadsden	002		0	0	Cox	Allen		2180
+9/7/1982	DEM	Democrat	USR	United States Representative	GIL	Gilchrist	002		0	0	Cox	Allen		148
+9/7/1982	DEM	Democrat	USR	United States Representative	GUL	Gulf	002		0	0	Cox	Allen		311
+9/7/1982	DEM	Democrat	USR	United States Representative	HAM	Hamilton	002		0	0	Cox	Allen		243
+9/7/1982	DEM	Democrat	USR	United States Representative	HOL	Holmes	002		0	0	Cox	Allen		446
+9/7/1982	DEM	Democrat	USR	United States Representative	JAC	Jackson	002		0	0	Cox	Allen		1334
+9/7/1982	DEM	Democrat	USR	United States Representative	JEF	Jefferson	002		0	0	Cox	Allen		500
+9/7/1982	DEM	Democrat	USR	United States Representative	LAF	Lafayette	002		0	0	Cox	Allen		150
+9/7/1982	DEM	Democrat	USR	United States Representative	LEO	Leon	002		0	0	Cox	Allen		7501
+9/7/1982	DEM	Democrat	USR	United States Representative	LEV	Levy	002		0	0	Cox	Allen		266
+9/7/1982	DEM	Democrat	USR	United States Representative	LIB	Liberty	002		0	0	Cox	Allen		314
+9/7/1982	DEM	Democrat	USR	United States Representative	MAD	Madison	002		0	0	Cox	Allen		737
+9/7/1982	DEM	Democrat	USR	United States Representative	SUW	Suwannee	002		0	0	Cox	Allen		407
+9/7/1982	DEM	Democrat	USR	United States Representative	TAY	Taylor	002		0	0	Cox	Allen		534
+9/7/1982	DEM	Democrat	USR	United States Representative	UNI	Union	002		0	0	Cox	Allen		196
+9/7/1982	DEM	Democrat	USR	United States Representative	WAK	Wakulla	002		0	0	Cox	Allen		656
+9/7/1982	DEM	Democrat	USR	United States Representative	WAS	Washington	002		0	0	Cox	Allen		461
+9/7/1982	DEM	Democrat	USR	United States Representative	BAK	Baker	002		0	0	Fuqua	Don		1764
+9/7/1982	DEM	Democrat	USR	United States Representative	BAY	Bay	002		0	0	Fuqua	Don		1001
+9/7/1982	DEM	Democrat	USR	United States Representative	BRA	Bradford	002		0	0	Fuqua	Don		2705
+9/7/1982	DEM	Democrat	USR	United States Representative	CAL	Calhoun	002		0	0	Fuqua	Don		2291
+9/7/1982	DEM	Democrat	USR	United States Representative	CLA	Clay	002		0	0	Fuqua	Don		1269
+9/7/1982	DEM	Democrat	USR	United States Representative	CLM	Columbia	002		0	0	Fuqua	Don		5147
+9/7/1982	DEM	Democrat	USR	United States Representative	DIX	Dixie	002		0	0	Fuqua	Don		2150
+9/7/1982	DEM	Democrat	USR	United States Representative	FRA	Franklin	002		0	0	Fuqua	Don		1952
+9/7/1982	DEM	Democrat	USR	United States Representative	GAD	Gadsden	002		0	0	Fuqua	Don		4978
+9/7/1982	DEM	Democrat	USR	United States Representative	GIL	Gilchrist	002		0	0	Fuqua	Don		1713
+9/7/1982	DEM	Democrat	USR	United States Representative	GUL	Gulf	002		0	0	Fuqua	Don		2654
+9/7/1982	DEM	Democrat	USR	United States Representative	HAM	Hamilton	002		0	0	Fuqua	Don		1801
+9/7/1982	DEM	Democrat	USR	United States Representative	HOL	Holmes	002		0	0	Fuqua	Don		2802
+9/7/1982	DEM	Democrat	USR	United States Representative	JAC	Jackson	002		0	0	Fuqua	Don		5103
+9/7/1982	DEM	Democrat	USR	United States Representative	JEF	Jefferson	002		0	0	Fuqua	Don		1922
+9/7/1982	DEM	Democrat	USR	United States Representative	LAF	Lafayette	002		0	0	Fuqua	Don		1277
+9/7/1982	DEM	Democrat	USR	United States Representative	LEO	Leon	002		0	0	Fuqua	Don		16264
+9/7/1982	DEM	Democrat	USR	United States Representative	LEV	Levy	002		0	0	Fuqua	Don		3568
+9/7/1982	DEM	Democrat	USR	United States Representative	LIB	Liberty	002		0	0	Fuqua	Don		1128
+9/7/1982	DEM	Democrat	USR	United States Representative	MAD	Madison	002		0	0	Fuqua	Don		3003
+9/7/1982	DEM	Democrat	USR	United States Representative	SUW	Suwannee	002		0	0	Fuqua	Don		3411
+9/7/1982	DEM	Democrat	USR	United States Representative	TAY	Taylor	002		0	0	Fuqua	Don		2256
+9/7/1982	DEM	Democrat	USR	United States Representative	UNI	Union	002		0	0	Fuqua	Don		1220
+9/7/1982	DEM	Democrat	USR	United States Representative	WAK	Wakulla	002		0	0	Fuqua	Don		2429
+9/7/1982	DEM	Democrat	USR	United States Representative	WAS	Washington	002		0	0	Fuqua	Don		2941
+9/7/1982	DEM	Democrat	USR	United States Representative	BAK	Baker	002		0	0	Skinner	Sherrill	'Pete'	1000
+9/7/1982	DEM	Democrat	USR	United States Representative	BAY	Bay	002		0	0	Skinner	Sherrill	'Pete'	76
+9/7/1982	DEM	Democrat	USR	United States Representative	BRA	Bradford	002		0	0	Skinner	Sherrill	'Pete'	905
+9/7/1982	DEM	Democrat	USR	United States Representative	CAL	Calhoun	002		0	0	Skinner	Sherrill	'Pete'	583
+9/7/1982	DEM	Democrat	USR	United States Representative	CLA	Clay	002		0	0	Skinner	Sherrill	'Pete'	570
+9/7/1982	DEM	Democrat	USR	United States Representative	CLM	Columbia	002		0	0	Skinner	Sherrill	'Pete'	2301
+9/7/1982	DEM	Democrat	USR	United States Representative	DIX	Dixie	002		0	0	Skinner	Sherrill	'Pete'	656
+9/7/1982	DEM	Democrat	USR	United States Representative	FRA	Franklin	002		0	0	Skinner	Sherrill	'Pete'	323
+9/7/1982	DEM	Democrat	USR	United States Representative	GAD	Gadsden	002		0	0	Skinner	Sherrill	'Pete'	919
+9/7/1982	DEM	Democrat	USR	United States Representative	GIL	Gilchrist	002		0	0	Skinner	Sherrill	'Pete'	543
+9/7/1982	DEM	Democrat	USR	United States Representative	GUL	Gulf	002		0	0	Skinner	Sherrill	'Pete'	409
+9/7/1982	DEM	Democrat	USR	United States Representative	HAM	Hamilton	002		0	0	Skinner	Sherrill	'Pete'	654
+9/7/1982	DEM	Democrat	USR	United States Representative	HOL	Holmes	002		0	0	Skinner	Sherrill	'Pete'	1009
+9/7/1982	DEM	Democrat	USR	United States Representative	JAC	Jackson	002		0	0	Skinner	Sherrill	'Pete'	1530
+9/7/1982	DEM	Democrat	USR	United States Representative	JEF	Jefferson	002		0	0	Skinner	Sherrill	'Pete'	739
+9/7/1982	DEM	Democrat	USR	United States Representative	LAF	Lafayette	002		0	0	Skinner	Sherrill	'Pete'	492
+9/7/1982	DEM	Democrat	USR	United States Representative	LEO	Leon	002		0	0	Skinner	Sherrill	'Pete'	3377
+9/7/1982	DEM	Democrat	USR	United States Representative	LEV	Levy	002		0	0	Skinner	Sherrill	'Pete'	1079
+9/7/1982	DEM	Democrat	USR	United States Representative	LIB	Liberty	002		0	0	Skinner	Sherrill	'Pete'	444
+9/7/1982	DEM	Democrat	USR	United States Representative	MAD	Madison	002		0	0	Skinner	Sherrill	'Pete'	796
+9/7/1982	DEM	Democrat	USR	United States Representative	SUW	Suwannee	002		0	0	Skinner	Sherrill	'Pete'	1576
+9/7/1982	DEM	Democrat	USR	United States Representative	TAY	Taylor	002		0	0	Skinner	Sherrill	'Pete'	745
+9/7/1982	DEM	Democrat	USR	United States Representative	UNI	Union	002		0	0	Skinner	Sherrill	'Pete'	739
+9/7/1982	DEM	Democrat	USR	United States Representative	WAK	Wakulla	002		0	0	Skinner	Sherrill	'Pete'	668
+9/7/1982	DEM	Democrat	USR	United States Representative	WAS	Washington	002		0	0	Skinner	Sherrill	'Pete'	760
+9/7/1982	DEM	Democrat	USR	United States Representative	CLA	Clay	004		0	0	Chappell	Bill		3433
+9/7/1982	DEM	Democrat	USR	United States Representative	DUV	Duval	004		0	0	Chappell	Bill		7364
+9/7/1982	DEM	Democrat	USR	United States Representative	FLA	Flagler	004		0	0	Chappell	Bill		1089
+9/7/1982	DEM	Democrat	USR	United States Representative	PUT	Putnam	004		0	0	Chappell	Bill		3605
+9/7/1982	DEM	Democrat	USR	United States Representative	STJ	St. Johns	004		0	0	Chappell	Bill		3438
+9/7/1982	DEM	Democrat	USR	United States Representative	VOL	Volusia	004		0	0	Chappell	Bill		14234
+9/7/1982	DEM	Democrat	USR	United States Representative	CLA	Clay	004		0	0	Davis	David	Lee	438
+9/7/1982	DEM	Democrat	USR	United States Representative	DUV	Duval	004		0	0	Davis	David	Lee	580
+9/7/1982	DEM	Democrat	USR	United States Representative	FLA	Flagler	004		0	0	Davis	David	Lee	212
+9/7/1982	DEM	Democrat	USR	United States Representative	PUT	Putnam	004		0	0	Davis	David	Lee	465
+9/7/1982	DEM	Democrat	USR	United States Representative	STJ	St. Johns	004		0	0	Davis	David	Lee	489
+9/7/1982	DEM	Democrat	USR	United States Representative	VOL	Volusia	004		0	0	Davis	David	Lee	3005
+9/7/1982	DEM	Democrat	USR	United States Representative	CLA	Clay	004		0	0	Hughes	Reid		2232
+9/7/1982	DEM	Democrat	USR	United States Representative	DUV	Duval	004		0	0	Hughes	Reid		5795
+9/7/1982	DEM	Democrat	USR	United States Representative	FLA	Flagler	004		0	0	Hughes	Reid		1099
+9/7/1982	DEM	Democrat	USR	United States Representative	PUT	Putnam	004		0	0	Hughes	Reid		2523
+9/7/1982	DEM	Democrat	USR	United States Representative	STJ	St. Johns	004		0	0	Hughes	Reid		3213
+9/7/1982	DEM	Democrat	USR	United States Representative	VOL	Volusia	004		0	0	Hughes	Reid		16548
+9/7/1982	DEM	Democrat	USR	United States Representative	HIL	Hillsborough	009		0	0	Betz	Gary	L.	1312
+9/7/1982	DEM	Democrat	USR	United States Representative	PAS	Pasco	009		0	0	Betz	Gary	L.	3472
+9/7/1982	DEM	Democrat	USR	United States Representative	PIN	Pinellas	009		0	0	Betz	Gary	L.	2611
+9/7/1982	DEM	Democrat	USR	United States Representative	HIL	Hillsborough	009		0	0	Kotvas	Joc		1531
+9/7/1982	DEM	Democrat	USR	United States Representative	PAS	Pasco	009		0	0	Kotvas	Joc		2851
+9/7/1982	DEM	Democrat	USR	United States Representative	PIN	Pinellas	009		0	0	Kotvas	Joc		2011
+9/7/1982	DEM	Democrat	USR	United States Representative	HIL	Hillsborough	009		0	0	Ryals	John	L.	3107
+9/7/1982	DEM	Democrat	USR	United States Representative	PAS	Pasco	009		0	0	Ryals	John	L.	2461
+9/7/1982	DEM	Democrat	USR	United States Representative	PIN	Pinellas	009		0	0	Ryals	John	L.	1958
+9/7/1982	DEM	Democrat	USR	United States Representative	HIL	Hillsborough	009		0	0	Sheldon	George	H.	5695
+9/7/1982	DEM	Democrat	USR	United States Representative	PAS	Pasco	009		0	0	Sheldon	George	H.	10922
+9/7/1982	DEM	Democrat	USR	United States Representative	PIN	Pinellas	009		0	0	Sheldon	George	H.	9716
+9/7/1982	DEM	Democrat	USR	United States Representative	CLL	Collier	012		0	0	Culverhouse	Brad		837
+9/7/1982	DEM	Democrat	USR	United States Representative	GLA	Glades	012		0	0	Culverhouse	Brad		631
+9/7/1982	DEM	Democrat	USR	United States Representative	HEN	Hendry	012		0	0	Culverhouse	Brad		1279
+9/7/1982	DEM	Democrat	USR	United States Representative	HIG	Highlands	012		0	0	Culverhouse	Brad		3198
+9/7/1982	DEM	Democrat	USR	United States Representative	IND	Indian River	012		0	0	Culverhouse	Brad		986
+9/7/1982	DEM	Democrat	USR	United States Representative	MRT	Martin	012		0	0	Culverhouse	Brad		2871
+9/7/1982	DEM	Democrat	USR	United States Representative	OKE	Okeechobee	012		0	0	Culverhouse	Brad		1750
+9/7/1982	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	012		0	0	Culverhouse	Brad		10258
+9/7/1982	DEM	Democrat	USR	United States Representative	STL	St. Lucie	012		0	0	Culverhouse	Brad		5232
+9/7/1982	DEM	Democrat	USR	United States Representative	CLL	Collier	012		0	0	Koehler	Dennis		1100
+9/7/1982	DEM	Democrat	USR	United States Representative	GLA	Glades	012		0	0	Koehler	Dennis		596
+9/7/1982	DEM	Democrat	USR	United States Representative	HEN	Hendry	012		0	0	Koehler	Dennis		1433
+9/7/1982	DEM	Democrat	USR	United States Representative	HIG	Highlands	012		0	0	Koehler	Dennis		2335
+9/7/1982	DEM	Democrat	USR	United States Representative	IND	Indian River	012		0	0	Koehler	Dennis		424
+9/7/1982	DEM	Democrat	USR	United States Representative	MRT	Martin	012		0	0	Koehler	Dennis		2630
+9/7/1982	DEM	Democrat	USR	United States Representative	OKE	Okeechobee	012		0	0	Koehler	Dennis		1575
+9/7/1982	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	012		0	0	Koehler	Dennis		9447
+9/7/1982	DEM	Democrat	USR	United States Representative	STL	St. Lucie	012		0	0	Koehler	Dennis		2798
+9/7/1982	DEM	Democrat	USR	United States Representative	CHA	Charlotte	013		0	0	Dapra	Brian		1248
+9/7/1982	DEM	Democrat	USR	United States Representative	CLL	Collier	013		0	0	Dapra	Brian		673
+9/7/1982	DEM	Democrat	USR	United States Representative	LEE	Lee	013		0	0	Dapra	Brian		5696
+9/7/1982	DEM	Democrat	USR	United States Representative	SAR	Sarasota	013		0	0	Dapra	Brian		3377
+9/7/1982	DEM	Democrat	USR	United States Representative	CHA	Charlotte	013		0	0	Stevens	Dana	N.	3477
+9/7/1982	DEM	Democrat	USR	United States Representative	CLL	Collier	013		0	0	Stevens	Dana	N.	2242
+9/7/1982	DEM	Democrat	USR	United States Representative	LEE	Lee	013		0	0	Stevens	Dana	N.	15129
+9/7/1982	DEM	Democrat	USR	United States Representative	SAR	Sarasota	013		0	0	Stevens	Dana	N.	7494
+9/7/1982	DEM	Democrat	USR	United States Representative	BRO	Broward	014		0	0	Fleckner, Jr.	John	D.	1901
+9/7/1982	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	014		0	0	Fleckner, Jr.	John	D.	7778
+9/7/1982	DEM	Democrat	USR	United States Representative	BRO	Broward	014		0	0	Mica	Dan		11957
+9/7/1982	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	014		0	0	Mica	Dan		30417
+9/7/1982	DEM	Democrat	USR	United States Representative	BRO	Broward	015		0	0	Lockwood	Robert	E.	17993
+9/7/1982	DEM	Democrat	USR	United States Representative	BRO	Broward	015		0	0	Stack	Edward	J. 'Ed'	19030
+9/7/1982	DEM	Democrat	USR	United States Representative	BRO	Broward	016		0	0	Becker	Alan	S.	15899
+9/7/1982	DEM	Democrat	USR	United States Representative	DAD	Miami-Dade	016		0	0	Becker	Alan	S.	4502
+9/7/1982	DEM	Democrat	USR	United States Representative	BRO	Broward	016		0	0	Smith	Larry		21831
+9/7/1982	DEM	Democrat	USR	United States Representative	DAD	Miami-Dade	016		0	0	Smith	Larry		3444
+9/7/1982	DEM	Democrat	USR	United States Representative	DAD	Miami-Dade	017		0	0	Conoley	R.	'Van'	6844
+9/7/1982	DEM	Democrat	USR	United States Representative	DAD	Miami-Dade	017		0	0	Lehman	William		48092
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	ALA	Alachua			0	0	Wayne Mixson	Bob Graham	/	16267
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	BAK	Baker			0	0	Wayne Mixson	Bob Graham	/	2377
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	BAY	Bay			0	0	Wayne Mixson	Bob Graham	/	15488
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRA	Bradford			0	0	Wayne Mixson	Bob Graham	/	3525
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRE	Brevard			0	0	Wayne Mixson	Bob Graham	/	18828
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRO	Broward			0	0	Wayne Mixson	Bob Graham	/	73028
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	CAL	Calhoun			0	0	Wayne Mixson	Bob Graham	/	2489
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	CHA	Charlotte			0	0	Wayne Mixson	Bob Graham	/	5072
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	CIT	Citrus			0	0	Wayne Mixson	Bob Graham	/	7244
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLA	Clay			0	0	Wayne Mixson	Bob Graham	/	7203
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLL	Collier			0	0	Wayne Mixson	Bob Graham	/	4470
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLM	Columbia			0	0	Wayne Mixson	Bob Graham	/	6397
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	DES	Desoto			0	0	Wayne Mixson	Bob Graham	/	2363
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	DIX	Dixie			0	0	Wayne Mixson	Bob Graham	/	2535
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	DUV	Duval			0	0	Wayne Mixson	Bob Graham	/	66447
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	ESC	Escambia			0	0	Wayne Mixson	Bob Graham	/	23592
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	FLA	Flagler			0	0	Wayne Mixson	Bob Graham	/	1856
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	FRA	Franklin			0	0	Wayne Mixson	Bob Graham	/	1919
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	GAD	Gadsden			0	0	Wayne Mixson	Bob Graham	/	6469
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	GIL	Gilchrist			0	0	Wayne Mixson	Bob Graham	/	2024
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	GLA	Glades			0	0	Wayne Mixson	Bob Graham	/	944
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	GUL	Gulf			0	0	Wayne Mixson	Bob Graham	/	2796
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	HAM	Hamilton			0	0	Wayne Mixson	Bob Graham	/	2191
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	HAR	Hardee			0	0	Wayne Mixson	Bob Graham	/	2226
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	HEN	Hendry			0	0	Wayne Mixson	Bob Graham	/	2409
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	HER	Hernando			0	0	Wayne Mixson	Bob Graham	/	6458
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	HIG	Highlands			0	0	Wayne Mixson	Bob Graham	/	5265
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	HIL	Hillsborough			0	0	Wayne Mixson	Bob Graham	/	51349
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	HOL	Holmes			0	0	Wayne Mixson	Bob Graham	/	3570
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	IND	Indian River			0	0	Wayne Mixson	Bob Graham	/	2898
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	JAC	Jackson			0	0	Wayne Mixson	Bob Graham	/	6488
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	JEF	Jefferson			0	0	Wayne Mixson	Bob Graham	/	2374
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	LAF	Lafayette			0	0	Wayne Mixson	Bob Graham	/	1517
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	LAK	Lake			0	0	Wayne Mixson	Bob Graham	/	6374
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEE	Lee			0	0	Wayne Mixson	Bob Graham	/	18256
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEO	Leon			0	0	Wayne Mixson	Bob Graham	/	21642
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEV	Levy			0	0	Wayne Mixson	Bob Graham	/	4173
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	LIB	Liberty			0	0	Wayne Mixson	Bob Graham	/	1313
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	MAD	Madison			0	0	Wayne Mixson	Bob Graham	/	3791
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	MAN	Manatee			0	0	Wayne Mixson	Bob Graham	/	13072
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	MRN	Marion			0	0	Wayne Mixson	Bob Graham	/	11739
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	MRT	Martin			0	0	Wayne Mixson	Bob Graham	/	4729
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	DAD	Miami-Dade			0	0	Wayne Mixson	Bob Graham	/	117644
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	MON	Monroe			0	0	Wayne Mixson	Bob Graham	/	6243
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	NAS	Nassau			0	0	Wayne Mixson	Bob Graham	/	4013
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	OKA	Okaloosa			0	0	Wayne Mixson	Bob Graham	/	8630
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	OKE	Okeechobee			0	0	Wayne Mixson	Bob Graham	/	2558
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	ORA	Orange			0	0	Wayne Mixson	Bob Graham	/	25554
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	OSC	Osceola			0	0	Wayne Mixson	Bob Graham	/	5305
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	PAL	Palm Beach			0	0	Wayne Mixson	Bob Graham	/	45779
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	PAS	Pasco			0	0	Wayne Mixson	Bob Graham	/	17003
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	PIN	Pinellas			0	0	Wayne Mixson	Bob Graham	/	42045
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	POL	Polk			0	0	Wayne Mixson	Bob Graham	/	29289
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	PUT	Putnam			0	0	Wayne Mixson	Bob Graham	/	5794
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	SAN	Santa Rosa			0	0	Wayne Mixson	Bob Graham	/	8926
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	SAR	Sarasota			0	0	Wayne Mixson	Bob Graham	/	8575
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	SEM	Seminole			0	0	Wayne Mixson	Bob Graham	/	6348
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	STJ	St. Johns			0	0	Wayne Mixson	Bob Graham	/	5634
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	STL	St. Lucie			0	0	Wayne Mixson	Bob Graham	/	5807
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	SUM	Sumter			0	0	Wayne Mixson	Bob Graham	/	2015
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	SUW	Suwannee			0	0	Wayne Mixson	Bob Graham	/	4160
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	TAY	Taylor			0	0	Wayne Mixson	Bob Graham	/	2838
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	UNI	Union			0	0	Wayne Mixson	Bob Graham	/	1863
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	VOL	Volusia			0	0	Wayne Mixson	Bob Graham	/	26939
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAK	Wakulla			0	0	Wayne Mixson	Bob Graham	/	2695
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAL	Walton			0	0	Wayne Mixson	Bob Graham	/	4972
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAS	Washington			0	0	Wayne Mixson	Bob Graham	/	3332
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	ALA	Alachua			0	0	JeffreyL. Latham	Fred Kuhn	/	966
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	BAK	Baker			0	0	JeffreyL. Latham	Fred Kuhn	/	187
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	BAY	Bay			0	0	JeffreyL. Latham	Fred Kuhn	/	1927
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRA	Bradford			0	0	JeffreyL. Latham	Fred Kuhn	/	205
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRE	Brevard			0	0	JeffreyL. Latham	Fred Kuhn	/	2653
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRO	Broward			0	0	JeffreyL. Latham	Fred Kuhn	/	8630
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	CAL	Calhoun			0	0	JeffreyL. Latham	Fred Kuhn	/	288
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	CHA	Charlotte			0	0	JeffreyL. Latham	Fred Kuhn	/	573
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	CIT	Citrus			0	0	JeffreyL. Latham	Fred Kuhn	/	959
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLA	Clay			0	0	JeffreyL. Latham	Fred Kuhn	/	586
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLL	Collier			0	0	JeffreyL. Latham	Fred Kuhn	/	500
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLM	Columbia			0	0	JeffreyL. Latham	Fred Kuhn	/	677
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	DES	Desoto			0	0	JeffreyL. Latham	Fred Kuhn	/	280
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	DIX	Dixie			0	0	JeffreyL. Latham	Fred Kuhn	/	201
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	DUV	Duval			0	0	JeffreyL. Latham	Fred Kuhn	/	5691
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	ESC	Escambia			0	0	JeffreyL. Latham	Fred Kuhn	/	3010
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	FLA	Flagler			0	0	JeffreyL. Latham	Fred Kuhn	/	233
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	FRA	Franklin			0	0	JeffreyL. Latham	Fred Kuhn	/	288
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	GAD	Gadsden			0	0	JeffreyL. Latham	Fred Kuhn	/	695
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	GIL	Gilchrist			0	0	JeffreyL. Latham	Fred Kuhn	/	131
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	GLA	Glades			0	0	JeffreyL. Latham	Fred Kuhn	/	115
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	GUL	Gulf			0	0	JeffreyL. Latham	Fred Kuhn	/	338
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	HAM	Hamilton			0	0	JeffreyL. Latham	Fred Kuhn	/	194
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	HAR	Hardee			0	0	JeffreyL. Latham	Fred Kuhn	/	200
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	HEN	Hendry			0	0	JeffreyL. Latham	Fred Kuhn	/	240
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	HER	Hernando			0	0	JeffreyL. Latham	Fred Kuhn	/	903
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	HIG	Highlands			0	0	JeffreyL. Latham	Fred Kuhn	/	513
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	HIL	Hillsborough			0	0	JeffreyL. Latham	Fred Kuhn	/	4545
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	HOL	Holmes			0	0	JeffreyL. Latham	Fred Kuhn	/	488
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	IND	Indian River			0	0	JeffreyL. Latham	Fred Kuhn	/	285
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	JAC	Jackson			0	0	JeffreyL. Latham	Fred Kuhn	/	802
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	JEF	Jefferson			0	0	JeffreyL. Latham	Fred Kuhn	/	332
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	LAF	Lafayette			0	0	JeffreyL. Latham	Fred Kuhn	/	94
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	LAK	Lake			0	0	JeffreyL. Latham	Fred Kuhn	/	875
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEE	Lee			0	0	JeffreyL. Latham	Fred Kuhn	/	2293
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEO	Leon			0	0	JeffreyL. Latham	Fred Kuhn	/	2346
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEV	Levy			0	0	JeffreyL. Latham	Fred Kuhn	/	343
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	LIB	Liberty			0	0	JeffreyL. Latham	Fred Kuhn	/	253
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	MAD	Madison			0	0	JeffreyL. Latham	Fred Kuhn	/	304
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	MAN	Manatee			0	0	JeffreyL. Latham	Fred Kuhn	/	1367
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	MRN	Marion			0	0	JeffreyL. Latham	Fred Kuhn	/	1635
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	MRT	Martin			0	0	JeffreyL. Latham	Fred Kuhn	/	591
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	DAD	Miami-Dade			0	0	JeffreyL. Latham	Fred Kuhn	/	10647
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	MON	Monroe			0	0	JeffreyL. Latham	Fred Kuhn	/	820
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	NAS	Nassau			0	0	JeffreyL. Latham	Fred Kuhn	/	347
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	OKA	Okaloosa			0	0	JeffreyL. Latham	Fred Kuhn	/	1587
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	OKE	Okeechobee			0	0	JeffreyL. Latham	Fred Kuhn	/	451
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	ORA	Orange			0	0	JeffreyL. Latham	Fred Kuhn	/	3246
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	OSC	Osceola			0	0	JeffreyL. Latham	Fred Kuhn	/	575
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	PAL	Palm Beach			0	0	JeffreyL. Latham	Fred Kuhn	/	5734
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	PAS	Pasco			0	0	JeffreyL. Latham	Fred Kuhn	/	2871
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	PIN	Pinellas			0	0	JeffreyL. Latham	Fred Kuhn	/	4973
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	POL	Polk			0	0	JeffreyL. Latham	Fred Kuhn	/	2563
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	PUT	Putnam			0	0	JeffreyL. Latham	Fred Kuhn	/	522
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	SAN	Santa Rosa			0	0	JeffreyL. Latham	Fred Kuhn	/	1358
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	SAR	Sarasota			0	0	JeffreyL. Latham	Fred Kuhn	/	827
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	SEM	Seminole			0	0	JeffreyL. Latham	Fred Kuhn	/	847
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	STJ	St. Johns			0	0	JeffreyL. Latham	Fred Kuhn	/	544
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	STL	St. Lucie			0	0	JeffreyL. Latham	Fred Kuhn	/	929
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	SUM	Sumter			0	0	JeffreyL. Latham	Fred Kuhn	/	1100
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	SUW	Suwannee			0	0	JeffreyL. Latham	Fred Kuhn	/	401
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	TAY	Taylor			0	0	JeffreyL. Latham	Fred Kuhn	/	347
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	UNI	Union			0	0	JeffreyL. Latham	Fred Kuhn	/	111
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	VOL	Volusia			0	0	JeffreyL. Latham	Fred Kuhn	/	2912
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAK	Wakulla			0	0	JeffreyL. Latham	Fred Kuhn	/	436
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAL	Walton			0	0	JeffreyL. Latham	Fred Kuhn	/	639
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAS	Washington			0	0	JeffreyL. Latham	Fred Kuhn	/	560
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	ALA	Alachua			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	1174
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	BAK	Baker			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	104
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	BAY	Bay			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	1084
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRA	Bradford			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	187
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRE	Brevard			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	1572
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	BRO	Broward			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	5910
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	CAL	Calhoun			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	237
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	CHA	Charlotte			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	344
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	CIT	Citrus			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	489
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLA	Clay			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	310
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLL	Collier			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	415
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	CLM	Columbia			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	546
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	DES	Desoto			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	206
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	DIX	Dixie			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	197
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	DUV	Duval			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	2618
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	ESC	Escambia			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	1580
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	FLA	Flagler			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	144
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	FRA	Franklin			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	205
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	GAD	Gadsden			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	406
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	GIL	Gilchrist			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	88
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	GLA	Glades			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	77
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	GUL	Gulf			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	276
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	HAM	Hamilton			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	94
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	HAR	Hardee			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	293
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	HEN	Hendry			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	168
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	HER	Hernando			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	485
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	HIG	Highlands			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	369
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	HIL	Hillsborough			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	3462
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	HOL	Holmes			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	302
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	IND	Indian River			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	221
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	JAC	Jackson			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	407
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	JEF	Jefferson			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	198
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	LAF	Lafayette			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	98
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	LAK	Lake			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	541
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEE	Lee			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	1511
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEO	Leon			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	1782
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	LEV	Levy			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	330
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	LIB	Liberty			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	156
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	MAD	Madison			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	260
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	MAN	Manatee			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	796
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	MRN	Marion			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	877
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	MRT	Martin			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	394
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	DAD	Miami-Dade			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	9101
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	MON	Monroe			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	807
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	NAS	Nassau			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	180
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	OKA	Okaloosa			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	901
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	OKE	Okeechobee			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	297
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	ORA	Orange			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	1837
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	OSC	Osceola			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	384
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	PAL	Palm Beach			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	3585
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	PAS	Pasco			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	1698
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	PIN	Pinellas			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	3477
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	POL	Polk			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	1290
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	PUT	Putnam			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	390
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	SAN	Santa Rosa			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	814
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	SAR	Sarasota			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	621
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	SEM	Seminole			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	421
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	STJ	St. Johns			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	311
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	STL	St. Lucie			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	520
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	SUM	Sumter			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	401
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	SUW	Suwannee			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	440
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	TAY	Taylor			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	181
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	UNI	Union			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	96
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	VOL	Volusia			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	1424
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAK	Wakulla			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	397
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAL	Walton			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	393
+9/7/1982	DEM	Democrat	GOV	Governor and Lieutenant Governor	WAS	Washington			0	0	Gary Bryant	Robert P. (Bob) Kunst	/	312
+9/7/1982	DEM	Democrat	ATG	Attorney General	ALA	Alachua			0	0	Goldstein	Fred		3615
+9/7/1982	DEM	Democrat	ATG	Attorney General	BAK	Baker			0	0	Goldstein	Fred		488
+9/7/1982	DEM	Democrat	ATG	Attorney General	BAY	Bay			0	0	Goldstein	Fred		2342
+9/7/1982	DEM	Democrat	ATG	Attorney General	BRA	Bradford			0	0	Goldstein	Fred		803
+9/7/1982	DEM	Democrat	ATG	Attorney General	BRE	Brevard			0	0	Goldstein	Fred		5326
+9/7/1982	DEM	Democrat	ATG	Attorney General	BRO	Broward			0	0	Goldstein	Fred		37984
+9/7/1982	DEM	Democrat	ATG	Attorney General	CAL	Calhoun			0	0	Goldstein	Fred		539
+9/7/1982	DEM	Democrat	ATG	Attorney General	CHA	Charlotte			0	0	Goldstein	Fred		1430
+9/7/1982	DEM	Democrat	ATG	Attorney General	CIT	Citrus			0	0	Goldstein	Fred		1808
+9/7/1982	DEM	Democrat	ATG	Attorney General	CLA	Clay			0	0	Goldstein	Fred		1440
+9/7/1982	DEM	Democrat	ATG	Attorney General	CLL	Collier			0	0	Goldstein	Fred		1116
+9/7/1982	DEM	Democrat	ATG	Attorney General	CLM	Columbia			0	0	Goldstein	Fred		1053
+9/7/1982	DEM	Democrat	ATG	Attorney General	DES	Desoto			0	0	Goldstein	Fred		461
+9/7/1982	DEM	Democrat	ATG	Attorney General	DIX	Dixie			0	0	Goldstein	Fred		630
+9/7/1982	DEM	Democrat	ATG	Attorney General	DUV	Duval			0	0	Goldstein	Fred		16241
+9/7/1982	DEM	Democrat	ATG	Attorney General	ESC	Escambia			0	0	Goldstein	Fred		6701
+9/7/1982	DEM	Democrat	ATG	Attorney General	FLA	Flagler			0	0	Goldstein	Fred		408
+9/7/1982	DEM	Democrat	ATG	Attorney General	FRA	Franklin			0	0	Goldstein	Fred		342
+9/7/1982	DEM	Democrat	ATG	Attorney General	GAD	Gadsden			0	0	Goldstein	Fred		1413
+9/7/1982	DEM	Democrat	ATG	Attorney General	GIL	Gilchrist			0	0	Goldstein	Fred		493
+9/7/1982	DEM	Democrat	ATG	Attorney General	GLA	Glades			0	0	Goldstein	Fred		343
+9/7/1982	DEM	Democrat	ATG	Attorney General	GUL	Gulf			0	0	Goldstein	Fred		606
+9/7/1982	DEM	Democrat	ATG	Attorney General	HAM	Hamilton			0	0	Goldstein	Fred		487
+9/7/1982	DEM	Democrat	ATG	Attorney General	HAR	Hardee			0	0	Goldstein	Fred		466
+9/7/1982	DEM	Democrat	ATG	Attorney General	HEN	Hendry			0	0	Goldstein	Fred		727
+9/7/1982	DEM	Democrat	ATG	Attorney General	HER	Hernando			0	0	Goldstein	Fred		1707
+9/7/1982	DEM	Democrat	ATG	Attorney General	HIG	Highlands			0	0	Goldstein	Fred		1032
+9/7/1982	DEM	Democrat	ATG	Attorney General	HIL	Hillsborough			0	0	Goldstein	Fred		10430
+9/7/1982	DEM	Democrat	ATG	Attorney General	HOL	Holmes			0	0	Goldstein	Fred		1021
+9/7/1982	DEM	Democrat	ATG	Attorney General	IND	Indian River			0	0	Goldstein	Fred		744
+9/7/1982	DEM	Democrat	ATG	Attorney General	JAC	Jackson			0	0	Goldstein	Fred		1168
+9/7/1982	DEM	Democrat	ATG	Attorney General	JEF	Jefferson			0	0	Goldstein	Fred		373
+9/7/1982	DEM	Democrat	ATG	Attorney General	LAF	Lafayette			0	0	Goldstein	Fred		333
+9/7/1982	DEM	Democrat	ATG	Attorney General	LAK	Lake			0	0	Goldstein	Fred		1356
+9/7/1982	DEM	Democrat	ATG	Attorney General	LEE	Lee			0	0	Goldstein	Fred		4719
+9/7/1982	DEM	Democrat	ATG	Attorney General	LEO	Leon			0	0	Goldstein	Fred		2668
+9/7/1982	DEM	Democrat	ATG	Attorney General	LEV	Levy			0	0	Goldstein	Fred		704
+9/7/1982	DEM	Democrat	ATG	Attorney General	LIB	Liberty			0	0	Goldstein	Fred		341
+9/7/1982	DEM	Democrat	ATG	Attorney General	MAD	Madison			0	0	Goldstein	Fred		678
+9/7/1982	DEM	Democrat	ATG	Attorney General	MAN	Manatee			0	0	Goldstein	Fred		2669
+9/7/1982	DEM	Democrat	ATG	Attorney General	MRN	Marion			0	0	Goldstein	Fred		2323
+9/7/1982	DEM	Democrat	ATG	Attorney General	MRT	Martin			0	0	Goldstein	Fred		1208
+9/7/1982	DEM	Democrat	ATG	Attorney General	DAD	Miami-Dade			0	0	Goldstein	Fred		51476
+9/7/1982	DEM	Democrat	ATG	Attorney General	MON	Monroe			0	0	Goldstein	Fred		1486
+9/7/1982	DEM	Democrat	ATG	Attorney General	NAS	Nassau			0	0	Goldstein	Fred		913
+9/7/1982	DEM	Democrat	ATG	Attorney General	OKA	Okaloosa			0	0	Goldstein	Fred		2750
+9/7/1982	DEM	Democrat	ATG	Attorney General	OKE	Okeechobee			0	0	Goldstein	Fred		791
+9/7/1982	DEM	Democrat	ATG	Attorney General	ORA	Orange			0	0	Goldstein	Fred		6309
+9/7/1982	DEM	Democrat	ATG	Attorney General	OSC	Osceola			0	0	Goldstein	Fred		1244
+9/7/1982	DEM	Democrat	ATG	Attorney General	PAL	Palm Beach			0	0	Goldstein	Fred		18926
+9/7/1982	DEM	Democrat	ATG	Attorney General	PAS	Pasco			0	0	Goldstein	Fred		4337
+9/7/1982	DEM	Democrat	ATG	Attorney General	PIN	Pinellas			0	0	Goldstein	Fred		10399
+9/7/1982	DEM	Democrat	ATG	Attorney General	POL	Polk			0	0	Goldstein	Fred		5018
+9/7/1982	DEM	Democrat	ATG	Attorney General	PUT	Putnam			0	0	Goldstein	Fred		1045
+9/7/1982	DEM	Democrat	ATG	Attorney General	SAN	Santa Rosa			0	0	Goldstein	Fred		2709
+9/7/1982	DEM	Democrat	ATG	Attorney General	SAR	Sarasota			0	0	Goldstein	Fred		2846
+9/7/1982	DEM	Democrat	ATG	Attorney General	SEM	Seminole			0	0	Goldstein	Fred		1662
+9/7/1982	DEM	Democrat	ATG	Attorney General	STJ	St. Johns			0	0	Goldstein	Fred		1019
+9/7/1982	DEM	Democrat	ATG	Attorney General	STL	St. Lucie			0	0	Goldstein	Fred		1923
+9/7/1982	DEM	Democrat	ATG	Attorney General	SUM	Sumter			0	0	Goldstein	Fred		532
+9/7/1982	DEM	Democrat	ATG	Attorney General	SUW	Suwannee			0	0	Goldstein	Fred		617
+9/7/1982	DEM	Democrat	ATG	Attorney General	TAY	Taylor			0	0	Goldstein	Fred		377
+9/7/1982	DEM	Democrat	ATG	Attorney General	UNI	Union			0	0	Goldstein	Fred		461
+9/7/1982	DEM	Democrat	ATG	Attorney General	VOL	Volusia			0	0	Goldstein	Fred		3850
+9/7/1982	DEM	Democrat	ATG	Attorney General	WAK	Wakulla			0	0	Goldstein	Fred		482
+9/7/1982	DEM	Democrat	ATG	Attorney General	WAL	Walton			0	0	Goldstein	Fred		1454
+9/7/1982	DEM	Democrat	ATG	Attorney General	WAS	Washington			0	0	Goldstein	Fred		662
+9/7/1982	DEM	Democrat	ATG	Attorney General	ALA	Alachua			0	0	Smith	Jim		13374
+9/7/1982	DEM	Democrat	ATG	Attorney General	BAK	Baker			0	0	Smith	Jim		1900
+9/7/1982	DEM	Democrat	ATG	Attorney General	BAY	Bay			0	0	Smith	Jim		14180
+9/7/1982	DEM	Democrat	ATG	Attorney General	BRA	Bradford			0	0	Smith	Jim		2850
+9/7/1982	DEM	Democrat	ATG	Attorney General	BRE	Brevard			0	0	Smith	Jim		18167
+9/7/1982	DEM	Democrat	ATG	Attorney General	BRO	Broward			0	0	Smith	Jim		49247
+9/7/1982	DEM	Democrat	ATG	Attorney General	CAL	Calhoun			0	0	Smith	Jim		2156
+9/7/1982	DEM	Democrat	ATG	Attorney General	CHA	Charlotte			0	0	Smith	Jim		4028
+9/7/1982	DEM	Democrat	ATG	Attorney General	CIT	Citrus			0	0	Smith	Jim		6645
+9/7/1982	DEM	Democrat	ATG	Attorney General	CLA	Clay			0	0	Smith	Jim		6053
+9/7/1982	DEM	Democrat	ATG	Attorney General	CLL	Collier			0	0	Smith	Jim		4038
+9/7/1982	DEM	Democrat	ATG	Attorney General	CLM	Columbia			0	0	Smith	Jim		5581
+9/7/1982	DEM	Democrat	ATG	Attorney General	DES	Desoto			0	0	Smith	Jim		2044
+9/7/1982	DEM	Democrat	ATG	Attorney General	DIX	Dixie			0	0	Smith	Jim		2117
+9/7/1982	DEM	Democrat	ATG	Attorney General	DUV	Duval			0	0	Smith	Jim		49575
+9/7/1982	DEM	Democrat	ATG	Attorney General	ESC	Escambia			0	0	Smith	Jim		18205
+9/7/1982	DEM	Democrat	ATG	Attorney General	FLA	Flagler			0	0	Smith	Jim		1641
+9/7/1982	DEM	Democrat	ATG	Attorney General	FRA	Franklin			0	0	Smith	Jim		1698
+9/7/1982	DEM	Democrat	ATG	Attorney General	GAD	Gadsden			0	0	Smith	Jim		5383
+9/7/1982	DEM	Democrat	ATG	Attorney General	GIL	Gilchrist			0	0	Smith	Jim		1650
+9/7/1982	DEM	Democrat	ATG	Attorney General	GLA	Glades			0	0	Smith	Jim		900
+9/7/1982	DEM	Democrat	ATG	Attorney General	GUL	Gulf			0	0	Smith	Jim		2519
+9/7/1982	DEM	Democrat	ATG	Attorney General	HAM	Hamilton			0	0	Smith	Jim		1642
+9/7/1982	DEM	Democrat	ATG	Attorney General	HAR	Hardee			0	0	Smith	Jim		2145
+9/7/1982	DEM	Democrat	ATG	Attorney General	HEN	Hendry			0	0	Smith	Jim		1990
+9/7/1982	DEM	Democrat	ATG	Attorney General	HER	Hernando			0	0	Smith	Jim		5827
+9/7/1982	DEM	Democrat	ATG	Attorney General	HIG	Highlands			0	0	Smith	Jim		5079
+9/7/1982	DEM	Democrat	ATG	Attorney General	HIL	Hillsborough			0	0	Smith	Jim		45437
+9/7/1982	DEM	Democrat	ATG	Attorney General	HOL	Holmes			0	0	Smith	Jim		2713
+9/7/1982	DEM	Democrat	ATG	Attorney General	IND	Indian River			0	0	Smith	Jim		2418
+9/7/1982	DEM	Democrat	ATG	Attorney General	JAC	Jackson			0	0	Smith	Jim		5619
+9/7/1982	DEM	Democrat	ATG	Attorney General	JEF	Jefferson			0	0	Smith	Jim		2119
+9/7/1982	DEM	Democrat	ATG	Attorney General	LAF	Lafayette			0	0	Smith	Jim		1351
+9/7/1982	DEM	Democrat	ATG	Attorney General	LAK	Lake			0	0	Smith	Jim		5955
+9/7/1982	DEM	Democrat	ATG	Attorney General	LEE	Lee			0	0	Smith	Jim		16581
+9/7/1982	DEM	Democrat	ATG	Attorney General	LEO	Leon			0	0	Smith	Jim		22425
+9/7/1982	DEM	Democrat	ATG	Attorney General	LEV	Levy			0	0	Smith	Jim		3831
+9/7/1982	DEM	Democrat	ATG	Attorney General	LIB	Liberty			0	0	Smith	Jim		1219
+9/7/1982	DEM	Democrat	ATG	Attorney General	MAD	Madison			0	0	Smith	Jim		3513
+9/7/1982	DEM	Democrat	ATG	Attorney General	MAN	Manatee			0	0	Smith	Jim		12450
+9/7/1982	DEM	Democrat	ATG	Attorney General	MRN	Marion			0	0	Smith	Jim		11709
+9/7/1982	DEM	Democrat	ATG	Attorney General	MRT	Martin			0	0	Smith	Jim		3779
+9/7/1982	DEM	Democrat	ATG	Attorney General	DAD	Miami-Dade			0	0	Smith	Jim		79262
+9/7/1982	DEM	Democrat	ATG	Attorney General	MON	Monroe			0	0	Smith	Jim		5230
+9/7/1982	DEM	Democrat	ATG	Attorney General	NAS	Nassau			0	0	Smith	Jim		3093
+9/7/1982	DEM	Democrat	ATG	Attorney General	OKA	Okaloosa			0	0	Smith	Jim		7739
+9/7/1982	DEM	Democrat	ATG	Attorney General	OKE	Okeechobee			0	0	Smith	Jim		2080
+9/7/1982	DEM	Democrat	ATG	Attorney General	ORA	Orange			0	0	Smith	Jim		20974
+9/7/1982	DEM	Democrat	ATG	Attorney General	OSC	Osceola			0	0	Smith	Jim		4699
+9/7/1982	DEM	Democrat	ATG	Attorney General	PAL	Palm Beach			0	0	Smith	Jim		35883
+9/7/1982	DEM	Democrat	ATG	Attorney General	PAS	Pasco			0	0	Smith	Jim		16871
+9/7/1982	DEM	Democrat	ATG	Attorney General	PIN	Pinellas			0	0	Smith	Jim		38565
+9/7/1982	DEM	Democrat	ATG	Attorney General	POL	Polk			0	0	Smith	Jim		24034
+9/7/1982	DEM	Democrat	ATG	Attorney General	PUT	Putnam			0	0	Smith	Jim		5142
+9/7/1982	DEM	Democrat	ATG	Attorney General	SAN	Santa Rosa			0	0	Smith	Jim		7865
+9/7/1982	DEM	Democrat	ATG	Attorney General	SAR	Sarasota			0	0	Smith	Jim		9096
+9/7/1982	DEM	Democrat	ATG	Attorney General	SEM	Seminole			0	0	Smith	Jim		5947
+9/7/1982	DEM	Democrat	ATG	Attorney General	STJ	St. Johns			0	0	Smith	Jim		4975
+9/7/1982	DEM	Democrat	ATG	Attorney General	STL	St. Lucie			0	0	Smith	Jim		5158
+9/7/1982	DEM	Democrat	ATG	Attorney General	SUM	Sumter			0	0	Smith	Jim		2250
+9/7/1982	DEM	Democrat	ATG	Attorney General	SUW	Suwannee			0	0	Smith	Jim		3801
+9/7/1982	DEM	Democrat	ATG	Attorney General	TAY	Taylor			0	0	Smith	Jim		2748
+9/7/1982	DEM	Democrat	ATG	Attorney General	UNI	Union			0	0	Smith	Jim		1502
+9/7/1982	DEM	Democrat	ATG	Attorney General	VOL	Volusia			0	0	Smith	Jim		23989
+9/7/1982	DEM	Democrat	ATG	Attorney General	WAK	Wakulla			0	0	Smith	Jim		2794
+9/7/1982	DEM	Democrat	ATG	Attorney General	WAL	Walton			0	0	Smith	Jim		4028
+9/7/1982	DEM	Democrat	ATG	Attorney General	WAS	Washington			0	0	Smith	Jim		3151
+9/7/1982	DEM	Democrat	CMP	Comptroller	ALA	Alachua			0	0	Haben	Ralph		6230
+9/7/1982	DEM	Democrat	CMP	Comptroller	BAK	Baker			0	0	Haben	Ralph		1132
+9/7/1982	DEM	Democrat	CMP	Comptroller	BAY	Bay			0	0	Haben	Ralph		5716
+9/7/1982	DEM	Democrat	CMP	Comptroller	BRA	Bradford			0	0	Haben	Ralph		1474
+9/7/1982	DEM	Democrat	CMP	Comptroller	BRE	Brevard			0	0	Haben	Ralph		8977
+9/7/1982	DEM	Democrat	CMP	Comptroller	BRO	Broward			0	0	Haben	Ralph		29131
+9/7/1982	DEM	Democrat	CMP	Comptroller	CAL	Calhoun			0	0	Haben	Ralph		1088
+9/7/1982	DEM	Democrat	CMP	Comptroller	CHA	Charlotte			0	0	Haben	Ralph		2065
+9/7/1982	DEM	Democrat	CMP	Comptroller	CIT	Citrus			0	0	Haben	Ralph		3843
+9/7/1982	DEM	Democrat	CMP	Comptroller	CLA	Clay			0	0	Haben	Ralph		3414
+9/7/1982	DEM	Democrat	CMP	Comptroller	CLL	Collier			0	0	Haben	Ralph		1865
+9/7/1982	DEM	Democrat	CMP	Comptroller	CLM	Columbia			0	0	Haben	Ralph		2770
+9/7/1982	DEM	Democrat	CMP	Comptroller	DES	Desoto			0	0	Haben	Ralph		951
+9/7/1982	DEM	Democrat	CMP	Comptroller	DIX	Dixie			0	0	Haben	Ralph		846
+9/7/1982	DEM	Democrat	CMP	Comptroller	DUV	Duval			0	0	Haben	Ralph		29061
+9/7/1982	DEM	Democrat	CMP	Comptroller	ESC	Escambia			0	0	Haben	Ralph		13246
+9/7/1982	DEM	Democrat	CMP	Comptroller	FLA	Flagler			0	0	Haben	Ralph		1092
+9/7/1982	DEM	Democrat	CMP	Comptroller	FRA	Franklin			0	0	Haben	Ralph		858
+9/7/1982	DEM	Democrat	CMP	Comptroller	GAD	Gadsden			0	0	Haben	Ralph		3261
+9/7/1982	DEM	Democrat	CMP	Comptroller	GIL	Gilchrist			0	0	Haben	Ralph		806
+9/7/1982	DEM	Democrat	CMP	Comptroller	GLA	Glades			0	0	Haben	Ralph		395
+9/7/1982	DEM	Democrat	CMP	Comptroller	GUL	Gulf			0	0	Haben	Ralph		1024
+9/7/1982	DEM	Democrat	CMP	Comptroller	HAM	Hamilton			0	0	Haben	Ralph		745
+9/7/1982	DEM	Democrat	CMP	Comptroller	HAR	Hardee			0	0	Haben	Ralph		1788
+9/7/1982	DEM	Democrat	CMP	Comptroller	HEN	Hendry			0	0	Haben	Ralph		852
+9/7/1982	DEM	Democrat	CMP	Comptroller	HER	Hernando			0	0	Haben	Ralph		3271
+9/7/1982	DEM	Democrat	CMP	Comptroller	HIG	Highlands			0	0	Haben	Ralph		2656
+9/7/1982	DEM	Democrat	CMP	Comptroller	HIL	Hillsborough			0	0	Haben	Ralph		27125
+9/7/1982	DEM	Democrat	CMP	Comptroller	HOL	Holmes			0	0	Haben	Ralph		1771
+9/7/1982	DEM	Democrat	CMP	Comptroller	IND	Indian River			0	0	Haben	Ralph		1256
+9/7/1982	DEM	Democrat	CMP	Comptroller	JAC	Jackson			0	0	Haben	Ralph		2887
+9/7/1982	DEM	Democrat	CMP	Comptroller	JEF	Jefferson			0	0	Haben	Ralph		1214
+9/7/1982	DEM	Democrat	CMP	Comptroller	LAF	Lafayette			0	0	Haben	Ralph		582
+9/7/1982	DEM	Democrat	CMP	Comptroller	LAK	Lake			0	0	Haben	Ralph		3167
+9/7/1982	DEM	Democrat	CMP	Comptroller	LEE	Lee			0	0	Haben	Ralph		7056
+9/7/1982	DEM	Democrat	CMP	Comptroller	LEO	Leon			0	0	Haben	Ralph		13093
+9/7/1982	DEM	Democrat	CMP	Comptroller	LEV	Levy			0	0	Haben	Ralph		1522
+9/7/1982	DEM	Democrat	CMP	Comptroller	LIB	Liberty			0	0	Haben	Ralph		717
+9/7/1982	DEM	Democrat	CMP	Comptroller	MAD	Madison			0	0	Haben	Ralph		1578
+9/7/1982	DEM	Democrat	CMP	Comptroller	MAN	Manatee			0	0	Haben	Ralph		9953
+9/7/1982	DEM	Democrat	CMP	Comptroller	MRN	Marion			0	0	Haben	Ralph		1989
+9/7/1982	DEM	Democrat	CMP	Comptroller	MRT	Martin			0	0	Haben	Ralph		2739
+9/7/1982	DEM	Democrat	CMP	Comptroller	DAD	Miami-Dade			0	0	Haben	Ralph		37248
+9/7/1982	DEM	Democrat	CMP	Comptroller	MON	Monroe			0	0	Haben	Ralph		5576
+9/7/1982	DEM	Democrat	CMP	Comptroller	NAS	Nassau			0	0	Haben	Ralph		1797
+9/7/1982	DEM	Democrat	CMP	Comptroller	OKA	Okaloosa			0	0	Haben	Ralph		6042
+9/7/1982	DEM	Democrat	CMP	Comptroller	OKE	Okeechobee			0	0	Haben	Ralph		1072
+9/7/1982	DEM	Democrat	CMP	Comptroller	ORA	Orange			0	0	Haben	Ralph		11294
+9/7/1982	DEM	Democrat	CMP	Comptroller	OSC	Osceola			0	0	Haben	Ralph		2600
+9/7/1982	DEM	Democrat	CMP	Comptroller	PAL	Palm Beach			0	0	Haben	Ralph		16251
+9/7/1982	DEM	Democrat	CMP	Comptroller	PAS	Pasco			0	0	Haben	Ralph		9262
+9/7/1982	DEM	Democrat	CMP	Comptroller	PIN	Pinellas			0	0	Haben	Ralph		22381
+9/7/1982	DEM	Democrat	CMP	Comptroller	POL	Polk			0	0	Haben	Ralph		11311
+9/7/1982	DEM	Democrat	CMP	Comptroller	PUT	Putnam			0	0	Haben	Ralph		2500
+9/7/1982	DEM	Democrat	CMP	Comptroller	SAN	Santa Rosa			0	0	Haben	Ralph		2765
+9/7/1982	DEM	Democrat	CMP	Comptroller	SAR	Sarasota			0	0	Haben	Ralph		2855
+9/7/1982	DEM	Democrat	CMP	Comptroller	SEM	Seminole			0	0	Haben	Ralph		5132
+9/7/1982	DEM	Democrat	CMP	Comptroller	STJ	St. Johns			0	0	Haben	Ralph		6421
+9/7/1982	DEM	Democrat	CMP	Comptroller	STL	St. Lucie			0	0	Haben	Ralph		2950
+9/7/1982	DEM	Democrat	CMP	Comptroller	SUM	Sumter			0	0	Haben	Ralph		1435
+9/7/1982	DEM	Democrat	CMP	Comptroller	SUW	Suwannee			0	0	Haben	Ralph		1773
+9/7/1982	DEM	Democrat	CMP	Comptroller	TAY	Taylor			0	0	Haben	Ralph		1414
+9/7/1982	DEM	Democrat	CMP	Comptroller	UNI	Union			0	0	Haben	Ralph		735
+9/7/1982	DEM	Democrat	CMP	Comptroller	VOL	Volusia			0	0	Haben	Ralph		14501
+9/7/1982	DEM	Democrat	CMP	Comptroller	WAK	Wakulla			0	0	Haben	Ralph		1637
+9/7/1982	DEM	Democrat	CMP	Comptroller	WAL	Walton			0	0	Haben	Ralph		2376
+9/7/1982	DEM	Democrat	CMP	Comptroller	WAS	Washington			0	0	Haben	Ralph		1751
+9/7/1982	DEM	Democrat	CMP	Comptroller	ALA	Alachua			0	0	Lewis	Gerald		11376
+9/7/1982	DEM	Democrat	CMP	Comptroller	BAK	Baker			0	0	Lewis	Gerald		1527
+9/7/1982	DEM	Democrat	CMP	Comptroller	BAY	Bay			0	0	Lewis	Gerald		11958
+9/7/1982	DEM	Democrat	CMP	Comptroller	BRA	Bradford			0	0	Lewis	Gerald		2341
+9/7/1982	DEM	Democrat	CMP	Comptroller	BRE	Brevard			0	0	Lewis	Gerald		15116
+9/7/1982	DEM	Democrat	CMP	Comptroller	BRO	Broward			0	0	Lewis	Gerald		58199
+9/7/1982	DEM	Democrat	CMP	Comptroller	CAL	Calhoun			0	0	Lewis	Gerald		1717
+9/7/1982	DEM	Democrat	CMP	Comptroller	CHA	Charlotte			0	0	Lewis	Gerald		3551
+9/7/1982	DEM	Democrat	CMP	Comptroller	CIT	Citrus			0	0	Lewis	Gerald		4867
+9/7/1982	DEM	Democrat	CMP	Comptroller	CLA	Clay			0	0	Lewis	Gerald		4509
+9/7/1982	DEM	Democrat	CMP	Comptroller	CLL	Collier			0	0	Lewis	Gerald		3344
+9/7/1982	DEM	Democrat	CMP	Comptroller	CLM	Columbia			0	0	Lewis	Gerald		4409
+9/7/1982	DEM	Democrat	CMP	Comptroller	DES	Desoto			0	0	Lewis	Gerald		1713
+9/7/1982	DEM	Democrat	CMP	Comptroller	DIX	Dixie			0	0	Lewis	Gerald		1967
+9/7/1982	DEM	Democrat	CMP	Comptroller	DUV	Duval			0	0	Lewis	Gerald		41485
+9/7/1982	DEM	Democrat	CMP	Comptroller	ESC	Escambia			0	0	Lewis	Gerald		12992
+9/7/1982	DEM	Democrat	CMP	Comptroller	FLA	Flagler			0	0	Lewis	Gerald		1112
+9/7/1982	DEM	Democrat	CMP	Comptroller	FRA	Franklin			0	0	Lewis	Gerald		1371
+9/7/1982	DEM	Democrat	CMP	Comptroller	GAD	Gadsden			0	0	Lewis	Gerald		4094
+9/7/1982	DEM	Democrat	CMP	Comptroller	GIL	Gilchrist			0	0	Lewis	Gerald		1422
+9/7/1982	DEM	Democrat	CMP	Comptroller	GLA	Glades			0	0	Lewis	Gerald		913
+9/7/1982	DEM	Democrat	CMP	Comptroller	GUL	Gulf			0	0	Lewis	Gerald		2095
+9/7/1982	DEM	Democrat	CMP	Comptroller	HAM	Hamilton			0	0	Lewis	Gerald		1557
+9/7/1982	DEM	Democrat	CMP	Comptroller	HAR	Hardee			0	0	Lewis	Gerald		1209
+9/7/1982	DEM	Democrat	CMP	Comptroller	HEN	Hendry			0	0	Lewis	Gerald		1968
+9/7/1982	DEM	Democrat	CMP	Comptroller	HER	Hernando			0	0	Lewis	Gerald		4464
+9/7/1982	DEM	Democrat	CMP	Comptroller	HIG	Highlands			0	0	Lewis	Gerald		3702
+9/7/1982	DEM	Democrat	CMP	Comptroller	HIL	Hillsborough			0	0	Lewis	Gerald		30124
+9/7/1982	DEM	Democrat	CMP	Comptroller	HOL	Holmes			0	0	Lewis	Gerald		2189
+9/7/1982	DEM	Democrat	CMP	Comptroller	IND	Indian River			0	0	Lewis	Gerald		2052
+9/7/1982	DEM	Democrat	CMP	Comptroller	JAC	Jackson			0	0	Lewis	Gerald		4147
+9/7/1982	DEM	Democrat	CMP	Comptroller	JEF	Jefferson			0	0	Lewis	Gerald		1522
+9/7/1982	DEM	Democrat	CMP	Comptroller	LAF	Lafayette			0	0	Lewis	Gerald		1173
+9/7/1982	DEM	Democrat	CMP	Comptroller	LAK	Lake			0	0	Lewis	Gerald		4306
+9/7/1982	DEM	Democrat	CMP	Comptroller	LEE	Lee			0	0	Lewis	Gerald		14473
+9/7/1982	DEM	Democrat	CMP	Comptroller	LEO	Leon			0	0	Lewis	Gerald		13111
+9/7/1982	DEM	Democrat	CMP	Comptroller	LEV	Levy			0	0	Lewis	Gerald		3001
+9/7/1982	DEM	Democrat	CMP	Comptroller	LIB	Liberty			0	0	Lewis	Gerald		963
+9/7/1982	DEM	Democrat	CMP	Comptroller	MAD	Madison			0	0	Lewis	Gerald		2628
+9/7/1982	DEM	Democrat	CMP	Comptroller	MAN	Manatee			0	0	Lewis	Gerald		6250
+9/7/1982	DEM	Democrat	CMP	Comptroller	MRN	Marion			0	0	Lewis	Gerald		8711
+9/7/1982	DEM	Democrat	CMP	Comptroller	MRT	Martin			0	0	Lewis	Gerald		3349
+9/7/1982	DEM	Democrat	CMP	Comptroller	DAD	Miami-Dade			0	0	Lewis	Gerald		94991
+9/7/1982	DEM	Democrat	CMP	Comptroller	MON	Monroe			0	0	Lewis	Gerald		4423
+9/7/1982	DEM	Democrat	CMP	Comptroller	NAS	Nassau			0	0	Lewis	Gerald		2606
+9/7/1982	DEM	Democrat	CMP	Comptroller	OKA	Okaloosa			0	0	Lewis	Gerald		4702
+9/7/1982	DEM	Democrat	CMP	Comptroller	OKE	Okeechobee			0	0	Lewis	Gerald		2053
+9/7/1982	DEM	Democrat	CMP	Comptroller	ORA	Orange			0	0	Lewis	Gerald		17156
+9/7/1982	DEM	Democrat	CMP	Comptroller	OSC	Osceola			0	0	Lewis	Gerald		3527
+9/7/1982	DEM	Democrat	CMP	Comptroller	PAL	Palm Beach			0	0	Lewis	Gerald		39678
+9/7/1982	DEM	Democrat	CMP	Comptroller	PAS	Pasco			0	0	Lewis	Gerald		12672
+9/7/1982	DEM	Democrat	CMP	Comptroller	PIN	Pinellas			0	0	Lewis	Gerald		27504
+9/7/1982	DEM	Democrat	CMP	Comptroller	POL	Polk			0	0	Lewis	Gerald		19606
+9/7/1982	DEM	Democrat	CMP	Comptroller	PUT	Putnam			0	0	Lewis	Gerald		4063
+9/7/1982	DEM	Democrat	CMP	Comptroller	SAN	Santa Rosa			0	0	Lewis	Gerald		5828
+9/7/1982	DEM	Democrat	CMP	Comptroller	SAR	Sarasota			0	0	Lewis	Gerald		5880
+9/7/1982	DEM	Democrat	CMP	Comptroller	SEM	Seminole			0	0	Lewis	Gerald		4784
+9/7/1982	DEM	Democrat	CMP	Comptroller	STJ	St. Johns			0	0	Lewis	Gerald		3726
+9/7/1982	DEM	Democrat	CMP	Comptroller	STL	St. Lucie			0	0	Lewis	Gerald		4671
+9/7/1982	DEM	Democrat	CMP	Comptroller	SUM	Sumter			0	0	Lewis	Gerald		1764
+9/7/1982	DEM	Democrat	CMP	Comptroller	SUW	Suwannee			0	0	Lewis	Gerald		2950
+9/7/1982	DEM	Democrat	CMP	Comptroller	TAY	Taylor			0	0	Lewis	Gerald		1868
+9/7/1982	DEM	Democrat	CMP	Comptroller	UNI	Union			0	0	Lewis	Gerald		1309
+9/7/1982	DEM	Democrat	CMP	Comptroller	VOL	Volusia			0	0	Lewis	Gerald		14376
+9/7/1982	DEM	Democrat	CMP	Comptroller	WAK	Wakulla			0	0	Lewis	Gerald		1858
+9/7/1982	DEM	Democrat	CMP	Comptroller	WAL	Walton			0	0	Lewis	Gerald		3273
+9/7/1982	DEM	Democrat	CMP	Comptroller	WAS	Washington			0	0	Lewis	Gerald		2182
+9/7/1982	DEM	Democrat	STS	State Senator	ESC	Escambia	001		0	0	Childers	W.	D.	18652
+9/7/1982	DEM	Democrat	STS	State Senator	SAN	Santa Rosa	001		0	0	Childers	W.	D.	1077
+9/7/1982	DEM	Democrat	STS	State Senator	ESC	Escambia	001		0	0	Patterson	Tom		10048
+9/7/1982	DEM	Democrat	STS	State Senator	SAN	Santa Rosa	001		0	0	Patterson	Tom		650
+9/7/1982	DEM	Democrat	STS	State Senator	BAY	Bay	003		0	0	Barron	Dempsey	J.	12081
+9/7/1982	DEM	Democrat	STS	State Senator	CAL	Calhoun	003		0	0	Barron	Dempsey	J.	2307
+9/7/1982	DEM	Democrat	STS	State Senator	FRA	Franklin	003		0	0	Barron	Dempsey	J.	1609
+9/7/1982	DEM	Democrat	STS	State Senator	GUL	Gulf	003		0	0	Barron	Dempsey	J.	2331
+9/7/1982	DEM	Democrat	STS	State Senator	LIB	Liberty	003		0	0	Barron	Dempsey	J.	1320
+9/7/1982	DEM	Democrat	STS	State Senator	OKA	Okaloosa	003		0	0	Barron	Dempsey	J.	3189
+9/7/1982	DEM	Democrat	STS	State Senator	WAK	Wakulla	003		0	0	Barron	Dempsey	J.	2193
+9/7/1982	DEM	Democrat	STS	State Senator	WAL	Walton	003		0	0	Barron	Dempsey	J.	1418
+9/7/1982	DEM	Democrat	STS	State Senator	WAS	Washington	003		0	0	Barron	Dempsey	J.	2347
+9/7/1982	DEM	Democrat	STS	State Senator	BAY	Bay	003		0	0	Bruner	Vince		8192
+9/7/1982	DEM	Democrat	STS	State Senator	CAL	Calhoun	003		0	0	Bruner	Vince		908
+9/7/1982	DEM	Democrat	STS	State Senator	FRA	Franklin	003		0	0	Bruner	Vince		1003
+9/7/1982	DEM	Democrat	STS	State Senator	GUL	Gulf	003		0	0	Bruner	Vince		1315
+9/7/1982	DEM	Democrat	STS	State Senator	LIB	Liberty	003		0	0	Bruner	Vince		529
+9/7/1982	DEM	Democrat	STS	State Senator	OKA	Okaloosa	003		0	0	Bruner	Vince		5059
+9/7/1982	DEM	Democrat	STS	State Senator	WAK	Wakulla	003		0	0	Bruner	Vince		1361
+9/7/1982	DEM	Democrat	STS	State Senator	WAL	Walton	003		0	0	Bruner	Vince		843
+9/7/1982	DEM	Democrat	STS	State Senator	WAS	Washington	003		0	0	Bruner	Vince		2069
+9/7/1982	DEM	Democrat	STS	State Senator	CIT	Citrus	004		0	0	Brewer	C.	P. 'Pat'	3591
+9/7/1982	DEM	Democrat	STS	State Senator	HER	Hernando	004		0	0	Brewer	C.	P. 'Pat'	2962
+9/7/1982	DEM	Democrat	STS	State Senator	MRN	Marion	004		0	0	Brewer	C.	P. 'Pat'	3588
+9/7/1982	DEM	Democrat	STS	State Senator	PAS	Pasco	004		0	0	Brewer	C.	P. 'Pat'	5017
+9/7/1982	DEM	Democrat	STS	State Senator	CIT	Citrus	004		0	0	Thurman	Karen		5264
+9/7/1982	DEM	Democrat	STS	State Senator	HER	Hernando	004		0	0	Thurman	Karen		1838
+9/7/1982	DEM	Democrat	STS	State Senator	MRN	Marion	004		0	0	Thurman	Karen		6797
+9/7/1982	DEM	Democrat	STS	State Senator	PAS	Pasco	004		0	0	Thurman	Karen		6036
+9/7/1982	DEM	Democrat	STS	State Senator	BAK	Baker	005		0	0	Bell	Jane		78
+9/7/1982	DEM	Democrat	STS	State Senator	BRA	Bradford	005		0	0	Bell	Jane		322
+9/7/1982	DEM	Democrat	STS	State Senator	CLM	Columbia	005		0	0	Bell	Jane		336
+9/7/1982	DEM	Democrat	STS	State Senator	HAM	Hamilton	005		0	0	Bell	Jane		118
+9/7/1982	DEM	Democrat	STS	State Senator	JEF	Jefferson	005		0	0	Bell	Jane		87
+9/7/1982	DEM	Democrat	STS	State Senator	LEO	Leon	005		0	0	Bell	Jane		618
+9/7/1982	DEM	Democrat	STS	State Senator	MAD	Madison	005		0	0	Bell	Jane		128
+9/7/1982	DEM	Democrat	STS	State Senator	SUW	Suwannee	005		0	0	Bell	Jane		185
+9/7/1982	DEM	Democrat	STS	State Senator	TAY	Taylor	005		0	0	Bell	Jane		122
+9/7/1982	DEM	Democrat	STS	State Senator	UNI	Union	005		0	0	Bell	Jane		104
+9/7/1982	DEM	Democrat	STS	State Senator	BAK	Baker	005		0	0	Conner, Jr.	Doyle		490
+9/7/1982	DEM	Democrat	STS	State Senator	BRA	Bradford	005		0	0	Conner, Jr.	Doyle		1515
+9/7/1982	DEM	Democrat	STS	State Senator	CLM	Columbia	005		0	0	Conner, Jr.	Doyle		1968
+9/7/1982	DEM	Democrat	STS	State Senator	HAM	Hamilton	005		0	0	Conner, Jr.	Doyle		574
+9/7/1982	DEM	Democrat	STS	State Senator	JEF	Jefferson	005		0	0	Conner, Jr.	Doyle		652
+9/7/1982	DEM	Democrat	STS	State Senator	LEO	Leon	005		0	0	Conner, Jr.	Doyle		1431
+9/7/1982	DEM	Democrat	STS	State Senator	MAD	Madison	005		0	0	Conner, Jr.	Doyle		224
+9/7/1982	DEM	Democrat	STS	State Senator	SUW	Suwannee	005		0	0	Conner, Jr.	Doyle		1326
+9/7/1982	DEM	Democrat	STS	State Senator	TAY	Taylor	005		0	0	Conner, Jr.	Doyle		654
+9/7/1982	DEM	Democrat	STS	State Senator	UNI	Union	005		0	0	Conner, Jr.	Doyle		621
+9/7/1982	DEM	Democrat	STS	State Senator	BAK	Baker	005		0	0	Crews	Jim		1175
+9/7/1982	DEM	Democrat	STS	State Senator	BRA	Bradford	005		0	0	Crews	Jim		729
+9/7/1982	DEM	Democrat	STS	State Senator	CLM	Columbia	005		0	0	Crews	Jim		2498
+9/7/1982	DEM	Democrat	STS	State Senator	HAM	Hamilton	005		0	0	Crews	Jim		836
+9/7/1982	DEM	Democrat	STS	State Senator	JEF	Jefferson	005		0	0	Crews	Jim		773
+9/7/1982	DEM	Democrat	STS	State Senator	LEO	Leon	005		0	0	Crews	Jim		8541
+9/7/1982	DEM	Democrat	STS	State Senator	MAD	Madison	005		0	0	Crews	Jim		177
+9/7/1982	DEM	Democrat	STS	State Senator	SUW	Suwannee	005		0	0	Crews	Jim		886
+9/7/1982	DEM	Democrat	STS	State Senator	TAY	Taylor	005		0	0	Crews	Jim		313
+9/7/1982	DEM	Democrat	STS	State Senator	UNI	Union	005		0	0	Crews	Jim		327
+9/7/1982	DEM	Democrat	STS	State Senator	BAK	Baker	005		0	0	Grant	Bill		1024
+9/7/1982	DEM	Democrat	STS	State Senator	BRA	Bradford	005		0	0	Grant	Bill		880
+9/7/1982	DEM	Democrat	STS	State Senator	CLM	Columbia	005		0	0	Grant	Bill		2132
+9/7/1982	DEM	Democrat	STS	State Senator	HAM	Hamilton	005		0	0	Grant	Bill		819
+9/7/1982	DEM	Democrat	STS	State Senator	JEF	Jefferson	005		0	0	Grant	Bill		1106
+9/7/1982	DEM	Democrat	STS	State Senator	LEO	Leon	005		0	0	Grant	Bill		4510
+9/7/1982	DEM	Democrat	STS	State Senator	MAD	Madison	005		0	0	Grant	Bill		3860
+9/7/1982	DEM	Democrat	STS	State Senator	SUW	Suwannee	005		0	0	Grant	Bill		2006
+9/7/1982	DEM	Democrat	STS	State Senator	TAY	Taylor	005		0	0	Grant	Bill		2066
+9/7/1982	DEM	Democrat	STS	State Senator	UNI	Union	005		0	0	Grant	Bill		734
+9/7/1982	DEM	Democrat	STS	State Senator	BAK	Baker	005		0	0	Senterfitt	Jim		79
+9/7/1982	DEM	Democrat	STS	State Senator	BRA	Bradford	005		0	0	Senterfitt	Jim		96
+9/7/1982	DEM	Democrat	STS	State Senator	CLM	Columbia	005		0	0	Senterfitt	Jim		213
+9/7/1982	DEM	Democrat	STS	State Senator	HAM	Hamilton	005		0	0	Senterfitt	Jim		112
+9/7/1982	DEM	Democrat	STS	State Senator	JEF	Jefferson	005		0	0	Senterfitt	Jim		62
+9/7/1982	DEM	Democrat	STS	State Senator	LEO	Leon	005		0	0	Senterfitt	Jim		313
+9/7/1982	DEM	Democrat	STS	State Senator	MAD	Madison	005		0	0	Senterfitt	Jim		46
+9/7/1982	DEM	Democrat	STS	State Senator	SUW	Suwannee	005		0	0	Senterfitt	Jim		701
+9/7/1982	DEM	Democrat	STS	State Senator	TAY	Taylor	005		0	0	Senterfitt	Jim		113
+9/7/1982	DEM	Democrat	STS	State Senator	UNI	Union	005		0	0	Senterfitt	Jim		47
+9/7/1982	DEM	Democrat	STS	State Senator	BAK	Baker	005		0	0	Sutton	Bill		119
+9/7/1982	DEM	Democrat	STS	State Senator	BRA	Bradford	005		0	0	Sutton	Bill		244
+9/7/1982	DEM	Democrat	STS	State Senator	CLM	Columbia	005		0	0	Sutton	Bill		660
+9/7/1982	DEM	Democrat	STS	State Senator	HAM	Hamilton	005		0	0	Sutton	Bill		109
+9/7/1982	DEM	Democrat	STS	State Senator	JEF	Jefferson	005		0	0	Sutton	Bill		362
+9/7/1982	DEM	Democrat	STS	State Senator	LEO	Leon	005		0	0	Sutton	Bill		4632
+9/7/1982	DEM	Democrat	STS	State Senator	MAD	Madison	005		0	0	Sutton	Bill		141
+9/7/1982	DEM	Democrat	STS	State Senator	SUW	Suwannee	005		0	0	Sutton	Bill		156
+9/7/1982	DEM	Democrat	STS	State Senator	TAY	Taylor	005		0	0	Sutton	Bill		180
+9/7/1982	DEM	Democrat	STS	State Senator	UNI	Union	005		0	0	Sutton	Bill		178
+9/7/1982	DEM	Democrat	STS	State Senator	ALA	Alachua	006		0	0	Eppes	Margaret	C.	11031
+9/7/1982	DEM	Democrat	STS	State Senator	DIX	Dixie	006		0	0	Eppes	Margaret	C.	718
+9/7/1982	DEM	Democrat	STS	State Senator	GIL	Gilchrist	006		0	0	Eppes	Margaret	C.	471
+9/7/1982	DEM	Democrat	STS	State Senator	LAF	Lafayette	006		0	0	Eppes	Margaret	C.	286
+9/7/1982	DEM	Democrat	STS	State Senator	LEV	Levy	006		0	0	Eppes	Margaret	C.	1415
+9/7/1982	DEM	Democrat	STS	State Senator	MRN	Marion	006		0	0	Eppes	Margaret	C.	110
+9/7/1982	DEM	Democrat	STS	State Senator	PUT	Putnam	006		0	0	Eppes	Margaret	C.	1769
+9/7/1982	DEM	Democrat	STS	State Senator	ALA	Alachua	006		0	0	Kirkpatrick	George		8060
+9/7/1982	DEM	Democrat	STS	State Senator	DIX	Dixie	006		0	0	Kirkpatrick	George		2266
+9/7/1982	DEM	Democrat	STS	State Senator	GIL	Gilchrist	006		0	0	Kirkpatrick	George		1948
+9/7/1982	DEM	Democrat	STS	State Senator	LAF	Lafayette	006		0	0	Kirkpatrick	George		1542
+9/7/1982	DEM	Democrat	STS	State Senator	LEV	Levy	006		0	0	Kirkpatrick	George		3489
+9/7/1982	DEM	Democrat	STS	State Senator	MRN	Marion	006		0	0	Kirkpatrick	George		267
+9/7/1982	DEM	Democrat	STS	State Senator	PUT	Putnam	006		0	0	Kirkpatrick	George		4849
+9/7/1982	DEM	Democrat	STS	State Senator	DUV	Duval	007		0	0	Girardeau	Arnett	E.	14397
+9/7/1982	DEM	Democrat	STS	State Senator	NAS	Nassau	007		0	0	Girardeau	Arnett	E.	948
+9/7/1982	DEM	Democrat	STS	State Senator	DUV	Duval	007		0	0	Johnson	Andrew	E. (Andy)	9053
+9/7/1982	DEM	Democrat	STS	State Senator	NAS	Nassau	007		0	0	Johnson	Andrew	E. (Andy)	2747
+9/7/1982	DEM	Democrat	STS	State Senator	DUV	Duval	007		0	0	Sessions	George	Thomas	2240
+9/7/1982	DEM	Democrat	STS	State Senator	NAS	Nassau	007		0	0	Sessions	George	Thomas	631
+9/7/1982	DEM	Democrat	STS	State Senator	DUV	Duval	007		0	0	Steward	Eddie	Mae	4080
+9/7/1982	DEM	Democrat	STS	State Senator	NAS	Nassau	007		0	0	Steward	Eddie	Mae	345
+9/7/1982	DEM	Democrat	STS	State Senator	CLA	Clay	008		0	0	Carlucci	Joe		4784
+9/7/1982	DEM	Democrat	STS	State Senator	DUV	Duval	008		0	0	Carlucci	Joe		14976
+9/7/1982	DEM	Democrat	STS	State Senator	CLA	Clay	008		0	0	Crabb	Nancie	S.	3753
+9/7/1982	DEM	Democrat	STS	State Senator	DUV	Duval	008		0	0	Crabb	Nancie	S.	10874
+9/7/1982	DEM	Democrat	STS	State Senator	DUV	Duval	009		0	0	Hair	Mattox		13712
+9/7/1982	DEM	Democrat	STS	State Senator	FLA	Flagler	009		0	0	Hair	Mattox		1304
+9/7/1982	DEM	Democrat	STS	State Senator	STJ	St. Johns	009		0	0	Hair	Mattox		4503
+9/7/1982	DEM	Democrat	STS	State Senator	DUV	Duval	009		0	0	Jenkins	Dan		7884
+9/7/1982	DEM	Democrat	STS	State Senator	FLA	Flagler	009		0	0	Jenkins	Dan		836
+9/7/1982	DEM	Democrat	STS	State Senator	STJ	St. Johns	009		0	0	Jenkins	Dan		2317
+9/7/1982	DEM	Democrat	STS	State Senator	LAK	Lake	011		0	0	Barnhart	Gary		3214
+9/7/1982	DEM	Democrat	STS	State Senator	MRN	Marion	011		0	0	Barnhart	Gary		1700
+9/7/1982	DEM	Democrat	STS	State Senator	SEM	Seminole	011		0	0	Barnhart	Gary		1134
+9/7/1982	DEM	Democrat	STS	State Senator	SUM	Sumter	011		0	0	Barnhart	Gary		1519
+9/7/1982	DEM	Democrat	STS	State Senator	VOL	Volusia	011		0	0	Barnhart	Gary		508
+9/7/1982	DEM	Democrat	STS	State Senator	LAK	Lake	011		0	0	Hunter	Florence	M.	3712
+9/7/1982	DEM	Democrat	STS	State Senator	MRN	Marion	011		0	0	Hunter	Florence	M.	1819
+9/7/1982	DEM	Democrat	STS	State Senator	SEM	Seminole	011		0	0	Hunter	Florence	M.	1245
+9/7/1982	DEM	Democrat	STS	State Senator	SUM	Sumter	011		0	0	Hunter	Florence	M.	1035
+9/7/1982	DEM	Democrat	STS	State Senator	VOL	Volusia	011		0	0	Hunter	Florence	M.	639
+9/7/1982	DEM	Democrat	STS	State Senator	HIL	Hillsborough	021		0	0	Branigan	Vincent	W.	3614
+9/7/1982	DEM	Democrat	STS	State Senator	PAS	Pasco	021		0	0	Branigan	Vincent	W.	2828
+9/7/1982	DEM	Democrat	STS	State Senator	HIL	Hillsborough	021		0	0	Castor	Betty		9995
+9/7/1982	DEM	Democrat	STS	State Senator	PAS	Pasco	021		0	0	Castor	Betty		5461
+9/7/1982	DEM	Democrat	STS	State Senator	CHA	Charlotte	024		0	0	Holland	J.	J. 'Toby'	721
+9/7/1982	DEM	Democrat	STS	State Senator	DES	Desoto	024		0	0	Holland	J.	J. 'Toby'	635
+9/7/1982	DEM	Democrat	STS	State Senator	HAR	Hardee	024		0	0	Holland	J.	J. 'Toby'	1112
+9/7/1982	DEM	Democrat	STS	State Senator	LEE	Lee	024		0	0	Holland	J.	J. 'Toby'	1656
+9/7/1982	DEM	Democrat	STS	State Senator	MAN	Manatee	024		0	0	Holland	J.	J. 'Toby'	9052
+9/7/1982	DEM	Democrat	STS	State Senator	CHA	Charlotte	024		0	0	Neal	Pat		906
+9/7/1982	DEM	Democrat	STS	State Senator	DES	Desoto	024		0	0	Neal	Pat		799
+9/7/1982	DEM	Democrat	STS	State Senator	HAR	Hardee	024		0	0	Neal	Pat		1945
+9/7/1982	DEM	Democrat	STS	State Senator	LEE	Lee	024		0	0	Neal	Pat		4130
+9/7/1982	DEM	Democrat	STS	State Senator	MAN	Manatee	024		0	0	Neal	Pat		7627
+9/7/1982	DEM	Democrat	STS	State Senator	MRT	Martin	027		0	0	Childers	Henry	A.	3600
+9/7/1982	DEM	Democrat	STS	State Senator	PAL	Palm Beach	027		0	0	Childers	Henry	A.	4823
+9/7/1982	DEM	Democrat	STS	State Senator	STL	St. Lucie	027		0	0	Childers	Henry	A.	2578
+9/7/1982	DEM	Democrat	STS	State Senator	MRT	Martin	027		0	0	Martino	Michael		499
+9/7/1982	DEM	Democrat	STS	State Senator	PAL	Palm Beach	027		0	0	Martino	Michael		2196
+9/7/1982	DEM	Democrat	STS	State Senator	STL	St. Lucie	027		0	0	Martino	Michael		459
+9/7/1982	DEM	Democrat	STS	State Senator	MRT	Martin	027		0	0	Maxwell	Earl		671
+9/7/1982	DEM	Democrat	STS	State Senator	PAL	Palm Beach	027		0	0	Maxwell	Earl		2264
+9/7/1982	DEM	Democrat	STS	State Senator	STL	St. Lucie	027		0	0	Maxwell	Earl		529
+9/7/1982	DEM	Democrat	STS	State Senator	MRT	Martin	027		0	0	McKinnon	Ricahrd	W.	698
+9/7/1982	DEM	Democrat	STS	State Senator	PAL	Palm Beach	027		0	0	McKinnon	Ricahrd	W.	2393
+9/7/1982	DEM	Democrat	STS	State Senator	STL	St. Lucie	027		0	0	McKinnon	Ricahrd	W.	947
+9/7/1982	DEM	Democrat	STS	State Senator	BRO	Broward	029		0	0	Liederman	George		7642
+9/7/1982	DEM	Democrat	STS	State Senator	BRO	Broward	029		0	0	Weinstein	Peter	M.	15530
+9/7/1982	DEM	Democrat	STS	State Senator	BRO	Broward	030		0	0	McPherson	Tom		8751
+9/7/1982	DEM	Democrat	STS	State Senator	BRO	Broward	030		0	0	Wright	Kathleen	Cooper	7759
+9/7/1982	DEM	Democrat	STS	State Senator	BRO	Broward	032		0	0	Foster	Carl	E.	6657
+9/7/1982	DEM	Democrat	STS	State Senator	BRO	Broward	032		0	0	Jenne	Ken		18177
+9/7/1982	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	033		0	0	Grossman	Armand	W.	6179
+9/7/1982	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	033		0	0	Hill	John	A.	9986
+9/7/1982	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	035		0	0	Gordon	Jack	D.	13886
+9/7/1982	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	035		0	0	Steinburg	Paul	B.	11382
+9/7/1982	DEM	Democrat	STS	State Senator	BRO	Broward	037		0	0	Grenka	Duane	Diamond	227
+9/7/1982	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	037		0	0	Grenka	Duane	Diamond	3576
+9/7/1982	DEM	Democrat	STS	State Senator	BRO	Broward	037		0	0	Margolis	Gwen		664
+9/7/1982	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	037		0	0	Margolis	Gwen		24514
+9/7/1982	DEM	Democrat	STS	State Senator	DUV	Duval	039		0	0	Felton	James	E. 'Ed'	871
+9/7/1982	DEM	Democrat	STS	State Senator	NAS	Nassau	039		0	0	Felton	James	E. 'Ed'	2599
+9/7/1982	DEM	Democrat	STS	State Senator	DUV	Duval	039		0	0	Lewis	Richard	C.	2485
+9/7/1982	DEM	Democrat	STS	State Senator	NAS	Nassau	039		0	0	Lewis	Richard	C.	785
+9/7/1982	DEM	Democrat	STS	State Senator	DUV	Duval	039		0	0	Plummer	Lawrence	H. 'Larry'	5638
+9/7/1982	DEM	Democrat	STS	State Senator	NAS	Nassau	039		0	0	Plummer	Lawrence	H. 'Larry'	1871
+9/7/1982	DEM	Democrat	STS	State Senator	DUV	Duval	039		0	0	Renick	Richard	R.	4804
+9/7/1982	DEM	Democrat	STS	State Senator	NAS	Nassau	039		0	0	Renick	Richard	R.	2919
+9/7/1982	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	040		0	0	Fox	Roberta		12241
+9/7/1982	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	040		0	0	Friedman	Paul	D.	5847
+9/7/1982	DEM	Democrat	STR	State Representative	ESC	Escambia	001		0	0	Cox	Bill		1507
+9/7/1982	DEM	Democrat	STR	State Representative	ESC	Escambia	001		0	0	Johnson	Charlie		2881
+9/7/1982	DEM	Democrat	STR	State Representative	ESC	Escambia	001		0	0	Tobiassen	Tom		5619
+9/7/1982	DEM	Democrat	STR	State Representative	ESC	Escambia	002		0	0	Bass	Virginia		4336
+9/7/1982	DEM	Democrat	STR	State Representative	ESC	Escambia	002		0	0	Catches	James	S.	1033
+9/7/1982	DEM	Democrat	STR	State Representative	ESC	Escambia	002		0	0	Hagler	Clyde	H. (Jack)	4043
+9/7/1982	DEM	Democrat	STR	State Representative	ESC	Escambia	003		0	0	Hanberry	Mertz		1807
+9/7/1982	DEM	Democrat	STR	State Representative	SAN	Santa Rosa	003		0	0	Hanberry	Mertz		291
+9/7/1982	DEM	Democrat	STR	State Representative	ESC	Escambia	003		0	0	Robinson, III	Grover	C.	7133
+9/7/1982	DEM	Democrat	STR	State Representative	SAN	Santa Rosa	003		0	0	Robinson, III	Grover	C.	1081
+9/7/1982	DEM	Democrat	STR	State Representative	ESC	Escambia	004		0	0	Boles	Kenneth	E. 'Ken'	0
+9/7/1982	DEM	Democrat	STR	State Representative	OKA	Okaloosa	004		0	0	Boles	Kenneth	E. 'Ken'	1523
+9/7/1982	DEM	Democrat	STR	State Representative	SAN	Santa Rosa	004		0	0	Boles	Kenneth	E. 'Ken'	3582
+9/7/1982	DEM	Democrat	STR	State Representative	ESC	Escambia	004		0	0	Johnson	Bolley	'Bo'	0
+9/7/1982	DEM	Democrat	STR	State Representative	OKA	Okaloosa	004		0	0	Johnson	Bolley	'Bo'	1843
+9/7/1982	DEM	Democrat	STR	State Representative	SAN	Santa Rosa	004		0	0	Johnson	Bolley	'Bo'	6912
+9/7/1982	DEM	Democrat	STR	State Representative	OKA	Okaloosa	005		0	0	Jones	James	T. 'Jim'	2690
+9/7/1982	DEM	Democrat	STR	State Representative	WAL	Walton	005		0	0	Jones	James	T. 'Jim'	525
+9/7/1982	DEM	Democrat	STR	State Representative	OKA	Okaloosa	005		0	0	Ward	James	G.	5118
+9/7/1982	DEM	Democrat	STR	State Representative	WAL	Walton	005		0	0	Ward	James	G.	1010
+9/7/1982	DEM	Democrat	STR	State Representative	BAY	Bay	006		0	0	Hall	Leonard	J.	7788
+9/7/1982	DEM	Democrat	STR	State Representative	BAY	Bay	006		0	0	Johnson	Ron		8161
+9/7/1982	DEM	Democrat	STR	State Representative	BAY	Bay	007		0	0	Mitchell	Sam		2809
+9/7/1982	DEM	Democrat	STR	State Representative	HOL	Holmes	007		0	0	Mitchell	Sam		3543
+9/7/1982	DEM	Democrat	STR	State Representative	JAC	Jackson	007		0	0	Mitchell	Sam		2833
+9/7/1982	DEM	Democrat	STR	State Representative	WAL	Walton	007		0	0	Mitchell	Sam		3528
+9/7/1982	DEM	Democrat	STR	State Representative	WAS	Washington	007		0	0	Mitchell	Sam		3241
+9/7/1982	DEM	Democrat	STR	State Representative	BAY	Bay	007		0	0	Pooser	L.	B. 'Cap'	413
+9/7/1982	DEM	Democrat	STR	State Representative	HOL	Holmes	007		0	0	Pooser	L.	B. 'Cap'	956
+9/7/1982	DEM	Democrat	STR	State Representative	JAC	Jackson	007		0	0	Pooser	L.	B. 'Cap'	1150
+9/7/1982	DEM	Democrat	STR	State Representative	WAL	Walton	007		0	0	Pooser	L.	B. 'Cap'	864
+9/7/1982	DEM	Democrat	STR	State Representative	WAS	Washington	007		0	0	Pooser	L.	B. 'Cap'	1191
+9/7/1982	DEM	Democrat	STR	State Representative	FRA	Franklin	009		0	0	Bevis	Rocky		581
+9/7/1982	DEM	Democrat	STR	State Representative	LEO	Leon	009		0	0	Bevis	Rocky		1603
+9/7/1982	DEM	Democrat	STR	State Representative	LIB	Liberty	009		0	0	Bevis	Rocky		542
+9/7/1982	DEM	Democrat	STR	State Representative	WAK	Wakulla	009		0	0	Bevis	Rocky		308
+9/7/1982	DEM	Democrat	STR	State Representative	FRA	Franklin	009		0	0	Dixon	R.	E. Tookie	320
+9/7/1982	DEM	Democrat	STR	State Representative	LEO	Leon	009		0	0	Dixon	R.	E. Tookie	379
+9/7/1982	DEM	Democrat	STR	State Representative	LIB	Liberty	009		0	0	Dixon	R.	E. Tookie	327
+9/7/1982	DEM	Democrat	STR	State Representative	WAK	Wakulla	009		0	0	Dixon	R.	E. Tookie	174
+9/7/1982	DEM	Democrat	STR	State Representative	FRA	Franklin	009		0	0	Katsaris	Ken		561
+9/7/1982	DEM	Democrat	STR	State Representative	LEO	Leon	009		0	0	Katsaris	Ken		1589
+9/7/1982	DEM	Democrat	STR	State Representative	LIB	Liberty	009		0	0	Katsaris	Ken		452
+9/7/1982	DEM	Democrat	STR	State Representative	WAK	Wakulla	009		0	0	Katsaris	Ken		240
+9/7/1982	DEM	Democrat	STR	State Representative	FRA	Franklin	009		0	0	Lawson	Alfred	(Al)	470
+9/7/1982	DEM	Democrat	STR	State Representative	LEO	Leon	009		0	0	Lawson	Alfred	(Al)	3140
+9/7/1982	DEM	Democrat	STR	State Representative	LIB	Liberty	009		0	0	Lawson	Alfred	(Al)	351
+9/7/1982	DEM	Democrat	STR	State Representative	WAK	Wakulla	009		0	0	Lawson	Alfred	(Al)	140
+9/7/1982	DEM	Democrat	STR	State Representative	FRA	Franklin	009		0	0	Wimbush	C.	Bette	176
+9/7/1982	DEM	Democrat	STR	State Representative	LEO	Leon	009		0	0	Wimbush	C.	Bette	2659
+9/7/1982	DEM	Democrat	STR	State Representative	LIB	Liberty	009		0	0	Wimbush	C.	Bette	79
+9/7/1982	DEM	Democrat	STR	State Representative	WAK	Wakulla	009		0	0	Wimbush	C.	Bette	140
+9/7/1982	DEM	Democrat	STR	State Representative	DUV	Duval	017		0	0	Brown	Corrine		4053
+9/7/1982	DEM	Democrat	STR	State Representative	DUV	Duval	017		0	0	Glenwright	James	S. 'Jim'	1994
+9/7/1982	DEM	Democrat	STR	State Representative	DUV	Duval	017		0	0	Norman	Ervin	L.	1627
+9/7/1982	DEM	Democrat	STR	State Representative	DUV	Duval	017		0	0	Simpson	Eric	O.	3133
+9/7/1982	DEM	Democrat	STR	State Representative	BRA	Bradford	021		0	0	Drawdy	Lee		572
+9/7/1982	DEM	Democrat	STR	State Representative	CLA	Clay	021		0	0	Drawdy	Lee		4232
+9/7/1982	DEM	Democrat	STR	State Representative	STJ	St. Johns	021		0	0	Drawdy	Lee		186
+9/7/1982	DEM	Democrat	STR	State Representative	BRA	Bradford	021		0	0	Johnson	Jerry		114
+9/7/1982	DEM	Democrat	STR	State Representative	CLA	Clay	021		0	0	Johnson	Jerry		1436
+9/7/1982	DEM	Democrat	STR	State Representative	STJ	St. Johns	021		0	0	Johnson	Jerry		134
+9/7/1982	DEM	Democrat	STR	State Representative	BRA	Bradford	021		0	0	Mills	D.	A. Jack	53
+9/7/1982	DEM	Democrat	STR	State Representative	CLA	Clay	021		0	0	Mills	D.	A. Jack	551
+9/7/1982	DEM	Democrat	STR	State Representative	STJ	St. Johns	021		0	0	Mills	D.	A. Jack	21
+9/7/1982	DEM	Democrat	STR	State Representative	BRA	Bradford	021		0	0	Williams	Frank		960
+9/7/1982	DEM	Democrat	STR	State Representative	CLA	Clay	021		0	0	Williams	Frank		2243
+9/7/1982	DEM	Democrat	STR	State Representative	STJ	St. Johns	021		0	0	Williams	Frank		124
+9/7/1982	DEM	Democrat	STR	State Representative	ALA	Alachua	023		0	0	Green	Aaron	A.	2827
+9/7/1982	DEM	Democrat	STR	State Representative	PUT	Putnam	023		0	0	Green	Aaron	A.	357
+9/7/1982	DEM	Democrat	STR	State Representative	ALA	Alachua	023		0	0	Martin	Sidney		4855
+9/7/1982	DEM	Democrat	STR	State Representative	PUT	Putnam	023		0	0	Martin	Sidney		1053
+9/7/1982	DEM	Democrat	STR	State Representative	CIT	Citrus	026		0	0	Berg, Jr.	Leonard	A.	2255
+9/7/1982	DEM	Democrat	STR	State Representative	MRN	Marion	026		0	0	Berg, Jr.	Leonard	A.	1095
+9/7/1982	DEM	Democrat	STR	State Representative	CIT	Citrus	026		0	0	Hood	Gene		2040
+9/7/1982	DEM	Democrat	STR	State Representative	MRN	Marion	026		0	0	Hood	Gene		1159
+9/7/1982	DEM	Democrat	STR	State Representative	CIT	Citrus	026		0	0	Locke	Dick		4270
+9/7/1982	DEM	Democrat	STR	State Representative	MRN	Marion	026		0	0	Locke	Dick		962
+9/7/1982	DEM	Democrat	STR	State Representative	VOL	Volusia	028		0	0	Adams	Don		2894
+9/7/1982	DEM	Democrat	STR	State Representative	VOL	Volusia	028		0	0	Bell, III	Samuel	P.	6569
+9/7/1982	DEM	Democrat	STR	State Representative	VOL	Volusia	030		0	0	Brown	Tom	C.	5191
+9/7/1982	DEM	Democrat	STR	State Representative	VOL	Volusia	030		0	0	Henderson	Clay		4247
+9/7/1982	DEM	Democrat	STR	State Representative	ORA	Orange	040		0	0	Hartage	Homer		1073
+9/7/1982	DEM	Democrat	STR	State Representative	ORA	Orange	040		0	0	Lynum	Daisy	W.	1076
+9/7/1982	DEM	Democrat	STR	State Representative	ORA	Orange	040		0	0	Reddick	Alzo	J.	2463
+9/7/1982	DEM	Democrat	STR	State Representative	ORA	Orange	040		0	0	Sims	Wardell		1167
+9/7/1982	DEM	Democrat	STR	State Representative	ORA	Orange	041		0	0	Crawford	Craig		2600
+9/7/1982	DEM	Democrat	STR	State Representative	ORA	Orange	041		0	0	Griffin	Ben		1922
+9/7/1982	DEM	Democrat	STR	State Representative	POL	Polk	043		0	0	Dantzler	Rick		5806
+9/7/1982	DEM	Democrat	STR	State Representative	POL	Polk	043		0	0	Parker	Bruce	L.	3380
+9/7/1982	DEM	Democrat	STR	State Representative	POL	Polk	044		0	0	Canady	Charles	T.	3483
+9/7/1982	DEM	Democrat	STR	State Representative	POL	Polk	044		0	0	Ready	Gene		4679
+9/7/1982	DEM	Democrat	STR	State Representative	POL	Polk	045		0	0	Burnsed	Beverly	B.	4631
+9/7/1982	DEM	Democrat	STR	State Representative	POL	Polk	045		0	0	Bush	O.	David	3421
+9/7/1982	DEM	Democrat	STR	State Representative	PAS	Pasco	048		0	0	Stewart	Raymond	B. (Ray)	4873
+9/7/1982	DEM	Democrat	STR	State Representative	PAS	Pasco	048		0	0	Thompson	Betty		4490
+9/7/1982	DEM	Democrat	STR	State Representative	PIN	Pinellas	051		0	0	Hubbard	Charlotte	F.	4281
+9/7/1982	DEM	Democrat	STR	State Representative	PIN	Pinellas	051		0	0	Schultz	Diann	Griffin	2267
+9/7/1982	DEM	Democrat	STR	State Representative	PIN	Pinellas	054		0	0	Sharpe	William	J. (Bill)	4929
+9/7/1982	DEM	Democrat	STR	State Representative	PIN	Pinellas	054		0	0	Wade, II	Robert	Ray	1434
+9/7/1982	DEM	Democrat	STR	State Representative	PIN	Pinellas	055		0	0	Donaldson	Lonnie	W.	652
+9/7/1982	DEM	Democrat	STR	State Representative	PIN	Pinellas	055		0	0	Jamerson	Doug	'Tim'	1219
+9/7/1982	DEM	Democrat	STR	State Representative	PIN	Pinellas	055		0	0	James	Lily		1142
+9/7/1982	DEM	Democrat	STR	State Representative	PIN	Pinellas	055		0	0	Milton	Morris	W.	3186
+9/7/1982	DEM	Democrat	STR	State Representative	PIN	Pinellas	055		0	0	Sullivan	Bob		894
+9/7/1982	DEM	Democrat	STR	State Representative	PIN	Pinellas	057		0	0	Bailey	Patricia	L. 'Pat'	2924
+9/7/1982	DEM	Democrat	STR	State Representative	PIN	Pinellas	057		0	0	Lowe	Ron		979
+9/7/1982	DEM	Democrat	STR	State Representative	PIN	Pinellas	057		0	0	Whitehurst	Gareth		1076
+9/7/1982	DEM	Democrat	STR	State Representative	PIN	Pinellas	058		0	0	Campas	Jim		3200
+9/7/1982	DEM	Democrat	STR	State Representative	PIN	Pinellas	058		0	0	Rosenblum	Stuart	M.	1522
+9/7/1982	DEM	Democrat	STR	State Representative	HIL	Hillsborough	060		0	0	Figg	Mary		3422
+9/7/1982	DEM	Democrat	STR	State Representative	HIL	Hillsborough	060		0	0	Foster	'Trooper	Jim' Jim	2158
+9/7/1982	DEM	Democrat	STR	State Representative	HIL	Hillsborough	060		0	0	Mettler	Gerorge	B.	453
+9/7/1982	DEM	Democrat	STR	State Representative	HIL	Hillsborough	062		0	0	Clements	S.	L. 'Spud'	4375
+9/7/1982	DEM	Democrat	STR	State Representative	HIL	Hillsborough	062		0	0	Davin	Fran		3043
+9/7/1982	DEM	Democrat	STR	State Representative	HIL	Hillsborough	063		0	0	Butler	George	Washington	1151
+9/7/1982	DEM	Democrat	STR	State Representative	HIL	Hillsborough	063		0	0	Dawson	Warren		2845
+9/7/1982	DEM	Democrat	STR	State Representative	HIL	Hillsborough	063		0	0	Hargrett, Jr.	James T.	(Jim)	3117
+9/7/1982	DEM	Democrat	STR	State Representative	HIL	Hillsborough	063		0	0	Lester	Bob		1201
+9/7/1982	DEM	Democrat	STR	State Representative	HIL	Hillsborough	063		0	0	Miller, Jr.	Lesley	'Les'	809
+9/7/1982	DEM	Democrat	STR	State Representative	CHA	Charlotte	072		0	0	Peeples	Vernon		1325
+9/7/1982	DEM	Democrat	STR	State Representative	DES	Desoto	072		0	0	Peeples	Vernon		1170
+9/7/1982	DEM	Democrat	STR	State Representative	LEE	Lee	072		0	0	Peeples	Vernon		2018
+9/7/1982	DEM	Democrat	STR	State Representative	CHA	Charlotte	072		0	0	Ramage	Roy	H.	83
+9/7/1982	DEM	Democrat	STR	State Representative	DES	Desoto	072		0	0	Ramage	Roy	H.	128
+9/7/1982	DEM	Democrat	STR	State Representative	LEE	Lee	072		0	0	Ramage	Roy	H.	558
+9/7/1982	DEM	Democrat	STR	State Representative	CHA	Charlotte	072		0	0	Snipes	Carl	B.	139
+9/7/1982	DEM	Democrat	STR	State Representative	DES	Desoto	072		0	0	Snipes	Carl	B.	452
+9/7/1982	DEM	Democrat	STR	State Representative	LEE	Lee	072		0	0	Snipes	Carl	B.	1284
+9/7/1982	DEM	Democrat	STR	State Representative	CHA	Charlotte	072		0	0	Weatherly	Richard	(Dick)	595
+9/7/1982	DEM	Democrat	STR	State Representative	DES	Desoto	072		0	0	Weatherly	Richard	(Dick)	998
+9/7/1982	DEM	Democrat	STR	State Representative	LEE	Lee	072		0	0	Weatherly	Richard	(Dick)	1050
+9/7/1982	DEM	Democrat	STR	State Representative	LEE	Lee	073		0	0	Arnold	J.	Keith	3199
+9/7/1982	DEM	Democrat	STR	State Representative	LEE	Lee	073		0	0	Burnett	Philip	L.	1865
+9/7/1982	DEM	Democrat	STR	State Representative	LEE	Lee	073		0	0	Hay	Paul	G.	959
+9/7/1982	DEM	Democrat	STR	State Representative	LEE	Lee	073		0	0	Scott	Bruce	J.	3581
+9/7/1982	DEM	Democrat	STR	State Representative	LEE	Lee	074		0	0	Campochiaro	Joe		4791
+9/7/1982	DEM	Democrat	STR	State Representative	LEE	Lee	074		0	0	Quillinan	Carol		3650
+9/7/1982	DEM	Democrat	STR	State Representative	CLL	Collier	076		0	0	Harris, Jr.	Bert	J.	127
+9/7/1982	DEM	Democrat	STR	State Representative	DES	Desoto	076		0	0	Harris, Jr.	Bert	J.	69
+9/7/1982	DEM	Democrat	STR	State Representative	GLA	Glades	076		0	0	Harris, Jr.	Bert	J.	684
+9/7/1982	DEM	Democrat	STR	State Representative	HEN	Hendry	076		0	0	Harris, Jr.	Bert	J.	1162
+9/7/1982	DEM	Democrat	STR	State Representative	HIG	Highlands	076		0	0	Harris, Jr.	Bert	J.	4220
+9/7/1982	DEM	Democrat	STR	State Representative	OKE	Okeechobee	076		0	0	Harris, Jr.	Bert	J.	82
+9/7/1982	DEM	Democrat	STR	State Representative	CLL	Collier	076		0	0	Scarborough	Hazel		159
+9/7/1982	DEM	Democrat	STR	State Representative	DES	Desoto	076		0	0	Scarborough	Hazel		64
+9/7/1982	DEM	Democrat	STR	State Representative	GLA	Glades	076		0	0	Scarborough	Hazel		667
+9/7/1982	DEM	Democrat	STR	State Representative	HEN	Hendry	076		0	0	Scarborough	Hazel		1644
+9/7/1982	DEM	Democrat	STR	State Representative	HIG	Highlands	076		0	0	Scarborough	Hazel		2407
+9/7/1982	DEM	Democrat	STR	State Representative	OKE	Okeechobee	076		0	0	Scarborough	Hazel		93
+9/7/1982	DEM	Democrat	STR	State Representative	BRE	Brevard	077		0	0	Beck	Bill		470
+9/7/1982	DEM	Democrat	STR	State Representative	IND	Indian River	077		0	0	Beck	Bill		41
+9/7/1982	DEM	Democrat	STR	State Representative	OKE	Okeechobee	077		0	0	Beck	Bill		1031
+9/7/1982	DEM	Democrat	STR	State Representative	OSC	Osceola	077		0	0	Beck	Bill		1676
+9/7/1982	DEM	Democrat	STR	State Representative	STL	St. Lucie	077		0	0	Beck	Bill		33
+9/7/1982	DEM	Democrat	STR	State Representative	BRE	Brevard	077		0	0	Bronson	Irlo	'Bud'	246
+9/7/1982	DEM	Democrat	STR	State Representative	IND	Indian River	077		0	0	Bronson	Irlo	'Bud'	47
+9/7/1982	DEM	Democrat	STR	State Representative	OKE	Okeechobee	077		0	0	Bronson	Irlo	'Bud'	1183
+9/7/1982	DEM	Democrat	STR	State Representative	OSC	Osceola	077		0	0	Bronson	Irlo	'Bud'	2834
+9/7/1982	DEM	Democrat	STR	State Representative	STL	St. Lucie	077		0	0	Bronson	Irlo	'Bud'	42
+9/7/1982	DEM	Democrat	STR	State Representative	BRE	Brevard	077		0	0	Starling	Alan	C.	243
+9/7/1982	DEM	Democrat	STR	State Representative	IND	Indian River	077		0	0	Starling	Alan	C.	18
+9/7/1982	DEM	Democrat	STR	State Representative	OKE	Okeechobee	077		0	0	Starling	Alan	C.	1017
+9/7/1982	DEM	Democrat	STR	State Representative	OSC	Osceola	077		0	0	Starling	Alan	C.	1864
+9/7/1982	DEM	Democrat	STR	State Representative	STL	St. Lucie	077		0	0	Starling	Alan	C.	13
+9/7/1982	DEM	Democrat	STR	State Representative	BRE	Brevard	078		0	0	Avril	John	J.	17
+9/7/1982	DEM	Democrat	STR	State Representative	IND	Indian River	078		0	0	Avril	John	J.	857
+9/7/1982	DEM	Democrat	STR	State Representative	STL	St. Lucie	078		0	0	Avril	John	J.	429
+9/7/1982	DEM	Democrat	STR	State Representative	BRE	Brevard	078		0	0	Culbertson	Victor	(Vic)	20
+9/7/1982	DEM	Democrat	STR	State Representative	IND	Indian River	078		0	0	Culbertson	Victor	(Vic)	2190
+9/7/1982	DEM	Democrat	STR	State Representative	STL	St. Lucie	078		0	0	Culbertson	Victor	(Vic)	1087
+9/7/1982	DEM	Democrat	STR	State Representative	MRT	Martin	079		0	0	McCarty	Mike		952
+9/7/1982	DEM	Democrat	STR	State Representative	STL	St. Lucie	079		0	0	McCarty	Mike		4401
+9/7/1982	DEM	Democrat	STR	State Representative	MRT	Martin	079		0	0	Scott	Alfred	E. (Al)	593
+9/7/1982	DEM	Democrat	STR	State Representative	STL	St. Lucie	079		0	0	Scott	Alfred	E. (Al)	1979
+9/7/1982	DEM	Democrat	STR	State Representative	PAL	Palm Beach	086		0	0	Campbell	Doak		5995
+9/7/1982	DEM	Democrat	STR	State Representative	PAL	Palm Beach	086		0	0	Press	Steve		6684
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	087		0	0	Barrett	Bill		604
+9/7/1982	DEM	Democrat	STR	State Representative	PAL	Palm Beach	087		0	0	Barrett	Bill		1104
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	087		0	0	LaMont	George	F.	411
+9/7/1982	DEM	Democrat	STR	State Representative	PAL	Palm Beach	087		0	0	LaMont	George	F.	976
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	089		0	0	Goldstein	Murray		1850
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	089		0	0	Titone	Joe		2831
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	089		0	0	Zeytoonian	Carl		2451
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	090		0	0	Bidney	Peter	Aaron	1472
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	090		0	0	Deutsch	Peter		8988
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	090		0	0	Effman	Steven	W.	2730
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	090		0	0	Mitchell	Claire		826
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	092		0	0	Alden	Ruth	Gurnee	736
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	092		0	0	Coleman	Carla		2151
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	092		0	0	Fisher	Benny		1185
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	094		0	0	Gustafson	Tom		3799
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	094		0	0	Loehr	Nicholas	R.	727
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	095		0	0	Bowman	John	W.	948
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	095		0	0	Ceros-Livingston	Patsy	(C-L)	953
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	095		0	0	Cook	Jean		1477
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	095		0	0	MacKenzie	Anne		2031
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	096		0	0	Adams	John		3310
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	096		0	0	Armstrong	Thomas	H.	3325
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	097		0	0	Lippman	Fred		6607
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	097		0	0	Owen	Roger	L.	1645
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	098		0	0	Dyer	Harold	J.	5292
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	098		0	0	Lehman	David	J.	5865
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	100		0	0	Petri, Jr.	John		262
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	100		0	0	Petri, Jr.	John		1161
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	100		0	0	Shea	Donald	L.	222
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	100		0	0	Shea	Donald	L.	642
+9/7/1982	DEM	Democrat	STR	State Representative	BRO	Broward	100		0	0	Silver	Ronald	(Ron) A.	354
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	100		0	0	Silver	Ronald	(Ron) A.	5754
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	101		0	0	Abrams	Mike		6541
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	101		0	0	Rosen	Virginia	L.	4962
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	102		0	0	Clements, Jr.	Allen		2004
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	102		0	0	Gordon	Elaine		5826
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	103		0	0	Cohen	Ted		2602
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	103		0	0	Friedman	Michael		5633
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	104		0	0	Ferguson	Thomas		1465
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	104		0	0	Kutun	Barry		6487
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	105		0	0	Prado	Marta		1984
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	105		0	0	Spaet	Harold	(Hal) W.	2249
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	106		0	0	Foxworth	Ray		2238
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	106		0	0	Kershaw	Joe	Lang	3423
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	106		0	0	Reaves, Sr.	Jefferson		3257
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	107		0	0	Armbrister	Vashti	Coleman	3147
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	107		0	0	Burke	James		3795
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	107		0	0	Frazier	Eufala	'Smith'	1645
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	107		0	0	Johnson	Enid	Curtis	1401
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	108		0	0	Cowins, Sr.	Ben		3419
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	108		0	0	Logan, Jr.	Willie		3512
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	108		0	0	Woods	Mary	L.	2837
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		0	0	Hodges	William	Ray	2331
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		0	0	Reynolds	Bob		3200
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	110		0	0	Oliver	William	(Bill)	2050
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	110		0	0	Ruddy	Kathy		1583
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	111		0	0	Cardounel	Ed		1848
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	111		0	0	Perez	Tito		458
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	111		0	0	Ventura	Nicholas	'Nick'	1434
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	112		0	0	Cosgrove	John		3750
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	112		0	0	Ward	Phil		2419
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	113		0	0	Diaz-Balart	Lincoln		2118
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	113		0	0	Morse	Luis	C.	1784
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	114		0	0	Gruber	Donald	J. 'Don'	1732
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	114		0	0	Haggard	Robert		1301
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	114		0	0	Harrington	Nancy	O.	1237
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	114		0	0	Hoy	W.	Ivan	601
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	114		0	0	Metcalf	Elizabeth	(Betty)	2654
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	115		0	0	Flinn	Gene		1870
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	115		0	0	Kaufman	Stu		1346
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	115		0	0	Moyers	Michael		192
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	115		0	0	Murphy	Tim		1836
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	115		0	0	Santos	Reydel	'Sonny'	877
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	116		0	0	Hall	Charlie		3086
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	116		0	0	Simon	Art		3750
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	117		0	0	Carres	Charlene		2004
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	117		0	0	Flynn	William	L. 'Bill'	2209
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	117		0	0	Haber	Paul		630
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	117		0	0	Packar	Terri		1784
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	117		0	0	Robertson	Piedad	F.	1689
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	117		0	0	Stewart	James	E.	681
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		0	0	Lehtinen	Dexter		3501
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		0	0	Lewis	Dan		3036
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	119		0	0	Bohler, Jr.	Dennis		2026
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	119		0	0	Hawkins	Larry		3205
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	120		0	0	Allen	Joe		327
+9/7/1982	DEM	Democrat	STR	State Representative	MON	Monroe	120		0	0	Allen	Joe		6038
+9/7/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	120		0	0	Signorelli	Luis	E.	89
+9/7/1982	DEM	Democrat	STR	State Representative	MON	Monroe	120		0	0	Signorelli	Luis	E.	2370
+9/7/1982	REP	Republican	USS	United States Senator	ALA	Alachua			0	0	Bludworth	David	H.	539
+9/7/1982	REP	Republican	USS	United States Senator	BAK	Baker			0	0	Bludworth	David	H.	5
+9/7/1982	REP	Republican	USS	United States Senator	BAY	Bay			0	0	Bludworth	David	H.	367
+9/7/1982	REP	Republican	USS	United States Senator	BRA	Bradford			0	0	Bludworth	David	H.	34
+9/7/1982	REP	Republican	USS	United States Senator	BRE	Brevard			0	0	Bludworth	David	H.	4486
+9/7/1982	REP	Republican	USS	United States Senator	BRO	Broward			0	0	Bludworth	David	H.	5499
+9/7/1982	REP	Republican	USS	United States Senator	CAL	Calhoun			0	0	Bludworth	David	H.	3
+9/7/1982	REP	Republican	USS	United States Senator	CHA	Charlotte			0	0	Bludworth	David	H.	1688
+9/7/1982	REP	Republican	USS	United States Senator	CIT	Citrus			0	0	Bludworth	David	H.	599
+9/7/1982	REP	Republican	USS	United States Senator	CLA	Clay			0	0	Bludworth	David	H.	502
+9/7/1982	REP	Republican	USS	United States Senator	CLL	Collier			0	0	Bludworth	David	H.	1305
+9/7/1982	REP	Republican	USS	United States Senator	CLM	Columbia			0	0	Bludworth	David	H.	67
+9/7/1982	REP	Republican	USS	United States Senator	DES	Desoto			0	0	Bludworth	David	H.	58
+9/7/1982	REP	Republican	USS	United States Senator	DIX	Dixie			0	0	Bludworth	David	H.	11
+9/7/1982	REP	Republican	USS	United States Senator	DUV	Duval			0	0	Bludworth	David	H.	3061
+9/7/1982	REP	Republican	USS	United States Senator	ESC	Escambia			0	0	Bludworth	David	H.	1036
+9/7/1982	REP	Republican	USS	United States Senator	FLA	Flagler			0	0	Bludworth	David	H.	196
+9/7/1982	REP	Republican	USS	United States Senator	FRA	Franklin			0	0	Bludworth	David	H.	11
+9/7/1982	REP	Republican	USS	United States Senator	GAD	Gadsden			0	0	Bludworth	David	H.	30
+9/7/1982	REP	Republican	USS	United States Senator	GIL	Gilchrist			0	0	Bludworth	David	H.	4
+9/7/1982	REP	Republican	USS	United States Senator	GLA	Glades			0	0	Bludworth	David	H.	15
+9/7/1982	REP	Republican	USS	United States Senator	GUL	Gulf			0	0	Bludworth	David	H.	19
+9/7/1982	REP	Republican	USS	United States Senator	HAM	Hamilton			0	0	Bludworth	David	H.	9
+9/7/1982	REP	Republican	USS	United States Senator	HAR	Hardee			0	0	Bludworth	David	H.	13
+9/7/1982	REP	Republican	USS	United States Senator	HEN	Hendry			0	0	Bludworth	David	H.	69
+9/7/1982	REP	Republican	USS	United States Senator	HER	Hernando			0	0	Bludworth	David	H.	606
+9/7/1982	REP	Republican	USS	United States Senator	HIG	Highlands			0	0	Bludworth	David	H.	542
+9/7/1982	REP	Republican	USS	United States Senator	HIL	Hillsborough			0	0	Bludworth	David	H.	2787
+9/7/1982	REP	Republican	USS	United States Senator	HOL	Holmes			0	0	Bludworth	David	H.	16
+9/7/1982	REP	Republican	USS	United States Senator	IND	Indian River			0	0	Bludworth	David	H.	1195
+9/7/1982	REP	Republican	USS	United States Senator	JAC	Jackson			0	0	Bludworth	David	H.	69
+9/7/1982	REP	Republican	USS	United States Senator	JEF	Jefferson			0	0	Bludworth	David	H.	14
+9/7/1982	REP	Republican	USS	United States Senator	LAF	Lafayette			0	0	Bludworth	David	H.	7
+9/7/1982	REP	Republican	USS	United States Senator	LAK	Lake			0	0	Bludworth	David	H.	2505
+9/7/1982	REP	Republican	USS	United States Senator	LEE	Lee			0	0	Bludworth	David	H.	5793
+9/7/1982	REP	Republican	USS	United States Senator	LEO	Leon			0	0	Bludworth	David	H.	587
+9/7/1982	REP	Republican	USS	United States Senator	LEV	Levy			0	0	Bludworth	David	H.	74
+9/7/1982	REP	Republican	USS	United States Senator	LIB	Liberty			0	0	Bludworth	David	H.	1
+9/7/1982	REP	Republican	USS	United States Senator	MAD	Madison			0	0	Bludworth	David	H.	23
+9/7/1982	REP	Republican	USS	United States Senator	MAN	Manatee			0	0	Bludworth	David	H.	3770
+9/7/1982	REP	Republican	USS	United States Senator	MRN	Marion			0	0	Bludworth	David	H.	734
+9/7/1982	REP	Republican	USS	United States Senator	MRT	Martin			0	0	Bludworth	David	H.	3509
+9/7/1982	REP	Republican	USS	United States Senator	DAD	Miami-Dade			0	0	Bludworth	David	H.	10020
+9/7/1982	REP	Republican	USS	United States Senator	MON	Monroe			0	0	Bludworth	David	H.	499
+9/7/1982	REP	Republican	USS	United States Senator	NAS	Nassau			0	0	Bludworth	David	H.	42
+9/7/1982	REP	Republican	USS	United States Senator	OKA	Okaloosa			0	0	Bludworth	David	H.	791
+9/7/1982	REP	Republican	USS	United States Senator	OKE	Okeechobee			0	0	Bludworth	David	H.	125
+9/7/1982	REP	Republican	USS	United States Senator	ORA	Orange			0	0	Bludworth	David	H.	6486
+9/7/1982	REP	Republican	USS	United States Senator	OSC	Osceola			0	0	Bludworth	David	H.	684
+9/7/1982	REP	Republican	USS	United States Senator	PAL	Palm Beach			0	0	Bludworth	David	H.	21573
+9/7/1982	REP	Republican	USS	United States Senator	PAS	Pasco			0	0	Bludworth	David	H.	3189
+9/7/1982	REP	Republican	USS	United States Senator	PIN	Pinellas			0	0	Bludworth	David	H.	11188
+9/7/1982	REP	Republican	USS	United States Senator	POL	Polk			0	0	Bludworth	David	H.	3120
+9/7/1982	REP	Republican	USS	United States Senator	PUT	Putnam			0	0	Bludworth	David	H.	200
+9/7/1982	REP	Republican	USS	United States Senator	SAN	Santa Rosa			0	0	Bludworth	David	H.	195
+9/7/1982	REP	Republican	USS	United States Senator	SAR	Sarasota			0	0	Bludworth	David	H.	7651
+9/7/1982	REP	Republican	USS	United States Senator	SEM	Seminole			0	0	Bludworth	David	H.	2010
+9/7/1982	REP	Republican	USS	United States Senator	STJ	St. Johns			0	0	Bludworth	David	H.	546
+9/7/1982	REP	Republican	USS	United States Senator	STL	St. Lucie			0	0	Bludworth	David	H.	1730
+9/7/1982	REP	Republican	USS	United States Senator	SUM	Sumter			0	0	Bludworth	David	H.	59
+9/7/1982	REP	Republican	USS	United States Senator	SUW	Suwannee			0	0	Bludworth	David	H.	32
+9/7/1982	REP	Republican	USS	United States Senator	TAY	Taylor			0	0	Bludworth	David	H.	14
+9/7/1982	REP	Republican	USS	United States Senator	UNI	Union			0	0	Bludworth	David	H.	5
+9/7/1982	REP	Republican	USS	United States Senator	VOL	Volusia			0	0	Bludworth	David	H.	3853
+9/7/1982	REP	Republican	USS	United States Senator	WAK	Wakulla			0	0	Bludworth	David	H.	22
+9/7/1982	REP	Republican	USS	United States Senator	WAL	Walton			0	0	Bludworth	David	H.	127
+9/7/1982	REP	Republican	USS	United States Senator	WAS	Washington			0	0	Bludworth	David	H.	21
+9/7/1982	REP	Republican	USS	United States Senator	ALA	Alachua			0	0	Poole	Van	B.	656
+9/7/1982	REP	Republican	USS	United States Senator	BAK	Baker			0	0	Poole	Van	B.	4
+9/7/1982	REP	Republican	USS	United States Senator	BAY	Bay			0	0	Poole	Van	B.	373
+9/7/1982	REP	Republican	USS	United States Senator	BRA	Bradford			0	0	Poole	Van	B.	50
+9/7/1982	REP	Republican	USS	United States Senator	BRE	Brevard			0	0	Poole	Van	B.	6948
+9/7/1982	REP	Republican	USS	United States Senator	BRO	Broward			0	0	Poole	Van	B.	24456
+9/7/1982	REP	Republican	USS	United States Senator	CAL	Calhoun			0	0	Poole	Van	B.	3
+9/7/1982	REP	Republican	USS	United States Senator	CHA	Charlotte			0	0	Poole	Van	B.	3552
+9/7/1982	REP	Republican	USS	United States Senator	CIT	Citrus			0	0	Poole	Van	B.	863
+9/7/1982	REP	Republican	USS	United States Senator	CLA	Clay			0	0	Poole	Van	B.	381
+9/7/1982	REP	Republican	USS	United States Senator	CLL	Collier			0	0	Poole	Van	B.	7935
+9/7/1982	REP	Republican	USS	United States Senator	CLM	Columbia			0	0	Poole	Van	B.	66
+9/7/1982	REP	Republican	USS	United States Senator	DES	Desoto			0	0	Poole	Van	B.	138
+9/7/1982	REP	Republican	USS	United States Senator	DIX	Dixie			0	0	Poole	Van	B.	3
+9/7/1982	REP	Republican	USS	United States Senator	DUV	Duval			0	0	Poole	Van	B.	2445
+9/7/1982	REP	Republican	USS	United States Senator	ESC	Escambia			0	0	Poole	Van	B.	709
+9/7/1982	REP	Republican	USS	United States Senator	FLA	Flagler			0	0	Poole	Van	B.	172
+9/7/1982	REP	Republican	USS	United States Senator	FRA	Franklin			0	0	Poole	Van	B.	5
+9/7/1982	REP	Republican	USS	United States Senator	GAD	Gadsden			0	0	Poole	Van	B.	23
+9/7/1982	REP	Republican	USS	United States Senator	GIL	Gilchrist			0	0	Poole	Van	B.	7
+9/7/1982	REP	Republican	USS	United States Senator	GLA	Glades			0	0	Poole	Van	B.	23
+9/7/1982	REP	Republican	USS	United States Senator	GUL	Gulf			0	0	Poole	Van	B.	20
+9/7/1982	REP	Republican	USS	United States Senator	HAM	Hamilton			0	0	Poole	Van	B.	4
+9/7/1982	REP	Republican	USS	United States Senator	HAR	Hardee			0	0	Poole	Van	B.	28
+9/7/1982	REP	Republican	USS	United States Senator	HEN	Hendry			0	0	Poole	Van	B.	110
+9/7/1982	REP	Republican	USS	United States Senator	HER	Hernando			0	0	Poole	Van	B.	1214
+9/7/1982	REP	Republican	USS	United States Senator	HIG	Highlands			0	0	Poole	Van	B.	925
+9/7/1982	REP	Republican	USS	United States Senator	HIL	Hillsborough			0	0	Poole	Van	B.	4975
+9/7/1982	REP	Republican	USS	United States Senator	HOL	Holmes			0	0	Poole	Van	B.	15
+9/7/1982	REP	Republican	USS	United States Senator	IND	Indian River			0	0	Poole	Van	B.	1078
+9/7/1982	REP	Republican	USS	United States Senator	JAC	Jackson			0	0	Poole	Van	B.	45
+9/7/1982	REP	Republican	USS	United States Senator	JEF	Jefferson			0	0	Poole	Van	B.	22
+9/7/1982	REP	Republican	USS	United States Senator	LAF	Lafayette			0	0	Poole	Van	B.	2
+9/7/1982	REP	Republican	USS	United States Senator	LAK	Lake			0	0	Poole	Van	B.	2302
+9/7/1982	REP	Republican	USS	United States Senator	LEE	Lee			0	0	Poole	Van	B.	12050
+9/7/1982	REP	Republican	USS	United States Senator	LEO	Leon			0	0	Poole	Van	B.	870
+9/7/1982	REP	Republican	USS	United States Senator	LEV	Levy			0	0	Poole	Van	B.	100
+9/7/1982	REP	Republican	USS	United States Senator	LIB	Liberty			0	0	Poole	Van	B.	8
+9/7/1982	REP	Republican	USS	United States Senator	MAD	Madison			0	0	Poole	Van	B.	27
+9/7/1982	REP	Republican	USS	United States Senator	MAN	Manatee			0	0	Poole	Van	B.	4234
+9/7/1982	REP	Republican	USS	United States Senator	MRN	Marion			0	0	Poole	Van	B.	1622
+9/7/1982	REP	Republican	USS	United States Senator	MRT	Martin			0	0	Poole	Van	B.	1967
+9/7/1982	REP	Republican	USS	United States Senator	DAD	Miami-Dade			0	0	Poole	Van	B.	11660
+9/7/1982	REP	Republican	USS	United States Senator	MON	Monroe			0	0	Poole	Van	B.	473
+9/7/1982	REP	Republican	USS	United States Senator	NAS	Nassau			0	0	Poole	Van	B.	45
+9/7/1982	REP	Republican	USS	United States Senator	OKA	Okaloosa			0	0	Poole	Van	B.	551
+9/7/1982	REP	Republican	USS	United States Senator	OKE	Okeechobee			0	0	Poole	Van	B.	64
+9/7/1982	REP	Republican	USS	United States Senator	ORA	Orange			0	0	Poole	Van	B.	5868
+9/7/1982	REP	Republican	USS	United States Senator	OSC	Osceola			0	0	Poole	Van	B.	1121
+9/7/1982	REP	Republican	USS	United States Senator	PAL	Palm Beach			0	0	Poole	Van	B.	8746
+9/7/1982	REP	Republican	USS	United States Senator	PAS	Pasco			0	0	Poole	Van	B.	5412
+9/7/1982	REP	Republican	USS	United States Senator	PIN	Pinellas			0	0	Poole	Van	B.	19598
+9/7/1982	REP	Republican	USS	United States Senator	POL	Polk			0	0	Poole	Van	B.	2209
+9/7/1982	REP	Republican	USS	United States Senator	PUT	Putnam			0	0	Poole	Van	B.	173
+9/7/1982	REP	Republican	USS	United States Senator	SAN	Santa Rosa			0	0	Poole	Van	B.	172
+9/7/1982	REP	Republican	USS	United States Senator	SAR	Sarasota			0	0	Poole	Van	B.	9413
+9/7/1982	REP	Republican	USS	United States Senator	SEM	Seminole			0	0	Poole	Van	B.	2582
+9/7/1982	REP	Republican	USS	United States Senator	STJ	St. Johns			0	0	Poole	Van	B.	392
+9/7/1982	REP	Republican	USS	United States Senator	STL	St. Lucie			0	0	Poole	Van	B.	1302
+9/7/1982	REP	Republican	USS	United States Senator	SUM	Sumter			0	0	Poole	Van	B.	87
+9/7/1982	REP	Republican	USS	United States Senator	SUW	Suwannee			0	0	Poole	Van	B.	56
+9/7/1982	REP	Republican	USS	United States Senator	TAY	Taylor			0	0	Poole	Van	B.	16
+9/7/1982	REP	Republican	USS	United States Senator	UNI	Union			0	0	Poole	Van	B.	4
+9/7/1982	REP	Republican	USS	United States Senator	VOL	Volusia			0	0	Poole	Van	B.	3697
+9/7/1982	REP	Republican	USS	United States Senator	WAK	Wakulla			0	0	Poole	Van	B.	25
+9/7/1982	REP	Republican	USS	United States Senator	WAL	Walton			0	0	Poole	Van	B.	36
+9/7/1982	REP	Republican	USS	United States Senator	WAS	Washington			0	0	Poole	Van	B.	31
+9/7/1982	REP	Republican	USS	United States Senator	ALA	Alachua			0	0	Snyder	George		564
+9/7/1982	REP	Republican	USS	United States Senator	BAK	Baker			0	0	Snyder	George		9
+9/7/1982	REP	Republican	USS	United States Senator	BAY	Bay			0	0	Snyder	George		353
+9/7/1982	REP	Republican	USS	United States Senator	BRA	Bradford			0	0	Snyder	George		40
+9/7/1982	REP	Republican	USS	United States Senator	BRE	Brevard			0	0	Snyder	George		3243
+9/7/1982	REP	Republican	USS	United States Senator	BRO	Broward			0	0	Snyder	George		5776
+9/7/1982	REP	Republican	USS	United States Senator	CAL	Calhoun			0	0	Snyder	George		0
+9/7/1982	REP	Republican	USS	United States Senator	CHA	Charlotte			0	0	Snyder	George		1585
+9/7/1982	REP	Republican	USS	United States Senator	CIT	Citrus			0	0	Snyder	George		724
+9/7/1982	REP	Republican	USS	United States Senator	CLA	Clay			0	0	Snyder	George		504
+9/7/1982	REP	Republican	USS	United States Senator	CLL	Collier			0	0	Snyder	George		1567
+9/7/1982	REP	Republican	USS	United States Senator	CLM	Columbia			0	0	Snyder	George		84
+9/7/1982	REP	Republican	USS	United States Senator	DES	Desoto			0	0	Snyder	George		52
+9/7/1982	REP	Republican	USS	United States Senator	DIX	Dixie			0	0	Snyder	George		7
+9/7/1982	REP	Republican	USS	United States Senator	DUV	Duval			0	0	Snyder	George		2441
+9/7/1982	REP	Republican	USS	United States Senator	ESC	Escambia			0	0	Snyder	George		628
+9/7/1982	REP	Republican	USS	United States Senator	FLA	Flagler			0	0	Snyder	George		95
+9/7/1982	REP	Republican	USS	United States Senator	FRA	Franklin			0	0	Snyder	George		14
+9/7/1982	REP	Republican	USS	United States Senator	GAD	Gadsden			0	0	Snyder	George		27
+9/7/1982	REP	Republican	USS	United States Senator	GIL	Gilchrist			0	0	Snyder	George		6
+9/7/1982	REP	Republican	USS	United States Senator	GLA	Glades			0	0	Snyder	George		8
+9/7/1982	REP	Republican	USS	United States Senator	GUL	Gulf			0	0	Snyder	George		13
+9/7/1982	REP	Republican	USS	United States Senator	HAM	Hamilton			0	0	Snyder	George		3
+9/7/1982	REP	Republican	USS	United States Senator	HAR	Hardee			0	0	Snyder	George		17
+9/7/1982	REP	Republican	USS	United States Senator	HEN	Hendry			0	0	Snyder	George		42
+9/7/1982	REP	Republican	USS	United States Senator	HER	Hernando			0	0	Snyder	George		1066
+9/7/1982	REP	Republican	USS	United States Senator	HIG	Highlands			0	0	Snyder	George		441
+9/7/1982	REP	Republican	USS	United States Senator	HIL	Hillsborough			0	0	Snyder	George		3331
+9/7/1982	REP	Republican	USS	United States Senator	HOL	Holmes			0	0	Snyder	George		9
+9/7/1982	REP	Republican	USS	United States Senator	IND	Indian River			0	0	Snyder	George		429
+9/7/1982	REP	Republican	USS	United States Senator	JAC	Jackson			0	0	Snyder	George		45
+9/7/1982	REP	Republican	USS	United States Senator	JEF	Jefferson			0	0	Snyder	George		15
+9/7/1982	REP	Republican	USS	United States Senator	LAF	Lafayette			0	0	Snyder	George		2
+9/7/1982	REP	Republican	USS	United States Senator	LAK	Lake			0	0	Snyder	George		1598
+9/7/1982	REP	Republican	USS	United States Senator	LEE	Lee			0	0	Snyder	George		5286
+9/7/1982	REP	Republican	USS	United States Senator	LEO	Leon			0	0	Snyder	George		471
+9/7/1982	REP	Republican	USS	United States Senator	LEV	Levy			0	0	Snyder	George		94
+9/7/1982	REP	Republican	USS	United States Senator	LIB	Liberty			0	0	Snyder	George		0
+9/7/1982	REP	Republican	USS	United States Senator	MAD	Madison			0	0	Snyder	George		12
+9/7/1982	REP	Republican	USS	United States Senator	MAN	Manatee			0	0	Snyder	George		2957
+9/7/1982	REP	Republican	USS	United States Senator	MRN	Marion			0	0	Snyder	George		1508
+9/7/1982	REP	Republican	USS	United States Senator	MRT	Martin			0	0	Snyder	George		1267
+9/7/1982	REP	Republican	USS	United States Senator	DAD	Miami-Dade			0	0	Snyder	George		13738
+9/7/1982	REP	Republican	USS	United States Senator	MON	Monroe			0	0	Snyder	George		495
+9/7/1982	REP	Republican	USS	United States Senator	NAS	Nassau			0	0	Snyder	George		37
+9/7/1982	REP	Republican	USS	United States Senator	OKA	Okaloosa			0	0	Snyder	George		466
+9/7/1982	REP	Republican	USS	United States Senator	OKE	Okeechobee			0	0	Snyder	George		28
+9/7/1982	REP	Republican	USS	United States Senator	ORA	Orange			0	0	Snyder	George		3439
+9/7/1982	REP	Republican	USS	United States Senator	OSC	Osceola			0	0	Snyder	George		690
+9/7/1982	REP	Republican	USS	United States Senator	PAL	Palm Beach			0	0	Snyder	George		3562
+9/7/1982	REP	Republican	USS	United States Senator	PAS	Pasco			0	0	Snyder	George		5045
+9/7/1982	REP	Republican	USS	United States Senator	PIN	Pinellas			0	0	Snyder	George		20369
+9/7/1982	REP	Republican	USS	United States Senator	POL	Polk			0	0	Snyder	George		1119
+9/7/1982	REP	Republican	USS	United States Senator	PUT	Putnam			0	0	Snyder	George		205
+9/7/1982	REP	Republican	USS	United States Senator	SAN	Santa Rosa			0	0	Snyder	George		223
+9/7/1982	REP	Republican	USS	United States Senator	SAR	Sarasota			0	0	Snyder	George		9402
+9/7/1982	REP	Republican	USS	United States Senator	SEM	Seminole			0	0	Snyder	George		1289
+9/7/1982	REP	Republican	USS	United States Senator	STJ	St. Johns			0	0	Snyder	George		328
+9/7/1982	REP	Republican	USS	United States Senator	STL	St. Lucie			0	0	Snyder	George		1208
+9/7/1982	REP	Republican	USS	United States Senator	SUM	Sumter			0	0	Snyder	George		44
+9/7/1982	REP	Republican	USS	United States Senator	SUW	Suwannee			0	0	Snyder	George		57
+9/7/1982	REP	Republican	USS	United States Senator	TAY	Taylor			0	0	Snyder	George		19
+9/7/1982	REP	Republican	USS	United States Senator	UNI	Union			0	0	Snyder	George		2
+9/7/1982	REP	Republican	USS	United States Senator	VOL	Volusia			0	0	Snyder	George		2420
+9/7/1982	REP	Republican	USS	United States Senator	WAK	Wakulla			0	0	Snyder	George		34
+9/7/1982	REP	Republican	USS	United States Senator	WAL	Walton			0	0	Snyder	George		27
+9/7/1982	REP	Republican	USS	United States Senator	WAS	Washington			0	0	Snyder	George		30
+9/7/1982	REP	Republican	USR	United States Representative	ALA	Alachua	006		0	0	Havill	Ed		890
+9/7/1982	REP	Republican	USR	United States Representative	CIT	Citrus	006		0	0	Havill	Ed		1119
+9/7/1982	REP	Republican	USR	United States Representative	HER	Hernando	006		0	0	Havill	Ed		1222
+9/7/1982	REP	Republican	USR	United States Representative	LAK	Lake	006		0	0	Havill	Ed		4483
+9/7/1982	REP	Republican	USR	United States Representative	MRN	Marion	006		0	0	Havill	Ed		1808
+9/7/1982	REP	Republican	USR	United States Representative	PAS	Pasco	006		0	0	Havill	Ed		377
+9/7/1982	REP	Republican	USR	United States Representative	PUT	Putnam	006		0	0	Havill	Ed		12
+9/7/1982	REP	Republican	USR	United States Representative	SUM	Sumter	006		0	0	Havill	Ed		103
+9/7/1982	REP	Republican	USR	United States Representative	ALA	Alachua	006		0	0	Snyder	M.	J. 'Mike'	491
+9/7/1982	REP	Republican	USR	United States Representative	CIT	Citrus	006		0	0	Snyder	M.	J. 'Mike'	535
+9/7/1982	REP	Republican	USR	United States Representative	HER	Hernando	006		0	0	Snyder	M.	J. 'Mike'	895
+9/7/1982	REP	Republican	USR	United States Representative	LAK	Lake	006		0	0	Snyder	M.	J. 'Mike'	901
+9/7/1982	REP	Republican	USR	United States Representative	MRN	Marion	006		0	0	Snyder	M.	J. 'Mike'	1324
+9/7/1982	REP	Republican	USR	United States Representative	PAS	Pasco	006		0	0	Snyder	M.	J. 'Mike'	552
+9/7/1982	REP	Republican	USR	United States Representative	PUT	Putnam	006		0	0	Snyder	M.	J. 'Mike'	8
+9/7/1982	REP	Republican	USR	United States Representative	SUM	Sumter	006		0	0	Snyder	M.	J. 'Mike'	50
+9/7/1982	REP	Republican	USR	United States Representative	ALA	Alachua	006		0	0	Strange	Marion	Collins	350
+9/7/1982	REP	Republican	USR	United States Representative	CIT	Citrus	006		0	0	Strange	Marion	Collins	501
+9/7/1982	REP	Republican	USR	United States Representative	HER	Hernando	006		0	0	Strange	Marion	Collins	700
+9/7/1982	REP	Republican	USR	United States Representative	LAK	Lake	006		0	0	Strange	Marion	Collins	580
+9/7/1982	REP	Republican	USR	United States Representative	MRN	Marion	006		0	0	Strange	Marion	Collins	657
+9/7/1982	REP	Republican	USR	United States Representative	PAS	Pasco	006		0	0	Strange	Marion	Collins	304
+9/7/1982	REP	Republican	USR	United States Representative	PUT	Putnam	006		0	0	Strange	Marion	Collins	2
+9/7/1982	REP	Republican	USR	United States Representative	SUM	Sumter	006		0	0	Strange	Marion	Collins	41
+9/7/1982	REP	Republican	USR	United States Representative	HIL	Hillsborough	009		0	0	Bilirakis	Michael		882
+9/7/1982	REP	Republican	USR	United States Representative	PAS	Pasco	009		0	0	Bilirakis	Michael		7618
+9/7/1982	REP	Republican	USR	United States Representative	PIN	Pinellas	009		0	0	Bilirakis	Michael		8533
+9/7/1982	REP	Republican	USR	United States Representative	HIL	Hillsborough	009		0	0	Kiser	Curt		1206
+9/7/1982	REP	Republican	USR	United States Representative	PAS	Pasco	009		0	0	Kiser	Curt		3694
+9/7/1982	REP	Republican	USR	United States Representative	PIN	Pinellas	009		0	0	Kiser	Curt		9494
+9/7/1982	REP	Republican	USR	United States Representative	HIL	Hillsborough	009		0	0	LeCher	Charles	F.	504
+9/7/1982	REP	Republican	USR	United States Representative	PAS	Pasco	009		0	0	LeCher	Charles	F.	1937
+9/7/1982	REP	Republican	USR	United States Representative	PIN	Pinellas	009		0	0	LeCher	Charles	F.	3908
+9/7/1982	REP	Republican	USR	United States Representative	CLL	Collier	012		0	0	Lewis	Tom		1779
+9/7/1982	REP	Republican	USR	United States Representative	GLA	Glades	012		0	0	Lewis	Tom		32
+9/7/1982	REP	Republican	USR	United States Representative	HEN	Hendry	012		0	0	Lewis	Tom		178
+9/7/1982	REP	Republican	USR	United States Representative	HIG	Highlands	012		0	0	Lewis	Tom		1260
+9/7/1982	REP	Republican	USR	United States Representative	IND	Indian River	012		0	0	Lewis	Tom		708
+9/7/1982	REP	Republican	USR	United States Representative	MRT	Martin	012		0	0	Lewis	Tom		4681
+9/7/1982	REP	Republican	USR	United States Representative	OKE	Okeechobee	012		0	0	Lewis	Tom		167
+9/7/1982	REP	Republican	USR	United States Representative	PAL	Palm Beach	012		0	0	Lewis	Tom		5852
+9/7/1982	REP	Republican	USR	United States Representative	STL	St. Lucie	012		0	0	Lewis	Tom		2853
+9/7/1982	REP	Republican	USR	United States Representative	CLL	Collier	012		0	0	Worden	Al		1273
+9/7/1982	REP	Republican	USR	United States Representative	GLA	Glades	012		0	0	Worden	Al		13
+9/7/1982	REP	Republican	USR	United States Representative	HEN	Hendry	012		0	0	Worden	Al		42
+9/7/1982	REP	Republican	USR	United States Representative	HIG	Highlands	012		0	0	Worden	Al		684
+9/7/1982	REP	Republican	USR	United States Representative	IND	Indian River	012		0	0	Worden	Al		680
+9/7/1982	REP	Republican	USR	United States Representative	MRT	Martin	012		0	0	Worden	Al		2430
+9/7/1982	REP	Republican	USR	United States Representative	OKE	Okeechobee	012		0	0	Worden	Al		52
+9/7/1982	REP	Republican	USR	United States Representative	PAL	Palm Beach	012		0	0	Worden	Al		4137
+9/7/1982	REP	Republican	USR	United States Representative	STL	St. Lucie	012		0	0	Worden	Al		1575
+9/7/1982	REP	Republican	USR	United States Representative	CHA	Charlotte	013		0	0	Ewing	Ted		2015
+9/7/1982	REP	Republican	USR	United States Representative	CLL	Collier	013		0	0	Ewing	Ted		821
+9/7/1982	REP	Republican	USR	United States Representative	LEE	Lee	013		0	0	Ewing	Ted		1907
+9/7/1982	REP	Republican	USR	United States Representative	SAR	Sarasota	013		0	0	Ewing	Ted		10490
+9/7/1982	REP	Republican	USR	United States Representative	CHA	Charlotte	013		0	0	Gardner	Jim		950
+9/7/1982	REP	Republican	USR	United States Representative	CLL	Collier	013		0	0	Gardner	Jim		661
+9/7/1982	REP	Republican	USR	United States Representative	LEE	Lee	013		0	0	Gardner	Jim		1862
+9/7/1982	REP	Republican	USR	United States Representative	SAR	Sarasota	013		0	0	Gardner	Jim		7072
+9/7/1982	REP	Republican	USR	United States Representative	CHA	Charlotte	013		0	0	Mack	Connie		1770
+9/7/1982	REP	Republican	USR	United States Representative	CLL	Collier	013		0	0	Mack	Connie		2819
+9/7/1982	REP	Republican	USR	United States Representative	LEE	Lee	013		0	0	Mack	Connie		7219
+9/7/1982	REP	Republican	USR	United States Representative	SAR	Sarasota	013		0	0	Mack	Connie		8154
+9/7/1982	REP	Republican	USR	United States Representative	CHA	Charlotte	013		0	0	Nelson	Richard	T. 'Dick'	1265
+9/7/1982	REP	Republican	USR	United States Representative	CLL	Collier	013		0	0	Nelson	Richard	T. 'Dick'	2559
+9/7/1982	REP	Republican	USR	United States Representative	LEE	Lee	013		0	0	Nelson	Richard	T. 'Dick'	4358
+9/7/1982	REP	Republican	USR	United States Representative	SAR	Sarasota	013		0	0	Nelson	Richard	T. 'Dick'	2308
+9/7/1982	REP	Republican	USR	United States Representative	CHA	Charlotte	013		0	0	Nuckolls	Hugh	Paul	2133
+9/7/1982	REP	Republican	USR	United States Representative	CLL	Collier	013		0	0	Nuckolls	Hugh	Paul	1169
+9/7/1982	REP	Republican	USR	United States Representative	LEE	Lee	013		0	0	Nuckolls	Hugh	Paul	9547
+9/7/1982	REP	Republican	USR	United States Representative	SAR	Sarasota	013		0	0	Nuckolls	Hugh	Paul	868
+9/7/1982	REP	Republican	USR	United States Representative	BRO	Broward	014		0	0	Mitchell	Steve		2156
+9/7/1982	REP	Republican	USR	United States Representative	PAL	Palm Beach	014		0	0	Mitchell	Steve		13528
+9/7/1982	REP	Republican	USR	United States Representative	BRO	Broward	014		0	0	Moore	Reid		1509
+9/7/1982	REP	Republican	USR	United States Representative	PAL	Palm Beach	014		0	0	Moore	Reid		9654
+9/7/1982	REP	Republican	USR	United States Representative	BRO	Broward	016		0	0	Berkowitz	Maurice		4426
+9/7/1982	REP	Republican	USR	United States Representative	DAD	Miami-Dade	016		0	0	Berkowitz	Maurice		2301
+9/7/1982	REP	Republican	USR	United States Representative	BRO	Broward	016		0	0	Fadgen	Jerry		1899
+9/7/1982	REP	Republican	USR	United States Representative	DAD	Miami-Dade	016		0	0	Fadgen	Jerry		1363
+9/7/1982	REP	Republican	USR	United States Representative	BRO	Broward	016		0	0	Smith	Joseph	'Doc'	2600
+9/7/1982	REP	Republican	USR	United States Representative	DAD	Miami-Dade	016		0	0	Smith	Joseph	'Doc'	1614
+9/7/1982	REP	Republican	USR	United States Representative	DAD	Miami-Dade	018		0	0	Estrella	Evelio	S.	1741
+9/7/1982	REP	Republican	USR	United States Representative	DAD	Miami-Dade	018		0	0	Iglesias	Manuel		6168
+9/7/1982	REP	Republican	USR	United States Representative	DAD	Miami-Dade	018		0	0	Nunez	Ricardo		5304
+9/7/1982	REP	Republican	USR	United States Representative	DAD	Miami-Dade	019		0	0	Goodwin	Herbert		2137
+9/7/1982	REP	Republican	USR	United States Representative	MON	Monroe	019		0	0	Goodwin	Herbert		358
+9/7/1982	REP	Republican	USR	United States Representative	DAD	Miami-Dade	019		0	0	Rinker	Glenn		10604
+9/7/1982	REP	Republican	USR	United States Representative	MON	Monroe	019		0	0	Rinker	Glenn		1330
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	ALA	Alachua			0	0	Leo Callahan	Skip Bafalis	/	1567
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	BAK	Baker			0	0	Leo Callahan	Skip Bafalis	/	9
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	BAY	Bay			0	0	Leo Callahan	Skip Bafalis	/	960
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	BRA	Bradford			0	0	Leo Callahan	Skip Bafalis	/	96
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	BRE	Brevard			0	0	Leo Callahan	Skip Bafalis	/	12526
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	BRO	Broward			0	0	Leo Callahan	Skip Bafalis	/	29457
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	CAL	Calhoun			0	0	Leo Callahan	Skip Bafalis	/	6
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	CHA	Charlotte			0	0	Leo Callahan	Skip Bafalis	/	7192
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	CIT	Citrus			0	0	Leo Callahan	Skip Bafalis	/	1790
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	CLA	Clay			0	0	Leo Callahan	Skip Bafalis	/	1196
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	CLL	Collier			0	0	Leo Callahan	Skip Bafalis	/	10543
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	CLM	Columbia			0	0	Leo Callahan	Skip Bafalis	/	184
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	DES	Desoto			0	0	Leo Callahan	Skip Bafalis	/	245
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	DIX	Dixie			0	0	Leo Callahan	Skip Bafalis	/	15
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	DUV	Duval			0	0	Leo Callahan	Skip Bafalis	/	7134
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	ESC	Escambia			0	0	Leo Callahan	Skip Bafalis	/	1985
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	FLA	Flagler			0	0	Leo Callahan	Skip Bafalis	/	359
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	FRA	Franklin			0	0	Leo Callahan	Skip Bafalis	/	25
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	GAD	Gadsden			0	0	Leo Callahan	Skip Bafalis	/	75
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	GIL	Gilchrist			0	0	Leo Callahan	Skip Bafalis	/	14
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	GLA	Glades			0	0	Leo Callahan	Skip Bafalis	/	37
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	GUL	Gulf			0	0	Leo Callahan	Skip Bafalis	/	34
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	HAM	Hamilton			0	0	Leo Callahan	Skip Bafalis	/	15
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	HAR	Hardee			0	0	Leo Callahan	Skip Bafalis	/	52
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	HEN	Hendry			0	0	Leo Callahan	Skip Bafalis	/	203
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	HER	Hernando			0	0	Leo Callahan	Skip Bafalis	/	2312
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	HIG	Highlands			0	0	Leo Callahan	Skip Bafalis	/	1738
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	HIL	Hillsborough			0	0	Leo Callahan	Skip Bafalis	/	10109
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	HOL	Holmes			0	0	Leo Callahan	Skip Bafalis	/	34
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	IND	Indian River			0	0	Leo Callahan	Skip Bafalis	/	2619
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	JAC	Jackson			0	0	Leo Callahan	Skip Bafalis	/	114
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	JEF	Jefferson			0	0	Leo Callahan	Skip Bafalis	/	45
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	LAF	Lafayette			0	0	Leo Callahan	Skip Bafalis	/	8
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	LAK	Lake			0	0	Leo Callahan	Skip Bafalis	/	5648
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	LEE	Lee			0	0	Leo Callahan	Skip Bafalis	/	22157
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	LEO	Leon			0	0	Leo Callahan	Skip Bafalis	/	1861
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	LEV	Levy			0	0	Leo Callahan	Skip Bafalis	/	212
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	LIB	Liberty			0	0	Leo Callahan	Skip Bafalis	/	9
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	MAD	Madison			0	0	Leo Callahan	Skip Bafalis	/	57
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	MAN	Manatee			0	0	Leo Callahan	Skip Bafalis	/	9447
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	MRN	Marion			0	0	Leo Callahan	Skip Bafalis	/	3098
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	MRT	Martin			0	0	Leo Callahan	Skip Bafalis	/	6590
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	DAD	Miami-Dade			0	0	Leo Callahan	Skip Bafalis	/	30202
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	MON	Monroe			0	0	Leo Callahan	Skip Bafalis	/	1184
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	NAS	Nassau			0	0	Leo Callahan	Skip Bafalis	/	111
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	OKA	Okaloosa			0	0	Leo Callahan	Skip Bafalis	/	1368
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	OKE	Okeechobee			0	0	Leo Callahan	Skip Bafalis	/	211
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	ORA	Orange			0	0	Leo Callahan	Skip Bafalis	/	14534
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	OSC	Osceola			0	0	Leo Callahan	Skip Bafalis	/	2323
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	PAL	Palm Beach			0	0	Leo Callahan	Skip Bafalis	/	27999
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	PAS	Pasco			0	0	Leo Callahan	Skip Bafalis	/	10723
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	PIN	Pinellas			0	0	Leo Callahan	Skip Bafalis	/	44078
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	POL	Polk			0	0	Leo Callahan	Skip Bafalis	/	5568
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	PUT	Putnam			0	0	Leo Callahan	Skip Bafalis	/	510
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	SAN	Santa Rosa			0	0	Leo Callahan	Skip Bafalis	/	489
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	SAR	Sarasota			0	0	Leo Callahan	Skip Bafalis	/	24872
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	SEM	Seminole			0	0	Leo Callahan	Skip Bafalis	/	5167
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	STJ	St. Johns			0	0	Leo Callahan	Skip Bafalis	/	1103
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	STL	St. Lucie			0	0	Leo Callahan	Skip Bafalis	/	3809
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	SUM	Sumter			0	0	Leo Callahan	Skip Bafalis	/	140
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	SUW	Suwannee			0	0	Leo Callahan	Skip Bafalis	/	111
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	TAY	Taylor			0	0	Leo Callahan	Skip Bafalis	/	41
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	UNI	Union			0	0	Leo Callahan	Skip Bafalis	/	9
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	VOL	Volusia			0	0	Leo Callahan	Skip Bafalis	/	8481
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	WAK	Wakulla			0	0	Leo Callahan	Skip Bafalis	/	80
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	WAL	Walton			0	0	Leo Callahan	Skip Bafalis	/	156
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	WAS	Washington			0	0	Leo Callahan	Skip Bafalis	/	72
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	ALA	Alachua			0	0	Wendell Davis	Vernon Davids	/	238
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	BAK	Baker			0	0	Wendell Davis	Vernon Davids	/	7
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	BAY	Bay			0	0	Wendell Davis	Vernon Davids	/	203
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	BRA	Bradford			0	0	Wendell Davis	Vernon Davids	/	27
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	BRE	Brevard			0	0	Wendell Davis	Vernon Davids	/	2270
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	BRO	Broward			0	0	Wendell Davis	Vernon Davids	/	4606
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	CAL	Calhoun			0	0	Wendell Davis	Vernon Davids	/	2
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	CHA	Charlotte			0	0	Wendell Davis	Vernon Davids	/	706
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	CIT	Citrus			0	0	Wendell Davis	Vernon Davids	/	285
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	CLA	Clay			0	0	Wendell Davis	Vernon Davids	/	218
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	CLL	Collier			0	0	Wendell Davis	Vernon Davids	/	763
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	CLM	Columbia			0	0	Wendell Davis	Vernon Davids	/	49
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	DES	Desoto			0	0	Wendell Davis	Vernon Davids	/	22
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	DIX	Dixie			0	0	Wendell Davis	Vernon Davids	/	5
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	DUV	Duval			0	0	Wendell Davis	Vernon Davids	/	1019
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	ESC	Escambia			0	0	Wendell Davis	Vernon Davids	/	458
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	FLA	Flagler			0	0	Wendell Davis	Vernon Davids	/	104
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	FRA	Franklin			0	0	Wendell Davis	Vernon Davids	/	8
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	GAD	Gadsden			0	0	Wendell Davis	Vernon Davids	/	11
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	GIL	Gilchrist			0	0	Wendell Davis	Vernon Davids	/	3
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	GLA	Glades			0	0	Wendell Davis	Vernon Davids	/	1
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	GUL	Gulf			0	0	Wendell Davis	Vernon Davids	/	13
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	HAM	Hamilton			0	0	Wendell Davis	Vernon Davids	/	2
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	HAR	Hardee			0	0	Wendell Davis	Vernon Davids	/	8
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	HEN	Hendry			0	0	Wendell Davis	Vernon Davids	/	14
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	HER	Hernando			0	0	Wendell Davis	Vernon Davids	/	400
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	HIG	Highlands			0	0	Wendell Davis	Vernon Davids	/	147
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	HIL	Hillsborough			0	0	Wendell Davis	Vernon Davids	/	1869
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	HOL	Holmes			0	0	Wendell Davis	Vernon Davids	/	6
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	IND	Indian River			0	0	Wendell Davis	Vernon Davids	/	190
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	JAC	Jackson			0	0	Wendell Davis	Vernon Davids	/	41
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	JEF	Jefferson			0	0	Wendell Davis	Vernon Davids	/	6
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	LAF	Lafayette			0	0	Wendell Davis	Vernon Davids	/	2
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	LAK	Lake			0	0	Wendell Davis	Vernon Davids	/	1083
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	LEE	Lee			0	0	Wendell Davis	Vernon Davids	/	1628
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	LEO	Leon			0	0	Wendell Davis	Vernon Davids	/	188
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	LEV	Levy			0	0	Wendell Davis	Vernon Davids	/	59
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	LIB	Liberty			0	0	Wendell Davis	Vernon Davids	/	0
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	MAD	Madison			0	0	Wendell Davis	Vernon Davids	/	5
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	MAN	Manatee			0	0	Wendell Davis	Vernon Davids	/	1433
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	MRN	Marion			0	0	Wendell Davis	Vernon Davids	/	587
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	MRT	Martin			0	0	Wendell Davis	Vernon Davids	/	758
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	DAD	Miami-Dade			0	0	Wendell Davis	Vernon Davids	/	6338
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	MON	Monroe			0	0	Wendell Davis	Vernon Davids	/	364
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	NAS	Nassau			0	0	Wendell Davis	Vernon Davids	/	12
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	OKA	Okaloosa			0	0	Wendell Davis	Vernon Davids	/	447
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	OKE	Okeechobee			0	0	Wendell Davis	Vernon Davids	/	17
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	ORA	Orange			0	0	Wendell Davis	Vernon Davids	/	2335
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	OSC	Osceola			0	0	Wendell Davis	Vernon Davids	/	368
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	PAL	Palm Beach			0	0	Wendell Davis	Vernon Davids	/	4379
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	PAS	Pasco			0	0	Wendell Davis	Vernon Davids	/	2624
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	PIN	Pinellas			0	0	Wendell Davis	Vernon Davids	/	8227
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	POL	Polk			0	0	Wendell Davis	Vernon Davids	/	968
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	PUT	Putnam			0	0	Wendell Davis	Vernon Davids	/	87
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	SAN	Santa Rosa			0	0	Wendell Davis	Vernon Davids	/	108
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	SAR	Sarasota			0	0	Wendell Davis	Vernon Davids	/	2266
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	SEM	Seminole			0	0	Wendell Davis	Vernon Davids	/	852
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	STJ	St. Johns			0	0	Wendell Davis	Vernon Davids	/	152
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	STL	St. Lucie			0	0	Wendell Davis	Vernon Davids	/	366
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	SUM	Sumter			0	0	Wendell Davis	Vernon Davids	/	94
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	SUW	Suwannee			0	0	Wendell Davis	Vernon Davids	/	32
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	TAY	Taylor			0	0	Wendell Davis	Vernon Davids	/	9
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	UNI	Union			0	0	Wendell Davis	Vernon Davids	/	2
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	VOL	Volusia			0	0	Wendell Davis	Vernon Davids	/	1800
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	WAK	Wakulla			0	0	Wendell Davis	Vernon Davids	/	8
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	WAL	Walton			0	0	Wendell Davis	Vernon Davids	/	32
+9/7/1982	REP	Republican	GOV	Governor and Lieutenant Governor	WAS	Washington			0	0	Wendell Davis	Vernon Davids	/	12
+9/7/1982	REP	Republican	STS	State Senator	CHA	Charlotte	025		0	0	Floethe	Linda	Wheeler	1356
+9/7/1982	REP	Republican	STS	State Senator	SAR	Sarasota	025		0	0	Floethe	Linda	Wheeler	10131
+9/7/1982	REP	Republican	STS	State Senator	CHA	Charlotte	025		0	0	Henderson	Warren	S.	3644
+9/7/1982	REP	Republican	STS	State Senator	SAR	Sarasota	025		0	0	Henderson	Warren	S.	18622
+9/7/1982	REP	Republican	STS	State Senator	MRT	Martin	027		0	0	Harvin	Wes		1757
+9/7/1982	REP	Republican	STS	State Senator	PAL	Palm Beach	027		0	0	Harvin	Wes		1918
+9/7/1982	REP	Republican	STS	State Senator	STL	St. Lucie	027		0	0	Harvin	Wes		769
+9/7/1982	REP	Republican	STS	State Senator	MRT	Martin	027		0	0	Longley	John	F.	635
+9/7/1982	REP	Republican	STS	State Senator	PAL	Palm Beach	027		0	0	Longley	John	F.	1599
+9/7/1982	REP	Republican	STS	State Senator	STL	St. Lucie	027		0	0	Longley	John	F.	752
+9/7/1982	REP	Republican	STS	State Senator	MRT	Martin	027		0	0	Myers	William	G. 'Doc'	5109
+9/7/1982	REP	Republican	STS	State Senator	PAL	Palm Beach	027		0	0	Myers	William	G. 'Doc'	4292
+9/7/1982	REP	Republican	STS	State Senator	STL	St. Lucie	027		0	0	Myers	William	G. 'Doc'	1837
+9/7/1982	REP	Republican	STS	State Senator	HEN	Hendry	028		0	0	Bearson	Tim		74
+9/7/1982	REP	Republican	STS	State Senator	PAL	Palm Beach	028		0	0	Bearson	Tim		3855
+9/7/1982	REP	Republican	STS	State Senator	HEN	Hendry	028		0	0	Currier	Jo	Ann	144
+9/7/1982	REP	Republican	STS	State Senator	PAL	Palm Beach	028		0	0	Currier	Jo	Ann	6509
+9/7/1982	REP	Republican	STS	State Senator	BRO	Broward	030		0	0	Bush	Tom		4788
+9/7/1982	REP	Republican	STS	State Senator	BRO	Broward	030		0	0	Smith	Dave		3698
+9/7/1982	REP	Republican	STS	State Senator	DAD	Miami-Dade	034		0	0	Burke	Jon	W.	2195
+9/7/1982	REP	Republican	STS	State Senator	DAD	Miami-Dade	034		0	0	Diaz-Silveira	Frank		3754
+9/7/1982	REP	Republican	STS	State Senator	DAD	Miami-Dade	034		0	0	Dominguez	Carlos		2503
+9/7/1982	REP	Republican	STS	State Senator	DAD	Miami-Dade	039		0	0	Bach	Richard		2238
+9/7/1982	REP	Republican	STS	State Senator	MON	Monroe	039		0	0	Bach	Richard		882
+9/7/1982	REP	Republican	STS	State Senator	DAD	Miami-Dade	039		0	0	Biggs	Bill		2103
+9/7/1982	REP	Republican	STS	State Senator	MON	Monroe	039		0	0	Biggs	Bill		638
+9/7/1982	REP	Republican	STS	State Senator	DAD	Miami-Dade	040		0	0	Brodie	Jim		4609
+9/7/1982	REP	Republican	STS	State Senator	DAD	Miami-Dade	040		0	0	Gallagher	Doug		4067
+9/7/1982	REP	Republican	STR	State Representative	VOL	Volusia	030		0	0	Sumners	John		2310
+9/7/1982	REP	Republican	STR	State Representative	VOL	Volusia	030		0	0	Weidner	Vernon	William	1165
+9/7/1982	REP	Republican	STR	State Representative	BRE	Brevard	033		0	0	Culton	Bain		1749
+9/7/1982	REP	Republican	STR	State Representative	BRE	Brevard	033		0	0	Evans-Jones	Marilyn		3221
+9/7/1982	REP	Republican	STR	State Representative	BRE	Brevard	034		0	0	Lavigne	Jim		316
+9/7/1982	REP	Republican	STR	State Representative	ORA	Orange	034		0	0	Lavigne	Jim		15
+9/7/1982	REP	Republican	STR	State Representative	SEM	Seminole	034		0	0	Lavigne	Jim		1277
+9/7/1982	REP	Republican	STR	State Representative	BRE	Brevard	034		0	0	Selph	Carl		634
+9/7/1982	REP	Republican	STR	State Representative	ORA	Orange	034		0	0	Selph	Carl		24
+9/7/1982	REP	Republican	STR	State Representative	SEM	Seminole	034		0	0	Selph	Carl		1277
+9/7/1982	REP	Republican	STR	State Representative	ORA	Orange	038		0	0	Emmons	Jane		1844
+9/7/1982	REP	Republican	STR	State Representative	ORA	Orange	038		0	0	McEwan	Bruce		3375
+9/7/1982	REP	Republican	STR	State Representative	PAS	Pasco	048		0	0	Conine	Merland	(Merl) J.	1892
+9/7/1982	REP	Republican	STR	State Representative	PAS	Pasco	048		0	0	Mabry	Janet		3615
+9/7/1982	REP	Republican	STR	State Representative	PAS	Pasco	050		0	0	Brennan	Bill-William	R.	101
+9/7/1982	REP	Republican	STR	State Representative	PIN	Pinellas	050		0	0	Brennan	Bill-William	R.	1778
+9/7/1982	REP	Republican	STR	State Representative	PAS	Pasco	050		0	0	Dunbar	Peter		208
+9/7/1982	REP	Republican	STR	State Representative	PIN	Pinellas	050		0	0	Dunbar	Peter		7907
+9/7/1982	REP	Republican	STR	State Representative	PIN	Pinellas	051		0	0	Combee	Byron		4191
+9/7/1982	REP	Republican	STR	State Representative	PIN	Pinellas	051		0	0	Fischer	Rodney	S. 'Rod'	2767
+9/7/1982	REP	Republican	STR	State Representative	PIN	Pinellas	051		0	0	Lyman	Bill		842
+9/7/1982	REP	Republican	STR	State Representative	PIN	Pinellas	054		0	0	Halboth	Otto		2607
+9/7/1982	REP	Republican	STR	State Representative	PIN	Pinellas	054		0	0	Sample	Dorothy	Eaton	4525
+9/7/1982	REP	Republican	STR	State Representative	PIN	Pinellas	055		0	0	Bainbridge	Jim		1044
+9/7/1982	REP	Republican	STR	State Representative	PIN	Pinellas	055		0	0	Melby	Bob		1894
+9/7/1982	REP	Republican	STR	State Representative	PIN	Pinellas	057		0	0	Burke	Armand	'Sandy'	1543
+9/7/1982	REP	Republican	STR	State Representative	PIN	Pinellas	057		0	0	Frishe	James	Christopher	1261
+9/7/1982	REP	Republican	STR	State Representative	PIN	Pinellas	057		0	0	Heine	Randolph	A.	408
+9/7/1982	REP	Republican	STR	State Representative	PIN	Pinellas	057		0	0	Pippen, Jr.	Joseph	F.	1113
+9/7/1982	REP	Republican	STR	State Representative	HIL	Hillsborough	060		0	0	Benshoof	Helen		1086
+9/7/1982	REP	Republican	STR	State Representative	HIL	Hillsborough	060		0	0	Derek	Andy		497
+9/7/1982	REP	Republican	STR	State Representative	MAN	Manatee	068		0	0	Goodson	Marti		1133
+9/7/1982	REP	Republican	STR	State Representative	MAN	Manatee	068		0	0	Simone	Peggy		2593
+9/7/1982	REP	Republican	STR	State Representative	MAN	Manatee	068		0	0	Wilcox	Dave		2861
+9/7/1982	REP	Republican	STR	State Representative	MAN	Manatee	069		0	0	Danson	Thomas	E.	439
+9/7/1982	REP	Republican	STR	State Representative	SAR	Sarasota	069		0	0	Danson	Thomas	E.	5473
+9/7/1982	REP	Republican	STR	State Representative	MAN	Manatee	069		0	0	Stuefer, Jr.	Bill		106
+9/7/1982	REP	Republican	STR	State Representative	SAR	Sarasota	069		0	0	Stuefer, Jr.	Bill		1818
+9/7/1982	REP	Republican	STR	State Representative	CHA	Charlotte	071		0	0	Burrall	Fred		3741
+9/7/1982	REP	Republican	STR	State Representative	SAR	Sarasota	071		0	0	Burrall	Fred		3244
+9/7/1982	REP	Republican	STR	State Representative	CHA	Charlotte	071		0	0	Thomas	David	L.	1135
+9/7/1982	REP	Republican	STR	State Representative	SAR	Sarasota	071		0	0	Thomas	David	L.	3505
+9/7/1982	REP	Republican	STR	State Representative	LEE	Lee	074		0	0	Dudley	Fred	R.	7398
+9/7/1982	REP	Republican	STR	State Representative	LEE	Lee	074		0	0	Privette	Bob		5124
+9/7/1982	REP	Republican	STR	State Representative	MRT	Martin	080		0	0	Hill, Jr.	James	C.	1239
+9/7/1982	REP	Republican	STR	State Representative	PAL	Palm Beach	080		0	0	Hill, Jr.	James	C.	1227
+9/7/1982	REP	Republican	STR	State Representative	MRT	Martin	080		0	0	McRoberts	Tim		1908
+9/7/1982	REP	Republican	STR	State Representative	PAL	Palm Beach	080		0	0	McRoberts	Tim		964
+9/7/1982	REP	Republican	STR	State Representative	MRT	Martin	080		0	0	Signore	Arlene	L.	1253
+9/7/1982	REP	Republican	STR	State Representative	PAL	Palm Beach	080		0	0	Signore	Arlene	L.	615
+9/7/1982	REP	Republican	STR	State Representative	PAL	Palm Beach	082		0	0	Casas	John	F.	1696
+9/7/1982	REP	Republican	STR	State Representative	PAL	Palm Beach	082		0	0	DeMario	Frank		2008
+9/7/1982	REP	Republican	STR	State Representative	PAL	Palm Beach	083		0	0	Bougae	Arthur	H.	1481
+9/7/1982	REP	Republican	STR	State Representative	PAL	Palm Beach	083		0	0	Fitelson	'Stu'		935
+9/7/1982	REP	Republican	STR	State Representative	PAL	Palm Beach	086		0	0	Quatela	Jerry		3150
+9/7/1982	REP	Republican	STR	State Representative	PAL	Palm Beach	086		0	0	Zipper	Howard	D.	1936
+9/7/1982	REP	Republican	STR	State Representative	BRO	Broward	087		0	0	Hanson	Carol	G.	1013
+9/7/1982	REP	Republican	STR	State Representative	PAL	Palm Beach	087		0	0	Hanson	Carol	G.	2759
+9/7/1982	REP	Republican	STR	State Representative	BRO	Broward	087		0	0	Stone	Franklin	M. (Frank)	1161
+9/7/1982	REP	Republican	STR	State Representative	PAL	Palm Beach	087		0	0	Stone	Franklin	M. (Frank)	1997
+9/7/1982	REP	Republican	STR	State Representative	BRO	Broward	092		0	0	Greger	Gerald	D.	1100
+9/7/1982	REP	Republican	STR	State Representative	BRO	Broward	092		0	0	Shelley	Robert	J. 'Bob'	2156
+9/7/1982	REP	Republican	STR	State Representative	BRO	Broward	093		0	0	Rendina	Rich		3410
+9/7/1982	REP	Republican	STR	State Representative	BRO	Broward	093		0	0	Sanderson	Debby		4271
+9/7/1982	REP	Republican	STR	State Representative	BRO	Broward	094		0	0	Clarke	C.	L.	872
+9/7/1982	REP	Republican	STR	State Representative	BRO	Broward	094		0	0	Curran	Mike		1791
+9/7/1982	REP	Republican	STR	State Representative	BRO	Broward	096		0	0	Cather	Don		2096
+9/7/1982	REP	Republican	STR	State Representative	BRO	Broward	096		0	0	Milone	Ralph		902
+9/7/1982	REP	Republican	STR	State Representative	DAD	Miami-Dade	110		0	0	Pozo	Raul		1439
+9/7/1982	REP	Republican	STR	State Representative	DAD	Miami-Dade	110		0	0	Rand	S.	J.	410
+9/7/1982	REP	Republican	STR	State Representative	DAD	Miami-Dade	110		0	0	Ros	Ileana		1727
+9/7/1982	REP	Republican	STR	State Representative	DAD	Miami-Dade	111		0	0	Casas	Roberto		2010
+9/7/1982	REP	Republican	STR	State Representative	DAD	Miami-Dade	111		0	0	Vidal	Yolanda	M.	422
+9/7/1982	REP	Republican	STR	State Representative	DAD	Miami-Dade	112		0	0	Adao	David		162
+9/7/1982	REP	Republican	STR	State Representative	DAD	Miami-Dade	112		0	0	Bermello	Willy	A.	1764
+9/7/1982	REP	Republican	STR	State Representative	DAD	Miami-Dade	112		0	0	Bucelo	Armando	J.	2186
+9/7/1982	REP	Republican	STR	State Representative	DAD	Miami-Dade	113		0	0	Cortina	Humberto		1899
+9/7/1982	REP	Republican	STR	State Representative	DAD	Miami-Dade	113		0	0	Marina	Evaristo	L. (Ever)	1081
+9/7/1982	REP	Republican	STR	State Representative	DAD	Miami-Dade	113		0	0	Rodriguez	Ceferino	C.	260
+9/7/1982	REP	Republican	STR	State Representative	DAD	Miami-Dade	114		0	0	Ashkar	Theresa	'Terry'	2058
+9/7/1982	REP	Republican	STR	State Representative	DAD	Miami-Dade	114		0	0	Plummer	John		1070
+9/7/1982	REP	Republican	STR	State Representative	DAD	Miami-Dade	115		0	0	Amaro	Humberto	G.	986
+9/7/1982	REP	Republican	STR	State Representative	DAD	Miami-Dade	115		0	0	Arango	Franz		1627
+9/7/1982	REP	Republican	STR	State Representative	DAD	Miami-Dade	115		0	0	Asencio	Steve		1158
+9/7/1982	REP	Republican	STR	State Representative	DAD	Miami-Dade	119		0	0	Brown	Reed	Vance	279
+9/7/1982	REP	Republican	STR	State Representative	DAD	Miami-Dade	119		0	0	McPherson	Scott		1274
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	001	0	0	Cawthon	Victor	M.	485
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	001	0	0	Cawthon	Victor	M.	2986
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	001	0	0	Cawthon	Victor	M.	1369
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	001	0	0	Cawthon	Victor	M.	16250
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	001	0	0	Cawthon	Victor	M.	491
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	001	0	0	Cawthon	Victor	M.	1287
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	FRA	Franklin	002	001	0	0	Dean	Robert	C.	558
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	GAD	Gadsden	002	001	0	0	Dean	Robert	C.	1733
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	JEF	Jefferson	002	001	0	0	Dean	Robert	C.	825
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	LEO	Leon	002	001	0	0	Dean	Robert	C.	7803
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	LIB	Liberty	002	001	0	0	Dean	Robert	C.	551
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	WAK	Wakulla	002	001	0	0	Dean	Robert	C.	1798
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	001	0	0	Bruce	J.	Donald	3199
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	001	0	0	Bruce	J.	Donald	32815
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	001	0	0	Bruce	J.	Donald	1447
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	001	0	0	Harrison	James	L.	5887
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	001	0	0	Harrison	James	L.	44608
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	001	0	0	Harrison	James	L.	2962
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	003	0	0	McNeal	Ray		6788
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	003	0	0	McNeal	Ray		6549
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	003	0	0	McNeal	Ray		7467
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	003	0	0	McNeal	Ray		14987
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	003	0	0	McNeal	Ray		1358
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	003	0	0	Simmons	Albert	C.	4056
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	003	0	0	Simmons	Albert	C.	4039
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	003	0	0	Simmons	Albert	C.	2783
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	003	0	0	Simmons	Albert	C.	3913
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	003	0	0	Simmons	Albert	C.	958
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	007	0	0	Hansel	Helen	S.	21278
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	007	0	0	Hansel	Helen	S.	53679
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	007	0	0	Stoutamire	R.	Grable	14190
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	007	0	0	Stoutamire	R.	Grable	48538
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	002	0	0	Coleman	Ted		9462
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	002	0	0	Coleman	Ted		1583
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	002	0	0	Murrell, Jr.	William	(Bill)	4161
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	002	0	0	Murrell, Jr.	William	(Bill)	1205
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	002	0	0	Parkinson	Richard	J. R.	4959
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	002	0	0	Parkinson	Richard	J. R.	1594
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	002	0	0	Plaut	Tanya	M.	7036
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	002	0	0	Plaut	Tanya	M.	1452
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	002	0	0	Sanders	Brian	C.	9584
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	002	0	0	Sanders	Brian	C.	2190
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	003	0	0	Barco	C.	S.	3013
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	003	0	0	Barco	C.	S.	662
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	003	0	0	Byrd	James	S.	11144
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	003	0	0	Byrd	James	S.	3064
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	003	0	0	Corbett	James	Craig	9789
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	003	0	0	Corbett	James	Craig	2318
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	003	0	0	Scarlett	Don		9665
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	003	0	0	Scarlett	Don		1677
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	005	0	0	Durant, Jr.	N.	Joseph	75479
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	005	0	0	Shapiro	Sidney	B.	93228
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	006	0	0	Faske	Adele	Segall	90912
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	006	0	0	Shapiro	E.		62433
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	012	0	0	Kaye	Robert		96494
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	012	0	0	Waxman	Jeffrey	J.	49104
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	018	0	0	Solomon	Harold		86287
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	018	0	0	Starkman	Milton	I.	68923
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	DES	Desoto	012	002	0	0	Garst, Jr.	Claflin		689
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	MAN	Manatee	012	002	0	0	Garst, Jr.	Claflin		13500
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	SAR	Sarasota	012	002	0	0	Garst, Jr.	Claflin		13947
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	DES	Desoto	012	002	0	0	Logan	Paul	E.	953
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	MAN	Manatee	012	002	0	0	Logan	Paul	E.	14454
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	SAR	Sarasota	012	002	0	0	Logan	Paul	E.	24726
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	MON	Monroe	016	001	0	0	Fischer	Max	Clark	1735
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	MON	Monroe	016	001	0	0	Galletti	Joseph		1538
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	MON	Monroe	016	001	0	0	Gomez	Helio		4062
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	009	0	0	Blank	Richard	N.	29140
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	009	0	0	Naze	George		17795
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	009	0	0	Speiser	Mark	A.	62316
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	001	0	0	Gossow	Irving	B.	8091
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	001	0	0	Gossow	Irving	B.	3512
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	001	0	0	Leffler	Kenneth	M.	28637
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	001	0	0	Leffler	Kenneth	M.	10458
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	003	0	0	Collier	Eugene	(Gene)	8374
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	003	0	0	Collier	Eugene	(Gene)	3187
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	003	0	0	Jackson	Edward	M.	11961
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	003	0	0	Jackson	Edward	M.	3240
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	003	0	0	Kelley	Franklin	D.	5202
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	003	0	0	Kelley	Franklin	D.	3089
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	003	0	0	Lober	Jere	E.	13719
+9/7/1982	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	003	0	0	Lober	Jere	E.	2875

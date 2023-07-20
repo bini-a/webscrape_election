@@ -1,0 +1,281 @@
+ElectionDate	PartyCode	PartyName	RaceCode	OfficeDesc	CountyCode	CountyName	Juris1num	Juris2num	Precincts	PrecinctsReporting	CanNameLast	CanNameFirst	CanNameMiddle	CanVotes
+10/5/1982	DEM	Democrat	USR	United States Representative	CLA	Clay	004		0	0	Chappell	Bill		2965
+10/5/1982	DEM	Democrat	USR	United States Representative	DUV	Duval	004		0	0	Chappell	Bill		4280
+10/5/1982	DEM	Democrat	USR	United States Representative	FLA	Flagler	004		0	0	Chappell	Bill		1275
+10/5/1982	DEM	Democrat	USR	United States Representative	PUT	Putnam	004		0	0	Chappell	Bill		3516
+10/5/1982	DEM	Democrat	USR	United States Representative	STJ	St. Johns	004		0	0	Chappell	Bill		2784
+10/5/1982	DEM	Democrat	USR	United States Representative	VOL	Volusia	004		0	0	Chappell	Bill		17660
+10/5/1982	DEM	Democrat	USR	United States Representative	CLA	Clay	004		0	0	Hughes	Reid		1996
+10/5/1982	DEM	Democrat	USR	United States Representative	DUV	Duval	004		0	0	Hughes	Reid		3927
+10/5/1982	DEM	Democrat	USR	United States Representative	FLA	Flagler	004		0	0	Hughes	Reid		1208
+10/5/1982	DEM	Democrat	USR	United States Representative	PUT	Putnam	004		0	0	Hughes	Reid		2188
+10/5/1982	DEM	Democrat	USR	United States Representative	STJ	St. Johns	004		0	0	Hughes	Reid		2620
+10/5/1982	DEM	Democrat	USR	United States Representative	VOL	Volusia	004		0	0	Hughes	Reid		15817
+10/5/1982	DEM	Democrat	STS	State Senator	BAK	Baker	005		0	0	Crews	Jim		1286
+10/5/1982	DEM	Democrat	STS	State Senator	BRA	Bradford	005		0	0	Crews	Jim		1213
+10/5/1982	DEM	Democrat	STS	State Senator	CLM	Columbia	005		0	0	Crews	Jim		2540
+10/5/1982	DEM	Democrat	STS	State Senator	HAM	Hamilton	005		0	0	Crews	Jim		967
+10/5/1982	DEM	Democrat	STS	State Senator	JEF	Jefferson	005		0	0	Crews	Jim		1301
+10/5/1982	DEM	Democrat	STS	State Senator	LEO	Leon	005		0	0	Crews	Jim		8989
+10/5/1982	DEM	Democrat	STS	State Senator	MAD	Madison	005		0	0	Crews	Jim		497
+10/5/1982	DEM	Democrat	STS	State Senator	SUW	Suwannee	005		0	0	Crews	Jim		1273
+10/5/1982	DEM	Democrat	STS	State Senator	TAY	Taylor	005		0	0	Crews	Jim		790
+10/5/1982	DEM	Democrat	STS	State Senator	UNI	Union	005		0	0	Crews	Jim		533
+10/5/1982	DEM	Democrat	STS	State Senator	BAK	Baker	005		0	0	Grant	Bill		1817
+10/5/1982	DEM	Democrat	STS	State Senator	BRA	Bradford	005		0	0	Grant	Bill		1918
+10/5/1982	DEM	Democrat	STS	State Senator	CLM	Columbia	005		0	0	Grant	Bill		4006
+10/5/1982	DEM	Democrat	STS	State Senator	HAM	Hamilton	005		0	0	Grant	Bill		1320
+10/5/1982	DEM	Democrat	STS	State Senator	JEF	Jefferson	005		0	0	Grant	Bill		1884
+10/5/1982	DEM	Democrat	STS	State Senator	LEO	Leon	005		0	0	Grant	Bill		7959
+10/5/1982	DEM	Democrat	STS	State Senator	MAD	Madison	005		0	0	Grant	Bill		3853
+10/5/1982	DEM	Democrat	STS	State Senator	SUW	Suwannee	005		0	0	Grant	Bill		3731
+10/5/1982	DEM	Democrat	STS	State Senator	TAY	Taylor	005		0	0	Grant	Bill		2125
+10/5/1982	DEM	Democrat	STS	State Senator	UNI	Union	005		0	0	Grant	Bill		1410
+10/5/1982	DEM	Democrat	STS	State Senator	DUV	Duval	007		0	0	Girardeau	Arnett	E.	15437
+10/5/1982	DEM	Democrat	STS	State Senator	NAS	Nassau	007		0	0	Girardeau	Arnett	E.	1157
+10/5/1982	DEM	Democrat	STS	State Senator	DUV	Duval	007		0	0	Johnson	Andrew	E. (Andy)	7996
+10/5/1982	DEM	Democrat	STS	State Senator	NAS	Nassau	007		0	0	Johnson	Andrew	E. (Andy)	3090
+10/5/1982	DEM	Democrat	STS	State Senator	DUV	Duval	039		0	0	Plummer	Lawrence	H. 'Larry'	4749
+10/5/1982	DEM	Democrat	STS	State Senator	NAS	Nassau	039		0	0	Plummer	Lawrence	H. 'Larry'	4121
+10/5/1982	DEM	Democrat	STS	State Senator	DUV	Duval	039		0	0	Renick	Richard	R.	2986
+10/5/1982	DEM	Democrat	STS	State Senator	NAS	Nassau	039		0	0	Renick	Richard	R.	3261
+10/5/1982	DEM	Democrat	STR	State Representative	ESC	Escambia	002		0	0	Bass	Virginia		4200
+10/5/1982	DEM	Democrat	STR	State Representative	ESC	Escambia	002		0	0	Hagler	Clyde	H. (Jack)	3703
+10/5/1982	DEM	Democrat	STR	State Representative	FRA	Franklin	009		0	0	Lawson	Alfred	(Al)	482
+10/5/1982	DEM	Democrat	STR	State Representative	LEO	Leon	009		0	0	Lawson	Alfred	(Al)	5187
+10/5/1982	DEM	Democrat	STR	State Representative	LIB	Liberty	009		0	0	Lawson	Alfred	(Al)	1086
+10/5/1982	DEM	Democrat	STR	State Representative	WAK	Wakulla	009		0	0	Lawson	Alfred	(Al)	417
+10/5/1982	DEM	Democrat	STR	State Representative	FRA	Franklin	009		0	0	Wimbush	C.	Bette	229
+10/5/1982	DEM	Democrat	STR	State Representative	LEO	Leon	009		0	0	Wimbush	C.	Bette	3339
+10/5/1982	DEM	Democrat	STR	State Representative	LIB	Liberty	009		0	0	Wimbush	C.	Bette	474
+10/5/1982	DEM	Democrat	STR	State Representative	WAK	Wakulla	009		0	0	Wimbush	C.	Bette	371
+10/5/1982	DEM	Democrat	STR	State Representative	DUV	Duval	017		0	0	Brown	Corrine		5433
+10/5/1982	DEM	Democrat	STR	State Representative	DUV	Duval	017		0	0	Simpson	Eric	O.	3632
+10/5/1982	DEM	Democrat	STR	State Representative	BRA	Bradford	021		0	0	Drawdy	Lee		559
+10/5/1982	DEM	Democrat	STR	State Representative	CLA	Clay	021		0	0	Drawdy	Lee		3389
+10/5/1982	DEM	Democrat	STR	State Representative	STJ	St. Johns	021		0	0	Drawdy	Lee		192
+10/5/1982	DEM	Democrat	STR	State Representative	BRA	Bradford	021		0	0	Williams	Frank		926
+10/5/1982	DEM	Democrat	STR	State Representative	CLA	Clay	021		0	0	Williams	Frank		3210
+10/5/1982	DEM	Democrat	STR	State Representative	STJ	St. Johns	021		0	0	Williams	Frank		148
+10/5/1982	DEM	Democrat	STR	State Representative	CIT	Citrus	026		0	0	Berg, Jr.	Leonard	A.	1598
+10/5/1982	DEM	Democrat	STR	State Representative	MRN	Marion	026		0	0	Berg, Jr.	Leonard	A.	845
+10/5/1982	DEM	Democrat	STR	State Representative	CIT	Citrus	026		0	0	Locke	Dick		3891
+10/5/1982	DEM	Democrat	STR	State Representative	MRN	Marion	026		0	0	Locke	Dick		1063
+10/5/1982	DEM	Democrat	STR	State Representative	ORA	Orange	040		0	0	Reddick	Alzo	J.	2615
+10/5/1982	DEM	Democrat	STR	State Representative	ORA	Orange	040		0	0	Sims	Wardell		1906
+10/5/1982	DEM	Democrat	STR	State Representative	PIN	Pinellas	055		0	0	Jamerson	Doug	'Tim'	4103
+10/5/1982	DEM	Democrat	STR	State Representative	PIN	Pinellas	055		0	0	Milton	Morris	W.	4055
+10/5/1982	DEM	Democrat	STR	State Representative	HIL	Hillsborough	063		0	0	Dawson	Warren		3748
+10/5/1982	DEM	Democrat	STR	State Representative	HIL	Hillsborough	063		0	0	Hargrett, Jr.	James T.	(Jim)	4742
+10/5/1982	DEM	Democrat	STR	State Representative	CHA	Charlotte	072		0	0	Peeples	Vernon		995
+10/5/1982	DEM	Democrat	STR	State Representative	DES	Desoto	072		0	0	Peeples	Vernon		519
+10/5/1982	DEM	Democrat	STR	State Representative	LEE	Lee	072		0	0	Peeples	Vernon		1894
+10/5/1982	DEM	Democrat	STR	State Representative	CHA	Charlotte	072		0	0	Weatherly	Richard	(Dick)	502
+10/5/1982	DEM	Democrat	STR	State Representative	DES	Desoto	072		0	0	Weatherly	Richard	(Dick)	546
+10/5/1982	DEM	Democrat	STR	State Representative	LEE	Lee	072		0	0	Weatherly	Richard	(Dick)	1334
+10/5/1982	DEM	Democrat	STR	State Representative	LEE	Lee	073		0	0	Arnold	J.	Keith	3574
+10/5/1982	DEM	Democrat	STR	State Representative	LEE	Lee	073		0	0	Scott	Bruce	J.	2885
+10/5/1982	DEM	Democrat	STR	State Representative	BRE	Brevard	077		0	0	Beck	Bill		390
+10/5/1982	DEM	Democrat	STR	State Representative	IND	Indian River	077		0	0	Beck	Bill		35
+10/5/1982	DEM	Democrat	STR	State Representative	OKE	Okeechobee	077		0	0	Beck	Bill		1434
+10/5/1982	DEM	Democrat	STR	State Representative	OSC	Osceola	077		0	0	Beck	Bill		1879
+10/5/1982	DEM	Democrat	STR	State Representative	STL	St. Lucie	077		0	0	Beck	Bill		11
+10/5/1982	DEM	Democrat	STR	State Representative	BRE	Brevard	077		0	0	Bronson	Irlo	'Bud'	202
+10/5/1982	DEM	Democrat	STR	State Representative	IND	Indian River	077		0	0	Bronson	Irlo	'Bud'	24
+10/5/1982	DEM	Democrat	STR	State Representative	OKE	Okeechobee	077		0	0	Bronson	Irlo	'Bud'	1093
+10/5/1982	DEM	Democrat	STR	State Representative	OSC	Osceola	077		0	0	Bronson	Irlo	'Bud'	2878
+10/5/1982	DEM	Democrat	STR	State Representative	STL	St. Lucie	077		0	0	Bronson	Irlo	'Bud'	21
+10/5/1982	DEM	Democrat	STR	State Representative	BRO	Broward	089		0	0	Titone	Joe		2791
+10/5/1982	DEM	Democrat	STR	State Representative	BRO	Broward	089		0	0	Zeytoonian	Carl		2233
+10/5/1982	DEM	Democrat	STR	State Representative	BRO	Broward	095		0	0	Cook	Jean		1529
+10/5/1982	DEM	Democrat	STR	State Representative	BRO	Broward	095		0	0	MacKenzie	Anne		1959
+10/5/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	106		0	0	Kershaw	Joe	Lang	2701
+10/5/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	106		0	0	Reaves, Sr.	Jefferson		3363
+10/5/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	107		0	0	Armbrister	Vashti	Coleman	3192
+10/5/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	107		0	0	Burke	James		3499
+10/5/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	108		0	0	Cowins, Sr.	Ben		2763
+10/5/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	108		0	0	Logan, Jr.	Willie		3499
+10/5/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	111		0	0	Cardounel	Ed		1665
+10/5/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	111		0	0	Ventura	Nicholas	'Nick'	1475
+10/5/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	114		0	0	Gruber	Donald	J. 'Don'	2166
+10/5/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	114		0	0	Metcalf	Elizabeth	(Betty)	2838
+10/5/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	115		0	0	Flinn	Gene		1759
+10/5/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	115		0	0	Murphy	Tim		2507
+10/5/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	117		0	0	Carres	Charlene		2913
+10/5/1982	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	117		0	0	Flynn	William	L. 'Bill'	2290
+10/5/1982	REP	Republican	USS	United States Senator	ALA	Alachua			0	0	Bludworth	David	H.	299
+10/5/1982	REP	Republican	USS	United States Senator	BAK	Baker			0	0	Bludworth	David	H.	7
+10/5/1982	REP	Republican	USS	United States Senator	BAY	Bay			0	0	Bludworth	David	H.	250
+10/5/1982	REP	Republican	USS	United States Senator	BRA	Bradford			0	0	Bludworth	David	H.	35
+10/5/1982	REP	Republican	USS	United States Senator	BRE	Brevard			0	0	Bludworth	David	H.	2190
+10/5/1982	REP	Republican	USS	United States Senator	BRO	Broward			0	0	Bludworth	David	H.	3649
+10/5/1982	REP	Republican	USS	United States Senator	CAL	Calhoun			0	0	Bludworth	David	H.	4
+10/5/1982	REP	Republican	USS	United States Senator	CHA	Charlotte			0	0	Bludworth	David	H.	2325
+10/5/1982	REP	Republican	USS	United States Senator	CIT	Citrus			0	0	Bludworth	David	H.	371
+10/5/1982	REP	Republican	USS	United States Senator	CLA	Clay			0	0	Bludworth	David	H.	264
+10/5/1982	REP	Republican	USS	United States Senator	CLL	Collier			0	0	Bludworth	David	H.	2118
+10/5/1982	REP	Republican	USS	United States Senator	CLM	Columbia			0	0	Bludworth	David	H.	71
+10/5/1982	REP	Republican	USS	United States Senator	DES	Desoto			0	0	Bludworth	David	H.	31
+10/5/1982	REP	Republican	USS	United States Senator	DIX	Dixie			0	0	Bludworth	David	H.	2
+10/5/1982	REP	Republican	USS	United States Senator	DUV	Duval			0	0	Bludworth	David	H.	1609
+10/5/1982	REP	Republican	USS	United States Senator	ESC	Escambia			0	0	Bludworth	David	H.	734
+10/5/1982	REP	Republican	USS	United States Senator	FLA	Flagler			0	0	Bludworth	David	H.	154
+10/5/1982	REP	Republican	USS	United States Senator	FRA	Franklin			0	0	Bludworth	David	H.	8
+10/5/1982	REP	Republican	USS	United States Senator	GAD	Gadsden			0	0	Bludworth	David	H.	23
+10/5/1982	REP	Republican	USS	United States Senator	GIL	Gilchrist			0	0	Bludworth	David	H.	2
+10/5/1982	REP	Republican	USS	United States Senator	GLA	Glades			0	0	Bludworth	David	H.	11
+10/5/1982	REP	Republican	USS	United States Senator	GUL	Gulf			0	0	Bludworth	David	H.	14
+10/5/1982	REP	Republican	USS	United States Senator	HAM	Hamilton			0	0	Bludworth	David	H.	5
+10/5/1982	REP	Republican	USS	United States Senator	HAR	Hardee			0	0	Bludworth	David	H.	9
+10/5/1982	REP	Republican	USS	United States Senator	HEN	Hendry			0	0	Bludworth	David	H.	56
+10/5/1982	REP	Republican	USS	United States Senator	HER	Hernando			0	0	Bludworth	David	H.	535
+10/5/1982	REP	Republican	USS	United States Senator	HIG	Highlands			0	0	Bludworth	David	H.	356
+10/5/1982	REP	Republican	USS	United States Senator	HIL	Hillsborough			0	0	Bludworth	David	H.	1839
+10/5/1982	REP	Republican	USS	United States Senator	HOL	Holmes			0	0	Bludworth	David	H.	14
+10/5/1982	REP	Republican	USS	United States Senator	IND	Indian River			0	0	Bludworth	David	H.	604
+10/5/1982	REP	Republican	USS	United States Senator	JAC	Jackson			0	0	Bludworth	David	H.	29
+10/5/1982	REP	Republican	USS	United States Senator	JEF	Jefferson			0	0	Bludworth	David	H.	14
+10/5/1982	REP	Republican	USS	United States Senator	LAF	Lafayette			0	0	Bludworth	David	H.	2
+10/5/1982	REP	Republican	USS	United States Senator	LAK	Lake			0	0	Bludworth	David	H.	1747
+10/5/1982	REP	Republican	USS	United States Senator	LEE	Lee			0	0	Bludworth	David	H.	8823
+10/5/1982	REP	Republican	USS	United States Senator	LEO	Leon			0	0	Bludworth	David	H.	631
+10/5/1982	REP	Republican	USS	United States Senator	LEV	Levy			0	0	Bludworth	David	H.	65
+10/5/1982	REP	Republican	USS	United States Senator	LIB	Liberty			0	0	Bludworth	David	H.	2
+10/5/1982	REP	Republican	USS	United States Senator	MAD	Madison			0	0	Bludworth	David	H.	27
+10/5/1982	REP	Republican	USS	United States Senator	MAN	Manatee			0	0	Bludworth	David	H.	3294
+10/5/1982	REP	Republican	USS	United States Senator	MRN	Marion			0	0	Bludworth	David	H.	474
+10/5/1982	REP	Republican	USS	United States Senator	MRT	Martin			0	0	Bludworth	David	H.	1328
+10/5/1982	REP	Republican	USS	United States Senator	DAD	Miami-Dade			0	0	Bludworth	David	H.	11372
+10/5/1982	REP	Republican	USS	United States Senator	MON	Monroe			0	0	Bludworth	David	H.	328
+10/5/1982	REP	Republican	USS	United States Senator	NAS	Nassau			0	0	Bludworth	David	H.	23
+10/5/1982	REP	Republican	USS	United States Senator	OKA	Okaloosa			0	0	Bludworth	David	H.	681
+10/5/1982	REP	Republican	USS	United States Senator	OKE	Okeechobee			0	0	Bludworth	David	H.	51
+10/5/1982	REP	Republican	USS	United States Senator	ORA	Orange			0	0	Bludworth	David	H.	4328
+10/5/1982	REP	Republican	USS	United States Senator	OSC	Osceola			0	0	Bludworth	David	H.	523
+10/5/1982	REP	Republican	USS	United States Senator	PAL	Palm Beach			0	0	Bludworth	David	H.	8933
+10/5/1982	REP	Republican	USS	United States Senator	PAS	Pasco			0	0	Bludworth	David	H.	4050
+10/5/1982	REP	Republican	USS	United States Senator	PIN	Pinellas			0	0	Bludworth	David	H.	13132
+10/5/1982	REP	Republican	USS	United States Senator	POL	Polk			0	0	Bludworth	David	H.	1580
+10/5/1982	REP	Republican	USS	United States Senator	PUT	Putnam			0	0	Bludworth	David	H.	155
+10/5/1982	REP	Republican	USS	United States Senator	SAN	Santa Rosa			0	0	Bludworth	David	H.	164
+10/5/1982	REP	Republican	USS	United States Senator	SAR	Sarasota			0	0	Bludworth	David	H.	10188
+10/5/1982	REP	Republican	USS	United States Senator	SEM	Seminole			0	0	Bludworth	David	H.	1518
+10/5/1982	REP	Republican	USS	United States Senator	STJ	St. Johns			0	0	Bludworth	David	H.	341
+10/5/1982	REP	Republican	USS	United States Senator	STL	St. Lucie			0	0	Bludworth	David	H.	683
+10/5/1982	REP	Republican	USS	United States Senator	SUM	Sumter			0	0	Bludworth	David	H.	55
+10/5/1982	REP	Republican	USS	United States Senator	SUW	Suwannee			0	0	Bludworth	David	H.	28
+10/5/1982	REP	Republican	USS	United States Senator	TAY	Taylor			0	0	Bludworth	David	H.	12
+10/5/1982	REP	Republican	USS	United States Senator	UNI	Union			0	0	Bludworth	David	H.	5
+10/5/1982	REP	Republican	USS	United States Senator	VOL	Volusia			0	0	Bludworth	David	H.	2703
+10/5/1982	REP	Republican	USS	United States Senator	WAK	Wakulla			0	0	Bludworth	David	H.	13
+10/5/1982	REP	Republican	USS	United States Senator	WAL	Walton			0	0	Bludworth	David	H.	121
+10/5/1982	REP	Republican	USS	United States Senator	WAS	Washington			0	0	Bludworth	David	H.	23
+10/5/1982	REP	Republican	USS	United States Senator	ALA	Alachua			0	0	Poole	Van	B.	356
+10/5/1982	REP	Republican	USS	United States Senator	BAK	Baker			0	0	Poole	Van	B.	5
+10/5/1982	REP	Republican	USS	United States Senator	BAY	Bay			0	0	Poole	Van	B.	213
+10/5/1982	REP	Republican	USS	United States Senator	BRA	Bradford			0	0	Poole	Van	B.	41
+10/5/1982	REP	Republican	USS	United States Senator	BRE	Brevard			0	0	Poole	Van	B.	3170
+10/5/1982	REP	Republican	USS	United States Senator	BRO	Broward			0	0	Poole	Van	B.	10434
+10/5/1982	REP	Republican	USS	United States Senator	CAL	Calhoun			0	0	Poole	Van	B.	2
+10/5/1982	REP	Republican	USS	United States Senator	CHA	Charlotte			0	0	Poole	Van	B.	4012
+10/5/1982	REP	Republican	USS	United States Senator	CIT	Citrus			0	0	Poole	Van	B.	502
+10/5/1982	REP	Republican	USS	United States Senator	CLA	Clay			0	0	Poole	Van	B.	319
+10/5/1982	REP	Republican	USS	United States Senator	CLL	Collier			0	0	Poole	Van	B.	6406
+10/5/1982	REP	Republican	USS	United States Senator	CLM	Columbia			0	0	Poole	Van	B.	51
+10/5/1982	REP	Republican	USS	United States Senator	DES	Desoto			0	0	Poole	Van	B.	66
+10/5/1982	REP	Republican	USS	United States Senator	DIX	Dixie			0	0	Poole	Van	B.	4
+10/5/1982	REP	Republican	USS	United States Senator	DUV	Duval			0	0	Poole	Van	B.	1669
+10/5/1982	REP	Republican	USS	United States Senator	ESC	Escambia			0	0	Poole	Van	B.	576
+10/5/1982	REP	Republican	USS	United States Senator	FLA	Flagler			0	0	Poole	Van	B.	143
+10/5/1982	REP	Republican	USS	United States Senator	FRA	Franklin			0	0	Poole	Van	B.	5
+10/5/1982	REP	Republican	USS	United States Senator	GAD	Gadsden			0	0	Poole	Van	B.	22
+10/5/1982	REP	Republican	USS	United States Senator	GIL	Gilchrist			0	0	Poole	Van	B.	7
+10/5/1982	REP	Republican	USS	United States Senator	GLA	Glades			0	0	Poole	Van	B.	19
+10/5/1982	REP	Republican	USS	United States Senator	GUL	Gulf			0	0	Poole	Van	B.	6
+10/5/1982	REP	Republican	USS	United States Senator	HAM	Hamilton			0	0	Poole	Van	B.	2
+10/5/1982	REP	Republican	USS	United States Senator	HAR	Hardee			0	0	Poole	Van	B.	13
+10/5/1982	REP	Republican	USS	United States Senator	HEN	Hendry			0	0	Poole	Van	B.	112
+10/5/1982	REP	Republican	USS	United States Senator	HER	Hernando			0	0	Poole	Van	B.	873
+10/5/1982	REP	Republican	USS	United States Senator	HIG	Highlands			0	0	Poole	Van	B.	381
+10/5/1982	REP	Republican	USS	United States Senator	HIL	Hillsborough			0	0	Poole	Van	B.	2875
+10/5/1982	REP	Republican	USS	United States Senator	HOL	Holmes			0	0	Poole	Van	B.	14
+10/5/1982	REP	Republican	USS	United States Senator	IND	Indian River			0	0	Poole	Van	B.	376
+10/5/1982	REP	Republican	USS	United States Senator	JAC	Jackson			0	0	Poole	Van	B.	14
+10/5/1982	REP	Republican	USS	United States Senator	JEF	Jefferson			0	0	Poole	Van	B.	15
+10/5/1982	REP	Republican	USS	United States Senator	LAF	Lafayette			0	0	Poole	Van	B.	4
+10/5/1982	REP	Republican	USS	United States Senator	LAK	Lake			0	0	Poole	Van	B.	1769
+10/5/1982	REP	Republican	USS	United States Senator	LEE	Lee			0	0	Poole	Van	B.	12507
+10/5/1982	REP	Republican	USS	United States Senator	LEO	Leon			0	0	Poole	Van	B.	739
+10/5/1982	REP	Republican	USS	United States Senator	LEV	Levy			0	0	Poole	Van	B.	60
+10/5/1982	REP	Republican	USS	United States Senator	LIB	Liberty			0	0	Poole	Van	B.	0
+10/5/1982	REP	Republican	USS	United States Senator	MAD	Madison			0	0	Poole	Van	B.	19
+10/5/1982	REP	Republican	USS	United States Senator	MAN	Manatee			0	0	Poole	Van	B.	3641
+10/5/1982	REP	Republican	USS	United States Senator	MRN	Marion			0	0	Poole	Van	B.	990
+10/5/1982	REP	Republican	USS	United States Senator	MRT	Martin			0	0	Poole	Van	B.	758
+10/5/1982	REP	Republican	USS	United States Senator	DAD	Miami-Dade			0	0	Poole	Van	B.	13419
+10/5/1982	REP	Republican	USS	United States Senator	MON	Monroe			0	0	Poole	Van	B.	372
+10/5/1982	REP	Republican	USS	United States Senator	NAS	Nassau			0	0	Poole	Van	B.	33
+10/5/1982	REP	Republican	USS	United States Senator	OKA	Okaloosa			0	0	Poole	Van	B.	387
+10/5/1982	REP	Republican	USS	United States Senator	OKE	Okeechobee			0	0	Poole	Van	B.	28
+10/5/1982	REP	Republican	USS	United States Senator	ORA	Orange			0	0	Poole	Van	B.	3953
+10/5/1982	REP	Republican	USS	United States Senator	OSC	Osceola			0	0	Poole	Van	B.	670
+10/5/1982	REP	Republican	USS	United States Senator	PAL	Palm Beach			0	0	Poole	Van	B.	3896
+10/5/1982	REP	Republican	USS	United States Senator	PAS	Pasco			0	0	Poole	Van	B.	7191
+10/5/1982	REP	Republican	USS	United States Senator	PIN	Pinellas			0	0	Poole	Van	B.	26711
+10/5/1982	REP	Republican	USS	United States Senator	POL	Polk			0	0	Poole	Van	B.	1123
+10/5/1982	REP	Republican	USS	United States Senator	PUT	Putnam			0	0	Poole	Van	B.	183
+10/5/1982	REP	Republican	USS	United States Senator	SAN	Santa Rosa			0	0	Poole	Van	B.	138
+10/5/1982	REP	Republican	USS	United States Senator	SAR	Sarasota			0	0	Poole	Van	B.	14214
+10/5/1982	REP	Republican	USS	United States Senator	SEM	Seminole			0	0	Poole	Van	B.	1760
+10/5/1982	REP	Republican	USS	United States Senator	STJ	St. Johns			0	0	Poole	Van	B.	429
+10/5/1982	REP	Republican	USS	United States Senator	STL	St. Lucie			0	0	Poole	Van	B.	496
+10/5/1982	REP	Republican	USS	United States Senator	SUM	Sumter			0	0	Poole	Van	B.	107
+10/5/1982	REP	Republican	USS	United States Senator	SUW	Suwannee			0	0	Poole	Van	B.	50
+10/5/1982	REP	Republican	USS	United States Senator	TAY	Taylor			0	0	Poole	Van	B.	21
+10/5/1982	REP	Republican	USS	United States Senator	UNI	Union			0	0	Poole	Van	B.	0
+10/5/1982	REP	Republican	USS	United States Senator	VOL	Volusia			0	0	Poole	Van	B.	3238
+10/5/1982	REP	Republican	USS	United States Senator	WAK	Wakulla			0	0	Poole	Van	B.	14
+10/5/1982	REP	Republican	USS	United States Senator	WAL	Walton			0	0	Poole	Van	B.	15
+10/5/1982	REP	Republican	USS	United States Senator	WAS	Washington			0	0	Poole	Van	B.	17
+10/5/1982	REP	Republican	USR	United States Representative	HIL	Hillsborough	009		0	0	Bilirakis	Michael		691
+10/5/1982	REP	Republican	USR	United States Representative	PAS	Pasco	009		0	0	Bilirakis	Michael		7404
+10/5/1982	REP	Republican	USR	United States Representative	PIN	Pinellas	009		0	0	Bilirakis	Michael		8857
+10/5/1982	REP	Republican	USR	United States Representative	HIL	Hillsborough	009		0	0	Kiser	Curt		647
+10/5/1982	REP	Republican	USR	United States Representative	PAS	Pasco	009		0	0	Kiser	Curt		3774
+10/5/1982	REP	Republican	USR	United States Representative	PIN	Pinellas	009		0	0	Kiser	Curt		10096
+10/5/1982	REP	Republican	USR	United States Representative	CHA	Charlotte	013		0	0	Ewing	Ted		3791
+10/5/1982	REP	Republican	USR	United States Representative	CLL	Collier	013		0	0	Ewing	Ted		2215
+10/5/1982	REP	Republican	USR	United States Representative	LEE	Lee	013		0	0	Ewing	Ted		8538
+10/5/1982	REP	Republican	USR	United States Representative	SAR	Sarasota	013		0	0	Ewing	Ted		11586
+10/5/1982	REP	Republican	USR	United States Representative	CHA	Charlotte	013		0	0	Mack	Connie		2936
+10/5/1982	REP	Republican	USR	United States Representative	CLL	Collier	013		0	0	Mack	Connie		4253
+10/5/1982	REP	Republican	USR	United States Representative	LEE	Lee	013		0	0	Mack	Connie		14069
+10/5/1982	REP	Republican	USR	United States Representative	SAR	Sarasota	013		0	0	Mack	Connie		15150
+10/5/1982	REP	Republican	USR	United States Representative	BRO	Broward	016		0	0	Berkowitz	Maurice		2739
+10/5/1982	REP	Republican	USR	United States Representative	DAD	Miami-Dade	016		0	0	Berkowitz	Maurice		2694
+10/5/1982	REP	Republican	USR	United States Representative	BRO	Broward	016		0	0	Smith	Joseph	'Doc'	1361
+10/5/1982	REP	Republican	USR	United States Representative	DAD	Miami-Dade	016		0	0	Smith	Joseph	'Doc'	2145
+10/5/1982	REP	Republican	USR	United States Representative	DAD	Miami-Dade	018		0	0	Iglesias	Manuel		5575
+10/5/1982	REP	Republican	USR	United States Representative	DAD	Miami-Dade	018		0	0	Nunez	Ricardo		6869
+10/5/1982	REP	Republican	STS	State Senator	DAD	Miami-Dade	034		0	0	Diaz-Silveira	Frank		3932
+10/5/1982	REP	Republican	STS	State Senator	DAD	Miami-Dade	034		0	0	Dominguez	Carlos		3689
+10/5/1982	REP	Republican	STR	State Representative	PIN	Pinellas	057		0	0	Burke	Armand	'Sandy'	1317
+10/5/1982	REP	Republican	STR	State Representative	PIN	Pinellas	057		0	0	Frishe	James	Christopher	1839
+10/5/1982	REP	Republican	STR	State Representative	MAN	Manatee	068		0	0	Simone	Peggy		2513
+10/5/1982	REP	Republican	STR	State Representative	MAN	Manatee	068		0	0	Wilcox	Dave		1828
+10/5/1982	REP	Republican	STR	State Representative	MRT	Martin	080		0	0	Hill, Jr.	James	C.	647
+10/5/1982	REP	Republican	STR	State Representative	PAL	Palm Beach	080		0	0	Hill, Jr.	James	C.	720
+10/5/1982	REP	Republican	STR	State Representative	MRT	Martin	080		0	0	McRoberts	Tim		789
+10/5/1982	REP	Republican	STR	State Representative	PAL	Palm Beach	080		0	0	McRoberts	Tim		496
+10/5/1982	REP	Republican	STR	State Representative	DAD	Miami-Dade	110		0	0	Pozo	Raul		1563
+10/5/1982	REP	Republican	STR	State Representative	DAD	Miami-Dade	110		0	0	Ros	Ileana		1961
+10/5/1982	REP	Republican	STR	State Representative	DAD	Miami-Dade	115		0	0	Arango	Franz		1812
+10/5/1982	REP	Republican	STR	State Representative	DAD	Miami-Dade	115		0	0	Asencio	Steve		1638
+10/5/1982	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	005	0	0	Conrad	Richard	F.	5796
+10/5/1982	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	005	0	0	Conrad	Richard	F.	1474
+10/5/1982	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	005	0	0	Kirk	Thomas	S.	8424
+10/5/1982	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	005	0	0	Kirk	Thomas	S.	1744
+10/5/1982	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	005	0	0	Prather	Charles	N.	4292
+10/5/1982	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	005	0	0	Prather	Charles	N.	1319
+10/5/1982	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	005	0	0	Whitacre	William	L.	3770
+10/5/1982	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	005	0	0	Whitacre	William	L.	767

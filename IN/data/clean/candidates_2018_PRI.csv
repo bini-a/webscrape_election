@@ -1,0 +1,135 @@
+"","District_orig","County","election_id","office_id","candidate_id","candidate_name","first_name","last_name","prefix","suffix","gender","race","ethinicity","age","incumbent"
+"1","Brown","Brown","IN_2018-05-08_PRI","TC2_Brown_1_1",NA,"Greg Bowes","Greg","Bowes",NA,NA,NA,NA,NA,NA,NA
+"2","Clay","Clay","IN_2018-05-08_PRI","TC2_Clay_1_1",NA,"Joseph Dom Trout","Joseph","Trout",NA,NA,NA,NA,NA,NA,NA
+"3","Delaware","Delaware","IN_2018-05-08_PRI","TC2_Delaware_1_1",NA,"Kimberly S. Dowling","Kimberly","Dowling",NA,NA,NA,NA,NA,NA,NA
+"4","Brown","Brown","IN_2018-05-08_PRI","TC2_Brown_1_1",NA,"Kristopher Kritzer","Kristopher","Kritzer",NA,NA,NA,NA,NA,NA,NA
+"5","Clark","Clark","IN_2018-05-08_PRI","TC2_Clark_1_1",NA,"Vicki Carmichael","Vicki","Carmichael",NA,NA,NA,NA,NA,NA,NA
+"6","Carroll","Carroll","IN_2018-05-08_PRI","TC2_Carroll_1_1",NA,"Benjamin A. Diener","Benjamin","Diener",NA,NA,NA,NA,NA,NA,NA
+"7","Clinton","Clinton","IN_2018-05-08_PRI","TC2_Clinton_1_1",NA,"Bradley K. Mohler","Bradley","Mohler",NA,NA,NA,NA,NA,NA,NA
+"8","Blackford","Blackford","IN_2018-05-08_PRI","TC2_Blackford_1_1",NA,"Brian Bade","Brian","Bade",NA,NA,NA,NA,NA,NA,NA
+"9","Adams","Adams","IN_2018-05-08_PRI","TC2_Adams_1_1",NA,"Chad E. Kukelhan","Chad","Kukelhan",NA,NA,NA,NA,NA,NA,NA
+"10","Clark","Clark","IN_2018-05-08_PRI","TC2_Clark_1_1",NA,"Dan Moore","Dan","Moore",NA,NA,NA,NA,NA,NA,NA
+"11","Brown","Brown","IN_2018-05-08_PRI","TC2_Brown_1_1",NA,"Jacob (Jake) Moore","Jacob","Moore",NA,NA,NA,NA,NA,NA,NA
+"12","Blackford","Blackford","IN_2018-05-08_PRI","TC2_Blackford_1_1",NA,"Joelle A. Freiburger","Joelle","Freiburger",NA,NA,NA,NA,NA,NA,NA
+"13","Boone","Boone","IN_2018-05-08_PRI","TC2_Boone_1_1",NA,"Lori Schein","Lori","Schein",NA,NA,NA,NA,NA,NA,NA
+"14","Brown","Brown","IN_2018-05-08_PRI","TC2_Brown_1_1",NA,"Mary Wertz","Mary","Wertz",NA,NA,NA,NA,NA,NA,NA
+"15","Blackford","Blackford","IN_2018-05-08_PRI","TC2_Blackford_1_1",NA,"Nick Barry","Nick","Barry",NA,NA,NA,NA,NA,NA,NA
+"16","Cass","Cass","IN_2018-05-08_PRI","TC2_Cass_1_1",NA,"Sheryl M. Pherson","Sheryl","Pherson",NA,NA,NA,NA,NA,NA,NA
+"17","Cass","Cass","IN_2018-05-08_PRI","TC2_Cass_1_1",NA,"Stephen Roger Kitts II","Stephen","II",NA,NA,NA,NA,NA,NA,NA
+"18","Boone","Boone","IN_2018-05-08_PRI","TC2_Boone_1_1",NA,"Tamie Jo Morog","Tamie","Morog",NA,NA,NA,NA,NA,NA,NA
+"19","Decatur","Decatur","IN_2018-05-08_PRI","TC2_Decatur_1_1",NA,"Timothy B. Day","Timothy","Day",NA,NA,NA,NA,NA,NA,NA
+"20","Boone","Boone","IN_2018-05-08_PRI","TC2_Boone_1_1",NA,"Todd J. Meyer","Todd","Meyer",NA,NA,NA,NA,NA,NA,NA
+"21","Brown","Brown","IN_2018-05-08_PRI","TC2_Brown_1_1",NA,"Tracey Yeager Stogsdill","Tracey","Stogsdill",NA,NA,NA,NA,NA,NA,NA
+"22","Clay","Clay","IN_2018-05-08_PRI","TC1_Clay_1_1",NA,"Jason D. Brown","Jason","Brown",NA,NA,NA,NA,NA,NA,NA
+"23","Elkhart","Elkhart","IN_2018-05-08_PRI","TC1_Elkhart_1_1",NA,"David C. Bonfiglio","David","Bonfiglio",NA,NA,NA,NA,NA,NA,NA
+"24","Bartholomew","Bartholomew","IN_2018-05-08_PRI","TC1_Bartholomew_1_1",NA,"James Jim Worton","James","Worton",NA,NA,NA,NA,NA,NA,NA
+"25","DeKalb","DeKalb","IN_2018-05-08_PRI","TC1_DeKalb_1_1",NA,"Monte L. Brown","Monte","Brown",NA,NA,NA,NA,NA,NA,NA
+"26","Cass","Cass","IN_2018-05-08_PRI","TC1_Cass_1_1",NA,"Rick Maughmer","Rick","Maughmer",NA,NA,NA,NA,NA,NA,NA
+"27","Clay","Clay","IN_2018-05-08_PRI","TC1_Clay_1_1",NA,"Robert Alex Pell","Robert","Pell",NA,NA,NA,NA,NA,NA,NA
+"28","Dearborn","Dearborn","IN_2018-05-08_PRI","TC1_Dearborn_1_1",NA,"Sally A. McLaughlin","Sally","McLaughlin",NA,NA,NA,NA,NA,NA,NA
+"29","Elkhart","Elkhart","IN_2018-05-08_PRI","TC1_Elkhart_1_1",NA,"Stephen R. Bowers","Stephen","Bowers",NA,NA,NA,NA,NA,NA,NA
+"30","Blackford","Blackford","IN_2018-05-08_PRI","DA_Blackford_1_1",NA,"Aaron M. Henderson","Aaron","Henderson",NA,NA,NA,NA,NA,NA,NA
+"31","Dubois","Dubois","IN_2018-05-08_PRI","DA_Dubois_1_1",NA,"Anthony D. Quinn","Anthony","Quinn",NA,NA,NA,NA,NA,NA,NA
+"32","Delaware","Delaware","IN_2018-05-08_PRI","DA_Delaware_1_1",NA,"Eric M. Hoffman","Eric","Hoffman",NA,NA,NA,NA,NA,NA,NA
+"33","Clinton","Clinton","IN_2018-05-08_PRI","DA_Clinton_1_1",NA,"Anthony J. Sommer","Anthony","Sommer",NA,NA,NA,NA,NA,NA,NA
+"34","DeKalb","DeKalb","IN_2018-05-08_PRI","DA_DeKalb_1_1",NA,"ClaraMary Winebrenner","ClaraMary","Winebrenner",NA,NA,NA,NA,NA,NA,NA
+"35","Daviess","Daviess","IN_2018-05-08_PRI","DA_Daviess_1_1",NA,"Daniel S. Murrie","Daniel","Murrie",NA,NA,NA,NA,NA,NA,NA
+"36","Clay","Clay","IN_2018-05-08_PRI","DA_Clay_1_1",NA,"Emily Clarke","Emily","Clarke",NA,NA,NA,NA,NA,NA,NA
+"37","Clark","Clark","IN_2018-05-08_PRI","DA_Clark_1_1",NA,"Jeremy Mull","Jeremy","Mull",NA,NA,NA,NA,NA,NA,NA
+"38","Adams","Adams","IN_2018-05-08_PRI","DA_Adams_1_1",NA,"Jeremy W. Brown","Jeremy","Brown",NA,NA,NA,NA,NA,NA,NA
+"39","Benton","Benton","IN_2018-05-08_PRI","DA_Benton_1_1",NA,"John C. Wright","John","Wright",NA,NA,NA,NA,NA,NA,NA
+"40","Allen","Allen","IN_2018-05-08_PRI","DA_Allen_1_1",NA,"Karen Richards","Karen","Richards",NA,NA,NA,NA,NA,NA,NA
+"41","Boone","Boone","IN_2018-05-08_PRI","DA_Boone_1_1",NA,"Kent T. Eastwood","Kent","Eastwood",NA,NA,NA,NA,NA,NA,NA
+"42","Blackford","Blackford","IN_2018-05-08_PRI","DA_Blackford_1_1",NA,"Kevin N. Basey","Kevin","Basey",NA,NA,NA,NA,NA,NA,NA
+"43","Crawford","Crawford","IN_2018-05-08_PRI","DA_Crawford_1_1",NA,"Lester V. Shelton","Lester","Shelton",NA,NA,NA,NA,NA,NA,NA
+"44","Cass","Cass","IN_2018-05-08_PRI","DA_Cass_1_1",NA,"Lisa L. Swaim","Lisa","Swaim",NA,NA,NA,NA,NA,NA,NA
+"45","Dearborn,Ohio","Dearborn","IN_2018-05-08_PRI","DA_Dearborn_1_1",NA,"Lynn Deddens","Lynn","Deddens",NA,NA,NA,NA,NA,NA,NA
+"46","Elkhart","Elkhart","IN_2018-05-08_PRI","DA_Elkhart_1_1",NA,"Martin (Marty) McCloskey","Martin","McCloskey",NA,NA,NA,NA,NA,NA,NA
+"47","Decatur","Decatur","IN_2018-05-08_PRI","DA_Decatur_1_1",NA,"Nathan W. Harter IV","Nathan","IV",NA,NA,NA,NA,NA,NA,NA
+"48","Carroll","Carroll","IN_2018-05-08_PRI","DA_Carroll_1_1",NA,"Nicholas C. McLeland","Nicholas","McLeland",NA,NA,NA,NA,NA,NA,NA
+"49","Crawford","Crawford","IN_2018-05-08_PRI","DA_Crawford_1_1",NA,"Nicholas W. Haverstock","Nicholas","Haverstock",NA,NA,NA,NA,NA,NA,NA
+"50","DeKalb","DeKalb","IN_2018-05-08_PRI","DA_DeKalb_1_1",NA,"Robert J. Hardy","Robert","Hardy",NA,NA,NA,NA,NA,NA,NA
+"51","Brown","Brown","IN_2018-05-08_PRI","DA_Brown_1_1",NA,"Ted Adams","Ted","Adams",NA,NA,NA,NA,NA,NA,NA
+"52","Elkhart","Elkhart","IN_2018-05-08_PRI","DA_Elkhart_1_1",NA,"Vicki Elaine Becker","Vicki","Becker",NA,NA,NA,NA,NA,NA,NA
+"53","Bartholomew","Bartholomew","IN_2018-05-08_PRI","DA_Bartholomew_1_1",NA,"William M. (Bill) Nash","William","Nash",NA,NA,NA,NA,NA,NA,NA
+"54","Brown","Brown","IN_2018-05-08_PRI","CK2_Brown_1_1",NA,"Brenda Woods","Brenda","Woods",NA,NA,NA,NA,NA,NA,NA
+"55","Allen","Allen","IN_2018-05-08_PRI","CK2_Allen_1_1",NA,"Danielle N Andersen","Danielle","Andersen",NA,NA,NA,NA,NA,NA,NA
+"56","Allen","Allen","IN_2018-05-08_PRI","CK2_Allen_1_1",NA,"Dave Burgess","Dave","Burgess",NA,NA,NA,NA,NA,NA,NA
+"57","Allen","Allen","IN_2018-05-08_PRI","CK2_Allen_1_1",NA,"David Christopher Roach","David","Roach",NA,NA,NA,NA,NA,NA,NA
+"58","Allen","Allen","IN_2018-05-08_PRI","CK2_Allen_1_1",NA,"Gina M Burgess","Gina","Burgess",NA,NA,NA,NA,NA,NA,NA
+"59","Decatur","Decatur","IN_2018-05-08_PRI","CK2_Decatur_1_1",NA,"KAREN S HIGGINBOTHAM","KAREN","HIGGINBOTHAM",NA,NA,NA,NA,NA,NA,NA
+"60","Dubois","Dubois","IN_2018-05-08_PRI","CK2_Dubois_1_1",NA,"KIERSTEN L KNIES","KIERSTEN","KNIES",NA,NA,NA,NA,NA,NA,NA
+"61","Crawford","Crawford","IN_2018-05-08_PRI","CK2_Crawford_1_1",NA,"Lisa Stephenson-Holzbog (Busick)","Lisa","(Busick)",NA,NA,NA,NA,NA,NA,NA
+"62","Delaware","Delaware","IN_2018-05-08_PRI","CK2_Delaware_1_1",NA,"MIKE KING","MIKE","KING",NA,NA,NA,NA,NA,NA,NA
+"63","Clark","Clark","IN_2018-05-08_PRI","CK2_Clark_1_1",NA,"SUSAN  POPP","SUSAN","POPP",NA,NA,NA,NA,NA,NA,NA
+"64","Decatur","Decatur","IN_2018-05-08_PRI","CK2_Decatur_1_1",NA,"ADINA A ROBERTS","ADINA","ROBERTS",NA,NA,NA,NA,NA,NA,NA
+"65","Dubois","Dubois","IN_2018-05-08_PRI","CK2_Dubois_1_1",NA,"AMY L KIPPENBROCK","AMY","KIPPENBROCK",NA,NA,NA,NA,NA,NA,NA
+"66","Allen","Allen","IN_2018-05-08_PRI","CK2_Allen_1_1",NA,"Christopher (Chris) Nancarrow","Christopher","Nancarrow",NA,NA,NA,NA,NA,NA,NA
+"67","Elkhart","Elkhart","IN_2018-05-08_PRI","CK2_Elkhart_1_1",NA,"CHRISTOPHER ANDERSON","CHRISTOPHER","ANDERSON",NA,NA,NA,NA,NA,NA,NA
+"68","Clark","Clark","IN_2018-05-08_PRI","CK2_Clark_1_1",NA,"DARCI  SCHILLER","DARCI","SCHILLER",NA,NA,NA,NA,NA,NA,NA
+"69","Brown","Brown","IN_2018-05-08_PRI","CK2_Brown_1_1",NA,"Deb Noe","Deb","Noe",NA,NA,NA,NA,NA,NA,NA
+"70","Adams","Adams","IN_2018-05-08_PRI","CK2_Adams_1_1",NA,"JAMES (Jim) J VOGLEWEDE Jr.","JAMES","VOGLEWEDE",NA,NA,NA,NA,NA,NA,NA
+"71","Daviess","Daviess","IN_2018-05-08_PRI","CK2_Daviess_1_1",NA,"Janice M. Williams","Janice","Williams",NA,NA,NA,NA,NA,NA,NA
+"72","Bartholomew","Bartholomew","IN_2018-05-08_PRI","CK2_Bartholomew_1_1",NA,"Jay Phelps","Jay","Phelps",NA,NA,NA,NA,NA,NA,NA
+"73","Boone","Boone","IN_2018-05-08_PRI","CK2_Boone_1_1",NA,"JESSICA J FOUTS","JESSICA","FOUTS",NA,NA,NA,NA,NA,NA,NA
+"74","Brown","Brown","IN_2018-05-08_PRI","CK2_Brown_1_1",NA,"Kathy (Grimes) Smith","Kathy","Smith",NA,NA,NA,NA,NA,NA,NA
+"75","Benton","Benton","IN_2018-05-08_PRI","CK2_Benton_1_1",NA,"NATALIE J KIDD","NATALIE","KIDD",NA,NA,NA,NA,NA,NA,NA
+"76","Clinton","Clinton","IN_2018-05-08_PRI","CK2_Clinton_1_1",NA,"Rhea A Copas","Rhea","Copas",NA,NA,NA,NA,NA,NA,NA
+"77","Delaware","Delaware","IN_2018-05-08_PRI","CK2_Delaware_1_1",NA,"RICK SPANGLER","RICK","SPANGLER",NA,NA,NA,NA,NA,NA,NA
+"78","Adams","Adams","IN_2018-05-08_PRI","CK2_Adams_1_1",NA,"ROSIE FAIRCHILD","ROSIE","FAIRCHILD",NA,NA,NA,NA,NA,NA,NA
+"79","Crawford","Crawford","IN_2018-05-08_PRI","CK2_Crawford_1_1",NA,"WENDY MARPLES","WENDY","MARPLES",NA,NA,NA,NA,NA,NA,NA
+"80","Delaware","Delaware","IN_2018-05-08_PRI","SF_Delaware_1_1",NA,"CHARLIE RICHMOND","CHARLIE","RICHMOND",NA,NA,NA,NA,NA,NA,NA
+"81","Cass","Cass","IN_2018-05-08_PRI","SF_Cass_1_1",NA,"Dale Campbell","Dale","Campbell",NA,NA,NA,NA,NA,NA,NA
+"82","Decatur","Decatur","IN_2018-05-08_PRI","SF_Decatur_1_1",NA,"DAVE DURANT","DAVE","DURANT",NA,NA,NA,NA,NA,NA,NA
+"83","Clark","Clark","IN_2018-05-08_PRI","SF_Clark_1_1",NA,"DWIGHT T INGLE","DWIGHT","INGLE",NA,NA,NA,NA,NA,NA,NA
+"84","Blackford","Blackford","IN_2018-05-08_PRI","SF_Blackford_1_1",NA,"John M Rains","John","Rains",NA,NA,NA,NA,NA,NA,NA
+"85","Allen","Allen","IN_2018-05-08_PRI","SF_Allen_1_1",NA,"Philip R Davis","Philip","Davis",NA,NA,NA,NA,NA,NA,NA
+"86","Delaware","Delaware","IN_2018-05-08_PRI","SF_Delaware_1_1",NA,"RAY DUDLEY","RAY","DUDLEY",NA,NA,NA,NA,NA,NA,NA
+"87","Crawford","Crawford","IN_2018-05-08_PRI","SF_Crawford_1_1",NA,"SHAWN SCOTT","SHAWN","SCOTT",NA,NA,NA,NA,NA,NA,NA
+"88","Dubois","Dubois","IN_2018-05-08_PRI","SF_Dubois_1_1",NA,"TIM D LAMPERT","TIM","LAMPERT",NA,NA,NA,NA,NA,NA,NA
+"89","Crawford","Crawford","IN_2018-05-08_PRI","SF_Crawford_1_1",NA,"ALFRED ALF BLAND","ALFRED","BLAND",NA,NA,NA,NA,NA,NA,NA
+"90","Dearborn","Dearborn","IN_2018-05-08_PRI","SF_Dearborn_1_1",NA,"Brad Schwing ","Brad","Schwing",NA,NA,NA,NA,NA,NA,NA
+"91","Crawford","Crawford","IN_2018-05-08_PRI","SF_Crawford_1_1",NA,"CHARLES W WRIGHT","CHARLES","WRIGHT",NA,NA,NA,NA,NA,NA,NA
+"92","Adams","Adams","IN_2018-05-08_PRI","SF_Adams_1_1",NA,"DAN MAWHORR","DAN","MAWHORR",NA,NA,NA,NA,NA,NA,NA
+"93","DeKalb","DeKalb","IN_2018-05-08_PRI","SF_DeKalb_1_1",NA,"David (Dave) Cserep","David","Cserep",NA,NA,NA,NA,NA,NA,NA
+"94","Allen","Allen","IN_2018-05-08_PRI","SF_Allen_1_1",NA,"David J Gladieux","David","Gladieux",NA,NA,NA,NA,NA,NA,NA
+"95","Benton","Benton","IN_2018-05-08_PRI","SF_Benton_1_1",NA,"DON MUNSON","DON","MUNSON",NA,NA,NA,NA,NA,NA,NA
+"96","Cass","Cass","IN_2018-05-08_PRI","SF_Cass_1_1",NA,"Edward (Ed) C. Schroder","Edward","Schroder",NA,NA,NA,NA,NA,NA,NA
+"97","Elkhart","Elkhart","IN_2018-05-08_PRI","SF_Elkhart_1_1",NA,"FRED E MOCK ","FRED","MOCK",NA,NA,NA,NA,NA,NA,NA
+"98","Cass","Cass","IN_2018-05-08_PRI","SF_Cass_1_1",NA,"Gary Armstrong","Gary","Armstrong",NA,NA,NA,NA,NA,NA,NA
+"99","Daviess","Daviess","IN_2018-05-08_PRI","SF_Daviess_1_1",NA,"Gary W. Allison","Gary","Allison",NA,NA,NA,NA,NA,NA,NA
+"100","DeKalb","DeKalb","IN_2018-05-08_PRI","SF_DeKalb_1_1",NA,"Gerald L Kline","Gerald","Kline",NA,NA,NA,NA,NA,NA,NA
+"101","Decatur","Decatur","IN_2018-05-08_PRI","SF_Decatur_1_1",NA,"H.  WAYNE SHAKE","H.","SHAKE",NA,NA,NA,NA,NA,NA,NA
+"102","Clark","Clark","IN_2018-05-08_PRI","SF_Clark_1_1",NA,"JAMEY J NOEL","JAMEY","NOEL",NA,NA,NA,NA,NA,NA,NA
+"103","Elkhart","Elkhart","IN_2018-05-08_PRI","SF_Elkhart_1_1",NA,"JEFF A SIEGEL","JEFF","SIEGEL",NA,NA,NA,NA,NA,NA,NA
+"104","Crawford","Crawford","IN_2018-05-08_PRI","SF_Crawford_1_1",NA,"Jeff Howell","Jeff","Howell",NA,NA,NA,NA,NA,NA,NA
+"105","Blackford","Blackford","IN_2018-05-08_PRI","SF_Blackford_1_1",NA,"Jeffrey C Sones","Jeffrey","Sones",NA,NA,NA,NA,NA,NA,NA
+"106","Crawford","Crawford","IN_2018-05-08_PRI","SF_Crawford_1_1",NA,"Jerome M (Jerry) Byerly","Jerome","Byerly",NA,NA,NA,NA,NA,NA,NA
+"107","Clinton","Clinton","IN_2018-05-08_PRI","SF_Clinton_1_1",NA,"Jerrad D Blacker","Jerrad","Blacker",NA,NA,NA,NA,NA,NA,NA
+"108","Crawford","Crawford","IN_2018-05-08_PRI","SF_Crawford_1_1",NA,"JERRY B JOHNSON","JERRY","JOHNSON",NA,NA,NA,NA,NA,NA,NA
+"109","Decatur","Decatur","IN_2018-05-08_PRI","SF_Decatur_1_1",NA,"JIM PONSLER","JIM","PONSLER",NA,NA,NA,NA,NA,NA,NA
+"110","Blackford","Blackford","IN_2018-05-08_PRI","SF_Blackford_1_1",NA,"John A. Lancaster ","John","Lancaster",NA,NA,NA,NA,NA,NA,NA
+"111","Elkhart","Elkhart","IN_2018-05-08_PRI","SF_Elkhart_1_1",NA,"JOHN PERRY","JOHN","PERRY",NA,NA,NA,NA,NA,NA,NA
+"112","Clinton","Clinton","IN_2018-05-08_PRI","SF_Clinton_1_1",NA,"Mark A Mitchell","Mark","Mitchell",NA,NA,NA,NA,NA,NA,NA
+"113","Crawford","Crawford","IN_2018-05-08_PRI","SF_Crawford_1_1",NA,"MARTHA S WRIGHT","MARTHA","WRIGHT",NA,NA,NA,NA,NA,NA,NA
+"114","Bartholomew","Bartholomew","IN_2018-05-08_PRI","SF_Bartholomew_1_1",NA,"Matthew A. Myers","Matthew","Myers",NA,NA,NA,NA,NA,NA,NA
+"115","Clinton","Clinton","IN_2018-05-08_PRI","SF_Clinton_1_1",NA,"Matthew K Myers","Matthew","Myers",NA,NA,NA,NA,NA,NA,NA
+"116","Clay","Clay","IN_2018-05-08_PRI","SF_Clay_1_1",NA,"Michael (Mike) Heaton","Michael","Heaton",NA,NA,NA,NA,NA,NA,NA
+"117","Boone","Boone","IN_2018-05-08_PRI","SF_Boone_1_1",NA,"MICHAEL C MIKE GREENE","MICHAEL","GREENE",NA,NA,NA,NA,NA,NA,NA
+"118","Boone","Boone","IN_2018-05-08_PRI","SF_Boone_1_1",NA,"MICHAEL T (MIKE) NIELSEN","MICHAEL","NIELSEN",NA,NA,NA,NA,NA,NA,NA
+"119","Clay","Clay","IN_2018-05-08_PRI","SF_Clay_1_1",NA,"Paul B Harden","Paul","Harden",NA,NA,NA,NA,NA,NA,NA
+"120","Clinton","Clinton","IN_2018-05-08_PRI","SF_Clinton_1_1",NA,"Richard Rich Kelly","Richard","Kelly",NA,NA,NA,NA,NA,NA,NA
+"121","Decatur","Decatur","IN_2018-05-08_PRI","SF_Decatur_1_1",NA,"RICHARD (RICK) UNDERHILL","RICHARD","UNDERHILL",NA,NA,NA,NA,NA,NA,NA
+"122","Bartholomew","Bartholomew","IN_2018-05-08_PRI","SF_Bartholomew_1_1",NA,"Robert (Rob) V. Kittle Jr.","Robert","Kittle",NA,NA,NA,NA,NA,NA,NA
+"123","Brown","Brown","IN_2018-05-08_PRI","SF_Brown_1_1",NA,"Scott Southerland","Scott","Southerland",NA,NA,NA,NA,NA,NA,NA
+"124","Dearborn","Dearborn","IN_2018-05-08_PRI","SF_Dearborn_1_1",NA,"Shane McHenry","Shane","McHenry",NA,NA,NA,NA,NA,NA,NA
+"125","Decatur","Decatur","IN_2018-05-08_PRI","SF_Decatur_1_1",NA,"STEVE SNYDER","STEVE","SNYDER",NA,NA,NA,NA,NA,NA,NA
+"126","Bartholomew","Bartholomew","IN_2018-05-08_PRI","SF_Bartholomew_1_1",NA,"Tamara Watson","Tamara","Watson",NA,NA,NA,NA,NA,NA,NA
+"127","Dubois","Dubois","IN_2018-05-08_PRI","SF_Dubois_1_1",NA,"THOMAS J KLEINHELTER","THOMAS","KLEINHELTER",NA,NA,NA,NA,NA,NA,NA
+"128","Crawford","Crawford","IN_2018-05-08_PRI","SF_Crawford_1_1",NA,"TIM WILKERSON","TIM","WILKERSON",NA,NA,NA,NA,NA,NA,NA
+"129","Carroll","Carroll","IN_2018-05-08_PRI","SF_Carroll_1_1",NA,"Tobe Leazenby","Tobe","Leazenby",NA,NA,NA,NA,NA,NA,NA
+"130","Blackford","Blackford","IN_2018-05-08_PRI","SF_Blackford_1_1",NA,"Tony Scaggs","Tony","Scaggs",NA,NA,NA,NA,NA,NA,NA
+"131","Delaware","Delaware","IN_2018-05-08_PRI","SF_Delaware_1_1",NA,"TONY SKINNER","TONY","SKINNER",NA,NA,NA,NA,NA,NA,NA
+"132","Daviess","Daviess","IN_2018-05-08_PRI","SF_Daviess_1_1",NA,"Troy Anthony Fuhs","Troy","Fuhs",NA,NA,NA,NA,NA,NA,NA
+"133","Adams","Adams","IN_2018-05-08_PRI","SF_Adams_1_1",NA,"TY  HANNI","TY","HANNI",NA,NA,NA,NA,NA,NA,NA
+"134","Decatur","Decatur","IN_2018-05-08_PRI","SF_Decatur_1_1",NA,"WILLIAM B MEYERROSE","WILLIAM","MEYERROSE",NA,NA,NA,NA,NA,NA,NA

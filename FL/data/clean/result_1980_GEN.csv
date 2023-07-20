@@ -1,0 +1,11 @@
+"election_id","office_id","candidate_id","candidate","party","votes","vote_share","winner"
+"FL_1980-11-04_GEN","PD_15_000",NA,"Barry Cohen","DEM",94246,0.408,0
+"FL_1980-11-04_GEN","PD_15_000",NA,"Richard Jorandby","REP",136495,0.592,1
+"FL_1980-11-04_GEN","PD_18_000",NA,"David Porter","DEM",61432,0.387,0
+"FL_1980-11-04_GEN","PD_18_000",NA,"J. Russo","REP",97292,0.613,1
+"FL_1980-11-04_GEN","SA_15_000",NA,"David Bludworth","REP",153714,0.654,1
+"FL_1980-11-04_GEN","SA_15_000",NA,"Nelson Bailey","DEM",81152,0.346,0
+"FL_1980-11-04_GEN","TC2_17_8",NA,"Linda Vitale","NON",219819,0.668,1
+"FL_1980-11-04_GEN","TC2_17_8",NA,"Sheldon Golding","NON",109221,0.332,0
+"FL_1980-11-04_GEN","TC2_2_000",NA,"J. Hall, Jr.","NON",34062,0.534,1
+"FL_1980-11-04_GEN","TC2_2_000",NA,"Mallory Horne","NON",29696,0.466,0

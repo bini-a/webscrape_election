@@ -1,0 +1,31 @@
+ElectionDate	PartyCode	PartyName	RaceCode	OfficeDesc	CountyCode	CountyName	Juris1num	Juris2num	Precincts	PrecinctsReporting	CanNameLast	CanNameFirst	CanNameMiddle	CanVotes
+10/2/1984	DEM	Democrat	USR	United States Representative	DES	Desoto	010		0	0	Carter	Jack		1669
+10/2/1984	DEM	Democrat	USR	United States Representative	HAR	Hardee	010		0	0	Carter	Jack		282
+10/2/1984	DEM	Democrat	USR	United States Representative	MAN	Manatee	010		0	0	Carter	Jack		1547
+10/2/1984	DEM	Democrat	USR	United States Representative	OSC	Osceola	010		0	0	Carter	Jack		108
+10/2/1984	DEM	Democrat	USR	United States Representative	POL	Polk	010		0	0	Carter	Jack		18942
+10/2/1984	DEM	Democrat	USR	United States Representative	DES	Desoto	010		0	0	Glass	Patricia	M. (Pat)	2819
+10/2/1984	DEM	Democrat	USR	United States Representative	HAR	Hardee	010		0	0	Glass	Patricia	M. (Pat)	347
+10/2/1984	DEM	Democrat	USR	United States Representative	MAN	Manatee	010		0	0	Glass	Patricia	M. (Pat)	6920
+10/2/1984	DEM	Democrat	USR	United States Representative	OSC	Osceola	010		0	0	Glass	Patricia	M. (Pat)	91
+10/2/1984	DEM	Democrat	USR	United States Representative	POL	Polk	010		0	0	Glass	Patricia	M. (Pat)	16667
+10/2/1984	DEM	Democrat	STS	State Senator	BRO	Broward	031		0	0	Loss	Florence	B.	3824
+10/2/1984	DEM	Democrat	STS	State Senator	BRO	Broward	031		0	0	Rocoff	Alan	M.	1616
+10/2/1984	DEM	Democrat	STR	State Representative	DUV	Duval	016		0	0	Hampton	Frank		2758
+10/2/1984	DEM	Democrat	STR	State Representative	DUV	Duval	016		0	0	Thomas	John		4011
+10/2/1984	DEM	Democrat	STR	State Representative	HIL	Hillsborough	049		0	0	Chambers, Jr.	Dan		5675
+10/2/1984	DEM	Democrat	STR	State Representative	HIL	Hillsborough	049		0	0	Stovall	Leonard	D. (Len)	5840
+10/2/1984	REP	Republican	STR	State Representative	SAR	Sarasota	070		0	0	Lombard	James	M.	5463
+10/2/1984	REP	Republican	STR	State Representative	SAR	Sarasota	070		0	0	Scherman	Norman		3141
+10/2/1984	REP	Republican	STR	State Representative	CHA	Charlotte	071		0	0	Confer	Scott		1639
+10/2/1984	REP	Republican	STR	State Representative	SAR	Sarasota	071		0	0	Confer	Scott		2261
+10/2/1984	REP	Republican	STR	State Representative	CHA	Charlotte	071		0	0	Thomas	David	(Dr. Dave)	1427
+10/2/1984	REP	Republican	STR	State Representative	SAR	Sarasota	071		0	0	Thomas	David	(Dr. Dave)	2481
+10/2/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	105		0	0	Alonso	Miriam		1148
+10/2/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	105		0	0	Gutman	Alberto	'Al'	1875
+10/2/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	112		0	0	Amaro	H.	G.	1333
+10/2/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	112		0	0	Gonzalez-Quevedo	Arnhilda		1881
+10/2/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	113		0	0	Cortina	Humberto		1881
+10/2/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	113		0	0	Morse	Luis	C.	2681
+10/2/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	115		0	0	Arango	Franz		1480
+10/2/1984	REP	Republican	STR	State Representative	DAD	Miami-Dade	115		0	0	Souto	Javier		2982

@@ -1,0 +1,107 @@
+ElectionDate	PartyCode	PartyName	RaceCode	OfficeDesc	CountyCode	CountyName	Juris1num	Juris2num	Precincts	PrecinctsReporting	CanNameLast	CanNameFirst	CanNameMiddle	CanVotes
+10/3/2000	REP	Republican	USR	United States Representative	ORA	Orange	008		199	199	Keller	Ric		15309
+10/3/2000	REP	Republican	USR	United States Representative	OSC	Osceola	008		26	26	Keller	Ric		983
+10/3/2000	REP	Republican	USR	United States Representative	ORA	Orange	008		199	199	Sublette	Bill		14334
+10/3/2000	REP	Republican	USR	United States Representative	OSC	Osceola	008		26	26	Sublette	Bill		743
+10/3/2000	REP	Republican	STR	State Representative	DUV	Duval	018		35	35	Davis	Don		2889
+10/3/2000	REP	Republican	STR	State Representative	STJ	St. Johns	018		10	10	Davis	Don		1163
+10/3/2000	REP	Republican	STR	State Representative	DUV	Duval	018		35	35	Kartsonis	Holly		2092
+10/3/2000	REP	Republican	STR	State Representative	STJ	St. Johns	018		10	10	Kartsonis	Holly		966
+10/3/2000	REP	Republican	STR	State Representative	LAK	Lake	025		26	26	Baker	Carey		3904
+10/3/2000	REP	Republican	STR	State Representative	MRN	Marion	025		2	2	Baker	Carey		101
+10/3/2000	REP	Republican	STR	State Representative	SEM	Seminole	025		14	14	Baker	Carey		789
+10/3/2000	REP	Republican	STR	State Representative	VOL	Volusia	025		17	17	Baker	Carey		711
+10/3/2000	REP	Republican	STR	State Representative	LAK	Lake	025		26	26	Hensinger	Betty		1923
+10/3/2000	REP	Republican	STR	State Representative	MRN	Marion	025		2	2	Hensinger	Betty		91
+10/3/2000	REP	Republican	STR	State Representative	SEM	Seminole	025		14	14	Hensinger	Betty		833
+10/3/2000	REP	Republican	STR	State Representative	VOL	Volusia	025		17	17	Hensinger	Betty		359
+10/3/2000	REP	Republican	STR	State Representative	BRE	Brevard	032		40	40	Allen	Bob		2361
+10/3/2000	REP	Republican	STR	State Representative	IND	Indian River	032		5	5	Allen	Bob		144
+10/3/2000	REP	Republican	STR	State Representative	ORA	Orange	032		15	15	Allen	Bob		966
+10/3/2000	REP	Republican	STR	State Representative	BRE	Brevard	032		40	40	Altman	Thad		2223
+10/3/2000	REP	Republican	STR	State Representative	IND	Indian River	032		5	5	Altman	Thad		51
+10/3/2000	REP	Republican	STR	State Representative	ORA	Orange	032		15	15	Altman	Thad		602
+10/3/2000	REP	Republican	STR	State Representative	ORA	Orange	034		6	6	Mealor	David	J.	596
+10/3/2000	REP	Republican	STR	State Representative	SEM	Seminole	034		44	44	Mealor	David	J.	2882
+10/3/2000	REP	Republican	STR	State Representative	ORA	Orange	034		6	6	Michel	Mark	A.	592
+10/3/2000	REP	Republican	STR	State Representative	SEM	Seminole	034		44	44	Michel	Mark	A.	2270
+10/3/2000	REP	Republican	STR	State Representative	ORA	Orange	040		51	51	Dowless	John		3515
+10/3/2000	REP	Republican	STR	State Representative	ORA	Orange	040		51	51	Gardiner	Andy		4190
+10/3/2000	REP	Republican	STR	State Representative	PIN	Pinellas	054		46	46	Carassas	John		5281
+10/3/2000	REP	Republican	STR	State Representative	PIN	Pinellas	054		46	46	Miller	Dave		4063
+10/3/2000	REP	Republican	STR	State Representative	SAR	Sarasota	069		49	49	Clarke	Donna (Azar)		2769
+10/3/2000	REP	Republican	STR	State Representative	SAR	Sarasota	069		49	49	Lewis	John		2521
+10/3/2000	REP	Republican	STR	State Representative	CHA	Charlotte	074		5	5	Kottkamp	Jeff		299
+10/3/2000	REP	Republican	STR	State Representative	LEE	Lee	074		45	45	Kottkamp	Jeff		7283
+10/3/2000	REP	Republican	STR	State Representative	SAR	Sarasota	074		5	5	Kottkamp	Jeff		166
+10/3/2000	REP	Republican	STR	State Representative	CHA	Charlotte	074		5	5	Stout	Marilyn		311
+10/3/2000	REP	Republican	STR	State Representative	LEE	Lee	074		45	45	Stout	Marilyn		6496
+10/3/2000	REP	Republican	STR	State Representative	SAR	Sarasota	074		5	5	Stout	Marilyn		321
+10/3/2000	REP	Republican	STR	State Representative	IND	Indian River	080		36	36	Jordan	Carole	Jean	3619
+10/3/2000	REP	Republican	STR	State Representative	STL	St. Lucie	080		17	17	Jordan	Carole	Jean	628
+10/3/2000	REP	Republican	STR	State Representative	IND	Indian River	080		36	36	Mayfield	Stan		8448
+10/3/2000	REP	Republican	STR	State Representative	STL	St. Lucie	080		17	17	Mayfield	Stan		863
+10/3/2000	REP	Republican	STR	State Representative	MRT	Martin	082		26	26	Argenio	Art		4094
+10/3/2000	REP	Republican	STR	State Representative	PAL	Palm Beach	082		27	27	Argenio	Art		1162
+10/3/2000	REP	Republican	STR	State Representative	MRT	Martin	082		26	26	Negron	Joe		5273
+10/3/2000	REP	Republican	STR	State Representative	PAL	Palm Beach	082		27	27	Negron	Joe		840
+10/3/2000	DEM	Democrat	STS	State Senator	BAY	Bay	003		16	16	Boyd	Janegale		819
+10/3/2000	DEM	Democrat	STS	State Senator	CAL	Calhoun	003		14	14	Boyd	Janegale		2538
+10/3/2000	DEM	Democrat	STS	State Senator	FRA	Franklin	003		8	8	Boyd	Janegale		2054
+10/3/2000	DEM	Democrat	STS	State Senator	GAD	Gadsden	003		16	16	Boyd	Janegale		2844
+10/3/2000	DEM	Democrat	STS	State Senator	GUL	Gulf	003		14	14	Boyd	Janegale		2468
+10/3/2000	DEM	Democrat	STS	State Senator	JAC	Jackson	003		27	27	Boyd	Janegale		4410
+10/3/2000	DEM	Democrat	STS	State Senator	JEF	Jefferson	003		6	6	Boyd	Janegale		975
+10/3/2000	DEM	Democrat	STS	State Senator	LEO	Leon	003		68	68	Boyd	Janegale		5489
+10/3/2000	DEM	Democrat	STS	State Senator	LIB	Liberty	003		8	8	Boyd	Janegale		1122
+10/3/2000	DEM	Democrat	STS	State Senator	MAD	Madison	003		9	9	Boyd	Janegale		1591
+10/3/2000	DEM	Democrat	STS	State Senator	WAK	Wakulla	003		12	12	Boyd	Janegale		2317
+10/3/2000	DEM	Democrat	STS	State Senator	BAY	Bay	003		16	16	Lawson	Alfred	'Al'	545
+10/3/2000	DEM	Democrat	STS	State Senator	CAL	Calhoun	003		14	14	Lawson	Alfred	'Al'	2206
+10/3/2000	DEM	Democrat	STS	State Senator	FRA	Franklin	003		8	8	Lawson	Alfred	'Al'	1297
+10/3/2000	DEM	Democrat	STS	State Senator	GAD	Gadsden	003		16	16	Lawson	Alfred	'Al'	7445
+10/3/2000	DEM	Democrat	STS	State Senator	GUL	Gulf	003		14	14	Lawson	Alfred	'Al'	1757
+10/3/2000	DEM	Democrat	STS	State Senator	JAC	Jackson	003		27	27	Lawson	Alfred	'Al'	4328
+10/3/2000	DEM	Democrat	STS	State Senator	JEF	Jefferson	003		6	6	Lawson	Alfred	'Al'	721
+10/3/2000	DEM	Democrat	STS	State Senator	LEO	Leon	003		68	68	Lawson	Alfred	'Al'	15153
+10/3/2000	DEM	Democrat	STS	State Senator	LIB	Liberty	003		8	8	Lawson	Alfred	'Al'	1399
+10/3/2000	DEM	Democrat	STS	State Senator	MAD	Madison	003		9	9	Lawson	Alfred	'Al'	1548
+10/3/2000	DEM	Democrat	STS	State Senator	WAK	Wakulla	003		12	12	Lawson	Alfred	'Al'	1520
+10/3/2000	DEM	Democrat	STR	State Representative	GAD	Gadsden	008		16	16	Barber	Kenneth		3830
+10/3/2000	DEM	Democrat	STR	State Representative	LEO	Leon	008		33	33	Barber	Kenneth		3597
+10/3/2000	DEM	Democrat	STR	State Representative	GAD	Gadsden	008		16	16	Richardson	Curtis		5243
+10/3/2000	DEM	Democrat	STR	State Representative	LEO	Leon	008		33	33	Richardson	Curtis		3498
+10/3/2000	DEM	Democrat	STR	State Representative	LEO	Leon	009		64	64	Ausley	Loranne		11735
+10/3/2000	DEM	Democrat	STR	State Representative	LEO	Leon	009		64	64	Patterson	Todd		10159
+10/3/2000	DEM	Democrat	STR	State Representative	ALA	Alachua	010		3	3	Hankerson	Johnny	'Hank'	151
+10/3/2000	DEM	Democrat	STR	State Representative	DIX	Dixie	010		11	11	Hankerson	Johnny	'Hank'	1642
+10/3/2000	DEM	Democrat	STR	State Representative	FRA	Franklin	010		8	8	Hankerson	Johnny	'Hank'	634
+10/3/2000	DEM	Democrat	STR	State Representative	GIL	Gilchrist	010		5	5	Hankerson	Johnny	'Hank'	100
+10/3/2000	DEM	Democrat	STR	State Representative	JEF	Jefferson	010		14	14	Hankerson	Johnny	'Hank'	2013
+10/3/2000	DEM	Democrat	STR	State Representative	LEO	Leon	010		4	4	Hankerson	Johnny	'Hank'	313
+10/3/2000	DEM	Democrat	STR	State Representative	LEV	Levy	010		21	21	Hankerson	Johnny	'Hank'	2406
+10/3/2000	DEM	Democrat	STR	State Representative	MRN	Marion	010		7	7	Hankerson	Johnny	'Hank'	40
+10/3/2000	DEM	Democrat	STR	State Representative	TAY	Taylor	010		14	14	Hankerson	Johnny	'Hank'	1366
+10/3/2000	DEM	Democrat	STR	State Representative	WAK	Wakulla	010		12	12	Hankerson	Johnny	'Hank'	937
+10/3/2000	DEM	Democrat	STR	State Representative	ALA	Alachua	010		3	3	Kendrick	Will	S.	173
+10/3/2000	DEM	Democrat	STR	State Representative	DIX	Dixie	010		11	11	Kendrick	Will	S.	2378
+10/3/2000	DEM	Democrat	STR	State Representative	FRA	Franklin	010		8	8	Kendrick	Will	S.	2658
+10/3/2000	DEM	Democrat	STR	State Representative	GIL	Gilchrist	010		5	5	Kendrick	Will	S.	220
+10/3/2000	DEM	Democrat	STR	State Representative	JEF	Jefferson	010		14	14	Kendrick	Will	S.	2190
+10/3/2000	DEM	Democrat	STR	State Representative	LEO	Leon	010		4	4	Kendrick	Will	S.	513
+10/3/2000	DEM	Democrat	STR	State Representative	LEV	Levy	010		21	21	Kendrick	Will	S.	2965
+10/3/2000	DEM	Democrat	STR	State Representative	MRN	Marion	010		7	7	Kendrick	Will	S.	81
+10/3/2000	DEM	Democrat	STR	State Representative	TAY	Taylor	010		14	14	Kendrick	Will	S.	1093
+10/3/2000	DEM	Democrat	STR	State Representative	WAK	Wakulla	010		12	12	Kendrick	Will	S.	2817
+10/3/2000	DEM	Democrat	STR	State Representative	ORA	Orange	039		30	30	Sims	Wardell		2206
+10/3/2000	DEM	Democrat	STR	State Representative	ORA	Orange	039		30	30	Siplin	Gary		2817
+10/3/2000	DEM	Democrat	STR	State Representative	PAL	Palm Beach	088		79	79	Gannon	Anne	M.	3643
+10/3/2000	DEM	Democrat	STR	State Representative	PAL	Palm Beach	088		79	79	Silver	Barry		3423
+10/3/2000	DEM	Democrat	STR	State Representative	PAL	Palm Beach	089		54	54	Levine	Curt		4330
+10/3/2000	DEM	Democrat	STR	State Representative	PAL	Palm Beach	089		54	54	Slosberg	Irving		4412
+10/3/2000	DEM	Democrat	STR	State Representative	BRO	Broward	094		51	51	Jackson	Clarence 'CJ'		2945
+10/3/2000	DEM	Democrat	STR	State Representative	BRO	Broward	094		51	51	Meadows	Matthew	'Matt'	3092
+10/3/2000	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		36	36	Bendross-Mindingall	Dorothy		1279
+10/3/2000	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	109		36	36	Colyer	Jacqui		1160
+10/3/2000	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		46	46	Bullard	Edward	B.	1270
+10/3/2000	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	118		46	46	Jones	Donald		1232

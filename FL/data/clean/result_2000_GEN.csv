@@ -1,0 +1,25 @@
+"election_id","office_id","candidate_id","candidate","party","votes","vote_share","winner"
+"FL_2000-11-07_GEN","PD_009_000",NA,"Bob Wesley","DEM",166881,0.539,1
+"FL_2000-11-07_GEN","PD_009_000",NA,"Letty Marques","REP",142473,0.461,0
+"FL_2000-11-07_GEN","PD_013_000",NA,"Alan Sandler","REP",151561,0.457,0
+"FL_2000-11-07_GEN","PD_013_000",NA,"Julianne Holt","DEM",180188,0.543,1
+"FL_2000-11-07_GEN","PD_015_000",NA,"Carey Haughwout","DEM",246998,0.613,1
+"FL_2000-11-07_GEN","PD_015_000",NA,"Richard Jorandby","REP",156131,0.387,0
+"FL_2000-11-07_GEN","SA_008_000",NA,"Bill Cervone","REP",61391,0.523,1
+"FL_2000-11-07_GEN","SA_008_000",NA,"George Schaefer","DEM",56006,0.477,0
+"FL_2000-11-07_GEN","SA_011_000",NA,"Al Milian","REP",254778,0.44,0
+"FL_2000-11-07_GEN","SA_011_000",NA,"Katherine Rundle","DEM",324081,0.56,1
+"FL_2000-11-07_GEN","SA_013_000",NA,"Mark Ober","REP",183103,0.545,1
+"FL_2000-11-07_GEN","SA_013_000",NA,"Robert Shimberg","DEM",152997,0.455,0
+"FL_2000-11-07_GEN","SA_014_000",NA,"Christopher Patterson","REP",48060,0.479,0
+"FL_2000-11-07_GEN","SA_014_000",NA,"Jim Appleman","DEM",52261,0.521,1
+"FL_2000-11-07_GEN","SA_016_000",NA,"Kirk Zuelch","DEM",15105,0.469,0
+"FL_2000-11-07_GEN","SA_016_000",NA,"Mark Kohl","REP",17070,0.531,1
+"FL_2000-11-07_GEN","TC2_011_25",NA,"Dennis Murphy","NON",208959,0.515,1
+"FL_2000-11-07_GEN","TC2_011_25",NA,"Gina Mendez","NON",196724,0.485,0
+"FL_2000-11-07_GEN","TC2_011_8",NA,"David Miller","NON",245765,0.636,1
+"FL_2000-11-07_GEN","TC2_011_8",NA,"David Peckins","NON",140934,0.364,0
+"FL_2000-11-07_GEN","TC2_013_25",NA,"Leland Baldwin","NON",133752,0.482,0
+"FL_2000-11-07_GEN","TC2_013_25",NA,"Robert Foster, Jr.","NON",143977,0.518,1
+"FL_2000-11-07_GEN","TC2_017_31",NA,"Marcia Beach","NON",222979,0.52,1
+"FL_2000-11-07_GEN","TC2_017_31",NA,"Samuel 'Sam' Fields","NON",205558,0.48,0

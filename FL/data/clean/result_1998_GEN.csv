@@ -1,0 +1,9 @@
+"election_id","office_id","candidate_id","candidate","party","votes","vote_share","winner"
+"FL_1998-11-03_GEN","AG_FL_000",NA,"Bob Butterworth","DEM",2301328,0.596,1
+"FL_1998-11-03_GEN","AG_FL_000",NA,"David Bludworth","REP",1562269,0.404,0
+"FL_1998-11-03_GEN","TC2_18_6",NA,"David Dugan","NON",110292,0.569,1
+"FL_1998-11-03_GEN","TC2_18_6",NA,"Jeffrey Thompson","NON",83523,0.431,0
+"FL_1998-11-03_GEN","TC2_18_9",NA,"George Maxwell","NON",101896,0.52,1
+"FL_1998-11-03_GEN","TC2_18_9",NA,"Jack Griesbaum","NON",94166,0.48,0
+"FL_1998-11-03_GEN","TC2_6_20",NA,"Irene Sullivan","NON",173725,0.535,1
+"FL_1998-11-03_GEN","TC2_6_20",NA,"John Stewart","NON",151119,0.465,0

@@ -1,0 +1,48 @@
+"election_id","office_id","candidate_id","candidate","party","votes","vote_share","winner"
+"FL_2022-08-23_PRI","TC2_11_20",NA,"Brenda Guerrero","NON",123574,0.472,0
+"FL_2022-08-23_PRI","TC2_11_20",NA,"Robert Watson","NON",138045,0.528,1
+"FL_2022-08-23_PRI","TC2_11_3",NA,"Lody Jean","NON",151235,0.568,1
+"FL_2022-08-23_PRI","TC2_11_3",NA,"Teressa Cervera","NON",114998,0.432,0
+"FL_2022-08-23_PRI","TC2_11_34",NA,"Ariel Rodriguez","NON",135300,0.515,1
+"FL_2022-08-23_PRI","TC2_11_34",NA,"Mark Blumstein","NON",127575,0.485,0
+"FL_2022-08-23_PRI","TC2_11_52",NA,"Jason Bloch","NON",130369,0.496,0
+"FL_2022-08-23_PRI","TC2_11_52",NA,"Oscar Rodriguez-Fonts","NON",132220,0.504,1
+"FL_2022-08-23_PRI","TC2_13_37",NA,"Jared Smith","NON",101472,0.481,0
+"FL_2022-08-23_PRI","TC2_13_37",NA,"Nancy Jacobs","NON",109392,0.519,1
+"FL_2022-08-23_PRI","TC2_13_6",NA,"Belinda Noah","NON",87669,0.416,0
+"FL_2022-08-23_PRI","TC2_13_6",NA,"Wesley Tibbals","NON",122996,0.584,1
+"FL_2022-08-23_PRI","TC2_15_23",NA,"Alcolya St. Juste","NON",79812,0.359,0
+"FL_2022-08-23_PRI","TC2_15_23",NA,"Caryn Siperstein","NON",142247,0.641,1
+"FL_2022-08-23_PRI","TC2_17_14",NA,"Alejandro 'Alex' Arreaza","NON",83182,0.358,0
+"FL_2022-08-23_PRI","TC2_17_14",NA,"William Haury","NON",148895,0.642,1
+"FL_2022-08-23_PRI","TC2_17_23",NA,"Gary Farmer","NON",91887,0.387,1
+"FL_2022-08-23_PRI","TC2_17_23",NA,"Rhoda Sokoloff","NON",69249,0.291,0
+"FL_2022-08-23_PRI","TC2_17_23",NA,"Tania Williams","NON",76472,0.322,1
+"FL_2022-08-23_PRI","TC2_17_51",NA,"Denise Kistner","NON",60051,0.258,0
+"FL_2022-08-23_PRI","TC2_17_51",NA,"Lorena Mastrarrigo","NON",91650,0.394,1
+"FL_2022-08-23_PRI","TC2_17_51",NA,"Tamar Hamilton","NON",80653,0.347,1
+"FL_2022-08-23_PRI","TC2_17_9",NA,"Andrea Gundersen","NON",81438,0.347,0
+"FL_2022-08-23_PRI","TC2_17_9",NA,"Lauren Alperstein","NON",153019,0.653,1
+"FL_2022-08-23_PRI","TC2_18_3",NA,"Jessica Recksiedler","NON",111577,0.573,1
+"FL_2022-08-23_PRI","TC2_18_3",NA,"John Mannion","NON",83307,0.427,0
+"FL_2022-08-23_PRI","TC2_19_1",NA,"Christian Van Riper","NON",34548,0.278,0
+"FL_2022-08-23_PRI","TC2_19_1",NA,"Rebecca White","NON",89544,0.722,1
+"FL_2022-08-23_PRI","TC2_19_2",NA,"Alexander Nelson","NON",49061,0.405,0
+"FL_2022-08-23_PRI","TC2_19_2",NA,"Leatha Mullins","NON",71937,0.595,1
+"FL_2022-08-23_PRI","TC2_6_22",NA,"Cynthia Newton","NON",173986,0.597,1
+"FL_2022-08-23_PRI","TC2_6_22",NA,"Nicholas 'Nick' Fiorentino","NON",117226,0.403,0
+"FL_2022-08-23_PRI","TC2_6_27",NA,"Keith Meyer","NON",186898,0.654,1
+"FL_2022-08-23_PRI","TC2_6_27",NA,"Scott Finelli","NON",99047,0.346,0
+"FL_2022-08-23_PRI","TC2_8_12",NA,"AuBroncee Martin","NON",19015,0.254,1
+"FL_2022-08-23_PRI","TC2_8_12",NA,"Dan Weisman","NON",14908,0.2,0
+"FL_2022-08-23_PRI","TC2_8_12",NA,"Nathan Skop","NON",12753,0.171,0
+"FL_2022-08-23_PRI","TC2_8_12",NA,"Sean Brewer","NON",28042,0.375,1
+"FL_2022-08-23_PRI","TC2_9_14",NA,"John Beamer","NON",111149,0.527,1
+"FL_2022-08-23_PRI","TC2_9_14",NA,"Michael Stewart","NON",99663,0.473,0
+"FL_2022-08-23_PRI","TC2_9_44",NA,"Aldo Bartolone","NON",69874,0.332,0
+"FL_2022-08-23_PRI","TC2_9_44",NA,"Vincent Chiu","NON",140463,0.668,1
+"FL_2022-08-23_PRI","TC2_9_9",NA,"Alison Kerestes","NON",117410,0.559,1
+"FL_2022-08-23_PRI","TC2_9_9",NA,"Fay Pappas","NON",92728,0.441,0
+"FL_2022-08-23_PRI-D","AG_FL_000",NA,"Aramis Ayala","DEM",637856,0.449,1
+"FL_2022-08-23_PRI-D","AG_FL_000",NA,"Daniel Uhlfelder","DEM",399620,0.282,1
+"FL_2022-08-23_PRI-D","AG_FL_000",NA,"Jim Lewis","DEM",381575,0.269,0

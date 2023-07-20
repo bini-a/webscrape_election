@@ -1,0 +1,30 @@
+"election_id","office_id","candidate_id","candidate","party","votes","vote_share","winner"
+"FL_2004-11-02_GEN","PD_11_000",NA,"Bennett Brummer","DEM",356310,0.531,1
+"FL_2004-11-02_GEN","PD_11_000",NA,"Gabriel Martin","REP",314648,0.469,0
+"FL_2004-11-02_GEN","PD_13_000",NA,"Julianne Holt","DEM",235707,0.548,1
+"FL_2004-11-02_GEN","PD_13_000",NA,"Will Knight","REP",194459,0.452,0
+"FL_2004-11-02_GEN","PD_7_000",NA,"James Purdy","REP",199591,0.557,1
+"FL_2004-11-02_GEN","PD_7_000",NA,"Thomas Mott","DEM",158631,0.443,0
+"FL_2004-11-02_GEN","PD_9_000",NA,"Bob Wesley","DEM",231536,0.537,1
+"FL_2004-11-02_GEN","PD_9_000",NA,"John Gillespie","REP",199801,0.463,0
+"FL_2004-11-02_GEN","SA_11_000",NA,"Al Milian","REP",287737,0.397,0
+"FL_2004-11-02_GEN","SA_11_000",NA,"Gary Rosenberg",NA,39766,0.055,0
+"FL_2004-11-02_GEN","SA_11_000",NA,"Katherine Rundle","DEM",397922,0.549,1
+"FL_2004-11-02_GEN","SA_14_000",NA,"'Sister' Milligan","REP",59188,0.485,0
+"FL_2004-11-02_GEN","SA_14_000",NA,"Steve Meadows","DEM",62757,0.515,1
+"FL_2004-11-02_GEN","SA_2_000",NA,"Harry Hooper","REP",56536,0.32,0
+"FL_2004-11-02_GEN","SA_2_000",NA,"William N. Meggs","DEM",120227,0.68,1
+"FL_2004-11-02_GEN","SA_8_000",NA,"Bill Cervone","REP",83407,0.553,1
+"FL_2004-11-02_GEN","SA_8_000",NA,"Stan Griffis","DEM",67384,0.447,0
+"FL_2004-11-02_GEN","TC2_11_40",NA,"Catherine Parks","NON",257405,0.451,0
+"FL_2004-11-02_GEN","TC2_11_40",NA,"William Thomas","NON",312884,0.549,1
+"FL_2004-11-02_GEN","TC2_12_2",NA,"Diana Moreland","NON",154950,0.553,1
+"FL_2004-11-02_GEN","TC2_12_2",NA,"Susan Chapman","NON",125278,0.447,0
+"FL_2004-11-02_GEN","TC2_19_2",NA,"Bob Pegg","NON",78936,0.385,0
+"FL_2004-11-02_GEN","TC2_19_2",NA,"Gary Sweet","NON",126021,0.615,1
+"FL_2004-11-02_GEN","TC2_5_10",NA,"Michael Takac","NON",153962,0.423,0
+"FL_2004-11-02_GEN","TC2_5_10",NA,"Stephen Spivey","NON",210222,0.577,1
+"FL_2004-11-02_GEN","TC2_6_22",NA,"Cynthia Newton","NON",283068,0.549,1
+"FL_2004-11-02_GEN","TC2_6_22",NA,"Jack Day","NON",232864,0.451,0
+"FL_2004-11-02_GEN","TC2_8_9",NA,"Harvey Baxter","NON",55961,0.438,0
+"FL_2004-11-02_GEN","TC2_8_9",NA,"Mark Moseley","NON",71807,0.562,1

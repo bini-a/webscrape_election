@@ -1,0 +1,2 @@
+"election_id","office_id","district","office_local","office","seat","n_winners","selection_method","retention_method","open_seat","contested","runoff","special"
+"FL_1978-10-05_PRI-D","AG_FL_000","FL","Attorney General","AG","000",1,"PE",NA,NA,1,1,0

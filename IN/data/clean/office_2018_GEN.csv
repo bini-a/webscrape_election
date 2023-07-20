@@ -1,0 +1,99 @@
+"","election_id","office_id","district","office_local","office","seat","contested","n_winners","selection_method","retention_method","open_seat"
+"1","IN_2018-11-06_GEN","TC2_Clay_1_1","Clay_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"2","IN_2018-11-06_GEN","TC2_Delaware_1_1","Delaware_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"3","IN_2018-11-06_GEN","TC2_Brown_1_1","Brown_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"4","IN_2018-11-06_GEN","TC2_Clark_1_1","Clark_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"5","IN_2018-11-06_GEN","TC2_Boone_1_1","Boone_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"6","IN_2018-11-06_GEN","TC2_Carroll_1_1","Carroll_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"7","IN_2018-11-06_GEN","TC2_Clinton_1_1","Clinton_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"8","IN_2018-11-06_GEN","TC2_Blackford_1_1","Blackford_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"9","IN_2018-11-06_GEN","TC2_Adams_1_1","Adams_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"10","IN_2018-11-06_GEN","TC2_Clark_1_1","Clark_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"11","IN_2018-11-06_GEN","TC2_Boone_1_1","Boone_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"12","IN_2018-11-06_GEN","TC2_Brown_1_1","Brown_1","Judge, Circuit Court","TC2",1,1,NA,NA,NA,NA
+"13","IN_2018-11-06_GEN","TC2_Cass_1_1","Cass_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"14","IN_2018-11-06_GEN","TC2_Decatur_1_1","Decatur_1","Judge, Circuit Court","TC2",1,0,NA,NA,NA,NA
+"15","IN_2018-11-06_GEN","TC1_Clay_1_1","Clay_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"16","IN_2018-11-06_GEN","TC1_Elkhart_1_1","Elkhart_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"17","IN_2018-11-06_GEN","TC1_Bartholomew_1_1","Bartholomew_1","Judge, Superior Court","TC1",1,0,NA,NA,NA,NA
+"18","IN_2018-11-06_GEN","TC1_DeKalb_1_1","DeKalb_1","Judge, Superior Court","TC1",1,0,NA,NA,NA,NA
+"19","IN_2018-11-06_GEN","TC1_Cass_1_1","Cass_1","Judge, Superior Court","TC1",1,0,NA,NA,NA,NA
+"20","IN_2018-11-06_GEN","TC1_Clay_1_1","Clay_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"21","IN_2018-11-06_GEN","TC1_Dearborn_1_1","Dearborn_1","Judge, Superior Court","TC1",1,0,NA,NA,NA,NA
+"22","IN_2018-11-06_GEN","TC1_Elkhart_1_1","Elkhart_1","Judge, Superior Court","TC1",1,1,NA,NA,NA,NA
+"23","IN_2018-11-06_GEN","DA_Blackford_1_1","Blackford_1","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"24","IN_2018-11-06_GEN","DA_Dubois_1_1","Dubois_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"25","IN_2018-11-06_GEN","DA_Crawford_1_1","Crawford_1","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"26","IN_2018-11-06_GEN","DA_Delaware_1_1","Delaware_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"27","IN_2018-11-06_GEN","DA_Brown_1_1","Brown_1","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"28","IN_2018-11-06_GEN","DA_Clinton_1_1","Clinton_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"29","IN_2018-11-06_GEN","DA_DeKalb_1_1","DeKalb_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"30","IN_2018-11-06_GEN","DA_Daviess_1_1","Daviess_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"31","IN_2018-11-06_GEN","DA_Clay_1_1","Clay_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"32","IN_2018-11-06_GEN","DA_Clark_1_1","Clark_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"33","IN_2018-11-06_GEN","DA_Adams_1_1","Adams_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"34","IN_2018-11-06_GEN","DA_Benton_1_1","Benton_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"35","IN_2018-11-06_GEN","DA_Allen_1_1","Allen_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"36","IN_2018-11-06_GEN","DA_Boone_1_1","Boone_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"37","IN_2018-11-06_GEN","DA_Blackford_1_1","Blackford_1","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"38","IN_2018-11-06_GEN","DA_Cass_1_1","Cass_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"39","IN_2018-11-06_GEN","DA_Dearborn_1_1","Dearborn_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"40","IN_2018-11-06_GEN","DA_Decatur_1_1","Decatur_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"41","IN_2018-11-06_GEN","DA_Carroll_1_1","Carroll_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"42","IN_2018-11-06_GEN","DA_Crawford_1_1","Crawford_1","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"43","IN_2018-11-06_GEN","DA_Brown_1_1","Brown_1","Prosecuting Attorney","DA",1,1,NA,NA,NA,NA
+"44","IN_2018-11-06_GEN","DA_Elkhart_1_1","Elkhart_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"45","IN_2018-11-06_GEN","DA_Bartholomew_1_1","Bartholomew_1","Prosecuting Attorney","DA",1,0,NA,NA,NA,NA
+"46","IN_2018-11-06_GEN","CK2_Brown_1_1","Brown_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"47","IN_2018-11-06_GEN","CK2_Allen_1_1","Allen_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"48","IN_2018-11-06_GEN","CK2_Decatur_1_1","Decatur_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"49","IN_2018-11-06_GEN","CK2_Dubois_1_1","Dubois_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"50","IN_2018-11-06_GEN","CK2_Crawford_1_1","Crawford_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"51","IN_2018-11-06_GEN","CK2_Delaware_1_1","Delaware_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"52","IN_2018-11-06_GEN","CK2_Clark_1_1","Clark_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"53","IN_2018-11-06_GEN","CK2_Decatur_1_1","Decatur_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"54","IN_2018-11-06_GEN","CK2_Dubois_1_1","Dubois_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"55","IN_2018-11-06_GEN","CK2_Allen_1_1","Allen_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"56","IN_2018-11-06_GEN","CK2_Elkhart_1_1","Elkhart_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"57","IN_2018-11-06_GEN","CK2_Clark_1_1","Clark_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"58","IN_2018-11-06_GEN","CK2_Adams_1_1","Adams_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"59","IN_2018-11-06_GEN","CK2_Daviess_1_1","Daviess_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"60","IN_2018-11-06_GEN","CK2_Bartholomew_1_1","Bartholomew_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"61","IN_2018-11-06_GEN","CK2_Boone_1_1","Boone_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"62","IN_2018-11-06_GEN","CK2_Brown_1_1","Brown_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"63","IN_2018-11-06_GEN","CK2_Benton_1_1","Benton_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"64","IN_2018-11-06_GEN","CK2_Clinton_1_1","Clinton_1","Clerk of the Circuit Court","CK2",1,0,NA,NA,NA,NA
+"65","IN_2018-11-06_GEN","CK2_Delaware_1_1","Delaware_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"66","IN_2018-11-06_GEN","CK2_Crawford_1_1","Crawford_1","Clerk of the Circuit Court","CK2",1,1,NA,NA,NA,NA
+"67","IN_2018-11-06_GEN","SF_Cass_1_1","Cass_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"68","IN_2018-11-06_GEN","SF_Decatur_1_1","Decatur_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"69","IN_2018-11-06_GEN","SF_Clark_1_1","Clark_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"70","IN_2018-11-06_GEN","SF_Adams_1_1","Adams_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"71","IN_2018-11-06_GEN","SF_Blackford_1_1","Blackford_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"72","IN_2018-11-06_GEN","SF_Allen_1_1","Allen_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"73","IN_2018-11-06_GEN","SF_Delaware_1_1","Delaware_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"74","IN_2018-11-06_GEN","SF_Crawford_1_1","Crawford_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"75","IN_2018-11-06_GEN","SF_Dubois_1_1","Dubois_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"76","IN_2018-11-06_GEN","SF_Crawford_1_1","Crawford_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"77","IN_2018-11-06_GEN","SF_Clark_1_1","Clark_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"78","IN_2018-11-06_GEN","SF_Adams_1_1","Adams_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"79","IN_2018-11-06_GEN","SF_DeKalb_1_1","DeKalb_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"80","IN_2018-11-06_GEN","SF_Allen_1_1","Allen_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"81","IN_2018-11-06_GEN","SF_Benton_1_1","Benton_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"82","IN_2018-11-06_GEN","SF_Cass_1_1","Cass_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"83","IN_2018-11-06_GEN","SF_Daviess_1_1","Daviess_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"84","IN_2018-11-06_GEN","SF_Clark_1_1","Clark_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"85","IN_2018-11-06_GEN","SF_Elkhart_1_1","Elkhart_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"86","IN_2018-11-06_GEN","SF_Crawford_1_1","Crawford_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"87","IN_2018-11-06_GEN","SF_Blackford_1_1","Blackford_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"88","IN_2018-11-06_GEN","SF_Bartholomew_1_1","Bartholomew_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"89","IN_2018-11-06_GEN","SF_Boone_1_1","Boone_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"90","IN_2018-11-06_GEN","SF_Clay_1_1","Clay_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"91","IN_2018-11-06_GEN","SF_Clinton_1_1","Clinton_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"92","IN_2018-11-06_GEN","SF_Brown_1_1","Brown_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"93","IN_2018-11-06_GEN","SF_Dearborn_1_1","Dearborn_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"94","IN_2018-11-06_GEN","SF_Dubois_1_1","Dubois_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"95","IN_2018-11-06_GEN","SF_Carroll_1_1","Carroll_1","County Sheriff","SF",1,0,NA,NA,NA,NA
+"96","IN_2018-11-06_GEN","SF_Delaware_1_1","Delaware_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"97","IN_2018-11-06_GEN","SF_Decatur_1_1","Decatur_1","County Sheriff","SF",1,1,NA,NA,NA,NA
+"98","IN_2018-11-06_GEN","LC2_Boone_1_1","Boone_1","Judge, Town Court","LC2",1,0,NA,NA,NA,NA

@@ -1,0 +1,5 @@
+"election_id","office_id","candidate_id","candidate","party","votes","vote_share","winner"
+"FL_1982-10-05_PRI","TC2_9_5",NA,"Charles Prather","NON",5611,0.203,0
+"FL_1982-10-05_PRI","TC2_9_5",NA,"Richard Conrad","NON",7270,0.264,1
+"FL_1982-10-05_PRI","TC2_9_5",NA,"Thomas Kirk","NON",10168,0.369,1
+"FL_1982-10-05_PRI","TC2_9_5",NA,"William Whitacre","NON",4537,0.164,0

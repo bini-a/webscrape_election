@@ -1,0 +1,65 @@
+"election_id","office_id","candidate_id","candidate","party","votes","vote_share","winner"
+"FL_1978-09-12_PRI","TC2_11_15",NA,"Dick Lantz","NON",76086,0.637,1
+"FL_1978-09-12_PRI","TC2_11_15",NA,"Ernest Yocom","NON",43313,0.363,0
+"FL_1978-09-12_PRI","TC2_11_28",NA,"David Levy","NON",72333,0.546,1
+"FL_1978-09-12_PRI","TC2_11_28",NA,"Gerald Tobin","NON",60128,0.454,0
+"FL_1978-09-12_PRI","TC2_11_30",NA,"Carol Guralnick","NON",60933,0.425,1
+"FL_1978-09-12_PRI","TC2_11_30",NA,"Frederick Barad","NON",65639,0.458,1
+"FL_1978-09-12_PRI","TC2_11_30",NA,"Louis Beller","NON",16641,0.116,0
+"FL_1978-09-12_PRI","TC2_11_9",NA,"Murray Klein","NON",64327,0.472,0
+"FL_1978-09-12_PRI","TC2_11_9",NA,"Thomas Testa","NON",71978,0.528,1
+"FL_1978-09-12_PRI","TC2_13_11",NA,"Calvin Pope","NON",40814,0.504,1
+"FL_1978-09-12_PRI","TC2_13_11",NA,"Rene Zacchini","NON",40115,0.496,0
+"FL_1978-09-12_PRI","TC2_13_4",NA,"Roland Cribbs","NON",36584,0.466,0
+"FL_1978-09-12_PRI","TC2_13_4",NA,"Thomas Miller, Sr.","NON",41841,0.534,1
+"FL_1978-09-12_PRI","TC2_17_1",NA,"Eugene Garrett","NON",62223,0.515,1
+"FL_1978-09-12_PRI","TC2_17_1",NA,"Henry Prominski","NON",20055,0.166,0
+"FL_1978-09-12_PRI","TC2_17_1",NA,"Joseph Teichman","NON",38594,0.319,0
+"FL_1978-09-12_PRI","TC2_17_18",NA,"Edward Church","NON",35196,0.315,0
+"FL_1978-09-12_PRI","TC2_17_18",NA,"G. Hartwig","NON",20410,0.183,0
+"FL_1978-09-12_PRI","TC2_17_18",NA,"Lawrence Korda","NON",56046,0.502,1
+"FL_1978-09-12_PRI","TC2_17_2",NA,"Melvin Grossman","NON",66833,0.588,1
+"FL_1978-09-12_PRI","TC2_17_2",NA,"Samuel Sheres","NON",46739,0.412,0
+"FL_1978-09-12_PRI","TC2_17_4",NA,"Alexander Cocalis","NON",18374,0.161,0
+"FL_1978-09-12_PRI","TC2_17_4",NA,"Joseph Price, Jr.","NON",53563,0.468,1
+"FL_1978-09-12_PRI","TC2_17_4",NA,"Sheldon Golding","NON",42533,0.372,1
+"FL_1978-09-12_PRI","TC2_18_10",NA,"Frances Jamieson","NON",27706,0.622,1
+"FL_1978-09-12_PRI","TC2_18_10",NA,"Harvey Poe, Jr.","NON",16845,0.378,0
+"FL_1978-09-12_PRI","TC2_18_5",NA,"Dominick Salfi","NON",31842,0.689,1
+"FL_1978-09-12_PRI","TC2_18_5",NA,"Gordon Frederick","NON",14350,0.311,0
+"FL_1978-09-12_PRI","TC2_19_1",NA,"Bruce Wilkinson","NON",5065,0.249,0
+"FL_1978-09-12_PRI","TC2_19_1",NA,"Dean Tooker","NON",5586,0.275,1
+"FL_1978-09-12_PRI","TC2_19_1",NA,"Ken Sharp","NON",9656,0.476,1
+"FL_1978-09-12_PRI","TC2_20_2",NA,"Charles Holley","NON",10628,0.206,0
+"FL_1978-09-12_PRI","TC2_20_2",NA,"Ted Brousseau","NON",18460,0.359,1
+"FL_1978-09-12_PRI","TC2_20_2",NA,"Thomas Brown","NON",22388,0.435,1
+"FL_1978-09-12_PRI","TC2_3_3",NA,"Arthur Lawrence","NON",12005,0.581,1
+"FL_1978-09-12_PRI","TC2_3_3",NA,"Arvel Drury","NON",8654,0.419,0
+"FL_1978-09-12_PRI","TC2_4_1",NA,"Gilchrist Stockton, Jr.","NON",17239,0.254,0
+"FL_1978-09-12_PRI","TC2_4_1",NA,"Louis Corbin","NON",35754,0.527,1
+"FL_1978-09-12_PRI","TC2_4_1",NA,"Wayne Clance","NON",14819,0.219,0
+"FL_1978-09-12_PRI","TC2_4_16",NA,"Edward Parrish","NON",12469,0.188,0
+"FL_1978-09-12_PRI","TC2_4_16",NA,"Harrel Briggs","NON",10423,0.157,0
+"FL_1978-09-12_PRI","TC2_4_16",NA,"John Palmer","NON",26787,0.404,1
+"FL_1978-09-12_PRI","TC2_4_16",NA,"Lawrence Fay","NON",16700,0.252,1
+"FL_1978-09-12_PRI","TC2_5_1",NA,"C. Coniglio","NON",15510,0.37,1
+"FL_1978-09-12_PRI","TC2_5_1",NA,"Carven Angel","NON",15608,0.372,1
+"FL_1978-09-12_PRI","TC2_5_1",NA,"Seymour Rowland","NON",10797,0.258,0
+"FL_1978-09-12_PRI","TC2_6_13",NA,"David Demers","NON",54618,0.441,0
+"FL_1978-09-12_PRI","TC2_6_13",NA,"Fred Bryson","NON",69172,0.559,1
+"FL_1978-09-12_PRI","TC2_7_7",NA,"John Tamm","NON",9188,0.27,0
+"FL_1978-09-12_PRI","TC2_7_7",NA,"Mike Hutcheson","NON",24852,0.73,1
+"FL_1978-09-12_PRI","TC2_9_1",NA,"Jack Nants","NON",7269,0.171,0
+"FL_1978-09-12_PRI","TC2_9_1",NA,"Rom Powell","NON",17165,0.404,1
+"FL_1978-09-12_PRI","TC2_9_1",NA,"Ted Coleman","NON",18007,0.424,1
+"FL_1978-09-12_PRI","TC2_9_11",NA,"Pierre Steward","NON",14977,0.393,0
+"FL_1978-09-12_PRI","TC2_9_11",NA,"Wm. Gridley","NON",23105,0.607,1
+"FL_1978-09-12_PRI","TC2_9_12",NA,"Cecil Brown","NON",22907,0.596,1
+"FL_1978-09-12_PRI","TC2_9_12",NA,"Elmo Hoffman","NON",15558,0.404,0
+"FL_1978-09-12_PRI-D","AG_FL_000",NA,"Alan Becker","DEM",232416,0.267,1
+"FL_1978-09-12_PRI-D","AG_FL_000",NA,"Barry Richard","DEM",231518,0.266,0
+"FL_1978-09-12_PRI-D","AG_FL_000",NA,"Jim Smith","DEM",407579,0.468,1
+"FL_1978-09-12_PRI-D","SA_11_000",NA,"Janet Reno","DEM",116743,0.758,1
+"FL_1978-09-12_PRI-D","SA_11_000",NA,"Richard Friedman","DEM",37248,0.242,0
+"FL_1978-09-12_PRI-D","SA_3_000",NA,"Bob Dekle","DEM",8557,0.388,0
+"FL_1978-09-12_PRI-D","SA_3_000",NA,"Jerry Blair","DEM",13504,0.612,1

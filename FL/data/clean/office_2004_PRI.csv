@@ -1,0 +1,22 @@
+"election_id","office_id","district","office_local","office","seat","n_winners","selection_method","retention_method","open_seat","contested","runoff","special"
+"FL_2004-08-31_PRI-R","SA_11_000",11,"State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2004-08-31_PRI-R","SA_13_000",13,"State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2004-08-31_PRI-R","SA_16_000",16,"State Attorney","SA","000",1,"PE",NA,NA,1,0,0
+"FL_2004-08-31_PRI-R","PD_7_000",7,"Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_2004-08-31_PRI-D","PD_8_000",8,"Public Defender","PD","000",1,"PE",NA,NA,1,0,0
+"FL_2004-08-31_PRI","TC2_5_10",5,"Circuit Judge","TC2","10",2,"NPE",NA,NA,1,1,0
+"FL_2004-08-31_PRI","TC2_5_24",5,"Circuit Judge","TC2","24",1,"NPE",NA,NA,1,0,0
+"FL_2004-08-31_PRI","TC2_6_18",6,"Circuit Judge","TC2","18",1,"NPE",NA,NA,1,0,0
+"FL_2004-08-31_PRI","TC2_6_22",6,"Circuit Judge","TC2","22",2,"NPE",NA,NA,1,1,0
+"FL_2004-08-31_PRI","TC2_8_9",8,"Circuit Judge","TC2","9",2,"NPE",NA,NA,1,1,0
+"FL_2004-08-31_PRI","TC2_11_3",11,"Circuit Judge","TC2","3",1,"NPE",NA,NA,1,0,0
+"FL_2004-08-31_PRI","TC2_11_32",11,"Circuit Judge","TC2","32",1,"NPE",NA,NA,1,0,0
+"FL_2004-08-31_PRI","TC2_11_40",11,"Circuit Judge","TC2","40",2,"NPE",NA,NA,1,1,0
+"FL_2004-08-31_PRI","TC2_11_45",11,"Circuit Judge","TC2","45",1,"NPE",NA,NA,1,0,0
+"FL_2004-08-31_PRI","TC2_12_2",12,"Circuit Judge","TC2","2",2,"NPE",NA,NA,1,1,0
+"FL_2004-08-31_PRI","TC2_13_17",13,"Circuit Judge","TC2","17",1,"NPE",NA,NA,1,0,0
+"FL_2004-08-31_PRI","TC2_15_4",15,"Circuit Judge","TC2","4",1,"NPE",NA,NA,1,0,0
+"FL_2004-08-31_PRI","TC2_17_13",17,"Circuit Judge","TC2","13",1,"NPE",NA,NA,1,0,0
+"FL_2004-08-31_PRI","TC2_17_51",17,"Circuit Judge","TC2","51",1,"NPE",NA,NA,1,0,0
+"FL_2004-08-31_PRI","TC2_19_1",19,"Circuit Judge","TC2","1",1,"NPE",NA,NA,1,0,0
+"FL_2004-08-31_PRI","TC2_19_2",19,"Circuit Judge","TC2","2",2,"NPE",NA,NA,1,1,0

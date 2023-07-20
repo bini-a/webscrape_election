@@ -1,0 +1,34 @@
+"election_id","office_id","district","office_local","office","seat","n_winners","selection_method","retention_method","open_seat","contested","runoff","special"
+"FL_1994-11-08_GEN","AG_FL_000","FL","Attorney General","AG","000",1,"NPE",NA,NA,1,0,0
+"FL_1994-11-08_GEN","TC2_5_17","5","Circuit Judge","TC2","17",1,"NPE",NA,NA,1,0,0
+"FL_1994-11-08_GEN","TC2_6_10","6","Circuit Judge","TC2","10",1,"NPE",NA,NA,1,0,0
+"FL_1994-11-08_GEN","TC2_6_12","6","Circuit Judge","TC2","12",1,"NPE",NA,NA,1,0,0
+"FL_1994-11-08_GEN","TC2_9_28","9","Circuit Judge","TC2","28",1,"NPE",NA,NA,1,0,0
+"FL_1994-11-08_GEN","TC2_11_59","11","Circuit Judge","TC2","59",1,"NPE",NA,NA,1,0,0
+"FL_1994-11-08_GEN","TC2_11_60","11","Circuit Judge","TC2","60",1,"NPE",NA,NA,1,0,0
+"FL_1994-11-08_GEN","TC2_12_16","12","Circuit Judge","TC2","16",1,"NPE",NA,NA,1,0,0
+"FL_1994-11-08_GEN","TC2_13_12","13","Circuit Judge","TC2","12",1,"NPE",NA,NA,1,0,0
+"FL_1994-11-08_GEN","TC2_15_25","15","Circuit Judge","TC2","25",1,"NPE",NA,NA,1,0,0
+"FL_1994-11-08_GEN","TC2_18_12","18","Circuit Judge","TC2","12",1,"NPE",NA,NA,1,0,0
+"FL_1994-11-08_GEN","TC2_18_20","18","Circuit Judge","TC2","20",1,"NPE",NA,NA,1,0,0
+"FL_1994-11-08_GEN","SC_1_000","1",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","SC_2_000","2",NA,"SC","000",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_1_2","1",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_1_3","1",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_1_4","1",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_1_5","1",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_1_1","1",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_2_3","2",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_2_4","2",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_2_2","2",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_2_1","2",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_3_3","3",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_3_1","3",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_3_2","3",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_4_5","4",NA,"TC1","5",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_4_3","4",NA,"TC1","3",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_4_4","4",NA,"TC1","4",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_4_2","4",NA,"TC1","2",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_4_1","4",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_5_1","5",NA,"TC1","1",1,"RE",NA,NA,0,0,0
+"FL_1994-11-08_GEN","TC1_5_2","5",NA,"TC1","2",1,"RE",NA,NA,0,0,0

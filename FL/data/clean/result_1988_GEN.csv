@@ -1,0 +1,19 @@
+"election_id","office_id","candidate_id","candidate","party","votes","vote_share","winner"
+"FL_1988-11-08_GEN","SA_11_000",NA,"Jack Thompson","REP",150885,0.314,0
+"FL_1988-11-08_GEN","SA_11_000",NA,"Janet Reno","DEM",328981,0.686,1
+"FL_1988-11-08_GEN","SA_13_000",NA,"Bill James","REP",140654,0.589,1
+"FL_1988-11-08_GEN","SA_13_000",NA,"Joe Episcopo","DEM",98007,0.411,0
+"FL_1988-11-08_GEN","SA_15_000",NA,"David Acton","DEM",149099,0.468,0
+"FL_1988-11-08_GEN","SA_15_000",NA,"David Bludworth","REP",169806,0.532,1
+"FL_1988-11-08_GEN","SA_5_000",NA,"Brad King","DEM",101432,0.528,1
+"FL_1988-11-08_GEN","SA_5_000",NA,"Ray Gill","REP",90789,0.472,0
+"FL_1988-11-08_GEN","SA_7_000",NA,"John Tanner","REP",90628,0.527,1
+"FL_1988-11-08_GEN","SA_7_000",NA,"Stephen Boyles","DEM",81290,0.473,0
+"FL_1988-11-08_GEN","TC2_11_61",NA,"Frederick Mann","NON",151333,0.449,0
+"FL_1988-11-08_GEN","TC2_11_61",NA,"Phillip Davis","NON",185788,0.551,1
+"FL_1988-11-08_GEN","TC2_11_62",NA,"Calvin Fox","NON",136055,0.409,0
+"FL_1988-11-08_GEN","TC2_11_62",NA,"Roy Gelber","NON",196629,0.591,1
+"FL_1988-11-08_GEN","TC2_15_20",NA,"Michael Lebedeker","NON",104855,0.409,0
+"FL_1988-11-08_GEN","TC2_15_20",NA,"Richard Oftedal","NON",151817,0.591,1
+"FL_1988-11-08_GEN","TC2_2_2",NA,"Ed Booth","NON",36330,0.441,0
+"FL_1988-11-08_GEN","TC2_2_2",NA,"Phil Padovano","NON",46122,0.559,1

@@ -1,0 +1,1015 @@
+ElectionDate	PartyCode	PartyName	RaceCode	OfficeDesc	CountyCode	CountyName	Juris1num	Juris2num	Precincts	PrecinctsReporting	CanNameLast	CanNameFirst	CanNameMiddle	CanVotes
+8/26/2014	REP	Republican	USR	United States Representative	ESC	Escambia	001		79	79	Krause	John	E	4098
+8/26/2014	REP	Republican	USR	United States Representative	HOL	Holmes	001		6	6	Krause	John	E	172
+8/26/2014	REP	Republican	USR	United States Representative	OKA	Okaloosa	001		52	52	Krause	John	E	5396
+8/26/2014	REP	Republican	USR	United States Representative	SAN	Santa Rosa	001		41	41	Krause	John	E	3639
+8/26/2014	REP	Republican	USR	United States Representative	WAL	Walton	001		21	21	Krause	John	E	1355
+8/26/2014	REP	Republican	USR	United States Representative	ESC	Escambia	001		79	79	Miller	Jeff		15502
+8/26/2014	REP	Republican	USR	United States Representative	HOL	Holmes	001		6	6	Miller	Jeff		793
+8/26/2014	REP	Republican	USR	United States Representative	OKA	Okaloosa	001		52	52	Miller	Jeff		13575
+8/26/2014	REP	Republican	USR	United States Representative	SAN	Santa Rosa	001		41	41	Miller	Jeff		9942
+8/26/2014	REP	Republican	USR	United States Representative	WAL	Walton	001		21	21	Miller	Jeff		4972
+8/26/2014	REP	Republican	USR	United States Representative	ALA	Alachua	003		50	50	Rush	Jake		1953
+8/26/2014	REP	Republican	USR	United States Representative	BRA	Bradford	003		14	14	Rush	Jake		279
+8/26/2014	REP	Republican	USR	United States Representative	CLA	Clay	003		42	42	Rush	Jake		3615
+8/26/2014	REP	Republican	USR	United States Representative	CLM	Columbia	003		24	24	Rush	Jake		528
+8/26/2014	REP	Republican	USR	United States Representative	DIX	Dixie	003		10	10	Rush	Jake		178
+8/26/2014	REP	Republican	USR	United States Representative	GIL	Gilchrist	003		10	10	Rush	Jake		174
+8/26/2014	REP	Republican	USR	United States Representative	HAM	Hamilton	003		8	8	Rush	Jake		82
+8/26/2014	REP	Republican	USR	United States Representative	LAF	Lafayette	003		5	5	Rush	Jake		45
+8/26/2014	REP	Republican	USR	United States Representative	LEV	Levy	003		13	13	Rush	Jake		774
+8/26/2014	REP	Republican	USR	United States Representative	MAD	Madison	003		0	0	Rush	Jake		67
+8/26/2014	REP	Republican	USR	United States Representative	MRN	Marion	003		23	23	Rush	Jake		1603
+8/26/2014	REP	Republican	USR	United States Representative	SUW	Suwannee	003		16	16	Rush	Jake		355
+8/26/2014	REP	Republican	USR	United States Representative	UNI	Union	003		8	8	Rush	Jake		86
+8/26/2014	REP	Republican	USR	United States Representative	ALA	Alachua	003		50	50	Yoho	Ted		7894
+8/26/2014	REP	Republican	USR	United States Representative	BRA	Bradford	003		14	14	Yoho	Ted		1590
+8/26/2014	REP	Republican	USR	United States Representative	CLA	Clay	003		42	42	Yoho	Ted		11857
+8/26/2014	REP	Republican	USR	United States Representative	CLM	Columbia	003		24	24	Yoho	Ted		3689
+8/26/2014	REP	Republican	USR	United States Representative	DIX	Dixie	003		10	10	Yoho	Ted		865
+8/26/2014	REP	Republican	USR	United States Representative	GIL	Gilchrist	003		10	10	Yoho	Ted		1565
+8/26/2014	REP	Republican	USR	United States Representative	HAM	Hamilton	003		8	8	Yoho	Ted		424
+8/26/2014	REP	Republican	USR	United States Representative	LAF	Lafayette	003		5	5	Yoho	Ted		408
+8/26/2014	REP	Republican	USR	United States Representative	LEV	Levy	003		13	13	Yoho	Ted		2745
+8/26/2014	REP	Republican	USR	United States Representative	MAD	Madison	003		0	0	Yoho	Ted		496
+8/26/2014	REP	Republican	USR	United States Representative	MRN	Marion	003		23	23	Yoho	Ted		2949
+8/26/2014	REP	Republican	USR	United States Representative	SUW	Suwannee	003		16	16	Yoho	Ted		2224
+8/26/2014	REP	Republican	USR	United States Representative	UNI	Union	003		8	8	Yoho	Ted		780
+8/26/2014	REP	Republican	USR	United States Representative	BAK	Baker	004		9	9	Crenshaw	Ander		1970
+8/26/2014	REP	Republican	USR	United States Representative	DUV	Duval	004		149	149	Crenshaw	Ander		30685
+8/26/2014	REP	Republican	USR	United States Representative	NAS	Nassau	004		16	16	Crenshaw	Ander		5958
+8/26/2014	REP	Republican	USR	United States Representative	BAK	Baker	004		9	9	Shoaf	Ryman		604
+8/26/2014	REP	Republican	USR	United States Representative	DUV	Duval	004		149	149	Shoaf	Ryman		13342
+8/26/2014	REP	Republican	USR	United States Representative	NAS	Nassau	004		16	16	Shoaf	Ryman		1871
+8/26/2014	REP	Republican	USR	United States Representative	ALA	Alachua	005		14	14	Lowe	Thuy (Twee)		235
+8/26/2014	REP	Republican	USR	United States Representative	CLA	Clay	005		6	6	Lowe	Thuy (Twee)		581
+8/26/2014	REP	Republican	USR	United States Representative	DUV	Duval	005		78	78	Lowe	Thuy (Twee)		1324
+8/26/2014	REP	Republican	USR	United States Representative	LAK	Lake	005		8	8	Lowe	Thuy (Twee)		588
+8/26/2014	REP	Republican	USR	United States Representative	MRN	Marion	005		7	7	Lowe	Thuy (Twee)		298
+8/26/2014	REP	Republican	USR	United States Representative	ORA	Orange	005		54	54	Lowe	Thuy (Twee)		2568
+8/26/2014	REP	Republican	USR	United States Representative	PUT	Putnam	005		15	15	Lowe	Thuy (Twee)		493
+8/26/2014	REP	Republican	USR	United States Representative	SEM	Seminole	005		8	8	Lowe	Thuy (Twee)		364
+8/26/2014	REP	Republican	USR	United States Representative	ALA	Alachua	005		14	14	Smith	Glo		410
+8/26/2014	REP	Republican	USR	United States Representative	CLA	Clay	005		6	6	Smith	Glo		1579
+8/26/2014	REP	Republican	USR	United States Representative	DUV	Duval	005		78	78	Smith	Glo		4238
+8/26/2014	REP	Republican	USR	United States Representative	LAK	Lake	005		8	8	Smith	Glo		530
+8/26/2014	REP	Republican	USR	United States Representative	MRN	Marion	005		7	7	Smith	Glo		226
+8/26/2014	REP	Republican	USR	United States Representative	ORA	Orange	005		54	54	Smith	Glo		2720
+8/26/2014	REP	Republican	USR	United States Representative	PUT	Putnam	005		15	15	Smith	Glo		721
+8/26/2014	REP	Republican	USR	United States Representative	SEM	Seminole	005		8	8	Smith	Glo		544
+8/26/2014	REP	Republican	USR	United States Representative	ORA	Orange	007		41	41	Mica	John		8164
+8/26/2014	REP	Republican	USR	United States Representative	SEM	Seminole	007		75	75	Mica	John		18166
+8/26/2014	REP	Republican	USR	United States Representative	VOL	Volusia	007		30	30	Mica	John		5754
+8/26/2014	REP	Republican	USR	United States Representative	ORA	Orange	007		41	41	Oehlrich	Don		433
+8/26/2014	REP	Republican	USR	United States Representative	SEM	Seminole	007		75	75	Oehlrich	Don		1537
+8/26/2014	REP	Republican	USR	United States Representative	VOL	Volusia	007		30	30	Oehlrich	Don		315
+8/26/2014	REP	Republican	USR	United States Representative	ORA	Orange	007		41	41	Shirley	Kelly		511
+8/26/2014	REP	Republican	USR	United States Representative	SEM	Seminole	007		75	75	Shirley	Kelly		904
+8/26/2014	REP	Republican	USR	United States Representative	VOL	Volusia	007		30	30	Shirley	Kelly		371
+8/26/2014	REP	Republican	USR	United States Representative	ORA	Orange	007		41	41	Smith	David		1759
+8/26/2014	REP	Republican	USR	United States Representative	SEM	Seminole	007		75	75	Smith	David		5322
+8/26/2014	REP	Republican	USR	United States Representative	VOL	Volusia	007		30	30	Smith	David		1235
+8/26/2014	REP	Republican	USR	United States Representative	ORA	Orange	009		60	60	Bonilla	Jorge		3486
+8/26/2014	REP	Republican	USR	United States Representative	OSC	Osceola	009		74	74	Bonilla	Jorge		2156
+8/26/2014	REP	Republican	USR	United States Representative	POL	Polk	009		17	17	Bonilla	Jorge		651
+8/26/2014	REP	Republican	USR	United States Representative	ORA	Orange	009		60	60	Platt	Carol		5400
+8/26/2014	REP	Republican	USR	United States Representative	OSC	Osceola	009		74	74	Platt	Carol		5122
+8/26/2014	REP	Republican	USR	United States Representative	POL	Polk	009		17	17	Platt	Carol		1020
+8/26/2014	REP	Republican	USR	United States Representative	ORA	Orange	009		60	60	Vivaldi	Peter		2050
+8/26/2014	REP	Republican	USR	United States Representative	OSC	Osceola	009		74	74	Vivaldi	Peter		972
+8/26/2014	REP	Republican	USR	United States Representative	POL	Polk	009		17	17	Vivaldi	Peter		279
+8/26/2014	REP	Republican	USR	United States Representative	MRT	Martin	018		31	31	Domino	Carl	J.	5339
+8/26/2014	REP	Republican	USR	United States Representative	PAL	Palm Beach	018		207	207	Domino	Carl	J.	5322
+8/26/2014	REP	Republican	USR	United States Representative	STL	St. Lucie	018		64	64	Domino	Carl	J.	5144
+8/26/2014	REP	Republican	USR	United States Representative	MRT	Martin	018		31	31	Hires	Beverly		2593
+8/26/2014	REP	Republican	USR	United States Representative	PAL	Palm Beach	018		207	207	Hires	Beverly		1380
+8/26/2014	REP	Republican	USR	United States Representative	STL	St. Lucie	018		64	64	Hires	Beverly		1787
+8/26/2014	REP	Republican	USR	United States Representative	MRT	Martin	018		31	31	Lara	Brian		1949
+8/26/2014	REP	Republican	USR	United States Representative	PAL	Palm Beach	018		207	207	Lara	Brian		1432
+8/26/2014	REP	Republican	USR	United States Representative	STL	St. Lucie	018		64	64	Lara	Brian		1980
+8/26/2014	REP	Republican	USR	United States Representative	MRT	Martin	018		31	31	Schlesinger	Alan		4236
+8/26/2014	REP	Republican	USR	United States Representative	PAL	Palm Beach	018		207	207	Schlesinger	Alan		2312
+8/26/2014	REP	Republican	USR	United States Representative	STL	St. Lucie	018		64	64	Schlesinger	Alan		3372
+8/26/2014	REP	Republican	USR	United States Representative	MRT	Martin	018		31	31	Turnquest	Calvin	D.	1555
+8/26/2014	REP	Republican	USR	United States Representative	PAL	Palm Beach	018		207	207	Turnquest	Calvin	D.	487
+8/26/2014	REP	Republican	USR	United States Representative	STL	St. Lucie	018		64	64	Turnquest	Calvin	D.	715
+8/26/2014	REP	Republican	USR	United States Representative	MRT	Martin	018		31	31	Wukoson	Nick		527
+8/26/2014	REP	Republican	USR	United States Representative	PAL	Palm Beach	018		207	207	Wukoson	Nick		327
+8/26/2014	REP	Republican	USR	United States Representative	STL	St. Lucie	018		64	64	Wukoson	Nick		740
+8/26/2014	REP	Republican	USR	United States Representative	BRO	Broward	022		134	134	McGee	Andrea	Leigh	3161
+8/26/2014	REP	Republican	USR	United States Representative	PAL	Palm Beach	022		236	236	McGee	Andrea	Leigh	2912
+8/26/2014	REP	Republican	USR	United States Representative	BRO	Broward	022		134	134	Spain	Paul		2776
+8/26/2014	REP	Republican	USR	United States Representative	PAL	Palm Beach	022		236	236	Spain	Paul		4716
+8/26/2014	REP	Republican	USR	United States Representative	BRO	Broward	022		134	134	Wagie	David		1706
+8/26/2014	REP	Republican	USR	United States Representative	PAL	Palm Beach	022		236	236	Wagie	David		2311
+8/26/2014	REP	Republican	USR	United States Representative	BRO	Broward	023		176	176	Garcia	Juan		2482
+8/26/2014	REP	Republican	USR	United States Representative	DAD	Miami-Dade	023		51	51	Garcia	Juan		1282
+8/26/2014	REP	Republican	USR	United States Representative	BRO	Broward	023		176	176	Kaufman	Joseph	'Joe'	4974
+8/26/2014	REP	Republican	USR	United States Representative	DAD	Miami-Dade	023		51	51	Kaufman	Joseph	'Joe'	1325
+8/26/2014	REP	Republican	USR	United States Representative	DAD	Miami-Dade	026		192	192	Curbelo	Carlos		12349
+8/26/2014	REP	Republican	USR	United States Representative	MON	Monroe	026		33	33	Curbelo	Carlos		1512
+8/26/2014	REP	Republican	USR	United States Representative	DAD	Miami-Dade	026		192	192	MacDougall	Ed		4137
+8/26/2014	REP	Republican	USR	United States Representative	MON	Monroe	026		33	33	MacDougall	Ed		3318
+8/26/2014	REP	Republican	USR	United States Representative	DAD	Miami-Dade	026		192	192	Martinez	Joe	A.	4681
+8/26/2014	REP	Republican	USR	United States Representative	MON	Monroe	026		33	33	Martinez	Joe	A.	455
+8/26/2014	REP	Republican	USR	United States Representative	DAD	Miami-Dade	026		192	192	Rivera	David		1907
+8/26/2014	REP	Republican	USR	United States Representative	MON	Monroe	026		33	33	Rivera	David		302
+8/26/2014	REP	Republican	USR	United States Representative	DAD	Miami-Dade	026		192	192	Starbuck	Lorenzo	Palomares	702
+8/26/2014	REP	Republican	USR	United States Representative	MON	Monroe	026		33	33	Starbuck	Lorenzo	Palomares	122
+8/26/2014	REP	Republican	GOV	Governor	ALA	Alachua			63	63	Adeshina	Yinka	Abosede	186
+8/26/2014	REP	Republican	GOV	Governor	BAK	Baker			9	9	Adeshina	Yinka	Abosede	38
+8/26/2014	REP	Republican	GOV	Governor	BAY	Bay			44	44	Adeshina	Yinka	Abosede	157
+8/26/2014	REP	Republican	GOV	Governor	BRA	Bradford			14	14	Adeshina	Yinka	Abosede	18
+8/26/2014	REP	Republican	GOV	Governor	BRE	Brevard			173	173	Adeshina	Yinka	Abosede	859
+8/26/2014	REP	Republican	GOV	Governor	BRO	Broward			577	577	Adeshina	Yinka	Abosede	593
+8/26/2014	REP	Republican	GOV	Governor	CAL	Calhoun			11	11	Adeshina	Yinka	Abosede	4
+8/26/2014	REP	Republican	GOV	Governor	CHA	Charlotte			69	69	Adeshina	Yinka	Abosede	252
+8/26/2014	REP	Republican	GOV	Governor	CIT	Citrus			31	31	Adeshina	Yinka	Abosede	287
+8/26/2014	REP	Republican	GOV	Governor	CLA	Clay			47	47	Adeshina	Yinka	Abosede	228
+8/26/2014	REP	Republican	GOV	Governor	CLL	Collier			58	58	Adeshina	Yinka	Abosede	222
+8/26/2014	REP	Republican	GOV	Governor	CLM	Columbia			24	24	Adeshina	Yinka	Abosede	48
+8/26/2014	REP	Republican	GOV	Governor	DES	Desoto			15	15	Adeshina	Yinka	Abosede	15
+8/26/2014	REP	Republican	GOV	Governor	DIX	Dixie			10	10	Adeshina	Yinka	Abosede	19
+8/26/2014	REP	Republican	GOV	Governor	DUV	Duval			199	199	Adeshina	Yinka	Abosede	498
+8/26/2014	REP	Republican	GOV	Governor	ESC	Escambia			79	79	Adeshina	Yinka	Abosede	221
+8/26/2014	REP	Republican	GOV	Governor	FLA	Flagler			23	23	Adeshina	Yinka	Abosede	78
+8/26/2014	REP	Republican	GOV	Governor	FRA	Franklin			8	8	Adeshina	Yinka	Abosede	6
+8/26/2014	REP	Republican	GOV	Governor	GAD	Gadsden			25	25	Adeshina	Yinka	Abosede	18
+8/26/2014	REP	Republican	GOV	Governor	GIL	Gilchrist			10	10	Adeshina	Yinka	Abosede	30
+8/26/2014	REP	Republican	GOV	Governor	GLA	Glades			13	13	Adeshina	Yinka	Abosede	3
+8/26/2014	REP	Republican	GOV	Governor	GUL	Gulf			9	9	Adeshina	Yinka	Abosede	20
+8/26/2014	REP	Republican	GOV	Governor	HAM	Hamilton			8	8	Adeshina	Yinka	Abosede	10
+8/26/2014	REP	Republican	GOV	Governor	HAR	Hardee			12	12	Adeshina	Yinka	Abosede	26
+8/26/2014	REP	Republican	GOV	Governor	HEN	Hendry			10	10	Adeshina	Yinka	Abosede	10
+8/26/2014	REP	Republican	GOV	Governor	HER	Hernando			37	37	Adeshina	Yinka	Abosede	160
+8/26/2014	REP	Republican	GOV	Governor	HIG	Highlands			25	25	Adeshina	Yinka	Abosede	91
+8/26/2014	REP	Republican	GOV	Governor	HIL	Hillsborough			347	347	Adeshina	Yinka	Abosede	830
+8/26/2014	REP	Republican	GOV	Governor	HOL	Holmes			8	8	Adeshina	Yinka	Abosede	22
+8/26/2014	REP	Republican	GOV	Governor	IND	Indian River			37	37	Adeshina	Yinka	Abosede	208
+8/26/2014	REP	Republican	GOV	Governor	JAC	Jackson			14	14	Adeshina	Yinka	Abosede	40
+8/26/2014	REP	Republican	GOV	Governor	JEF	Jefferson			15	15	Adeshina	Yinka	Abosede	6
+8/26/2014	REP	Republican	GOV	Governor	LAF	Lafayette			5	5	Adeshina	Yinka	Abosede	10
+8/26/2014	REP	Republican	GOV	Governor	LAK	Lake			104	104	Adeshina	Yinka	Abosede	443
+8/26/2014	REP	Republican	GOV	Governor	LEE	Lee			127	127	Adeshina	Yinka	Abosede	661
+8/26/2014	REP	Republican	GOV	Governor	LEO	Leon			133	133	Adeshina	Yinka	Abosede	325
+8/26/2014	REP	Republican	GOV	Governor	LEV	Levy			13	13	Adeshina	Yinka	Abosede	39
+8/26/2014	REP	Republican	GOV	Governor	LIB	Liberty			8	8	Adeshina	Yinka	Abosede	1
+8/26/2014	REP	Republican	GOV	Governor	MAD	Madison			0	0	Adeshina	Yinka	Abosede	8
+8/26/2014	REP	Republican	GOV	Governor	MAN	Manatee			70	70	Adeshina	Yinka	Abosede	424
+8/26/2014	REP	Republican	GOV	Governor	MRN	Marion			127	127	Adeshina	Yinka	Abosede	420
+8/26/2014	REP	Republican	GOV	Governor	MRT	Martin			31	31	Adeshina	Yinka	Abosede	648
+8/26/2014	REP	Republican	GOV	Governor	DAD	Miami-Dade			812	812	Adeshina	Yinka	Abosede	1273
+8/26/2014	REP	Republican	GOV	Governor	MON	Monroe			33	33	Adeshina	Yinka	Abosede	126
+8/26/2014	REP	Republican	GOV	Governor	NAS	Nassau			16	16	Adeshina	Yinka	Abosede	61
+8/26/2014	REP	Republican	GOV	Governor	OKA	Okaloosa			52	52	Adeshina	Yinka	Abosede	259
+8/26/2014	REP	Republican	GOV	Governor	OKE	Okeechobee			11	11	Adeshina	Yinka	Abosede	39
+8/26/2014	REP	Republican	GOV	Governor	ORA	Orange			227	227	Adeshina	Yinka	Abosede	824
+8/26/2014	REP	Republican	GOV	Governor	OSC	Osceola			74	74	Adeshina	Yinka	Abosede	134
+8/26/2014	REP	Republican	GOV	Governor	PAL	Palm Beach			765	765	Adeshina	Yinka	Abosede	782
+8/26/2014	REP	Republican	GOV	Governor	PAS	Pasco			111	111	Adeshina	Yinka	Abosede	487
+8/26/2014	REP	Republican	GOV	Governor	PIN	Pinellas			297	297	Adeshina	Yinka	Abosede	1355
+8/26/2014	REP	Republican	GOV	Governor	POL	Polk			167	167	Adeshina	Yinka	Abosede	431
+8/26/2014	REP	Republican	GOV	Governor	PUT	Putnam			39	39	Adeshina	Yinka	Abosede	48
+8/26/2014	REP	Republican	GOV	Governor	SAN	Santa Rosa			41	41	Adeshina	Yinka	Abosede	155
+8/26/2014	REP	Republican	GOV	Governor	SAR	Sarasota			99	99	Adeshina	Yinka	Abosede	673
+8/26/2014	REP	Republican	GOV	Governor	SEM	Seminole			80	80	Adeshina	Yinka	Abosede	489
+8/26/2014	REP	Republican	GOV	Governor	STJ	St. Johns			46	46	Adeshina	Yinka	Abosede	242
+8/26/2014	REP	Republican	GOV	Governor	STL	St. Lucie			64	64	Adeshina	Yinka	Abosede	341
+8/26/2014	REP	Republican	GOV	Governor	SUM	Sumter			29	29	Adeshina	Yinka	Abosede	49
+8/26/2014	REP	Republican	GOV	Governor	SUW	Suwannee			16	16	Adeshina	Yinka	Abosede	25
+8/26/2014	REP	Republican	GOV	Governor	TAY	Taylor			14	14	Adeshina	Yinka	Abosede	12
+8/26/2014	REP	Republican	GOV	Governor	UNI	Union			8	8	Adeshina	Yinka	Abosede	12
+8/26/2014	REP	Republican	GOV	Governor	VOL	Volusia			125	125	Adeshina	Yinka	Abosede	581
+8/26/2014	REP	Republican	GOV	Governor	WAK	Wakulla			12	12	Adeshina	Yinka	Abosede	32
+8/26/2014	REP	Republican	GOV	Governor	WAL	Walton			21	21	Adeshina	Yinka	Abosede	115
+8/26/2014	REP	Republican	GOV	Governor	WAS	Washington			16	16	Adeshina	Yinka	Abosede	34
+8/26/2014	REP	Republican	GOV	Governor	ALA	Alachua			63	63	Cuevas-Neunder	Elizabeth		983
+8/26/2014	REP	Republican	GOV	Governor	BAK	Baker			9	9	Cuevas-Neunder	Elizabeth		252
+8/26/2014	REP	Republican	GOV	Governor	BAY	Bay			44	44	Cuevas-Neunder	Elizabeth		1066
+8/26/2014	REP	Republican	GOV	Governor	BRA	Bradford			14	14	Cuevas-Neunder	Elizabeth		139
+8/26/2014	REP	Republican	GOV	Governor	BRE	Brevard			173	173	Cuevas-Neunder	Elizabeth		4986
+8/26/2014	REP	Republican	GOV	Governor	BRO	Broward			577	577	Cuevas-Neunder	Elizabeth		3057
+8/26/2014	REP	Republican	GOV	Governor	CAL	Calhoun			11	11	Cuevas-Neunder	Elizabeth		67
+8/26/2014	REP	Republican	GOV	Governor	CHA	Charlotte			69	69	Cuevas-Neunder	Elizabeth		1402
+8/26/2014	REP	Republican	GOV	Governor	CIT	Citrus			31	31	Cuevas-Neunder	Elizabeth		1782
+8/26/2014	REP	Republican	GOV	Governor	CLA	Clay			47	47	Cuevas-Neunder	Elizabeth		1349
+8/26/2014	REP	Republican	GOV	Governor	CLL	Collier			58	58	Cuevas-Neunder	Elizabeth		1294
+8/26/2014	REP	Republican	GOV	Governor	CLM	Columbia			24	24	Cuevas-Neunder	Elizabeth		345
+8/26/2014	REP	Republican	GOV	Governor	DES	Desoto			15	15	Cuevas-Neunder	Elizabeth		135
+8/26/2014	REP	Republican	GOV	Governor	DIX	Dixie			10	10	Cuevas-Neunder	Elizabeth		113
+8/26/2014	REP	Republican	GOV	Governor	DUV	Duval			199	199	Cuevas-Neunder	Elizabeth		3226
+8/26/2014	REP	Republican	GOV	Governor	ESC	Escambia			79	79	Cuevas-Neunder	Elizabeth		1420
+8/26/2014	REP	Republican	GOV	Governor	FLA	Flagler			23	23	Cuevas-Neunder	Elizabeth		516
+8/26/2014	REP	Republican	GOV	Governor	FRA	Franklin			8	8	Cuevas-Neunder	Elizabeth		48
+8/26/2014	REP	Republican	GOV	Governor	GAD	Gadsden			25	25	Cuevas-Neunder	Elizabeth		65
+8/26/2014	REP	Republican	GOV	Governor	GIL	Gilchrist			10	10	Cuevas-Neunder	Elizabeth		175
+8/26/2014	REP	Republican	GOV	Governor	GLA	Glades			13	13	Cuevas-Neunder	Elizabeth		25
+8/26/2014	REP	Republican	GOV	Governor	GUL	Gulf			9	9	Cuevas-Neunder	Elizabeth		104
+8/26/2014	REP	Republican	GOV	Governor	HAM	Hamilton			8	8	Cuevas-Neunder	Elizabeth		55
+8/26/2014	REP	Republican	GOV	Governor	HAR	Hardee			12	12	Cuevas-Neunder	Elizabeth		162
+8/26/2014	REP	Republican	GOV	Governor	HEN	Hendry			10	10	Cuevas-Neunder	Elizabeth		94
+8/26/2014	REP	Republican	GOV	Governor	HER	Hernando			37	37	Cuevas-Neunder	Elizabeth		1468
+8/26/2014	REP	Republican	GOV	Governor	HIG	Highlands			25	25	Cuevas-Neunder	Elizabeth		713
+8/26/2014	REP	Republican	GOV	Governor	HIL	Hillsborough			347	347	Cuevas-Neunder	Elizabeth		5181
+8/26/2014	REP	Republican	GOV	Governor	HOL	Holmes			8	8	Cuevas-Neunder	Elizabeth		209
+8/26/2014	REP	Republican	GOV	Governor	IND	Indian River			37	37	Cuevas-Neunder	Elizabeth		1181
+8/26/2014	REP	Republican	GOV	Governor	JAC	Jackson			14	14	Cuevas-Neunder	Elizabeth		249
+8/26/2014	REP	Republican	GOV	Governor	JEF	Jefferson			15	15	Cuevas-Neunder	Elizabeth		52
+8/26/2014	REP	Republican	GOV	Governor	LAF	Lafayette			5	5	Cuevas-Neunder	Elizabeth		46
+8/26/2014	REP	Republican	GOV	Governor	LAK	Lake			104	104	Cuevas-Neunder	Elizabeth		2233
+8/26/2014	REP	Republican	GOV	Governor	LEE	Lee			127	127	Cuevas-Neunder	Elizabeth		3613
+8/26/2014	REP	Republican	GOV	Governor	LEO	Leon			133	133	Cuevas-Neunder	Elizabeth		1429
+8/26/2014	REP	Republican	GOV	Governor	LEV	Levy			13	13	Cuevas-Neunder	Elizabeth		338
+8/26/2014	REP	Republican	GOV	Governor	LIB	Liberty			8	8	Cuevas-Neunder	Elizabeth		36
+8/26/2014	REP	Republican	GOV	Governor	MAD	Madison			0	0	Cuevas-Neunder	Elizabeth		51
+8/26/2014	REP	Republican	GOV	Governor	MAN	Manatee			70	70	Cuevas-Neunder	Elizabeth		2521
+8/26/2014	REP	Republican	GOV	Governor	MRN	Marion			127	127	Cuevas-Neunder	Elizabeth		2394
+8/26/2014	REP	Republican	GOV	Governor	MRT	Martin			31	31	Cuevas-Neunder	Elizabeth		2525
+8/26/2014	REP	Republican	GOV	Governor	DAD	Miami-Dade			812	812	Cuevas-Neunder	Elizabeth		9533
+8/26/2014	REP	Republican	GOV	Governor	MON	Monroe			33	33	Cuevas-Neunder	Elizabeth		778
+8/26/2014	REP	Republican	GOV	Governor	NAS	Nassau			16	16	Cuevas-Neunder	Elizabeth		450
+8/26/2014	REP	Republican	GOV	Governor	OKA	Okaloosa			52	52	Cuevas-Neunder	Elizabeth		1595
+8/26/2014	REP	Republican	GOV	Governor	OKE	Okeechobee			11	11	Cuevas-Neunder	Elizabeth		295
+8/26/2014	REP	Republican	GOV	Governor	ORA	Orange			227	227	Cuevas-Neunder	Elizabeth		4952
+8/26/2014	REP	Republican	GOV	Governor	OSC	Osceola			74	74	Cuevas-Neunder	Elizabeth		975
+8/26/2014	REP	Republican	GOV	Governor	PAL	Palm Beach			765	765	Cuevas-Neunder	Elizabeth		3622
+8/26/2014	REP	Republican	GOV	Governor	PAS	Pasco			111	111	Cuevas-Neunder	Elizabeth		3237
+8/26/2014	REP	Republican	GOV	Governor	PIN	Pinellas			297	297	Cuevas-Neunder	Elizabeth		8850
+8/26/2014	REP	Republican	GOV	Governor	POL	Polk			167	167	Cuevas-Neunder	Elizabeth		2630
+8/26/2014	REP	Republican	GOV	Governor	PUT	Putnam			39	39	Cuevas-Neunder	Elizabeth		322
+8/26/2014	REP	Republican	GOV	Governor	SAN	Santa Rosa			41	41	Cuevas-Neunder	Elizabeth		1200
+8/26/2014	REP	Republican	GOV	Governor	SAR	Sarasota			99	99	Cuevas-Neunder	Elizabeth		3612
+8/26/2014	REP	Republican	GOV	Governor	SEM	Seminole			80	80	Cuevas-Neunder	Elizabeth		2967
+8/26/2014	REP	Republican	GOV	Governor	STJ	St. Johns			46	46	Cuevas-Neunder	Elizabeth		1153
+8/26/2014	REP	Republican	GOV	Governor	STL	St. Lucie			64	64	Cuevas-Neunder	Elizabeth		2058
+8/26/2014	REP	Republican	GOV	Governor	SUM	Sumter			29	29	Cuevas-Neunder	Elizabeth		375
+8/26/2014	REP	Republican	GOV	Governor	SUW	Suwannee			16	16	Cuevas-Neunder	Elizabeth		215
+8/26/2014	REP	Republican	GOV	Governor	TAY	Taylor			14	14	Cuevas-Neunder	Elizabeth		46
+8/26/2014	REP	Republican	GOV	Governor	UNI	Union			8	8	Cuevas-Neunder	Elizabeth		130
+8/26/2014	REP	Republican	GOV	Governor	VOL	Volusia			125	125	Cuevas-Neunder	Elizabeth		3276
+8/26/2014	REP	Republican	GOV	Governor	WAK	Wakulla			12	12	Cuevas-Neunder	Elizabeth		221
+8/26/2014	REP	Republican	GOV	Governor	WAL	Walton			21	21	Cuevas-Neunder	Elizabeth		691
+8/26/2014	REP	Republican	GOV	Governor	WAS	Washington			16	16	Cuevas-Neunder	Elizabeth		214
+8/26/2014	REP	Republican	GOV	Governor	ALA	Alachua			63	63	Scott	Rick		8976
+8/26/2014	REP	Republican	GOV	Governor	BAK	Baker			9	9	Scott	Rick		2210
+8/26/2014	REP	Republican	GOV	Governor	BAY	Bay			44	44	Scott	Rick		14573
+8/26/2014	REP	Republican	GOV	Governor	BRA	Bradford			14	14	Scott	Rick		1651
+8/26/2014	REP	Republican	GOV	Governor	BRE	Brevard			173	173	Scott	Rick		39757
+8/26/2014	REP	Republican	GOV	Governor	BRO	Broward			577	577	Scott	Rick		20673
+8/26/2014	REP	Republican	GOV	Governor	CAL	Calhoun			11	11	Scott	Rick		425
+8/26/2014	REP	Republican	GOV	Governor	CHA	Charlotte			69	69	Scott	Rick		9921
+8/26/2014	REP	Republican	GOV	Governor	CIT	Citrus			31	31	Scott	Rick		12648
+8/26/2014	REP	Republican	GOV	Governor	CLA	Clay			47	47	Scott	Rick		15748
+8/26/2014	REP	Republican	GOV	Governor	CLL	Collier			58	58	Scott	Rick		23780
+8/26/2014	REP	Republican	GOV	Governor	CLM	Columbia			24	24	Scott	Rick		3719
+8/26/2014	REP	Republican	GOV	Governor	DES	Desoto			15	15	Scott	Rick		934
+8/26/2014	REP	Republican	GOV	Governor	DIX	Dixie			10	10	Scott	Rick		877
+8/26/2014	REP	Republican	GOV	Governor	DUV	Duval			199	199	Scott	Rick		45119
+8/26/2014	REP	Republican	GOV	Governor	ESC	Escambia			79	79	Scott	Rick		17560
+8/26/2014	REP	Republican	GOV	Governor	FLA	Flagler			23	23	Scott	Rick		5987
+8/26/2014	REP	Republican	GOV	Governor	FRA	Franklin			8	8	Scott	Rick		471
+8/26/2014	REP	Republican	GOV	Governor	GAD	Gadsden			25	25	Scott	Rick		667
+8/26/2014	REP	Republican	GOV	Governor	GIL	Gilchrist			10	10	Scott	Rick		1476
+8/26/2014	REP	Republican	GOV	Governor	GLA	Glades			13	13	Scott	Rick		177
+8/26/2014	REP	Republican	GOV	Governor	GUL	Gulf			9	9	Scott	Rick		925
+8/26/2014	REP	Republican	GOV	Governor	HAM	Hamilton			8	8	Scott	Rick		420
+8/26/2014	REP	Republican	GOV	Governor	HAR	Hardee			12	12	Scott	Rick		1396
+8/26/2014	REP	Republican	GOV	Governor	HEN	Hendry			10	10	Scott	Rick		869
+8/26/2014	REP	Republican	GOV	Governor	HER	Hernando			37	37	Scott	Rick		8039
+8/26/2014	REP	Republican	GOV	Governor	HIG	Highlands			25	25	Scott	Rick		5419
+8/26/2014	REP	Republican	GOV	Governor	HIL	Hillsborough			347	347	Scott	Rick		46232
+8/26/2014	REP	Republican	GOV	Governor	HOL	Holmes			8	8	Scott	Rick		1274
+8/26/2014	REP	Republican	GOV	Governor	IND	Indian River			37	37	Scott	Rick		8629
+8/26/2014	REP	Republican	GOV	Governor	JAC	Jackson			14	14	Scott	Rick		2258
+8/26/2014	REP	Republican	GOV	Governor	JEF	Jefferson			15	15	Scott	Rick		565
+8/26/2014	REP	Republican	GOV	Governor	LAF	Lafayette			5	5	Scott	Rick		382
+8/26/2014	REP	Republican	GOV	Governor	LAK	Lake			104	104	Scott	Rick		17429
+8/26/2014	REP	Republican	GOV	Governor	LEE	Lee			127	127	Scott	Rick		48284
+8/26/2014	REP	Republican	GOV	Governor	LEO	Leon			133	133	Scott	Rick		11081
+8/26/2014	REP	Republican	GOV	Governor	LEV	Levy			13	13	Scott	Rick		3003
+8/26/2014	REP	Republican	GOV	Governor	LIB	Liberty			8	8	Scott	Rick		176
+8/26/2014	REP	Republican	GOV	Governor	MAD	Madison			0	0	Scott	Rick		642
+8/26/2014	REP	Republican	GOV	Governor	MAN	Manatee			70	70	Scott	Rick		19102
+8/26/2014	REP	Republican	GOV	Governor	MRN	Marion			127	127	Scott	Rick		17435
+8/26/2014	REP	Republican	GOV	Governor	MRT	Martin			31	31	Scott	Rick		12924
+8/26/2014	REP	Republican	GOV	Governor	DAD	Miami-Dade			812	812	Scott	Rick		57389
+8/26/2014	REP	Republican	GOV	Governor	MON	Monroe			33	33	Scott	Rick		4814
+8/26/2014	REP	Republican	GOV	Governor	NAS	Nassau			16	16	Scott	Rick		7138
+8/26/2014	REP	Republican	GOV	Governor	OKA	Okaloosa			52	52	Scott	Rick		16789
+8/26/2014	REP	Republican	GOV	Governor	OKE	Okeechobee			11	11	Scott	Rick		1787
+8/26/2014	REP	Republican	GOV	Governor	ORA	Orange			227	227	Scott	Rick		39730
+8/26/2014	REP	Republican	GOV	Governor	OSC	Osceola			74	74	Scott	Rick		7315
+8/26/2014	REP	Republican	GOV	Governor	PAL	Palm Beach			765	765	Scott	Rick		27369
+8/26/2014	REP	Republican	GOV	Governor	PAS	Pasco			111	111	Scott	Rick		18220
+8/26/2014	REP	Republican	GOV	Governor	PIN	Pinellas			297	297	Scott	Rick		52696
+8/26/2014	REP	Republican	GOV	Governor	POL	Polk			167	167	Scott	Rick		23825
+8/26/2014	REP	Republican	GOV	Governor	PUT	Putnam			39	39	Scott	Rick		3622
+8/26/2014	REP	Republican	GOV	Governor	SAN	Santa Rosa			41	41	Scott	Rick		11959
+8/26/2014	REP	Republican	GOV	Governor	SAR	Sarasota			99	99	Scott	Rick		25193
+8/26/2014	REP	Republican	GOV	Governor	SEM	Seminole			80	80	Scott	Rick		22484
+8/26/2014	REP	Republican	GOV	Governor	STJ	St. Johns			46	46	Scott	Rick		15564
+8/26/2014	REP	Republican	GOV	Governor	STL	St. Lucie			64	64	Scott	Rick		11717
+8/26/2014	REP	Republican	GOV	Governor	SUM	Sumter			29	29	Scott	Rick		9270
+8/26/2014	REP	Republican	GOV	Governor	SUW	Suwannee			16	16	Scott	Rick		2303
+8/26/2014	REP	Republican	GOV	Governor	TAY	Taylor			14	14	Scott	Rick		710
+8/26/2014	REP	Republican	GOV	Governor	UNI	Union			8	8	Scott	Rick		680
+8/26/2014	REP	Republican	GOV	Governor	VOL	Volusia			125	125	Scott	Rick		28357
+8/26/2014	REP	Republican	GOV	Governor	WAK	Wakulla			12	12	Scott	Rick		1674
+8/26/2014	REP	Republican	GOV	Governor	WAL	Walton			21	21	Scott	Rick		5505
+8/26/2014	REP	Republican	GOV	Governor	WAS	Washington			16	16	Scott	Rick		1944
+8/26/2014	REP	Republican	STS	State Senator	FLA	Flagler	006		23	23	Hankerson	Derek		1930
+8/26/2014	REP	Republican	STS	State Senator	PUT	Putnam	006		39	39	Hankerson	Derek		1091
+8/26/2014	REP	Republican	STS	State Senator	STJ	St. Johns	006		46	46	Hankerson	Derek		5398
+8/26/2014	REP	Republican	STS	State Senator	VOL	Volusia	006		31	31	Hankerson	Derek		1707
+8/26/2014	REP	Republican	STS	State Senator	FLA	Flagler	006		23	23	Thrasher	John		4539
+8/26/2014	REP	Republican	STS	State Senator	PUT	Putnam	006		39	39	Thrasher	John		2807
+8/26/2014	REP	Republican	STS	State Senator	STJ	St. Johns	006		46	46	Thrasher	John		11270
+8/26/2014	REP	Republican	STS	State Senator	VOL	Volusia	006		31	31	Thrasher	John		5283
+8/26/2014	REP	Republican	STS	State Senator	ORA	Orange	012		92	92	DeAguilera	Edward		5753
+8/26/2014	REP	Republican	STS	State Senator	ORA	Orange	012		92	92	Seide	Fritz	Jackson	4779
+8/26/2014	REP	Republican	STS	State Senator	BRE	Brevard	016		135	135	Altman	Thad		23235
+8/26/2014	REP	Republican	STS	State Senator	IND	Indian River	016		18	18	Altman	Thad		2346
+8/26/2014	REP	Republican	STS	State Senator	BRE	Brevard	016		135	135	Miller	Monique		12492
+8/26/2014	REP	Republican	STS	State Senator	IND	Indian River	016		18	18	Miller	Monique		1165
+8/26/2014	REP	Republican	STS	State Senator	PIN	Pinellas	020		134	134	Latvala	Jack		31836
+8/26/2014	REP	Republican	STS	State Senator	PIN	Pinellas	020		134	134	Roy	Zahid		4672
+8/26/2014	REP	Republican	STS	State Senator	CHA	Charlotte	030		21	21	Benacquisto	Lizbeth		3239
+8/26/2014	REP	Republican	STS	State Senator	LEE	Lee	030		93	93	Benacquisto	Lizbeth		37613
+8/26/2014	REP	Republican	STS	State Senator	CHA	Charlotte	030		21	21	Dreikorn	Michael	J.	1837
+8/26/2014	REP	Republican	STS	State Senator	LEE	Lee	030		93	93	Dreikorn	Michael	J.	25935
+8/26/2014	REP	Republican	STS	State Senator	IND	Indian River	032		20	20	Cannon	Brandon	M.	1069
+8/26/2014	REP	Republican	STS	State Senator	MRT	Martin	032		27	27	Cannon	Brandon	M.	2083
+8/26/2014	REP	Republican	STS	State Senator	PAL	Palm Beach	032		53	53	Cannon	Brandon	M.	516
+8/26/2014	REP	Republican	STS	State Senator	STL	St. Lucie	032		46	46	Cannon	Brandon	M.	1749
+8/26/2014	REP	Republican	STS	State Senator	IND	Indian River	032		20	20	Negron	Joe		5775
+8/26/2014	REP	Republican	STS	State Senator	MRT	Martin	032		27	27	Negron	Joe		13715
+8/26/2014	REP	Republican	STS	State Senator	PAL	Palm Beach	032		53	53	Negron	Joe		2953
+8/26/2014	REP	Republican	STS	State Senator	STL	St. Lucie	032		46	46	Negron	Joe		8907
+8/26/2014	REP	Republican	STR	State Representative	OKA	Okaloosa	003		10	10	Broxson	Doug		1796
+8/26/2014	REP	Republican	STR	State Representative	SAN	Santa Rosa	003		38	38	Broxson	Doug		8278
+8/26/2014	REP	Republican	STR	State Representative	OKA	Okaloosa	003		10	10	Smith	Jamie		793
+8/26/2014	REP	Republican	STR	State Representative	SAN	Santa Rosa	003		38	38	Smith	Jamie		3547
+8/26/2014	REP	Republican	STR	State Representative	BAY	Bay	005		4	4	Drake	Brad		455
+8/26/2014	REP	Republican	STR	State Representative	HOL	Holmes	005		8	8	Drake	Brad		1144
+8/26/2014	REP	Republican	STR	State Representative	JAC	Jackson	005		14	14	Drake	Brad		1945
+8/26/2014	REP	Republican	STR	State Representative	WAL	Walton	005		21	21	Drake	Brad		4479
+8/26/2014	REP	Republican	STR	State Representative	WAS	Washington	005		16	16	Drake	Brad		1779
+8/26/2014	REP	Republican	STR	State Representative	BAY	Bay	005		4	4	Hooks	Jan		190
+8/26/2014	REP	Republican	STR	State Representative	HOL	Holmes	005		8	8	Hooks	Jan		421
+8/26/2014	REP	Republican	STR	State Representative	JAC	Jackson	005		14	14	Hooks	Jan		632
+8/26/2014	REP	Republican	STR	State Representative	WAL	Walton	005		21	21	Hooks	Jan		2021
+8/26/2014	REP	Republican	STR	State Representative	WAS	Washington	005		16	16	Hooks	Jan		456
+8/26/2014	REP	Republican	STR	State Representative	BAY	Bay	006		41	41	Bishop	Tho		1526
+8/26/2014	REP	Republican	STR	State Representative	BAY	Bay	006		41	41	Hagan	Melissa		3617
+8/26/2014	REP	Republican	STR	State Representative	BAY	Bay	006		41	41	Rohan	Thelma	G	3668
+8/26/2014	REP	Republican	STR	State Representative	BAY	Bay	006		41	41	Trumbull	Jay		6698
+8/26/2014	REP	Republican	STR	State Representative	DUV	Duval	015		40	40	Fant	Jay		5962
+8/26/2014	REP	Republican	STR	State Representative	DUV	Duval	015		40	40	Renner	Paul		5960
+8/26/2014	REP	Republican	STR	State Representative	DUV	Duval	016		37	37	McBurney	Charles		7963
+8/26/2014	REP	Republican	STR	State Representative	DUV	Duval	016		37	37	Oliver	Chris		3890
+8/26/2014	REP	Republican	STR	State Representative	SEM	Seminole	028		33	33	Brodeur	Jason		6463
+8/26/2014	REP	Republican	STR	State Representative	SEM	Seminole	028		33	33	Townsend	Kathryn		3685
+8/26/2014	REP	Republican	STR	State Representative	ORA	Orange	030		14	14	Cortes	Bob		1717
+8/26/2014	REP	Republican	STR	State Representative	SEM	Seminole	030		19	19	Cortes	Bob		3406
+8/26/2014	REP	Republican	STR	State Representative	ORA	Orange	030		14	14	Sturgill	Scott		1497
+8/26/2014	REP	Republican	STR	State Representative	SEM	Seminole	030		19	19	Sturgill	Scott		2405
+8/26/2014	REP	Republican	STR	State Representative	LAK	Lake	031		42	42	Glisson	Randy		4681
+8/26/2014	REP	Republican	STR	State Representative	ORA	Orange	031		12	12	Glisson	Randy		1391
+8/26/2014	REP	Republican	STR	State Representative	LAK	Lake	031		42	42	Grassel	Belita	'B'	2330
+8/26/2014	REP	Republican	STR	State Representative	ORA	Orange	031		12	12	Grassel	Belita	'B'	692
+8/26/2014	REP	Republican	STR	State Representative	LAK	Lake	031		42	42	Seefeldt	Terri		1709
+8/26/2014	REP	Republican	STR	State Representative	ORA	Orange	031		12	12	Seefeldt	Terri		2127
+8/26/2014	REP	Republican	STR	State Representative	LAK	Lake	031		42	42	Stephens	Joseph		409
+8/26/2014	REP	Republican	STR	State Representative	ORA	Orange	031		12	12	Stephens	Joseph		300
+8/26/2014	REP	Republican	STR	State Representative	LAK	Lake	031		42	42	Sullivan	Jennifer		4697
+8/26/2014	REP	Republican	STR	State Representative	ORA	Orange	031		12	12	Sullivan	Jennifer		2496
+8/26/2014	REP	Republican	STR	State Representative	PAS	Pasco	036		35	35	Gregg	Chris		3720
+8/26/2014	REP	Republican	STR	State Representative	PAS	Pasco	036		35	35	Mathieu	James		2636
+8/26/2014	REP	Republican	STR	State Representative	POL	Polk	040		40	40	Burton	Colleen		4334
+8/26/2014	REP	Republican	STR	State Representative	POL	Polk	040		40	40	Shannon	John	Hugh	4162
+8/26/2014	REP	Republican	STR	State Representative	ORA	Orange	044		32	32	Eisnaugle	Eric		6689
+8/26/2014	REP	Republican	STR	State Representative	ORA	Orange	044		32	32	Facella	Stephen		1208
+8/26/2014	REP	Republican	STR	State Representative	ORA	Orange	047		47	47	Miller	Mike		8302
+8/26/2014	REP	Republican	STR	State Representative	ORA	Orange	047		47	47	Pearson	Maurice	'Mo'	2880
+8/26/2014	REP	Republican	STR	State Representative	ORA	Orange	049		29	29	Plasencia	Rene	'Coach P'	4036
+8/26/2014	REP	Republican	STR	State Representative	ORA	Orange	049		29	29	Rodriguez	Ed		1203
+8/26/2014	REP	Republican	STR	State Representative	BRE	Brevard	050		18	18	Collins	George		3180
+8/26/2014	REP	Republican	STR	State Representative	ORA	Orange	050		22	22	Collins	George		3672
+8/26/2014	REP	Republican	STR	State Representative	BRE	Brevard	050		18	18	Goodson	Tom		6530
+8/26/2014	REP	Republican	STR	State Representative	ORA	Orange	050		22	22	Goodson	Tom		4514
+8/26/2014	REP	Republican	STR	State Representative	BRE	Brevard	053		33	33	Street	Tim		4627
+8/26/2014	REP	Republican	STR	State Representative	BRE	Brevard	053		33	33	Tobia	John		5671
+8/26/2014	REP	Republican	STR	State Representative	PIN	Pinellas	065		44	44	Faulkner	Debbie		4743
+8/26/2014	REP	Republican	STR	State Representative	PIN	Pinellas	065		44	44	Sprowls	Chris		8942
+8/26/2014	REP	Republican	STR	State Representative	PIN	Pinellas	067		48	48	Latvala	Chris		6108
+8/26/2014	REP	Republican	STR	State Representative	PIN	Pinellas	067		48	48	Shepard	Christopher		2985
+8/26/2014	REP	Republican	STR	State Representative	PIN	Pinellas	068		46	46	Black	Joshua		1908
+8/26/2014	REP	Republican	STR	State Representative	PIN	Pinellas	068		46	46	Young	Bill		7501
+8/26/2014	REP	Republican	STR	State Representative	SAR	Sarasota	074		48	48	DeNapoli	Richard		6066
+8/26/2014	REP	Republican	STR	State Representative	SAR	Sarasota	074		48	48	Gonzalez	Julio		8052
+8/26/2014	REP	Republican	STR	State Representative	LEE	Lee	077		30	30	Cramer	Terry		1673
+8/26/2014	REP	Republican	STR	State Representative	LEE	Lee	077		30	30	Eagle	Dane		7956
+8/26/2014	REP	Republican	STR	State Representative	LEE	Lee	077		30	30	Ivey	Brandon		807
+8/26/2014	REP	Republican	STR	State Representative	LEE	Lee	077		30	30	Roach	Jim		1974
+8/26/2014	REP	Republican	STR	State Representative	LEE	Lee	079		27	27	Caldwell	Matt		9038
+8/26/2014	REP	Republican	STR	State Representative	LEE	Lee	079		27	27	Miller	Matt		5865
+8/26/2014	REP	Republican	STR	State Representative	DAD	Miami-Dade	111		47	47	Anthony	Alex		2586
+8/26/2014	REP	Republican	STR	State Representative	DAD	Miami-Dade	111		47	47	Avila	Bryan		3932
+8/26/2014	DEM	Democrat	USR	United States Representative	ORA	Orange	009		60	60	Grayson	Alan		9709
+8/26/2014	DEM	Democrat	USR	United States Representative	OSC	Osceola	009		74	74	Grayson	Alan		6889
+8/26/2014	DEM	Democrat	USR	United States Representative	POL	Polk	009		17	17	Grayson	Alan		2043
+8/26/2014	DEM	Democrat	USR	United States Representative	ORA	Orange	009		60	60	Ruiz	Nick		3318
+8/26/2014	DEM	Democrat	USR	United States Representative	OSC	Osceola	009		74	74	Ruiz	Nick		2599
+8/26/2014	DEM	Democrat	USR	United States Representative	POL	Polk	009		17	17	Ruiz	Nick		524
+8/26/2014	DEM	Democrat	USR	United States Representative	LAK	Lake	010		87	87	Ferree	William		1879
+8/26/2014	DEM	Democrat	USR	United States Representative	ORA	Orange	010		66	66	Ferree	William		2123
+8/26/2014	DEM	Democrat	USR	United States Representative	POL	Polk	010		35	35	Ferree	William		716
+8/26/2014	DEM	Democrat	USR	United States Representative	LAK	Lake	010		87	87	McKenna	Michael		4612
+8/26/2014	DEM	Democrat	USR	United States Representative	ORA	Orange	010		66	66	McKenna	Michael		5279
+8/26/2014	DEM	Democrat	USR	United States Representative	POL	Polk	010		35	35	McKenna	Michael		2021
+8/26/2014	DEM	Democrat	USR	United States Representative	LAK	Lake	010		87	87	Modarres	Shayan		2058
+8/26/2014	DEM	Democrat	USR	United States Representative	ORA	Orange	010		66	66	Modarres	Shayan		4090
+8/26/2014	DEM	Democrat	USR	United States Representative	POL	Polk	010		35	35	Modarres	Shayan		1176
+8/26/2014	DEM	Democrat	USR	United States Representative	BRO	Broward	020		156	156	Enright	Jean	L.	3069
+8/26/2014	DEM	Democrat	USR	United States Representative	HEN	Hendry	020		5	5	Enright	Jean	L.	148
+8/26/2014	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	020		122	122	Enright	Jean	L.	2039
+8/26/2014	DEM	Democrat	USR	United States Representative	BRO	Broward	020		156	156	Hastings	Alcee	L.	20298
+8/26/2014	DEM	Democrat	USR	United States Representative	HEN	Hendry	020		5	5	Hastings	Alcee	L.	507
+8/26/2014	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	020		122	122	Hastings	Alcee	L.	8431
+8/26/2014	DEM	Democrat	USR	United States Representative	BRO	Broward	020		156	156	McCline	Jameel		1597
+8/26/2014	DEM	Democrat	USR	United States Representative	HEN	Hendry	020		5	5	McCline	Jameel		53
+8/26/2014	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	020		122	122	McCline	Jameel		774
+8/26/2014	DEM	Democrat	USR	United States Representative	BRO	Broward	021		77	77	Deutch	Ted		8254
+8/26/2014	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	021		201	201	Deutch	Ted		22826
+8/26/2014	DEM	Democrat	USR	United States Representative	BRO	Broward	021		77	77	Morel	Emmanuel	G.	1136
+8/26/2014	DEM	Democrat	USR	United States Representative	PAL	Palm Beach	021		201	201	Morel	Emmanuel	G.	1709
+8/26/2014	DEM	Democrat	USR	United States Representative	BRO	Broward	024		33	33	Etienne	Michael	A.	1027
+8/26/2014	DEM	Democrat	USR	United States Representative	DAD	Miami-Dade	024		213	213	Etienne	Michael	A.	7601
+8/26/2014	DEM	Democrat	USR	United States Representative	BRO	Broward	024		33	33	Wilson	Frederica	S.	5549
+8/26/2014	DEM	Democrat	USR	United States Representative	DAD	Miami-Dade	024		213	213	Wilson	Frederica	S.	29907
+8/26/2014	DEM	Democrat	GOV	Governor	ALA	Alachua			63	63	Crist	Charlie		10667
+8/26/2014	DEM	Democrat	GOV	Governor	BAK	Baker			9	9	Crist	Charlie		1376
+8/26/2014	DEM	Democrat	GOV	Governor	BAY	Bay			44	44	Crist	Charlie		3348
+8/26/2014	DEM	Democrat	GOV	Governor	BRA	Bradford			14	14	Crist	Charlie		923
+8/26/2014	DEM	Democrat	GOV	Governor	BRE	Brevard			173	173	Crist	Charlie		18543
+8/26/2014	DEM	Democrat	GOV	Governor	BRO	Broward			577	577	Crist	Charlie		58853
+8/26/2014	DEM	Democrat	GOV	Governor	CAL	Calhoun			11	11	Crist	Charlie		850
+8/26/2014	DEM	Democrat	GOV	Governor	CHA	Charlotte			69	69	Crist	Charlie		4258
+8/26/2014	DEM	Democrat	GOV	Governor	CIT	Citrus			31	31	Crist	Charlie		5841
+8/26/2014	DEM	Democrat	GOV	Governor	CLA	Clay			47	47	Crist	Charlie		2265
+8/26/2014	DEM	Democrat	GOV	Governor	CLL	Collier			58	58	Crist	Charlie		6223
+8/26/2014	DEM	Democrat	GOV	Governor	CLM	Columbia			24	24	Crist	Charlie		2096
+8/26/2014	DEM	Democrat	GOV	Governor	DES	Desoto			15	15	Crist	Charlie		1284
+8/26/2014	DEM	Democrat	GOV	Governor	DIX	Dixie			10	10	Crist	Charlie		1237
+8/26/2014	DEM	Democrat	GOV	Governor	DUV	Duval			199	199	Crist	Charlie		23825
+8/26/2014	DEM	Democrat	GOV	Governor	ESC	Escambia			79	79	Crist	Charlie		7213
+8/26/2014	DEM	Democrat	GOV	Governor	FLA	Flagler			23	23	Crist	Charlie		3677
+8/26/2014	DEM	Democrat	GOV	Governor	FRA	Franklin			8	8	Crist	Charlie		696
+8/26/2014	DEM	Democrat	GOV	Governor	GAD	Gadsden			25	25	Crist	Charlie		6164
+8/26/2014	DEM	Democrat	GOV	Governor	GIL	Gilchrist			10	10	Crist	Charlie		464
+8/26/2014	DEM	Democrat	GOV	Governor	GLA	Glades			13	13	Crist	Charlie		177
+8/26/2014	DEM	Democrat	GOV	Governor	GUL	Gulf			9	9	Crist	Charlie		709
+8/26/2014	DEM	Democrat	GOV	Governor	HAM	Hamilton			8	8	Crist	Charlie		736
+8/26/2014	DEM	Democrat	GOV	Governor	HAR	Hardee			12	12	Crist	Charlie		546
+8/26/2014	DEM	Democrat	GOV	Governor	HEN	Hendry			10	10	Crist	Charlie		786
+8/26/2014	DEM	Democrat	GOV	Governor	HER	Hernando			37	37	Crist	Charlie		6115
+8/26/2014	DEM	Democrat	GOV	Governor	HIG	Highlands			25	25	Crist	Charlie		2171
+8/26/2014	DEM	Democrat	GOV	Governor	HIL	Hillsborough			347	347	Crist	Charlie		43400
+8/26/2014	DEM	Democrat	GOV	Governor	HOL	Holmes			8	8	Crist	Charlie		892
+8/26/2014	DEM	Democrat	GOV	Governor	IND	Indian River			37	37	Crist	Charlie		2874
+8/26/2014	DEM	Democrat	GOV	Governor	JAC	Jackson			14	14	Crist	Charlie		3160
+8/26/2014	DEM	Democrat	GOV	Governor	JEF	Jefferson			15	15	Crist	Charlie		1575
+8/26/2014	DEM	Democrat	GOV	Governor	LAF	Lafayette			5	5	Crist	Charlie		706
+8/26/2014	DEM	Democrat	GOV	Governor	LAK	Lake			104	104	Crist	Charlie		7218
+8/26/2014	DEM	Democrat	GOV	Governor	LEE	Lee			127	127	Crist	Charlie		16168
+8/26/2014	DEM	Democrat	GOV	Governor	LEO	Leon			133	133	Crist	Charlie		21871
+8/26/2014	DEM	Democrat	GOV	Governor	LEV	Levy			13	13	Crist	Charlie		972
+8/26/2014	DEM	Democrat	GOV	Governor	LIB	Liberty			8	8	Crist	Charlie		985
+8/26/2014	DEM	Democrat	GOV	Governor	MAD	Madison			0	0	Crist	Charlie		1532
+8/26/2014	DEM	Democrat	GOV	Governor	MAN	Manatee			70	70	Crist	Charlie		11625
+8/26/2014	DEM	Democrat	GOV	Governor	MRN	Marion			127	127	Crist	Charlie		8215
+8/26/2014	DEM	Democrat	GOV	Governor	MRT	Martin			31	31	Crist	Charlie		4241
+8/26/2014	DEM	Democrat	GOV	Governor	DAD	Miami-Dade			812	812	Crist	Charlie		65913
+8/26/2014	DEM	Democrat	GOV	Governor	MON	Monroe			33	33	Crist	Charlie		4051
+8/26/2014	DEM	Democrat	GOV	Governor	NAS	Nassau			16	16	Crist	Charlie		1400
+8/26/2014	DEM	Democrat	GOV	Governor	OKA	Okaloosa			52	52	Crist	Charlie		2134
+8/26/2014	DEM	Democrat	GOV	Governor	OKE	Okeechobee			11	11	Crist	Charlie		1106
+8/26/2014	DEM	Democrat	GOV	Governor	ORA	Orange			227	227	Crist	Charlie		39230
+8/26/2014	DEM	Democrat	GOV	Governor	OSC	Osceola			74	74	Crist	Charlie		7120
+8/26/2014	DEM	Democrat	GOV	Governor	PAL	Palm Beach			765	765	Crist	Charlie		50899
+8/26/2014	DEM	Democrat	GOV	Governor	PAS	Pasco			111	111	Crist	Charlie		12605
+8/26/2014	DEM	Democrat	GOV	Governor	PIN	Pinellas			297	297	Crist	Charlie		48756
+8/26/2014	DEM	Democrat	GOV	Governor	POL	Polk			167	167	Crist	Charlie		16617
+8/26/2014	DEM	Democrat	GOV	Governor	PUT	Putnam			39	39	Crist	Charlie		2022
+8/26/2014	DEM	Democrat	GOV	Governor	SAN	Santa Rosa			41	41	Crist	Charlie		1724
+8/26/2014	DEM	Democrat	GOV	Governor	SAR	Sarasota			99	99	Crist	Charlie		17276
+8/26/2014	DEM	Democrat	GOV	Governor	SEM	Seminole			80	80	Crist	Charlie		10170
+8/26/2014	DEM	Democrat	GOV	Governor	STJ	St. Johns			46	46	Crist	Charlie		3852
+8/26/2014	DEM	Democrat	GOV	Governor	STL	St. Lucie			64	64	Crist	Charlie		11202
+8/26/2014	DEM	Democrat	GOV	Governor	SUM	Sumter			29	29	Crist	Charlie		3158
+8/26/2014	DEM	Democrat	GOV	Governor	SUW	Suwannee			16	16	Crist	Charlie		1269
+8/26/2014	DEM	Democrat	GOV	Governor	TAY	Taylor			14	14	Crist	Charlie		897
+8/26/2014	DEM	Democrat	GOV	Governor	UNI	Union			8	8	Crist	Charlie		803
+8/26/2014	DEM	Democrat	GOV	Governor	VOL	Volusia			125	125	Crist	Charlie		20267
+8/26/2014	DEM	Democrat	GOV	Governor	WAK	Wakulla			12	12	Crist	Charlie		1971
+8/26/2014	DEM	Democrat	GOV	Governor	WAL	Walton			21	21	Crist	Charlie		1262
+8/26/2014	DEM	Democrat	GOV	Governor	WAS	Washington			16	16	Crist	Charlie		820
+8/26/2014	DEM	Democrat	GOV	Governor	ALA	Alachua			63	63	Rich	Nan	H.	6210
+8/26/2014	DEM	Democrat	GOV	Governor	BAK	Baker			9	9	Rich	Nan	H.	1215
+8/26/2014	DEM	Democrat	GOV	Governor	BAY	Bay			44	44	Rich	Nan	H.	2674
+8/26/2014	DEM	Democrat	GOV	Governor	BRA	Bradford			14	14	Rich	Nan	H.	844
+8/26/2014	DEM	Democrat	GOV	Governor	BRE	Brevard			173	173	Rich	Nan	H.	7320
+8/26/2014	DEM	Democrat	GOV	Governor	BRO	Broward			577	577	Rich	Nan	H.	17433
+8/26/2014	DEM	Democrat	GOV	Governor	CAL	Calhoun			11	11	Rich	Nan	H.	836
+8/26/2014	DEM	Democrat	GOV	Governor	CHA	Charlotte			69	69	Rich	Nan	H.	1408
+8/26/2014	DEM	Democrat	GOV	Governor	CIT	Citrus			31	31	Rich	Nan	H.	2394
+8/26/2014	DEM	Democrat	GOV	Governor	CLA	Clay			47	47	Rich	Nan	H.	1364
+8/26/2014	DEM	Democrat	GOV	Governor	CLL	Collier			58	58	Rich	Nan	H.	1633
+8/26/2014	DEM	Democrat	GOV	Governor	CLM	Columbia			24	24	Rich	Nan	H.	1522
+8/26/2014	DEM	Democrat	GOV	Governor	DES	Desoto			15	15	Rich	Nan	H.	771
+8/26/2014	DEM	Democrat	GOV	Governor	DIX	Dixie			10	10	Rich	Nan	H.	844
+8/26/2014	DEM	Democrat	GOV	Governor	DUV	Duval			199	199	Rich	Nan	H.	11126
+8/26/2014	DEM	Democrat	GOV	Governor	ESC	Escambia			79	79	Rich	Nan	H.	3685
+8/26/2014	DEM	Democrat	GOV	Governor	FLA	Flagler			23	23	Rich	Nan	H.	1004
+8/26/2014	DEM	Democrat	GOV	Governor	FRA	Franklin			8	8	Rich	Nan	H.	523
+8/26/2014	DEM	Democrat	GOV	Governor	GAD	Gadsden			25	25	Rich	Nan	H.	1508
+8/26/2014	DEM	Democrat	GOV	Governor	GIL	Gilchrist			10	10	Rich	Nan	H.	408
+8/26/2014	DEM	Democrat	GOV	Governor	GLA	Glades			13	13	Rich	Nan	H.	127
+8/26/2014	DEM	Democrat	GOV	Governor	GUL	Gulf			9	9	Rich	Nan	H.	602
+8/26/2014	DEM	Democrat	GOV	Governor	HAM	Hamilton			8	8	Rich	Nan	H.	440
+8/26/2014	DEM	Democrat	GOV	Governor	HAR	Hardee			12	12	Rich	Nan	H.	453
+8/26/2014	DEM	Democrat	GOV	Governor	HEN	Hendry			10	10	Rich	Nan	H.	512
+8/26/2014	DEM	Democrat	GOV	Governor	HER	Hernando			37	37	Rich	Nan	H.	1769
+8/26/2014	DEM	Democrat	GOV	Governor	HIG	Highlands			25	25	Rich	Nan	H.	1093
+8/26/2014	DEM	Democrat	GOV	Governor	HIL	Hillsborough			347	347	Rich	Nan	H.	13186
+8/26/2014	DEM	Democrat	GOV	Governor	HOL	Holmes			8	8	Rich	Nan	H.	1002
+8/26/2014	DEM	Democrat	GOV	Governor	IND	Indian River			37	37	Rich	Nan	H.	1346
+8/26/2014	DEM	Democrat	GOV	Governor	JAC	Jackson			14	14	Rich	Nan	H.	2177
+8/26/2014	DEM	Democrat	GOV	Governor	JEF	Jefferson			15	15	Rich	Nan	H.	589
+8/26/2014	DEM	Democrat	GOV	Governor	LAF	Lafayette			5	5	Rich	Nan	H.	644
+8/26/2014	DEM	Democrat	GOV	Governor	LAK	Lake			104	104	Rich	Nan	H.	3284
+8/26/2014	DEM	Democrat	GOV	Governor	LEE	Lee			127	127	Rich	Nan	H.	4257
+8/26/2014	DEM	Democrat	GOV	Governor	LEO	Leon			133	133	Rich	Nan	H.	6855
+8/26/2014	DEM	Democrat	GOV	Governor	LEV	Levy			13	13	Rich	Nan	H.	704
+8/26/2014	DEM	Democrat	GOV	Governor	LIB	Liberty			8	8	Rich	Nan	H.	742
+8/26/2014	DEM	Democrat	GOV	Governor	MAD	Madison			0	0	Rich	Nan	H.	612
+8/26/2014	DEM	Democrat	GOV	Governor	MAN	Manatee			70	70	Rich	Nan	H.	3304
+8/26/2014	DEM	Democrat	GOV	Governor	MRN	Marion			127	127	Rich	Nan	H.	3319
+8/26/2014	DEM	Democrat	GOV	Governor	MRT	Martin			31	31	Rich	Nan	H.	1404
+8/26/2014	DEM	Democrat	GOV	Governor	DAD	Miami-Dade			812	812	Rich	Nan	H.	16408
+8/26/2014	DEM	Democrat	GOV	Governor	MON	Monroe			33	33	Rich	Nan	H.	1221
+8/26/2014	DEM	Democrat	GOV	Governor	NAS	Nassau			16	16	Rich	Nan	H.	974
+8/26/2014	DEM	Democrat	GOV	Governor	OKA	Okaloosa			52	52	Rich	Nan	H.	1836
+8/26/2014	DEM	Democrat	GOV	Governor	OKE	Okeechobee			11	11	Rich	Nan	H.	715
+8/26/2014	DEM	Democrat	GOV	Governor	ORA	Orange			227	227	Rich	Nan	H.	11663
+8/26/2014	DEM	Democrat	GOV	Governor	OSC	Osceola			74	74	Rich	Nan	H.	2298
+8/26/2014	DEM	Democrat	GOV	Governor	PAL	Palm Beach			765	765	Rich	Nan	H.	12439
+8/26/2014	DEM	Democrat	GOV	Governor	PAS	Pasco			111	111	Rich	Nan	H.	3993
+8/26/2014	DEM	Democrat	GOV	Governor	PIN	Pinellas			297	297	Rich	Nan	H.	11870
+8/26/2014	DEM	Democrat	GOV	Governor	POL	Polk			167	167	Rich	Nan	H.	6406
+8/26/2014	DEM	Democrat	GOV	Governor	PUT	Putnam			39	39	Rich	Nan	H.	2619
+8/26/2014	DEM	Democrat	GOV	Governor	SAN	Santa Rosa			41	41	Rich	Nan	H.	1461
+8/26/2014	DEM	Democrat	GOV	Governor	SAR	Sarasota			99	99	Rich	Nan	H.	3209
+8/26/2014	DEM	Democrat	GOV	Governor	SEM	Seminole			80	80	Rich	Nan	H.	4333
+8/26/2014	DEM	Democrat	GOV	Governor	STJ	St. Johns			46	46	Rich	Nan	H.	1993
+8/26/2014	DEM	Democrat	GOV	Governor	STL	St. Lucie			64	64	Rich	Nan	H.	3643
+8/26/2014	DEM	Democrat	GOV	Governor	SUM	Sumter			29	29	Rich	Nan	H.	1116
+8/26/2014	DEM	Democrat	GOV	Governor	SUW	Suwannee			16	16	Rich	Nan	H.	1177
+8/26/2014	DEM	Democrat	GOV	Governor	TAY	Taylor			14	14	Rich	Nan	H.	594
+8/26/2014	DEM	Democrat	GOV	Governor	UNI	Union			8	8	Rich	Nan	H.	630
+8/26/2014	DEM	Democrat	GOV	Governor	VOL	Volusia			125	125	Rich	Nan	H.	8186
+8/26/2014	DEM	Democrat	GOV	Governor	WAK	Wakulla			12	12	Rich	Nan	H.	1181
+8/26/2014	DEM	Democrat	GOV	Governor	WAL	Walton			21	21	Rich	Nan	H.	913
+8/26/2014	DEM	Democrat	GOV	Governor	WAS	Washington			16	16	Rich	Nan	H.	774
+8/26/2014	DEM	Democrat	ATG	Attorney General	ALA	Alachua			63	63	Sheldon	George		8434
+8/26/2014	DEM	Democrat	ATG	Attorney General	BAK	Baker			9	9	Sheldon	George		1559
+8/26/2014	DEM	Democrat	ATG	Attorney General	BAY	Bay			44	44	Sheldon	George		3443
+8/26/2014	DEM	Democrat	ATG	Attorney General	BRA	Bradford			14	14	Sheldon	George		1032
+8/26/2014	DEM	Democrat	ATG	Attorney General	BRE	Brevard			173	173	Sheldon	George		13151
+8/26/2014	DEM	Democrat	ATG	Attorney General	BRO	Broward			577	577	Sheldon	George		31899
+8/26/2014	DEM	Democrat	ATG	Attorney General	CAL	Calhoun			11	11	Sheldon	George		1087
+8/26/2014	DEM	Democrat	ATG	Attorney General	CHA	Charlotte			69	69	Sheldon	George		3505
+8/26/2014	DEM	Democrat	ATG	Attorney General	CIT	Citrus			31	31	Sheldon	George		4746
+8/26/2014	DEM	Democrat	ATG	Attorney General	CLA	Clay			47	47	Sheldon	George		1914
+8/26/2014	DEM	Democrat	ATG	Attorney General	CLL	Collier			58	58	Sheldon	George		4253
+8/26/2014	DEM	Democrat	ATG	Attorney General	CLM	Columbia			24	24	Sheldon	George		2066
+8/26/2014	DEM	Democrat	ATG	Attorney General	DES	Desoto			15	15	Sheldon	George		1018
+8/26/2014	DEM	Democrat	ATG	Attorney General	DIX	Dixie			10	10	Sheldon	George		1067
+8/26/2014	DEM	Democrat	ATG	Attorney General	DUV	Duval			199	199	Sheldon	George		18502
+8/26/2014	DEM	Democrat	ATG	Attorney General	ESC	Escambia			79	79	Sheldon	George		6241
+8/26/2014	DEM	Democrat	ATG	Attorney General	FLA	Flagler			23	23	Sheldon	George		2404
+8/26/2014	DEM	Democrat	ATG	Attorney General	FRA	Franklin			8	8	Sheldon	George		742
+8/26/2014	DEM	Democrat	ATG	Attorney General	GAD	Gadsden			25	25	Sheldon	George		4554
+8/26/2014	DEM	Democrat	ATG	Attorney General	GIL	Gilchrist			10	10	Sheldon	George		451
+8/26/2014	DEM	Democrat	ATG	Attorney General	GLA	Glades			13	13	Sheldon	George		175
+8/26/2014	DEM	Democrat	ATG	Attorney General	GUL	Gulf			9	9	Sheldon	George		815
+8/26/2014	DEM	Democrat	ATG	Attorney General	HAM	Hamilton			8	8	Sheldon	George		688
+8/26/2014	DEM	Democrat	ATG	Attorney General	HAR	Hardee			12	12	Sheldon	George		517
+8/26/2014	DEM	Democrat	ATG	Attorney General	HEN	Hendry			10	10	Sheldon	George		703
+8/26/2014	DEM	Democrat	ATG	Attorney General	HER	Hernando			37	37	Sheldon	George		4900
+8/26/2014	DEM	Democrat	ATG	Attorney General	HIG	Highlands			25	25	Sheldon	George		1680
+8/26/2014	DEM	Democrat	ATG	Attorney General	HIL	Hillsborough			347	347	Sheldon	George		35231
+8/26/2014	DEM	Democrat	ATG	Attorney General	HOL	Holmes			8	8	Sheldon	George		1122
+8/26/2014	DEM	Democrat	ATG	Attorney General	IND	Indian River			37	37	Sheldon	George		2299
+8/26/2014	DEM	Democrat	ATG	Attorney General	JAC	Jackson			14	14	Sheldon	George		3390
+8/26/2014	DEM	Democrat	ATG	Attorney General	JEF	Jefferson			15	15	Sheldon	George		1325
+8/26/2014	DEM	Democrat	ATG	Attorney General	LAF	Lafayette			5	5	Sheldon	George		811
+8/26/2014	DEM	Democrat	ATG	Attorney General	LAK	Lake			104	104	Sheldon	George		5242
+8/26/2014	DEM	Democrat	ATG	Attorney General	LEE	Lee			127	127	Sheldon	George		11444
+8/26/2014	DEM	Democrat	ATG	Attorney General	LEO	Leon			133	133	Sheldon	George		17692
+8/26/2014	DEM	Democrat	ATG	Attorney General	LEV	Levy			13	13	Sheldon	George		893
+8/26/2014	DEM	Democrat	ATG	Attorney General	LIB	Liberty			8	8	Sheldon	George		1108
+8/26/2014	DEM	Democrat	ATG	Attorney General	MAD	Madison			0	0	Sheldon	George		1296
+8/26/2014	DEM	Democrat	ATG	Attorney General	MAN	Manatee			70	70	Sheldon	George		8614
+8/26/2014	DEM	Democrat	ATG	Attorney General	MRN	Marion			127	127	Sheldon	George		6121
+8/26/2014	DEM	Democrat	ATG	Attorney General	MRT	Martin			31	31	Sheldon	George		3060
+8/26/2014	DEM	Democrat	ATG	Attorney General	DAD	Miami-Dade			812	812	Sheldon	George		40403
+8/26/2014	DEM	Democrat	ATG	Attorney General	MON	Monroe			33	33	Sheldon	George		2756
+8/26/2014	DEM	Democrat	ATG	Attorney General	NAS	Nassau			16	16	Sheldon	George		1348
+8/26/2014	DEM	Democrat	ATG	Attorney General	OKA	Okaloosa			52	52	Sheldon	George		2017
+8/26/2014	DEM	Democrat	ATG	Attorney General	OKE	Okeechobee			11	11	Sheldon	George		1089
+8/26/2014	DEM	Democrat	ATG	Attorney General	ORA	Orange			227	227	Sheldon	George		24007
+8/26/2014	DEM	Democrat	ATG	Attorney General	OSC	Osceola			74	74	Sheldon	George		5434
+8/26/2014	DEM	Democrat	ATG	Attorney General	PAL	Palm Beach			765	765	Sheldon	George		38470
+8/26/2014	DEM	Democrat	ATG	Attorney General	PAS	Pasco			111	111	Sheldon	George		10937
+8/26/2014	DEM	Democrat	ATG	Attorney General	PIN	Pinellas			297	297	Sheldon	George		39631
+8/26/2014	DEM	Democrat	ATG	Attorney General	POL	Polk			167	167	Sheldon	George		12393
+8/26/2014	DEM	Democrat	ATG	Attorney General	PUT	Putnam			39	39	Sheldon	George		2379
+8/26/2014	DEM	Democrat	ATG	Attorney General	SAN	Santa Rosa			41	41	Sheldon	George		1705
+8/26/2014	DEM	Democrat	ATG	Attorney General	SAR	Sarasota			99	99	Sheldon	George		11505
+8/26/2014	DEM	Democrat	ATG	Attorney General	SEM	Seminole			80	80	Sheldon	George		6886
+8/26/2014	DEM	Democrat	ATG	Attorney General	STJ	St. Johns			46	46	Sheldon	George		2999
+8/26/2014	DEM	Democrat	ATG	Attorney General	STL	St. Lucie			64	64	Sheldon	George		7784
+8/26/2014	DEM	Democrat	ATG	Attorney General	SUM	Sumter			29	29	Sheldon	George		2256
+8/26/2014	DEM	Democrat	ATG	Attorney General	SUW	Suwannee			16	16	Sheldon	George		1461
+8/26/2014	DEM	Democrat	ATG	Attorney General	TAY	Taylor			14	14	Sheldon	George		914
+8/26/2014	DEM	Democrat	ATG	Attorney General	UNI	Union			8	8	Sheldon	George		840
+8/26/2014	DEM	Democrat	ATG	Attorney General	VOL	Volusia			125	125	Sheldon	George		15298
+8/26/2014	DEM	Democrat	ATG	Attorney General	WAK	Wakulla			12	12	Sheldon	George		1972
+8/26/2014	DEM	Democrat	ATG	Attorney General	WAL	Walton			21	21	Sheldon	George		1124
+8/26/2014	DEM	Democrat	ATG	Attorney General	WAS	Washington			16	16	Sheldon	George		1009
+8/26/2014	DEM	Democrat	ATG	Attorney General	ALA	Alachua			63	63	Thurston	Perry	E.	5753
+8/26/2014	DEM	Democrat	ATG	Attorney General	BAK	Baker			9	9	Thurston	Perry	E.	720
+8/26/2014	DEM	Democrat	ATG	Attorney General	BAY	Bay			44	44	Thurston	Perry	E.	2277
+8/26/2014	DEM	Democrat	ATG	Attorney General	BRA	Bradford			14	14	Thurston	Perry	E.	620
+8/26/2014	DEM	Democrat	ATG	Attorney General	BRE	Brevard			173	173	Thurston	Perry	E.	9999
+8/26/2014	DEM	Democrat	ATG	Attorney General	BRO	Broward			577	577	Thurston	Perry	E.	38537
+8/26/2014	DEM	Democrat	ATG	Attorney General	CAL	Calhoun			11	11	Thurston	Perry	E.	471
+8/26/2014	DEM	Democrat	ATG	Attorney General	CHA	Charlotte			69	69	Thurston	Perry	E.	1774
+8/26/2014	DEM	Democrat	ATG	Attorney General	CIT	Citrus			31	31	Thurston	Perry	E.	2653
+8/26/2014	DEM	Democrat	ATG	Attorney General	CLA	Clay			47	47	Thurston	Perry	E.	1351
+8/26/2014	DEM	Democrat	ATG	Attorney General	CLL	Collier			58	58	Thurston	Perry	E.	2411
+8/26/2014	DEM	Democrat	ATG	Attorney General	CLM	Columbia			24	24	Thurston	Perry	E.	1283
+8/26/2014	DEM	Democrat	ATG	Attorney General	DES	Desoto			15	15	Thurston	Perry	E.	767
+8/26/2014	DEM	Democrat	ATG	Attorney General	DIX	Dixie			10	10	Thurston	Perry	E.	726
+8/26/2014	DEM	Democrat	ATG	Attorney General	DUV	Duval			199	199	Thurston	Perry	E.	13020
+8/26/2014	DEM	Democrat	ATG	Attorney General	ESC	Escambia			79	79	Thurston	Perry	E.	4085
+8/26/2014	DEM	Democrat	ATG	Attorney General	FLA	Flagler			23	23	Thurston	Perry	E.	1680
+8/26/2014	DEM	Democrat	ATG	Attorney General	FRA	Franklin			8	8	Thurston	Perry	E.	381
+8/26/2014	DEM	Democrat	ATG	Attorney General	GAD	Gadsden			25	25	Thurston	Perry	E.	2730
+8/26/2014	DEM	Democrat	ATG	Attorney General	GIL	Gilchrist			10	10	Thurston	Perry	E.	345
+8/26/2014	DEM	Democrat	ATG	Attorney General	GLA	Glades			13	13	Thurston	Perry	E.	95
+8/26/2014	DEM	Democrat	ATG	Attorney General	GUL	Gulf			9	9	Thurston	Perry	E.	429
+8/26/2014	DEM	Democrat	ATG	Attorney General	HAM	Hamilton			8	8	Thurston	Perry	E.	414
+8/26/2014	DEM	Democrat	ATG	Attorney General	HAR	Hardee			12	12	Thurston	Perry	E.	348
+8/26/2014	DEM	Democrat	ATG	Attorney General	HEN	Hendry			10	10	Thurston	Perry	E.	493
+8/26/2014	DEM	Democrat	ATG	Attorney General	HER	Hernando			37	37	Thurston	Perry	E.	2359
+8/26/2014	DEM	Democrat	ATG	Attorney General	HIG	Highlands			25	25	Thurston	Perry	E.	1202
+8/26/2014	DEM	Democrat	ATG	Attorney General	HIL	Hillsborough			347	347	Thurston	Perry	E.	16962
+8/26/2014	DEM	Democrat	ATG	Attorney General	HOL	Holmes			8	8	Thurston	Perry	E.	600
+8/26/2014	DEM	Democrat	ATG	Attorney General	IND	Indian River			37	37	Thurston	Perry	E.	1529
+8/26/2014	DEM	Democrat	ATG	Attorney General	JAC	Jackson			14	14	Thurston	Perry	E.	1686
+8/26/2014	DEM	Democrat	ATG	Attorney General	JEF	Jefferson			15	15	Thurston	Perry	E.	741
+8/26/2014	DEM	Democrat	ATG	Attorney General	LAF	Lafayette			5	5	Thurston	Perry	E.	394
+8/26/2014	DEM	Democrat	ATG	Attorney General	LAK	Lake			104	104	Thurston	Perry	E.	4307
+8/26/2014	DEM	Democrat	ATG	Attorney General	LEE	Lee			127	127	Thurston	Perry	E.	6450
+8/26/2014	DEM	Democrat	ATG	Attorney General	LEO	Leon			133	133	Thurston	Perry	E.	8705
+8/26/2014	DEM	Democrat	ATG	Attorney General	LEV	Levy			13	13	Thurston	Perry	E.	656
+8/26/2014	DEM	Democrat	ATG	Attorney General	LIB	Liberty			8	8	Thurston	Perry	E.	428
+8/26/2014	DEM	Democrat	ATG	Attorney General	MAD	Madison			0	0	Thurston	Perry	E.	724
+8/26/2014	DEM	Democrat	ATG	Attorney General	MAN	Manatee			70	70	Thurston	Perry	E.	4685
+8/26/2014	DEM	Democrat	ATG	Attorney General	MRN	Marion			127	127	Thurston	Perry	E.	4234
+8/26/2014	DEM	Democrat	ATG	Attorney General	MRT	Martin			31	31	Thurston	Perry	E.	1781
+8/26/2014	DEM	Democrat	ATG	Attorney General	DAD	Miami-Dade			812	812	Thurston	Perry	E.	32394
+8/26/2014	DEM	Democrat	ATG	Attorney General	MON	Monroe			33	33	Thurston	Perry	E.	1461
+8/26/2014	DEM	Democrat	ATG	Attorney General	NAS	Nassau			16	16	Thurston	Perry	E.	848
+8/26/2014	DEM	Democrat	ATG	Attorney General	OKA	Okaloosa			52	52	Thurston	Perry	E.	1643
+8/26/2014	DEM	Democrat	ATG	Attorney General	OKE	Okeechobee			11	11	Thurston	Perry	E.	540
+8/26/2014	DEM	Democrat	ATG	Attorney General	ORA	Orange			227	227	Thurston	Perry	E.	21020
+8/26/2014	DEM	Democrat	ATG	Attorney General	OSC	Osceola			74	74	Thurston	Perry	E.	3297
+8/26/2014	DEM	Democrat	ATG	Attorney General	PAL	Palm Beach			765	765	Thurston	Perry	E.	18943
+8/26/2014	DEM	Democrat	ATG	Attorney General	PAS	Pasco			111	111	Thurston	Perry	E.	4623
+8/26/2014	DEM	Democrat	ATG	Attorney General	PIN	Pinellas			297	297	Thurston	Perry	E.	15208
+8/26/2014	DEM	Democrat	ATG	Attorney General	POL	Polk			167	167	Thurston	Perry	E.	8225
+8/26/2014	DEM	Democrat	ATG	Attorney General	PUT	Putnam			39	39	Thurston	Perry	E.	1734
+8/26/2014	DEM	Democrat	ATG	Attorney General	SAN	Santa Rosa			41	41	Thurston	Perry	E.	1180
+8/26/2014	DEM	Democrat	ATG	Attorney General	SAR	Sarasota			99	99	Thurston	Perry	E.	5816
+8/26/2014	DEM	Democrat	ATG	Attorney General	SEM	Seminole			80	80	Thurston	Perry	E.	6142
+8/26/2014	DEM	Democrat	ATG	Attorney General	STJ	St. Johns			46	46	Thurston	Perry	E.	2076
+8/26/2014	DEM	Democrat	ATG	Attorney General	STL	St. Lucie			64	64	Thurston	Perry	E.	5634
+8/26/2014	DEM	Democrat	ATG	Attorney General	SUM	Sumter			29	29	Thurston	Perry	E.	1623
+8/26/2014	DEM	Democrat	ATG	Attorney General	SUW	Suwannee			16	16	Thurston	Perry	E.	822
+8/26/2014	DEM	Democrat	ATG	Attorney General	TAY	Taylor			14	14	Thurston	Perry	E.	501
+8/26/2014	DEM	Democrat	ATG	Attorney General	UNI	Union			8	8	Thurston	Perry	E.	452
+8/26/2014	DEM	Democrat	ATG	Attorney General	VOL	Volusia			125	125	Thurston	Perry	E.	9715
+8/26/2014	DEM	Democrat	ATG	Attorney General	WAK	Wakulla			12	12	Thurston	Perry	E.	877
+8/26/2014	DEM	Democrat	ATG	Attorney General	WAL	Walton			21	21	Thurston	Perry	E.	789
+8/26/2014	DEM	Democrat	ATG	Attorney General	WAS	Washington			16	16	Thurston	Perry	E.	539
+8/26/2014	DEM	Democrat	STS	State Senator	ORA	Orange	012		92	92	Siplin	Gary		8607
+8/26/2014	DEM	Democrat	STS	State Senator	ORA	Orange	012		92	92	Thompson	Geraldine	F.	15371
+8/26/2014	DEM	Democrat	STS	State Senator	BRO	Broward	036		55	55	Blemur	Anis	'Auguste'	2126
+8/26/2014	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	036		100	100	Blemur	Anis	'Auguste'	7070
+8/26/2014	DEM	Democrat	STS	State Senator	BRO	Broward	036		55	55	Braynon,	Oscar		6135
+8/26/2014	DEM	Democrat	STS	State Senator	DAD	Miami-Dade	036		100	100	Braynon,	Oscar		15278
+8/26/2014	DEM	Democrat	STR	State Representative	GAD	Gadsden	008		25	25	Williams	Alan		5106
+8/26/2014	DEM	Democrat	STR	State Representative	LEO	Leon	008		47	47	Williams	Alan		6602
+8/26/2014	DEM	Democrat	STR	State Representative	GAD	Gadsden	008		25	25	Williams-Cox	Dianne		2627
+8/26/2014	DEM	Democrat	STR	State Representative	LEO	Leon	008		47	47	Williams-Cox	Dianne		2810
+8/26/2014	DEM	Democrat	STR	State Representative	LEO	Leon	009		82	82	Grice-Walker	Arnitta	J.	5570
+8/26/2014	DEM	Democrat	STR	State Representative	LEO	Leon	009		82	82	Vasilinda	Michelle	Rehwinkel	25020
+8/26/2014	DEM	Democrat	STR	State Representative	OSC	Osceola	042		26	26	Carnell	Chad		1286
+8/26/2014	DEM	Democrat	STR	State Representative	POL	Polk	042		18	18	Carnell	Chad		764
+8/26/2014	DEM	Democrat	STR	State Representative	OSC	Osceola	042		26	26	Placencia	Pete		1014
+8/26/2014	DEM	Democrat	STR	State Representative	POL	Polk	042		18	18	Placencia	Pete		1006
+8/26/2014	DEM	Democrat	STR	State Representative	OSC	Osceola	042		26	26	Velez-Estrada	Zulma		697
+8/26/2014	DEM	Democrat	STR	State Representative	POL	Polk	042		18	18	Velez-Estrada	Zulma		473
+8/26/2014	DEM	Democrat	STR	State Representative	OSC	Osceola	043		36	36	Cortes	John		2844
+8/26/2014	DEM	Democrat	STR	State Representative	OSC	Osceola	043		36	36	Rangel	Ricardo		2653
+8/26/2014	DEM	Democrat	STR	State Representative	HIL	Hillsborough	061		42	42	Carter	Sharon		1687
+8/26/2014	DEM	Democrat	STR	State Representative	HIL	Hillsborough	061		42	42	Denson	Tatiana	M.	838
+8/26/2014	DEM	Democrat	STR	State Representative	HIL	Hillsborough	061		42	42	Narain	Edwin	'Ed'	4437
+8/26/2014	DEM	Democrat	STR	State Representative	HIL	Hillsborough	061		42	42	Shaw	Sean		3663
+8/26/2014	DEM	Democrat	STR	State Representative	PIN	Pinellas	067		48	48	Ryan	Thomas	D.	2055
+8/26/2014	DEM	Democrat	STR	State Representative	PIN	Pinellas	067		48	48	Sarnoff	Steve		3669
+8/26/2014	DEM	Democrat	STR	State Representative	PIN	Pinellas	067		48	48	Vercher	Shawna		2303
+8/26/2014	DEM	Democrat	STR	State Representative	PAL	Palm Beach	081		63	63	Izaak	Joshua		3003
+8/26/2014	DEM	Democrat	STR	State Representative	PAL	Palm Beach	081		63	63	Rader	Kevin		7481
+8/26/2014	DEM	Democrat	STR	State Representative	BRO	Broward	094		63	63	DuBose	Bobby		8222
+8/26/2014	DEM	Democrat	STR	State Representative	BRO	Broward	094		63	63	Williams	Levoyd	L	4008
+8/26/2014	DEM	Democrat	STR	State Representative	BRO	Broward	096		45	45	Jacobs	Kristin		4416
+8/26/2014	DEM	Democrat	STR	State Representative	BRO	Broward	096		45	45	Perman	Steven	M.	1374
+8/26/2014	DEM	Democrat	STR	State Representative	BRO	Broward	100		21	21	Alvarez	John	Paul	601
+8/26/2014	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	100		24	24	Alvarez	John	Paul	396
+8/26/2014	DEM	Democrat	STR	State Representative	BRO	Broward	100		21	21	Geller	Joseph	S. 'Joe'	1324
+8/26/2014	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	100		24	24	Geller	Joseph	S. 'Joe'	1990
+8/26/2014	DEM	Democrat	STR	State Representative	BRO	Broward	100		21	21	Sorensen	Benjamin	Samuel	508
+8/26/2014	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	100		24	24	Sorensen	Benjamin	Samuel	549
+8/26/2014	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	107		44	44	Brutus	Phillip	J.	3141
+8/26/2014	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	107		44	44	Joseph	Michael		2345
+8/26/2014	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	107		44	44	Simon	Dominique		714
+8/26/2014	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	107		44	44	Watson	Barbara		5561
+8/26/2014	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	108		64	64	Campbell	Daphne		7117
+8/26/2014	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	108		64	64	Echoles	Taj	C.	1903
+8/26/2014	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	108		64	64	Hepburn	Michael	A.	2161
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	ESC	Escambia	001	022	79	79	Inere	Michelle		13452
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	OKA	Okaloosa	001	022	52	52	Inere	Michelle		8946
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	SAN	Santa Rosa	001	022	41	41	Inere	Michelle		6744
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	WAL	Walton	001	022	21	21	Inere	Michelle		2876
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	ESC	Escambia	001	022	79	79	Kinsey	Jennie		17698
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	OKA	Okaloosa	001	022	52	52	Kinsey	Jennie		13326
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	SAN	Santa Rosa	001	022	41	41	Kinsey	Jennie		9541
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	WAL	Walton	001	022	21	21	Kinsey	Jennie		5188
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	027	47	47	Penoso	Anthony	Paul	4808
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	027	199	199	Penoso	Anthony	Paul	21937
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	027	16	16	Penoso	Anthony	Paul	2226
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	CLA	Clay	004	027	47	47	Sharrit	Michael	'Mike'	16408
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	DUV	Duval	004	027	199	199	Sharrit	Michael	'Mike'	62755
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	NAS	Nassau	004	027	16	16	Sharrit	Michael	'Mike'	7904
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	003	31	31	Dymond Lyn	Denise	A.	8891
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	003	37	37	Dymond Lyn	Denise	A.	3165
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	003	104	104	Dymond Lyn	Denise	A.	5229
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	003	127	127	Dymond Lyn	Denise	A.	5643
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	003	29	29	Dymond Lyn	Denise	A.	2113
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	003	31	31	Hatcher	Mary		7963
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	003	37	37	Hatcher	Mary		8339
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	003	104	104	Hatcher	Mary		16317
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	003	127	127	Hatcher	Mary		14131
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	003	29	29	Hatcher	Mary		7855
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	003	31	31	Kautz	Sandy	K.	3612
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	003	37	37	Kautz	Sandy	K.	3102
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	003	104	104	Kautz	Sandy	K.	4581
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	003	127	127	Kautz	Sandy	K.	5181
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	003	29	29	Kautz	Sandy	K.	1965
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	CIT	Citrus	005	003	31	31	Samargya	Bo		4296
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	HER	Hernando	005	003	37	37	Samargya	Bo		3251
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	LAK	Lake	005	003	104	104	Samargya	Bo		3773
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	MRN	Marion	005	003	127	127	Samargya	Bo		6269
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	SUM	Sumter	005	003	29	29	Samargya	Bo		1681
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	001	111	111	Snell	Laura		13533
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	001	297	297	Snell	Laura		39302
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	001	111	111	St. John	Susan		25805
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	001	297	297	St. John	Susan		88767
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	002	111	111	Lark	Ken		11779
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	002	297	297	Lark	Ken		39849
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	002	111	111	Polk	Alicia		22293
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	002	297	297	Polk	Alicia		66316
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	002	111	111	Rosenthal	Alan	Scott	6475
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	002	297	297	Rosenthal	Alan	Scott	22770
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	016	111	111	Battaglia	Brian		18634
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	016	297	297	Battaglia	Brian		61771
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	016	111	111	Sharpe	Kimberly 'Kim'		22090
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	016	297	297	Sharpe	Kimberly 'Kim'		70621
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	021	111	111	Colon	Amanda		18920
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	021	297	297	Colon	Amanda		56990
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	021	111	111	Matthey	Phil		21453
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	021	297	297	Matthey	Phil		69628
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	035	111	111	Boyer	Bruce		25388
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	035	297	297	Boyer	Bruce		89485
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PAS	Pasco	006	035	111	111	Newlon	Jon		13948
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PIN	Pinellas	006	035	297	297	Newlon	Jon		35667
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	018	23	23	Foxman	Karen		6986
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	018	39	39	Foxman	Karen		5202
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	018	46	46	Foxman	Karen		13606
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	018	125	125	Foxman	Karen		43909
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	018	23	23	Sands	Steve		4839
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	018	39	39	Sands	Steve		3148
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	018	46	46	Sands	Steve		7832
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	018	125	125	Sands	Steve		23759
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	020	23	23	DeLaroche	Steven	N.	2908
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	020	39	39	DeLaroche	Steven	N.	2863
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	020	46	46	DeLaroche	Steven	N.	5433
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	020	125	125	DeLaroche	Steven	N.	16769
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	020	23	23	Warren	Adam		3271
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	020	39	39	Warren	Adam		2048
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	020	46	46	Warren	Adam		5763
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	020	125	125	Warren	Adam		19772
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	020	23	23	Weston	Kathy		5665
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	020	39	39	Weston	Kathy		3508
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	020	46	46	Weston	Kathy		10088
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	020	125	125	Weston	Kathy		29522
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	023	23	23	Killebrew	Kellie	Jo	5590
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	023	39	39	Killebrew	Kellie	Jo	5088
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	023	46	46	Killebrew	Kellie	Jo	9801
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	023	125	125	Killebrew	Kellie	Jo	34730
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	FLA	Flagler	007	023	23	23	Portuallo	Thomas	G.	6037
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PUT	Putnam	007	023	39	39	Portuallo	Thomas	G.	3147
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	STJ	St. Johns	007	023	46	46	Portuallo	Thomas	G.	11081
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	VOL	Volusia	007	023	125	125	Portuallo	Thomas	G.	28464
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	ALA	Alachua	008	011	63	63	Davis	William	E.	20607
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BAK	Baker	008	011	9	9	Davis	William	E.	3849
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BRA	Bradford	008	011	14	14	Davis	William	E.	2577
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	GIL	Gilchrist	008	011	10	10	Davis	William	E.	1867
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	LEV	Levy	008	011	13	13	Davis	William	E.	3940
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	UNI	Union	008	011	8	8	Davis	William	E.	1531
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	ALA	Alachua	008	011	63	63	Falik	William		4532
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BAK	Baker	008	011	9	9	Falik	William		846
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BRA	Bradford	008	011	14	14	Falik	William		736
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	GIL	Gilchrist	008	011	10	10	Falik	William		479
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	LEV	Levy	008	011	13	13	Falik	William		919
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	UNI	Union	008	011	8	8	Falik	William		548
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	010	227	227	Katz	Norberto		40165
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	010	74	74	Katz	Norberto		7304
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	010	227	227	Shepard	Kim		58883
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	010	74	74	Shepard	Kim		12114
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	012	227	227	George	Frank		31748
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	012	74	74	George	Frank		6966
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	012	227	227	Schreiber	Margaret		65398
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	012	74	74	Schreiber	Margaret		12190
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	018	227	227	Bacchus	Harold	M.	16685
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	018	74	74	Bacchus	Harold	M.	3294
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	018	227	227	Barbour	Elaine		67473
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	018	74	74	Barbour	Elaine		12930
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	018	227	227	Hetz	James	Timothy	12889
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	018	74	74	Hetz	James	Timothy	2910
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	030	227	227	Burey	Orley		19225
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	030	74	74	Burey	Orley		4074
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	030	227	227	Weiss	Kevin	B.	75727
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	030	74	74	Weiss	Kevin	B.	14884
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	032	227	227	Strowbridge	Patricia		47418
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	032	74	74	Strowbridge	Patricia		10366
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	032	227	227	Tennis	Diana		51722
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	032	74	74	Tennis	Diana		8976
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	033	227	227	Rodriguez	Heather	Pinder	61230
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	033	74	74	Rodriguez	Heather	Pinder	11021
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	033	227	227	Scott	Roger		36129
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	033	74	74	Scott	Roger		8261
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	035	227	227	Fisher	Bradford	D.	28496
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	035	74	74	Fisher	Bradford	D.	6589
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	035	227	227	Thorpe	Janet	C.	68441
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	035	74	74	Thorpe	Janet	C.	12460
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	037	227	227	Feliciani	Gino		33531
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	037	74	74	Feliciani	Gino		6458
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	ORA	Orange	009	037	227	227	Polodna	Scott		61283
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	OSC	Osceola	009	037	74	74	Polodna	Scott		12777
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	HAR	Hardee	010	016	12	12	Davidson	Taylor		776
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	HIG	Highlands	010	016	25	25	Davidson	Taylor		3153
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	POL	Polk	010	016	167	167	Davidson	Taylor		22828
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	HAR	Hardee	010	016	12	12	Helms	Larry		1544
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	HIG	Highlands	010	016	25	25	Helms	Larry		5945
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	POL	Polk	010	016	167	167	Helms	Larry		28819
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	016	812	812	Cobitz	Thomas	Aquinas	52069
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	016	812	812	Millan	Stephen	Thomas	98542
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	026	812	812	Carrazana	Christian		56975
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	026	812	812	Smith	Rodney	'Rod'	96287
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	027	812	812	Gomez	Mary	C.	66287
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	027	812	812	Milian	Alberto	'Al'	90967
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	058	812	812	Rodriguez-Fonts	Oscar		74748
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	058	812	812	Zilber	Martin		77064
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	067	812	812	Lobree	Fleur	Jeannine	67656
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	067	812	812	Ruiz	Mavel		80849
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	070	812	812	Diaz	Veronica		87730
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	DAD	Miami-Dade	011	070	812	812	Diaz de la Portilla	Renier		67059
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	DES	Desoto	012	017	15	15	Jackman	Art		1460
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	MAN	Manatee	012	017	70	70	Jackman	Art		15647
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	SAR	Sarasota	012	017	99	99	Jackman	Art		20888
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	DES	Desoto	012	017	15	15	Maulucci	Susan		1648
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	MAN	Manatee	012	017	70	70	Maulucci	Susan		24374
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	SAR	Sarasota	012	017	99	99	Maulucci	Susan		29374
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	008	347	347	Dingfelder	John		28579
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	008	347	347	Hinson	Carl	C.	37953
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	008	347	347	Thomas	Barbara	Twine	48944
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	019	347	347	Brannigan	Michael	John	39270
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	019	347	347	Scionti	Michael		72155
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	020	347	347	Stanley	Karen		54915
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	020	347	347	Ward	Laura		57521
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	034	347	347	Bauman	Robert		53768
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	034	347	347	Daniels	Constance		25305
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	HIL	Hillsborough	013	034	347	347	Polo	Melissa	'Missy'	32988
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BAY	Bay	014	010	44	44	Fensom	Jim		14504
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	CAL	Calhoun	014	010	11	11	Fensom	Jim		599
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	GUL	Gulf	014	010	9	9	Fensom	Jim		1554
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	HOL	Holmes	014	010	8	8	Fensom	Jim		1293
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	JAC	Jackson	014	010	14	14	Fensom	Jim		3159
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	WAS	Washington	014	010	16	16	Fensom	Jim		1885
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BAY	Bay	014	010	44	44	Grover	Shalene		4899
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	CAL	Calhoun	014	010	11	11	Grover	Shalene		1608
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	GUL	Gulf	014	010	9	9	Grover	Shalene		691
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	HOL	Holmes	014	010	8	8	Grover	Shalene		1463
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	JAC	Jackson	014	010	14	14	Grover	Shalene		3778
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	WAS	Washington	014	010	16	16	Grover	Shalene		1436
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BAY	Bay	014	010	44	44	Virga	Gerard	M.	4407
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	CAL	Calhoun	014	010	11	11	Virga	Gerard	M.	199
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	GUL	Gulf	014	010	9	9	Virga	Gerard	M.	303
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	HOL	Holmes	014	010	8	8	Virga	Gerard	M.	820
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	JAC	Jackson	014	010	14	14	Virga	Gerard	M.	1476
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	WAS	Washington	014	010	16	16	Virga	Gerard	M.	696
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	014	765	765	Lewis	Diana		46284
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	014	765	765	Ticktin	Jessica		55260
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	030	765	765	Cheesman	Maxine		16692
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	030	765	765	Goodman	Jaimie		54703
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	PAL	Palm Beach	015	030	765	765	Rowe-Linn	Peggy		28177
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	MON	Monroe	016	001	33	33	Barrett	Donald	C.	4612
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	MON	Monroe	016	001	33	33	Jones	Mark		8179
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	MON	Monroe	016	004	33	33	Bridges	Jack		3932
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	MON	Monroe	016	004	33	33	Helms	Bonnie	J.	5938
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	MON	Monroe	016	004	33	33	Slaton	Tegan		2950
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	008	577	577	McLawrence	Frantz	'Jahra'	44052
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	008	577	577	Rosenthal	Lynn		56706
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	016	577	577	Bailey	Dennis		27412
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	016	577	577	Gundersen	Andrea	Ruth	21404
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	016	577	577	Sokoloff	Rhoda		29127
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	016	577	577	Thompson	Russell	M.	21992
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	017	577	577	Harris	Julie	Shapiro	44490
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	017	577	577	Schulman	Stacey		54792
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	027	577	577	Contini	John	Patrick	50362
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BRO	Broward	017	027	577	577	Feren	Steven	Brian	47523
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	013	173	173	Bookhardt	Samuel		15867
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	013	80	80	Bookhardt	Samuel		7905
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	013	173	173	Paulk	George	T.	36479
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	013	80	80	Paulk	George	T.	18719
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	013	173	173	Sanchez	Christina		22605
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	013	80	80	Sanchez	Christina		13149
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	014	173	173	Goldfarb	Brooke	Deratany	26434
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	014	80	80	Goldfarb	Brooke	Deratany	17144
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	014	173	173	Lemonidis	Robin		48935
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	014	80	80	Lemonidis	Robin		22555
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	019	173	173	Goerner	Donna	M.	15097
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	019	80	80	Goerner	Donna	M.	10667
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	019	173	173	Krause	Mitch		26330
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	019	80	80	Krause	Mitch		13217
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	019	173	173	Stacy	Susan		30615
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	019	80	80	Stacy	Susan		16853
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	023	173	173	Arcadier	Maurice		15201
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	023	80	80	Arcadier	Maurice		6114
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	023	173	173	Maloney	Nancy		25724
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	023	80	80	Maloney	Nancy		15162
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	BRE	Brevard	018	023	173	173	Moser	John		31882
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	SEM	Seminole	018	023	80	80	Moser	John		17870
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	004	37	37	Heisey	Michael	C.	7918
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	004	31	31	Heisey	Michael	C.	10123
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	004	11	11	Heisey	Michael	C.	2512
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	004	64	64	Heisey	Michael	C.	16264
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	IND	Indian River	019	004	37	37	Ziskinder	Steven		5871
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	MRT	Martin	019	004	31	31	Ziskinder	Steven		10722
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	OKE	Okeechobee	019	004	11	11	Ziskinder	Steven		1261
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	STL	St. Lucie	019	004	64	64	Ziskinder	Steven		13989
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	CHA	Charlotte	020	003	69	69	Branning	Robert		7144
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	CLL	Collier	020	003	58	58	Branning	Robert		14681
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	GLA	Glades	020	003	13	13	Branning	Robert		211
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	HEN	Hendry	020	003	10	10	Branning	Robert		798
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	LEE	Lee	020	003	127	127	Branning	Robert		32955
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	CHA	Charlotte	020	003	69	69	Evans	Mary		11055
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	CLL	Collier	020	003	58	58	Evans	Mary		16452
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	GLA	Glades	020	003	13	13	Evans	Mary		281
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	HEN	Hendry	020	003	10	10	Evans	Mary		1398
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	LEE	Lee	020	003	127	127	Evans	Mary		40724
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	CHA	Charlotte	020	016	69	69	Hawthorne	Amy		12114
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	CLL	Collier	020	016	58	58	Hawthorne	Amy		22269
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	GLA	Glades	020	016	13	13	Hawthorne	Amy		343
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	HEN	Hendry	020	016	10	10	Hawthorne	Amy		1614
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	LEE	Lee	020	016	127	127	Hawthorne	Amy		51502
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	CHA	Charlotte	020	016	69	69	Leskovich	Steven	S.	6223
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	CLL	Collier	020	016	58	58	Leskovich	Steven	S.	9243
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	GLA	Glades	020	016	13	13	Leskovich	Steven	S.	155
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	HEN	Hendry	020	016	10	10	Leskovich	Steven	S.	565
+8/26/2014	NOP	Non-Partisan	CTJ	Circuit Judge	LEE	Lee	020	016	127	127	Leskovich	Steven	S.	21437

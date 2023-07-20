@@ -1,0 +1,411 @@
+ElectionDate	PartyCode	PartyName	RaceCode	OfficeDesc	CountyCode	CountyName	Juris1num	Juris2num	Precincts	PrecinctsReporting	CanNameLast	CanNameFirst	CanNameMiddle	CanVotes
+10/4/1988	DEM	Democrat	USS	United States Senator	ALA	Alachua			0	0	Gunter	Bill		2889
+10/4/1988	DEM	Democrat	USS	United States Senator	BAK	Baker			0	0	Gunter	Bill		3810
+10/4/1988	DEM	Democrat	USS	United States Senator	BAY	Bay			0	0	Gunter	Bill		2688
+10/4/1988	DEM	Democrat	USS	United States Senator	BRA	Bradford			0	0	Gunter	Bill		2643
+10/4/1988	DEM	Democrat	USS	United States Senator	BRE	Brevard			0	0	Gunter	Bill		7424
+10/4/1988	DEM	Democrat	USS	United States Senator	BRO	Broward			0	0	Gunter	Bill		27784
+10/4/1988	DEM	Democrat	USS	United States Senator	CAL	Calhoun			0	0	Gunter	Bill		2294
+10/4/1988	DEM	Democrat	USS	United States Senator	CHA	Charlotte			0	0	Gunter	Bill		2129
+10/4/1988	DEM	Democrat	USS	United States Senator	CIT	Citrus			0	0	Gunter	Bill		3432
+10/4/1988	DEM	Democrat	USS	United States Senator	CLA	Clay			0	0	Gunter	Bill		2237
+10/4/1988	DEM	Democrat	USS	United States Senator	CLL	Collier			0	0	Gunter	Bill		1166
+10/4/1988	DEM	Democrat	USS	United States Senator	CLM	Columbia			0	0	Gunter	Bill		3212
+10/4/1988	DEM	Democrat	USS	United States Senator	DES	Desoto			0	0	Gunter	Bill		1464
+10/4/1988	DEM	Democrat	USS	United States Senator	DIX	Dixie			0	0	Gunter	Bill		1259
+10/4/1988	DEM	Democrat	USS	United States Senator	DUV	Duval			0	0	Gunter	Bill		15821
+10/4/1988	DEM	Democrat	USS	United States Senator	ESC	Escambia			0	0	Gunter	Bill		24380
+10/4/1988	DEM	Democrat	USS	United States Senator	FLA	Flagler			0	0	Gunter	Bill		602
+10/4/1988	DEM	Democrat	USS	United States Senator	FRA	Franklin			0	0	Gunter	Bill		1714
+10/4/1988	DEM	Democrat	USS	United States Senator	GAD	Gadsden			0	0	Gunter	Bill		4954
+10/4/1988	DEM	Democrat	USS	United States Senator	GIL	Gilchrist			0	0	Gunter	Bill		934
+10/4/1988	DEM	Democrat	USS	United States Senator	GLA	Glades			0	0	Gunter	Bill		1056
+10/4/1988	DEM	Democrat	USS	United States Senator	GUL	Gulf			0	0	Gunter	Bill		2752
+10/4/1988	DEM	Democrat	USS	United States Senator	HAM	Hamilton			0	0	Gunter	Bill		2310
+10/4/1988	DEM	Democrat	USS	United States Senator	HAR	Hardee			0	0	Gunter	Bill		2199
+10/4/1988	DEM	Democrat	USS	United States Senator	HEN	Hendry			0	0	Gunter	Bill		1520
+10/4/1988	DEM	Democrat	USS	United States Senator	HER	Hernando			0	0	Gunter	Bill		2069
+10/4/1988	DEM	Democrat	USS	United States Senator	HIG	Highlands			0	0	Gunter	Bill		3630
+10/4/1988	DEM	Democrat	USS	United States Senator	HIL	Hillsborough			0	0	Gunter	Bill		20141
+10/4/1988	DEM	Democrat	USS	United States Senator	HOL	Holmes			0	0	Gunter	Bill		2937
+10/4/1988	DEM	Democrat	USS	United States Senator	IND	Indian River			0	0	Gunter	Bill		1078
+10/4/1988	DEM	Democrat	USS	United States Senator	JAC	Jackson			0	0	Gunter	Bill		6242
+10/4/1988	DEM	Democrat	USS	United States Senator	JEF	Jefferson			0	0	Gunter	Bill		1512
+10/4/1988	DEM	Democrat	USS	United States Senator	LAF	Lafayette			0	0	Gunter	Bill		1219
+10/4/1988	DEM	Democrat	USS	United States Senator	LAK	Lake			0	0	Gunter	Bill		2044
+10/4/1988	DEM	Democrat	USS	United States Senator	LEE	Lee			0	0	Gunter	Bill		7595
+10/4/1988	DEM	Democrat	USS	United States Senator	LEO	Leon			0	0	Gunter	Bill		9550
+10/4/1988	DEM	Democrat	USS	United States Senator	LEV	Levy			0	0	Gunter	Bill		1976
+10/4/1988	DEM	Democrat	USS	United States Senator	LIB	Liberty			0	0	Gunter	Bill		1257
+10/4/1988	DEM	Democrat	USS	United States Senator	MAD	Madison			0	0	Gunter	Bill		2826
+10/4/1988	DEM	Democrat	USS	United States Senator	MAN	Manatee			0	0	Gunter	Bill		3768
+10/4/1988	DEM	Democrat	USS	United States Senator	MRN	Marion			0	0	Gunter	Bill		3829
+10/4/1988	DEM	Democrat	USS	United States Senator	MRT	Martin			0	0	Gunter	Bill		1167
+10/4/1988	DEM	Democrat	USS	United States Senator	DAD	Miami-Dade			0	0	Gunter	Bill		34062
+10/4/1988	DEM	Democrat	USS	United States Senator	MON	Monroe			0	0	Gunter	Bill		3423
+10/4/1988	DEM	Democrat	USS	United States Senator	NAS	Nassau			0	0	Gunter	Bill		2456
+10/4/1988	DEM	Democrat	USS	United States Senator	OKA	Okaloosa			0	0	Gunter	Bill		7426
+10/4/1988	DEM	Democrat	USS	United States Senator	OKE	Okeechobee			0	0	Gunter	Bill		493
+10/4/1988	DEM	Democrat	USS	United States Senator	ORA	Orange			0	0	Gunter	Bill		8883
+10/4/1988	DEM	Democrat	USS	United States Senator	OSC	Osceola			0	0	Gunter	Bill		1371
+10/4/1988	DEM	Democrat	USS	United States Senator	PAL	Palm Beach			0	0	Gunter	Bill		14604
+10/4/1988	DEM	Democrat	USS	United States Senator	PAS	Pasco			0	0	Gunter	Bill		5580
+10/4/1988	DEM	Democrat	USS	United States Senator	PIN	Pinellas			0	0	Gunter	Bill		11540
+10/4/1988	DEM	Democrat	USS	United States Senator	POL	Polk			0	0	Gunter	Bill		10487
+10/4/1988	DEM	Democrat	USS	United States Senator	PUT	Putnam			0	0	Gunter	Bill		5523
+10/4/1988	DEM	Democrat	USS	United States Senator	SAN	Santa Rosa			0	0	Gunter	Bill		5502
+10/4/1988	DEM	Democrat	USS	United States Senator	SAR	Sarasota			0	0	Gunter	Bill		2926
+10/4/1988	DEM	Democrat	USS	United States Senator	SEM	Seminole			0	0	Gunter	Bill		2934
+10/4/1988	DEM	Democrat	USS	United States Senator	STJ	St. Johns			0	0	Gunter	Bill		1762
+10/4/1988	DEM	Democrat	USS	United States Senator	STL	St. Lucie			0	0	Gunter	Bill		1621
+10/4/1988	DEM	Democrat	USS	United States Senator	SUM	Sumter			0	0	Gunter	Bill		1107
+10/4/1988	DEM	Democrat	USS	United States Senator	SUW	Suwannee			0	0	Gunter	Bill		4014
+10/4/1988	DEM	Democrat	USS	United States Senator	TAY	Taylor			0	0	Gunter	Bill		3406
+10/4/1988	DEM	Democrat	USS	United States Senator	UNI	Union			0	0	Gunter	Bill		832
+10/4/1988	DEM	Democrat	USS	United States Senator	VOL	Volusia			0	0	Gunter	Bill		7500
+10/4/1988	DEM	Democrat	USS	United States Senator	WAK	Wakulla			0	0	Gunter	Bill		1540
+10/4/1988	DEM	Democrat	USS	United States Senator	WAL	Walton			0	0	Gunter	Bill		3592
+10/4/1988	DEM	Democrat	USS	United States Senator	WAS	Washington			0	0	Gunter	Bill		2821
+10/4/1988	DEM	Democrat	USS	United States Senator	ALA	Alachua			0	0	McKay	Buddy		15838
+10/4/1988	DEM	Democrat	USS	United States Senator	BAK	Baker			0	0	McKay	Buddy		2066
+10/4/1988	DEM	Democrat	USS	United States Senator	BAY	Bay			0	0	McKay	Buddy		2501
+10/4/1988	DEM	Democrat	USS	United States Senator	BRA	Bradford			0	0	McKay	Buddy		2079
+10/4/1988	DEM	Democrat	USS	United States Senator	BRE	Brevard			0	0	McKay	Buddy		7255
+10/4/1988	DEM	Democrat	USS	United States Senator	BRO	Broward			0	0	McKay	Buddy		25028
+10/4/1988	DEM	Democrat	USS	United States Senator	CAL	Calhoun			0	0	McKay	Buddy		1536
+10/4/1988	DEM	Democrat	USS	United States Senator	CHA	Charlotte			0	0	McKay	Buddy		2435
+10/4/1988	DEM	Democrat	USS	United States Senator	CIT	Citrus			0	0	McKay	Buddy		6894
+10/4/1988	DEM	Democrat	USS	United States Senator	CLA	Clay			0	0	McKay	Buddy		1596
+10/4/1988	DEM	Democrat	USS	United States Senator	CLL	Collier			0	0	McKay	Buddy		1255
+10/4/1988	DEM	Democrat	USS	United States Senator	CLM	Columbia			0	0	McKay	Buddy		2863
+10/4/1988	DEM	Democrat	USS	United States Senator	DES	Desoto			0	0	McKay	Buddy		1153
+10/4/1988	DEM	Democrat	USS	United States Senator	DIX	Dixie			0	0	McKay	Buddy		1579
+10/4/1988	DEM	Democrat	USS	United States Senator	DUV	Duval			0	0	McKay	Buddy		10607
+10/4/1988	DEM	Democrat	USS	United States Senator	ESC	Escambia			0	0	McKay	Buddy		15995
+10/4/1988	DEM	Democrat	USS	United States Senator	FLA	Flagler			0	0	McKay	Buddy		664
+10/4/1988	DEM	Democrat	USS	United States Senator	FRA	Franklin			0	0	McKay	Buddy		1218
+10/4/1988	DEM	Democrat	USS	United States Senator	GAD	Gadsden			0	0	McKay	Buddy		2677
+10/4/1988	DEM	Democrat	USS	United States Senator	GIL	Gilchrist			0	0	McKay	Buddy		1771
+10/4/1988	DEM	Democrat	USS	United States Senator	GLA	Glades			0	0	McKay	Buddy		820
+10/4/1988	DEM	Democrat	USS	United States Senator	GUL	Gulf			0	0	McKay	Buddy		1947
+10/4/1988	DEM	Democrat	USS	United States Senator	HAM	Hamilton			0	0	McKay	Buddy		1406
+10/4/1988	DEM	Democrat	USS	United States Senator	HAR	Hardee			0	0	McKay	Buddy		1772
+10/4/1988	DEM	Democrat	USS	United States Senator	HEN	Hendry			0	0	McKay	Buddy		1114
+10/4/1988	DEM	Democrat	USS	United States Senator	HER	Hernando			0	0	McKay	Buddy		3742
+10/4/1988	DEM	Democrat	USS	United States Senator	HIG	Highlands			0	0	McKay	Buddy		3344
+10/4/1988	DEM	Democrat	USS	United States Senator	HIL	Hillsborough			0	0	McKay	Buddy		26625
+10/4/1988	DEM	Democrat	USS	United States Senator	HOL	Holmes			0	0	McKay	Buddy		1728
+10/4/1988	DEM	Democrat	USS	United States Senator	IND	Indian River			0	0	McKay	Buddy		1145
+10/4/1988	DEM	Democrat	USS	United States Senator	JAC	Jackson			0	0	McKay	Buddy		3773
+10/4/1988	DEM	Democrat	USS	United States Senator	JEF	Jefferson			0	0	McKay	Buddy		987
+10/4/1988	DEM	Democrat	USS	United States Senator	LAF	Lafayette			0	0	McKay	Buddy		804
+10/4/1988	DEM	Democrat	USS	United States Senator	LAK	Lake			0	0	McKay	Buddy		4545
+10/4/1988	DEM	Democrat	USS	United States Senator	LEE	Lee			0	0	McKay	Buddy		7788
+10/4/1988	DEM	Democrat	USS	United States Senator	LEO	Leon			0	0	McKay	Buddy		13347
+10/4/1988	DEM	Democrat	USS	United States Senator	LEV	Levy			0	0	McKay	Buddy		3844
+10/4/1988	DEM	Democrat	USS	United States Senator	LIB	Liberty			0	0	McKay	Buddy		761
+10/4/1988	DEM	Democrat	USS	United States Senator	MAD	Madison			0	0	McKay	Buddy		1379
+10/4/1988	DEM	Democrat	USS	United States Senator	MAN	Manatee			0	0	McKay	Buddy		3983
+10/4/1988	DEM	Democrat	USS	United States Senator	MRN	Marion			0	0	McKay	Buddy		11428
+10/4/1988	DEM	Democrat	USS	United States Senator	MRT	Martin			0	0	McKay	Buddy		1652
+10/4/1988	DEM	Democrat	USS	United States Senator	DAD	Miami-Dade			0	0	McKay	Buddy		40519
+10/4/1988	DEM	Democrat	USS	United States Senator	MON	Monroe			0	0	McKay	Buddy		3421
+10/4/1988	DEM	Democrat	USS	United States Senator	NAS	Nassau			0	0	McKay	Buddy		1699
+10/4/1988	DEM	Democrat	USS	United States Senator	OKA	Okaloosa			0	0	McKay	Buddy		4195
+10/4/1988	DEM	Democrat	USS	United States Senator	OKE	Okeechobee			0	0	McKay	Buddy		623
+10/4/1988	DEM	Democrat	USS	United States Senator	ORA	Orange			0	0	McKay	Buddy		11209
+10/4/1988	DEM	Democrat	USS	United States Senator	OSC	Osceola			0	0	McKay	Buddy		1742
+10/4/1988	DEM	Democrat	USS	United States Senator	PAL	Palm Beach			0	0	McKay	Buddy		25096
+10/4/1988	DEM	Democrat	USS	United States Senator	PAS	Pasco			0	0	McKay	Buddy		5712
+10/4/1988	DEM	Democrat	USS	United States Senator	PIN	Pinellas			0	0	McKay	Buddy		16211
+10/4/1988	DEM	Democrat	USS	United States Senator	POL	Polk			0	0	McKay	Buddy		11655
+10/4/1988	DEM	Democrat	USS	United States Senator	PUT	Putnam			0	0	McKay	Buddy		4286
+10/4/1988	DEM	Democrat	USS	United States Senator	SAN	Santa Rosa			0	0	McKay	Buddy		3420
+10/4/1988	DEM	Democrat	USS	United States Senator	SAR	Sarasota			0	0	McKay	Buddy		5059
+10/4/1988	DEM	Democrat	USS	United States Senator	SEM	Seminole			0	0	McKay	Buddy		4859
+10/4/1988	DEM	Democrat	USS	United States Senator	STJ	St. Johns			0	0	McKay	Buddy		1467
+10/4/1988	DEM	Democrat	USS	United States Senator	STL	St. Lucie			0	0	McKay	Buddy		1724
+10/4/1988	DEM	Democrat	USS	United States Senator	SUM	Sumter			0	0	McKay	Buddy		2182
+10/4/1988	DEM	Democrat	USS	United States Senator	SUW	Suwannee			0	0	McKay	Buddy		2274
+10/4/1988	DEM	Democrat	USS	United States Senator	TAY	Taylor			0	0	McKay	Buddy		1770
+10/4/1988	DEM	Democrat	USS	United States Senator	UNI	Union			0	0	McKay	Buddy		602
+10/4/1988	DEM	Democrat	USS	United States Senator	VOL	Volusia			0	0	McKay	Buddy		9322
+10/4/1988	DEM	Democrat	USS	United States Senator	WAK	Wakulla			0	0	McKay	Buddy		1241
+10/4/1988	DEM	Democrat	USS	United States Senator	WAL	Walton			0	0	McKay	Buddy		2320
+10/4/1988	DEM	Democrat	USS	United States Senator	WAS	Washington			0	0	McKay	Buddy		1714
+10/4/1988	DEM	Democrat	SEC	Secretary of State	ALA	Alachua			0	0	Moore	Tom	R.	9641
+10/4/1988	DEM	Democrat	SEC	Secretary of State	BAK	Baker			0	0	Moore	Tom	R.	2391
+10/4/1988	DEM	Democrat	SEC	Secretary of State	BAY	Bay			0	0	Moore	Tom	R.	2634
+10/4/1988	DEM	Democrat	SEC	Secretary of State	BRA	Bradford			0	0	Moore	Tom	R.	2780
+10/4/1988	DEM	Democrat	SEC	Secretary of State	BRE	Brevard			0	0	Moore	Tom	R.	7950
+10/4/1988	DEM	Democrat	SEC	Secretary of State	BRO	Broward			0	0	Moore	Tom	R.	32249
+10/4/1988	DEM	Democrat	SEC	Secretary of State	CAL	Calhoun			0	0	Moore	Tom	R.	1511
+10/4/1988	DEM	Democrat	SEC	Secretary of State	CHA	Charlotte			0	0	Moore	Tom	R.	2609
+10/4/1988	DEM	Democrat	SEC	Secretary of State	CIT	Citrus			0	0	Moore	Tom	R.	4180
+10/4/1988	DEM	Democrat	SEC	Secretary of State	CLA	Clay			0	0	Moore	Tom	R.	2035
+10/4/1988	DEM	Democrat	SEC	Secretary of State	CLL	Collier			0	0	Moore	Tom	R.	1321
+10/4/1988	DEM	Democrat	SEC	Secretary of State	CLM	Columbia			0	0	Moore	Tom	R.	3040
+10/4/1988	DEM	Democrat	SEC	Secretary of State	DES	Desoto			0	0	Moore	Tom	R.	1199
+10/4/1988	DEM	Democrat	SEC	Secretary of State	DIX	Dixie			0	0	Moore	Tom	R.	1259
+10/4/1988	DEM	Democrat	SEC	Secretary of State	DUV	Duval			0	0	Moore	Tom	R.	13427
+10/4/1988	DEM	Democrat	SEC	Secretary of State	ESC	Escambia			0	0	Moore	Tom	R.	19142
+10/4/1988	DEM	Democrat	SEC	Secretary of State	FLA	Flagler			0	0	Moore	Tom	R.	834
+10/4/1988	DEM	Democrat	SEC	Secretary of State	FRA	Franklin			0	0	Moore	Tom	R.	1315
+10/4/1988	DEM	Democrat	SEC	Secretary of State	GAD	Gadsden			0	0	Moore	Tom	R.	4069
+10/4/1988	DEM	Democrat	SEC	Secretary of State	GIL	Gilchrist			0	0	Moore	Tom	R.	1100
+10/4/1988	DEM	Democrat	SEC	Secretary of State	GLA	Glades			0	0	Moore	Tom	R.	1048
+10/4/1988	DEM	Democrat	SEC	Secretary of State	GUL	Gulf			0	0	Moore	Tom	R.	2029
+10/4/1988	DEM	Democrat	SEC	Secretary of State	HAM	Hamilton			0	0	Moore	Tom	R.	1612
+10/4/1988	DEM	Democrat	SEC	Secretary of State	HAR	Hardee			0	0	Moore	Tom	R.	1744
+10/4/1988	DEM	Democrat	SEC	Secretary of State	HEN	Hendry			0	0	Moore	Tom	R.	1493
+10/4/1988	DEM	Democrat	SEC	Secretary of State	HER	Hernando			0	0	Moore	Tom	R.	3459
+10/4/1988	DEM	Democrat	SEC	Secretary of State	HIG	Highlands			0	0	Moore	Tom	R.	3732
+10/4/1988	DEM	Democrat	SEC	Secretary of State	HIL	Hillsborough			0	0	Moore	Tom	R.	25828
+10/4/1988	DEM	Democrat	SEC	Secretary of State	HOL	Holmes			0	0	Moore	Tom	R.	2060
+10/4/1988	DEM	Democrat	SEC	Secretary of State	IND	Indian River			0	0	Moore	Tom	R.	1214
+10/4/1988	DEM	Democrat	SEC	Secretary of State	JAC	Jackson			0	0	Moore	Tom	R.	4432
+10/4/1988	DEM	Democrat	SEC	Secretary of State	JEF	Jefferson			0	0	Moore	Tom	R.	1367
+10/4/1988	DEM	Democrat	SEC	Secretary of State	LAF	Lafayette			0	0	Moore	Tom	R.	828
+10/4/1988	DEM	Democrat	SEC	Secretary of State	LAK	Lake			0	0	Moore	Tom	R.	3562
+10/4/1988	DEM	Democrat	SEC	Secretary of State	LEE	Lee			0	0	Moore	Tom	R.	9931
+10/4/1988	DEM	Democrat	SEC	Secretary of State	LEO	Leon			0	0	Moore	Tom	R.	15283
+10/4/1988	DEM	Democrat	SEC	Secretary of State	LEV	Levy			0	0	Moore	Tom	R.	2026
+10/4/1988	DEM	Democrat	SEC	Secretary of State	LIB	Liberty			0	0	Moore	Tom	R.	924
+10/4/1988	DEM	Democrat	SEC	Secretary of State	MAD	Madison			0	0	Moore	Tom	R.	2663
+10/4/1988	DEM	Democrat	SEC	Secretary of State	MAN	Manatee			0	0	Moore	Tom	R.	4272
+10/4/1988	DEM	Democrat	SEC	Secretary of State	MRN	Marion			0	0	Moore	Tom	R.	7442
+10/4/1988	DEM	Democrat	SEC	Secretary of State	MRT	Martin			0	0	Moore	Tom	R.	1655
+10/4/1988	DEM	Democrat	SEC	Secretary of State	DAD	Miami-Dade			0	0	Moore	Tom	R.	31611
+10/4/1988	DEM	Democrat	SEC	Secretary of State	MON	Monroe			0	0	Moore	Tom	R.	2910
+10/4/1988	DEM	Democrat	SEC	Secretary of State	NAS	Nassau			0	0	Moore	Tom	R.	1846
+10/4/1988	DEM	Democrat	SEC	Secretary of State	OKA	Okaloosa			0	0	Moore	Tom	R.	6087
+10/4/1988	DEM	Democrat	SEC	Secretary of State	OKE	Okeechobee			0	0	Moore	Tom	R.	643
+10/4/1988	DEM	Democrat	SEC	Secretary of State	ORA	Orange			0	0	Moore	Tom	R.	12435
+10/4/1988	DEM	Democrat	SEC	Secretary of State	OSC	Osceola			0	0	Moore	Tom	R.	1802
+10/4/1988	DEM	Democrat	SEC	Secretary of State	PAL	Palm Beach			0	0	Moore	Tom	R.	24854
+10/4/1988	DEM	Democrat	SEC	Secretary of State	PAS	Pasco			0	0	Moore	Tom	R.	6521
+10/4/1988	DEM	Democrat	SEC	Secretary of State	PIN	Pinellas			0	0	Moore	Tom	R.	19247
+10/4/1988	DEM	Democrat	SEC	Secretary of State	POL	Polk			0	0	Moore	Tom	R.	13311
+10/4/1988	DEM	Democrat	SEC	Secretary of State	PUT	Putnam			0	0	Moore	Tom	R.	4999
+10/4/1988	DEM	Democrat	SEC	Secretary of State	SAN	Santa Rosa			0	0	Moore	Tom	R.	4460
+10/4/1988	DEM	Democrat	SEC	Secretary of State	SAR	Sarasota			0	0	Moore	Tom	R.	3201
+10/4/1988	DEM	Democrat	SEC	Secretary of State	SEM	Seminole			0	0	Moore	Tom	R.	4410
+10/4/1988	DEM	Democrat	SEC	Secretary of State	STJ	St. Johns			0	0	Moore	Tom	R.	1809
+10/4/1988	DEM	Democrat	SEC	Secretary of State	STL	St. Lucie			0	0	Moore	Tom	R.	1885
+10/4/1988	DEM	Democrat	SEC	Secretary of State	SUM	Sumter			0	0	Moore	Tom	R.	1680
+10/4/1988	DEM	Democrat	SEC	Secretary of State	SUW	Suwannee			0	0	Moore	Tom	R.	2904
+10/4/1988	DEM	Democrat	SEC	Secretary of State	TAY	Taylor			0	0	Moore	Tom	R.	2593
+10/4/1988	DEM	Democrat	SEC	Secretary of State	UNI	Union			0	0	Moore	Tom	R.	749
+10/4/1988	DEM	Democrat	SEC	Secretary of State	VOL	Volusia			0	0	Moore	Tom	R.	11605
+10/4/1988	DEM	Democrat	SEC	Secretary of State	WAK	Wakulla			0	0	Moore	Tom	R.	1603
+10/4/1988	DEM	Democrat	SEC	Secretary of State	WAL	Walton			0	0	Moore	Tom	R.	2975
+10/4/1988	DEM	Democrat	SEC	Secretary of State	WAS	Washington			0	0	Moore	Tom	R.	1917
+10/4/1988	DEM	Democrat	SEC	Secretary of State	ALA	Alachua			0	0	Taft	Jim		4491
+10/4/1988	DEM	Democrat	SEC	Secretary of State	BAK	Baker			0	0	Taft	Jim		2465
+10/4/1988	DEM	Democrat	SEC	Secretary of State	BAY	Bay			0	0	Taft	Jim		1997
+10/4/1988	DEM	Democrat	SEC	Secretary of State	BRA	Bradford			0	0	Taft	Jim		1390
+10/4/1988	DEM	Democrat	SEC	Secretary of State	BRE	Brevard			0	0	Taft	Jim		5197
+10/4/1988	DEM	Democrat	SEC	Secretary of State	BRO	Broward			0	0	Taft	Jim		15164
+10/4/1988	DEM	Democrat	SEC	Secretary of State	CAL	Calhoun			0	0	Taft	Jim		1446
+10/4/1988	DEM	Democrat	SEC	Secretary of State	CHA	Charlotte			0	0	Taft	Jim		1655
+10/4/1988	DEM	Democrat	SEC	Secretary of State	CIT	Citrus			0	0	Taft	Jim		5423
+10/4/1988	DEM	Democrat	SEC	Secretary of State	CLA	Clay			0	0	Taft	Jim		1463
+10/4/1988	DEM	Democrat	SEC	Secretary of State	CLL	Collier			0	0	Taft	Jim		921
+10/4/1988	DEM	Democrat	SEC	Secretary of State	CLM	Columbia			0	0	Taft	Jim		2093
+10/4/1988	DEM	Democrat	SEC	Secretary of State	DES	Desoto			0	0	Taft	Jim		1039
+10/4/1988	DEM	Democrat	SEC	Secretary of State	DIX	Dixie			0	0	Taft	Jim		1187
+10/4/1988	DEM	Democrat	SEC	Secretary of State	DUV	Duval			0	0	Taft	Jim		9761
+10/4/1988	DEM	Democrat	SEC	Secretary of State	ESC	Escambia			0	0	Taft	Jim		13292
+10/4/1988	DEM	Democrat	SEC	Secretary of State	FLA	Flagler			0	0	Taft	Jim		357
+10/4/1988	DEM	Democrat	SEC	Secretary of State	FRA	Franklin			0	0	Taft	Jim		1112
+10/4/1988	DEM	Democrat	SEC	Secretary of State	GAD	Gadsden			0	0	Taft	Jim		2479
+10/4/1988	DEM	Democrat	SEC	Secretary of State	GIL	Gilchrist			0	0	Taft	Jim		1240
+10/4/1988	DEM	Democrat	SEC	Secretary of State	GLA	Glades			0	0	Taft	Jim		622
+10/4/1988	DEM	Democrat	SEC	Secretary of State	GUL	Gulf			0	0	Taft	Jim		1779
+10/4/1988	DEM	Democrat	SEC	Secretary of State	HAM	Hamilton			0	0	Taft	Jim		1337
+10/4/1988	DEM	Democrat	SEC	Secretary of State	HAR	Hardee			0	0	Taft	Jim		1357
+10/4/1988	DEM	Democrat	SEC	Secretary of State	HEN	Hendry			0	0	Taft	Jim		821
+10/4/1988	DEM	Democrat	SEC	Secretary of State	HER	Hernando			0	0	Taft	Jim		1993
+10/4/1988	DEM	Democrat	SEC	Secretary of State	HIG	Highlands			0	0	Taft	Jim		2364
+10/4/1988	DEM	Democrat	SEC	Secretary of State	HIL	Hillsborough			0	0	Taft	Jim		13115
+10/4/1988	DEM	Democrat	SEC	Secretary of State	HOL	Holmes			0	0	Taft	Jim		1778
+10/4/1988	DEM	Democrat	SEC	Secretary of State	IND	Indian River			0	0	Taft	Jim		822
+10/4/1988	DEM	Democrat	SEC	Secretary of State	JAC	Jackson			0	0	Taft	Jim		3345
+10/4/1988	DEM	Democrat	SEC	Secretary of State	JEF	Jefferson			0	0	Taft	Jim		848
+10/4/1988	DEM	Democrat	SEC	Secretary of State	LAF	Lafayette			0	0	Taft	Jim		774
+10/4/1988	DEM	Democrat	SEC	Secretary of State	LAK	Lake			0	0	Taft	Jim		2090
+10/4/1988	DEM	Democrat	SEC	Secretary of State	LEE	Lee			0	0	Taft	Jim		4286
+10/4/1988	DEM	Democrat	SEC	Secretary of State	LEO	Leon			0	0	Taft	Jim		4938
+10/4/1988	DEM	Democrat	SEC	Secretary of State	LEV	Levy			0	0	Taft	Jim		2735
+10/4/1988	DEM	Democrat	SEC	Secretary of State	LIB	Liberty			0	0	Taft	Jim		792
+10/4/1988	DEM	Democrat	SEC	Secretary of State	MAD	Madison			0	0	Taft	Jim		1010
+10/4/1988	DEM	Democrat	SEC	Secretary of State	MAN	Manatee			0	0	Taft	Jim		3022
+10/4/1988	DEM	Democrat	SEC	Secretary of State	MRN	Marion			0	0	Taft	Jim		5249
+10/4/1988	DEM	Democrat	SEC	Secretary of State	MRT	Martin			0	0	Taft	Jim		855
+10/4/1988	DEM	Democrat	SEC	Secretary of State	DAD	Miami-Dade			0	0	Taft	Jim		31551
+10/4/1988	DEM	Democrat	SEC	Secretary of State	MON	Monroe			0	0	Taft	Jim		2700
+10/4/1988	DEM	Democrat	SEC	Secretary of State	NAS	Nassau			0	0	Taft	Jim		1509
+10/4/1988	DEM	Democrat	SEC	Secretary of State	OKA	Okaloosa			0	0	Taft	Jim		3878
+10/4/1988	DEM	Democrat	SEC	Secretary of State	OKE	Okeechobee			0	0	Taft	Jim		378
+10/4/1988	DEM	Democrat	SEC	Secretary of State	ORA	Orange			0	0	Taft	Jim		5076
+10/4/1988	DEM	Democrat	SEC	Secretary of State	OSC	Osceola			0	0	Taft	Jim		1043
+10/4/1988	DEM	Democrat	SEC	Secretary of State	PAL	Palm Beach			0	0	Taft	Jim		9482
+10/4/1988	DEM	Democrat	SEC	Secretary of State	PAS	Pasco			0	0	Taft	Jim		4075
+10/4/1988	DEM	Democrat	SEC	Secretary of State	PIN	Pinellas			0	0	Taft	Jim		7026
+10/4/1988	DEM	Democrat	SEC	Secretary of State	POL	Polk			0	0	Taft	Jim		6307
+10/4/1988	DEM	Democrat	SEC	Secretary of State	PUT	Putnam			0	0	Taft	Jim		3361
+10/4/1988	DEM	Democrat	SEC	Secretary of State	SAN	Santa Rosa			0	0	Taft	Jim		3313
+10/4/1988	DEM	Democrat	SEC	Secretary of State	SAR	Sarasota			0	0	Taft	Jim		4304
+10/4/1988	DEM	Democrat	SEC	Secretary of State	SEM	Seminole			0	0	Taft	Jim		2204
+10/4/1988	DEM	Democrat	SEC	Secretary of State	STJ	St. Johns			0	0	Taft	Jim		1079
+10/4/1988	DEM	Democrat	SEC	Secretary of State	STL	St. Lucie			0	0	Taft	Jim		1242
+10/4/1988	DEM	Democrat	SEC	Secretary of State	SUM	Sumter			0	0	Taft	Jim		1051
+10/4/1988	DEM	Democrat	SEC	Secretary of State	SUW	Suwannee			0	0	Taft	Jim		2085
+10/4/1988	DEM	Democrat	SEC	Secretary of State	TAY	Taylor			0	0	Taft	Jim		1791
+10/4/1988	DEM	Democrat	SEC	Secretary of State	UNI	Union			0	0	Taft	Jim		483
+10/4/1988	DEM	Democrat	SEC	Secretary of State	VOL	Volusia			0	0	Taft	Jim		3975
+10/4/1988	DEM	Democrat	SEC	Secretary of State	WAK	Wakulla			0	0	Taft	Jim		882
+10/4/1988	DEM	Democrat	SEC	Secretary of State	WAL	Walton			0	0	Taft	Jim		1904
+10/4/1988	DEM	Democrat	SEC	Secretary of State	WAS	Washington			0	0	Taft	Jim		1627
+10/4/1988	DEM	Democrat	TRE	Treasurer	ALA	Alachua			0	0	Jenne	Ken		7241
+10/4/1988	DEM	Democrat	TRE	Treasurer	BAK	Baker			0	0	Jenne	Ken		2667
+10/4/1988	DEM	Democrat	TRE	Treasurer	BAY	Bay			0	0	Jenne	Ken		2159
+10/4/1988	DEM	Democrat	TRE	Treasurer	BRA	Bradford			0	0	Jenne	Ken		2293
+10/4/1988	DEM	Democrat	TRE	Treasurer	BRE	Brevard			0	0	Jenne	Ken		4244
+10/4/1988	DEM	Democrat	TRE	Treasurer	BRO	Broward			0	0	Jenne	Ken		43914
+10/4/1988	DEM	Democrat	TRE	Treasurer	CAL	Calhoun			0	0	Jenne	Ken		1542
+10/4/1988	DEM	Democrat	TRE	Treasurer	CHA	Charlotte			0	0	Jenne	Ken		1945
+10/4/1988	DEM	Democrat	TRE	Treasurer	CIT	Citrus			0	0	Jenne	Ken		3837
+10/4/1988	DEM	Democrat	TRE	Treasurer	CLA	Clay			0	0	Jenne	Ken		1595
+10/4/1988	DEM	Democrat	TRE	Treasurer	CLL	Collier			0	0	Jenne	Ken		636
+10/4/1988	DEM	Democrat	TRE	Treasurer	CLM	Columbia			0	0	Jenne	Ken		2321
+10/4/1988	DEM	Democrat	TRE	Treasurer	DES	Desoto			0	0	Jenne	Ken		1063
+10/4/1988	DEM	Democrat	TRE	Treasurer	DIX	Dixie			0	0	Jenne	Ken		841
+10/4/1988	DEM	Democrat	TRE	Treasurer	DUV	Duval			0	0	Jenne	Ken		11843
+10/4/1988	DEM	Democrat	TRE	Treasurer	ESC	Escambia			0	0	Jenne	Ken		20670
+10/4/1988	DEM	Democrat	TRE	Treasurer	FLA	Flagler			0	0	Jenne	Ken		294
+10/4/1988	DEM	Democrat	TRE	Treasurer	FRA	Franklin			0	0	Jenne	Ken		1241
+10/4/1988	DEM	Democrat	TRE	Treasurer	GAD	Gadsden			0	0	Jenne	Ken		3601
+10/4/1988	DEM	Democrat	TRE	Treasurer	GIL	Gilchrist			0	0	Jenne	Ken		637
+10/4/1988	DEM	Democrat	TRE	Treasurer	GLA	Glades			0	0	Jenne	Ken		741
+10/4/1988	DEM	Democrat	TRE	Treasurer	GUL	Gulf			0	0	Jenne	Ken		1866
+10/4/1988	DEM	Democrat	TRE	Treasurer	HAM	Hamilton			0	0	Jenne	Ken		1647
+10/4/1988	DEM	Democrat	TRE	Treasurer	HAR	Hardee			0	0	Jenne	Ken		1739
+10/4/1988	DEM	Democrat	TRE	Treasurer	HEN	Hendry			0	0	Jenne	Ken		1003
+10/4/1988	DEM	Democrat	TRE	Treasurer	HER	Hernando			0	0	Jenne	Ken		2746
+10/4/1988	DEM	Democrat	TRE	Treasurer	HIG	Highlands			0	0	Jenne	Ken		2695
+10/4/1988	DEM	Democrat	TRE	Treasurer	HIL	Hillsborough			0	0	Jenne	Ken		20481
+10/4/1988	DEM	Democrat	TRE	Treasurer	HOL	Holmes			0	0	Jenne	Ken		2249
+10/4/1988	DEM	Democrat	TRE	Treasurer	IND	Indian River			0	0	Jenne	Ken		855
+10/4/1988	DEM	Democrat	TRE	Treasurer	JAC	Jackson			0	0	Jenne	Ken		4202
+10/4/1988	DEM	Democrat	TRE	Treasurer	JEF	Jefferson			0	0	Jenne	Ken		1149
+10/4/1988	DEM	Democrat	TRE	Treasurer	LAF	Lafayette			0	0	Jenne	Ken		831
+10/4/1988	DEM	Democrat	TRE	Treasurer	LAK	Lake			0	0	Jenne	Ken		2285
+10/4/1988	DEM	Democrat	TRE	Treasurer	LEE	Lee			0	0	Jenne	Ken		5702
+10/4/1988	DEM	Democrat	TRE	Treasurer	LEO	Leon			0	0	Jenne	Ken		11411
+10/4/1988	DEM	Democrat	TRE	Treasurer	LEV	Levy			0	0	Jenne	Ken		1424
+10/4/1988	DEM	Democrat	TRE	Treasurer	LIB	Liberty			0	0	Jenne	Ken		801
+10/4/1988	DEM	Democrat	TRE	Treasurer	MAD	Madison			0	0	Jenne	Ken		2088
+10/4/1988	DEM	Democrat	TRE	Treasurer	MAN	Manatee			0	0	Jenne	Ken		3971
+10/4/1988	DEM	Democrat	TRE	Treasurer	MRN	Marion			0	0	Jenne	Ken		4516
+10/4/1988	DEM	Democrat	TRE	Treasurer	MRT	Martin			0	0	Jenne	Ken		1475
+10/4/1988	DEM	Democrat	TRE	Treasurer	DAD	Miami-Dade			0	0	Jenne	Ken		44978
+10/4/1988	DEM	Democrat	TRE	Treasurer	MON	Monroe			0	0	Jenne	Ken		2977
+10/4/1988	DEM	Democrat	TRE	Treasurer	NAS	Nassau			0	0	Jenne	Ken		1724
+10/4/1988	DEM	Democrat	TRE	Treasurer	OKA	Okaloosa			0	0	Jenne	Ken		6207
+10/4/1988	DEM	Democrat	TRE	Treasurer	OKE	Okeechobee			0	0	Jenne	Ken		580
+10/4/1988	DEM	Democrat	TRE	Treasurer	ORA	Orange			0	0	Jenne	Ken		7115
+10/4/1988	DEM	Democrat	TRE	Treasurer	OSC	Osceola			0	0	Jenne	Ken		867
+10/4/1988	DEM	Democrat	TRE	Treasurer	PAL	Palm Beach			0	0	Jenne	Ken		26808
+10/4/1988	DEM	Democrat	TRE	Treasurer	PAS	Pasco			0	0	Jenne	Ken		5441
+10/4/1988	DEM	Democrat	TRE	Treasurer	PIN	Pinellas			0	0	Jenne	Ken		14857
+10/4/1988	DEM	Democrat	TRE	Treasurer	POL	Polk			0	0	Jenne	Ken		8751
+10/4/1988	DEM	Democrat	TRE	Treasurer	PUT	Putnam			0	0	Jenne	Ken		3572
+10/4/1988	DEM	Democrat	TRE	Treasurer	SAN	Santa Rosa			0	0	Jenne	Ken		5020
+10/4/1988	DEM	Democrat	TRE	Treasurer	SAR	Sarasota			0	0	Jenne	Ken		4755
+10/4/1988	DEM	Democrat	TRE	Treasurer	SEM	Seminole			0	0	Jenne	Ken		2485
+10/4/1988	DEM	Democrat	TRE	Treasurer	STJ	St. Johns			0	0	Jenne	Ken		1342
+10/4/1988	DEM	Democrat	TRE	Treasurer	STL	St. Lucie			0	0	Jenne	Ken		1759
+10/4/1988	DEM	Democrat	TRE	Treasurer	SUM	Sumter			0	0	Jenne	Ken		1091
+10/4/1988	DEM	Democrat	TRE	Treasurer	SUW	Suwannee			0	0	Jenne	Ken		2405
+10/4/1988	DEM	Democrat	TRE	Treasurer	TAY	Taylor			0	0	Jenne	Ken		2321
+10/4/1988	DEM	Democrat	TRE	Treasurer	UNI	Union			0	0	Jenne	Ken		594
+10/4/1988	DEM	Democrat	TRE	Treasurer	VOL	Volusia			0	0	Jenne	Ken		3350
+10/4/1988	DEM	Democrat	TRE	Treasurer	WAK	Wakulla			0	0	Jenne	Ken		1250
+10/4/1988	DEM	Democrat	TRE	Treasurer	WAL	Walton			0	0	Jenne	Ken		2618
+10/4/1988	DEM	Democrat	TRE	Treasurer	WAS	Washington			0	0	Jenne	Ken		2006
+10/4/1988	DEM	Democrat	TRE	Treasurer	ALA	Alachua			0	0	Vogt	John		8914
+10/4/1988	DEM	Democrat	TRE	Treasurer	BAK	Baker			0	0	Vogt	John		2334
+10/4/1988	DEM	Democrat	TRE	Treasurer	BAY	Bay			0	0	Vogt	John		2846
+10/4/1988	DEM	Democrat	TRE	Treasurer	BRA	Bradford			0	0	Vogt	John		2000
+10/4/1988	DEM	Democrat	TRE	Treasurer	BRE	Brevard			0	0	Vogt	John		10275
+10/4/1988	DEM	Democrat	TRE	Treasurer	BRO	Broward			0	0	Vogt	John		8163
+10/4/1988	DEM	Democrat	TRE	Treasurer	CAL	Calhoun			0	0	Vogt	John		1685
+10/4/1988	DEM	Democrat	TRE	Treasurer	CHA	Charlotte			0	0	Vogt	John		2449
+10/4/1988	DEM	Democrat	TRE	Treasurer	CIT	Citrus			0	0	Vogt	John		5772
+10/4/1988	DEM	Democrat	TRE	Treasurer	CLA	Clay			0	0	Vogt	John		2087
+10/4/1988	DEM	Democrat	TRE	Treasurer	CLL	Collier			0	0	Vogt	John		1670
+10/4/1988	DEM	Democrat	TRE	Treasurer	CLM	Columbia			0	0	Vogt	John		3240
+10/4/1988	DEM	Democrat	TRE	Treasurer	DES	Desoto			0	0	Vogt	John		1259
+10/4/1988	DEM	Democrat	TRE	Treasurer	DIX	Dixie			0	0	Vogt	John		1687
+10/4/1988	DEM	Democrat	TRE	Treasurer	DUV	Duval			0	0	Vogt	John		13050
+10/4/1988	DEM	Democrat	TRE	Treasurer	ESC	Escambia			0	0	Vogt	John		14337
+10/4/1988	DEM	Democrat	TRE	Treasurer	FLA	Flagler			0	0	Vogt	John		937
+10/4/1988	DEM	Democrat	TRE	Treasurer	FRA	Franklin			0	0	Vogt	John		1245
+10/4/1988	DEM	Democrat	TRE	Treasurer	GAD	Gadsden			0	0	Vogt	John		3217
+10/4/1988	DEM	Democrat	TRE	Treasurer	GIL	Gilchrist			0	0	Vogt	John		1845
+10/4/1988	DEM	Democrat	TRE	Treasurer	GLA	Glades			0	0	Vogt	John		939
+10/4/1988	DEM	Democrat	TRE	Treasurer	GUL	Gulf			0	0	Vogt	John		2161
+10/4/1988	DEM	Democrat	TRE	Treasurer	HAM	Hamilton			0	0	Vogt	John		1465
+10/4/1988	DEM	Democrat	TRE	Treasurer	HAR	Hardee			0	0	Vogt	John		1655
+10/4/1988	DEM	Democrat	TRE	Treasurer	HEN	Hendry			0	0	Vogt	John		1366
+10/4/1988	DEM	Democrat	TRE	Treasurer	HER	Hernando			0	0	Vogt	John		2863
+10/4/1988	DEM	Democrat	TRE	Treasurer	HIG	Highlands			0	0	Vogt	John		3707
+10/4/1988	DEM	Democrat	TRE	Treasurer	HIL	Hillsborough			0	0	Vogt	John		22343
+10/4/1988	DEM	Democrat	TRE	Treasurer	HOL	Holmes			0	0	Vogt	John		1866
+10/4/1988	DEM	Democrat	TRE	Treasurer	IND	Indian River			0	0	Vogt	John		1282
+10/4/1988	DEM	Democrat	TRE	Treasurer	JAC	Jackson			0	0	Vogt	John		4593
+10/4/1988	DEM	Democrat	TRE	Treasurer	JEF	Jefferson			0	0	Vogt	John		1164
+10/4/1988	DEM	Democrat	TRE	Treasurer	LAF	Lafayette			0	0	Vogt	John		919
+10/4/1988	DEM	Democrat	TRE	Treasurer	LAK	Lake			0	0	Vogt	John		3641
+10/4/1988	DEM	Democrat	TRE	Treasurer	LEE	Lee			0	0	Vogt	John		9049
+10/4/1988	DEM	Democrat	TRE	Treasurer	LEO	Leon			0	0	Vogt	John		10109
+10/4/1988	DEM	Democrat	TRE	Treasurer	LEV	Levy			0	0	Vogt	John		3667
+10/4/1988	DEM	Democrat	TRE	Treasurer	LIB	Liberty			0	0	Vogt	John		1017
+10/4/1988	DEM	Democrat	TRE	Treasurer	MAD	Madison			0	0	Vogt	John		1588
+10/4/1988	DEM	Democrat	TRE	Treasurer	MAN	Manatee			0	0	Vogt	John		3525
+10/4/1988	DEM	Democrat	TRE	Treasurer	MRN	Marion			0	0	Vogt	John		8883
+10/4/1988	DEM	Democrat	TRE	Treasurer	MRT	Martin			0	0	Vogt	John		1201
+10/4/1988	DEM	Democrat	TRE	Treasurer	DAD	Miami-Dade			0	0	Vogt	John		23279
+10/4/1988	DEM	Democrat	TRE	Treasurer	MON	Monroe			0	0	Vogt	John		2813
+10/4/1988	DEM	Democrat	TRE	Treasurer	NAS	Nassau			0	0	Vogt	John		1852
+10/4/1988	DEM	Democrat	TRE	Treasurer	OKA	Okaloosa			0	0	Vogt	John		4292
+10/4/1988	DEM	Democrat	TRE	Treasurer	OKE	Okeechobee			0	0	Vogt	John		490
+10/4/1988	DEM	Democrat	TRE	Treasurer	ORA	Orange			0	0	Vogt	John		11865
+10/4/1988	DEM	Democrat	TRE	Treasurer	OSC	Osceola			0	0	Vogt	John		2190
+10/4/1988	DEM	Democrat	TRE	Treasurer	PAL	Palm Beach			0	0	Vogt	John		10494
+10/4/1988	DEM	Democrat	TRE	Treasurer	PAS	Pasco			0	0	Vogt	John		5517
+10/4/1988	DEM	Democrat	TRE	Treasurer	PIN	Pinellas			0	0	Vogt	John		11992
+10/4/1988	DEM	Democrat	TRE	Treasurer	POL	Polk			0	0	Vogt	John		12115
+10/4/1988	DEM	Democrat	TRE	Treasurer	PUT	Putnam			0	0	Vogt	John		5216
+10/4/1988	DEM	Democrat	TRE	Treasurer	SAN	Santa Rosa			0	0	Vogt	John		3124
+10/4/1988	DEM	Democrat	TRE	Treasurer	SAR	Sarasota			0	0	Vogt	John		2936
+10/4/1988	DEM	Democrat	TRE	Treasurer	SEM	Seminole			0	0	Vogt	John		4874
+10/4/1988	DEM	Democrat	TRE	Treasurer	STJ	St. Johns			0	0	Vogt	John		1697
+10/4/1988	DEM	Democrat	TRE	Treasurer	STL	St. Lucie			0	0	Vogt	John		1489
+10/4/1988	DEM	Democrat	TRE	Treasurer	SUM	Sumter			0	0	Vogt	John		1811
+10/4/1988	DEM	Democrat	TRE	Treasurer	SUW	Suwannee			0	0	Vogt	John		2904
+10/4/1988	DEM	Democrat	TRE	Treasurer	TAY	Taylor			0	0	Vogt	John		2215
+10/4/1988	DEM	Democrat	TRE	Treasurer	UNI	Union			0	0	Vogt	John		728
+10/4/1988	DEM	Democrat	TRE	Treasurer	VOL	Volusia			0	0	Vogt	John		12834
+10/4/1988	DEM	Democrat	TRE	Treasurer	WAK	Wakulla			0	0	Vogt	John		1309
+10/4/1988	DEM	Democrat	TRE	Treasurer	WAL	Walton			0	0	Vogt	John		2636
+10/4/1988	DEM	Democrat	TRE	Treasurer	WAS	Washington			0	0	Vogt	John		1966
+10/4/1988	DEM	Democrat	STR	State Representative	ALA	Alachua	024		0	0	Chalmers	Jean		6108
+10/4/1988	DEM	Democrat	STR	State Representative	ALA	Alachua	024		0	0	Flagg	David		7057
+10/4/1988	DEM	Democrat	STR	State Representative	POL	Polk	045		0	0	Bush	David		2200
+10/4/1988	DEM	Democrat	STR	State Representative	POL	Polk	045		0	0	Mims	Tom		3683
+10/4/1988	DEM	Democrat	STR	State Representative	HIL	Hillsborough	064		0	0	Davis	Jim		4222
+10/4/1988	DEM	Democrat	STR	State Representative	HIL	Hillsborough	064		0	0	Wright	Tom		2252
+10/4/1988	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	114		0	0	Bohnsack	Fran		2841
+10/4/1988	DEM	Democrat	STR	State Representative	DAD	Miami-Dade	114		0	0	Britan	Scott		2258

@@ -1,0 +1,602 @@
+County,Office,Candidate,Party,District,Votes
+Bartholomew,President,Bernie Sanders,Democratic,Statewide,3183
+Decatur,President,Bernie Sanders,Democratic,Statewide,733
+Delaware,President,Bernie Sanders,Democratic,Statewide,7730
+Adams,President,Bernie Sanders,Democratic,Statewide,1030
+Carroll,President,Bernie Sanders,Democratic,Statewide,648
+Clay,President,Bernie Sanders,Democratic,Statewide,1049
+Clinton,President,Bernie Sanders,Democratic,Statewide,1046
+Crawford,President,Bernie Sanders,Democratic,Statewide,616
+Daviess,President,Bernie Sanders,Democratic,Statewide,701
+DeKalb,President,Bernie Sanders,Democratic,Statewide,1270
+Dubois,President,Bernie Sanders,Democratic,Statewide,2293
+Benton,President,Bernie Sanders,Democratic,Statewide,235
+Brown,President,Bernie Sanders,Democratic,Statewide,1270
+Clark,President,Bernie Sanders,Democratic,Statewide,5308
+Allen,President,Bernie Sanders,Democratic,Statewide,16456
+Blackford,President,Bernie Sanders,Democratic,Statewide,514
+Boone,President,Bernie Sanders,Democratic,Statewide,2555
+Cass,President,Bernie Sanders,Democratic,Statewide,1656
+Dearborn,President,Bernie Sanders,Democratic,Statewide,1246
+Elkhart,President,Bernie Sanders,Democratic,Statewide,6440
+Allen,President,Hillary Clinton,Democratic,Statewide,15045
+Boone,President,Hillary Clinton,Democratic,Statewide,2075
+Clay,President,Hillary Clinton,Democratic,Statewide,931
+Elkhart,President,Hillary Clinton,Democratic,Statewide,4791
+Bartholomew,President,Hillary Clinton,Democratic,Statewide,2778
+Benton,President,Hillary Clinton,Democratic,Statewide,190
+Blackford,President,Hillary Clinton,Democratic,Statewide,493
+Cass,President,Hillary Clinton,Democratic,Statewide,1137
+Brown,President,Hillary Clinton,Democratic,Statewide,806
+Carroll,President,Hillary Clinton,Democratic,Statewide,508
+Daviess,President,Hillary Clinton,Democratic,Statewide,539
+Decatur,President,Hillary Clinton,Democratic,Statewide,631
+DeKalb,President,Hillary Clinton,Democratic,Statewide,1140
+Delaware,President,Hillary Clinton,Democratic,Statewide,6137
+Dubois,President,Hillary Clinton,Democratic,Statewide,2305
+Adams,President,Hillary Clinton,Democratic,Statewide,991
+Clinton,President,Hillary Clinton,Democratic,Statewide,724
+Crawford,President,Hillary Clinton,Democratic,Statewide,684
+Dearborn,President,Hillary Clinton,Democratic,Statewide,1391
+Clark,President,Hillary Clinton,Democratic,Statewide,6195
+Bartholomew,President,Ben Carson,Republican,Statewide,164
+Boone,President,Ben Carson,Republican,Statewide,101
+Decatur,President,Ben Carson,Republican,Statewide,47
+Delaware,President,Ben Carson,Republican,Statewide,147
+Allen,President,Ben Carson,Republican,Statewide,569
+Blackford,President,Ben Carson,Republican,Statewide,17
+Cass,President,Ben Carson,Republican,Statewide,67
+Dearborn,President,Ben Carson,Republican,Statewide,47
+Elkhart,President,Ben Carson,Republican,Statewide,278
+Adams,President,Ben Carson,Republican,Statewide,90
+Carroll,President,Ben Carson,Republican,Statewide,37
+Clay,President,Ben Carson,Republican,Statewide,38
+Clinton,President,Ben Carson,Republican,Statewide,81
+Crawford,President,Ben Carson,Republican,Statewide,17
+Daviess,President,Ben Carson,Republican,Statewide,69
+DeKalb,President,Ben Carson,Republican,Statewide,92
+Dubois,President,Ben Carson,Republican,Statewide,72
+Benton,President,Ben Carson,Republican,Statewide,28
+Brown,President,Ben Carson,Republican,Statewide,33
+Clark,President,Ben Carson,Republican,Statewide,140
+Bartholomew,President,Carly Fiorina,Republican,Statewide,30
+Blackford,President,Carly Fiorina,Republican,Statewide,1
+Brown,President,Carly Fiorina,Republican,Statewide,9
+Carroll,President,Carly Fiorina,Republican,Statewide,9
+Cass,President,Carly Fiorina,Republican,Statewide,9
+Daviess,President,Carly Fiorina,Republican,Statewide,9
+DeKalb,President,Carly Fiorina,Republican,Statewide,18
+Dubois,President,Carly Fiorina,Republican,Statewide,11
+Allen,President,Carly Fiorina,Republican,Statewide,60
+Benton,President,Carly Fiorina,Republican,Statewide,2
+Clark,President,Carly Fiorina,Republican,Statewide,18
+Boone,President,Carly Fiorina,Republican,Statewide,24
+Clay,President,Carly Fiorina,Republican,Statewide,10
+Dearborn,President,Carly Fiorina,Republican,Statewide,5
+Decatur,President,Carly Fiorina,Republican,Statewide,6
+Delaware,President,Carly Fiorina,Republican,Statewide,28
+Elkhart,President,Carly Fiorina,Republican,Statewide,47
+Adams,President,Carly Fiorina,Republican,Statewide,6
+Clinton,President,Carly Fiorina,Republican,Statewide,13
+Crawford,President,Carly Fiorina,Republican,Statewide,3
+Allen,President,Chris Christie,Republican,Statewide,96
+Bartholomew,President,Chris Christie,Republican,Statewide,30
+Boone,President,Chris Christie,Republican,Statewide,15
+Dearborn,President,Chris Christie,Republican,Statewide,17
+Elkhart,President,Chris Christie,Republican,Statewide,60
+Adams,President,Chris Christie,Republican,Statewide,11
+Carroll,President,Chris Christie,Republican,Statewide,18
+Clinton,President,Chris Christie,Republican,Statewide,17
+Crawford,President,Chris Christie,Republican,Statewide,9
+Daviess,President,Chris Christie,Republican,Statewide,17
+DeKalb,President,Chris Christie,Republican,Statewide,17
+Dubois,President,Chris Christie,Republican,Statewide,11
+Blackford,President,Chris Christie,Republican,Statewide,3
+Brown,President,Chris Christie,Republican,Statewide,6
+Cass,President,Chris Christie,Republican,Statewide,11
+Delaware,President,Chris Christie,Republican,Statewide,26
+Benton,President,Chris Christie,Republican,Statewide,7
+Clark,President,Chris Christie,Republican,Statewide,33
+Clay,President,Chris Christie,Republican,Statewide,8
+Decatur,President,Chris Christie,Republican,Statewide,9
+Clinton,President,Donald J. Trump,Republican,Statewide,3252
+Crawford,President,Donald J. Trump,Republican,Statewide,1162
+Elkhart,President,Donald J. Trump,Republican,Statewide,14467
+Allen,President,Donald J. Trump,Republican,Statewide,29495
+Bartholomew,President,Donald J. Trump,Republican,Statewide,7918
+Benton,President,Donald J. Trump,Republican,Statewide,1175
+Blackford,President,Donald J. Trump,Republican,Statewide,1019
+Clark,President,Donald J. Trump,Republican,Statewide,10639
+Adams,President,Donald J. Trump,Republican,Statewide,2458
+Boone,President,Donald J. Trump,Republican,Statewide,7023
+Clay,President,Donald J. Trump,Republican,Statewide,3615
+Dearborn,President,Donald J. Trump,Republican,Statewide,6618
+Decatur,President,Donald J. Trump,Republican,Statewide,3319
+DeKalb,President,Donald J. Trump,Republican,Statewide,4204
+Brown,President,Donald J. Trump,Republican,Statewide,2202
+Carroll,President,Donald J. Trump,Republican,Statewide,2423
+Cass,President,Donald J. Trump,Republican,Statewide,3941
+Daviess,President,Donald J. Trump,Republican,Statewide,3894
+Delaware,President,Donald J. Trump,Republican,Statewide,8795
+Dubois,President,Donald J. Trump,Republican,Statewide,4692
+Allen,President,Jeb Bush,Republican,Statewide,289
+Boone,President,Jeb Bush,Republican,Statewide,93
+Bartholomew,President,Jeb Bush,Republican,Statewide,141
+Blackford,President,Jeb Bush,Republican,Statewide,13
+Brown,President,Jeb Bush,Republican,Statewide,29
+Cass,President,Jeb Bush,Republican,Statewide,59
+Adams,President,Jeb Bush,Republican,Statewide,35
+Benton,President,Jeb Bush,Republican,Statewide,21
+Dearborn,President,Jeb Bush,Republican,Statewide,29
+DeKalb,President,Jeb Bush,Republican,Statewide,55
+Elkhart,President,Jeb Bush,Republican,Statewide,194
+Clark,President,Jeb Bush,Republican,Statewide,96
+Clay,President,Jeb Bush,Republican,Statewide,47
+Decatur,President,Jeb Bush,Republican,Statewide,41
+Delaware,President,Jeb Bush,Republican,Statewide,113
+Carroll,President,Jeb Bush,Republican,Statewide,31
+Clinton,President,Jeb Bush,Republican,Statewide,73
+Crawford,President,Jeb Bush,Republican,Statewide,22
+Daviess,President,Jeb Bush,Republican,Statewide,57
+Dubois,President,Jeb Bush,Republican,Statewide,45
+Allen,President,John R. Kasich,Republican,Statewide,4880
+Dubois,President,John R. Kasich,Republican,Statewide,651
+Bartholomew,President,John R. Kasich,Republican,Statewide,1451
+Blackford,President,John R. Kasich,Republican,Statewide,101
+Boone,President,John R. Kasich,Republican,Statewide,1728
+Carroll,President,John R. Kasich,Republican,Statewide,302
+Cass,President,John R. Kasich,Republican,Statewide,411
+Daviess,President,John R. Kasich,Republican,Statewide,393
+Decatur,President,John R. Kasich,Republican,Statewide,345
+DeKalb,President,John R. Kasich,Republican,Statewide,624
+Adams,President,John R. Kasich,Republican,Statewide,367
+Benton,President,John R. Kasich,Republican,Statewide,171
+Clark,President,John R. Kasich,Republican,Statewide,901
+Clay,President,John R. Kasich,Republican,Statewide,212
+Clinton,President,John R. Kasich,Republican,Statewide,474
+Crawford,President,John R. Kasich,Republican,Statewide,56
+Brown,President,John R. Kasich,Republican,Statewide,189
+Dearborn,President,John R. Kasich,Republican,Statewide,1086
+Delaware,President,John R. Kasich,Republican,Statewide,1255
+Elkhart,President,John R. Kasich,Republican,Statewide,2446
+Brown,President,Marco Rubio,Republican,Statewide,16
+Dearborn,President,Marco Rubio,Republican,Statewide,33
+Decatur,President,Marco Rubio,Republican,Statewide,27
+Delaware,President,Marco Rubio,Republican,Statewide,75
+Adams,President,Marco Rubio,Republican,Statewide,20
+Benton,President,Marco Rubio,Republican,Statewide,16
+Clark,President,Marco Rubio,Republican,Statewide,117
+Clay,President,Marco Rubio,Republican,Statewide,21
+Crawford,President,Marco Rubio,Republican,Statewide,12
+Allen,President,Marco Rubio,Republican,Statewide,327
+Bartholomew,President,Marco Rubio,Republican,Statewide,92
+Blackford,President,Marco Rubio,Republican,Statewide,6
+Boone,President,Marco Rubio,Republican,Statewide,82
+Carroll,President,Marco Rubio,Republican,Statewide,19
+Cass,President,Marco Rubio,Republican,Statewide,44
+Daviess,President,Marco Rubio,Republican,Statewide,34
+DeKalb,President,Marco Rubio,Republican,Statewide,37
+Elkhart,President,Marco Rubio,Republican,Statewide,165
+Clinton,President,Marco Rubio,Republican,Statewide,39
+Dubois,President,Marco Rubio,Republican,Statewide,37
+Boone,President,Rand Paul,Republican,Statewide,65
+Carroll,President,Rand Paul,Republican,Statewide,25
+Clay,President,Rand Paul,Republican,Statewide,17
+Crawford,President,Rand Paul,Republican,Statewide,16
+Daviess,President,Rand Paul,Republican,Statewide,22
+Blackford,President,Rand Paul,Republican,Statewide,8
+Brown,President,Rand Paul,Republican,Statewide,15
+Decatur,President,Rand Paul,Republican,Statewide,7
+DeKalb,President,Rand Paul,Republican,Statewide,27
+Delaware,President,Rand Paul,Republican,Statewide,55
+Dubois,President,Rand Paul,Republican,Statewide,27
+Adams,President,Rand Paul,Republican,Statewide,28
+Clinton,President,Rand Paul,Republican,Statewide,28
+Dearborn,President,Rand Paul,Republican,Statewide,54
+Elkhart,President,Rand Paul,Republican,Statewide,110
+Allen,President,Rand Paul,Republican,Statewide,239
+Bartholomew,President,Rand Paul,Republican,Statewide,94
+Benton,President,Rand Paul,Republican,Statewide,10
+Cass,President,Rand Paul,Republican,Statewide,24
+Clark,President,Rand Paul,Republican,Statewide,94
+Allen,President,Ted Cruz,Republican,Statewide,29994
+Benton,President,Ted Cruz,Republican,Statewide,720
+Carroll,President,Ted Cruz,Republican,Statewide,1737
+Crawford,President,Ted Cruz,Republican,Statewide,634
+Daviess,President,Ted Cruz,Republican,Statewide,1920
+Dubois,President,Ted Cruz,Republican,Statewide,2475
+Adams,President,Ted Cruz,Republican,Statewide,3851
+Clark,President,Ted Cruz,Republican,Statewide,5853
+Clay,President,Ted Cruz,Republican,Statewide,1788
+Clinton,President,Ted Cruz,Republican,Statewide,2637
+Blackford,President,Ted Cruz,Republican,Statewide,800
+Cass,President,Ted Cruz,Republican,Statewide,2362
+Dearborn,President,Ted Cruz,Republican,Statewide,2376
+DeKalb,President,Ted Cruz,Republican,Statewide,3748
+Elkhart,President,Ted Cruz,Republican,Statewide,16211
+Bartholomew,President,Ted Cruz,Republican,Statewide,6284
+Boone,President,Ted Cruz,Republican,Statewide,6223
+Brown,President,Ted Cruz,Republican,Statewide,1387
+Decatur,President,Ted Cruz,Republican,Statewide,2078
+Delaware,President,Ted Cruz,Republican,Statewide,6154
+Blackford,United States Senator,Baron Hill,Democratic,Statewide,796
+Cass,United States Senator,Baron Hill,Democratic,Statewide,2386
+Clark,United States Senator,Baron Hill,Democratic,Statewide,10149
+Delaware,United States Senator,Baron Hill,Democratic,Statewide,11370
+Benton,United States Senator,Baron Hill,Democratic,Statewide,350
+Brown,United States Senator,Baron Hill,Democratic,Statewide,1832
+Carroll,United States Senator,Baron Hill,Democratic,Statewide,943
+Daviess,United States Senator,Baron Hill,Democratic,Statewide,965
+Decatur,United States Senator,Baron Hill,Democratic,Statewide,1171
+Dubois,United States Senator,Baron Hill,Democratic,Statewide,4076
+Adams,United States Senator,Baron Hill,Democratic,Statewide,1683
+Clay,United States Senator,Baron Hill,Democratic,Statewide,1725
+Clinton,United States Senator,Baron Hill,Democratic,Statewide,1449
+Dearborn,United States Senator,Baron Hill,Democratic,Statewide,2207
+DeKalb,United States Senator,Baron Hill,Democratic,Statewide,2000
+Allen,United States Senator,Baron Hill,Democratic,Statewide,25298
+Bartholomew,United States Senator,Baron Hill,Democratic,Statewide,5216
+Boone,United States Senator,Baron Hill,Democratic,Statewide,3792
+Crawford,United States Senator,Baron Hill,Democratic,Statewide,1106
+Elkhart,United States Senator,Baron Hill,Democratic,Statewide,8563
+Decatur,United States Senator,Marlin A. Stutzman,Republican,Statewide,1138
+Delaware,United States Senator,Marlin A. Stutzman,Republican,Statewide,3404
+Dubois,United States Senator,Marlin A. Stutzman,Republican,Statewide,1543
+Bartholomew,United States Senator,Marlin A. Stutzman,Republican,Statewide,2794
+Benton,United States Senator,Marlin A. Stutzman,Republican,Statewide,459
+Blackford,United States Senator,Marlin A. Stutzman,Republican,Statewide,542
+Brown,United States Senator,Marlin A. Stutzman,Republican,Statewide,792
+Cass,United States Senator,Marlin A. Stutzman,Republican,Statewide,1638
+Clark,United States Senator,Marlin A. Stutzman,Republican,Statewide,3001
+Allen,United States Senator,Marlin A. Stutzman,Republican,Statewide,40862
+Boone,United States Senator,Marlin A. Stutzman,Republican,Statewide,3681
+Dearborn,United States Senator,Marlin A. Stutzman,Republican,Statewide,2225
+Elkhart,United States Senator,Marlin A. Stutzman,Republican,Statewide,17878
+Adams,United States Senator,Marlin A. Stutzman,Republican,Statewide,4641
+Carroll,United States Senator,Marlin A. Stutzman,Republican,Statewide,1081
+Clay,United States Senator,Marlin A. Stutzman,Republican,Statewide,1783
+Clinton,United States Senator,Marlin A. Stutzman,Republican,Statewide,1446
+Crawford,United States Senator,Marlin A. Stutzman,Republican,Statewide,414
+Daviess,United States Senator,Marlin A. Stutzman,Republican,Statewide,2264
+DeKalb,United States Senator,Marlin A. Stutzman,Republican,Statewide,5586
+Blackford,United States Senator,Todd Young,Republican,Statewide,1220
+Brown,United States Senator,Todd Young,Republican,Statewide,2898
+Dearborn,United States Senator,Todd Young,Republican,Statewide,6041
+Decatur,United States Senator,Todd Young,Republican,Statewide,4282
+Delaware,United States Senator,Todd Young,Republican,Statewide,11058
+Elkhart,United States Senator,Todd Young,Republican,Statewide,13032
+Benton,United States Senator,Todd Young,Republican,Statewide,1497
+Clark,United States Senator,Todd Young,Republican,Statewide,13555
+Clay,United States Senator,Todd Young,Republican,Statewide,3266
+Crawford,United States Senator,Todd Young,Republican,Statewide,1395
+Adams,United States Senator,Todd Young,Republican,Statewide,1700
+Clinton,United States Senator,Todd Young,Republican,Statewide,4534
+Dubois,United States Senator,Todd Young,Republican,Statewide,5362
+Allen,United States Senator,Todd Young,Republican,Statewide,19596
+Bartholomew,United States Senator,Todd Young,Republican,Statewide,12043
+Boone,United States Senator,Todd Young,Republican,Statewide,10236
+Carroll,United States Senator,Todd Young,Republican,Statewide,3206
+Cass,United States Senator,Todd Young,Republican,Statewide,4817
+Daviess,United States Senator,Todd Young,Republican,Statewide,3137
+DeKalb,United States Senator,Todd Young,Republican,Statewide,2737
+Adams,Governor,John R. Gregg,Democratic,Statewide,1786
+Clark,Governor,John R. Gregg,Democratic,Statewide,9454
+Clinton,Governor,John R. Gregg,Democratic,Statewide,1518
+Delaware,Governor,John R. Gregg,Democratic,Statewide,11925
+Blackford,Governor,John R. Gregg,Democratic,Statewide,869
+Boone,Governor,John R. Gregg,Democratic,Statewide,4029
+Dearborn,Governor,John R. Gregg,Democratic,Statewide,2103
+Elkhart,Governor,John R. Gregg,Democratic,Statewide,9150
+Allen,Governor,John R. Gregg,Democratic,Statewide,26867
+Carroll,Governor,John R. Gregg,Democratic,Statewide,1027
+Clay,Governor,John R. Gregg,Democratic,Statewide,1832
+Crawford,Governor,John R. Gregg,Democratic,Statewide,1058
+Daviess,Governor,John R. Gregg,Democratic,Statewide,1129
+DeKalb,Governor,John R. Gregg,Democratic,Statewide,2117
+Dubois,Governor,John R. Gregg,Democratic,Statewide,4015
+Bartholomew,Governor,John R. Gregg,Democratic,Statewide,5173
+Benton,Governor,John R. Gregg,Democratic,Statewide,379
+Brown,Governor,John R. Gregg,Democratic,Statewide,1798
+Cass,Governor,John R. Gregg,Democratic,Statewide,2518
+Decatur,Governor,John R. Gregg,Democratic,Statewide,1175
+Blackford,Governor,Michael R. Pence,Republican,Statewide,1470
+Brown,Governor,Michael R. Pence,Republican,Statewide,3050
+Dearborn,Governor,Michael R. Pence,Republican,Statewide,7837
+Decatur,Governor,Michael R. Pence,Republican,Statewide,4518
+Delaware,Governor,Michael R. Pence,Republican,Statewide,12174
+Elkhart,Governor,Michael R. Pence,Republican,Statewide,26850
+Adams,Governor,Michael R. Pence,Republican,Statewide,5371
+Clinton,Governor,Michael R. Pence,Republican,Statewide,4847
+DeKalb,Governor,Michael R. Pence,Republican,Statewide,6609
+Dubois,Governor,Michael R. Pence,Republican,Statewide,5967
+Allen,Governor,Michael R. Pence,Republican,Statewide,49422
+Bartholomew,Governor,Michael R. Pence,Republican,Statewide,12740
+Boone,Governor,Michael R. Pence,Republican,Statewide,11223
+Carroll,Governor,Michael R. Pence,Republican,Statewide,3605
+Cass,Governor,Michael R. Pence,Republican,Statewide,5437
+Daviess,Governor,Michael R. Pence,Republican,Statewide,4401
+Benton,Governor,Michael R. Pence,Republican,Statewide,1559
+Clark,Governor,Michael R. Pence,Republican,Statewide,14203
+Clay,Governor,Michael R. Pence,Republican,Statewide,4161
+Crawford,Governor,Michael R. Pence,Republican,Statewide,1436
+Elkhart,United States Representative,Douglas Carpenter,Democratic,District 2,2875
+Elkhart,United States Representative,Lynn C. Coleman,Democratic,District 2,6175
+Elkhart,United States Representative,Jackie Walorski,Republican,District 2,23595
+Elkhart,United States Representative,Jeff Petermann,Republican,District 2,8762
+Blackford,United States Representative,John Forrest Roberson,Democratic,District 3,53
+DeKalb,United States Representative,John Forrest Roberson,Democratic,District 3,615
+Adams,United States Representative,John Forrest Roberson,Democratic,District 3,501
+Allen,United States Representative,John Forrest Roberson,Democratic,District 3,7567
+Allen,United States Representative,Todd Nightenhelser,Democratic,District 3,7866
+Blackford,United States Representative,Todd Nightenhelser,Democratic,District 3,25
+Adams,United States Representative,Todd Nightenhelser,Democratic,District 3,474
+DeKalb,United States Representative,Todd Nightenhelser,Democratic,District 3,647
+Adams,United States Representative,Tommy A. Schrader,Democratic,District 3,739
+DeKalb,United States Representative,Tommy A. Schrader,Democratic,District 3,762
+Blackford,United States Representative,Tommy A. Schrader,Democratic,District 3,109
+Allen,United States Representative,Tommy A. Schrader,Democratic,District 3,8981
+Allen,United States Representative,Elizabeth "Liz" Brown,Republican,District 3,21678
+Blackford,United States Representative,Elizabeth "Liz" Brown,Republican,District 3,110
+DeKalb,United States Representative,Elizabeth "Liz" Brown,Republican,District 3,1688
+Adams,United States Representative,Elizabeth "Liz" Brown,Republican,District 3,1492
+Adams,United States Representative,Jim Banks,Republican,District 3,2379
+DeKalb,United States Representative,Jim Banks,Republican,District 3,2597
+Allen,United States Representative,Jim Banks,Republican,District 3,19960
+Blackford,United States Representative,Jim Banks,Republican,District 3,103
+Blackford,United States Representative,Kevin Howell,Republican,District 3,26
+Allen,United States Representative,Kevin Howell,Republican,District 3,870
+Adams,United States Representative,Kevin Howell,Republican,District 3,101
+DeKalb,United States Representative,Kevin Howell,Republican,District 3,140
+DeKalb,United States Representative,Kip Tom,Republican,District 3,2946
+Adams,United States Representative,Kip Tom,Republican,District 3,1898
+Allen,United States Representative,Kip Tom,Republican,District 3,16253
+Blackford,United States Representative,Kip Tom,Republican,District 3,80
+Blackford,United States Representative,Mark Willard Baringer,Republican,District 3,14
+DeKalb,United States Representative,Mark Willard Baringer,Republican,District 3,80
+Allen,United States Representative,Mark Willard Baringer,Republican,District 3,548
+Adams,United States Representative,Mark Willard Baringer,Republican,District 3,52
+Allen,United States Representative,Pam Galloway,Republican,District 3,2956
+Blackford,United States Representative,Pam Galloway,Republican,District 3,48
+DeKalb,United States Representative,Pam Galloway,Republican,District 3,798
+Adams,United States Representative,Pam Galloway,Republican,District 3,493
+Boone,United States Representative,John Dale,Democratic,District 4,1520
+Cass,United States Representative,John Dale,Democratic,District 4,2405
+Carroll,United States Representative,John Dale,Democratic,District 4,958
+Benton,United States Representative,John Dale,Democratic,District 4,351
+Clinton,United States Representative,John Dale,Democratic,District 4,1397
+Benton,United States Representative,Kevin J. Grant,Republican,District 4,684
+Cass,United States Representative,Kevin J. Grant,Republican,District 4,2250
+Boone,United States Representative,Kevin J. Grant,Republican,District 4,1849
+Carroll,United States Representative,Kevin J. Grant,Republican,District 4,1411
+Clinton,United States Representative,Kevin J. Grant,Republican,District 4,1693
+Boone,United States Representative,Todd Rokita,Republican,District 4,4741
+Clinton,United States Representative,Todd Rokita,Republican,District 4,4124
+Carroll,United States Representative,Todd Rokita,Republican,District 4,2817
+Cass,United States Representative,Todd Rokita,Republican,District 4,4066
+Benton,United States Representative,Todd Rokita,Republican,District 4,1268
+Blackford,United States Representative,Allen R. Davidson,Democratic,District 5,284
+Boone,United States Representative,Allen R. Davidson,Democratic,District 5,451
+Boone,United States Representative,Angela Demaree,Democratic,District 5,1698
+Blackford,United States Representative,Angela Demaree,Democratic,District 5,380
+Blackford,United States Representative,Mike Campbell,Republican,District 5,264
+Boone,United States Representative,Mike Campbell,Republican,District 5,886
+Blackford,United States Representative,Stephen M. MacKenzie,Republican,District 5,162
+Boone,United States Representative,Stephen M. MacKenzie,Republican,District 5,655
+Blackford,United States Representative,Susan W. Brooks,Republican,District 5,769
+Boone,United States Representative,Susan W. Brooks,Republican,District 5,5204
+Decatur,United States Representative,Barry Welsh,Democratic,District 6,520
+Delaware,United States Representative,Barry Welsh,Democratic,District 6,3769
+Bartholomew,United States Representative,Barry Welsh,Democratic,District 6,1619
+Dearborn,United States Representative,Barry Welsh,Democratic,District 6,531
+Bartholomew,United States Representative,Bruce W. Peavler,Democratic,District 6,482
+Dearborn,United States Representative,Bruce W. Peavler,Democratic,District 6,214
+Decatur,United States Representative,Bruce W. Peavler,Democratic,District 6,88
+Delaware,United States Representative,Bruce W. Peavler,Democratic,District 6,1557
+Bartholomew,United States Representative,Danny Basham,Democratic,District 6,877
+Decatur,United States Representative,Danny Basham,Democratic,District 6,181
+Dearborn,United States Representative,Danny Basham,Democratic,District 6,551
+Delaware,United States Representative,Danny Basham,Democratic,District 6,3049
+Decatur,United States Representative,George Thomas Holland,Democratic,District 6,266
+Delaware,United States Representative,George Thomas Holland,Democratic,District 6,1716
+Bartholomew,United States Representative,George Thomas Holland,Democratic,District 6,1171
+Dearborn,United States Representative,George Thomas Holland,Democratic,District 6,494
+Dearborn,United States Representative,Ralph Spelbring,Democratic,District 6,209
+Bartholomew,United States Representative,Ralph Spelbring,Democratic,District 6,354
+Decatur,United States Representative,Ralph Spelbring,Democratic,District 6,101
+Delaware,United States Representative,Ralph Spelbring,Democratic,District 6,753
+Bartholomew,United States Representative,Charles Chuck Johnson Jr.,Republican,District 6,1247
+Decatur,United States Representative,Charles Chuck Johnson Jr.,Republican,District 6,249
+Delaware,United States Representative,Charles Chuck Johnson Jr.,Republican,District 6,1417
+Dearborn,United States Representative,Charles Chuck Johnson Jr.,Republican,District 6,1421
+Dearborn,United States Representative,Jeff Smith,Republican,District 6,872
+Bartholomew,United States Representative,Jeff Smith,Republican,District 6,1967
+Decatur,United States Representative,Jeff Smith,Republican,District 6,405
+Delaware,United States Representative,Jeff Smith,Republican,District 6,1663
+Dearborn,United States Representative,Luke Messer,Republican,District 6,6364
+Bartholomew,United States Representative,Luke Messer,Republican,District 6,10727
+Decatur,United States Representative,Luke Messer,Republican,District 6,4610
+Delaware,United States Representative,Luke Messer,Republican,District 6,10774
+Clay,United States Representative,David Orentlicher,Democratic,District 8,857
+Crawford,United States Representative,David Orentlicher,Democratic,District 8,54
+Daviess,United States Representative,David Orentlicher,Democratic,District 8,464
+Dubois,United States Representative,David Orentlicher,Democratic,District 8,1997
+Daviess,United States Representative,Ron Drake,Democratic,District 8,594
+Dubois,United States Representative,Ron Drake,Democratic,District 8,1915
+Clay,United States Representative,Ron Drake,Democratic,District 8,931
+Crawford,United States Representative,Ron Drake,Democratic,District 8,56
+Clay,United States Representative,Larry D. Bucshon,Republican,District 8,3224
+Daviess,United States Representative,Larry D. Bucshon,Republican,District 8,3286
+Dubois,United States Representative,Larry D. Bucshon,Republican,District 8,3986
+Crawford,United States Representative,Larry D. Bucshon,Republican,District 8,100
+Clay,United States Representative,Richard Moss,Republican,District 8,1781
+Crawford,United States Representative,Richard Moss,Republican,District 8,138
+Daviess,United States Representative,Richard Moss,Republican,District 8,2486
+Dubois,United States Representative,Richard Moss,Republican,District 8,3379
+Brown,United States Representative,Bill Thomas,Democratic,District 9,110
+Clark,United States Representative,Bill Thomas,Democratic,District 9,914
+Crawford,United States Representative,Bill Thomas,Democratic,District 9,85
+Crawford,United States Representative,Bob Kern,Democratic,District 9,90
+Clark,United States Representative,Bob Kern,Democratic,District 9,1122
+Brown,United States Representative,Bob Kern,Democratic,District 9,212
+Crawford,United States Representative,James R. McClure Jr.,Democratic,District 9,111
+Clark,United States Representative,James R. McClure Jr.,Democratic,District 9,1326
+Brown,United States Representative,James R. McClure Jr.,Democratic,District 9,130
+Brown,United States Representative,Shelli Yoder,Democratic,District 9,1403
+Crawford,United States Representative,Shelli Yoder,Democratic,District 9,730
+Clark,United States Representative,Shelli Yoder,Democratic,District 9,6686
+Brown,United States Representative,Brent Waltz,Republican,District 9,468
+Crawford,United States Representative,Brent Waltz,Republican,District 9,76
+Clark,United States Representative,Brent Waltz,Republican,District 9,1463
+Crawford,United States Representative,Erin Houchin,Republican,District 9,724
+Brown,United States Representative,Erin Houchin,Republican,District 9,810
+Clark,United States Representative,Erin Houchin,Republican,District 9,3726
+Brown,United States Representative,Greg Zoeller,Republican,District 9,909
+Crawford,United States Representative,Greg Zoeller,Republican,District 9,171
+Clark,United States Representative,Greg Zoeller,Republican,District 9,3890
+Crawford,United States Representative,Robert Hall,Republican,District 9,62
+Brown,United States Representative,Robert Hall,Republican,District 9,258
+Clark,United States Representative,Robert Hall,Republican,District 9,1014
+Clark,United States Representative,Trey Hollingsworth,Republican,District 9,5969
+Crawford,United States Representative,Trey Hollingsworth,Republican,District 9,443
+Brown,United States Representative,Trey Hollingsworth,Republican,District 9,1139
+Carroll,State Senator,Brandt Hershman,Republican,District 7,2509
+Boone,State Senator,Brandt Hershman,Republican,District 7,2187
+Clinton,State Senator,Brandt Hershman,Republican,District 7,4716
+Elkhart,State Senator,Ryan Mishler,Republican,District 9,3798
+Elkhart,State Senator,Blake Doriot,Republican,District 12,11138
+Elkhart,State Senator,Joanna King,Republican,District 12,8301
+DeKalb,State Senator,Justin Kuhnle,Democratic,District 13,648
+DeKalb,State Senator,C. Susan Glick,Republican,District 13,1769
+Allen,State Senator,David C. Long,Republican,District 16,16186
+Allen,State Senator,John Kessler,Republican,District 16,6005
+Cass,State Senator,Randall Head,Republican,District 18,6003
+Carroll,State Senator,Randall Head,Republican,District 18,1294
+Decatur,State Senator,Randy Howard,Democratic,District 42,72
+Decatur,State Senator,Jean Leising,Republican,District 42,463
+Bartholomew,State Senator,Linda Kay Henderson,Democratic,District 44,1492
+Brown,State Senator,Linda Kay Henderson,Democratic,District 44,1767
+Brown,State Senator,Eric A. Koch,Republican,District 44,2440
+Bartholomew,State Senator,Eric A. Koch,Republican,District 44,2889
+Bartholomew,State Senator,Josh Anderson,Republican,District 44,1539
+Brown,State Senator,Josh Anderson,Republican,District 44,1095
+Benton,State Representative,Mike Childress,Democratic,District 13,297
+Benton,State Representative,Sharon Negele,Republican,District 13,1773
+Elkhart,State Representative,Jodi Buoscio,Democratic,District 21,2202
+Elkhart,State Representative,Timothy Wesco,Republican,District 21,5749
+Elkhart,State Representative,Brian J. Smith,Democratic,District 22,346
+Elkhart,State Representative,Curt Nisly,Republican,District 22,2513
+Cass,State Representative,Rose G. Ryan,Democratic,District 23,1770
+Cass,State Representative,William C. Friend,Republican,District 23,3832
+Boone,State Representative,Donna Schaibley,Republican,District 24,3289
+Boone,State Representative,Greg Fettig,Republican,District 24,2835
+Carroll,State Representative,Justin Notoras,Democratic,District 25,238
+Clinton,State Representative,Justin Notoras,Democratic,District 25,126
+Cass,State Representative,Justin Notoras,Democratic,District 25,135
+Carroll,State Representative,Maurice O. Fuller,Democratic,District 25,371
+Cass,State Representative,Maurice O. Fuller,Democratic,District 25,141
+Clinton,State Representative,Maurice O. Fuller,Democratic,District 25,200
+Carroll,State Representative,Donald J. Lehe,Republican,District 25,2117
+Clinton,State Representative,Donald J. Lehe,Republican,District 25,1081
+Cass,State Representative,Donald J. Lehe,Republican,District 25,904
+Boone,State Representative,Jeffrey A. Thompson,Republican,District 28,425
+Boone,State Representative,Luke G Stephenson,Republican,District 28,225
+Blackford,State Representative,Kevin A. Mahan,Republican,District 31,1598
+Delaware,State Representative,Kevin A. Mahan,Republican,District 31,1093
+Delaware,State Representative,Ryan Scott Davis,Democratic,District 32,197
+Delaware,State Representative,Anthony J. ("Tony") Cook,Republican,District 32,280
+Blackford,State Representative,Greg Beumer,Republican,District 33,5
+Delaware,State Representative,Greg Beumer,Republican,District 33,2597
+Delaware,State Representative,Sue E Errington,Democratic,District 34,6830
+Delaware,State Representative,Joseph (Joe) Shank,Republican,District 34,3751
+Delaware,State Representative,Melanie Wright,Democratic,District 35,2775
+Carroll,State Representative,Heath VanNatter,Republican,District 38,1674
+Cass,State Representative,Heath VanNatter,Republican,District 38,1056
+Clinton,State Representative,Heath VanNatter,Republican,District 38,4137
+Boone,State Representative,Howard Joseph Pollchik,Democratic,District 41,1331
+Boone,State Representative,Tim Brown,Republican,District 41,5205
+Clay,State Representative,Timothy D. (Tim) Skinner,Democratic,District 42,1004
+Clay,State Representative,Alan   Morrison,Republican,District 42,2158
+Clay,State Representative,Kimberly Anne Fidler,Democratic,District 44,375
+Clay,State Representative,James (Jim) Baird,Republican,District 44,1155
+Daviess,State Representative,Bruce Borders,Republican,District 45,225
+Clay,State Representative,Bill Breeden,Democratic,District 46,407
+Clay,State Representative,Bob Heaton,Republican,District 46,1344
+Elkhart,State Representative,James V Barnes,Democratic,District 48,2968
+Elkhart,State Representative,Doug Miller,Republican,District 48,8810
+Elkhart,State Representative,Wes Culver,Republican,District 49,9406
+Allen,State Representative,Jorge Fernandez,Democratic,District 50,1574
+Allen,State Representative,Daniel J. (Dan) Leonard,Republican,District 50,1416
+Allen,State Representative,Ted Harber,Republican,District 50,1655
+DeKalb,State Representative,Charlie Odier,Democratic,District 52,1978
+Allen,State Representative,Charlie Odier,Democratic,District 52,1105
+Allen,State Representative,Ben Smaltz,Republican,District 52,4160
+DeKalb,State Representative,Ben Smaltz,Republican,District 52,6809
+Decatur,State Representative,Mimi Pruett,Democratic,District 55,879
+Decatur,State Representative,Cindy Meyer Ziemke,Republican,District 55,3314
+Bartholomew,State Representative,Sean R. Eberhart,Republican,District 57,2154
+Bartholomew,State Representative,Dale Nowlin,Democratic,District 59,2118
+Bartholomew,State Representative,Robert M. (Bob) Pitman,Democratic,District 59,2472
+Bartholomew,State Representative,Lew Wilson,Republican,District 59,1746
+Bartholomew,State Representative,Milo Smith,Republican,District 59,5883
+Bartholomew,State Representative,Ryan Lauer,Republican,District 59,4825
+Daviess,State Representative,Steve Lindsey,Democratic,District 62,109
+Daviess,State Representative,Jeff Ellington,Republican,District 62,425
+Daviess,State Representative,Sawyer Sparks,Republican,District 62,307
+Daviess,State Representative,Mike Braun,Republican,District 63,3851
+Dubois,State Representative,Mike Braun,Republican,District 63,4221
+Brown,State Representative,Chris Woods,Democratic,District 65,1746
+Brown,State Representative,Chris D. May,Republican,District 65,477
+Brown,State Representative,Darren Byrd,Republican,District 65,459
+Brown,State Representative,Franklin Andrew,Republican,District 65,361
+Brown,State Representative,Jacob Franklin,Republican,District 65,350
+Brown,State Representative,Jim Pfaff,Republican,District 65,928
+Brown,State Representative,Mark Mathis,Republican,District 65,541
+Clark,State Representative,Terry Goodin,Democratic,District 66,1595
+Clark,State Representative,Joe Van Wye,Republican,District 66,2390
+Dearborn,State Representative,Randy Frye,Republican,District 67,1482
+Decatur,State Representative,Randy Frye,Republican,District 67,1455
+Dearborn,State Representative,Randy Lyness,Republican,District 68,6391
+Bartholomew,State Representative,Jim Lucas,Republican,District 69,148
+Bartholomew,State Representative,Nancy L. Franke,Republican,District 69,96
+Clark,State Representative,Heidi Cade Sellers,Democratic,District 70,1514
+Clark,State Representative,Karen Engleman,Republican,District 70,2763
+Clark,State Representative,Steven R. Stemler,Democratic,District 71,6452
+Clark,State Representative,Douglas Leatherbury,Democratic,District 73,453
+Clark,State Representative,Michael A Harkness,Republican,District 73,319
+Clark,State Representative,Steven Davisson,Republican,District 73,737
+Crawford,State Representative,Larry K. Kleeman,Democratic,District 74,944
+Dubois,State Representative,Larry K. Kleeman,Democratic,District 74,1490
+Crawford,State Representative,Lloyd Arnold,Republican,District 74,1482
+Dubois,State Representative,Lloyd Arnold,Republican,District 74,2228
+Allen,State Representative,Matthew S. Lehman,Republican,District 79,2066
+Adams,State Representative,Matthew S. Lehman,Republican,District 79,5804
+Allen,State Representative,Phil GiaQuinta,Democratic,District 80,5329
+Allen,State Representative,Christian Skordos,Republican,District 80,2274
+Allen,State Representative,Martin Carbaugh,Republican,District 81,7752
+Elkhart,State Representative,Mike Wilber,Democratic,District 82,50
+Allen,State Representative,Mike Wilber,Democratic,District 82,264
+Elkhart,State Representative,David L. Ober,Republican,District 82,513
+Allen,State Representative,David L. Ober,Republican,District 82,1232
+Allen,State Representative,Christopher N. Judy,Republican,District 83,8801
+Allen,State Representative,Curtis Nash,Democratic,District 84,2579
+Allen,State Representative,Donald "Donny" Manco,Democratic,District 84,2178
+Allen,State Representative,Bob Morris,Republican,District 84,12275
+Allen,State Representative,Casey Cox,Republican,District 85,4218
+Allen,State Representative,Dave Heine,Republican,District 85,7849
+Allen,State Representative,Denny Worman,Republican,District 85,1162
+Bartholomew,Judge of the Circuit Court,Kelly S. Benjamin,Republican,Bartholomew (9th Circuit),8181
+Bartholomew,Judge of the Circuit Court,Scott Andrews,Republican,Bartholomew (9th Circuit),6904
+Crawford,Judge of the Circuit Court,Stanley O. Faith,Democratic,Crawford (77th Circuit),440
+Crawford,Judge of the Circuit Court,Stanley V. Pennington,Democratic,Crawford (77th Circuit),913
+Crawford,Judge of the Circuit Court,Justin B. Mills,Republican,Crawford (77th Circuit),936
+Crawford,Judge of the Circuit Court,Sabrina R. Bell,Republican,Crawford (77th Circuit),949
+Dearborn,Judge of the Circuit Court,James D. Humphrey,Republican,Dearborn/Ohio (7th Cir.),7956
+Blackford,Judge of the Superior Court,Nick Barry,Republican,Blackford County,1571
+DeKalb,Judge of the Circuit Court,Kevin L. Likes,Republican,DeKalb (75th Circuit),3228
+DeKalb,Judge of the Circuit Court,Kurt Grimm,Republican,DeKalb (75th Circuit),5293
+Delaware,Judge of the Circuit Court,Marianne Lafferty Vorhees,Democratic,Delaware Ct. 1(46th Cir.),11870
+Cass,Judge of the Superior Court,James K. (Jim) Muehlhausen,Republican,"Cass County, Court 1",6051
+Elkhart,Judge of the Circuit Court,Bodie J. Stegelmann,Republican,Elkhart (34th Circuit),4493
+Elkhart,Judge of the Circuit Court,Christopher J. Spataro,Republican,Elkhart (34th Circuit),10351
+Elkhart,Judge of the Circuit Court,Martin (Marty) McCloskey,Republican,Elkhart (34th Circuit),5087
+Elkhart,Judge of the Circuit Court,Michael A. Christofeno,Republican,Elkhart (34th Circuit),11071

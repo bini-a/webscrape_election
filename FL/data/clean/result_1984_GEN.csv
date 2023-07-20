@@ -1,0 +1,23 @@
+"election_id","office_id","candidate_id","candidate","party","votes","vote_share","winner"
+"FL_1984-11-06_GEN","PD_18_000",NA,"J. Russo","REP",143497,0.721,1
+"FL_1984-11-06_GEN","PD_18_000",NA,"Leon Watts","DEM",55650,0.279,0
+"FL_1984-11-06_GEN","SA_10_000",NA,"Jerry Hill","DEM",81336,0.594,1
+"FL_1984-11-06_GEN","SA_10_000",NA,"Ray Mattox","REP",55588,0.406,0
+"FL_1984-11-06_GEN","SA_11_000",NA,"Janet Reno","DEM",347892,0.672,1
+"FL_1984-11-06_GEN","SA_11_000",NA,"Jose Garcia-Pedrosa","NON",169919,0.328,0
+"FL_1984-11-06_GEN","SA_13_000",NA,"Bill James","REP",129025,0.545,1
+"FL_1984-11-06_GEN","SA_13_000",NA,"E. Salcines","DEM",107624,0.455,0
+"FL_1984-11-06_GEN","SA_18_000",NA,"Douglas Cheshire, Jr.","DEM",76787,0.377,0
+"FL_1984-11-06_GEN","SA_18_000",NA,"Norm Wolfinger","REP",127028,0.623,1
+"FL_1984-11-06_GEN","SA_4_000",NA,"Ed Austin","DEM",142398,0.787,1
+"FL_1984-11-06_GEN","SA_4_000",NA,"M. 'Mo' Atwater Jr.","REP",38545,0.213,0
+"FL_1984-11-06_GEN","SA_5_000",NA,"Gordon Oldham, Jr.","DEM",72587,0.46,0
+"FL_1984-11-06_GEN","SA_5_000",NA,"Ray Gill","REP",85200,0.54,1
+"FL_1984-11-06_GEN","TC2_11_6",NA,"Amy Donner","NON",273606,0.601,1
+"FL_1984-11-06_GEN","TC2_11_6",NA,"Fran Farina","NON",181405,0.399,0
+"FL_1984-11-06_GEN","TC2_11_7",NA,"Fred Dellapa","NON",177376,0.461,0
+"FL_1984-11-06_GEN","TC2_11_7",NA,"Mary MacKenzie","NON",207220,0.539,1
+"FL_1984-11-06_GEN","TC2_4_7",NA,"Bill Parsons","NON",96121,0.528,1
+"FL_1984-11-06_GEN","TC2_4_7",NA,"Michael Weatherby","NON",85788,0.472,0
+"FL_1984-11-06_GEN","TC2_7_2",NA,"J. FcFadden","NON",43011,0.379,0
+"FL_1984-11-06_GEN","TC2_7_2",NA,"William 'Bill' Johnson, Jr.","NON",70469,0.621,1
