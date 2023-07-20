@@ -22,7 +22,7 @@ library(data.table)
 # Clean-up work space
 rm(list = ls())
 
-source("aj_functions.R")
+source("functions.R")
 # clean folders if existing
 clean_slate("FL/data/raw")  # local temp folder to store downloaded data using rselenium
 clean_slate("FL/data/clean") # folder to save all cleaned data

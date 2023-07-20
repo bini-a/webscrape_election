@@ -17,7 +17,7 @@ library(data.table)
 # Clean-up work space
 rm(list = ls())
 
-source("aj_functions.R")
+source("functions.R")
 source("IN/code/use_browser.R")
 source("IN/code/wrangle_data.R")
 
